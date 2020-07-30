@@ -1,0 +1,6 @@
+{
+    "name": "mj-dymalla/iso3166-library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
