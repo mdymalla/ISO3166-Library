@@ -1,0 +1,131 @@
+{
+    "name": "South Korea",
+    "alpha-2": "KR",
+    "alpha-3": "KOR",
+    "country-code": "410",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "KR-11",
+            "name": "Seoul Teugbyeolsi",
+            "division": "capital metropolitan city",
+            "parent": "KR",
+            "lat": 37.566535,
+            "lng": 126.97796919999996
+        },
+        {
+            "code": "KR-26",
+            "name": "Busan Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 35.1795543,
+            "lng": 129.07564160000004
+        },
+        {
+            "code": "KR-27",
+            "name": "Daegu Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 35.8714354,
+            "lng": 128.601445
+        },
+        {
+            "code": "KR-30",
+            "name": "Daejeon Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 36.3504119,
+            "lng": 127.38454750000005
+        },
+        {
+            "code": "KR-29",
+            "name": "Gwangju Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 35.1595454,
+            "lng": 126.85260119999998
+        },
+        {
+            "code": "KR-28",
+            "name": "Incheon Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 37.4562557,
+            "lng": 126.70520620000002
+        },
+        {
+            "code": "KR-31",
+            "name": "Ulsan Gwang'yeogsi",
+            "division": "metropolitan cities",
+            "parent": "KR",
+            "lat": 35.5383773,
+            "lng": 129.31135960000006
+        },
+        {
+            "code": "KR-43",
+            "name": "Chungcheongbukdo",
+            "division": "province",
+            "parent": "KR",
+            "lat": 36.8,
+            "lng": 127.70000000000005
+        },
+        {
+            "code": "KR-44",
+            "name": "Chungcheongnamdo",
+            "division": "province",
+            "parent": "KR",
+            "lat": 36.5184,
+            "lng": 126.79999999999995
+        },
+        {
+            "code": "KR-42",
+            "name": "Gang'weondo",
+            "division": "province",
+            "parent": "KR"
+        },
+        {
+            "code": "KR-41",
+            "name": "Gyeonggido",
+            "division": "province",
+            "parent": "KR",
+            "lat": 44.4957481,
+            "lng": 11.294686800000022
+        },
+        {
+            "code": "KR-47",
+            "name": "Gyeongsangbukdo",
+            "division": "province",
+            "parent": "KR",
+            "lat": 36.4919,
+            "lng": 128.88890000000004
+        },
+        {
+            "code": "KR-48",
+            "name": "Gyeongsangnamdo",
+            "division": "province",
+            "parent": "KR",
+            "lat": 35.4606,
+            "lng": 128.21320000000003
+        },
+        {
+            "code": "KR-49",
+            "name": "Jejudo",
+            "division": "province",
+            "parent": "KR"
+        },
+        {
+            "code": "KR-45",
+            "name": "Jeonrabukdo",
+            "division": "province",
+            "parent": "KR"
+        },
+        {
+            "code": "KR-46",
+            "name": "Jeonranamdo",
+            "division": "province",
+            "parent": "KR",
+            "lat": 34.8679,
+            "lng": 126.99099999999999
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "St. Vincent & Grenadines",
+    "alpha-2": "VC",
+    "alpha-3": "VCT",
+    "country-code": "670",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "VC-01",
+            "name": "Charlotte",
+            "division": "parish",
+            "parent": "VC",
+            "lat": 10.6560848,
+            "lng": -61.50791620000001
+        },
+        {
+            "code": "VC-06",
+            "name": "Grenadines",
+            "division": "parish",
+            "parent": "VC"
+        },
+        {
+            "code": "VC-02",
+            "name": "Saint Andrew",
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        {
+            "code": "VC-03",
+            "name": "Saint David",
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.3804823,
+            "lng": -6.219046599999956
+        },
+        {
+            "code": "VC-04",
+            "name": "Saint George",
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.7577846,
+            "lng": -2.685843900000009
+        },
+        {
+            "code": "VC-05",
+            "name": "Saint Patrick",
+            "division": "parish",
+            "parent": "VC",
+            "lat": 52.5121349,
+            "lng": -8.274111400000038
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Equatorial Guinea",
+    "alpha-2": "GQ",
+    "alpha-3": "GNQ",
+    "country-code": "226",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "GQ-C",
+            "name": "Regi\u00f3n Continental",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-I",
+            "name": "Regi\u00f3n Insular",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-AN",
+            "name": "Annob\u00f3n",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-BN",
+            "name": "Bioko Norte",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-BS",
+            "name": "Bioko Sur",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-CS",
+            "name": "Centro Sur",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-KN",
+            "name": "Ki\u00e9-Ntem",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-LI",
+            "name": "Litoral",
+            "division": "province",
+            "parent": "GQ"
+        },
+        {
+            "code": "GQ-WN",
+            "name": "Wele-Nz\u00e1s",
+            "division": "province",
+            "parent": "GQ"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Barbados",
+    "alpha-2": "BB",
+    "alpha-3": "BRB",
+    "country-code": "052",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "BB-01",
+            "name": "Christ Church",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.0653071,
+            "lng": -59.53826090000001
+        },
+        {
+            "code": "BB-02",
+            "name": "Saint Andrew",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        {
+            "code": "BB-03",
+            "name": "Saint George",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.130602,
+            "lng": -59.5639175
+        },
+        {
+            "code": "BB-04",
+            "name": "Saint James",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1461643,
+            "lng": -59.637168599999995
+        },
+        {
+            "code": "BB-05",
+            "name": "Saint John",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1848385,
+            "lng": -59.498380399999974
+        },
+        {
+            "code": "BB-06",
+            "name": "Saint Joseph",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2014732,
+            "lng": -59.539123200000006
+        },
+        {
+            "code": "BB-07",
+            "name": "Saint Lucy",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2923044,
+            "lng": -59.62329629999999
+        },
+        {
+            "code": "BB-08",
+            "name": "Saint Michael",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.0975883,
+            "lng": -59.61217579999999
+        },
+        {
+            "code": "BB-09",
+            "name": "Saint Peter",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2510364,
+            "lng": -59.6437669
+        },
+        {
+            "code": "BB-10",
+            "name": "Saint Philip",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1170007,
+            "lng": -59.47554450000001
+        },
+        {
+            "code": "BB-11",
+            "name": "Saint Thomas",
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.185877,
+            "lng": -59.612885000000006
+        }
+    ]
+}

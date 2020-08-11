@@ -1,0 +1,241 @@
+{
+    "name": "Iran",
+    "alpha-2": "IR",
+    "alpha-3": "IRN",
+    "country-code": "364",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "IR-03",
+            "name": "Ardab\u012bl",
+            "division": "province",
+            "parent": "IR",
+            "lat": 38.246471,
+            "lng": 48.29505199999994
+        },
+        {
+            "code": "IR-02",
+            "name": "\u0100zarb\u0101yj\u0101n-e Gharb\u012b",
+            "division": "province",
+            "parent": "IR",
+            "lat": 38.0580052,
+            "lng": 46.31033419999994
+        },
+        {
+            "code": "IR-01",
+            "name": "\u0100zarb\u0101yj\u0101n-e Sharq\u012b",
+            "division": "province",
+            "parent": "IR",
+            "lat": 38.0580052,
+            "lng": 46.31033419999994
+        },
+        {
+            "code": "IR-06",
+            "name": "B\u016bshehr",
+            "division": "province",
+            "parent": "IR",
+            "lat": 28.922041,
+            "lng": 50.833091999999965
+        },
+        {
+            "code": "IR-08",
+            "name": "Chah\u0101r Mah\u0101ll va Bakht\u012b\u0101r\u012b",
+            "division": "province",
+            "parent": "IR"
+        },
+        {
+            "code": "IR-04",
+            "name": "E\u015ffah\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.2520863,
+            "lng": 50.001075300000025
+        },
+        {
+            "code": "IR-14",
+            "name": "F\u0101rs",
+            "division": "province",
+            "parent": "IR",
+            "lat": 29.6014553,
+            "lng": 52.460393299999964
+        },
+        {
+            "code": "IR-19",
+            "name": "G\u012bl\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.7609874,
+            "lng": 51.46467889999997
+        },
+        {
+            "code": "IR-27",
+            "name": "Golest\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.3737737,
+            "lng": 47.15015459999995
+        },
+        {
+            "code": "IR-24",
+            "name": "Hamad\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.8065,
+            "lng": 48.51624719999995
+        },
+        {
+            "code": "IR-23",
+            "name": "Hormozg\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 26.5460362,
+            "lng": 54.000699499999996
+        },
+        {
+            "code": "IR-05",
+            "name": "\u012al\u0101m",
+            "division": "province",
+            "parent": "IR",
+            "lat": 28.9856079,
+            "lng": 50.82795420000002
+        },
+        {
+            "code": "IR-15",
+            "name": "Kerm\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 30.28027,
+            "lng": 57.06701999999996
+        },
+        {
+            "code": "IR-17",
+            "name": "Kerm\u0101nsh\u0101h",
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.308159,
+            "lng": 47.057320000000004
+        },
+        {
+            "code": "IR-29",
+            "name": "Khor\u0101s\u0101n-e Jan\u016bb\u012b",
+            "division": "province",
+            "parent": "IR"
+        },
+        {
+            "code": "IR-30",
+            "name": "Khor\u0101s\u0101n-e Razav\u012b",
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.3322638,
+            "lng": 59.595739500000036
+        },
+        {
+            "code": "IR-31",
+            "name": "Khor\u0101s\u0101n-e Shem\u0101l\u012b",
+            "division": "province",
+            "parent": "IR"
+        },
+        {
+            "code": "IR-10",
+            "name": "Kh\u016bzest\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 31.307476,
+            "lng": 48.691878299999985
+        },
+        {
+            "code": "IR-18",
+            "name": "Kohg\u012bl\u016byeh va B\u016byer Ahmad",
+            "division": "province",
+            "parent": "IR"
+        },
+        {
+            "code": "IR-16",
+            "name": "Kordest\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.6911368,
+            "lng": 45.14279940000006
+        },
+        {
+            "code": "IR-20",
+            "name": "Lorest\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.6787812,
+            "lng": 51.47250770000005
+        },
+        {
+            "code": "IR-22",
+            "name": "Markaz\u012b",
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.0853148,
+            "lng": 49.68379260000006
+        },
+        {
+            "code": "IR-21",
+            "name": "M\u0101zandar\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.7004956,
+            "lng": 51.44292459999997
+        },
+        {
+            "code": "IR-28",
+            "name": "Qazv\u012bn",
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.266819,
+            "lng": 50.00381100000004
+        },
+        {
+            "code": "IR-26",
+            "name": "Qom",
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.643711,
+            "lng": 50.89063999999996
+        },
+        {
+            "code": "IR-12",
+            "name": "Semn\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.572269,
+            "lng": 53.39604899999995
+        },
+        {
+            "code": "IR-13",
+            "name": "S\u012bst\u0101n va Bal\u016bchest\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 29.5114056,
+            "lng": 60.855973800000015
+        },
+        {
+            "code": "IR-07",
+            "name": "Tehr\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.6961111,
+            "lng": 51.4230556
+        },
+        {
+            "code": "IR-25",
+            "name": "Yazd",
+            "division": "province",
+            "parent": "IR",
+            "lat": 31.89661,
+            "lng": 54.36068
+        },
+        {
+            "code": "IR-11",
+            "name": "Zanj\u0101n",
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.67094,
+            "lng": 48.48511099999996
+        }
+    ]
+}

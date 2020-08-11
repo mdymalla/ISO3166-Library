@@ -1,0 +1,187 @@
+{
+    "name": "Cambodia",
+    "alpha-2": "KH",
+    "alpha-3": "KHM",
+    "country-code": "116",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "KH-23",
+            "name": "Krong Kaeb",
+            "division": "autonomous municipality",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-24",
+            "name": "Krong Pailin",
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": 12.84673,
+            "lng": 102.61299899999995
+        },
+        {
+            "code": "KH-18",
+            "name": "Krong Preah Sihanouk",
+            "division": "autonomous municipality",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-12",
+            "name": "Phnom Penh",
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": 11.558831,
+            "lng": 104.91744500000004
+        },
+        {
+            "code": "KH-2",
+            "name": "Battambang",
+            "division": "province",
+            "parent": "KH",
+            "lat": 13.1190499,
+            "lng": 103.20864419999998
+        },
+        {
+            "code": "KH-1",
+            "name": "Banteay Mean Chey",
+            "division": "province",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-3",
+            "name": "Kampong Cham",
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.99141,
+            "lng": 105.46540099999993
+        },
+        {
+            "code": "KH-4",
+            "name": "Kampong Chhnang",
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.25,
+            "lng": 104.66666669999995
+        },
+        {
+            "code": "KH-5",
+            "name": "Kampong Speu",
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.4734921,
+            "lng": 104.50436000000002
+        },
+        {
+            "code": "KH-6",
+            "name": "Kampong Thom",
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.71197,
+            "lng": 104.88860299999999
+        },
+        {
+            "code": "KH-7",
+            "name": "Kampot",
+            "division": "province",
+            "parent": "KH",
+            "lat": 10.6046889,
+            "lng": 104.17565730000001
+        },
+        {
+            "code": "KH-8",
+            "name": "Kandal",
+            "division": "province",
+            "parent": "KH",
+            "lat": 54.3267888,
+            "lng": -2.7475776999999653
+        },
+        {
+            "code": "KH-9",
+            "name": "Kach Kong",
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.7743209,
+            "lng": 102.88512049999997
+        },
+        {
+            "code": "KH-10",
+            "name": "Krachoh",
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.48,
+            "lng": 106.02999999999997
+        },
+        {
+            "code": "KH-11",
+            "name": "Mondol Kiri",
+            "division": "province",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-22",
+            "name": "Otdar Mean Chey",
+            "division": "province",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-15",
+            "name": "Pousaat",
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.5333333,
+            "lng": 103.91666669999995
+        },
+        {
+            "code": "KH-13",
+            "name": "Preah Vihear",
+            "division": "province",
+            "parent": "KH",
+            "lat": 14.130792,
+            "lng": 105.8754212
+        },
+        {
+            "code": "KH-14",
+            "name": "Prey Veaeng",
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.485114,
+            "lng": 105.32809799999995
+        },
+        {
+            "code": "KH-16",
+            "name": "Rotanak Kiri",
+            "division": "province",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-17",
+            "name": "Siem Reab",
+            "division": "province",
+            "parent": "KH",
+            "lat": 13.3622222,
+            "lng": 103.85972219999996
+        },
+        {
+            "code": "KH-19",
+            "name": "Stueng Traeng",
+            "division": "province",
+            "parent": "KH"
+        },
+        {
+            "code": "KH-20",
+            "name": "Svaay Rieng",
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.0833333,
+            "lng": 105.79999999999995
+        },
+        {
+            "code": "KH-21",
+            "name": "Taakaev",
+            "division": "province",
+            "parent": "KH",
+            "lat": 10.9833333,
+            "lng": 104.78333329999998
+        }
+    ]
+}

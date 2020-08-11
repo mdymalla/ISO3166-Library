@@ -1,0 +1,95 @@
+{
+    "name": "Guinea-Bissau",
+    "alpha-2": "GW",
+    "alpha-3": "GNB",
+    "country-code": "624",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "GW-BS",
+            "name": "Bissau",
+            "division": "autonomous sector",
+            "parent": "GW",
+            "lat": 11.86398,
+            "lng": -15.598209999999995
+        },
+        {
+            "code": "GW-L",
+            "name": "Leste",
+            "division": "province",
+            "parent": "GW"
+        },
+        {
+            "code": "GW-N",
+            "name": "Norte",
+            "division": "province",
+            "parent": "GW"
+        },
+        {
+            "code": "GW-S",
+            "name": "Sul",
+            "division": "province",
+            "parent": "GW",
+            "lat": 12.1527778,
+            "lng": -16.448055599999975
+        },
+        {
+            "code": "GW-BA",
+            "name": "Bafat\u00e1",
+            "division": "region",
+            "parent": "GW-L",
+            "lat": 12.1719444,
+            "lng": -14.657500000000027
+        },
+        {
+            "code": "GW-BM",
+            "name": "Biombo",
+            "division": "region",
+            "parent": "GW-N"
+        },
+        {
+            "code": "GW-BL",
+            "name": "Bolama",
+            "division": "region",
+            "parent": "GW-S",
+            "lat": 11.578601,
+            "lng": -15.485022999999956
+        },
+        {
+            "code": "GW-CA",
+            "name": "Cacheu",
+            "division": "region",
+            "parent": "GW-N",
+            "lat": 12.26898,
+            "lng": -16.165110000000027
+        },
+        {
+            "code": "GW-GA",
+            "name": "Gab\u00fa",
+            "division": "region",
+            "parent": "GW-L",
+            "lat": 12.2798098,
+            "lng": -14.227967199999966
+        },
+        {
+            "code": "GW-OI",
+            "name": "Oio",
+            "division": "region",
+            "parent": "GW-N"
+        },
+        {
+            "code": "GW-QU",
+            "name": "Quinara",
+            "division": "region",
+            "parent": "GW-S"
+        },
+        {
+            "code": "GW-TO",
+            "name": "Tombali",
+            "division": "region",
+            "parent": "GW-S",
+            "lat": 30.089237,
+            "lng": -95.6355522
+        }
+    ]
+}

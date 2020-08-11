@@ -1,0 +1,197 @@
+{
+    "name": "Seychelles",
+    "alpha-2": "SC",
+    "alpha-3": "SYC",
+    "country-code": "690",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "SC-01",
+            "name": "Anse aux Pins",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6903546,
+            "lng": 55.520571399999994
+        },
+        {
+            "code": "SC-02",
+            "name": "Anse Boileau",
+            "division": "district",
+            "parent": "SC"
+        },
+        {
+            "code": "SC-03",
+            "name": "Anse Etoile",
+            "division": "district",
+            "parent": "SC"
+        },
+        {
+            "code": "SC-04",
+            "name": "Anse Louis",
+            "division": "district",
+            "parent": "SC"
+        },
+        {
+            "code": "SC-05",
+            "name": "Anse Royale",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.7333333,
+            "lng": 55.51666669999997
+        },
+        {
+            "code": "SC-06",
+            "name": "Baie Lazare",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.7531102,
+            "lng": 55.48138080000001
+        },
+        {
+            "code": "SC-07",
+            "name": "Baie Sainte Anne",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.3152864,
+            "lng": 55.7467259
+        },
+        {
+            "code": "SC-08",
+            "name": "Beau Vallon",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6210967,
+            "lng": 55.42778020000003
+        },
+        {
+            "code": "SC-09",
+            "name": "Bel Air",
+            "division": "district",
+            "parent": "SC",
+            "lat": 33.3721937,
+            "lng": -80.09048630000001
+        },
+        {
+            "code": "SC-10",
+            "name": "Bel Ombre",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6204838,
+            "lng": 55.41670720000002
+        },
+        {
+            "code": "SC-11",
+            "name": "Cascade",
+            "division": "district",
+            "parent": "SC",
+            "lat": 35.2801589,
+            "lng": -81.82128499999999
+        },
+        {
+            "code": "SC-12",
+            "name": "Glacis",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.4785838,
+            "lng": 55.205268899999965
+        },
+        {
+            "code": "SC-13",
+            "name": "Grand Anse Mahe",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.3360619,
+            "lng": 55.73005680000006
+        },
+        {
+            "code": "SC-14",
+            "name": "Grand Anse Praslin",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.3205806,
+            "lng": 55.749472999999966
+        },
+        {
+            "code": "SC-15",
+            "name": "La Digue",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.3590972,
+            "lng": 55.841242400000056
+        },
+        {
+            "code": "SC-16",
+            "name": "English River",
+            "division": "district",
+            "parent": "SC",
+            "lat": 50.6317924,
+            "lng": -93.20287050000002
+        },
+        {
+            "code": "SC-24",
+            "name": "Les Mamelles",
+            "division": "district",
+            "parent": "SC",
+            "lat": 14.7237368,
+            "lng": -17.501599899999974
+        },
+        {
+            "code": "SC-17",
+            "name": "Mont Buxton",
+            "division": "district",
+            "parent": "SC",
+            "lat": -27.4365945,
+            "lng": 152.98577090000003
+        },
+        {
+            "code": "SC-18",
+            "name": "Mont Fleuri",
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6443326,
+            "lng": 55.469734700000004
+        },
+        {
+            "code": "SC-19",
+            "name": "Plaisance",
+            "division": "district",
+            "parent": "SC",
+            "lat": -20.238074,
+            "lng": 57.459190000000035
+        },
+        {
+            "code": "SC-20",
+            "name": "Pointe Larue",
+            "division": "district",
+            "parent": "SC",
+            "lat": 45.0272315,
+            "lng": -0.17443969999999354
+        },
+        {
+            "code": "SC-21",
+            "name": "Port Glaud",
+            "division": "district",
+            "parent": "SC"
+        },
+        {
+            "code": "SC-25",
+            "name": "Roche Caiman",
+            "division": "district",
+            "parent": "SC"
+        },
+        {
+            "code": "SC-22",
+            "name": "Saint Louis",
+            "division": "district",
+            "parent": "SC",
+            "lat": 38.6291267,
+            "lng": -90.212716
+        },
+        {
+            "code": "SC-23",
+            "name": "Takamaka",
+            "division": "district",
+            "parent": "SC"
+        }
+    ]
+}

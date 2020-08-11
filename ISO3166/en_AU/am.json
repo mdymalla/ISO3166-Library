@@ -1,0 +1,89 @@
+{
+    "name": "Armenia",
+    "alpha-2": "AM",
+    "alpha-3": "ARM",
+    "country-code": "051",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "AM-ER",
+            "name": "Erevan",
+            "division": "province",
+            "parent": "AM",
+            "lat": 40.183333,
+            "lng": 44.516666999999984
+        },
+        {
+            "code": "AM-AG",
+            "name": "Aragacotn",
+            "division": "province",
+            "parent": "AM"
+        },
+        {
+            "code": "AM-AR",
+            "name": "Ararat",
+            "division": "province",
+            "parent": "AM",
+            "lat": 39.8302778,
+            "lng": 44.702499999999986
+        },
+        {
+            "code": "AM-AV",
+            "name": "Armavir",
+            "division": "province",
+            "parent": "AM",
+            "lat": 40.1545858,
+            "lng": 44.030070199999955
+        },
+        {
+            "code": "AM-GR",
+            "name": "Gegarkunik'",
+            "division": "province",
+            "parent": "AM",
+            "lat": 40.2500421,
+            "lng": 45.14633140000001
+        },
+        {
+            "code": "AM-KT",
+            "name": "Kotayk'",
+            "division": "province",
+            "parent": "AM",
+            "lat": 40.275,
+            "lng": 44.66055559999995
+        },
+        {
+            "code": "AM-LO",
+            "name": "Lory",
+            "division": "province",
+            "parent": "AM"
+        },
+        {
+            "code": "AM-SH",
+            "name": "Sirak",
+            "division": "province",
+            "parent": "AM",
+            "lat": 42.0514912,
+            "lng": -80.26937040000001
+        },
+        {
+            "code": "AM-SU",
+            "name": "Syunik'",
+            "division": "province",
+            "parent": "AM",
+            "lat": 39.5888889,
+            "lng": 46.2366667
+        },
+        {
+            "code": "AM-TV",
+            "name": "Tavus",
+            "division": "province",
+            "parent": "AM"
+        },
+        {
+            "code": "AM-VD",
+            "name": "Vayoc Jor",
+            "division": "province",
+            "parent": "AM"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Zimbabwe",
+    "alpha-2": "ZW",
+    "alpha-3": "ZWE",
+    "country-code": "716",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "ZW-BU",
+            "name": "Bulawayo",
+            "division": "city",
+            "parent": "ZW",
+            "lat": -20.17219,
+            "lng": 28.581159999999954
+        },
+        {
+            "code": "ZW-HA",
+            "name": "Harare",
+            "division": "city",
+            "parent": "ZW",
+            "lat": -17.82922,
+            "lng": 31.053961000000072
+        },
+        {
+            "code": "ZW-MA",
+            "name": "Manicaland",
+            "division": "province",
+            "parent": "ZW",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        {
+            "code": "ZW-MC",
+            "name": "Mashonaland Central",
+            "division": "province",
+            "parent": "ZW",
+            "lat": -17.8172008,
+            "lng": 31.066592000000014
+        },
+        {
+            "code": "ZW-ME",
+            "name": "Mashonaland East",
+            "division": "province",
+            "parent": "ZW"
+        },
+        {
+            "code": "ZW-MW",
+            "name": "Mashonaland West",
+            "division": "province",
+            "parent": "ZW"
+        },
+        {
+            "code": "ZW-MV",
+            "name": "Masvingo",
+            "division": "province",
+            "parent": "ZW",
+            "lat": -20.0744444,
+            "lng": 30.83277780000003
+        },
+        {
+            "code": "ZW-MN",
+            "name": "Matabeleland North",
+            "division": "province",
+            "parent": "ZW",
+            "lat": 46.729553,
+            "lng": -94.68589980000002
+        },
+        {
+            "code": "ZW-MS",
+            "name": "Matabeleland South",
+            "division": "province",
+            "parent": "ZW"
+        },
+        {
+            "code": "ZW-MI",
+            "name": "Midlands",
+            "division": "province",
+            "parent": "ZW",
+            "lat": 44.3148443,
+            "lng": -85.60236429999998
+        }
+    ]
+}

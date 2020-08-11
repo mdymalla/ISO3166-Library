@@ -1,0 +1,181 @@
+{
+    "name": "Libya",
+    "alpha-2": "LY",
+    "alpha-3": "LBY",
+    "country-code": "434",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "LY-BU",
+            "name": "Al Bu\u0163n\u0101n",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.1466667,
+            "lng": 23.80777779999994
+        },
+        {
+            "code": "LY-JA",
+            "name": "Al Jabal al Akh\u1e11ar",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "LY-JG",
+            "name": "Al Jabal al Gharb\u012b",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "LY-JI",
+            "name": "Al Jif\u0101rah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 27.5166667,
+            "lng": 16.899999999999977
+        },
+        {
+            "code": "LY-JU",
+            "name": "Al Jufrah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "LY-KF",
+            "name": "Al Kufrah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 24.1833333,
+            "lng": 23.28333329999998
+        },
+        {
+            "code": "LY-MJ",
+            "name": "Al Marj",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.5,
+            "lng": 20.829999999999927
+        },
+        {
+            "code": "LY-MB",
+            "name": "Al Marqab",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "LY-WA",
+            "name": "Al W\u0101h\u0327\u0101t",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 29.8166667,
+            "lng": 23.200000000000045
+        },
+        {
+            "code": "LY-NQ",
+            "name": "An Nuqa\u0163 al Khams",
+            "division": "popularates",
+            "parent": "LY"
+        },
+        {
+            "code": "LY-ZA",
+            "name": "Az Z\u0101wiyah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.7630282,
+            "lng": 12.736496200000033
+        },
+        {
+            "code": "LY-BA",
+            "name": "Bangh\u0101z\u012b",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.1166667,
+            "lng": 20.06666670000004
+        },
+        {
+            "code": "LY-DR",
+            "name": "Darnah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.763821,
+            "lng": 22.639239999999972
+        },
+        {
+            "code": "LY-GT",
+            "name": "Gh\u0101t",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 24.964359,
+            "lng": 10.16754000000003
+        },
+        {
+            "code": "LY-JB",
+            "name": "Jaghb\u016bb",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 29.7425,
+            "lng": 24.516944400000057
+        },
+        {
+            "code": "LY-MI",
+            "name": "Mi\u015fr\u0101tah",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.374298,
+            "lng": 15.094920000000002
+        },
+        {
+            "code": "LY-MQ",
+            "name": "Murzuq",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 25.91626,
+            "lng": 13.918180000000007
+        },
+        {
+            "code": "LY-NL",
+            "name": "N\u0101l\u016bt",
+            "division": "popularates",
+            "parent": "LY"
+        },
+        {
+            "code": "LY-SB",
+            "name": "Sabh\u0101",
+            "division": "popularates",
+            "parent": "LY"
+        },
+        {
+            "code": "LY-SR",
+            "name": "Surt",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 31.20528,
+            "lng": 16.588369000000057
+        },
+        {
+            "code": "LY-TB",
+            "name": "\u0162ar\u0101bulus",
+            "division": "popularates",
+            "parent": "LY"
+        },
+        {
+            "code": "LY-WD",
+            "name": "W\u0101d\u012b al \u1e28ay\u0101t",
+            "division": "popularates",
+            "parent": "LY"
+        },
+        {
+            "code": "LY-WS",
+            "name": "W\u0101d\u012b ash Sh\u0101\u0163i\u02be",
+            "division": "popularates",
+            "parent": "LY"
+        }
+    ]
+}

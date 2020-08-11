@@ -1,0 +1,49 @@
+{
+    "name": "Singapore",
+    "alpha-2": "SG",
+    "alpha-3": "SGP",
+    "country-code": "702",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "SG-01",
+            "name": "Central Singapore",
+            "division": "district",
+            "parent": "SG",
+            "lat": 1.3521616,
+            "lng": 103.94318220000002
+        },
+        {
+            "code": "SG-02",
+            "name": "North East",
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9628693,
+            "lng": 23.67798210000001
+        },
+        {
+            "code": "SG-03",
+            "name": "North West",
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9629654,
+            "lng": 23.67802419999998
+        },
+        {
+            "code": "SG-04",
+            "name": "South East",
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9630614,
+            "lng": 23.67806619999999
+        },
+        {
+            "code": "SG-05",
+            "name": "South West",
+            "division": "district",
+            "parent": "SG",
+            "lat": 51.1627581,
+            "lng": 6.996535600000016
+        }
+    ]
+}

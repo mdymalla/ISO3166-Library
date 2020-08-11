@@ -1,0 +1,175 @@
+{
+    "name": "Sweden",
+    "alpha-2": "SE",
+    "alpha-3": "SWE",
+    "country-code": "752",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "SE-K",
+            "name": "Blekinge l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.143109,
+            "lng": 15.36667030000001
+        },
+        {
+            "code": "SE-W",
+            "name": "Dalarnas l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 61.0917012,
+            "lng": 14.666365300000052
+        },
+        {
+            "code": "SE-I",
+            "name": "Gotlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.649684,
+            "lng": 18.71446800000001
+        },
+        {
+            "code": "SE-X",
+            "name": "G\u00e4vleborgs l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 61.4388743,
+            "lng": 16.594019600000024
+        },
+        {
+            "code": "SE-N",
+            "name": "Hallands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.7957699,
+            "lng": 12.893493000000035
+        },
+        {
+            "code": "SE-Z",
+            "name": "J\u00e4mtlande l\u00e4n",
+            "division": "county",
+            "parent": "SE"
+        },
+        {
+            "code": "SE-F",
+            "name": "J\u00f6nk\u00f6pings l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.7817978,
+            "lng": 14.158510400000068
+        },
+        {
+            "code": "SE-H",
+            "name": "Kalmar l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.0942447,
+            "lng": 16.543560500000012
+        },
+        {
+            "code": "SE-G",
+            "name": "Kronobergs l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.8906494,
+            "lng": 14.508452300000044
+        },
+        {
+            "code": "SE-BD",
+            "name": "Norrbottens l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 66.8309216,
+            "lng": 20.399196599999982
+        },
+        {
+            "code": "SE-M",
+            "name": "Sk\u00e5ne l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 55.9902572,
+            "lng": 13.59576919999995
+        },
+        {
+            "code": "SE-AB",
+            "name": "Stockholms l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.3327881,
+            "lng": 18.064488100000062
+        },
+        {
+            "code": "SE-D",
+            "name": "S\u00f6dermanlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.0336349,
+            "lng": 16.751889900000037
+        },
+        {
+            "code": "SE-C",
+            "name": "Uppsala l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.8581435,
+            "lng": 17.64458579999996
+        },
+        {
+            "code": "SE-S",
+            "name": "V\u00e4rmlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.5807897,
+            "lng": 12.847297400000002
+        },
+        {
+            "code": "SE-AC",
+            "name": "V\u00e4sterbottens l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 65.3337311,
+            "lng": 16.516169499999933
+        },
+        {
+            "code": "SE-Y",
+            "name": "V\u00e4sternorrlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 62.985529,
+            "lng": 18.125860399999965
+        },
+        {
+            "code": "SE-U",
+            "name": "V\u00e4stmanlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.6713879,
+            "lng": 16.215895400000022
+        },
+        {
+            "code": "SE-Q",
+            "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 58.1599159,
+            "lng": 12.136054899999976
+        },
+        {
+            "code": "SE-T",
+            "name": "\u00d6rebro l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.273755,
+            "lng": 15.207539499999939
+        },
+        {
+            "code": "SE-E",
+            "name": "\u00d6sterg\u00f6tlands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 58.3453635,
+            "lng": 15.51978429999997
+        }
+    ]
+}

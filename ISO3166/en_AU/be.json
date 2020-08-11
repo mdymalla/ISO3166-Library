@@ -1,0 +1,97 @@
+{
+    "name": "Belgium",
+    "alpha-2": "BE",
+    "alpha-3": "BEL",
+    "country-code": "056",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "BE-VAN",
+            "name": "Antwerpen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.21992,
+            "lng": 4.396250000000009
+        },
+        {
+            "code": "BE-WBR",
+            "name": "Brabant Wallon",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.6769713,
+            "lng": 4.625562899999977
+        },
+        {
+            "code": "BE-BRU",
+            "name": "Brussels-Capital Region",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.8503396,
+            "lng": 4.351710300000036
+        },
+        {
+            "code": "BE-WHT",
+            "name": "Hainaut",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.4804432,
+            "lng": 4.358186599999954
+        },
+        {
+            "code": "BE-WLG",
+            "name": "Liege",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.63333,
+            "lng": 5.566659999999956
+        },
+        {
+            "code": "BE-VLI",
+            "name": "Limburg",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.9738973,
+            "lng": 5.341967699999941
+        },
+        {
+            "code": "BE-WLX",
+            "name": "Luxembourg",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.0546886,
+            "lng": 5.467698299999938
+        },
+        {
+            "code": "BE-WNA",
+            "name": "Namur",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.465328,
+            "lng": 4.867664999999988
+        },
+        {
+            "code": "BE-VOV",
+            "name": "Oost-Vlaanderen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.02337,
+            "lng": 3.621849999999995
+        },
+        {
+            "code": "BE-VBR",
+            "name": "Vlaams-Brabant",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.8770154,
+            "lng": 4.717335000000048
+        },
+        {
+            "code": "BE-VWV",
+            "name": "West-Vlaanderen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.30054,
+            "lng": 3.15300000000002
+        }
+    ]
+}

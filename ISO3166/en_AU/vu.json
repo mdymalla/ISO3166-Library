@@ -1,0 +1,47 @@
+{
+    "name": "Vanuatu",
+    "alpha-2": "VU",
+    "alpha-3": "VUT",
+    "country-code": "548",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "VU-MAP",
+            "name": "Malampa",
+            "division": "province",
+            "parent": "VU",
+            "lat": -16.4011405,
+            "lng": 167.60778649999997
+        },
+        {
+            "code": "VU-PAM",
+            "name": "P\u00e9nama",
+            "division": "province",
+            "parent": "VU"
+        },
+        {
+            "code": "VU-SAM",
+            "name": "Sanma",
+            "division": "province",
+            "parent": "VU"
+        },
+        {
+            "code": "VU-SEE",
+            "name": "Sh\u00e9fa",
+            "division": "province",
+            "parent": "VU"
+        },
+        {
+            "code": "VU-TAE",
+            "name": "Taf\u00e9a",
+            "division": "province",
+            "parent": "VU"
+        },
+        {
+            "code": "VU-TOB",
+            "name": "Torba",
+            "division": "province",
+            "parent": "VU"
+        }
+    ]
+}

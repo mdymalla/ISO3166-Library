@@ -1,0 +1,77 @@
+{
+    "name": "Haiti",
+    "alpha-2": "HT",
+    "alpha-3": "HTI",
+    "country-code": "332",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "HT-AR",
+            "name": "Artibonite",
+            "division": "department",
+            "parent": "HT",
+            "lat": 35.20105,
+            "lng": -91.8318334
+        },
+        {
+            "code": "HT-CE",
+            "name": "Centre",
+            "division": "department",
+            "parent": "HT"
+        },
+        {
+            "code": "HT-GA",
+            "name": "Grande-Anse",
+            "division": "department",
+            "parent": "HT",
+            "lat": 32.1574351,
+            "lng": -82.90712300000001
+        },
+        {
+            "code": "HT-ND",
+            "name": "Nord",
+            "division": "department",
+            "parent": "HT"
+        },
+        {
+            "code": "HT-NE",
+            "name": "Nord-Est",
+            "division": "department",
+            "parent": "HT",
+            "lat": 19.4889723,
+            "lng": -71.8571331
+        },
+        {
+            "code": "HT-NO",
+            "name": "Nord-Ouest",
+            "division": "department",
+            "parent": "HT",
+            "lat": 19.8374009,
+            "lng": -73.04052769999998
+        },
+        {
+            "code": "HT-OU",
+            "name": "Ouest",
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.5419742,
+            "lng": -72.32964989999999
+        },
+        {
+            "code": "HT-SD",
+            "name": "Sud",
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.3320005,
+            "lng": -73.70070880000003
+        },
+        {
+            "code": "HT-SE",
+            "name": "Sud-Est",
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.2783598,
+            "lng": -72.35479150000003
+        }
+    ]
+}

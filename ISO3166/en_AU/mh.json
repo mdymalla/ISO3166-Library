@@ -1,0 +1,181 @@
+{
+    "name": "Marshall Islands",
+    "alpha-2": "MH",
+    "alpha-3": "MHL",
+    "country-code": "584",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "MH-L",
+            "name": "Ralik chain",
+            "division": "chains (of islands)",
+            "parent": "MH",
+            "lat": 8,
+            "lng": 167
+        },
+        {
+            "code": "MH-T",
+            "name": "Ratak chain",
+            "division": "chains (of islands)",
+            "parent": "MH",
+            "lat": 9,
+            "lng": 171
+        },
+        {
+            "code": "MH-ALL",
+            "name": "Ailinglaplap",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-ALK",
+            "name": "Ailuk",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-ARN",
+            "name": "Arno",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-AUR",
+            "name": "Aur",
+            "division": "municipality",
+            "parent": "MH-T",
+            "lat": 8.141327,
+            "lng": 171.17312700000002
+        },
+        {
+            "code": "MH-EBO",
+            "name": "Ebon",
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": 4.598557,
+            "lng": 168.75248299999998
+        },
+        {
+            "code": "MH-ENI",
+            "name": "Enewetak",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-JAB",
+            "name": "Jabat",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-JAL",
+            "name": "Jaluit",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-KIL",
+            "name": "Kili",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-KWA",
+            "name": "Kwajalein",
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": 8.7239267,
+            "lng": 167.73601540000004
+        },
+        {
+            "code": "MH-LAE",
+            "name": "Lae",
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": 8.925121,
+            "lng": 166.26951199999996
+        },
+        {
+            "code": "MH-LIB",
+            "name": "Lib",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-LIK",
+            "name": "Likiep",
+            "division": "municipality",
+            "parent": "MH-T",
+            "lat": 9.826345,
+            "lng": 169.30217300000004
+        },
+        {
+            "code": "MH-MAJ",
+            "name": "Majuro",
+            "division": "municipality",
+            "parent": "MH-T",
+            "lat": 7.0687794,
+            "lng": 171.28211009999995
+        },
+        {
+            "code": "MH-MAL",
+            "name": "Maloelap",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-MEJ",
+            "name": "Mejit",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-MIL",
+            "name": "Mili",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-NMK",
+            "name": "Namdrik",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-NMU",
+            "name": "Namu",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-RON",
+            "name": "Rongelap",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-UJA",
+            "name": "Ujae",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-UTI",
+            "name": "Utirik",
+            "division": "municipality",
+            "parent": "MH-T"
+        },
+        {
+            "code": "MH-WTN",
+            "name": "Wotho",
+            "division": "municipality",
+            "parent": "MH-L"
+        },
+        {
+            "code": "MH-WTJ",
+            "name": "Wotje",
+            "division": "municipality",
+            "parent": "MH-T"
+        }
+    ]
+}

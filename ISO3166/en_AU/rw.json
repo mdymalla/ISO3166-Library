@@ -1,0 +1,45 @@
+{
+    "name": "Rwanda",
+    "alpha-2": "RW",
+    "alpha-3": "RWA",
+    "country-code": "646",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "RW-01",
+            "name": "Ville de Kigali",
+            "division": "town council",
+            "parent": "RW",
+            "lat": -1.950106,
+            "lng": 30.058768999999984
+        },
+        {
+            "code": "RW-02",
+            "name": "Est",
+            "division": "province",
+            "parent": "RW",
+            "lat": 45.0551597,
+            "lng": -81.30940550000003
+        },
+        {
+            "code": "RW-03",
+            "name": "Nord",
+            "division": "province",
+            "parent": "RW"
+        },
+        {
+            "code": "RW-04",
+            "name": "Ouest",
+            "division": "province",
+            "parent": "RW"
+        },
+        {
+            "code": "RW-05",
+            "name": "Sud",
+            "division": "province",
+            "parent": "RW",
+            "lat": -1.9584304,
+            "lng": 30.105795299999954
+        }
+    ]
+}

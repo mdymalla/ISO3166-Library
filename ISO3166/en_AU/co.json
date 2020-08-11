@@ -1,0 +1,273 @@
+{
+    "name": "Colombia",
+    "alpha-2": "CO",
+    "alpha-3": "COL",
+    "country-code": "170",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "CO-DC",
+            "name": "Distrito Capital de Bogot\u00e1",
+            "division": "capital district",
+            "parent": "CO",
+            "lat": 4.5980556,
+            "lng": -74.0758333
+        },
+        {
+            "code": "CO-AMA",
+            "name": "Amazonas",
+            "division": "department",
+            "parent": "CO",
+            "lat": -1.4429123,
+            "lng": -71.57239529999998
+        },
+        {
+            "code": "CO-ANT",
+            "name": "Antioquia",
+            "division": "department",
+            "parent": "CO",
+            "lat": 6.55978,
+            "lng": -75.82807000000003
+        },
+        {
+            "code": "CO-ARA",
+            "name": "Arauca",
+            "division": "department",
+            "parent": "CO",
+            "lat": 7.079371,
+            "lng": -70.758377
+        },
+        {
+            "code": "CO-ATL",
+            "name": "Atl\u00e1ntico",
+            "division": "department",
+            "parent": "CO",
+            "lat": 10.968511,
+            "lng": -74.78856380000002
+        },
+        {
+            "code": "CO-BOL",
+            "name": "Bol\u00edvar",
+            "division": "department",
+            "parent": "CO",
+            "lat": 10.26664,
+            "lng": -75.46663000000001
+        },
+        {
+            "code": "CO-BOY",
+            "name": "Boyac\u00e1",
+            "division": "department",
+            "parent": "CO",
+            "lat": 5.45,
+            "lng": -73.35000000000002
+        },
+        {
+            "code": "CO-CAL",
+            "name": "Caldas",
+            "division": "department",
+            "parent": "CO",
+            "lat": 37.5296028,
+            "lng": -121.94003880000002
+        },
+        {
+            "code": "CO-CAQ",
+            "name": "Caquet\u00e1",
+            "division": "department",
+            "parent": "CO",
+            "lat": 0.869892,
+            "lng": -73.8419063
+        },
+        {
+            "code": "CO-CAS",
+            "name": "Casanare",
+            "division": "department",
+            "parent": "CO",
+            "lat": 5.7589269,
+            "lng": -71.57239529999998
+        },
+        {
+            "code": "CO-CAU",
+            "name": "Cauca",
+            "division": "department",
+            "parent": "CO",
+            "lat": 2.57301,
+            "lng": -76.77915999999999
+        },
+        {
+            "code": "CO-CES",
+            "name": "Cesar",
+            "division": "department",
+            "parent": "CO",
+            "lat": 9.3372948,
+            "lng": -73.65362090000002
+        },
+        {
+            "code": "CO-CHO",
+            "name": "Choc\u00f3",
+            "division": "department",
+            "parent": "CO",
+            "lat": 5.2528033,
+            "lng": -76.82596519999998
+        },
+        {
+            "code": "CO-COR",
+            "name": "C\u00f3rdoba",
+            "division": "department",
+            "parent": "CO",
+            "lat": -1.283333,
+            "lng": -69.89999999999998
+        },
+        {
+            "code": "CO-CUN",
+            "name": "Cundinamarca",
+            "division": "department",
+            "parent": "CO",
+            "lat": 4.61666,
+            "lng": -74.09996000000001
+        },
+        {
+            "code": "CO-GUA",
+            "name": "Guain\u00eda",
+            "division": "department",
+            "parent": "CO",
+            "lat": 2.585393,
+            "lng": -68.52471489999999
+        },
+        {
+            "code": "CO-GUV",
+            "name": "Guaviare",
+            "division": "department",
+            "parent": "CO",
+            "lat": 2.043924,
+            "lng": -72.33111300000002
+        },
+        {
+            "code": "CO-HUI",
+            "name": "Huila",
+            "division": "department",
+            "parent": "CO",
+            "lat": 2.5359349,
+            "lng": -75.52766989999998
+        },
+        {
+            "code": "CO-LAG",
+            "name": "La Guajira",
+            "division": "department",
+            "parent": "CO",
+            "lat": 11.3547743,
+            "lng": -72.5204827
+        },
+        {
+            "code": "CO-MAG",
+            "name": "Magdalena",
+            "division": "department",
+            "parent": "CO",
+            "lat": 34.3103387,
+            "lng": -107.41753949999998
+        },
+        {
+            "code": "CO-MET",
+            "name": "Meta",
+            "division": "department",
+            "parent": "CO",
+            "lat": 3.2719904,
+            "lng": -73.08774900000003
+        },
+        {
+            "code": "CO-NAR",
+            "name": "Nari\u00f1o",
+            "division": "department",
+            "parent": "CO",
+            "lat": 1.289822,
+            "lng": -77.358612
+        },
+        {
+            "code": "CO-NSA",
+            "name": "Norte de Santander",
+            "division": "department",
+            "parent": "CO",
+            "lat": 7.13704,
+            "lng": -73.11824000000001
+        },
+        {
+            "code": "CO-PUT",
+            "name": "Putumayo",
+            "division": "department",
+            "parent": "CO",
+            "lat": 0.4359506,
+            "lng": -75.52766989999998
+        },
+        {
+            "code": "CO-QUI",
+            "name": "Quind\u00edo",
+            "division": "department",
+            "parent": "CO",
+            "lat": 4.4610191,
+            "lng": -75.66735599999998
+        },
+        {
+            "code": "CO-RIS",
+            "name": "Risaralda",
+            "division": "department",
+            "parent": "CO",
+            "lat": 5.3158475,
+            "lng": -75.99276520000001
+        },
+        {
+            "code": "CO-SAP",
+            "name": "San Andr\u00e9s, Providencia y Santa Catalina",
+            "division": "department",
+            "parent": "CO",
+            "lat": 13.3918533,
+            "lng": -81.3770606
+        },
+        {
+            "code": "CO-SAN",
+            "name": "Santander",
+            "division": "department",
+            "parent": "CO",
+            "lat": 1.21384,
+            "lng": -77.27454999999998
+        },
+        {
+            "code": "CO-SUC",
+            "name": "Sucre",
+            "division": "department",
+            "parent": "CO",
+            "lat": 8.815053,
+            "lng": -74.70694700000001
+        },
+        {
+            "code": "CO-TOL",
+            "name": "Tolima",
+            "division": "department",
+            "parent": "CO",
+            "lat": 3.54953,
+            "lng": -75.69281999999998
+        },
+        {
+            "code": "CO-VAC",
+            "name": "Valle del Cauca",
+            "division": "department",
+            "parent": "CO",
+            "lat": 3.8008893,
+            "lng": -76.6412712
+        },
+        {
+            "code": "CO-VAU",
+            "name": "Vaup\u00e9s",
+            "division": "department",
+            "parent": "CO",
+            "lat": 0.8553561,
+            "lng": -70.81199530000004
+        },
+        {
+            "code": "CO-VID",
+            "name": "Vichada",
+            "division": "department",
+            "parent": "CO",
+            "lat": 4.4234452,
+            "lng": -69.28775350000001
+        }
+    ]
+}

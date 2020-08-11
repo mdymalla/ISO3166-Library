@@ -1,0 +1,757 @@
+{
+    "name": "Philippines",
+    "alpha-2": "PH",
+    "alpha-3": "PHL",
+    "country-code": "608",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "PH-14",
+            "name": "Autonomous Region in Muslim Mindanao (ARMM)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 7.1844179,
+            "lng": 124.21411339999997
+        },
+        {
+            "code": "PH-05",
+            "name": "Bicol (Region V)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 13.194783,
+            "lng": 123.59419849999995
+        },
+        {
+            "code": "PH-02",
+            "name": "Cagayan Valley (Region II)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 17.6174527,
+            "lng": 121.72669169999995
+        },
+        {
+            "code": "PH-40",
+            "name": "CALABARZON (Region IV-A)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 14.5279833,
+            "lng": 121.06127470000001
+        },
+        {
+            "code": "PH-13",
+            "name": "Caraga (Region XIII)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 8.9560218,
+            "lng": 125.59677060000001
+        },
+        {
+            "code": "PH-03",
+            "name": "Central Luzon (Region III)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 15.7351377,
+            "lng": 120.93790850000005
+        },
+        {
+            "code": "PH-07",
+            "name": "Central Visayas (Region VII)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 10.3280181,
+            "lng": 123.89634490000003
+        },
+        {
+            "code": "PH-15",
+            "name": "Cordillera Administrative Region (CAR)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 16.407459,
+            "lng": 120.60095520000004
+        },
+        {
+            "code": "PH-08",
+            "name": "Eastern Visayas (Region VIII)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 11.0106214,
+            "lng": 124.60542429999998
+        },
+        {
+            "code": "PH-01",
+            "name": "Ilocos (Region I)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 17.9470234,
+            "lng": 120.65999869999996
+        },
+        {
+            "code": "PH-41",
+            "name": "MIMAROPA (Region IV-B)",
+            "division": "region",
+            "parent": "PH"
+        },
+        {
+            "code": "PH-00",
+            "name": "National Capital Region",
+            "division": "region",
+            "parent": "PH",
+            "lat": 14.6090156,
+            "lng": 121.01193699999999
+        },
+        {
+            "code": "PH-10",
+            "name": "Northern Mindanao (Region X)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 8.3169426,
+            "lng": 124.68565089999993
+        },
+        {
+            "code": "PH-12",
+            "name": "Soccsksargen (Region XII)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 6.1140252,
+            "lng": 125.1627479
+        },
+        {
+            "code": "PH-06",
+            "name": "Western Visayas (Region VI)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 10.6974487,
+            "lng": 122.56613199999993
+        },
+        {
+            "code": "PH-09",
+            "name": "Zamboanga Peninsula (Region IX)",
+            "division": "region",
+            "parent": "PH",
+            "lat": 6.9200258,
+            "lng": 122.03745779999997
+        },
+        {
+            "code": "PH-ABR",
+            "name": "Abra",
+            "division": "province",
+            "parent": "PH-15",
+            "lat": 17.6015664,
+            "lng": 120.74438099999998
+        },
+        {
+            "code": "PH-AGN",
+            "name": "Agusan del Norte",
+            "division": "province",
+            "parent": "PH-13"
+        },
+        {
+            "code": "PH-AGS",
+            "name": "Agusan del Sur",
+            "division": "province",
+            "parent": "PH-13",
+            "lat": 8.5532677,
+            "lng": 125.9465629
+        },
+        {
+            "code": "PH-AKL",
+            "name": "Aklan",
+            "division": "province",
+            "parent": "PH-06",
+            "lat": 11.7152809,
+            "lng": 122.36035019999997
+        },
+        {
+            "code": "PH-ALB",
+            "name": "Albay",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 13.1450321,
+            "lng": 123.72420769999997
+        },
+        {
+            "code": "PH-ANT",
+            "name": "Antique",
+            "division": "province",
+            "parent": "PH-06"
+        },
+        {
+            "code": "PH-APA",
+            "name": "Apayao",
+            "division": "province",
+            "parent": "PH-15",
+            "lat": 18.0949496,
+            "lng": 121.16426469999999
+        },
+        {
+            "code": "PH-AUR",
+            "name": "Aurora",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 16.151451,
+            "lng": 121.7675686
+        },
+        {
+            "code": "PH-BAS",
+            "name": "Basilan",
+            "division": "province",
+            "parent": "PH-09",
+            "lat": 6.5335644,
+            "lng": 122.08374449999997
+        },
+        {
+            "code": "PH-BAN",
+            "name": "Batasn",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 14.6666667,
+            "lng": 120.41666669999995
+        },
+        {
+            "code": "PH-BTN",
+            "name": "Batanes",
+            "division": "province",
+            "parent": "PH-02",
+            "lat": 20.4549195,
+            "lng": 121.98605559999999
+        },
+        {
+            "code": "PH-BTG",
+            "name": "Batangas",
+            "division": "province",
+            "parent": "PH-40",
+            "lat": 13.7572111,
+            "lng": 121.05811110000002
+        },
+        {
+            "code": "PH-BEN",
+            "name": "Benguet",
+            "division": "province",
+            "parent": "PH-15",
+            "lat": 16.3780129,
+            "lng": 120.5193329
+        },
+        {
+            "code": "PH-BIL",
+            "name": "Biliran",
+            "division": "province",
+            "parent": "PH-08",
+            "lat": 11.5833152,
+            "lng": 124.4641848
+        },
+        {
+            "code": "PH-BOH",
+            "name": "Bohol",
+            "division": "province",
+            "parent": "PH-07",
+            "lat": 9.7966057,
+            "lng": 124.2421597
+        },
+        {
+            "code": "PH-BUK",
+            "name": "Bukidnon",
+            "division": "province",
+            "parent": "PH-10",
+            "lat": 7.7342534,
+            "lng": 124.90027069999996
+        },
+        {
+            "code": "PH-BUL",
+            "name": "Bulacan",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 14.7930556,
+            "lng": 120.87888889999999
+        },
+        {
+            "code": "PH-CAG",
+            "name": "Cagayan",
+            "division": "province",
+            "parent": "PH-02",
+            "lat": 17.1786397,
+            "lng": 121.55865670000003
+        },
+        {
+            "code": "PH-CAN",
+            "name": "Camarines Norte",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 14.1303711,
+            "lng": 122.98205580000001
+        },
+        {
+            "code": "PH-CAS",
+            "name": "Camarines Sur",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 13.4060811,
+            "lng": 123.37547519999998
+        },
+        {
+            "code": "PH-CAM",
+            "name": "Camiguin",
+            "division": "province",
+            "parent": "PH-10",
+            "lat": 9.1732164,
+            "lng": 124.72987650000005
+        },
+        {
+            "code": "PH-CAP",
+            "name": "Capiz",
+            "division": "province",
+            "parent": "PH-06",
+            "lat": 11.5833333,
+            "lng": 122.75
+        },
+        {
+            "code": "PH-CAT",
+            "name": "Catanduanes",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 13.7088684,
+            "lng": 124.2421597
+        },
+        {
+            "code": "PH-CAV",
+            "name": "Cavite",
+            "division": "province",
+            "parent": "PH-40",
+            "lat": 14.4833333,
+            "lng": 120.89999999999998
+        },
+        {
+            "code": "PH-CEB",
+            "name": "Cebu",
+            "division": "province",
+            "parent": "PH-07",
+            "lat": 10.3591887,
+            "lng": 123.86345440000002
+        },
+        {
+            "code": "PH-COM",
+            "name": "Compostela Valley",
+            "division": "province",
+            "parent": "PH"
+        },
+        {
+            "code": "PH-DAV",
+            "name": "Davao del Norte",
+            "division": "province",
+            "parent": "PH",
+            "lat": 7.3136286,
+            "lng": 125.67036329999996
+        },
+        {
+            "code": "PH-DAS",
+            "name": "Davao del Sur",
+            "division": "province",
+            "parent": "PH",
+            "lat": 6.7644126,
+            "lng": 125.35773219999999
+        },
+        {
+            "code": "PH-DAO",
+            "name": "Davao Oriental",
+            "division": "province",
+            "parent": "PH",
+            "lat": 6.9322624,
+            "lng": 126.25427109999998
+        },
+        {
+            "code": "PH-DIN",
+            "name": "Dinagat Islands",
+            "division": "province",
+            "parent": "PH-13"
+        },
+        {
+            "code": "PH-EAS",
+            "name": "Eastern Samar",
+            "division": "province",
+            "parent": "PH-08",
+            "lat": 11.6600751,
+            "lng": 125.44229150000001
+        },
+        {
+            "code": "PH-GUI",
+            "name": "Guimaras",
+            "division": "province",
+            "parent": "PH-06",
+            "lat": 10.5673719,
+            "lng": 122.58251970000003
+        },
+        {
+            "code": "PH-IFU",
+            "name": "Ifugao",
+            "division": "province",
+            "parent": "PH-15",
+            "lat": 16.8107239,
+            "lng": 121.1056638
+        },
+        {
+            "code": "PH-ILN",
+            "name": "Ilocos Norte",
+            "division": "province",
+            "parent": "PH-01",
+            "lat": 18.152764,
+            "lng": 120.92557790000001
+        },
+        {
+            "code": "PH-ILS",
+            "name": "Ilocos Sur",
+            "division": "province",
+            "parent": "PH-01",
+            "lat": 16.9635875,
+            "lng": 120.49708129999999
+        },
+        {
+            "code": "PH-ILI",
+            "name": "Iloilo",
+            "division": "province",
+            "parent": "PH-06",
+            "lat": 10.69,
+            "lng": 122.54999999999995
+        },
+        {
+            "code": "PH-ISA",
+            "name": "Isabela",
+            "division": "province",
+            "parent": "PH-02",
+            "lat": 16.9835716,
+            "lng": 121.64827979999995
+        },
+        {
+            "code": "PH-KAL",
+            "name": "Kalinga-Apayso",
+            "division": "province",
+            "parent": "PH-15"
+        },
+        {
+            "code": "PH-LAG",
+            "name": "Laguna",
+            "division": "province",
+            "parent": "PH-40",
+            "lat": 14.2980556,
+            "lng": 121.46000000000004
+        },
+        {
+            "code": "PH-LAN",
+            "name": "Lanao del Norte",
+            "division": "province",
+            "parent": "PH-12",
+            "lat": 8.1892061,
+            "lng": 124.02379450000001
+        },
+        {
+            "code": "PH-LAS",
+            "name": "Lanao del Sur",
+            "division": "province",
+            "parent": "PH-14",
+            "lat": 7.9999018,
+            "lng": 124.26861050000002
+        },
+        {
+            "code": "PH-LUN",
+            "name": "La Union",
+            "division": "province",
+            "parent": "PH-01",
+            "lat": 16.3466419,
+            "lng": 120.36408800000004
+        },
+        {
+            "code": "PH-LEY",
+            "name": "Leyte",
+            "division": "province",
+            "parent": "PH-08",
+            "lat": 10.6299734,
+            "lng": 124.95066250000002
+        },
+        {
+            "code": "PH-MAG",
+            "name": "Maguindanao",
+            "division": "province",
+            "parent": "PH-14",
+            "lat": 7.8556806,
+            "lng": 124.86241659999996
+        },
+        {
+            "code": "PH-MAD",
+            "name": "Marinduque",
+            "division": "province",
+            "parent": "PH-41",
+            "lat": 13.3642287,
+            "lng": 121.94731100000001
+        },
+        {
+            "code": "PH-MAS",
+            "name": "Masbate",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 12.0147224,
+            "lng": 123.88577469999996
+        },
+        {
+            "code": "PH-MDC",
+            "name": "Mindoro Occidental",
+            "division": "province",
+            "parent": "PH-41",
+            "lat": 13.2183801,
+            "lng": 120.60021240000003
+        },
+        {
+            "code": "PH-MDR",
+            "name": "Mindoro Oriental",
+            "division": "province",
+            "parent": "PH-41"
+        },
+        {
+            "code": "PH-MSC",
+            "name": "Misamis Occidental",
+            "division": "province",
+            "parent": "PH-10"
+        },
+        {
+            "code": "PH-MSR",
+            "name": "Misamis Oriental",
+            "division": "province",
+            "parent": "PH-10",
+            "lat": 8.7738069,
+            "lng": 124.78419009999993
+        },
+        {
+            "code": "PH-MOU",
+            "name": "Mountain Province",
+            "division": "province",
+            "parent": "PH-15",
+            "lat": 16.9938786,
+            "lng": 120.82160709999994
+        },
+        {
+            "code": "PH-NEC",
+            "name": "Negroe Occidental",
+            "division": "province",
+            "parent": "PH-06",
+            "lat": 10.6751428,
+            "lng": 122.95034540000006
+        },
+        {
+            "code": "PH-NER",
+            "name": "Negros Oriental",
+            "division": "province",
+            "parent": "PH-07",
+            "lat": 9.3366058,
+            "lng": 123.30599489999997
+        },
+        {
+            "code": "PH-NCO",
+            "name": "North Cotabato",
+            "division": "province",
+            "parent": "PH-12",
+            "lat": 7.2166667,
+            "lng": 124.25
+        },
+        {
+            "code": "PH-NSA",
+            "name": "Northern Samar",
+            "division": "province",
+            "parent": "PH-08"
+        },
+        {
+            "code": "PH-NUE",
+            "name": "Nueva Ecija",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 15.4965183,
+            "lng": 121.01174349999997
+        },
+        {
+            "code": "PH-NUV",
+            "name": "Nueva Vizcaya",
+            "division": "province",
+            "parent": "PH-02",
+            "lat": 16.3029892,
+            "lng": 120.99637099999995
+        },
+        {
+            "code": "PH-PLW",
+            "name": "Palawan",
+            "division": "province",
+            "parent": "PH-41",
+            "lat": 9.4462305,
+            "lng": 118.39294169999994
+        },
+        {
+            "code": "PH-PAM",
+            "name": "Pampanga",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 15.1697412,
+            "lng": 120.59075800000005
+        },
+        {
+            "code": "PH-PAN",
+            "name": "Pangasinan",
+            "division": "province",
+            "parent": "PH-01",
+            "lat": 16.0682368,
+            "lng": 120.6028824
+        },
+        {
+            "code": "PH-QUE",
+            "name": "Quezon",
+            "division": "province",
+            "parent": "PH-40",
+            "lat": 14.05,
+            "lng": 122.1333333
+        },
+        {
+            "code": "PH-QUI",
+            "name": "Quirino",
+            "division": "province",
+            "parent": "PH-02",
+            "lat": 16.6007594,
+            "lng": 121.50630960000001
+        },
+        {
+            "code": "PH-RIZ",
+            "name": "Rizal",
+            "division": "province",
+            "parent": "PH-40",
+            "lat": 14.7586413,
+            "lng": 121.23974380000004
+        },
+        {
+            "code": "PH-ROM",
+            "name": "Romblon",
+            "division": "province",
+            "parent": "PH-41",
+            "lat": 12.5294008,
+            "lng": 122.28807260000008
+        },
+        {
+            "code": "PH-SAR",
+            "name": "Sarangani",
+            "division": "province",
+            "parent": "PH",
+            "lat": 5.9656144,
+            "lng": 125.19286339999996
+        },
+        {
+            "code": "PH-SIG",
+            "name": "Siquijor",
+            "division": "province",
+            "parent": "PH-07",
+            "lat": 9.1998779,
+            "lng": 123.59519249999994
+        },
+        {
+            "code": "PH-SOR",
+            "name": "Sorsogon",
+            "division": "province",
+            "parent": "PH-05",
+            "lat": 13.0085173,
+            "lng": 123.99729500000001
+        },
+        {
+            "code": "PH-SCO",
+            "name": "South Cotabato",
+            "division": "province",
+            "parent": "PH",
+            "lat": 7.2166667,
+            "lng": 124.25
+        },
+        {
+            "code": "PH-SLE",
+            "name": "Southern Leyte",
+            "division": "province",
+            "parent": "PH-08",
+            "lat": 10.3920483,
+            "lng": 124.97994249999999
+        },
+        {
+            "code": "PH-SUK",
+            "name": "Sultan Kudarat",
+            "division": "province",
+            "parent": "PH-12",
+            "lat": 6.1224235,
+            "lng": 124.36115670000004
+        },
+        {
+            "code": "PH-SLU",
+            "name": "Sulu",
+            "division": "province",
+            "parent": "PH-14",
+            "lat": 5.9691815,
+            "lng": 121.12521349999997
+        },
+        {
+            "code": "PH-SUN",
+            "name": "Surigao del Norte",
+            "division": "province",
+            "parent": "PH-13",
+            "lat": 9.7806094,
+            "lng": 125.49103259999993
+        },
+        {
+            "code": "PH-SUR",
+            "name": "Surigao del Sur",
+            "division": "province",
+            "parent": "PH-13",
+            "lat": 9.7833333,
+            "lng": 125.48333330000003
+        },
+        {
+            "code": "PH-TAR",
+            "name": "Tarlac",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 15.4666667,
+            "lng": 120.58333330000005
+        },
+        {
+            "code": "PH-TAW",
+            "name": "Tawi-Tawi",
+            "division": "province",
+            "parent": "PH-14",
+            "lat": 5.2544444,
+            "lng": 120.15583330000004
+        },
+        {
+            "code": "PH-WSA",
+            "name": "Western Samar",
+            "division": "province",
+            "parent": "PH-08"
+        },
+        {
+            "code": "PH-ZMB",
+            "name": "Zambales",
+            "division": "province",
+            "parent": "PH-03",
+            "lat": 15.0619444,
+            "lng": 120.06999999999994
+        },
+        {
+            "code": "PH-ZAN",
+            "name": "Zamboanga del Norte",
+            "division": "province",
+            "parent": "PH-09",
+            "lat": 8.604678,
+            "lng": 123.34868789999996
+        },
+        {
+            "code": "PH-ZAS",
+            "name": "Zamboanga del Sur",
+            "division": "province",
+            "parent": "PH-09",
+            "lat": 7.8338865,
+            "lng": 123.44150630000001
+        },
+        {
+            "code": "PH-ZSI",
+            "name": "Zamboanga Sibugay",
+            "division": "province",
+            "parent": "PH-09",
+            "lat": 6.9,
+            "lng": 122.06666670000004
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Madagascar",
+    "alpha-2": "MG",
+    "alpha-3": "MDG",
+    "country-code": "450",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "MG-T",
+            "name": "Antananarivo",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -18.914872,
+            "lng": 47.531611999999996
+        },
+        {
+            "code": "MG-D",
+            "name": "Antsiranana",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -12.2809,
+            "lng": 49.290858999999955
+        },
+        {
+            "code": "MG-F",
+            "name": "Fianarantsoa",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -21.4536111,
+            "lng": 47.08583329999999
+        },
+        {
+            "code": "MG-M",
+            "name": "Mahajanga",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -15.7166667,
+            "lng": 46.31666670000004
+        },
+        {
+            "code": "MG-A",
+            "name": "Toamasina",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -18.1499,
+            "lng": 49.40230900000006
+        },
+        {
+            "code": "MG-U",
+            "name": "Toliara",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -23.35,
+            "lng": 43.66666669999995
+        }
+    ]
+}

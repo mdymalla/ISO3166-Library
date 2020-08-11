@@ -1,0 +1,49 @@
+{
+    "name": "Bahrain",
+    "alpha-2": "BH",
+    "alpha-3": "BHR",
+    "country-code": "048",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "BH-13",
+            "name": "Al Man\u0101mah (Al \u2018\u0100\u015fimah)",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.2074507,
+            "lng": 50.53843470000004
+        },
+        {
+            "code": "BH-14",
+            "name": "Al Jan\u016bb\u012byah",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 36.8218211,
+            "lng": 10.1858072
+        },
+        {
+            "code": "BH-15",
+            "name": "Al Mu\u1e29arraq",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.25,
+            "lng": 50.616666699999996
+        },
+        {
+            "code": "BH-16",
+            "name": "Al Wus\u0163\u00e1",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 24.6098375,
+            "lng": 46.63363149999998
+        },
+        {
+            "code": "BH-17",
+            "name": "Ash Sham\u0101l\u012byah",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.2935171,
+            "lng": 50.217544299999986
+        }
+    ]
+}

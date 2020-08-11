@@ -1,0 +1,301 @@
+{
+    "name": "Moldova",
+    "alpha-2": "MD",
+    "alpha-3": "MDA",
+    "country-code": "498",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "MD-GA",
+            "name": "G\u0103g\u0103uzia, Unitatea teritorial\u0103 autonom\u0103",
+            "division": "autonomous territorial unit",
+            "parent": "MD",
+            "lat": 32.1574351,
+            "lng": -82.90712300000001
+        },
+        {
+            "code": "MD-BA",
+            "name": "B\u0103l\u021bi",
+            "division": "city",
+            "parent": "MD"
+        },
+        {
+            "code": "MD-BD",
+            "name": "Tighina",
+            "division": "city",
+            "parent": "MD",
+            "lat": 46.8751254,
+            "lng": 29.2454338
+        },
+        {
+            "code": "MD-CU",
+            "name": "Chi\u0219in\u0103u",
+            "division": "city",
+            "parent": "MD",
+            "lat": 47.0392872,
+            "lng": 28.864200600000004
+        },
+        {
+            "code": "MD-AN",
+            "name": "Anenii Noi",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.8833333,
+            "lng": 29.21666670000002
+        },
+        {
+            "code": "MD-BS",
+            "name": "Basarabeasca",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.3333333,
+            "lng": 28.96666670000002
+        },
+        {
+            "code": "MD-BR",
+            "name": "Briceni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.3632022,
+            "lng": 27.075039800000013
+        },
+        {
+            "code": "MD-CA",
+            "name": "Cahul",
+            "division": "district",
+            "parent": "MD",
+            "lat": 45.904579,
+            "lng": 28.19856100000004
+        },
+        {
+            "code": "MD-CT",
+            "name": "Cantemir",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.2771742,
+            "lng": 28.200965300000007
+        },
+        {
+            "code": "MD-CL",
+            "name": "C\u0103l\u0103ra\u0219i",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.261791,
+            "lng": 28.324640000000045
+        },
+        {
+            "code": "MD-CS",
+            "name": "C\u0103u\u0219eni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.6418,
+            "lng": 29.409419999999955
+        },
+        {
+            "code": "MD-CM",
+            "name": "Cimi\u0219lia",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.528858,
+            "lng": 28.78375099999994
+        },
+        {
+            "code": "MD-CR",
+            "name": "Criuleni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.205249,
+            "lng": 29.158379999999966
+        },
+        {
+            "code": "MD-DO",
+            "name": "Dondu\u0219eni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.243469,
+            "lng": 27.613831000000005
+        },
+        {
+            "code": "MD-DR",
+            "name": "Drochia",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.031247,
+            "lng": 27.828722999999968
+        },
+        {
+            "code": "MD-DU",
+            "name": "Dub\u0103sari",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.266041,
+            "lng": 29.157159999999976
+        },
+        {
+            "code": "MD-ED",
+            "name": "Edine\u021b",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.1666667,
+            "lng": 27.31666670000004
+        },
+        {
+            "code": "MD-FA",
+            "name": "F\u0103le\u0219ti",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.57621,
+            "lng": 27.71853999999996
+        },
+        {
+            "code": "MD-FL",
+            "name": "Flore\u0219ti",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.8933333,
+            "lng": 28.301388900000006
+        },
+        {
+            "code": "MD-GL",
+            "name": "Glodeni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.7666667,
+            "lng": 27.516666699999973
+        },
+        {
+            "code": "MD-HI",
+            "name": "H\u00eence\u0219ti",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.8166667,
+            "lng": 28.58333330000005
+        },
+        {
+            "code": "MD-IA",
+            "name": "Ialoveni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.95,
+            "lng": 28.78333329999998
+        },
+        {
+            "code": "MD-LE",
+            "name": "Leova",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.4833333,
+            "lng": 28.25
+        },
+        {
+            "code": "MD-NI",
+            "name": "Nisporeni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.0833333,
+            "lng": 28.18333329999996
+        },
+        {
+            "code": "MD-OC",
+            "name": "Ocni\u021ba",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.41243,
+            "lng": 27.493052000000034
+        },
+        {
+            "code": "MD-OR",
+            "name": "Orhei",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.3833333,
+            "lng": 28.81666670000004
+        },
+        {
+            "code": "MD-RE",
+            "name": "Rezina",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.741718,
+            "lng": 28.963381000000027
+        },
+        {
+            "code": "MD-RI",
+            "name": "R\u00ee\u0219cani",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.950001,
+            "lng": 27.56628999999998
+        },
+        {
+            "code": "MD-SI",
+            "name": "S\u00eengerei",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.5667466,
+            "lng": 28.17816670000002
+        },
+        {
+            "code": "MD-SO",
+            "name": "Soroca",
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.1666667,
+            "lng": 28.299999999999955
+        },
+        {
+            "code": "MD-ST",
+            "name": "Str\u0103\u0219eni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.14204,
+            "lng": 28.618370000000027
+        },
+        {
+            "code": "MD-SD",
+            "name": "\u0218old\u0103ne\u0219ti",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.8166667,
+            "lng": 28.799999999999955
+        },
+        {
+            "code": "MD-SV",
+            "name": "\u0218tefan Vod\u0103",
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.5153404,
+            "lng": 29.662445899999966
+        },
+        {
+            "code": "MD-TA",
+            "name": "Taraclia",
+            "division": "district",
+            "parent": "MD",
+            "lat": 45.9,
+            "lng": 28.668888899999956
+        },
+        {
+            "code": "MD-TE",
+            "name": "Telene\u0219ti",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.5027778,
+            "lng": 28.366666699999996
+        },
+        {
+            "code": "MD-UN",
+            "name": "Ungheni",
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.2166667,
+            "lng": 27.81666670000004
+        },
+        {
+            "code": "MD-SN",
+            "name": "St\u00eenga Nistrului, unitatea teritorial\u0103 din",
+            "division": "territorial unit",
+            "parent": "MD"
+        }
+    ]
+}

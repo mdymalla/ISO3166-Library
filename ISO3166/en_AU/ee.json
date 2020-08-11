@@ -1,0 +1,123 @@
+{
+    "name": "Estonia",
+    "alpha-2": "EE",
+    "alpha-3": "EST",
+    "country-code": "233",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "EE-37",
+            "name": "Harjumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3039486,
+            "lng": 24.43979730000001
+        },
+        {
+            "code": "EE-39",
+            "name": "Hiiumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.9239553,
+            "lng": 22.59194679999996
+        },
+        {
+            "code": "EE-44",
+            "name": "Ida-Virumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3473967,
+            "lng": 28.168977199999972
+        },
+        {
+            "code": "EE-49",
+            "name": "J\u00f5gevamaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.7094265,
+            "lng": 25.747190300000057
+        },
+        {
+            "code": "EE-51",
+            "name": "J\u00e4rvamaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.888928,
+            "lng": 25.55744149999998
+        },
+        {
+            "code": "EE-57",
+            "name": "L\u00e4\u00e4nemaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.948764,
+            "lng": 23.54073399999993
+        },
+        {
+            "code": "EE-59",
+            "name": "L\u00e4\u00e4ne-Virumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3453739,
+            "lng": 26.83297749999997
+        },
+        {
+            "code": "EE-65",
+            "name": "P\u00f5lvamaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.0024626,
+            "lng": 27.343599700000027
+        },
+        {
+            "code": "EE-67",
+            "name": "P\u00e4rnumaa",
+            "division": "county",
+            "parent": "EE"
+        },
+        {
+            "code": "EE-70",
+            "name": "Raplamaa",
+            "division": "county",
+            "parent": "EE"
+        },
+        {
+            "code": "EE-74",
+            "name": "Saaremaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.4849721,
+            "lng": 22.61364070000002
+        },
+        {
+            "code": "EE-78",
+            "name": "Tartumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.2247949,
+            "lng": 26.420096400000034
+        },
+        {
+            "code": "EE-82",
+            "name": "Valgamaa",
+            "division": "county",
+            "parent": "EE"
+        },
+        {
+            "code": "EE-84",
+            "name": "Viljandimaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.7921895,
+            "lng": 25.421504400000003
+        },
+        {
+            "code": "EE-86",
+            "name": "V\u00f5rumaa",
+            "division": "county",
+            "parent": "EE",
+            "lat": 57.7693312,
+            "lng": 26.06817849999993
+        }
+    ]
+}

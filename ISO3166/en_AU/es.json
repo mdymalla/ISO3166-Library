@@ -1,0 +1,559 @@
+{
+    "name": "Spain",
+    "alpha-2": "ES",
+    "alpha-3": "ESP",
+    "country-code": "724",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "ES-AN",
+            "name": "Andaluc\u00eda",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 37.7616494,
+            "lng": -3.7646191000000044
+        },
+        {
+            "code": "ES-AR",
+            "name": "Arag\u00f3n",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.6521757,
+            "lng": -1.310852000000068
+        },
+        {
+            "code": "ES-AS",
+            "name": "Asturias, Principado de",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 43.3889264,
+            "lng": -5.688461599999982
+        },
+        {
+            "code": "ES-CN",
+            "name": "Canarias",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 28.2915637,
+            "lng": -16.629130400000008
+        },
+        {
+            "code": "ES-CB",
+            "name": "Cantabria",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 43.1828396,
+            "lng": -3.9878426999999874
+        },
+        {
+            "code": "ES-CM",
+            "name": "Castilla-La Mancha",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.2795607,
+            "lng": -3.0977020000000266
+        },
+        {
+            "code": "ES-CL",
+            "name": "Castilla y Le\u00f3n",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 41.8356821,
+            "lng": -4.3976357000000235
+        },
+        {
+            "code": "ES-CT",
+            "name": "Catalunya",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 41.5911589,
+            "lng": 1.5208623999999418
+        },
+        {
+            "code": "ES-EX",
+            "name": "Extremadura",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.4937392,
+            "lng": -6.067919399999937
+        },
+        {
+            "code": "ES-GA",
+            "name": "Galicia",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.5750554,
+            "lng": -8.133855799999992
+        },
+        {
+            "code": "ES-PM",
+            "name": "Illes Balears",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.5341789,
+            "lng": 2.857710499999939
+        },
+        {
+            "code": "ES-RI",
+            "name": "La Rioja",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.2870733,
+            "lng": -2.5396029999999428
+        },
+        {
+            "code": "ES-MD",
+            "name": "Madrid, Comunidad de",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 40.4702826,
+            "lng": -3.666906299999937
+        },
+        {
+            "code": "ES-MC",
+            "name": "Murcia, Regi\u00f3n de",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 37.9834449,
+            "lng": -1.1298897000000352
+        },
+        {
+            "code": "ES-NC",
+            "name": "Navarra, Comunidad Foral de \/ Nafarroako Foru Komunitatea",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 35.7595731,
+            "lng": -79.01929970000003
+        },
+        {
+            "code": "ES-PV",
+            "name": "Pa\u00eds Vasco \/ Euskal Herria",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.9896248,
+            "lng": -2.6189272999999957
+        },
+        {
+            "code": "ES-VC",
+            "name": "Valenciana, Comunidad \/ Valenciana, Comunitat ",
+            "division": "autonomous community",
+            "parent": "ES"
+        },
+        {
+            "code": "ES-C",
+            "name": "A Coru\u00f1a",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 43.3708731,
+            "lng": -8.395835000000034
+        },
+        {
+            "code": "ES-VI",
+            "name": "\u00c1lava",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 42.8478523,
+            "lng": -2.683532600000035
+        },
+        {
+            "code": "ES-AB",
+            "name": "Albacete",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 38.9976516,
+            "lng": -1.86007010000003
+        },
+        {
+            "code": "ES-A",
+            "name": "Alicante",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 38.3452032,
+            "lng": -0.4810059999999794
+        },
+        {
+            "code": "ES-AL",
+            "name": "Almer\u00eda",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.8401638,
+            "lng": -2.4679217000000335
+        },
+        {
+            "code": "ES-O",
+            "name": "Asturias",
+            "division": "province",
+            "parent": "ES-AS",
+            "lat": 43.2504393,
+            "lng": -5.983257699999967
+        },
+        {
+            "code": "ES-AV",
+            "name": "\u00c1vila",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.6564225,
+            "lng": -4.700322400000005
+        },
+        {
+            "code": "ES-BA",
+            "name": "Badajoz",
+            "division": "province",
+            "parent": "ES-EX",
+            "lat": 38.8785967,
+            "lng": -6.970283399999971
+        },
+        {
+            "code": "ES-IB",
+            "name": "Balears",
+            "division": "province",
+            "parent": "ES",
+            "lat": 39.5341789,
+            "lng": 2.857710499999939
+        },
+        {
+            "code": "ES-B",
+            "name": "Barcelona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.387917,
+            "lng": 2.1699187000000393
+        },
+        {
+            "code": "ES-BU",
+            "name": "Burgos",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.3408747,
+            "lng": -3.699730999999929
+        },
+        {
+            "code": "ES-CC",
+            "name": "C\u00e1ceres",
+            "division": "province",
+            "parent": "ES-EX",
+            "lat": 39.4761789,
+            "lng": -6.370760399999995
+        },
+        {
+            "code": "ES-CA",
+            "name": "C\u00e1diz",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.5296879,
+            "lng": -6.292656899999997
+        },
+        {
+            "code": "ES-S",
+            "name": "Cantabria",
+            "division": "province",
+            "parent": "ES-CB",
+            "lat": 43.1828396,
+            "lng": -3.9878426999999874
+        },
+        {
+            "code": "ES-CS",
+            "name": "Castell\u00f3n",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 39.9860683,
+            "lng": -0.03602420000004258
+        },
+        {
+            "code": "ES-CR",
+            "name": "Ciudad Real",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 38.9860963,
+            "lng": -3.9272628999999597
+        },
+        {
+            "code": "ES-CO",
+            "name": "C\u00f3rdoba",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.8847267,
+            "lng": -4.779151700000057
+        },
+        {
+            "code": "ES-CU",
+            "name": "Cuenca",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 40.0718353,
+            "lng": -2.1340053000000125
+        },
+        {
+            "code": "ES-GI",
+            "name": "Girona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.9817957,
+            "lng": 2.823699900000065
+        },
+        {
+            "code": "ES-GR",
+            "name": "Granada",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.1764874,
+            "lng": -3.5979290999999876
+        },
+        {
+            "code": "ES-GU",
+            "name": "Guadalajara",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 40.629816,
+            "lng": -3.166493100000025
+        },
+        {
+            "code": "ES-SS",
+            "name": "Guip\u00fazcoa \/ Gipuzkoa",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 43.3209906,
+            "lng": -1.982391000000007
+        },
+        {
+            "code": "ES-H",
+            "name": "Huelva",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.2571009,
+            "lng": -6.9495547000000215
+        },
+        {
+            "code": "ES-HU",
+            "name": "Huesca",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 42.1401024,
+            "lng": -0.40889800000002197
+        },
+        {
+            "code": "ES-J",
+            "name": "Ja\u00e9n",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.7657389,
+            "lng": -3.789517700000033
+        },
+        {
+            "code": "ES-LO",
+            "name": "La Rioja",
+            "division": "province",
+            "parent": "ES-RI",
+            "lat": 42.2870733,
+            "lng": -2.5396029999999428
+        },
+        {
+            "code": "ES-GC",
+            "name": "Las Palmas",
+            "division": "province",
+            "parent": "ES-CN",
+            "lat": 28.1248227,
+            "lng": -15.43000649999999
+        },
+        {
+            "code": "ES-LE",
+            "name": "Le\u00f3n",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.5998764,
+            "lng": -5.57175200000006
+        },
+        {
+            "code": "ES-L",
+            "name": "Lleida",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.6141518,
+            "lng": 0.6257825000000139
+        },
+        {
+            "code": "ES-LU",
+            "name": "Lugo",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 43.0120868,
+            "lng": -7.555851399999938
+        },
+        {
+            "code": "ES-M",
+            "name": "Madrid",
+            "division": "province",
+            "parent": "ES-MD",
+            "lat": 40.4166909,
+            "lng": -3.70034540000006
+        },
+        {
+            "code": "ES-MA",
+            "name": "M\u00e1laga",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.7196459,
+            "lng": -4.4200186000000485
+        },
+        {
+            "code": "ES-MU",
+            "name": "Murcia",
+            "division": "province",
+            "parent": "ES-MC",
+            "lat": 37.9834449,
+            "lng": -1.1298897000000352
+        },
+        {
+            "code": "ES-NA",
+            "name": "Navarra \/ Nafarroa",
+            "division": "province",
+            "parent": "ES-NC",
+            "lat": 42.6953909,
+            "lng": -1.6760690999999497
+        },
+        {
+            "code": "ES-OR",
+            "name": "Ourense",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 42.3400086,
+            "lng": -7.864640799999961
+        },
+        {
+            "code": "ES-P",
+            "name": "Palencia",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.0124584,
+            "lng": -4.531174800000031
+        },
+        {
+            "code": "ES-PO",
+            "name": "Pontevedra",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 42.4336191,
+            "lng": -8.648053000000004
+        },
+        {
+            "code": "ES-SA",
+            "name": "Salamanca",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.9649717,
+            "lng": -5.663047099999972
+        },
+        {
+            "code": "ES-TF",
+            "name": "Santa Cruz de Tenerife",
+            "division": "province",
+            "parent": "ES-CN",
+            "lat": 28.46981,
+            "lng": -16.254855799999973
+        },
+        {
+            "code": "ES-SG",
+            "name": "Segovia",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.9494272,
+            "lng": -4.1192092
+        },
+        {
+            "code": "ES-SE",
+            "name": "Sevilla",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.38264,
+            "lng": -5.9962950999999975
+        },
+        {
+            "code": "ES-SO",
+            "name": "Soria",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.7635982,
+            "lng": -2.4649206000000277
+        },
+        {
+            "code": "ES-T",
+            "name": "Tarragona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.1186629,
+            "lng": 1.2453299999999672
+        },
+        {
+            "code": "ES-TE",
+            "name": "Teruel",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 40.3441099,
+            "lng": -1.1069095999999945
+        },
+        {
+            "code": "ES-TO",
+            "name": "Toledo",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 39.8567775,
+            "lng": -4.02447589999997
+        },
+        {
+            "code": "ES-V",
+            "name": "Valencia \/ Val\u00e8ncia",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 39.4702393,
+            "lng": -0.37680490000002465
+        },
+        {
+            "code": "ES-VA",
+            "name": "Valladolid",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.6529473,
+            "lng": -4.728387699999985
+        },
+        {
+            "code": "ES-BI",
+            "name": "Vizcayaa \/ Bizkaia",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 43.2648596,
+            "lng": -2.916554099999985
+        },
+        {
+            "code": "ES-ZA",
+            "name": "Zamora",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.5036834,
+            "lng": -5.743778099999986
+        },
+        {
+            "code": "ES-Z",
+            "name": "Zaragoza",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 41.6562873,
+            "lng": -0.8765379000000166
+        },
+        {
+            "code": "ES-CE",
+            "name": "Ceuta",
+            "division": "autonomous city",
+            "parent": "ES",
+            "lat": 35.8882871,
+            "lng": -5.316194900000028
+        },
+        {
+            "code": "ES-ML",
+            "name": "Melilla",
+            "division": "autonomous city",
+            "parent": "ES",
+            "lat": 35.2923388,
+            "lng": -2.938793799999985
+        }
+    ]
+}

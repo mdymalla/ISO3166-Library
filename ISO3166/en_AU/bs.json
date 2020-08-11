@@ -1,0 +1,251 @@
+{
+    "name": "Bahamas",
+    "alpha-2": "BS",
+    "alpha-3": "BHS",
+    "country-code": "044",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "BS-AC",
+            "name": "Acklins Islands",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-BY",
+            "name": "Berry Islands",
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.7236234,
+            "lng": -77.83101039999997
+        },
+        {
+            "code": "BS-BI",
+            "name": "Bimini and Cat Cay",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-BP",
+            "name": "Black Point",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.081843,
+            "lng": -76.39646700000003
+        },
+        {
+            "code": "BS-CI",
+            "name": "Cat Island",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.3153102,
+            "lng": -75.45777750000002
+        },
+        {
+            "code": "BS-CO",
+            "name": "Central Abaco",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-CS",
+            "name": "Central Andros",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-CE",
+            "name": "Central Eleuthera",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-FP",
+            "name": "City of Freeport",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.5237004,
+            "lng": -78.63987370000001
+        },
+        {
+            "code": "BS-CK",
+            "name": "Crooked Island and Long Cay",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-EG",
+            "name": "East Grand Bahama",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.659447,
+            "lng": -78.52064999999999
+        },
+        {
+            "code": "BS-EX",
+            "name": "Exuma",
+            "division": "district",
+            "parent": "BS",
+            "lat": 23.5333333,
+            "lng": -75.83333329999999
+        },
+        {
+            "code": "BS-GC",
+            "name": "Grand Cay",
+            "division": "district",
+            "parent": "BS",
+            "lat": 27.2166667,
+            "lng": -78.33333329999999
+        },
+        {
+            "code": "BS-GT",
+            "name": "Green Turtle Cay",
+            "division": "district",
+            "parent": "BS"
+        },
+        {
+            "code": "BS-HI",
+            "name": "Harbour Island",
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.4985244,
+            "lng": -76.63260700000001
+        },
+        {
+            "code": "BS-HT",
+            "name": "Hope Town",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.539421,
+            "lng": -76.95884000000001
+        },
+        {
+            "code": "BS-IN",
+            "name": "Inagua",
+            "division": "district",
+            "parent": "BS",
+            "lat": 21.0656066,
+            "lng": -73.32370800000001
+        },
+        {
+            "code": "BS-LI",
+            "name": "Long Island",
+            "division": "district",
+            "parent": "BS",
+            "lat": 23.1764239,
+            "lng": -75.09615489999999
+        },
+        {
+            "code": "BS-MC",
+            "name": "Mangrove Cay",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.2,
+            "lng": -77.75
+        },
+        {
+            "code": "BS-MG",
+            "name": "Mayaguana",
+            "division": "district",
+            "parent": "BS",
+            "lat": 22.4017714,
+            "lng": -73.06413959999998
+        },
+        {
+            "code": "BS-MI",
+            "name": "Moore's Island",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.304823,
+            "lng": -77.55620999999996
+        },
+        {
+            "code": "BS-NO",
+            "name": "North Abaco",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.2879826,
+            "lng": -77.17152279999999
+        },
+        {
+            "code": "BS-NS",
+            "name": "North Andros",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.7063805,
+            "lng": -78.0195387
+        },
+        {
+            "code": "BS-NE",
+            "name": "North Eleuthera",
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.475268,
+            "lng": -76.68258100000003
+        },
+        {
+            "code": "BS-RI",
+            "name": "Ragged Island",
+            "division": "district",
+            "parent": "BS",
+            "lat": 22.1908067,
+            "lng": -75.73424160000002
+        },
+        {
+            "code": "BS-RC",
+            "name": "Rum Cay",
+            "division": "district",
+            "parent": "BS",
+            "lat": 23.6854676,
+            "lng": -74.8390162
+        },
+        {
+            "code": "BS-SS",
+            "name": "San Salvador",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.0775546,
+            "lng": -74.47600879999999
+        },
+        {
+            "code": "BS-SO",
+            "name": "South Abaco",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.2879826,
+            "lng": -77.17152279999999
+        },
+        {
+            "code": "BS-SA",
+            "name": "South Andros",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.7063805,
+            "lng": -78.0195387
+        },
+        {
+            "code": "BS-SE",
+            "name": "South Eleuthera",
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.895249,
+            "lng": -76.17638599999998
+        },
+        {
+            "code": "BS-SW",
+            "name": "Spanish Wells",
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.5469091,
+            "lng": -76.7639499
+        },
+        {
+            "code": "BS-WG",
+            "name": "West Grand Bahama",
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.659447,
+            "lng": -78.52064999999999
+        }
+    ]
+}

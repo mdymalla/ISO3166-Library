@@ -1,0 +1,57 @@
+{
+    "name": "Turkmenistan",
+    "alpha-2": "TM",
+    "alpha-3": "TKM",
+    "country-code": "795",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "TM-A",
+            "name": "Ahal",
+            "division": "region",
+            "parent": "TM",
+            "lat": 38.8375215,
+            "lng": 59.10417580000001
+        },
+        {
+            "code": "TM-B",
+            "name": "Balkan",
+            "division": "region",
+            "parent": "TM",
+            "lat": 40.9468884,
+            "lng": 54.495243200000004
+        },
+        {
+            "code": "TM-D",
+            "name": "Da\u015foguz",
+            "division": "region",
+            "parent": "TM",
+            "lat": 41.834461,
+            "lng": 59.95732099999998
+        },
+        {
+            "code": "TM-L",
+            "name": "Lebap",
+            "division": "region",
+            "parent": "TM",
+            "lat": 38.1272462,
+            "lng": 64.71624150000002
+        },
+        {
+            "code": "TM-M",
+            "name": "Mary",
+            "division": "region",
+            "parent": "TM",
+            "lat": 37.6,
+            "lng": 61.83333330000005
+        },
+        {
+            "code": "TM-S",
+            "name": "A\u015fgabat",
+            "division": "city",
+            "parent": "TM",
+            "lat": 37.950197,
+            "lng": 58.380223
+        }
+    ]
+}

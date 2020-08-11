@@ -1,0 +1,33 @@
+{
+    "name": "Kiribati",
+    "alpha-2": "KI",
+    "alpha-3": "KIR",
+    "country-code": "296",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "KI-G",
+            "name": "Gilbert Islands",
+            "division": "island group",
+            "parent": "KI",
+            "lat": 0.3593445,
+            "lng": 173.186325
+        },
+        {
+            "code": "KI-L",
+            "name": "Line Islands",
+            "division": "island group",
+            "parent": "KI",
+            "lat": 1.7429439,
+            "lng": -157.2132826
+        },
+        {
+            "code": "KI-P",
+            "name": "Phoenix Islands",
+            "division": "island group",
+            "parent": "KI",
+            "lat": -3.7302575,
+            "lng": -172.6275405
+        }
+    ]
+}

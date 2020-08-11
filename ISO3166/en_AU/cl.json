@@ -1,0 +1,121 @@
+{
+    "name": "Chile",
+    "alpha-2": "CL",
+    "alpha-3": "CHL",
+    "country-code": "152",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "CL-AI",
+            "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "division": "region",
+            "parent": "CL",
+            "lat": -46.378345,
+            "lng": -72.30076229999997
+        },
+        {
+            "code": "CL-AN",
+            "name": "Antofagasta",
+            "division": "region",
+            "parent": "CL",
+            "lat": -23.6239214,
+            "lng": -70.40161269999999
+        },
+        {
+            "code": "CL-AR",
+            "name": "Araucan\u00eda",
+            "division": "region",
+            "parent": "CL",
+            "lat": -38.948921,
+            "lng": -72.33111300000002
+        },
+        {
+            "code": "CL-AP",
+            "name": "Arica y Parinacota",
+            "division": "region",
+            "parent": "CL",
+            "lat": -18.2,
+            "lng": -69.26666699999998
+        },
+        {
+            "code": "CL-AT",
+            "name": "Atacama",
+            "division": "region",
+            "parent": "CL"
+        },
+        {
+            "code": "CL-BI",
+            "name": "B\u00edo-B\u00edo",
+            "division": "region",
+            "parent": "CL"
+        },
+        {
+            "code": "CL-CO",
+            "name": "Coquimbo",
+            "division": "region",
+            "parent": "CL",
+            "lat": -29.9711149,
+            "lng": -71.30716359999997
+        },
+        {
+            "code": "CL-LI",
+            "name": "Libertador General Bernardo O'Higgins",
+            "division": "region",
+            "parent": "CL",
+            "lat": -34.5755374,
+            "lng": -71.00223110000002
+        },
+        {
+            "code": "CL-LL",
+            "name": "Los Lagos",
+            "division": "region",
+            "parent": "CL"
+        },
+        {
+            "code": "CL-LR",
+            "name": "Los R\u00edos",
+            "division": "region",
+            "parent": "CL"
+        },
+        {
+            "code": "CL-MA",
+            "name": "Magallanes y Ant\u00e1rtica Chilena",
+            "division": "region",
+            "parent": "CL",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        {
+            "code": "CL-ML",
+            "name": "Maule",
+            "division": "region",
+            "parent": "CL",
+            "lat": -35.5118152,
+            "lng": -71.68910089999997
+        },
+        {
+            "code": "CL-RM",
+            "name": "Regi\u00f3n Metropolitana de Santiago",
+            "division": "region",
+            "parent": "CL",
+            "lat": -33.4253598,
+            "lng": -70.56646590000003
+        },
+        {
+            "code": "CL-TA",
+            "name": "Tarapac\u00e1",
+            "division": "region",
+            "parent": "CL",
+            "lat": -19.922211,
+            "lng": -69.505852
+        },
+        {
+            "code": "CL-VS",
+            "name": "Valpara\u00edso",
+            "division": "region",
+            "parent": "CL",
+            "lat": -33.0504619,
+            "lng": -71.61645149999998
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Togo",
+    "alpha-2": "TG",
+    "alpha-3": "TGO",
+    "country-code": "768",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "TG-C",
+            "name": "R\u00e9gion du Centre",
+            "division": "region",
+            "parent": "TG",
+            "lat": 5.5607846,
+            "lng": -1.0586134999999786
+        },
+        {
+            "code": "TG-K",
+            "name": "R\u00e9gion de la Kara",
+            "division": "region",
+            "parent": "TG",
+            "lat": 9.5488889,
+            "lng": 1.1905556000000388
+        },
+        {
+            "code": "TG-M",
+            "name": "R\u00e9gion Maritime",
+            "division": "region",
+            "parent": "TG",
+            "lat": 42.8538251,
+            "lng": -73.90766009999999
+        },
+        {
+            "code": "TG-P",
+            "name": "R\u00e9gion des Plateaux",
+            "division": "region",
+            "parent": "TG"
+        },
+        {
+            "code": "TG-S",
+            "name": "R\u00e9gion des Savannes",
+            "division": "region",
+            "parent": "TG"
+        }
+    ]
+}

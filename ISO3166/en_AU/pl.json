@@ -1,0 +1,137 @@
+{
+    "name": "Poland",
+    "alpha-2": "PL",
+    "alpha-3": "POL",
+    "country-code": "616",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "PL-DS",
+            "name": "Dolno\u015bl\u0105skie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 51.1339861,
+            "lng": 16.884196100000054
+        },
+        {
+            "code": "PL-KP",
+            "name": "Kujawsko-pomorskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 53.1648363,
+            "lng": 18.483422399999995
+        },
+        {
+            "code": "PL-LU",
+            "name": "Lubelskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 51.2493519,
+            "lng": 23.101139200000034
+        },
+        {
+            "code": "PL-LB",
+            "name": "Lubuskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 52.2274612,
+            "lng": 15.255910299999982
+        },
+        {
+            "code": "PL-LD",
+            "name": "\u0141\u00f3dzkie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 51.4634771,
+            "lng": 19.17269740000006
+        },
+        {
+            "code": "PL-MA",
+            "name": "Ma\u0142opolskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 49.7225306,
+            "lng": 20.250335899999982
+        },
+        {
+            "code": "PL-MZ",
+            "name": "Mazowieckie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 52.5373228,
+            "lng": 21.07682879999993
+        },
+        {
+            "code": "PL-OP",
+            "name": "Opolskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 50.8003761,
+            "lng": 17.937989000000016
+        },
+        {
+            "code": "PL-PK",
+            "name": "Podkarpackie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 50.0574749,
+            "lng": 22.089569100000062
+        },
+        {
+            "code": "PL-PD",
+            "name": "Podlaskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 53.0697159,
+            "lng": 22.967463899999984
+        },
+        {
+            "code": "PL-PM",
+            "name": "Pomorskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 54.2944252,
+            "lng": 18.153116400000044
+        },
+        {
+            "code": "PL-SL",
+            "name": "\u015al\u0105skie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 50.2558286,
+            "lng": 18.855570400000033
+        },
+        {
+            "code": "PL-SK",
+            "name": "\u015awi\u0119tokrzyskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 50.6261041,
+            "lng": 20.94062789999998
+        },
+        {
+            "code": "PL-WN",
+            "name": "Warmi\u0144sko-mazurskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 53.8671117,
+            "lng": 20.70278600000006
+        },
+        {
+            "code": "PL-WP",
+            "name": "Wielkopolskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 52.279986,
+            "lng": 17.35229389999995
+        },
+        {
+            "code": "PL-ZP",
+            "name": "Zachodniopomorskie",
+            "division": "province",
+            "parent": "PL",
+            "lat": 53.1032411,
+            "lng": 14.91375579999999
+        }
+    ]
+}

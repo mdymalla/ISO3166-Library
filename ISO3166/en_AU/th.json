@@ -1,0 +1,625 @@
+{
+    "name": "Thailand",
+    "alpha-2": "TH",
+    "alpha-3": "THA",
+    "country-code": "764",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "TH-10",
+            "name": "Krung Thep Maha Nakhon Bangkok",
+            "division": "municipality",
+            "parent": "TH",
+            "lat": 13.743622,
+            "lng": 100.63317430000006
+        },
+        {
+            "code": "TH-S",
+            "name": "Phatthaya",
+            "division": "province",
+            "parent": "TH",
+            "lat": 12.9346834,
+            "lng": 100.8919909
+        },
+        {
+            "code": "TH-37",
+            "name": "Amnat Charoen",
+            "division": "province",
+            "parent": "TH",
+            "lat": 15.8722966,
+            "lng": 104.624369
+        },
+        {
+            "code": "TH-15",
+            "name": "Ang Thong",
+            "division": "province",
+            "parent": "TH",
+            "lat": 7.5527656,
+            "lng": 99.41259030000003
+        },
+        {
+            "code": "TH-31",
+            "name": "Buri Ram",
+            "division": "province",
+            "parent": "TH",
+            "lat": 15.0954961,
+            "lng": 103.11337720000006
+        },
+        {
+            "code": "TH-24",
+            "name": "Chachoengsao",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.6923567,
+            "lng": 101.07273550000002
+        },
+        {
+            "code": "TH-18",
+            "name": "Chai Nat",
+            "division": "province",
+            "parent": "TH",
+            "lat": 15.15112,
+            "lng": 100.15108800000007
+        },
+        {
+            "code": "TH-36",
+            "name": "Chaiyaphum",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.7387785,
+            "lng": 100.50727899999993
+        },
+        {
+            "code": "TH-22",
+            "name": "Chanthaburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 12.8022984,
+            "lng": 101.83104290000006
+        },
+        {
+            "code": "TH-50",
+            "name": "Chiang Mai",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.7330388,
+            "lng": 100.50645869999994
+        },
+        {
+            "code": "TH-57",
+            "name": "Chiang Rai",
+            "division": "province",
+            "parent": "TH",
+            "lat": 19.885679,
+            "lng": 99.82687499999997
+        },
+        {
+            "code": "TH-20",
+            "name": "Chon Buri",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.3404683,
+            "lng": 100.95874690000005
+        },
+        {
+            "code": "TH-86",
+            "name": "Chumphon",
+            "division": "province",
+            "parent": "TH",
+            "lat": 10.7148059,
+            "lng": 99.35874039999999
+        },
+        {
+            "code": "TH-46",
+            "name": "Kalasin",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.4325096,
+            "lng": 103.50691890000007
+        },
+        {
+            "code": "TH-62",
+            "name": "Kamphaeng Phet",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.4877657,
+            "lng": 99.52172440000004
+        },
+        {
+            "code": "TH-71",
+            "name": "Kanchanaburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.9986385,
+            "lng": 99.55403750000005
+        },
+        {
+            "code": "TH-40",
+            "name": "Khon Kaen",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.6282921,
+            "lng": 102.79564559999994
+        },
+        {
+            "code": "TH-81",
+            "name": "Krabi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 8.0970043,
+            "lng": 98.97831199999996
+        },
+        {
+            "code": "TH-52",
+            "name": "Lampang",
+            "division": "province",
+            "parent": "TH",
+            "lat": 18.2784678,
+            "lng": 99.50576720000004
+        },
+        {
+            "code": "TH-51",
+            "name": "Lamphun",
+            "division": "province",
+            "parent": "TH",
+            "lat": 18.4882932,
+            "lng": 99.13160930000004
+        },
+        {
+            "code": "TH-42",
+            "name": "Loei",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.4455403,
+            "lng": 101.72673710000004
+        },
+        {
+            "code": "TH-16",
+            "name": "Lop Buri",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.8073917,
+            "lng": 100.65811020000001
+        },
+        {
+            "code": "TH-58",
+            "name": "Mae Hong Son",
+            "division": "province",
+            "parent": "TH",
+            "lat": 19.301667,
+            "lng": 97.97500000000002
+        },
+        {
+            "code": "TH-44",
+            "name": "Maha Sarakham",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.199315,
+            "lng": 103.28340579999997
+        },
+        {
+            "code": "TH-49",
+            "name": "Mukdahan",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.545492,
+            "lng": 104.7260182
+        },
+        {
+            "code": "TH-26",
+            "name": "Nakhon Nayok",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.1994656,
+            "lng": 101.20966810000004
+        },
+        {
+            "code": "TH-73",
+            "name": "Nakhon Pathom",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.8231365,
+            "lng": 100.05728350000004
+        },
+        {
+            "code": "TH-48",
+            "name": "Nakhon Phanom",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.3884384,
+            "lng": 104.64414779999993
+        },
+        {
+            "code": "TH-30",
+            "name": "Nakhon Ratchasima",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.9917528,
+            "lng": 102.11313689999997
+        },
+        {
+            "code": "TH-60",
+            "name": "Nakhon Sawan",
+            "division": "province",
+            "parent": "TH",
+            "lat": 15.6708006,
+            "lng": 100.13151640000001
+        },
+        {
+            "code": "TH-80",
+            "name": "Nakhon Si Thammarat",
+            "division": "province",
+            "parent": "TH",
+            "lat": 8.5390983,
+            "lng": 99.94216789999996
+        },
+        {
+            "code": "TH-55",
+            "name": "Nan",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.81771,
+            "lng": 100.26148999999998
+        },
+        {
+            "code": "TH-96",
+            "name": "Narathiwat",
+            "division": "province",
+            "parent": "TH",
+            "lat": 6.5206976,
+            "lng": 101.7508507
+        },
+        {
+            "code": "TH-39",
+            "name": "Nong Bua Lam Phu",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.1990249,
+            "lng": 102.45690430000002
+        },
+        {
+            "code": "TH-43",
+            "name": "Nong Khai",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.8823198,
+            "lng": 102.74333360000003
+        },
+        {
+            "code": "TH-12",
+            "name": "Nonthaburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.86444,
+            "lng": 100.53962209999997
+        },
+        {
+            "code": "TH-13",
+            "name": "Pathum Thani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.005849,
+            "lng": 100.55580469999995
+        },
+        {
+            "code": "TH-94",
+            "name": "Pattani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 6.785571,
+            "lng": 101.14882590000002
+        },
+        {
+            "code": "TH-82",
+            "name": "Phangnga",
+            "division": "province",
+            "parent": "TH",
+            "lat": 8.4537141,
+            "lng": 98.5306961
+        },
+        {
+            "code": "TH-93",
+            "name": "Phatthalung",
+            "division": "province",
+            "parent": "TH",
+            "lat": 7.6148042,
+            "lng": 100.06921510000006
+        },
+        {
+            "code": "TH-56",
+            "name": "Phayao",
+            "division": "province",
+            "parent": "TH",
+            "lat": 19.1679349,
+            "lng": 99.89630080000006
+        },
+        {
+            "code": "TH-67",
+            "name": "Phetchabun",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.4210621,
+            "lng": 101.15609369999993
+        },
+        {
+            "code": "TH-76",
+            "name": "Phetchaburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.7573672,
+            "lng": 100.5204943
+        },
+        {
+            "code": "TH-66",
+            "name": "Phichit",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.4480347,
+            "lng": 100.33214850000002
+        },
+        {
+            "code": "TH-65",
+            "name": "Phitsanulok",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.7588736,
+            "lng": 100.51877779999995
+        },
+        {
+            "code": "TH-54",
+            "name": "Phrae",
+            "division": "province",
+            "parent": "TH",
+            "lat": 18.1297421,
+            "lng": 100.16102260000002
+        },
+        {
+            "code": "TH-14",
+            "name": "Phra Nakhon Si Ayutthaya",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.3523939,
+            "lng": 100.5521142
+        },
+        {
+            "code": "TH-83",
+            "name": "Phuket",
+            "division": "province",
+            "parent": "TH",
+            "lat": 7.8739677,
+            "lng": 98.3938958
+        },
+        {
+            "code": "TH-25",
+            "name": "Prachin Buri",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.0507781,
+            "lng": 101.36997710000003
+        },
+        {
+            "code": "TH-77",
+            "name": "Prachuap Khiri Khan",
+            "division": "province",
+            "parent": "TH",
+            "lat": 11.8113574,
+            "lng": 99.79797359999998
+        },
+        {
+            "code": "TH-85",
+            "name": "Ranong",
+            "division": "province",
+            "parent": "TH",
+            "lat": 9.7733202,
+            "lng": 98.58797090000007
+        },
+        {
+            "code": "TH-70",
+            "name": "Ratchaburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 20.1449319,
+            "lng": 99.8530733
+        },
+        {
+            "code": "TH-21",
+            "name": "Rayong",
+            "division": "province",
+            "parent": "TH",
+            "lat": 12.750027,
+            "lng": 101.15808349999998
+        },
+        {
+            "code": "TH-45",
+            "name": "Roi Et",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.116667,
+            "lng": 103.77388900000005
+        },
+        {
+            "code": "TH-27",
+            "name": "Sa Kaeo",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.8185834,
+            "lng": 102.06801510000003
+        },
+        {
+            "code": "TH-47",
+            "name": "Sakon Nakhon",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.192093,
+            "lng": 104.09277429999997
+        },
+        {
+            "code": "TH-11",
+            "name": "Samut Prakan",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.5756088,
+            "lng": 100.65159779999999
+        },
+        {
+            "code": "TH-74",
+            "name": "Samut Sakhon",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.5569966,
+            "lng": 100.27226310000003
+        },
+        {
+            "code": "TH-75",
+            "name": "Samut Songkhram",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.4140635,
+            "lng": 99.99980019999998
+        },
+        {
+            "code": "TH-19",
+            "name": "Saraburi",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.5308684,
+            "lng": 100.9045506
+        },
+        {
+            "code": "TH-91",
+            "name": "Satun",
+            "division": "province",
+            "parent": "TH",
+            "lat": 6.6583,
+            "lng": 100.08329800000001
+        },
+        {
+            "code": "TH-17",
+            "name": "Sing Buri",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.8922032,
+            "lng": 100.4099185
+        },
+        {
+            "code": "TH-33",
+            "name": "Si Sa Ket",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.6177408,
+            "lng": 104.4247636
+        },
+        {
+            "code": "TH-90",
+            "name": "Songkhla",
+            "division": "province",
+            "parent": "TH",
+            "lat": 7.1706617,
+            "lng": 100.61251049999998
+        },
+        {
+            "code": "TH-64",
+            "name": "Sukhothai",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.2323412,
+            "lng": 99.82012959999997
+        },
+        {
+            "code": "TH-72",
+            "name": "Suphan Buri",
+            "division": "province",
+            "parent": "TH",
+            "lat": 14.4753675,
+            "lng": 100.11846719999994
+        },
+        {
+            "code": "TH-84",
+            "name": "Surat Thani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 9.1348576,
+            "lng": 99.14219960000003
+        },
+        {
+            "code": "TH-32",
+            "name": "Surin",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.744363,
+            "lng": 100.50132729999996
+        },
+        {
+            "code": "TH-63",
+            "name": "Tak",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.4303253,
+            "lng": 102.85557040000003
+        },
+        {
+            "code": "TH-92",
+            "name": "Trang",
+            "division": "province",
+            "parent": "TH",
+            "lat": 7.5131384,
+            "lng": 99.62939219999998
+        },
+        {
+            "code": "TH-23",
+            "name": "Trat",
+            "division": "province",
+            "parent": "TH",
+            "lat": 13.5446741,
+            "lng": 100.96063759999993
+        },
+        {
+            "code": "TH-34",
+            "name": "Ubon Ratchathani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 15.188145,
+            "lng": 104.86650770000006
+        },
+        {
+            "code": "TH-41",
+            "name": "Udon Thani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.4135897,
+            "lng": 102.78562110000007
+        },
+        {
+            "code": "TH-61",
+            "name": "Uthai Thani",
+            "division": "province",
+            "parent": "TH",
+            "lat": 9.14654,
+            "lng": 99.32542999999998
+        },
+        {
+            "code": "TH-53",
+            "name": "Uttaradit",
+            "division": "province",
+            "parent": "TH",
+            "lat": 17.673666,
+            "lng": 100.234779
+        },
+        {
+            "code": "TH-95",
+            "name": "Yala",
+            "division": "province",
+            "parent": "TH",
+            "lat": 6.520151,
+            "lng": 101.17505329999995
+        },
+        {
+            "code": "TH-35",
+            "name": "Yasothon",
+            "division": "province",
+            "parent": "TH",
+            "lat": 16.0359666,
+            "lng": 104.34246510000003
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "name": "Russia",
+    "alpha-2": "RU",
+    "alpha-3": "RUS",
+    "country-code": "643",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "RU-AD",
+            "name": "Adygeya, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-AL",
+            "name": "Altay, Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 51.2811111,
+            "lng": 86.73972219999996
+        },
+        {
+            "code": "RU-BA",
+            "name": "Bashkortostan, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-BU",
+            "name": "Buryatiya, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-CE",
+            "name": "Chechenskaya Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-CU",
+            "name": "Chuvashskaya Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-DA",
+            "name": "Dagestan, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-IN",
+            "name": "Respublika Ingushetiya",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 43.3157477,
+            "lng": 45
+        },
+        {
+            "code": "RU-KB",
+            "name": "Kabardino-Balkarskaya Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KL",
+            "name": "Kalmykiya, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KC",
+            "name": "Karachayevo-Cherkesskaya Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KR",
+            "name": "Kareliya, Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 55.9298402,
+            "lng": 36.72129810000001
+        },
+        {
+            "code": "RU-KK",
+            "name": "Khakasiya, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KO",
+            "name": "Komi, Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 51.0944404,
+            "lng": 87.8998411
+        },
+        {
+            "code": "RU-ME",
+            "name": "Mariy El, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-MO",
+            "name": "Mordoviya, Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 37.9642529,
+            "lng": -91.8318334
+        },
+        {
+            "code": "RU-SA",
+            "name": "Sakha, Respublika [Yakutiya]",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 60.5975609,
+            "lng": 130.58992030000002
+        },
+        {
+            "code": "RU-SE",
+            "name": "Severnaya Osetiya-Alaniya, Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 43.0451302,
+            "lng": 44.28709720000006
+        },
+        {
+            "code": "RU-TA",
+            "name": "Tatarstan, Respublika",
+            "division": "republic",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-TY",
+            "name": "Tyva, Respublika [Tuva]",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 55.2867145,
+            "lng": 86.01501480000002
+        },
+        {
+            "code": "RU-UD",
+            "name": "Udmurtskaya Respublika",
+            "division": "republic",
+            "parent": "RU",
+            "lat": 57.0670218,
+            "lng": 53.02779480000004
+        },
+        {
+            "code": "RU-ALT",
+            "name": "Altayskiy kray",
+            "division": "administrative territory",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KAM",
+            "name": "Kamchatskiy kray",
+            "division": "administrative territory",
+            "parent": "RU",
+            "lat": 54.615319,
+            "lng": 158.39028789999998
+        },
+        {
+            "code": "RU-KHA",
+            "name": "Khabarovskiy kray",
+            "division": "administrative territory",
+            "parent": "RU",
+            "lat": 50.5888431,
+            "lng": 135
+        },
+        {
+            "code": "RU-KDA",
+            "name": "Krasnodarskiy kray",
+            "division": "administrative territory",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KYA",
+            "name": "Krasnoyarskiy kray",
+            "division": "administrative territory",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-PER",
+            "name": "Permskiy kray",
+            "division": "administrative territory",
+            "parent": "RU",
+            "lat": 58.1423939,
+            "lng": 56.45643849999999
+        },
+        {
+            "code": "RU-PRI",
+            "name": "Primorskiy kray",
+            "division": "administrative territory",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-STA",
+            "name": "Stavropol'skiy kray",
+            "division": "administrative territory",
+            "parent": "RU",
+            "lat": 45.0391312,
+            "lng": 41.98213959999998
+        },
+        {
+            "code": "RU-ZAB",
+            "name": "Zabajkal'skij kraj",
+            "division": "administrative territory",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-AMU",
+            "name": "Amurskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-ARK",
+            "name": "Arkhangel'skaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-AST",
+            "name": "Astrakhanskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 47.1217888,
+            "lng": 47.349487899999986
+        },
+        {
+            "code": "RU-BEL",
+            "name": "Belgorodskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 57.7198106,
+            "lng": 33.458000200000015
+        },
+        {
+            "code": "RU-BRY",
+            "name": "Bryanskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-CHE",
+            "name": "Chelyabinskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-IRK",
+            "name": "Irkutiskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-IVA",
+            "name": "Ivanovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 53.690071,
+            "lng": 43.961490599999934
+        },
+        {
+            "code": "RU-KGD",
+            "name": "Kaliningradskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 54.8857381,
+            "lng": 20.57808769999997
+        },
+        {
+            "code": "RU-KLU",
+            "name": "Kaluzhskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KEM",
+            "name": "Kemerovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 64.9583816,
+            "lng": 34.568340300000045
+        },
+        {
+            "code": "RU-KIR",
+            "name": "Kirovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 60.010681,
+            "lng": 48.041290300000014
+        },
+        {
+            "code": "RU-KOS",
+            "name": "Kostromskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 36.891328,
+            "lng": 27.28345300000001
+        },
+        {
+            "code": "RU-KGN",
+            "name": "Kurganskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KRS",
+            "name": "Kurskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-LEN",
+            "name": "Leningradskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-LIP",
+            "name": "Lipetskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-MAG",
+            "name": "Magadanskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-MOS",
+            "name": "Moskovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 55.755786,
+            "lng": 37.61763300000007
+        },
+        {
+            "code": "RU-MUR",
+            "name": "Murmanskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-NIZ",
+            "name": "Nizhegorodskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 62.6635284,
+            "lng": 41.366100500000016
+        },
+        {
+            "code": "RU-NGR",
+            "name": "Novgorodskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-NVS",
+            "name": "Novosibirskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-OMS",
+            "name": "Omskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-ORE",
+            "name": "Orenburgskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 55.0093002,
+            "lng": 95.10372140000004
+        },
+        {
+            "code": "RU-ORL",
+            "name": "Orlovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 52.968453,
+            "lng": 36.06949399999996
+        },
+        {
+            "code": "RU-PNZ",
+            "name": "Penzenskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 53.1931801,
+            "lng": 44.06678009999996
+        },
+        {
+            "code": "RU-PSK",
+            "name": "Pskovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-ROS",
+            "name": "Rostovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-RYA",
+            "name": "Ryazanskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SAK",
+            "name": "Sakhalinskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SAM",
+            "name": "Samaraskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SAR",
+            "name": "Saratovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SMO",
+            "name": "Smolenskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SVE",
+            "name": "Sverdlovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-TAM",
+            "name": "Tambovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 52.00708,
+            "lng": 42.25622180000005
+        },
+        {
+            "code": "RU-TOM",
+            "name": "Tomskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 55.2867145,
+            "lng": 86.01501480000002
+        },
+        {
+            "code": "RU-TUL",
+            "name": "Tul'skaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 54.1966781,
+            "lng": 37.61782849999997
+        },
+        {
+            "code": "RU-TVE",
+            "name": "Tverskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-TYU",
+            "name": "Tyumenskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 49.5884314,
+            "lng": 117.47946209999998
+        },
+        {
+            "code": "RU-ULY",
+            "name": "Ul'yanovskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 54.4011111,
+            "lng": 48.80277780000006
+        },
+        {
+            "code": "RU-VLA",
+            "name": "Vladimirskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 56.1553465,
+            "lng": 40.592668499999945
+        },
+        {
+            "code": "RU-VGG",
+            "name": "Volgogradskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-VLG",
+            "name": "Vologodskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 60.1720172,
+            "lng": 37.60450179999998
+        },
+        {
+            "code": "RU-VOR",
+            "name": "Voronezhskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-YAR",
+            "name": "Yaroslavskaya oblast'",
+            "division": "administrative region",
+            "parent": "RU",
+            "lat": 58.9186897,
+            "lng": 39.161640000000034
+        },
+        {
+            "code": "RU-MOW",
+            "name": "Moskva",
+            "division": "autonomous city",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-SPE",
+            "name": "Sankt-Peterburg",
+            "division": "autonomous city",
+            "parent": "RU",
+            "lat": 59.939039,
+            "lng": 30.315785000000005
+        },
+        {
+            "code": "RU-YEV",
+            "name": "Yevreyskaya avtonomnaya oblast'",
+            "division": "autonomous region",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-CHU",
+            "name": "Chukotskiy avtonomnyy okrug",
+            "division": "autonomous district",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-KHM",
+            "name": "Khanty-Mansiysky avtonomnyy okrug-Yugra",
+            "division": "autonomous district",
+            "parent": "RU"
+        },
+        {
+            "code": "RU-NEN",
+            "name": "Nenetskiy avtonomnyy okrug",
+            "division": "autonomous district",
+            "parent": "RU",
+            "lat": 67.6078337,
+            "lng": 57.63383309999995
+        },
+        {
+            "code": "RU-YAN",
+            "name": "Yamalo-Nenetskiy avtonomnyy okrug",
+            "division": "autonomous district",
+            "parent": "RU"
+        }
+    ]
+}

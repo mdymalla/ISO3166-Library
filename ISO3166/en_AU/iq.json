@@ -1,0 +1,137 @@
+{
+    "name": "Iraq",
+    "alpha-2": "IQ",
+    "alpha-3": "IRQ",
+    "country-code": "368",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "IQ-AN",
+            "name": "Al Anbar",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 34.4408333,
+            "lng": 41.9447222
+        },
+        {
+            "code": "IQ-BA",
+            "name": "Al Basrah",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 30.5,
+            "lng": 47.81666670000004
+        },
+        {
+            "code": "IQ-MU",
+            "name": "Al Muthanna",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 29.2666667,
+            "lng": 45.10000000000002
+        },
+        {
+            "code": "IQ-QA",
+            "name": "Al Qadisiyah",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 31.583333,
+            "lng": 44.5
+        },
+        {
+            "code": "IQ-NA",
+            "name": "An Najef",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-AR",
+            "name": "Arbil",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 36.0469444,
+            "lng": 43.84027779999997
+        },
+        {
+            "code": "IQ-SW",
+            "name": "As Sulaymaniyah",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 35.2556207,
+            "lng": 45.87545639999996
+        },
+        {
+            "code": "IQ-TS",
+            "name": "At Ta'mim",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-BB",
+            "name": "Babil",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-BG",
+            "name": "Baghdad",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 33.3157,
+            "lng": 44.3922
+        },
+        {
+            "code": "IQ-DA",
+            "name": "Dahuk",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-DQ",
+            "name": "Dhi Qar",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-DI",
+            "name": "Diyala",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-KA",
+            "name": "Karbala'",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 32.6143,
+            "lng": 44.024830000000065
+        },
+        {
+            "code": "IQ-MA",
+            "name": "Maysan",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 31.49,
+            "lng": 47.16444439999998
+        },
+        {
+            "code": "IQ-NI",
+            "name": "Ninawa",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-SD",
+            "name": "Salah ad Din",
+            "division": "governorate",
+            "parent": "IQ"
+        },
+        {
+            "code": "IQ-WA",
+            "name": "Wasit",
+            "division": "governorate",
+            "parent": "IQ",
+            "lat": 32.1297222,
+            "lng": 45.978611099999966
+        }
+    ]
+}

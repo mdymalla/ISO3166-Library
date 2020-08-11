@@ -1,0 +1,33 @@
+{
+    "name": "Luxembourg",
+    "alpha-2": "LU",
+    "alpha-3": "LUX",
+    "country-code": "442",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "LU-D",
+            "name": "Diekirch",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.8692938,
+            "lng": 6.1581098999999995
+        },
+        {
+            "code": "LU-G",
+            "name": "Grevenmacher",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.679084,
+            "lng": 6.441624300000058
+        },
+        {
+            "code": "LU-L",
+            "name": "Luxembourg",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.6100036,
+            "lng": 6.129595999999992
+        }
+    ]
+}

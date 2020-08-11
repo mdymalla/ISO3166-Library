@@ -1,0 +1,153 @@
+{
+    "name": "Paraguay",
+    "alpha-2": "PY",
+    "alpha-3": "PRY",
+    "country-code": "600",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "PY-ASU",
+            "name": "Asunci\u00f3n",
+            "division": "capital district",
+            "parent": "PY",
+            "lat": -25.2821972,
+            "lng": -57.635099999999966
+        },
+        {
+            "code": "PY-16",
+            "name": "Alto Paraguay",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.3660952,
+            "lng": -57.54437619999999
+        },
+        {
+            "code": "PY-10",
+            "name": "Alto Paran\u00e1",
+            "division": "department",
+            "parent": "PY",
+            "lat": -24.4653782,
+            "lng": -55.18089399999997
+        },
+        {
+            "code": "PY-13",
+            "name": "Amambay",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.3527087,
+            "lng": -57.61870440000001
+        },
+        {
+            "code": "PY-19",
+            "name": "Boquer\u00f3n",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.0845446,
+            "lng": -57.520127900000034
+        },
+        {
+            "code": "PY-5",
+            "name": "Caaguaz\u00fa",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.46982,
+            "lng": -56.01535000000001
+        },
+        {
+            "code": "PY-6",
+            "name": "Caazap\u00e1",
+            "division": "department",
+            "parent": "PY",
+            "lat": -26.199961,
+            "lng": -56.36806899999999
+        },
+        {
+            "code": "PY-14",
+            "name": "Canindey\u00fa",
+            "division": "department",
+            "parent": "PY",
+            "lat": -24.4774429,
+            "lng": -56.08608479999998
+        },
+        {
+            "code": "PY-11",
+            "name": "Central",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.3396895,
+            "lng": -57.55583150000001
+        },
+        {
+            "code": "PY-1",
+            "name": "Concepci\u00f3n",
+            "division": "department",
+            "parent": "PY",
+            "lat": -23.402901,
+            "lng": -57.42924900000003
+        },
+        {
+            "code": "PY-3",
+            "name": "Cordillera",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.0559201,
+            "lng": -57.1289706
+        },
+        {
+            "code": "PY-4",
+            "name": "Guair\u00e1",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.4522441,
+            "lng": -56.44818470000001
+        },
+        {
+            "code": "PY-7",
+            "name": "Itap\u00faa",
+            "division": "department",
+            "parent": "PY",
+            "lat": -27.3559915,
+            "lng": -55.85420640000001
+        },
+        {
+            "code": "PY-8",
+            "name": "Misiones",
+            "division": "department",
+            "parent": "PY",
+            "lat": -26.6716775,
+            "lng": -57.144538799999964
+        },
+        {
+            "code": "PY-12",
+            "name": "\u00d1eembuc\u00fa",
+            "division": "department",
+            "parent": "PY",
+            "lat": -26.81666,
+            "lng": -57.98212769999998
+        },
+        {
+            "code": "PY-9",
+            "name": "Paraguar\u00ed",
+            "division": "department",
+            "parent": "PY",
+            "lat": -25.624229,
+            "lng": -57.15063900000001
+        },
+        {
+            "code": "PY-15",
+            "name": "Presidente Hayes",
+            "division": "department",
+            "parent": "PY",
+            "lat": -26.1960411,
+            "lng": -56.3665441
+        },
+        {
+            "code": "PY-2",
+            "name": "San Pedro",
+            "division": "department",
+            "parent": "PY",
+            "lat": -24.08872,
+            "lng": -57.07651899999996
+        }
+    ]
+}

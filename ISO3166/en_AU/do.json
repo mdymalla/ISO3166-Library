@@ -1,0 +1,249 @@
+{
+    "name": "Dominican Republic",
+    "alpha-2": "DO",
+    "alpha-3": "DOM",
+    "country-code": "214",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "DO-01",
+            "name": "Distrito Nacional (Santo Domingo)",
+            "division": "district",
+            "parent": "DO",
+            "lat": 18.4484078,
+            "lng": -69.9267984
+        },
+        {
+            "code": "DO-02",
+            "name": "Azua",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.454491,
+            "lng": -70.72923300000002
+        },
+        {
+            "code": "DO-03",
+            "name": "Bahoruco",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.5898028,
+            "lng": -70.97941939999998
+        },
+        {
+            "code": "DO-04",
+            "name": "Barahona",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.207899,
+            "lng": -71.09961699999997
+        },
+        {
+            "code": "DO-05",
+            "name": "Dajab\u00f3n",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.54764,
+            "lng": -71.70471199999997
+        },
+        {
+            "code": "DO-06",
+            "name": "Duarte",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.4167564,
+            "lng": -70.5166423
+        },
+        {
+            "code": "DO-08",
+            "name": "El Seybo [El Seibo]",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.7678872,
+            "lng": -69.04289240000003
+        },
+        {
+            "code": "DO-09",
+            "name": "Espaillat",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.423296,
+            "lng": -68.97085300000003
+        },
+        {
+            "code": "DO-30",
+            "name": "Hato Mayor",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.764311,
+            "lng": -69.25715600000001
+        },
+        {
+            "code": "DO-10",
+            "name": "Independencia",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.23833,
+            "lng": -99.64214529999998
+        },
+        {
+            "code": "DO-11",
+            "name": "La Altagracia",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.5574755,
+            "lng": -69.86147189999997
+        },
+        {
+            "code": "DO-07",
+            "name": "La Estrelleta [El\u00edas Pi\u00f1a]",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.87628,
+            "lng": -71.70654300000001
+        },
+        {
+            "code": "DO-12",
+            "name": "La Romana",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.43,
+            "lng": -68.97000000000003
+        },
+        {
+            "code": "DO-13",
+            "name": "La Vega",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.22357,
+            "lng": -70.52889299999998
+        },
+        {
+            "code": "DO-14",
+            "name": "Mar\u00eda Trinidad S\u00e1nchez",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.4537407,
+            "lng": -69.6834816
+        },
+        {
+            "code": "DO-28",
+            "name": "Monse\u00f1or Nouel",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.9041338,
+            "lng": -70.74342869999998
+        },
+        {
+            "code": "DO-15",
+            "name": "Monte Cristi",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.850609,
+            "lng": -71.64529400000004
+        },
+        {
+            "code": "DO-29",
+            "name": "Monte Plata",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.806749,
+            "lng": -69.784378
+        },
+        {
+            "code": "DO-16",
+            "name": "Pedernales",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.037531,
+            "lng": -71.741287
+        },
+        {
+            "code": "DO-17",
+            "name": "Peravia",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.503983,
+            "lng": -69.89474589999998
+        },
+        {
+            "code": "DO-18",
+            "name": "Puerto Plata",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.7807686,
+            "lng": -70.68710909999999
+        },
+        {
+            "code": "DO-19",
+            "name": "Salcedo",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.3780173,
+            "lng": -70.42236350000002
+        },
+        {
+            "code": "DO-20",
+            "name": "Saman\u00e1",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.21166,
+            "lng": -69.332314
+        },
+        {
+            "code": "DO-21",
+            "name": "San Crist\u00f3bal",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.41625,
+            "lng": -70.10935999999998
+        },
+        {
+            "code": "DO-22",
+            "name": "San Juan",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.81,
+            "lng": -71.23000000000002
+        },
+        {
+            "code": "DO-23",
+            "name": "San Pedro de Macor\u00eds",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.455759,
+            "lng": -69.30780800000002
+        },
+        {
+            "code": "DO-24",
+            "name": "S\u00e1nchez Ram\u00edrez",
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.4683339,
+            "lng": -69.97912150000002
+        },
+        {
+            "code": "DO-25",
+            "name": "Santiago",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.45,
+            "lng": -70.69999999999999
+        },
+        {
+            "code": "DO-26",
+            "name": "Santiago Rodr\u00edguez",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.471979,
+            "lng": -71.341339
+        },
+        {
+            "code": "DO-27",
+            "name": "Valverde",
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.5514416,
+            "lng": -71.0742373
+        }
+    ]
+}

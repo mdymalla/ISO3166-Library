@@ -1,0 +1,111 @@
+{
+    "name": "Nauru",
+    "alpha-2": "NR",
+    "alpha-3": "NRU",
+    "country-code": "520",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "NR-01",
+            "name": "Aiwo",
+            "division": "district",
+            "parent": "NR"
+        },
+        {
+            "code": "NR-02",
+            "name": "Anabar",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5110616,
+            "lng": 166.95422400000007
+        },
+        {
+            "code": "NR-03",
+            "name": "Anetan",
+            "division": "district",
+            "parent": "NR"
+        },
+        {
+            "code": "NR-04",
+            "name": "Anibare",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5294758,
+            "lng": 166.9513432
+        },
+        {
+            "code": "NR-05",
+            "name": "Baiti",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.510431,
+            "lng": 166.92757440000003
+        },
+        {
+            "code": "NR-06",
+            "name": "Boe",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5386011,
+            "lng": 166.91100559999995
+        },
+        {
+            "code": "NR-07",
+            "name": "Buada",
+            "division": "district",
+            "parent": "NR",
+            "lat": 41.4394496,
+            "lng": 2.1785999999999603
+        },
+        {
+            "code": "NR-08",
+            "name": "Denigomodu",
+            "division": "district",
+            "parent": "NR"
+        },
+        {
+            "code": "NR-09",
+            "name": "Ewa",
+            "division": "district",
+            "parent": "NR",
+            "lat": 19.1898591,
+            "lng": -155.90512079999996
+        },
+        {
+            "code": "NR-10",
+            "name": "Ijuw",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5202767,
+            "lng": 166.95710459999998
+        },
+        {
+            "code": "NR-11",
+            "name": "Meneng",
+            "division": "district",
+            "parent": "NR"
+        },
+        {
+            "code": "NR-12",
+            "name": "Nibok",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5196208,
+            "lng": 166.9189301
+        },
+        {
+            "code": "NR-13",
+            "name": "Uaboe",
+            "division": "district",
+            "parent": "NR"
+        },
+        {
+            "code": "NR-14",
+            "name": "Yaren",
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5466857,
+            "lng": 166.92109129999994
+        }
+    ]
+}

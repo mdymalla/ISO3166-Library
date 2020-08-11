@@ -1,0 +1,41 @@
+{
+    "name": "Sierra Leone",
+    "alpha-2": "SL",
+    "alpha-3": "SLE",
+    "country-code": "694",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "SL-W",
+            "name": "Western Area (Freetown)",
+            "division": "area",
+            "parent": "SL",
+            "lat": 8.484146,
+            "lng": -13.228669999999966
+        },
+        {
+            "code": "SL-E",
+            "name": "Eastern",
+            "division": "province",
+            "parent": "SL",
+            "lat": 8.2473775,
+            "lng": -10.890309900000034
+        },
+        {
+            "code": "SL-N",
+            "name": "Northern",
+            "division": "province",
+            "parent": "SL",
+            "lat": 9.3500888,
+            "lng": -11.70682940000006
+        },
+        {
+            "code": "SL-S",
+            "name": "Southern (Sierra Leone)",
+            "division": "province",
+            "parent": "SL",
+            "lat": 7.7906625,
+            "lng": -11.889172099999996
+        }
+    ]
+}

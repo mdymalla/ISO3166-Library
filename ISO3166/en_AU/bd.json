@@ -1,0 +1,451 @@
+{
+    "name": "Bangladesh",
+    "alpha-2": "BD",
+    "alpha-3": "BGD",
+    "country-code": "050",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "BD-05",
+            "name": "Bagerhat zila",
+            "division": "district",
+            "parent": "BD 4",
+            "lat": 22.8132032,
+            "lng": 89.57381310000005
+        },
+        {
+            "code": "BD-01",
+            "name": "Bandarban zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 22.1641864,
+            "lng": 92.18090419999999
+        },
+        {
+            "code": "BD-02",
+            "name": "Barguna zila",
+            "division": "district",
+            "parent": "BD 1"
+        },
+        {
+            "code": "BD-06",
+            "name": "Barisal zila",
+            "division": "district",
+            "parent": "BD 1",
+            "lat": 22.7,
+            "lng": 90.3666667
+        },
+        {
+            "code": "BD-07",
+            "name": "Bhola zila",
+            "division": "district",
+            "parent": "BD 1"
+        },
+        {
+            "code": "BD-03",
+            "name": "Bogra zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 24.8474902,
+            "lng": 89.37376859999995
+        },
+        {
+            "code": "BD-04",
+            "name": "Brahmanbaria zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 23.9736903,
+            "lng": 91.11178100000006
+        },
+        {
+            "code": "BD-09",
+            "name": "Chandpur zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 23.2284342,
+            "lng": 90.66133820000005
+        },
+        {
+            "code": "BD-10",
+            "name": "Chittagong zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 22.3666667,
+            "lng": 91.79999999999995
+        },
+        {
+            "code": "BD-12",
+            "name": "Chuadanga zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-08",
+            "name": "Comilla zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 23.4620407,
+            "lng": 91.18107320000001
+        },
+        {
+            "code": "BD-11",
+            "name": "Cox's Bazar zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 22.3882152,
+            "lng": 91.86173819999999
+        },
+        {
+            "code": "BD-13",
+            "name": "Dhaka zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.5480507,
+            "lng": 90.53397619999998
+        },
+        {
+            "code": "BD-14",
+            "name": "Dinajpur zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 25.624732,
+            "lng": 88.63678099999993
+        },
+        {
+            "code": "BD-15",
+            "name": "Faridpur zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.6089365,
+            "lng": 89.84410460000004
+        },
+        {
+            "code": "BD-16",
+            "name": "Feni zila",
+            "division": "district",
+            "parent": "BD 2"
+        },
+        {
+            "code": "BD-19",
+            "name": "Gaibandha zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-18",
+            "name": "Gazipur zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.6077076,
+            "lng": 90.79751729999998
+        },
+        {
+            "code": "BD-17",
+            "name": "Gopalganj zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-20",
+            "name": "Habiganj zila",
+            "division": "district",
+            "parent": "BD 6"
+        },
+        {
+            "code": "BD-24",
+            "name": "Jaipurhat zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-21",
+            "name": "Jamalpur zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 24.9377671,
+            "lng": 89.93422800000008
+        },
+        {
+            "code": "BD-22",
+            "name": "Jessore zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-25",
+            "name": "Jhalakati zila",
+            "division": "district",
+            "parent": "BD 1"
+        },
+        {
+            "code": "BD-23",
+            "name": "Jhenaidah zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-29",
+            "name": "Khagrachari zila",
+            "division": "district",
+            "parent": "BD 2"
+        },
+        {
+            "code": "BD-27",
+            "name": "Khulna zila",
+            "division": "district",
+            "parent": "BD 4",
+            "lat": 22.8132032,
+            "lng": 89.57381310000005
+        },
+        {
+            "code": "BD-26",
+            "name": "Kishorganj zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-28",
+            "name": "Kurigram zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-30",
+            "name": "Kushtia zila",
+            "division": "district",
+            "parent": "BD 4",
+            "lat": 23.9053286,
+            "lng": 89.1209811
+        },
+        {
+            "code": "BD-31",
+            "name": "Lakshmipur zila",
+            "division": "district",
+            "parent": "BD 2"
+        },
+        {
+            "code": "BD-32",
+            "name": "Lalmonirhat zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-36",
+            "name": "Madaripur zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-37",
+            "name": "Magura zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-33",
+            "name": "Manikganj zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-39",
+            "name": "Meherpur zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-38",
+            "name": "Moulvibazar zila",
+            "division": "district",
+            "parent": "BD 6",
+            "lat": 24.4896774,
+            "lng": 91.77329420000001
+        },
+        {
+            "code": "BD-35",
+            "name": "Munshiganj zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.5480507,
+            "lng": 90.53397619999998
+        },
+        {
+            "code": "BD-34",
+            "name": "Mymensingh zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-48",
+            "name": "Naogaon zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 24.8139341,
+            "lng": 88.94053550000001
+        },
+        {
+            "code": "BD-43",
+            "name": "Narail zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-40",
+            "name": "Narayanganj zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.5480507,
+            "lng": 90.53397619999998
+        },
+        {
+            "code": "BD-42",
+            "name": "Narsingdi zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-44",
+            "name": "Natore zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-45",
+            "name": "Nawabganj zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-41",
+            "name": "Netrakona zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 24.8834972,
+            "lng": 90.73124529999996
+        },
+        {
+            "code": "BD-46",
+            "name": "Nilphamari zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-47",
+            "name": "Noakhali zila",
+            "division": "district",
+            "parent": "BD 2"
+        },
+        {
+            "code": "BD-49",
+            "name": "Pabna zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 24.0023519,
+            "lng": 89.23331740000003
+        },
+        {
+            "code": "BD-52",
+            "name": "Panchagarh zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-51",
+            "name": "Patuakhali zila",
+            "division": "district",
+            "parent": "BD 1",
+            "lat": 22.3626713,
+            "lng": 90.33049940000001
+        },
+        {
+            "code": "BD-50",
+            "name": "Pirojpur zila",
+            "division": "district",
+            "parent": "BD 1"
+        },
+        {
+            "code": "BD-53",
+            "name": "Rajbari zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 23.759798,
+            "lng": 89.64688999999998
+        },
+        {
+            "code": "BD-54",
+            "name": "Rajshahi zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 24.0023519,
+            "lng": 89.23331740000003
+        },
+        {
+            "code": "BD-56",
+            "name": "Rangamati zila",
+            "division": "district",
+            "parent": "BD 2",
+            "lat": 22.6573498,
+            "lng": 92.17327079999995
+        },
+        {
+            "code": "BD-55",
+            "name": "Rangpur zila",
+            "division": "district",
+            "parent": "BD 5",
+            "lat": 25.757247,
+            "lng": 89.24278559999993
+        },
+        {
+            "code": "BD-58",
+            "name": "Satkhira zila",
+            "division": "district",
+            "parent": "BD 4"
+        },
+        {
+            "code": "BD-62",
+            "name": "Shariatpur zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-57",
+            "name": "Sherpur zila",
+            "division": "district",
+            "parent": "BD 3",
+            "lat": 24.8398378,
+            "lng": 89.37407970000004
+        },
+        {
+            "code": "BD-59",
+            "name": "Sirajganj zila",
+            "division": "district",
+            "parent": "BD 5"
+        },
+        {
+            "code": "BD-61",
+            "name": "Sunamganj zila",
+            "division": "district",
+            "parent": "BD 6"
+        },
+        {
+            "code": "BD-60",
+            "name": "Sylhet zila",
+            "division": "district",
+            "parent": "BD 6",
+            "lat": 24.889867,
+            "lng": 91.86338840000008
+        },
+        {
+            "code": "BD-63",
+            "name": "Tangail zila",
+            "division": "district",
+            "parent": "BD 3"
+        },
+        {
+            "code": "BD-64",
+            "name": "Thakurgaon zila",
+            "division": "district",
+            "parent": "BD 5"
+        }
+    ]
+}

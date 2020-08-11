@@ -1,0 +1,113 @@
+{
+    "name": "Canada",
+    "alpha-2": "CA",
+    "alpha-3": "CAN",
+    "country-code": "124",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "CA-AB",
+            "name": "Alberta",
+            "division": "province",
+            "parent": "CA",
+            "lat": 53.9332706,
+            "lng": -116.5765035
+        },
+        {
+            "code": "CA-BC",
+            "name": "British Columbia",
+            "division": "province",
+            "parent": "CA",
+            "lat": 53.7266683,
+            "lng": -127.64762059999998
+        },
+        {
+            "code": "CA-MB",
+            "name": "Manitoba",
+            "division": "province",
+            "parent": "CA",
+            "lat": 53.7608608,
+            "lng": -98.8138763
+        },
+        {
+            "code": "CA-NB",
+            "name": "New Brunswick",
+            "division": "province",
+            "parent": "CA",
+            "lat": 46.5653163,
+            "lng": -66.4619164
+        },
+        {
+            "code": "CA-NL",
+            "name": "Newfoundland and Labrador",
+            "division": "province",
+            "parent": "CA",
+            "lat": 53.1355091,
+            "lng": -57.66043639999998
+        },
+        {
+            "code": "CA-NS",
+            "name": "Nova Scotia",
+            "division": "province",
+            "parent": "CA",
+            "lat": 44.5534208,
+            "lng": -63.41154540000002
+        },
+        {
+            "code": "CA-ON",
+            "name": "Ontario",
+            "division": "province",
+            "parent": "CA",
+            "lat": 51.253775,
+            "lng": -85.32321389999998
+        },
+        {
+            "code": "CA-PE",
+            "name": "Prince Edward Island",
+            "division": "province",
+            "parent": "CA",
+            "lat": 46.510712,
+            "lng": -63.41681360000001
+        },
+        {
+            "code": "CA-QC",
+            "name": "Quebec",
+            "division": "province",
+            "parent": "CA",
+            "lat": 46.8032826,
+            "lng": -71.242796
+        },
+        {
+            "code": "CA-SK",
+            "name": "Saskatchewan",
+            "division": "province",
+            "parent": "CA",
+            "lat": 52.9399159,
+            "lng": -106.4508639
+        },
+        {
+            "code": "CA-NT",
+            "name": "Northwest Territories",
+            "division": "territory",
+            "parent": "CA",
+            "lat": 64.8255441,
+            "lng": -124.84573339999997
+        },
+        {
+            "code": "CA-NU",
+            "name": "Nunavut",
+            "division": "territory",
+            "parent": "CA",
+            "lat": 70.2997711,
+            "lng": -83.10757690000003
+        },
+        {
+            "code": "CA-YT",
+            "name": "Yukon Territory",
+            "division": "territory",
+            "parent": "CA",
+            "lat": 64.2823274,
+            "lng": -135
+        }
+    ]
+}

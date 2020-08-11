@@ -1,0 +1,91 @@
+{
+    "name": "Liberia",
+    "alpha-2": "LR",
+    "alpha-3": "LBR",
+    "country-code": "430",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "LR-BM",
+            "name": "Bomi",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-BG",
+            "name": "Bong",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-GB",
+            "name": "Grand Bassa",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-CM",
+            "name": "Grand Cape Mount",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-GG",
+            "name": "Grand Gedeh",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-GK",
+            "name": "Grand Kru",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-LO",
+            "name": "Lofa",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-MG",
+            "name": "Margibi",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-MY",
+            "name": "Maryland",
+            "division": "county",
+            "parent": "LR",
+            "lat": 39.0457549,
+            "lng": -76.6412712
+        },
+        {
+            "code": "LR-MO",
+            "name": "Montserrado",
+            "division": "county",
+            "parent": "LR",
+            "lat": 37.9642529,
+            "lng": -91.8318334
+        },
+        {
+            "code": "LR-NI",
+            "name": "Nimba",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-RI",
+            "name": "Rivercess",
+            "division": "county",
+            "parent": "LR"
+        },
+        {
+            "code": "LR-SI",
+            "name": "Sinoe",
+            "division": "county",
+            "parent": "LR"
+        }
+    ]
+}

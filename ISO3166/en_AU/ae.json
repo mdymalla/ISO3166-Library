@@ -1,0 +1,63 @@
+{
+    "name": "United Arab Emirates",
+    "alpha-2": "AE",
+    "alpha-3": "ARE",
+    "country-code": "784",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "AE-AZ",
+            "name": "Ab\u016b \u0224aby [Abu Dhabi]",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 24.4666667,
+            "lng": 54.366666699999996
+        },
+        {
+            "code": "AE-AJ",
+            "name": "'Ajm\u0101n",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 25.3995,
+            "lng": 55.479600000000005
+        },
+        {
+            "code": "AE-FU",
+            "name": "Al Fujayrah",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "AE-SH",
+            "name": "Ash Sh\u0101riqah",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 25.286123,
+            "lng": 55.37027899999998
+        },
+        {
+            "code": "AE-DU",
+            "name": "Dubayy",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 25.2644444,
+            "lng": 55.31166669999993
+        },
+        {
+            "code": "AE-RK",
+            "name": "Ra\u2019s al Khaymah",
+            "division": "emirate",
+            "parent": "AE"
+        },
+        {
+            "code": "AE-UQ",
+            "name": "Umm al Qaywayn",
+            "division": "emirate",
+            "parent": "AE",
+            "lat": 25.584379,
+            "lng": 55.56436899999994
+        }
+    ]
+}

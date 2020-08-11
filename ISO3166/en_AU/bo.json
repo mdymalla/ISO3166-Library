@@ -1,0 +1,81 @@
+{
+    "name": "Bolivia",
+    "alpha-2": "BO",
+    "alpha-3": "BOL",
+    "country-code": "068",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "BO-H",
+            "name": "Chuquisaca",
+            "division": "department",
+            "parent": "BO",
+            "lat": -20.0249144,
+            "lng": -64.14782359999998
+        },
+        {
+            "code": "BO-C",
+            "name": "Cochabamba",
+            "division": "department",
+            "parent": "BO",
+            "lat": -17.38414,
+            "lng": -66.16670199999999
+        },
+        {
+            "code": "BO-B",
+            "name": "El Beni",
+            "division": "department",
+            "parent": "BO",
+            "lat": -14.3782747,
+            "lng": -65.09577919999998
+        },
+        {
+            "code": "BO-L",
+            "name": "La Paz",
+            "division": "department",
+            "parent": "BO",
+            "lat": -16.49901,
+            "lng": -68.14624800000001
+        },
+        {
+            "code": "BO-O",
+            "name": "Oruro",
+            "division": "department",
+            "parent": "BO",
+            "lat": -17.975281,
+            "lng": -67.11076400000002
+        },
+        {
+            "code": "BO-N",
+            "name": "Pando",
+            "division": "department",
+            "parent": "BO",
+            "lat": -17.4072937,
+            "lng": -66.03378759999998
+        },
+        {
+            "code": "BO-P",
+            "name": "Potos\u00ed",
+            "division": "department",
+            "parent": "BO",
+            "lat": -19.58297,
+            "lng": -65.756081
+        },
+        {
+            "code": "BO-S",
+            "name": "Santa Cruz",
+            "division": "department",
+            "parent": "BO",
+            "lat": -17.78879,
+            "lng": -63.19741799999997
+        },
+        {
+            "code": "BO-T",
+            "name": "Tarija",
+            "division": "department",
+            "parent": "BO",
+            "lat": -21.531811,
+            "lng": -64.73116299999998
+        }
+    ]
+}

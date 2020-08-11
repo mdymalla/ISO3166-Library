@@ -1,0 +1,53 @@
+{
+    "name": "Cyprus",
+    "alpha-2": "CY",
+    "alpha-3": "CYP",
+    "country-code": "196",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "CY-04",
+            "name": "Amm\u00f3chostos",
+            "division": "district",
+            "parent": "CY"
+        },
+        {
+            "code": "CY-06",
+            "name": "Ker\u00fdneia",
+            "division": "district",
+            "parent": "CY"
+        },
+        {
+            "code": "CY-03",
+            "name": "L\u00e1rnaka",
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.9166667,
+            "lng": 33.633333300000004
+        },
+        {
+            "code": "CY-01",
+            "name": "Lefkos\u00eda",
+            "division": "district",
+            "parent": "CY",
+            "lat": 35.1666667,
+            "lng": 33.366666699999996
+        },
+        {
+            "code": "CY-02",
+            "name": "Lemes\u00f3s",
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.7071301,
+            "lng": 33.022617399999945
+        },
+        {
+            "code": "CY-05",
+            "name": "P\u00e1fos",
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.7719536,
+            "lng": 32.430223100000035
+        }
+    ]
+}

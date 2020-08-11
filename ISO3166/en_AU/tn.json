@@ -1,0 +1,201 @@
+{
+    "name": "Tunisia",
+    "alpha-2": "TN",
+    "alpha-3": "TUN",
+    "country-code": "788",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "TN-31",
+            "name": "B\u00e9ja",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.725311,
+            "lng": 9.192002000000002
+        },
+        {
+            "code": "TN-13",
+            "name": "Ben Arous",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.7435003,
+            "lng": 10.23197570000002
+        },
+        {
+            "code": "TN-23",
+            "name": "Bizerte",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 37.27626,
+            "lng": 9.873070999999982
+        },
+        {
+            "code": "TN-81",
+            "name": "Gab\u00e8s",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 33.893269,
+            "lng": 10.102910000000065
+        },
+        {
+            "code": "TN-71",
+            "name": "Gafsa",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 34.42165,
+            "lng": 8.786655999999994
+        },
+        {
+            "code": "TN-32",
+            "name": "Jendouba",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.5,
+            "lng": 8.783333299999981
+        },
+        {
+            "code": "TN-41",
+            "name": "Kairouan",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.677139,
+            "lng": 10.097240000000056
+        },
+        {
+            "code": "TN-42",
+            "name": "Kasserine",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.171539,
+            "lng": 8.828745000000026
+        },
+        {
+            "code": "TN-73",
+            "name": "Kebili",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 33.7019444,
+            "lng": 8.973611099999971
+        },
+        {
+            "code": "TN-12",
+            "name": "L'Ariana",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.8829074,
+            "lng": 10.237305200000037
+        },
+        {
+            "code": "TN-33",
+            "name": "Le Kef",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.179272,
+            "lng": 8.714140000000043
+        },
+        {
+            "code": "TN-53",
+            "name": "Mahdia",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.5024461,
+            "lng": 11.045720999999958
+        },
+        {
+            "code": "TN-14",
+            "name": "La Manouba",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.8103173,
+            "lng": 10.091824599999995
+        },
+        {
+            "code": "TN-82",
+            "name": "Medenine",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 33.348942,
+            "lng": 10.494789999999966
+        },
+        {
+            "code": "TN-52",
+            "name": "Monastir",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.77718,
+            "lng": 10.826099999999997
+        },
+        {
+            "code": "TN-21",
+            "name": "Nabeul",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.456478,
+            "lng": 10.735050000000001
+        },
+        {
+            "code": "TN-61",
+            "name": "Sfax",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 34.745159,
+            "lng": 10.761300000000006
+        },
+        {
+            "code": "TN-43",
+            "name": "Sidi Bouzid",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.0333333,
+            "lng": 9.5
+        },
+        {
+            "code": "TN-34",
+            "name": "Siliana",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.090611,
+            "lng": 9.369996000000015
+        },
+        {
+            "code": "TN-51",
+            "name": "Sousse",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 35.8333333,
+            "lng": 10.633333300000004
+        },
+        {
+            "code": "TN-83",
+            "name": "Tataouine",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 32.9255556,
+            "lng": 10.444166699999982
+        },
+        {
+            "code": "TN-72",
+            "name": "Tozeur",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 33.92403,
+            "lng": 8.131213000000002
+        },
+        {
+            "code": "TN-11",
+            "name": "Tunis",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.81881,
+            "lng": 10.165960000000041
+        },
+        {
+            "code": "TN-22",
+            "name": "Zaghouan",
+            "division": "governorate",
+            "parent": "TN",
+            "lat": 36.3997,
+            "lng": 10.147209999999973
+        }
+    ]
+}

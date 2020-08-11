@@ -1,0 +1,81 @@
+{
+    "name": "Austria",
+    "alpha-2": "AT",
+    "alpha-3": "AUT",
+    "country-code": "040",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "AT-1",
+            "name": "Burgenland",
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.905737,
+            "lng": 17.18447219999996
+        },
+        {
+            "code": "AT-2",
+            "name": "K\u00e4rnten",
+            "division": "state",
+            "parent": "AT",
+            "lat": 46.62794,
+            "lng": 14.308989999999994
+        },
+        {
+            "code": "AT-3",
+            "name": "Nieder\u00f6sterreich",
+            "division": "state",
+            "parent": "AT",
+            "lat": 48.189578,
+            "lng": 16.39998879999996
+        },
+        {
+            "code": "AT-4",
+            "name": "Ober\u00f6sterreich",
+            "division": "state",
+            "parent": "AT",
+            "lat": 48.307958,
+            "lng": 14.300149000000033
+        },
+        {
+            "code": "AT-5",
+            "name": "Salzburg",
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.80949,
+            "lng": 13.055010000000038
+        },
+        {
+            "code": "AT-6",
+            "name": "Steiermark",
+            "division": "state",
+            "parent": "AT",
+            "lat": 46.6886937,
+            "lng": 15.080303500000014
+        },
+        {
+            "code": "AT-7",
+            "name": "Tirol",
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.7029582,
+            "lng": 15.536009400000012
+        },
+        {
+            "code": "AT-8",
+            "name": "Vorarlberg",
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.3953844,
+            "lng": 9.730524400000036
+        },
+        {
+            "code": "AT-9",
+            "name": "Wien",
+            "division": "state",
+            "parent": "AT",
+            "lat": 48.2081743,
+            "lng": 16.37381890000006
+        }
+    ]
+}

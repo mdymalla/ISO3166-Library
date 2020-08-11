@@ -1,0 +1,87 @@
+{
+    "name": "Ethiopia",
+    "alpha-2": "ET",
+    "alpha-3": "ETH",
+    "country-code": "231",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "ET-AA",
+            "name": "\u0100d\u012bs \u0100beba",
+            "division": "administration",
+            "parent": "ET",
+            "lat": 9.0107045,
+            "lng": 38.72000009999999
+        },
+        {
+            "code": "ET-DD",
+            "name": "Dir\u0113 Dawa",
+            "division": "administration",
+            "parent": "ET",
+            "lat": 9.589229,
+            "lng": 41.87018999999998
+        },
+        {
+            "code": "ET-AF",
+            "name": "\u0100far",
+            "division": "state",
+            "parent": "ET",
+            "lat": 11.8172222,
+            "lng": 41.464166699999964
+        },
+        {
+            "code": "ET-AM",
+            "name": "\u0100mara",
+            "division": "state",
+            "parent": "ET",
+            "lat": 11.3494247,
+            "lng": 37.97845849999999
+        },
+        {
+            "code": "ET-BE",
+            "name": "B\u012bnshangul Gumuz",
+            "division": "state",
+            "parent": "ET"
+        },
+        {
+            "code": "ET-GA",
+            "name": "Gamb\u0113la Hizboch",
+            "division": "state",
+            "parent": "ET",
+            "lat": 32.1574351,
+            "lng": -82.90712300000001
+        },
+        {
+            "code": "ET-HA",
+            "name": "H\u0101rer\u012b Hizb",
+            "division": "state",
+            "parent": "ET"
+        },
+        {
+            "code": "ET-OR",
+            "name": "Orom\u012bya",
+            "division": "state",
+            "parent": "ET"
+        },
+        {
+            "code": "ET-SO",
+            "name": "Sumal\u0113",
+            "division": "state",
+            "parent": "ET",
+            "lat": 6.6612293,
+            "lng": 43.7908453
+        },
+        {
+            "code": "ET-TI",
+            "name": "Tigray",
+            "division": "state",
+            "parent": "ET"
+        },
+        {
+            "code": "ET-SN",
+            "name": "YeDebub Bih\u0113roch Bih\u0113reseboch na Hizboch",
+            "division": "state",
+            "parent": "ET"
+        }
+    ]
+}

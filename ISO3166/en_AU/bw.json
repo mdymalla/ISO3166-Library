@@ -1,0 +1,83 @@
+{
+    "name": "Botswana",
+    "alpha-2": "BW",
+    "alpha-3": "BWA",
+    "country-code": "072",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "BW-CE",
+            "name": "Central",
+            "division": "district",
+            "parent": "BW"
+        },
+        {
+            "code": "BW-GH",
+            "name": "Ghanzi",
+            "division": "district",
+            "parent": "BW",
+            "lat": -21.7,
+            "lng": 21.649999999999977
+        },
+        {
+            "code": "BW-KG",
+            "name": "Kgalagadi",
+            "division": "district",
+            "parent": "BW"
+        },
+        {
+            "code": "BW-KL",
+            "name": "Kgatleng",
+            "division": "district",
+            "parent": "BW",
+            "lat": -24.5634858,
+            "lng": 25.97547510000004
+        },
+        {
+            "code": "BW-KW",
+            "name": "Kweneng",
+            "division": "district",
+            "parent": "BW"
+        },
+        {
+            "code": "BW-NG",
+            "name": "Ngamiland",
+            "division": "district",
+            "parent": "BW",
+            "lat": -20.6254059,
+            "lng": 21.666072499999927
+        },
+        {
+            "code": "BW-NE",
+            "name": "North-East",
+            "division": "district",
+            "parent": "BW",
+            "lat": -20.9030555,
+            "lng": 27.455638799999974
+        },
+        {
+            "code": "BW-NW",
+            "name": "North-West (Botswana)",
+            "division": "district",
+            "parent": "BW",
+            "lat": -26.6638599,
+            "lng": 25.283758499999976
+        },
+        {
+            "code": "BW-SE",
+            "name": "South-East",
+            "division": "district",
+            "parent": "BW",
+            "lat": -25.0158695,
+            "lng": 25.733850200000006
+        },
+        {
+            "code": "BW-SO",
+            "name": "Southern (Botswana)",
+            "division": "district",
+            "parent": "BW",
+            "lat": -24.823384,
+            "lng": 24.714291799999955
+        }
+    ]
+}

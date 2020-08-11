@@ -1,0 +1,63 @@
+{
+    "name": "Kenya",
+    "alpha-2": "KE",
+    "alpha-3": "KEN",
+    "country-code": "404",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "KE-110",
+            "name": "Nairobi Municipality",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2833333,
+            "lng": 36.81666670000004
+        },
+        {
+            "code": "KE-200",
+            "name": "Central",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2140711,
+            "lng": 36.872534900000005
+        },
+        {
+            "code": "KE-300",
+            "name": "Coast",
+            "division": "province",
+            "parent": "KE",
+            "lat": -4.0690822,
+            "lng": 39.6783289
+        },
+        {
+            "code": "KE-400",
+            "name": "Eastern",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2164728,
+            "lng": 36.99062349999997
+        },
+        {
+            "code": "KE-500",
+            "name": "North-Eastern Kaskazini Mashariki",
+            "division": "province",
+            "parent": "KE"
+        },
+        {
+            "code": "KE-700",
+            "name": "Rift Valley",
+            "division": "province",
+            "parent": "KE",
+            "lat": -0.944009,
+            "lng": 36.59571649999998
+        },
+        {
+            "code": "KE-900",
+            "name": "Western Magharibi",
+            "division": "province",
+            "parent": "KE",
+            "lat": 0.2759607,
+            "lng": 34.75764159999994
+        }
+    ]
+}

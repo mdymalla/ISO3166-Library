@@ -1,0 +1,65 @@
+{
+    "name": "Tuvalu",
+    "alpha-2": "TV",
+    "alpha-3": "TUV",
+    "country-code": "798",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "TV-FUN",
+            "name": "Funafuti",
+            "division": "town council",
+            "parent": "TV",
+            "lat": -8.5239901,
+            "lng": 179.19685619999996
+        },
+        {
+            "code": "TV-NMG",
+            "name": "Nanumanga",
+            "division": "island council",
+            "parent": "TV"
+        },
+        {
+            "code": "TV-NMA",
+            "name": "Nanumea",
+            "division": "island council",
+            "parent": "TV"
+        },
+        {
+            "code": "TV-NIT",
+            "name": "Niutao",
+            "division": "island council",
+            "parent": "TV",
+            "lat": -6.1064014,
+            "lng": 177.33887670000001
+        },
+        {
+            "code": "TV-NIU",
+            "name": "Nui",
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.2666667,
+            "lng": 177.16666669999995
+        },
+        {
+            "code": "TV-NKF",
+            "name": "Nukufetau",
+            "division": "island council",
+            "parent": "TV"
+        },
+        {
+            "code": "TV-NKL",
+            "name": "Nukulaelae",
+            "division": "island council",
+            "parent": "TV"
+        },
+        {
+            "code": "TV-VAI",
+            "name": "Vaitupu",
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.4916303,
+            "lng": 178.68079109999996
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Pakistan",
+    "alpha-2": "PK",
+    "alpha-3": "PAK",
+    "country-code": "586",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "PK-IS",
+            "name": "Islamabad",
+            "division": "capital territory",
+            "parent": "PK",
+            "lat": 33.718151,
+            "lng": 73.06054700000004
+        },
+        {
+            "code": "PK-BA",
+            "name": "Balochistan",
+            "division": "province",
+            "parent": "PK",
+            "lat": 30.1656721,
+            "lng": 66.99061010000003
+        },
+        {
+            "code": "PK-NW",
+            "name": "North-West Frontier",
+            "division": "province",
+            "parent": "PK",
+            "lat": 34.9526205,
+            "lng": 72.33111299999996
+        },
+        {
+            "code": "PK-PB",
+            "name": "Punjab",
+            "division": "province",
+            "parent": "PK",
+            "lat": 31.1471305,
+            "lng": 75.34121789999995
+        },
+        {
+            "code": "PK-SD",
+            "name": "Sindh",
+            "division": "province",
+            "parent": "PK",
+            "lat": 24.8276911,
+            "lng": 67.0742583
+        },
+        {
+            "code": "PK-TA",
+            "name": "Federally Administered Tribal Areas",
+            "division": "area",
+            "parent": "PK"
+        },
+        {
+            "code": "PK-JK",
+            "name": "Azad Kashmir",
+            "division": "area",
+            "parent": "PK",
+            "lat": 34.1490875,
+            "lng": 76.82596519999993
+        },
+        {
+            "code": "PK-NA",
+            "name": "Northern Areas",
+            "division": "area",
+            "parent": "PK",
+            "lat": 35.294869,
+            "lng": 75.63121320000005
+        }
+    ]
+}

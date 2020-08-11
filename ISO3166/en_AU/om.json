@@ -1,0 +1,73 @@
+{
+    "name": "Oman",
+    "alpha-2": "OM",
+    "alpha-3": "OMN",
+    "country-code": "512",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "OM-DA",
+            "name": "Ad D\u0101khil\u012bya",
+            "division": "region",
+            "parent": "OM"
+        },
+        {
+            "code": "OM-BA",
+            "name": "Al B\u0101\u0163inah",
+            "division": "region",
+            "parent": "OM",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "OM-WU",
+            "name": "Al Wus\u0163\u00e1",
+            "division": "region",
+            "parent": "OM",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "OM-SH",
+            "name": "Ash Sharq\u012byah",
+            "division": "region",
+            "parent": "OM",
+            "lat": 23.6200618,
+            "lng": 58.49762369999996
+        },
+        {
+            "code": "OM-ZA",
+            "name": "Az\u0327 Z\u0327\u0101hirah",
+            "division": "region",
+            "parent": "OM"
+        },
+        {
+            "code": "OM-BU",
+            "name": "Al Buraym\u012b",
+            "division": "governorate",
+            "parent": "OM",
+            "lat": 24.0872222,
+            "lng": 55.72249999999997
+        },
+        {
+            "code": "OM-MA",
+            "name": "Masqa\u0163",
+            "division": "governorate",
+            "parent": "OM",
+            "lat": 23.6138199,
+            "lng": 58.59224130000007
+        },
+        {
+            "code": "OM-MU",
+            "name": "Musandam",
+            "division": "governorate",
+            "parent": "OM"
+        },
+        {
+            "code": "OM-ZU",
+            "name": "Z\u0327uf\u0101r",
+            "division": "governorate",
+            "parent": "OM"
+        }
+    ]
+}

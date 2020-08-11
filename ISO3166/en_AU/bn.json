@@ -1,0 +1,37 @@
+{
+    "name": "Brunei",
+    "alpha-2": "BN",
+    "alpha-3": "BRN",
+    "country-code": "096",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "BN-BE",
+            "name": "Belait",
+            "division": "district",
+            "parent": "BN"
+        },
+        {
+            "code": "BN-BM",
+            "name": "Brunei-Muara",
+            "division": "district",
+            "parent": "BN",
+            "lat": 5.0333333,
+            "lng": 115.06666670000004
+        },
+        {
+            "code": "BN-TE",
+            "name": "Temburong",
+            "division": "district",
+            "parent": "BN"
+        },
+        {
+            "code": "BN-TU",
+            "name": "Tutong",
+            "division": "district",
+            "parent": "BN",
+            "lat": 4.805784,
+            "lng": 114.64669800000001
+        }
+    ]
+}

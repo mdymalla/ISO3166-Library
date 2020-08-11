@@ -1,0 +1,87 @@
+{
+    "name": "Congo - Brazzaville",
+    "alpha-2": "CG",
+    "alpha-3": "COG",
+    "country-code": "178",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "CG-11",
+            "name": "Bouenza",
+            "division": "region",
+            "parent": "CG"
+        },
+        {
+            "code": "CG-8",
+            "name": "Cuvette",
+            "division": "region",
+            "parent": "CG",
+            "lat": 48.8084338,
+            "lng": -0.8672125000000506
+        },
+        {
+            "code": "CG-15",
+            "name": "Cuvette-Ouest",
+            "division": "region",
+            "parent": "CG"
+        },
+        {
+            "code": "CG-5",
+            "name": "Kouilou",
+            "division": "region",
+            "parent": "CG"
+        },
+        {
+            "code": "CG-2",
+            "name": "L\u00e9koumou",
+            "division": "region",
+            "parent": "CG"
+        },
+        {
+            "code": "CG-7",
+            "name": "Likouala",
+            "division": "region",
+            "parent": "CG"
+        },
+        {
+            "code": "CG-9",
+            "name": "Niari",
+            "division": "region",
+            "parent": "CG",
+            "lat": -22.817714,
+            "lng": -43.587089100000014
+        },
+        {
+            "code": "CG-14",
+            "name": "Plateaux",
+            "division": "region",
+            "parent": "CG",
+            "lat": 52.3343584,
+            "lng": 6.66234929999996
+        },
+        {
+            "code": "CG-12",
+            "name": "Pool",
+            "division": "region",
+            "parent": "CG",
+            "lat": 52.800091,
+            "lng": 7.143832100000054
+        },
+        {
+            "code": "CG-13",
+            "name": "Sangha",
+            "division": "region",
+            "parent": "CG",
+            "lat": 36.638011,
+            "lng": 126.65939449999996
+        },
+        {
+            "code": "CG-BZV",
+            "name": "Brazzaville",
+            "division": "capital district",
+            "parent": "CG",
+            "lat": -4.272845,
+            "lng": 15.279768999999987
+        }
+    ]
+}

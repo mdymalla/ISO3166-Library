@@ -1,0 +1,105 @@
+{
+    "name": "Netherlands",
+    "alpha-2": "NL",
+    "alpha-3": "NLD",
+    "country-code": "528",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "NL-DR",
+            "name": "Drenthe",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.9476012,
+            "lng": 6.623058600000036
+        },
+        {
+            "code": "NL-FL",
+            "name": "Flevoland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.5279781,
+            "lng": 5.595350800000006
+        },
+        {
+            "code": "NL-FR",
+            "name": "Friesland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 53.1641642,
+            "lng": 5.781754200000023
+        },
+        {
+            "code": "NL-GE",
+            "name": "Gelderland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.045155,
+            "lng": 5.871823400000039
+        },
+        {
+            "code": "NL-GR",
+            "name": "Groningen",
+            "division": "province",
+            "parent": "NL",
+            "lat": 53.2193835,
+            "lng": 6.566501799999969
+        },
+        {
+            "code": "NL-LI",
+            "name": "Limburg",
+            "division": "province",
+            "parent": "NL",
+            "lat": 50.9738973,
+            "lng": 5.341967699999941
+        },
+        {
+            "code": "NL-NB",
+            "name": "Noord-Brabant",
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.4826537,
+            "lng": 5.232168699999988
+        },
+        {
+            "code": "NL-NH",
+            "name": "Noord-Holland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.3910158,
+            "lng": 4.911270899999977
+        },
+        {
+            "code": "NL-OV",
+            "name": "Overijssel",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.4387814,
+            "lng": 6.501641100000029
+        },
+        {
+            "code": "NL-UT",
+            "name": "Utrecht",
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.0901422,
+            "lng": 5.109664899999984
+        },
+        {
+            "code": "NL-ZE",
+            "name": "Zeeland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.4940309,
+            "lng": 3.849681499999974
+        },
+        {
+            "code": "NL-ZH",
+            "name": "Zuid-Holland",
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.9053885,
+            "lng": 4.403839500000004
+        }
+    ]
+}

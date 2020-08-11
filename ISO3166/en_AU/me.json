@@ -1,0 +1,177 @@
+{
+    "name": "Montenegro",
+    "alpha-2": "ME",
+    "alpha-3": "MNE",
+    "country-code": "499",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "ME-01",
+            "name": "Andrijevica",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.7338889,
+            "lng": 19.791944400000034
+        },
+        {
+            "code": "ME-02",
+            "name": "Bar",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.1,
+            "lng": 19.100000000000023
+        },
+        {
+            "code": "ME-03",
+            "name": "Berane",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.8472722,
+            "lng": 19.86941390000004
+        },
+        {
+            "code": "ME-04",
+            "name": "Bijelo Polje",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.037708,
+            "lng": 19.747930999999994
+        },
+        {
+            "code": "ME-05",
+            "name": "Budva",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.2880556,
+            "lng": 18.842499999999973
+        },
+        {
+            "code": "ME-06",
+            "name": "Cetinje",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.390888,
+            "lng": 18.913980000000038
+        },
+        {
+            "code": "ME-07",
+            "name": "Danilovgrad",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.55566,
+            "lng": 19.105708999999933
+        },
+        {
+            "code": "ME-08",
+            "name": "Herceg-Novi",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.45295,
+            "lng": 18.53144999999995
+        },
+        {
+            "code": "ME-09",
+            "name": "Kola\u0161in",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.822606,
+            "lng": 19.51643899999999
+        },
+        {
+            "code": "ME-10",
+            "name": "Kotor",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.4211357,
+            "lng": 18.767521399999964
+        },
+        {
+            "code": "ME-11",
+            "name": "Mojkovac",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.96,
+            "lng": 19.579999999999927
+        },
+        {
+            "code": "ME-12",
+            "name": "Nik\u0161i\u0107",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.773281,
+            "lng": 18.94416000000001
+        },
+        {
+            "code": "ME-13",
+            "name": "Plav",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.5955556,
+            "lng": 19.944999999999936
+        },
+        {
+            "code": "ME-14",
+            "name": "Pljevlja",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.36,
+            "lng": 19.360000000000014
+        },
+        {
+            "code": "ME-15",
+            "name": "Plu\u017eine",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.1541366,
+            "lng": 18.841037599999936
+        },
+        {
+            "code": "ME-16",
+            "name": "Podgorica",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.442575,
+            "lng": 19.26864599999999
+        },
+        {
+            "code": "ME-17",
+            "name": "Ro\u017eaje",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.8442278,
+            "lng": 20.167877800000042
+        },
+        {
+            "code": "ME-18",
+            "name": "\u0160avnik",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.9577803,
+            "lng": 19.094362700000033
+        },
+        {
+            "code": "ME-19",
+            "name": "Tivat",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.431877,
+            "lng": 18.71126700000002
+        },
+        {
+            "code": "ME-20",
+            "name": "Ulcinj",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 41.929722,
+            "lng": 19.224290999999994
+        },
+        {
+            "code": "ME-21",
+            "name": "\u017dabljak",
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.154541,
+            "lng": 19.12315000000001
+        }
+    ]
+}

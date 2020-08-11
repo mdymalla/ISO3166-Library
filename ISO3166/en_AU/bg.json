@@ -1,0 +1,233 @@
+{
+    "name": "Bulgaria",
+    "alpha-2": "BG",
+    "alpha-3": "BGR",
+    "country-code": "100",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "BG-01",
+            "name": "Blagoevgrad",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.0224879,
+            "lng": 23.09474069999999
+        },
+        {
+            "code": "BG-02",
+            "name": "Burgas",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.4976779,
+            "lng": 27.47002539999994
+        },
+        {
+            "code": "BG-08",
+            "name": "Dobrich",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.5690224,
+            "lng": 27.827242399999932
+        },
+        {
+            "code": "BG-07",
+            "name": "Gabrovo",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.8742242,
+            "lng": 25.318937499999947
+        },
+        {
+            "code": "BG-26",
+            "name": "Haskovo",
+            "division": "region",
+            "parent": "BG",
+            "lat": 41.9312769,
+            "lng": 25.557212899999968
+        },
+        {
+            "code": "BG-09",
+            "name": "Kardzhali",
+            "division": "region",
+            "parent": "BG",
+            "lat": 41.6427463,
+            "lng": 25.3687185
+        },
+        {
+            "code": "BG-10",
+            "name": "Kyustendil",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.281243,
+            "lng": 22.688237500000014
+        },
+        {
+            "code": "BG-11",
+            "name": "Lovech",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.1348381,
+            "lng": 24.717262300000016
+        },
+        {
+            "code": "BG-12",
+            "name": "Montana",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.4085848,
+            "lng": 23.225697399999945
+        },
+        {
+            "code": "BG-13",
+            "name": "Pazardzhik",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.1913161,
+            "lng": 24.332133099999965
+        },
+        {
+            "code": "BG-14",
+            "name": "Pernik",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6127807,
+            "lng": 23.046091199999978
+        },
+        {
+            "code": "BG-15",
+            "name": "Pleven",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.4082397,
+            "lng": 24.620304900000065
+        },
+        {
+            "code": "BG-16",
+            "name": "Plovdiv",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.1438409,
+            "lng": 24.749561500000027
+        },
+        {
+            "code": "BG-17",
+            "name": "Razgrad",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.525002,
+            "lng": 26.523126899999966
+        },
+        {
+            "code": "BG-18",
+            "name": "Ruse",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.8493782,
+            "lng": 25.95425339999997
+        },
+        {
+            "code": "BG-27",
+            "name": "Shumen",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.2706037,
+            "lng": 26.923377200000004
+        },
+        {
+            "code": "BG-19",
+            "name": "Silistra",
+            "division": "region",
+            "parent": "BG",
+            "lat": 44.1171075,
+            "lng": 27.260722100000066
+        },
+        {
+            "code": "BG-20",
+            "name": "Sliven",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.68173,
+            "lng": 26.315505900000062
+        },
+        {
+            "code": "BG-21",
+            "name": "Smolyan",
+            "division": "region",
+            "parent": "BG",
+            "lat": 41.5746569,
+            "lng": 24.710780099999965
+        },
+        {
+            "code": "BG-23",
+            "name": "Sofia",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6169416,
+            "lng": 23.372608000000014
+        },
+        {
+            "code": "BG-22",
+            "name": "Sofia-Grad",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6976262,
+            "lng": 23.322283900000002
+        },
+        {
+            "code": "BG-24",
+            "name": "Stara Zagora",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.4239169,
+            "lng": 25.62490219999995
+        },
+        {
+            "code": "BG-25",
+            "name": "Targovishte",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.247125,
+            "lng": 26.57281869999997
+        },
+        {
+            "code": "BG-03",
+            "name": "Varna",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.2166452,
+            "lng": 27.911805800000025
+        },
+        {
+            "code": "BG-04",
+            "name": "Veliko Tarnovo",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.0785562,
+            "lng": 25.627157399999987
+        },
+        {
+            "code": "BG-05",
+            "name": "Vidin",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.9933323,
+            "lng": 22.875761399999988
+        },
+        {
+            "code": "BG-06",
+            "name": "Vratsa",
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.2038499,
+            "lng": 23.548784699999942
+        },
+        {
+            "code": "BG-28",
+            "name": "Yambol",
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.4837689,
+            "lng": 26.510771699999964
+        }
+    ]
+}

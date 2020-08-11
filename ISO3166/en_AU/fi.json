@@ -1,0 +1,51 @@
+{
+    "name": "Finland",
+    "alpha-2": "FI",
+    "alpha-3": "FIN",
+    "country-code": "246",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "FI-AL",
+            "name": "Ahvenanmaan l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "FI-ES",
+            "name": "Etel\u00e4-Suomen l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI"
+        },
+        {
+            "code": "FI-IS",
+            "name": "It\u00e4-Suomen l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI",
+            "lat": 62.6129311,
+            "lng": 26.473357299999975
+        },
+        {
+            "code": "FI-LL",
+            "name": "Lapin l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI"
+        },
+        {
+            "code": "FI-LS",
+            "name": "L\u00e4nsi-Suomen l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI"
+        },
+        {
+            "code": "FI-OL",
+            "name": "Oulun l\u00e4\u00e4ni",
+            "division": "province",
+            "parent": "FI",
+            "lat": 65.012655,
+            "lng": 25.47138599999994
+        }
+    ]
+}

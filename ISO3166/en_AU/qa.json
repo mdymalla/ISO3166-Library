@@ -1,0 +1,77 @@
+{
+    "name": "Qatar",
+    "alpha-2": "QA",
+    "alpha-3": "QAT",
+    "country-code": "634",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "QA-DA",
+            "name": "Ad Dawhah",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.3521436,
+            "lng": 51.49398529999996
+        },
+        {
+            "code": "QA-GH",
+            "name": "Al Ghuwayriyah",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "QA-JU",
+            "name": "Al Jumayliyah",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "QA-KH",
+            "name": "Al Khawr",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.683875,
+            "lng": 51.50171599999999
+        },
+        {
+            "code": "QA-WA",
+            "name": "Al Wakrah",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.1774,
+            "lng": 51.60276699999997
+        },
+        {
+            "code": "QA-RA",
+            "name": "Ar Rayyan",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.301347,
+            "lng": 51.42966799999999
+        },
+        {
+            "code": "QA-JB",
+            "name": "Jariyan al Batnah",
+            "division": "municipality",
+            "parent": "QA"
+        },
+        {
+            "code": "QA-MS",
+            "name": "Madinat ash Shamal",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 26.1135434,
+            "lng": 51.22392089999994
+        },
+        {
+            "code": "QA-US",
+            "name": "Umm Salal",
+            "division": "municipality",
+            "parent": "QA"
+        }
+    ]
+}

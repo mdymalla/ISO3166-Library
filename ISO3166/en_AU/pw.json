@@ -1,0 +1,119 @@
+{
+    "name": "Palau",
+    "alpha-2": "PW",
+    "alpha-3": "PLW",
+    "country-code": "585",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "PW-002",
+            "name": "Aimeliik",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-004",
+            "name": "Airai",
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.3575,
+            "lng": 134.55777779999994
+        },
+        {
+            "code": "PW-010",
+            "name": "Angaur",
+            "division": "state",
+            "parent": "PW",
+            "lat": 6.905018,
+            "lng": 134.12957099999994
+        },
+        {
+            "code": "PW-050",
+            "name": "Hatobohei",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-100",
+            "name": "Kayangel",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-150",
+            "name": "Koror",
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.342241,
+            "lng": 134.47920399999998
+        },
+        {
+            "code": "PW-212",
+            "name": "Melekeok",
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.500795,
+            "lng": 134.61870799999997
+        },
+        {
+            "code": "PW-214",
+            "name": "Ngaraard",
+            "division": "state",
+            "parent": "PW",
+            "lat": 48.0335154,
+            "lng": -65.22816599999999
+        },
+        {
+            "code": "PW-218",
+            "name": "Ngarchelong",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-222",
+            "name": "Ngardmau",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-224",
+            "name": "Ngatpang",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-226",
+            "name": "Ngchesar",
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.4675,
+            "lng": 134.60722220000002
+        },
+        {
+            "code": "PW-227",
+            "name": "Ngeremlengui",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-228",
+            "name": "Ngiwal",
+            "division": "state",
+            "parent": "PW"
+        },
+        {
+            "code": "PW-350",
+            "name": "Peleliu",
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.0091636,
+            "lng": 134.2508537
+        },
+        {
+            "code": "PW-370",
+            "name": "Sonsorol",
+            "division": "state",
+            "parent": "PW"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Syria",
+    "alpha-2": "SY",
+    "alpha-3": "SYR",
+    "country-code": "760",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "SY-HA",
+            "name": "Al Hasakah",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 36.493401,
+            "lng": 40.76697899999999
+        },
+        {
+            "code": "SY-LA",
+            "name": "Al Ladhiqiyah",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 35.52145,
+            "lng": 35.79240000000004
+        },
+        {
+            "code": "SY-QU",
+            "name": "Al Qunaytirah",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 33.120491,
+            "lng": 35.82545099999993
+        },
+        {
+            "code": "SY-RA",
+            "name": "Ar Raqqah",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 35.95,
+            "lng": 39.01666669999997
+        },
+        {
+            "code": "SY-SU",
+            "name": "As Suwayda'",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 32.706268,
+            "lng": 36.566070999999965
+        },
+        {
+            "code": "SY-DR",
+            "name": "Dar'a",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 32.6245,
+            "lng": 36.10522100000003
+        },
+        {
+            "code": "SY-DY",
+            "name": "Dayr az Zawr",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 35.3333333,
+            "lng": 40.14999999999998
+        },
+        {
+            "code": "SY-DI",
+            "name": "Dimashq",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 33.513,
+            "lng": 36.29200000000003
+        },
+        {
+            "code": "SY-HL",
+            "name": "Halab",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 36.215549,
+            "lng": 37.15927899999997
+        },
+        {
+            "code": "SY-HM",
+            "name": "Hamah",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 35.13781,
+            "lng": 36.75244900000007
+        },
+        {
+            "code": "SY-HI",
+            "name": "Homs",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 34.7084139,
+            "lng": 36.7073944
+        },
+        {
+            "code": "SY-ID",
+            "name": "Idlib",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 35.9333333,
+            "lng": 36.633333300000004
+        },
+        {
+            "code": "SY-RD",
+            "name": "Rif Dimashq",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 33.513,
+            "lng": 36.29200000000003
+        },
+        {
+            "code": "SY-TA",
+            "name": "Tartus",
+            "division": "governorate",
+            "parent": "SY",
+            "lat": 34.8833333,
+            "lng": 35.883333300000004
+        }
+    ]
+}

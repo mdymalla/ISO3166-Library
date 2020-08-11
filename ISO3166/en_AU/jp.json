@@ -1,0 +1,385 @@
+{
+    "name": "Japan",
+    "alpha-2": "JP",
+    "alpha-3": "JPN",
+    "country-code": "392",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "JP-23",
+            "name": "Aichi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.7404223,
+            "lng": 137.38657039999998
+        },
+        {
+            "code": "JP-05",
+            "name": "Akita",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 39.7200079,
+            "lng": 140.10256419999996
+        },
+        {
+            "code": "JP-02",
+            "name": "Aomori",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 40.822072,
+            "lng": 140.74736469999993
+        },
+        {
+            "code": "JP-12",
+            "name": "Chiba",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.6072668,
+            "lng": 140.10629070000005
+        },
+        {
+            "code": "JP-38",
+            "name": "Ehime",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 33.8500369,
+            "lng": 132.7715164
+        },
+        {
+            "code": "JP-18",
+            "name": "Fukui",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.0640669,
+            "lng": 136.2194938
+        },
+        {
+            "code": "JP-40",
+            "name": "Fukuoka",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 33.5903547,
+            "lng": 130.40171550000002
+        },
+        {
+            "code": "JP-07",
+            "name": "Fukushima",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 37.7607226,
+            "lng": 140.47335610000005
+        },
+        {
+            "code": "JP-21",
+            "name": "Gifu",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.4232984,
+            "lng": 136.76065370000003
+        },
+        {
+            "code": "JP-10",
+            "name": "Gunma",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.4303031,
+            "lng": 139.04533879999997
+        },
+        {
+            "code": "JP-34",
+            "name": "Hiroshima",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.3852029,
+            "lng": 132.45529269999997
+        },
+        {
+            "code": "JP-01",
+            "name": "Hokkaido",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 44,
+            "lng": 143
+        },
+        {
+            "code": "JP-28",
+            "name": "Hyogo",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.680578,
+            "lng": 135.16529149999997
+        },
+        {
+            "code": "JP-08",
+            "name": "Ibaraki",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.2869206,
+            "lng": 140.42451430000006
+        },
+        {
+            "code": "JP-17",
+            "name": "Ishikawa",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.3123615,
+            "lng": 136.2896826
+        },
+        {
+            "code": "JP-03",
+            "name": "Iwate",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 39.9725899,
+            "lng": 141.21251630000006
+        },
+        {
+            "code": "JP-37",
+            "name": "Kagawa",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.3429904,
+            "lng": 134.03766040000005
+        },
+        {
+            "code": "JP-46",
+            "name": "Kagoshima",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 31.5965535,
+            "lng": 130.55711580000002
+        },
+        {
+            "code": "JP-14",
+            "name": "Kanagawa",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.4769011,
+            "lng": 139.62943070000006
+        },
+        {
+            "code": "JP-39",
+            "name": "Kochi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 33.5588035,
+            "lng": 133.53116750000004
+        },
+        {
+            "code": "JP-43",
+            "name": "Kumamoto",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 32.8031004,
+            "lng": 130.70789109999998
+        },
+        {
+            "code": "JP-26",
+            "name": "Kyoto",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.0116363,
+            "lng": 135.76802939999993
+        },
+        {
+            "code": "JP-24",
+            "name": "Mie",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.7460527,
+            "lng": 136.52358879999997
+        },
+        {
+            "code": "JP-04",
+            "name": "Miyagi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 38.2590428,
+            "lng": 140.83078739999996
+        },
+        {
+            "code": "JP-45",
+            "name": "Miyazaki",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 31.9076736,
+            "lng": 131.4202411
+        },
+        {
+            "code": "JP-20",
+            "name": "Nagano",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.6485496,
+            "lng": 138.19424319999996
+        },
+        {
+            "code": "JP-42",
+            "name": "Nagasaki",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 32.7502856,
+            "lng": 129.87766699999997
+        },
+        {
+            "code": "JP-29",
+            "name": "Nara",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.6850869,
+            "lng": 135.8050002
+        },
+        {
+            "code": "JP-15",
+            "name": "Niigata",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 37.9161924,
+            "lng": 139.03641259999995
+        },
+        {
+            "code": "JP-44",
+            "name": "Oita",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 33.2395578,
+            "lng": 131.60927200000003
+        },
+        {
+            "code": "JP-33",
+            "name": "Okayama",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.6551456,
+            "lng": 133.9195019
+        },
+        {
+            "code": "JP-47",
+            "name": "Okinawa",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 26.3344266,
+            "lng": 127.8055832
+        },
+        {
+            "code": "JP-27",
+            "name": "Osaka",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.6937378,
+            "lng": 135.50216509999996
+        },
+        {
+            "code": "JP-41",
+            "name": "Saga",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 33.263482,
+            "lng": 130.30085759999997
+        },
+        {
+            "code": "JP-11",
+            "name": "Saitama",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.8617292,
+            "lng": 139.64548220000006
+        },
+        {
+            "code": "JP-25",
+            "name": "Shiga",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.2771489,
+            "lng": 136.2463682
+        },
+        {
+            "code": "JP-32",
+            "name": "Shimane",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.4865551,
+            "lng": 133.0682253
+        },
+        {
+            "code": "JP-22",
+            "name": "Shizuoka",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.975562,
+            "lng": 138.38275959999999
+        },
+        {
+            "code": "JP-09",
+            "name": "Tochigi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.3813638,
+            "lng": 139.73031749999996
+        },
+        {
+            "code": "JP-36",
+            "name": "Tokushima",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.0702703,
+            "lng": 134.55484379999996
+        },
+        {
+            "code": "JP-13",
+            "name": "Tokyo",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.7134285,
+            "lng": 139.76230780000003
+        },
+        {
+            "code": "JP-31",
+            "name": "Tottori",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.5011326,
+            "lng": 134.2350914
+        },
+        {
+            "code": "JP-16",
+            "name": "Toyama",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 36.6959518,
+            "lng": 137.21367680000003
+        },
+        {
+            "code": "JP-30",
+            "name": "Wakayama",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.2305113,
+            "lng": 135.17080829999998
+        },
+        {
+            "code": "JP-06",
+            "name": "Yamagata",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 38.2554388,
+            "lng": 140.3396017
+        },
+        {
+            "code": "JP-35",
+            "name": "Yamaguchi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 34.178496,
+            "lng": 131.47372689999997
+        },
+        {
+            "code": "JP-19",
+            "name": "Yamanashi",
+            "division": "prefecture",
+            "parent": "JP",
+            "lat": 35.6933937,
+            "lng": 138.68691379999996
+        }
+    ]
+}

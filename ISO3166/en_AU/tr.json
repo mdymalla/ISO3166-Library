@@ -1,0 +1,657 @@
+{
+    "name": "Turkey",
+    "alpha-2": "TR",
+    "alpha-3": "TUR",
+    "country-code": "792",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "TR-01",
+            "name": "Adana",
+            "division": "province",
+            "parent": "TR",
+            "lat": 36.999981,
+            "lng": 35.32436000000007
+        },
+        {
+            "code": "TR-02",
+            "name": "Ad\u0131yaman",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.7641667,
+            "lng": 38.276166699999976
+        },
+        {
+            "code": "TR-03",
+            "name": "Afyon",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.76376,
+            "lng": 30.540340000000015
+        },
+        {
+            "code": "TR-04",
+            "name": "A\u011fr\u0131",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.7216667,
+            "lng": 43.05666670000005
+        },
+        {
+            "code": "TR-68",
+            "name": "Aksaray",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.36869,
+            "lng": 34.03697999999997
+        },
+        {
+            "code": "TR-05",
+            "name": "Amasya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.65,
+            "lng": 35.83333330000005
+        },
+        {
+            "code": "TR-06",
+            "name": "Ankara",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.92077,
+            "lng": 32.85410999999999
+        },
+        {
+            "code": "TR-07",
+            "name": "Antalya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 36.88414,
+            "lng": 30.70562999999993
+        },
+        {
+            "code": "TR-75",
+            "name": "Ardahan",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.110481,
+            "lng": 42.70217100000002
+        },
+        {
+            "code": "TR-08",
+            "name": "Artvin",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.1833333,
+            "lng": 41.81666670000004
+        },
+        {
+            "code": "TR-09",
+            "name": "Ayd\u0131n",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.8444,
+            "lng": 27.845800000000054
+        },
+        {
+            "code": "TR-10",
+            "name": "Bal\u0131kesir",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.648369,
+            "lng": 27.88261
+        },
+        {
+            "code": "TR-74",
+            "name": "Bart\u0131n",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.6344444,
+            "lng": 32.33749999999998
+        },
+        {
+            "code": "TR-72",
+            "name": "Batman",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.881168,
+            "lng": 41.13508999999999
+        },
+        {
+            "code": "TR-69",
+            "name": "Bayburt",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.255169,
+            "lng": 40.224879999999985
+        },
+        {
+            "code": "TR-11",
+            "name": "Bilecik",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.150131,
+            "lng": 29.98306100000002
+        },
+        {
+            "code": "TR-12",
+            "name": "Bing\u00f6l",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.885349,
+            "lng": 40.498290999999995
+        },
+        {
+            "code": "TR-13",
+            "name": "Bitlis",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.4,
+            "lng": 42.116666699999996
+        },
+        {
+            "code": "TR-14",
+            "name": "Bolu",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.739479,
+            "lng": 31.611560999999938
+        },
+        {
+            "code": "TR-15",
+            "name": "Burdur",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.726909,
+            "lng": 30.28887599999996
+        },
+        {
+            "code": "TR-16",
+            "name": "Bursa",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.18257,
+            "lng": 29.066869999999994
+        },
+        {
+            "code": "TR-17",
+            "name": "\u00c7anakkale",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.155312,
+            "lng": 26.414160000000038
+        },
+        {
+            "code": "TR-18",
+            "name": "\u00c7ank\u0131r\u0131",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.6,
+            "lng": 33.616666699999996
+        },
+        {
+            "code": "TR-19",
+            "name": "\u00c7orum",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.5505556,
+            "lng": 34.955555600000025
+        },
+        {
+            "code": "TR-20",
+            "name": "Denizli",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.77652,
+            "lng": 29.086389999999938
+        },
+        {
+            "code": "TR-21",
+            "name": "Diyarbak\u0131r",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.91441,
+            "lng": 40.23062900000002
+        },
+        {
+            "code": "TR-81",
+            "name": "D\u00fczce",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.843849,
+            "lng": 31.15653999999995
+        },
+        {
+            "code": "TR-22",
+            "name": "Edirne",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.6666667,
+            "lng": 26.56666670000004
+        },
+        {
+            "code": "TR-23",
+            "name": "Elaz\u0131\u011f",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.680969,
+            "lng": 39.22639800000002
+        },
+        {
+            "code": "TR-24",
+            "name": "Erzincan",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.739929,
+            "lng": 39.504501000000005
+        },
+        {
+            "code": "TR-25",
+            "name": "Erzurum",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.9043189,
+            "lng": 41.26788529999999
+        },
+        {
+            "code": "TR-26",
+            "name": "Eski\u015fehir",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.784302,
+            "lng": 30.51922000000002
+        },
+        {
+            "code": "TR-27",
+            "name": "Gaziantep",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.06622,
+            "lng": 37.383320000000026
+        },
+        {
+            "code": "TR-28",
+            "name": "Giresun",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.912811,
+            "lng": 38.389530000000036
+        },
+        {
+            "code": "TR-29",
+            "name": "G\u00fcm\u00fc\u015fhane",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.4602778,
+            "lng": 39.481388899999956
+        },
+        {
+            "code": "TR-30",
+            "name": "Hakk\u00e2ri",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.5833333,
+            "lng": 43.73333330000003
+        },
+        {
+            "code": "TR-31",
+            "name": "Hatay",
+            "division": "province",
+            "parent": "TR",
+            "lat": 36.2,
+            "lng": 36.16666669999995
+        },
+        {
+            "code": "TR-76",
+            "name": "I\u011fd\u0131r",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.9166667,
+            "lng": 44.03333329999998
+        },
+        {
+            "code": "TR-32",
+            "name": "Isparta",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.764771,
+            "lng": 30.556560999999988
+        },
+        {
+            "code": "TR-33",
+            "name": "\u0130\u00e7el",
+            "division": "province",
+            "parent": "TR",
+            "lat": 36.764291,
+            "lng": 34.550977999999986
+        },
+        {
+            "code": "TR-34",
+            "name": "\u0130stanbul",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.00527,
+            "lng": 28.976959999999963
+        },
+        {
+            "code": "TR-35",
+            "name": "\u0130zmir",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.41885,
+            "lng": 27.12871999999993
+        },
+        {
+            "code": "TR-46",
+            "name": "Kahramanmara\u015f",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.5833333,
+            "lng": 36.93333329999996
+        },
+        {
+            "code": "TR-78",
+            "name": "Karab\u00fck",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.2,
+            "lng": 32.633333300000004
+        },
+        {
+            "code": "TR-70",
+            "name": "Karaman",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.17593,
+            "lng": 33.228747999999996
+        },
+        {
+            "code": "TR-36",
+            "name": "Kars",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.59267,
+            "lng": 43.07783100000006
+        },
+        {
+            "code": "TR-37",
+            "name": "Kastamonu",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.38871,
+            "lng": 33.782730000000015
+        },
+        {
+            "code": "TR-38",
+            "name": "Kayseri",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.73122,
+            "lng": 35.47872899999993
+        },
+        {
+            "code": "TR-71",
+            "name": "K\u0131r\u0131kkale",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.846821,
+            "lng": 33.515251000000035
+        },
+        {
+            "code": "TR-39",
+            "name": "K\u0131rklareli",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.7333333,
+            "lng": 27.21666670000002
+        },
+        {
+            "code": "TR-40",
+            "name": "K\u0131r\u015fehir",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.15,
+            "lng": 34.16666669999995
+        },
+        {
+            "code": "TR-79",
+            "name": "Kilis",
+            "division": "province",
+            "parent": "TR",
+            "lat": 36.718399,
+            "lng": 37.121219999999994
+        },
+        {
+            "code": "TR-41",
+            "name": "Kocaeli",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.77869,
+            "lng": 29.909470000000056
+        },
+        {
+            "code": "TR-42",
+            "name": "Konya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.87759,
+            "lng": 32.48176999999998
+        },
+        {
+            "code": "TR-43",
+            "name": "K\u00fctahya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.4166667,
+            "lng": 29.983333300000027
+        },
+        {
+            "code": "TR-44",
+            "name": "Malatya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.35519,
+            "lng": 38.309459999999945
+        },
+        {
+            "code": "TR-45",
+            "name": "Manisa",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.6138889,
+            "lng": 27.422222199999965
+        },
+        {
+            "code": "TR-47",
+            "name": "Mardin",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.3122361,
+            "lng": 40.73511200000007
+        },
+        {
+            "code": "TR-48",
+            "name": "Mu\u011fla",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.2152778,
+            "lng": 28.36361110000007
+        },
+        {
+            "code": "TR-49",
+            "name": "Mu\u015f",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.7432926,
+            "lng": 41.506482300000016
+        },
+        {
+            "code": "TR-50",
+            "name": "Nev\u015fehir",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.62442,
+            "lng": 34.72396900000001
+        },
+        {
+            "code": "TR-51",
+            "name": "Ni\u011fde",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.9666667,
+            "lng": 34.68333329999996
+        },
+        {
+            "code": "TR-52",
+            "name": "Ordu",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.9833333,
+            "lng": 37.883333300000004
+        },
+        {
+            "code": "TR-80",
+            "name": "Osmaniye",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.06805,
+            "lng": 36.26158899999996
+        },
+        {
+            "code": "TR-53",
+            "name": "Rize",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.02005,
+            "lng": 40.52344900000003
+        },
+        {
+            "code": "TR-54",
+            "name": "Sakarya",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.7568793,
+            "lng": 30.378138000000035
+        },
+        {
+            "code": "TR-55",
+            "name": "Samsun",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.292782,
+            "lng": 36.33127999999999
+        },
+        {
+            "code": "TR-56",
+            "name": "Siirt",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.94429,
+            "lng": 41.93288000000007
+        },
+        {
+            "code": "TR-57",
+            "name": "Sinop",
+            "division": "province",
+            "parent": "TR",
+            "lat": 42.0264222,
+            "lng": 35.155074499999955
+        },
+        {
+            "code": "TR-58",
+            "name": "Sivas",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.747662,
+            "lng": 37.01787899999999
+        },
+        {
+            "code": "TR-63",
+            "name": "\u015eanl\u0131urfa",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.15,
+            "lng": 38.799999999999955
+        },
+        {
+            "code": "TR-73",
+            "name": "\u015e\u0131rnak",
+            "division": "province",
+            "parent": "TR",
+            "lat": 37.5163889,
+            "lng": 42.461111099999926
+        },
+        {
+            "code": "TR-59",
+            "name": "Tekirda\u011f",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.9833333,
+            "lng": 27.516666699999973
+        },
+        {
+            "code": "TR-60",
+            "name": "Tokat",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.3166667,
+            "lng": 36.549999999999955
+        },
+        {
+            "code": "TR-61",
+            "name": "Trabzon",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41,
+            "lng": 39.73333330000003
+        },
+        {
+            "code": "TR-62",
+            "name": "Tunceli",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.1079868,
+            "lng": 39.54016720000004
+        },
+        {
+            "code": "TR-64",
+            "name": "U\u015fak",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.682301,
+            "lng": 29.40818999999999
+        },
+        {
+            "code": "TR-65",
+            "name": "Van",
+            "division": "province",
+            "parent": "TR",
+            "lat": 38.4941667,
+            "lng": 43.379999999999995
+        },
+        {
+            "code": "TR-77",
+            "name": "Yalova",
+            "division": "province",
+            "parent": "TR",
+            "lat": 40.65,
+            "lng": 29.266666699999973
+        },
+        {
+            "code": "TR-66",
+            "name": "Yozgat",
+            "division": "province",
+            "parent": "TR",
+            "lat": 39.82,
+            "lng": 34.804444399999966
+        },
+        {
+            "code": "TR-67",
+            "name": "Zonguldak",
+            "division": "province",
+            "parent": "TR",
+            "lat": 41.456409,
+            "lng": 31.798730999999975
+        }
+    ]
+}

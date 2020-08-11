@@ -1,0 +1,115 @@
+{
+    "name": "Uzbekistan",
+    "alpha-2": "UZ",
+    "alpha-3": "UZB",
+    "country-code": "860",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "UZ-TK",
+            "name": "Toshkent",
+            "division": "city",
+            "parent": "UZ",
+            "lat": 41.2666667,
+            "lng": 69.21666670000002
+        },
+        {
+            "code": "UZ-AN",
+            "name": "Andijon",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.7833333,
+            "lng": 72.33333330000005
+        },
+        {
+            "code": "UZ-BU",
+            "name": "Buxoro",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 39.765869,
+            "lng": 64.42234800000006
+        },
+        {
+            "code": "UZ-FA",
+            "name": "Farg'ona",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.38641,
+            "lng": 71.78637700000002
+        },
+        {
+            "code": "UZ-JI",
+            "name": "Jizzax",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.1166667,
+            "lng": 67.85000000000002
+        },
+        {
+            "code": "UZ-NG",
+            "name": "Namangan",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.99902,
+            "lng": 71.67965700000002
+        },
+        {
+            "code": "UZ-NW",
+            "name": "Navoiy",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.0844444,
+            "lng": 65.37916670000004
+        },
+        {
+            "code": "UZ-QA",
+            "name": "Qashqadaryo",
+            "division": "region",
+            "parent": "UZ"
+        },
+        {
+            "code": "UZ-SA",
+            "name": "Samarqand",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 39.6541667,
+            "lng": 66.95972219999999
+        },
+        {
+            "code": "UZ-SI",
+            "name": "Sirdaryo",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.85,
+            "lng": 68.66666669999995
+        },
+        {
+            "code": "UZ-SU",
+            "name": "Surxondaryo",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 38.366667,
+            "lng": 67.64999999999998
+        },
+        {
+            "code": "UZ-TO",
+            "name": "Toshkent",
+            "division": "region",
+            "parent": "UZ",
+            "lat": 41.2666667,
+            "lng": 69.21666670000002
+        },
+        {
+            "code": "UZ-XO",
+            "name": "Xorazm",
+            "division": "region",
+            "parent": "UZ"
+        },
+        {
+            "code": "UZ-QR",
+            "name": "Qoraqalpog'iston Respublikasi",
+            "division": "republic",
+            "parent": "UZ"
+        }
+    ]
+}

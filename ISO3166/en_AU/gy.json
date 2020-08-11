@@ -1,0 +1,75 @@
+{
+    "name": "Guyana",
+    "alpha-2": "GY",
+    "alpha-3": "GUY",
+    "country-code": "328",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "GY-BA",
+            "name": "Barima-Waini",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-CU",
+            "name": "Cuyuni-Mazaruni",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-DE",
+            "name": "Demerara-Mahaica",
+            "division": "region",
+            "parent": "GY",
+            "lat": 6.8116619,
+            "lng": -58.142676600000016
+        },
+        {
+            "code": "GY-EB",
+            "name": "East Berbice-Corentyne",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-ES",
+            "name": "Essequibo Islands-West Demerara",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-MA",
+            "name": "Mahaica-Berbice",
+            "division": "region",
+            "parent": "GY",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        {
+            "code": "GY-PM",
+            "name": "Pomeroon-Supenaam",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-PT",
+            "name": "Potaro-Siparuni",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-UD",
+            "name": "Upper Demerara-Berbice",
+            "division": "region",
+            "parent": "GY"
+        },
+        {
+            "code": "GY-UT",
+            "name": "Upper Takutu-Upper Essequibo",
+            "division": "region",
+            "parent": "GY",
+            "lat": 39.3209801,
+            "lng": -111.09373110000001
+        }
+    ]
+}

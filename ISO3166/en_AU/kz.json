@@ -1,0 +1,113 @@
+{
+    "name": "Kazakhstan",
+    "alpha-2": "KZ",
+    "alpha-3": "KAZ",
+    "country-code": "398",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "KZ-ALA",
+            "name": "Almaty",
+            "division": "city",
+            "parent": "KZ",
+            "lat": 43.255058,
+            "lng": 76.91262800000004
+        },
+        {
+            "code": "KZ-AST",
+            "name": "Astana",
+            "division": "city",
+            "parent": "KZ",
+            "lat": 51.1963431,
+            "lng": 71.44111829999997
+        },
+        {
+            "code": "KZ-ALM",
+            "name": "Almaty oblysy",
+            "division": "region",
+            "parent": "KZ",
+            "lat": 43.255058,
+            "lng": 76.91262800000004
+        },
+        {
+            "code": "KZ-AKM",
+            "name": "Aqmola oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-AKT",
+            "name": "Aqt\u00f6be oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-ATY",
+            "name": "Atyra\u016b oblysy",
+            "division": "region",
+            "parent": "KZ",
+            "lat": 43.2917965,
+            "lng": 76.98446769999998
+        },
+        {
+            "code": "KZ-ZAP",
+            "name": "Batys Quzaqstan oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-MAN",
+            "name": "Mangghysta\u016b oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-YUZ",
+            "name": "Ongt\u00fcstik Qazaqstan oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-PAV",
+            "name": "Pavlodar oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-KAR",
+            "name": "Qaraghandy oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-KUS",
+            "name": "Qostanay oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-KZY",
+            "name": "Qyzylorda oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-VOS",
+            "name": "Shyghys Qazaqstan oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-SEV",
+            "name": "Solt\u00fcstik Quzaqstan oblysy",
+            "division": "region",
+            "parent": "KZ"
+        },
+        {
+            "code": "KZ-ZHA",
+            "name": "Zhambyl oblysy",
+            "division": "region",
+            "parent": "KZ"
+        }
+    ]
+}

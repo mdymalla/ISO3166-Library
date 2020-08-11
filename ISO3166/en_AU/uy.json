@@ -1,0 +1,161 @@
+{
+    "name": "Uruguay",
+    "alpha-2": "UY",
+    "alpha-3": "URY",
+    "country-code": "858",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "UY-AR",
+            "name": "Artigas",
+            "division": "department",
+            "parent": "UY",
+            "lat": -30.40996,
+            "lng": -56.47282000000001
+        },
+        {
+            "code": "UY-CA",
+            "name": "Canelones",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.5166667,
+            "lng": -56.28333329999998
+        },
+        {
+            "code": "UY-CL",
+            "name": "Cerro Largo",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.9009444,
+            "lng": -56.1884852
+        },
+        {
+            "code": "UY-CO",
+            "name": "Colonia",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.8290934,
+            "lng": -56.229046600000004
+        },
+        {
+            "code": "UY-DU",
+            "name": "Durazno",
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.3816468,
+            "lng": -56.52801679999999
+        },
+        {
+            "code": "UY-FS",
+            "name": "Flores",
+            "division": "department",
+            "parent": "UY",
+            "lat": -16.2985254,
+            "lng": -48.93696449999999
+        },
+        {
+            "code": "UY-FD",
+            "name": "Florida",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.1,
+            "lng": -56.21666670000002
+        },
+        {
+            "code": "UY-LA",
+            "name": "Lavalleja",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.0040354,
+            "lng": -54.96118360000003
+        },
+        {
+            "code": "UY-MA",
+            "name": "Maldonado",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.9,
+            "lng": -54.94999999999999
+        },
+        {
+            "code": "UY-MO",
+            "name": "Montevideo",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.8833333,
+            "lng": -56.16666670000001
+        },
+        {
+            "code": "UY-PA",
+            "name": "Paysand\u00fa",
+            "division": "department",
+            "parent": "UY",
+            "lat": -32.3213889,
+            "lng": -58.07555560000003
+        },
+        {
+            "code": "UY-RN",
+            "name": "R\u00edo Negro",
+            "division": "department",
+            "parent": "UY",
+            "lat": -32.4165639,
+            "lng": -58.28099370000001
+        },
+        {
+            "code": "UY-RV",
+            "name": "Rivera",
+            "division": "department",
+            "parent": "UY",
+            "lat": -30.905337,
+            "lng": -55.55075899999997
+        },
+        {
+            "code": "UY-RO",
+            "name": "Rocha",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.4833333,
+            "lng": -54.35000000000002
+        },
+        {
+            "code": "UY-SA",
+            "name": "Salto",
+            "division": "department",
+            "parent": "UY",
+            "lat": -31.39566,
+            "lng": -57.96276899999998
+        },
+        {
+            "code": "UY-SJ",
+            "name": "San Jos\u00e9",
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.337956,
+            "lng": -56.71281799999997
+        },
+        {
+            "code": "UY-SO",
+            "name": "Soriano",
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.5103372,
+            "lng": -57.73461129999998
+        },
+        {
+            "code": "UY-TA",
+            "name": "Tacuaremb\u00f3",
+            "division": "department",
+            "parent": "UY",
+            "lat": -31.7333333,
+            "lng": -55.98333330000003
+        },
+        {
+            "code": "UY-TT",
+            "name": "Treinta y Tres",
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.23148,
+            "lng": -54.37455
+        }
+    ]
+}

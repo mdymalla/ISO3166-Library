@@ -1,0 +1,135 @@
+{
+    "name": "Mauritius",
+    "alpha-2": "MU",
+    "alpha-3": "MUS",
+    "country-code": "480",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "MU-BR",
+            "name": "Beau Bassin-Rose Hill",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.2230305,
+            "lng": 57.46838300000002
+        },
+        {
+            "code": "MU-CU",
+            "name": "Curepipe",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.3166667,
+            "lng": 57.51666669999997
+        },
+        {
+            "code": "MU-PU",
+            "name": "Port Louis",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.165279,
+            "lng": 57.496380000000045
+        },
+        {
+            "code": "MU-QB",
+            "name": "Quatre Bornes",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.26026,
+            "lng": 57.47100799999998
+        },
+        {
+            "code": "MU-VP",
+            "name": "Vacoas-Phoenix",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.299009,
+            "lng": 57.47967900000003
+        },
+        {
+            "code": "MU-AG",
+            "name": "Agalega Islands",
+            "division": "dependency",
+            "parent": "MU"
+        },
+        {
+            "code": "MU-CC",
+            "name": "Cargados Carajos Shoals",
+            "division": "dependency",
+            "parent": "MU"
+        },
+        {
+            "code": "MU-RO",
+            "name": "Rodrigues Island",
+            "division": "dependency",
+            "parent": "MU",
+            "lat": -19.7026025,
+            "lng": 63.42721849999998
+        },
+        {
+            "code": "MU-BL",
+            "name": "Black River",
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.35,
+            "lng": 57.36666700000001
+        },
+        {
+            "code": "MU-FL",
+            "name": "Flacq",
+            "division": "district",
+            "parent": "MU",
+            "lat": 27.6648274,
+            "lng": -81.51575350000002
+        },
+        {
+            "code": "MU-GP",
+            "name": "Grand Port",
+            "division": "district",
+            "parent": "MU"
+        },
+        {
+            "code": "MU-MO",
+            "name": "Moka",
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.2166667,
+            "lng": 57.5
+        },
+        {
+            "code": "MU-PA",
+            "name": "Pamplemousses",
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.1094972,
+            "lng": 57.58158920000005
+        },
+        {
+            "code": "MU-PW",
+            "name": "Plaines Wilhems",
+            "division": "district",
+            "parent": "MU"
+        },
+        {
+            "code": "MU-PL",
+            "name": "Port Louis",
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.1756583,
+            "lng": 57.519310599999926
+        },
+        {
+            "code": "MU-RP",
+            "name": "Rivi\u00e8re du Rempart",
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.108271,
+            "lng": 57.68442900000002
+        },
+        {
+            "code": "MU-SA",
+            "name": "Savanne",
+            "division": "district",
+            "parent": "MU"
+        }
+    ]
+}

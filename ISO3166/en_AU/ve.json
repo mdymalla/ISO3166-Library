@@ -1,0 +1,209 @@
+{
+    "name": "Venezuela",
+    "alpha-2": "VE",
+    "alpha-3": "VEN",
+    "country-code": "862",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "VE-W",
+            "name": "Dependencias Federales",
+            "division": "federal dependency",
+            "parent": "VE",
+            "lat": 10.9377053,
+            "lng": -65.35695729999998
+        },
+        {
+            "code": "VE-A",
+            "name": "Distrito Federal",
+            "division": "federal district",
+            "parent": "VE",
+            "lat": 10.5004352,
+            "lng": -66.95114590000003
+        },
+        {
+            "code": "VE-Z",
+            "name": "Amazonas",
+            "division": "state",
+            "parent": "VE",
+            "lat": 2.8101413,
+            "lng": -65.09577919999998
+        },
+        {
+            "code": "VE-B",
+            "name": "Anzo\u00e1tegui",
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.8862613,
+            "lng": -64.16852690000002
+        },
+        {
+            "code": "VE-C",
+            "name": "Apure",
+            "division": "state",
+            "parent": "VE",
+            "lat": 6.9269483,
+            "lng": -68.52471489999999
+        },
+        {
+            "code": "VE-D",
+            "name": "Aragua",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.2313205,
+            "lng": -67.2847875
+        },
+        {
+            "code": "VE-E",
+            "name": "Barinas",
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.630485,
+            "lng": -70.20990799999998
+        },
+        {
+            "code": "VE-F",
+            "name": "Bol\u00edvar",
+            "division": "state",
+            "parent": "VE",
+            "lat": 6.3585216,
+            "lng": -63.580610999999976
+        },
+        {
+            "code": "VE-G",
+            "name": "Carabobo",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.1176433,
+            "lng": -68.04775089999998
+        },
+        {
+            "code": "VE-H",
+            "name": "Cojedes",
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3816682,
+            "lng": -68.33392750000002
+        },
+        {
+            "code": "VE-Y",
+            "name": "Delta Amacuro",
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.8810158,
+            "lng": -61.513603699999976
+        },
+        {
+            "code": "VE-I",
+            "name": "Falc\u00f3n",
+            "division": "state",
+            "parent": "VE",
+            "lat": 11.1810674,
+            "lng": -69.85974060000001
+        },
+        {
+            "code": "VE-J",
+            "name": "Gu\u00e1rico",
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.7489309,
+            "lng": -66.23671719999999
+        },
+        {
+            "code": "VE-K",
+            "name": "Lara",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.1537842,
+            "lng": -69.85974060000001
+        },
+        {
+            "code": "VE-L",
+            "name": "M\u00e9rida",
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.6,
+            "lng": -71.14999999999998
+        },
+        {
+            "code": "VE-M",
+            "name": "Miranda",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.2509303,
+            "lng": -66.42714990000002
+        },
+        {
+            "code": "VE-N",
+            "name": "Monagas",
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3241652,
+            "lng": -63.014757799999984
+        },
+        {
+            "code": "VE-O",
+            "name": "Nueva Esparta",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.9970723,
+            "lng": -63.91132959999999
+        },
+        {
+            "code": "VE-P",
+            "name": "Portuguesa",
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.0943999,
+            "lng": -69.09702299999998
+        },
+        {
+            "code": "VE-R",
+            "name": "Sucre",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.4055886,
+            "lng": -63.297505
+        },
+        {
+            "code": "VE-S",
+            "name": "T\u00e1chira",
+            "division": "state",
+            "parent": "VE",
+            "lat": 7.9137001,
+            "lng": -72.1416132
+        },
+        {
+            "code": "VE-T",
+            "name": "Trujillo",
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3666667,
+            "lng": -70.43333330000002
+        },
+        {
+            "code": "VE-X",
+            "name": "Vargas",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.530532,
+            "lng": -67.07028909999997
+        },
+        {
+            "code": "VE-U",
+            "name": "Yaracuy",
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.417644,
+            "lng": -68.71549749999997
+        },
+        {
+            "code": "VE-V",
+            "name": "Zulia",
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.967492,
+            "lng": -72.5204827
+        }
+    ]
+}

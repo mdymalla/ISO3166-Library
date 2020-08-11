@@ -1,0 +1,137 @@
+{
+    "name": "St. Kitts & Nevis",
+    "alpha-2": "KN",
+    "alpha-3": "KNA",
+    "country-code": "659",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "KN-K",
+            "name": "Saint Kitts",
+            "division": "state",
+            "parent": "KN",
+            "lat": 17.3433796,
+            "lng": -62.7559043
+        },
+        {
+            "code": "KN-N",
+            "name": "Nevis",
+            "division": "state",
+            "parent": "KN",
+            "lat": 17.1553558,
+            "lng": -62.57960259999999
+        },
+        {
+            "code": "KN-01",
+            "name": "Christ Church Nichola Town",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3838624,
+            "lng": -62.77354300000002
+        },
+        {
+            "code": "KN-02",
+            "name": "Saint Anne Sandy Point",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3725333,
+            "lng": -62.844113300000004
+        },
+        {
+            "code": "KN-03",
+            "name": "Saint George Basseterre",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.2946391,
+            "lng": -62.72370990000002
+        },
+        {
+            "code": "KN-04",
+            "name": "Saint George Gingerland",
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1308813,
+            "lng": -62.57094740000002
+        },
+        {
+            "code": "KN-05",
+            "name": "Saint James Windward",
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1815053,
+            "lng": -62.57372859999998
+        },
+        {
+            "code": "KN-06",
+            "name": "Saint John Capisterre",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 16.1361361,
+            "lng": -61.57729119999999
+        },
+        {
+            "code": "KN-07",
+            "name": "Saint John Figtree",
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1306916,
+            "lng": -62.601143699999966
+        },
+        {
+            "code": "KN-08",
+            "name": "Saint Mary Cayon",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3538946,
+            "lng": -62.73532769999997
+        },
+        {
+            "code": "KN-09",
+            "name": "Saint Paul Capisterre",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3942021,
+            "lng": -62.844113300000004
+        },
+        {
+            "code": "KN-10",
+            "name": "Saint Paul Charlestown",
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1346297,
+            "lng": -62.613381600000025
+        },
+        {
+            "code": "KN-11",
+            "name": "Saint Peter Basseterre",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3273856,
+            "lng": -62.72063149999997
+        },
+        {
+            "code": "KN-12",
+            "name": "Saint Thomas Lowland",
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1650513,
+            "lng": -62.6089753
+        },
+        {
+            "code": "KN-13",
+            "name": "Saint Thomas Middle Island",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3348813,
+            "lng": -62.808825100000035
+        },
+        {
+            "code": "KN-15",
+            "name": "Trinity Palmetto Point",
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3080707,
+            "lng": -62.77354300000002
+        }
+    ]
+}

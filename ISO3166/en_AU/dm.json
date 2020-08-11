@@ -1,0 +1,87 @@
+{
+    "name": "Dominica",
+    "alpha-2": "DM",
+    "alpha-3": "DMA",
+    "country-code": "212",
+    "region": "Americas",
+    "ISO3166-2": [
+        {
+            "code": "DM-02",
+            "name": "Saint Andrew",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        {
+            "code": "DM-03",
+            "name": "Saint David",
+            "division": "parish",
+            "parent": "DM"
+        },
+        {
+            "code": "DM-04",
+            "name": "Saint George",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 46.5079598,
+            "lng": 6.301685700000007
+        },
+        {
+            "code": "DM-05",
+            "name": "Saint John",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 15.3008192,
+            "lng": -61.38924930000002
+        },
+        {
+            "code": "DM-06",
+            "name": "Saint Joseph",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 15.404123,
+            "lng": -61.42452800000001
+        },
+        {
+            "code": "DM-07",
+            "name": "Saint Luke",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 53.6444489,
+            "lng": -2.9883749000000535
+        },
+        {
+            "code": "DM-08",
+            "name": "Saint Mark",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 51.5907575,
+            "lng": -3.002969300000018
+        },
+        {
+            "code": "DM-09",
+            "name": "Saint Patrick",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 46.8876348,
+            "lng": -71.51658370000001
+        },
+        {
+            "code": "DM-10",
+            "name": "Saint Paul",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 48.855168,
+            "lng": 2.3613789999999426
+        },
+        {
+            "code": "DM-01",
+            "name": "Saint Peter",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 48.24348,
+            "lng": 11.903689999999983
+        }
+    ]
+}

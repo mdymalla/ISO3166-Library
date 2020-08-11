@@ -1,0 +1,153 @@
+{
+    "name": "Nepal",
+    "alpha-2": "NP",
+    "alpha-3": "NPL",
+    "country-code": "524",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "NP-1",
+            "name": "Madhyamanchal",
+            "division": "development region",
+            "parent": "NP",
+            "lat": 27.6850607,
+            "lng": 85.32441519999998
+        },
+        {
+            "code": "NP-2",
+            "name": "Madhya Pashchimanchal",
+            "division": "development region",
+            "parent": "NP"
+        },
+        {
+            "code": "NP-3",
+            "name": "Pashchimanchal",
+            "division": "development region",
+            "parent": "NP"
+        },
+        {
+            "code": "NP-4",
+            "name": "Purwanchal",
+            "division": "development region",
+            "parent": "NP",
+            "lat": 26.7009007,
+            "lng": 87.27358570000001
+        },
+        {
+            "code": "NP-5",
+            "name": "Sudur Pashchimanchal",
+            "division": "development region",
+            "parent": "NP"
+        },
+        {
+            "code": "NP-BA",
+            "name": "Bagmati",
+            "division": "zone",
+            "parent": "NP-1",
+            "lat": 27.6839976,
+            "lng": 85.35292619999996
+        },
+        {
+            "code": "NP-BH",
+            "name": "Bheri",
+            "division": "zone",
+            "parent": "NP-2",
+            "lat": 28.0530851,
+            "lng": 81.61977709999996
+        },
+        {
+            "code": "NP-DH",
+            "name": "Dhawalagiri",
+            "division": "zone",
+            "parent": "NP-3"
+        },
+        {
+            "code": "NP-GA",
+            "name": "Gandaki",
+            "division": "zone",
+            "parent": "NP-3",
+            "lat": 28.2839708,
+            "lng": 83.94035359999998
+        },
+        {
+            "code": "NP-JA",
+            "name": "Janakpur",
+            "division": "zone",
+            "parent": "NP-1",
+            "lat": 26.73267,
+            "lng": 85.92478900000003
+        },
+        {
+            "code": "NP-KA",
+            "name": "Karnali",
+            "division": "zone",
+            "parent": "NP-2",
+            "lat": 29.26687,
+            "lng": 88.880583
+        },
+        {
+            "code": "NP-KO",
+            "name": "Kosi",
+            "division": "zone",
+            "parent": "NP-4",
+            "lat": 26.5581366,
+            "lng": 86.95740230000001
+        },
+        {
+            "code": "NP-LU",
+            "name": "Lumbini",
+            "division": "zone",
+            "parent": "NP-3",
+            "lat": 27.4673146,
+            "lng": 83.29549399999996
+        },
+        {
+            "code": "NP-MA",
+            "name": "Mahakali",
+            "division": "zone",
+            "parent": "NP-5",
+            "lat": 29.200086,
+            "lng": 80.6094038
+        },
+        {
+            "code": "NP-ME",
+            "name": "Mechi",
+            "division": "zone",
+            "parent": "NP-4",
+            "lat": 27.1576794,
+            "lng": 87.75667550000003
+        },
+        {
+            "code": "NP-NA",
+            "name": "Narayani",
+            "division": "zone",
+            "parent": "NP-1",
+            "lat": 27.6991204,
+            "lng": 84.41792310000005
+        },
+        {
+            "code": "NP-RA",
+            "name": "Rapti",
+            "division": "zone",
+            "parent": "NP-2",
+            "lat": 28.4186596,
+            "lng": 82.25774469999999
+        },
+        {
+            "code": "NP-SA",
+            "name": "Sagarmatha",
+            "division": "zone",
+            "parent": "NP-4",
+            "lat": 27.98002,
+            "lng": 86.92154299999993
+        },
+        {
+            "code": "NP-SE",
+            "name": "Seti",
+            "division": "zone",
+            "parent": "NP-5",
+            "lat": 29.6905427,
+            "lng": 81.33994140000004
+        }
+    ]
+}

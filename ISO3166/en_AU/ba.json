@@ -1,0 +1,95 @@
+{
+    "name": "Bosnia & Herzegovina",
+    "alpha-2": "BA",
+    "alpha-3": "BIH",
+    "country-code": "070",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "BA-BIH",
+            "name": "Federacija Bosne i Hercegovine",
+            "division": "entity",
+            "parent": "BA"
+        },
+        {
+            "code": "BA-SRP",
+            "name": "Republika Srpska",
+            "division": "entity",
+            "parent": "BA"
+        },
+        {
+            "code": "BA-05",
+            "name": "Bosansko-podrinjski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-07",
+            "name": "Hercegova\u010dko-neretvanski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-10",
+            "name": "Kanton br. 10 (Livanjski kanton)",
+            "division": "canton",
+            "parent": "BA-BIH",
+            "lat": 23.129163,
+            "lng": 113.26443500000005
+        },
+        {
+            "code": "BA-09",
+            "name": "Kanton Sarajevo",
+            "division": "canton",
+            "parent": "BA-BIH",
+            "lat": 43.824444,
+            "lng": 18.331388999999945
+        },
+        {
+            "code": "BA-02",
+            "name": "Posavski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-06",
+            "name": "Srednjobosanski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-03",
+            "name": "Tuzlanski kanton",
+            "division": "canton",
+            "parent": "BA-BIH",
+            "lat": 44.458721,
+            "lng": 18.724666999999954
+        },
+        {
+            "code": "BA-01",
+            "name": "Unsko-sanski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-08",
+            "name": "Zapadnohercegova\u010dki kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-04",
+            "name": "Zeni\u010dko-dobojski kanton",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        {
+            "code": "BA-BRC",
+            "name": "Br\u010dko distrikt",
+            "division": "district",
+            "parent": "BA",
+            "lat": 44.87,
+            "lng": 18.809999999999945
+        }
+    ]
+}

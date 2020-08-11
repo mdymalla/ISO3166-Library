@@ -1,0 +1,209 @@
+{
+    "name": "Tanzania",
+    "alpha-2": "TZ",
+    "alpha-3": "TZA",
+    "country-code": "834",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "TZ-01",
+            "name": "Arusha",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -3.388818,
+            "lng": 36.68493590000003
+        },
+        {
+            "code": "TZ-02",
+            "name": "Dar-es-Salaam",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.822921,
+            "lng": 39.26966100000004
+        },
+        {
+            "code": "TZ-03",
+            "name": "Dodoma",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.1730556,
+            "lng": 35.741944399999966
+        },
+        {
+            "code": "TZ-04",
+            "name": "Iringa",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -7.77,
+            "lng": 35.690000000000055
+        },
+        {
+            "code": "TZ-05",
+            "name": "Kagera",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.8068471,
+            "lng": 39.25010199999997
+        },
+        {
+            "code": "TZ-06",
+            "name": "Kaskazini Pemba",
+            "division": "region",
+            "parent": "TZ"
+        },
+        {
+            "code": "TZ-07",
+            "name": "Kaskazini Unguja",
+            "division": "region",
+            "parent": "TZ"
+        },
+        {
+            "code": "TZ-08",
+            "name": "Kigoma",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -4.8833333,
+            "lng": 29.633333300000004
+        },
+        {
+            "code": "TZ-09",
+            "name": "Kilimanjaro",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -3.066667,
+            "lng": 37.36666700000001
+        },
+        {
+            "code": "TZ-10",
+            "name": "Kusini Pemba",
+            "division": "region",
+            "parent": "TZ"
+        },
+        {
+            "code": "TZ-11",
+            "name": "Kusini Unguja",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.3928955,
+            "lng": 39.52782639999998
+        },
+        {
+            "code": "TZ-12",
+            "name": "Lindi",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -10.00208,
+            "lng": 39.70695899999998
+        },
+        {
+            "code": "TZ-26",
+            "name": "Manyara",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -3.6,
+            "lng": 35.93333299999995
+        },
+        {
+            "code": "TZ-13",
+            "name": "Mara",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -1.5,
+            "lng": 34.549999999999955
+        },
+        {
+            "code": "TZ-14",
+            "name": "Mbeya",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -8.9,
+            "lng": 33.450000000000045
+        },
+        {
+            "code": "TZ-15",
+            "name": "Mjini Magharibi",
+            "division": "region",
+            "parent": "TZ"
+        },
+        {
+            "code": "TZ-16",
+            "name": "Morogoro",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.822097,
+            "lng": 37.661159999999995
+        },
+        {
+            "code": "TZ-17",
+            "name": "Mtwara",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -10.27479,
+            "lng": 40.18389100000002
+        },
+        {
+            "code": "TZ-18",
+            "name": "Mwanza",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -2.5166667,
+            "lng": 32.89999999999998
+        },
+        {
+            "code": "TZ-19",
+            "name": "Pwani",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -12.5216627,
+            "lng": 27.87833839999996
+        },
+        {
+            "code": "TZ-20",
+            "name": "Rukwa",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -1.2932259,
+            "lng": 36.86528150000004
+        },
+        {
+            "code": "TZ-21",
+            "name": "Ruvuma",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -6.8551215,
+            "lng": 39.25939679999999
+        },
+        {
+            "code": "TZ-22",
+            "name": "Shinyanga",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -3.664875,
+            "lng": 33.42115000000001
+        },
+        {
+            "code": "TZ-23",
+            "name": "Singida",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -4.817443,
+            "lng": 34.74354900000003
+        },
+        {
+            "code": "TZ-24",
+            "name": "Tabora",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -5.018062,
+            "lng": 32.826279
+        },
+        {
+            "code": "TZ-25",
+            "name": "Tanga",
+            "division": "region",
+            "parent": "TZ",
+            "lat": -5.069489,
+            "lng": 39.09875899999997
+        }
+    ]
+}

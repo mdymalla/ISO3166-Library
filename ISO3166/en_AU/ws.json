@@ -1,0 +1,83 @@
+{
+    "name": "Samoa",
+    "alpha-2": "WS",
+    "alpha-3": "WSM",
+    "country-code": "882",
+    "region": "Oceania",
+    "ISO3166-2": [
+        {
+            "code": "WS-AA",
+            "name": "A'ana",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-AL",
+            "name": "Aiga-i-le-Tai",
+            "division": "district",
+            "parent": "WS",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        {
+            "code": "WS-AT",
+            "name": "Atua",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-FA",
+            "name": "Fa'asaleleaga",
+            "division": "district",
+            "parent": "WS",
+            "lat": -13.7578769,
+            "lng": -172.29125390000002
+        },
+        {
+            "code": "WS-GE",
+            "name": "Gaga'emauga",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-GI",
+            "name": "Gagaifomauga",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-PA",
+            "name": "Palauli",
+            "division": "district",
+            "parent": "WS",
+            "lat": -13.7585016,
+            "lng": -172.299737
+        },
+        {
+            "code": "WS-SA",
+            "name": "Satupa'itea",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-TU",
+            "name": "Tuamasaga",
+            "division": "district",
+            "parent": "WS"
+        },
+        {
+            "code": "WS-VF",
+            "name": "Va'a-o-Fonoti",
+            "division": "district",
+            "parent": "WS",
+            "lat": 37.4315734,
+            "lng": -78.65689420000001
+        },
+        {
+            "code": "WS-VS",
+            "name": "Vaisigano",
+            "division": "district",
+            "parent": "WS"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "name": "Cape Verde",
+    "alpha-2": "CV",
+    "alpha-3": "CPV",
+    "country-code": "132",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "CV-BV",
+            "name": "Boa Vista",
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": -16.5870557,
+            "lng": -49.34221880000001
+        },
+        {
+            "code": "CV-BR",
+            "name": "Brava",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": -23.7477562,
+            "lng": -45.865163300000006
+        },
+        {
+            "code": "CV-MA",
+            "name": "Maio",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": -4.4561817,
+            "lng": -43.88742780000001
+        },
+        {
+            "code": "CV-MO",
+            "name": "Mosteiros",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.0333333,
+            "lng": -24.325000000000045
+        },
+        {
+            "code": "CV-PA",
+            "name": "Paul",
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.1475761,
+            "lng": -25.015458999999964
+        },
+        {
+            "code": "CV-PN",
+            "name": "Porto Novo",
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.026408,
+            "lng": -25.063447999999994
+        },
+        {
+            "code": "CV-PR",
+            "name": "Praia",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 14.930464,
+            "lng": -23.51266899999996
+        },
+        {
+            "code": "CV-RB",
+            "name": "Ribeira Brava",
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 16.613441,
+            "lng": -24.295889999999986
+        },
+        {
+            "code": "CV-RG",
+            "name": "Ribeira Grande",
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.1833333,
+            "lng": -25.06666670000004
+        },
+        {
+            "code": "CV-RS",
+            "name": "Ribeira Grande de Santiago",
+            "division": "municipality",
+            "parent": "CV S"
+        },
+        {
+            "code": "CV-SL",
+            "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+            "division": "municipality",
+            "parent": "CV S"
+        },
+        {
+            "code": "CV-CA",
+            "name": "Santa Catarina",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 34.4499206,
+            "lng": -118.48212739999997
+        },
+        {
+            "code": "CV-CF",
+            "name": "Santa Catarina de Fogo",
+            "division": "municipality",
+            "parent": "CV S"
+        },
+        {
+            "code": "CV-CR",
+            "name": "Santa Cruz",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.1331287,
+            "lng": -23.557969800000023
+        },
+        {
+            "code": "CV-SD",
+            "name": "S\u00e3o Domingos",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.032935,
+            "lng": -23.56444799999997
+        },
+        {
+            "code": "CV-SF",
+            "name": "S\u00e3o Filipe",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 14.8958333,
+            "lng": -24.49583329999996
+        },
+        {
+            "code": "CV-SM",
+            "name": "S\u00e3o Miguel",
+            "division": "municipality",
+            "parent": "CV S"
+        },
+        {
+            "code": "CV-SS",
+            "name": "S\u00e3o Salvador do Mundo",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.0833333,
+            "lng": -23.633333300000004
+        },
+        {
+            "code": "CV-SV",
+            "name": "S\u00e3o Vicente",
+            "division": "municipality",
+            "parent": "CV B"
+        },
+        {
+            "code": "CV-TA",
+            "name": "Tarrafal",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.275,
+            "lng": -23.75416670000004
+        },
+        {
+            "code": "CV-TS",
+            "name": "Tarrafal de S\u00e3o Nicolau",
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 16.5666667,
+            "lng": -24.358333300000027
+        }
+    ]
+}

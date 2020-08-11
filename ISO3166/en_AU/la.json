@@ -1,0 +1,141 @@
+{
+    "name": "Laos",
+    "alpha-2": "LA",
+    "alpha-3": "LAO",
+    "country-code": "418",
+    "region": "Asia",
+    "ISO3166-2": [
+        {
+            "code": "LA-VT",
+            "name": "Vientiane",
+            "division": "prefecture",
+            "parent": "LA",
+            "lat": 17.962769,
+            "lng": 102.61442899999997
+        },
+        {
+            "code": "LA-AT",
+            "name": "Attapu",
+            "division": "province",
+            "parent": "LA"
+        },
+        {
+            "code": "LA-BK",
+            "name": "Bok\u00e8o",
+            "division": "province",
+            "parent": "LA"
+        },
+        {
+            "code": "LA-BL",
+            "name": "Bolikhamxai",
+            "division": "province",
+            "parent": "LA"
+        },
+        {
+            "code": "LA-CH",
+            "name": "Champasak",
+            "division": "province",
+            "parent": "LA"
+        },
+        {
+            "code": "LA-HO",
+            "name": "Houaphan",
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.7769444,
+            "lng": 104.06527779999999
+        },
+        {
+            "code": "LA-KH",
+            "name": "Khammouan",
+            "division": "province",
+            "parent": "LA"
+        },
+        {
+            "code": "LA-LM",
+            "name": "Louang Namtha",
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.95,
+            "lng": 101.39999999999998
+        },
+        {
+            "code": "LA-LP",
+            "name": "Louangphabang",
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.8841,
+            "lng": 102.14160200000003
+        },
+        {
+            "code": "LA-OU",
+            "name": "Oud\u00f4mxai",
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.4166667,
+            "lng": 102.14999999999998
+        },
+        {
+            "code": "LA-PH",
+            "name": "Ph\u00f4ngsali",
+            "division": "province",
+            "parent": "LA",
+            "lat": 21.6833333,
+            "lng": 102.10000000000002
+        },
+        {
+            "code": "LA-SL",
+            "name": "Salavan",
+            "division": "province",
+            "parent": "LA",
+            "lat": 15.7166667,
+            "lng": 106.41666669999995
+        },
+        {
+            "code": "LA-SV",
+            "name": "Savannakh\u00e9t",
+            "division": "province",
+            "parent": "LA",
+            "lat": 16.560659,
+            "lng": 104.74700200000007
+        },
+        {
+            "code": "LA-VI",
+            "name": "Vientiane",
+            "division": "province",
+            "parent": "LA",
+            "lat": 17.962769,
+            "lng": 102.61442899999997
+        },
+        {
+            "code": "LA-XA",
+            "name": "Xaignabouli",
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.2557363,
+            "lng": 101.71252279999999
+        },
+        {
+            "code": "LA-XE",
+            "name": "X\u00e9kong",
+            "division": "province",
+            "parent": "LA",
+            "lat": 15.5767446,
+            "lng": 107.00670309999998
+        },
+        {
+            "code": "LA-XI",
+            "name": "Xiangkhoang",
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.2612279,
+            "lng": 104.13571139999999
+        },
+        {
+            "code": "LA-XN",
+            "name": "Xias\u00f4mboun",
+            "division": "special zone",
+            "parent": "LA"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Mauritania",
+    "alpha-2": "MR",
+    "alpha-3": "MRT",
+    "country-code": "478",
+    "region": "Africa",
+    "ISO3166-2": [
+        {
+            "code": "MR-NKC",
+            "name": "Nouakchott",
+            "division": "district",
+            "parent": "MR",
+            "lat": 18.084061,
+            "lng": -15.978420000000028
+        },
+        {
+            "code": "MR-07",
+            "name": "Adrar",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-03",
+            "name": "Assaba",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-05",
+            "name": "Brakna",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-08",
+            "name": "Dakhlet Nouadhibou",
+            "division": "region",
+            "parent": "MR",
+            "lat": 20.9333333,
+            "lng": -17.03333329999998
+        },
+        {
+            "code": "MR-04",
+            "name": "Gorgol",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-10",
+            "name": "Guidimaka",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-01",
+            "name": "Hodh ech Chargui",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-02",
+            "name": "Hodh el Charbi",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-12",
+            "name": "Inchiri",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-09",
+            "name": "Tagant",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-11",
+            "name": "Tiris Zemmour",
+            "division": "region",
+            "parent": "MR"
+        },
+        {
+            "code": "MR-06",
+            "name": "Trarza",
+            "division": "region",
+            "parent": "MR"
+        }
+    ]
+}

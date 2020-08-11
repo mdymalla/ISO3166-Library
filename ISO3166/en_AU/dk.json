@@ -1,0 +1,49 @@
+{
+    "name": "Denmark",
+    "alpha-2": "DK",
+    "alpha-3": "DNK",
+    "country-code": "208",
+    "region": "Europe",
+    "ISO3166-2": [
+        {
+            "code": "DK-81",
+            "name": "Nordjylland",
+            "division": "region",
+            "parent": "DK",
+            "lat": 56.8307416,
+            "lng": 9.493052799999987
+        },
+        {
+            "code": "DK-82",
+            "name": "Midtjylland",
+            "division": "region",
+            "parent": "DK",
+            "lat": 56.165273,
+            "lng": 10.121378899999968
+        },
+        {
+            "code": "DK-83",
+            "name": "Syddanmark",
+            "division": "region",
+            "parent": "DK",
+            "lat": 55.7051253,
+            "lng": 9.533218799999986
+        },
+        {
+            "code": "DK-84",
+            "name": "Hovedstaden",
+            "division": "region",
+            "parent": "DK",
+            "lat": 56.0884002,
+            "lng": 12.66010540000002
+        },
+        {
+            "code": "DK-85",
+            "name": "Sj\u00e6lland",
+            "division": "region",
+            "parent": "DK",
+            "lat": 55.4632518,
+            "lng": 11.721497900000031
+        }
+    ]
+}
