@@ -1,0 +1,82 @@
+{
+    "alpha-2": "BQ",
+    "alpha-3": "BES",
+    "numeric": 535,
+    "capital": "Kralendijk",
+    "currency": "USD",
+    "names": {
+        "geonames": "Bonaire, Saint Eustatius and Saba ",
+        "en": "Caribbean Netherlands",
+        "ar": "\u0627\u0644\u062c\u0632\u0631 \u0627\u0644\u0643\u0627\u0631\u064a\u0628\u064a\u0629 \u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629",
+        "de": "Karibische Niederlande",
+        "es": "Caribe Neerland\u00e9s",
+        "fr": "Pays-Bas carib\u00e9ens",
+        "it": "Paesi Bassi caraibici",
+        "ru": "\u0411\u043e\u043d\u044d\u0439\u0440, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430",
+        "zh": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340",
+        "ja": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0",
+        "pt": "Pa\u00edses Baixos Caribenhos"
+    },
+    "languages": [
+        "nl"
+    ],
+    "ISO3166-2": {
+        "BO": {
+            "name": "Bonaire",
+            "code": "BO",
+            "names": {
+                "geonames": "Bonaire",
+                "ru": "\u0411\u043e\u043d\u044d\u0439\u0440",
+                "en": "Bonaire",
+                "ar": "\u0628\u0648\u0646\u064a\u0631",
+                "de": "Bonaire",
+                "es": "Bonaire",
+                "fr": "Bonaire",
+                "it": "Bonaire",
+                "zh": "\u6ce2\u5185\u8d6b"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SA": {
+            "name": "Saba",
+            "code": "SA",
+            "names": {
+                "geonames": "Saba",
+                "ru": "\u0421\u0430\u0431\u0430",
+                "en": "Saba",
+                "ar": "\u0633\u0627\u0628\u0627",
+                "de": "Saba",
+                "es": "Isla de Saba",
+                "fr": "Saba",
+                "it": "Saba",
+                "zh": "\u85a9\u5df4"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SE": {
+            "name": "Sint Eustatius",
+            "code": "SE",
+            "names": {
+                "geonames": "Sint Eustatius",
+                "ru": "\u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441",
+                "en": "Sint Eustatius",
+                "ar": "\u0633\u064a\u0646\u062a \u0623\u0648\u0633\u062a\u0627\u062a\u064a\u0648\u0633",
+                "de": "Sint Eustatius",
+                "es": "San Eustaquio",
+                "fr": "Saint-Eustache",
+                "it": "Sint Eustatius",
+                "zh": "\u5723\u5c24\u65af\u7279\u6b47\u65af"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "alpha-2": "BI",
+    "alpha-3": "BDI",
+    "numeric": 108,
+    "capital": "Bujumbura",
+    "currency": "BIF",
+    "names": {
+        "geonames": "Burundi",
+        "en": "Burundi",
+        "ar": "\u0628\u0648\u0631\u0648\u0646\u062f\u064a",
+        "de": "Burundi",
+        "es": "Burundi",
+        "fr": "Burundi",
+        "it": "Burundi",
+        "ru": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+        "zh": "\u84b2\u9686\u5730",
+        "he": "\u05d1\u05d5\u05e8\u05d5\u05e0\u05d3\u05d9",
+        "hi": "\u092c\u0941\u0930\u0941\u0923\u094d\u0921\u0940",
+        "ja": "\u30d6\u30eb\u30f3\u30b8",
+        "pt": "Burundi"
+    },
+    "languages": [
+        "fr",
+        "rn"
+    ],
+    "ISO3166-2": {
+        "MA": {
+            "name": "Makamba Province",
+            "code": "MA",
+            "names": {
+                "geonames": "Makamba",
+                "ru": "\u041c\u0430\u043a\u0430\u043c\u0431\u0430",
+                "en": "Makamba Province",
+                "de": "Makamba",
+                "es": "Provincia de Makamba",
+                "fr": "Province de Makamba",
+                "it": "Provincia di Makamba",
+                "zh": "\u99ac\u574e\u5df4\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -4.1333333,
+            "lng": 29.799999999999955
+        },
+        "BR": {
+            "name": "Bururi Province",
+            "code": "BR",
+            "names": {
+                "geonames": "Bururi",
+                "ru": "\u0411\u0443\u0440\u0443\u0440\u0438",
+                "en": "Bururi Province",
+                "de": "Bururi",
+                "es": "Provincia de Bururi",
+                "fr": "Province de Bururi",
+                "it": "Provincia di Bururi",
+                "zh": "\u5e03\u9c81\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.95,
+            "lng": 29.616666699999996
+        },
+        "MU": {
+            "name": "Muramvya Province",
+            "code": "MU",
+            "names": {
+                "geonames": "Muramvya",
+                "ru": "\u041c\u0443\u0440\u0430\u043c\u0432\u044c\u044f",
+                "en": "Muramvya Province",
+                "de": "Muramvya",
+                "es": "Provincia de Muramvya",
+                "fr": "Province de Muramvya",
+                "it": "Provincia di Muramvya",
+                "zh": "\u7a46\u62c9\u59c6\u7ef4\u4e9a\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.2675245,
+            "lng": 29.62238780000007
+        },
+        "GI": {
+            "name": "Gitega Province",
+            "code": "GI",
+            "names": {
+                "geonames": "Gitega",
+                "ru": "\u0413\u0438\u0442\u0435\u0433\u0430",
+                "en": "Gitega Province",
+                "de": "Gitega",
+                "es": "Provincia de Gitega",
+                "fr": "Province de Gitega",
+                "it": "Provincia di Gitega",
+                "zh": "\u57fa\u7279\u52a0\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.429664,
+            "lng": 29.929790000000025
+        },
+        "RY": {
+            "name": "Ruyigi Province",
+            "code": "RY",
+            "names": {
+                "geonames": "Ruyigi",
+                "ru": "\u0420\u0443\u0439\u0438\u0433\u0438",
+                "en": "Ruyigi Province",
+                "de": "Ruyigi",
+                "es": "Provincia de Ruyigi",
+                "fr": "Province de Ruyigi",
+                "it": "Provincia di Ruyigi",
+                "zh": "\u9c81\u4f0a\u5409\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.4750027,
+            "lng": 30.248388100000057
+        },
+        "CA": {
+            "name": "Cankuzo Province",
+            "code": "CA",
+            "names": {
+                "geonames": "Cankuzo",
+                "ru": "\u0427\u0430\u043d\u043a\u0443\u0437\u043e",
+                "en": "Cankuzo Province",
+                "de": "Cankuzo",
+                "es": "Provincia de Cankuzo",
+                "fr": "Province de Cankuzo",
+                "it": "Provincia di Cankuzo",
+                "zh": "\u574e\u5eab\u4f50\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.216667,
+            "lng": 30.549999999999955
+        },
+        "KR": {
+            "name": "Karuzi Province",
+            "code": "KR",
+            "names": {
+                "geonames": "Karuzi",
+                "ru": "\u041a\u0430\u0440\u0443\u0437\u0438",
+                "en": "Karuzi Province",
+                "de": "Karuzi",
+                "es": "Provincia de Karuzi",
+                "fr": "Province de Karuzi",
+                "it": "Provincia di Karuzi",
+                "zh": "\u5361\u9c81\u6d4e\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.100096,
+            "lng": 30.163018999999963
+        },
+        "BB": {
+            "name": "Bubanza Province",
+            "code": "BB",
+            "names": {
+                "geonames": "Bubanza",
+                "ru": "\u0411\u0443\u0431\u0430\u043d\u0437\u0430",
+                "en": "Bubanza Province",
+                "de": "Bubanza",
+                "es": "Provincia de Bubanza",
+                "fr": "Province de Bubanza",
+                "it": "Provincia di Bubanza",
+                "zh": "\u5e03\u73ed\u624e\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.0833333,
+            "lng": 29.399999999999977
+        },
+        "CI": {
+            "name": "Cibitoke Province",
+            "code": "CI",
+            "names": {
+                "geonames": "Cibitoke",
+                "ru": "\u0427\u0438\u0431\u0438\u0442\u043e\u043a\u0435",
+                "en": "Cibitoke Province",
+                "de": "Cibitoke",
+                "es": "Provincia de Cibitoke",
+                "fr": "Province de Cibitoke",
+                "it": "Provincia di Cibitoke",
+                "zh": "\u9521\u6bd4\u6258\u51ef\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -2.8886111,
+            "lng": 29.120000000000005
+        },
+        "NG": {
+            "name": "Ngozi Province",
+            "code": "NG",
+            "names": {
+                "geonames": "Ngozi",
+                "ru": "\u041d\u0433\u043e\u0437\u0438",
+                "en": "Ngozi Province",
+                "de": "Ngozi",
+                "es": "Provincia de Ngozi",
+                "fr": "Province de Ngozi",
+                "it": "Provincia di Ngozi",
+                "zh": "\u6069\u6208\u9f4a\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -2.912195,
+            "lng": 29.82500099999993
+        },
+        "KY": {
+            "name": "Kayanza Province",
+            "code": "KY",
+            "names": {
+                "geonames": "Kayanza",
+                "ru": "\u041a\u0430\u044f\u043d\u0437\u0430",
+                "en": "Kayanza Province",
+                "de": "Kayanza",
+                "es": "Provincia de Kayanza",
+                "fr": "Province de Kayanza",
+                "it": "Provincia di Kayanza",
+                "zh": "\u5361\u63da\u624e\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -2.9218531,
+            "lng": 29.62528580000003
+        },
+        "MY": {
+            "name": "Muyinga Province",
+            "code": "MY",
+            "names": {
+                "geonames": "Muyinga",
+                "ru": "\u041c\u0443\u0439\u0438\u043d\u0433\u0430",
+                "en": "Muyinga Province",
+                "de": "Muyinga",
+                "es": "Provincia de Muyinga",
+                "fr": "Province de Muyinga",
+                "it": "Provincia di Muyinga",
+                "zh": "\u7a46\u56e0\u52a0\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KI": {
+            "name": "Kirundo Province",
+            "code": "KI",
+            "names": {
+                "geonames": "Kirundo",
+                "ru": "\u041a\u0438\u0440\u0443\u043d\u0434\u043e",
+                "en": "Kirundo Province",
+                "de": "Kirundo",
+                "es": "Provincia de Kirundo",
+                "fr": "Province de Kirundo",
+                "it": "Provincia di Kirundo",
+                "zh": "\u57fa\u9f8d\u591a\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -2.5848378,
+            "lng": 30.09612960000004
+        },
+        "RT": {
+            "name": "Rutana Province",
+            "code": "RT",
+            "names": {
+                "geonames": "Rutana",
+                "ru": "\u0420\u0443\u0442\u0430\u043d\u0430",
+                "en": "Rutana Province",
+                "de": "Rutana",
+                "es": "Provincia de Rutana",
+                "fr": "Province de Rutana",
+                "it": "Provincia di Rutana",
+                "zh": "\u9b6f\u5854\u7d0d\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.930821,
+            "lng": 29.99264900000003
+        },
+        "MW": {
+            "name": "Mwaro Province",
+            "code": "MW",
+            "names": {
+                "geonames": "Mwaro",
+                "ru": "\u041c\u0432\u0430\u0440\u043e",
+                "en": "Mwaro Province",
+                "de": "Mwaro",
+                "es": "Provincia de Mwaro",
+                "fr": "Province de Mwaro",
+                "it": "Provincia di Mwaro",
+                "zh": "\u7a46\u74e6\u6d1b\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.511985,
+            "lng": 29.69916420000004
+        },
+        "BM": {
+            "name": "Bujumbura",
+            "code": "BM",
+            "names": {
+                "geonames": "Bujumbura Mairie",
+                "ru": "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430-\u041c\u044d\u0440\u0438",
+                "en": "Bujumbura",
+                "ar": "\u0628\u0648\u062c\u0648\u0645\u0628\u0648\u0631\u0627",
+                "de": "Bujumbura",
+                "es": "Buyumbura",
+                "fr": "Bujumbura",
+                "it": "Bujumbura",
+                "zh": "\u5e03\u743c\u5e03\u62c9"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.4146958,
+            "lng": 29.359878200000026
+        },
+        "BL": {
+            "name": "Bujumbura Rural Province",
+            "code": "BL",
+            "names": {
+                "geonames": "Bujumbura Rural",
+                "ru": "\u0411\u0443\u0436\u0443\u043c\u0431\u0443\u0440\u0430-\u0420\u0443\u0440\u0430\u043b",
+                "en": "Bujumbura Rural Province",
+                "de": "Bujumbura Rural",
+                "es": "Provincia de Buyumbura Rural",
+                "fr": "Province de Bujumbura rural",
+                "it": "Provincia di Bujumbura Rurale",
+                "zh": "\u5e03\u677e\u5e03\u62c9\u9109\u6751\u7701"
+            },
+            "division": "province",
+            "parent": "BI",
+            "lat": -3.376217,
+            "lng": 29.359349000000066
+        },
+        "RM": {
+            "name": "Rumonge",
+            "code": "RM",
+            "names": {
+                "geonames": "Rumonge",
+                "en": "Rumonge"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

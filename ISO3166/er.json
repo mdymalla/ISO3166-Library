@@ -1,0 +1,139 @@
+{
+    "alpha-2": "ER",
+    "alpha-3": "ERI",
+    "numeric": 232,
+    "capital": "Asmara",
+    "currency": "ERN",
+    "names": {
+        "geonames": "Eritrea",
+        "en": "Eritrea",
+        "ar": "\u0625\u0631\u064a\u062a\u0631\u064a\u0627",
+        "de": "Eritrea",
+        "es": "Eritrea",
+        "fr": "\u00c9rythr\u00e9e",
+        "it": "Eritrea",
+        "ru": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f",
+        "zh": "\u5384\u7acb\u7279\u91cc\u4e9a",
+        "he": "\u05d0\u05e8\u05d9\u05ea\u05e8\u05d9\u05d0\u05d4",
+        "hi": "\u0907\u0930\u093f\u0924\u094d\u0930\u093f\u092f\u093e",
+        "ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
+        "pt": "Eritreia"
+    },
+    "languages": [
+        "ti",
+        "ar",
+        "en"
+    ],
+    "ISO3166-2": {
+        "AN": {
+            "name": "Anseba Region",
+            "code": "AN",
+            "names": {
+                "geonames": "Anseba",
+                "ru": "\u0410\u043d\u0441\u044d\u0431\u0430",
+                "en": "Anseba Region",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0623\u0646\u0633\u0628\u0627",
+                "de": "Anseba",
+                "es": "Anseba",
+                "fr": "Anseba",
+                "it": "Regione dell'Anseba",
+                "zh": "\u5b89\u585e\u5df4\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        },
+        "DU": {
+            "name": "Debub Region",
+            "code": "DU",
+            "names": {
+                "geonames": "Debub",
+                "ru": "\u0414\u044d\u0431\u0443\u0431",
+                "en": "Debub Region",
+                "de": "Debub",
+                "es": "Debub",
+                "fr": "Debub",
+                "it": "Regione del Sud",
+                "zh": "\u5357\u90e8\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        },
+        "DK": {
+            "name": "Southern Red Sea Region",
+            "code": "DK",
+            "names": {
+                "geonames": "Southern Red Sea",
+                "ru": "\u0414\u044d\u0431\u0443\u0431-\u041a\u044d\u0439-\u0411\u0430\u0445\u0440\u0438",
+                "en": "Southern Red Sea Region",
+                "de": "Debubawi Kayih Bahri",
+                "es": "Debubawi Keyih Bahri",
+                "fr": "Debub-Keih-Bahri",
+                "it": "Regione del Mar Rosso Meridionale",
+                "zh": "\u5357\u7d05\u6d77\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        },
+        "GB": {
+            "name": "Gash-Barka Region",
+            "code": "GB",
+            "names": {
+                "geonames": "Gash-Barka",
+                "ru": "\u0413\u0430\u0448-\u0411\u0430\u0440\u043a\u0430",
+                "en": "Gash-Barka Region",
+                "de": "Gash-Barka",
+                "es": "Gash-Barka",
+                "fr": "Gash-Barka",
+                "it": "Regione di Gasc-Barca",
+                "zh": "\u52a0\u4ec0-\u5df4\u723e\u5361\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        },
+        "MA": {
+            "name": "Maekel Region",
+            "code": "MA",
+            "names": {
+                "geonames": "Maekel",
+                "ru": "\u041c\u0430\u044d\u043a\u0435\u043b\u044c",
+                "en": "Maekel Region",
+                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629",
+                "de": "Maekel",
+                "es": "Maekel",
+                "fr": "Maekel",
+                "it": "Regione Centrale",
+                "zh": "\u4e2d\u90e8\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        "SK": {
+            "name": "Northern Red Sea Region",
+            "code": "SK",
+            "names": {
+                "geonames": "Northern Red Sea",
+                "ru": "\u0421\u044d\u043c\u0438\u044d\u043d-\u041a\u044d\u0439-\u0411\u0430\u0445\u0440\u0438",
+                "en": "Northern Red Sea Region",
+                "de": "Semienawi Kayih Bahri",
+                "es": "Semenawi Keyih Bahri",
+                "fr": "Semien-Keih-Bahri",
+                "it": "Regione del Mar Rosso Settentrionale",
+                "zh": "\u5317\u7d05\u6d77\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

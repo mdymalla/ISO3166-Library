@@ -1,0 +1,205 @@
+{
+    "alpha-2": "ZA",
+    "alpha-3": "ZAF",
+    "numeric": 710,
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "names": {
+        "geonames": "South Africa",
+        "en": "South Africa",
+        "ar": "\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "de": "S\u00fcdafrika",
+        "es": "Sud\u00e1frica",
+        "fr": "Afrique du Sud",
+        "it": "Sudafrica",
+        "ru": "\u042e\u0436\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "zh": "\u5357\u975e",
+        "he": "\u05d3\u05e8\u05d5\u05dd \u05d0\u05e4\u05e8\u05d9\u05e7\u05d4",
+        "hi": "\u0926\u0915\u094d\u0937\u093f\u0923 \u0905\u092b\u093c\u094d\u0930\u0940\u0915\u093e",
+        "ja": "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
+        "pt": "\u00c1frica do Sul"
+    },
+    "languages": [
+        "af",
+        "en",
+        "nr",
+        "st",
+        "ss",
+        "tn",
+        "ts",
+        "ve",
+        "xh",
+        "zu"
+    ],
+    "ISO3166-2": {
+        "FS": {
+            "name": "Free State",
+            "code": "FS",
+            "names": {
+                "geonames": "Orange Free State",
+                "ru": "\u0424\u0440\u0438-\u0421\u0442\u0435\u0439\u0442",
+                "en": "Free State",
+                "ar": "\u0641\u0631\u064a \u0633\u062a\u064a\u062a",
+                "de": "Freistaat",
+                "es": "Provincia del Estado Libre",
+                "fr": "\u00c9tat-Libre",
+                "it": "Free State",
+                "zh": "\u81ea\u7531\u90a6\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -28.4541105,
+            "lng": 26.796784900000034
+        },
+        "ZN": {
+            "name": "KwaZulu-Natal",
+            "code": "ZN",
+            "names": {
+                "geonames": "KwaZulu-Natal",
+                "en": "KwaZulu-Natal"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "EC": {
+            "name": "Eastern Cape",
+            "code": "EC",
+            "names": {
+                "geonames": "Eastern Cape",
+                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u043f\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "Eastern Cape",
+                "ar": "\u0643\u064a\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "de": "Ostkap",
+                "es": "Provincia Oriental del Cabo",
+                "fr": "Cap-Oriental",
+                "it": "Provincia del Capo Orientale",
+                "zh": "\u6771\u958b\u666e\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -32.2968402,
+            "lng": 26.419389000000024
+        },
+        "GT": {
+            "name": "Gauteng",
+            "code": "GT",
+            "names": {
+                "geonames": "Gauteng",
+                "ru": "\u0413\u0430\u0443\u0442\u0435\u043d\u0433",
+                "en": "Gauteng",
+                "ar": "\u063a\u0627\u0648\u062a\u064a\u0646\u062c",
+                "de": "Gauteng",
+                "es": "Gauteng",
+                "fr": "Gauteng",
+                "it": "Gauteng",
+                "zh": "\u8c6a\u767b\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": null,
+            "lng": null
+        },
+        "MP": {
+            "name": "Mpumalanga",
+            "code": "MP",
+            "names": {
+                "geonames": "Mpumalanga",
+                "ru": "\u041c\u043f\u0443\u043c\u0430\u043b\u0430\u043d\u0433\u0430",
+                "en": "Mpumalanga",
+                "ar": "\u0645\u0628\u0648\u0645\u0627\u0644\u0627\u0646\u062c\u0627",
+                "de": "Mpumalanga",
+                "es": "Mpumalanga",
+                "fr": "Mpumalanga",
+                "it": "Mpumalanga",
+                "zh": "\u666e\u99ac\u862d\u52a0\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -25.565336,
+            "lng": 30.52790959999993
+        },
+        "NC": {
+            "name": "Northern Cape",
+            "code": "NC",
+            "names": {
+                "geonames": "Northern Cape",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u043f\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "Northern Cape",
+                "ar": "\u0643\u064a\u0628 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+                "de": "Nordkap",
+                "es": "Provincia Septentrional del Cabo",
+                "fr": "Cap-du-Nord",
+                "it": "Provincia del Capo Settentrionale",
+                "zh": "\u5317\u958b\u666e\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -29.0466808,
+            "lng": 21.85685860000001
+        },
+        "LP": {
+            "name": "Limpopo",
+            "code": "LP",
+            "names": {
+                "geonames": "Limpopo",
+                "ru": "\u041b\u0438\u043c\u043f\u043e\u043f\u043e",
+                "en": "Limpopo",
+                "ar": "\u0644\u064a\u0645\u0628\u0648\u0628\u0648",
+                "de": "Limpopo",
+                "es": "Provincia de Limpopo",
+                "fr": "Limpopo",
+                "it": "Provincia del Limpopo",
+                "zh": "\u6797\u6ce2\u6ce2\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -23.6547983,
+            "lng": 32.17460499999993
+        },
+        "NW": {
+            "name": "North West",
+            "code": "NW",
+            "names": {
+                "geonames": "North-West",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "ar": "\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+                "de": "Nordwest",
+                "en": "North West",
+                "es": "Provincia del Noroeste",
+                "fr": "Nord-Ouest",
+                "it": "Provincia del Nordovest",
+                "zh": "\u897f\u5317\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -26.6638599,
+            "lng": 25.283758499999976
+        },
+        "WC": {
+            "name": "Western Cape",
+            "code": "WC",
+            "names": {
+                "geonames": "Western Cape",
+                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u043f\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "Western Cape",
+                "ar": "\u0643\u064a\u0628 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+                "de": "Westkap",
+                "es": "Provincia Occidental del Cabo",
+                "fr": "Cap-Occidental",
+                "it": "Provincia del Capo Occidentale",
+                "zh": "\u897f\u958b\u666e\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -33.2277918,
+            "lng": 21.85685860000001
+        },
+        "NL": {
+            "name": "Kwazulu-Natal",
+            "division": "province",
+            "parent": "ZA"
+        }
+    }
+}

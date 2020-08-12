@@ -1,0 +1,217 @@
+{
+    "alpha-2": "OM",
+    "alpha-3": "OMN",
+    "numeric": 512,
+    "capital": "Muscat",
+    "currency": "OMR",
+    "names": {
+        "geonames": "Oman",
+        "en": "Oman",
+        "ar": "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646",
+        "de": "Oman",
+        "es": "Om\u00e1n",
+        "fr": "Oman",
+        "it": "Oman",
+        "ru": "\u041e\u043c\u0430\u043d",
+        "zh": "\u963f\u66fc",
+        "he": "\u05e2\u05d5\u05de\u05d0\u05df",
+        "hi": "\u0913\u092e\u093e\u0928",
+        "ja": "\u30aa\u30de\u30fc\u30f3",
+        "pt": "Om\u00e3"
+    },
+    "languages": [
+        "ar"
+    ],
+    "ISO3166-2": {
+        "DA": {
+            "name": "Ad Dakhiliyah Governorate",
+            "code": "DA",
+            "names": {
+                "geonames": "Ad Dakhiliyah",
+                "ru": "\u042d\u0434-\u0414\u0430\u0445\u0438\u043b\u0438\u044f",
+                "en": "Ad Dakhiliyah Governorate",
+                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
+                "de": "Ad-Dachiliyya",
+                "es": "Interior",
+                "fr": "Ad-D\u0101khil\u012byah",
+                "it": "Governatorato di al-Dakhiliyya",
+                "zh": "\u5167\u5730\u7701"
+            },
+            "division": "region",
+            "parent": "OM",
+            "lat": null,
+            "lng": null
+        },
+        "BJ": {
+            "name": "Jan\u016bb al B\u0101\u0163inah",
+            "code": "BJ",
+            "names": {
+                "geonames": "Al Batinah South",
+                "en": "Jan\u016bb al B\u0101\u0163inah"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "WU": {
+            "name": "Al Wusta Governorate",
+            "code": "WU",
+            "names": {
+                "geonames": "Al Wusta",
+                "ru": "\u042d\u043b\u044c-\u0412\u0443\u0441\u0442\u0430",
+                "en": "Al Wusta Governorate",
+                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
+                "es": "Central",
+                "fr": "Al-Wusta",
+                "it": "Governatorato di al-Wusta",
+                "zh": "\u4e2d\u90e8\u7701"
+            },
+            "division": "region",
+            "parent": "OM",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "SJ": {
+            "name": "Jan\u016bb ash Sharq\u012byah",
+            "code": "SJ",
+            "names": {
+                "geonames": "Southeastern Governorate",
+                "en": "Jan\u016bb ash Sharq\u012byah"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "ZA": {
+            "name": "Ad Dhahirah Governorate",
+            "code": "ZA",
+            "names": {
+                "geonames": "Az Zahirah",
+                "ru": "\u042d\u0437-\u0417\u0430\u0445\u0438\u0440\u0430",
+                "en": "Ad Dhahirah Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629",
+                "es": "Ad Dhahirah",
+                "fr": "Adh-Dhahira",
+                "it": "Governatorato di al-Zahira",
+                "zh": "\u624e\u5e0c\u62c9\u7701"
+            },
+            "division": "region",
+            "parent": "OM",
+            "lat": null,
+            "lng": null
+        },
+        "MA": {
+            "name": "Muscat Governorate",
+            "code": "MA",
+            "names": {
+                "geonames": "Muscat",
+                "ru": "\u041c\u0430\u0441\u043a\u0430\u0442",
+                "en": "Muscat Governorate",
+                "de": "Maskat",
+                "fr": "Gouvernorat de Mascate",
+                "it": "Governatorato di Mascate"
+            },
+            "division": "governorate",
+            "parent": "OM",
+            "lat": 23.6138199,
+            "lng": 58.59224130000007
+        },
+        "MU": {
+            "name": "Musandam Governorate",
+            "code": "MU",
+            "names": {
+                "geonames": "Musandam",
+                "ru": "\u041c\u0443\u0441\u0430\u043d\u0434\u0430\u043c",
+                "en": "Musandam Governorate",
+                "ar": "\u0645\u0633\u0646\u062f\u0645",
+                "de": "Musandam",
+                "es": "Musandam",
+                "fr": "Gouvernorat de Musandam",
+                "it": "Penisola del Musandam",
+                "zh": "\u7a46\u6851\u4ee3\u59c6\u7701"
+            },
+            "division": "governorate",
+            "parent": "OM",
+            "lat": null,
+            "lng": null
+        },
+        "ZU": {
+            "name": "Dhofar Governorate",
+            "code": "ZU",
+            "names": {
+                "geonames": "Dhofar",
+                "ru": "\u0414\u043e\u0444\u0430\u0440",
+                "en": "Dhofar Governorate",
+                "ar": "\u0638\u0641\u0627\u0631",
+                "de": "Dhofar",
+                "es": "Dhofar",
+                "fr": "Dhofar",
+                "it": "Dhofar",
+                "zh": "\u4f50\u6cd5\u723e\u7701"
+            },
+            "division": "governorate",
+            "parent": "OM",
+            "lat": null,
+            "lng": null
+        },
+        "BU": {
+            "name": "Al Buraimi Governorate",
+            "code": "BU",
+            "names": {
+                "geonames": "Al Buraimi",
+                "ru": "\u042d\u043b\u044c-\u0411\u0443\u0440\u0430\u0439\u043c\u0438",
+                "en": "Al Buraimi Governorate",
+                "ar": "\u0627\u0644\u0628\u0631\u064a\u0645\u064a",
+                "de": "Buraimi",
+                "es": "Buraimi",
+                "fr": "Gouvernorat d'Al Buraymi",
+                "it": "Governatorato di al-Buraymi",
+                "zh": "\u5e03\u8cf4\u7c73\u7701"
+            },
+            "division": "governorate",
+            "parent": "OM",
+            "lat": 24.0872222,
+            "lng": 55.72249999999997
+        },
+        "SS": {
+            "name": "Sham\u0101l ash Sharq\u012byah",
+            "code": "SS",
+            "names": {
+                "geonames": "Northeastern Governorate",
+                "en": "Sham\u0101l ash Sharq\u012byah"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "BS": {
+            "name": "Sham\u0101l al B\u0101\u0163inah",
+            "code": "BS",
+            "names": {
+                "geonames": "Al Batinah North",
+                "en": "Sham\u0101l al B\u0101\u0163inah"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "BA": {
+            "name": "Al B\u0101\u0163inah",
+            "division": "region",
+            "parent": "OM",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "SH": {
+            "name": "Ash Sharq\u012byah",
+            "division": "region",
+            "parent": "OM",
+            "lat": 23.6200618,
+            "lng": 58.49762369999996
+        }
+    }
+}

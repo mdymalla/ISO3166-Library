@@ -1,0 +1,452 @@
+{
+    "alpha-2": "LY",
+    "alpha-3": "LBY",
+    "numeric": 434,
+    "capital": "Tripoli",
+    "currency": "LYD",
+    "names": {
+        "geonames": "Libya",
+        "en": "Libya",
+        "ar": "\u0644\u064a\u0628\u064a\u0627",
+        "de": "Libyen",
+        "es": "Libia",
+        "fr": "Libye",
+        "it": "Libia",
+        "ru": "\u041b\u0438\u0432\u0438\u044f",
+        "zh": "\u5229\u6bd4\u4e9a",
+        "he": "\u05dc\u05d5\u05d1",
+        "hi": "\u0932\u0940\u092c\u093f\u092f\u093e",
+        "ja": "\u30ea\u30d3\u30a2",
+        "pt": "L\u00edbia"
+    },
+    "languages": [
+        "ar"
+    ],
+    "ISO3166-2": {
+        "DR": {
+            "name": "Derna District",
+            "code": "DR",
+            "names": {
+                "geonames": "Darnah",
+                "ru": "\u0414\u0435\u0440\u043d\u0430",
+                "en": "Derna District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u062f\u0631\u0646\u0629",
+                "de": "Munizip Darna",
+                "es": "Derna",
+                "fr": "Darnah",
+                "it": "Municipalit\u00e0 di Derna",
+                "zh": "\u5fb7\u723e\u7d0d\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.763821,
+            "lng": 22.639239999999972
+        },
+        "BA": {
+            "name": "Benghazi",
+            "code": "BA",
+            "names": {
+                "geonames": "Banghazi",
+                "ru": "\u0411\u0435\u043d\u0433\u0430\u0437\u0438",
+                "en": "Benghazi",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0628\u0646\u063a\u0627\u0632\u064a",
+                "de": "Benghazi",
+                "es": "Bengasi",
+                "it": "Municipalit\u00e0 di Bengasi",
+                "fr": "Benghazi",
+                "zh": "\u73ed\u52a0\u897f"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.1166667,
+            "lng": 20.06666670000004
+        },
+        "MJ": {
+            "name": "Marj District",
+            "code": "MJ",
+            "names": {
+                "geonames": "Al Marj",
+                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0440\u0434\u0436",
+                "en": "Marj District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0645\u0631\u062c",
+                "de": "Munizip al-Mardsch",
+                "es": "Al Marj",
+                "fr": "Al Marj",
+                "it": "Municipalit\u00e0 di Barca",
+                "zh": "\u9081\u723e\u5b63\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.5,
+            "lng": 20.829999999999927
+        },
+        "KF": {
+            "name": "Kufra District",
+            "code": "KF",
+            "names": {
+                "geonames": "Al Kufrah",
+                "ru": "\u042d\u043b\u044c-\u041a\u0443\u0444\u0440\u0430",
+                "en": "Kufra District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0643\u0641\u0631\u0629",
+                "de": "Munizip al-Kufra",
+                "es": "Al Kufrah",
+                "fr": "Al-Koufrah",
+                "it": "Municipalit\u00e0 di Cufra",
+                "zh": "\u5eab\u592b\u62c9\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 24.1833333,
+            "lng": 23.28333329999998
+        },
+        "JA": {
+            "name": "Jabal al Akhdar",
+            "code": "JA",
+            "names": {
+                "geonames": "Al Jabal al Akhdar",
+                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0435\u0431\u0435\u043b\u044c-\u042d\u043b\u044c-\u0410\u0445\u0434\u0430\u0440",
+                "en": "Jabal al Akhdar",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631",
+                "de": "Munizip al-Dschabal al-Achdar",
+                "es": "Al Jabal al Akhdar",
+                "fr": "Al Jabal al Akhdar",
+                "it": "Municipalit\u00e0 di Gebel el-Achdar",
+                "zh": "\u7da0\u5c71\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "TB": {
+            "name": "Tripoli District, Libya",
+            "code": "TB",
+            "names": {
+                "geonames": "Tripoli",
+                "ru": "\u0422\u0430\u0440\u0430\u0431\u0443\u043b\u0443\u0441",
+                "en": "Tripoli District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0637\u0631\u0627\u0628\u0644\u0633",
+                "de": "Munizip Tripolis",
+                "es": "Tr\u00edpoli",
+                "fr": "Tripoli",
+                "it": "Municipalit\u00e0 di Tripoli",
+                "zh": "\u7684\u9ece\u6ce2\u91cc\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "SR": {
+            "name": "Sirte District",
+            "code": "SR",
+            "names": {
+                "geonames": "Surt",
+                "ru": "\u0421\u0438\u0440\u0442",
+                "en": "Sirte District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0633\u0631\u062a",
+                "de": "Munizip Surt",
+                "es": "Sirte",
+                "fr": "Syrte",
+                "it": "Municipalit\u00e0 di Sirte",
+                "zh": "\u8607\u723e\u7279\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 31.20528,
+            "lng": 16.588369000000057
+        },
+        "SB": {
+            "name": "Sabha District",
+            "code": "SB",
+            "names": {
+                "geonames": "Sabha",
+                "ru": "\u0421\u0430\u0431\u0445\u0430",
+                "en": "Sabha District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0633\u0628\u0647\u0627",
+                "de": "Munizip Sabha",
+                "es": "Sabha",
+                "fr": "Sebha",
+                "it": "Municipalit\u00e0 di Sebha",
+                "zh": "\u585e\u535c\u54c8\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "NL": {
+            "name": "Nalut District",
+            "code": "NL",
+            "names": {
+                "geonames": "Sha`biyat Nalut",
+                "ru": "\u041d\u0430\u043b\u0443\u0442",
+                "en": "Nalut District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0646\u0627\u0644\u0648\u062a",
+                "de": "Munizip Nalut",
+                "es": "Nalut",
+                "fr": "Nalout",
+                "it": "Municipalit\u00e0 di Nalut",
+                "zh": "\u7d0d\u76e7\u7279\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "MQ": {
+            "name": "Murzuq District",
+            "code": "MQ",
+            "names": {
+                "geonames": "Murzuq",
+                "ru": "\u041c\u0430\u0440\u0437\u0443\u043a",
+                "en": "Murzuq District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0645\u0631\u0632\u0642",
+                "de": "Munizip Murzuq",
+                "es": "Distrito de Murzuk",
+                "fr": "Mourzouq",
+                "it": "Municipalit\u00e0 di Murzuch",
+                "zh": "\u9081\u723e\u7956\u683c\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 25.91626,
+            "lng": 13.918180000000007
+        },
+        "MI": {
+            "name": "Misrata District",
+            "code": "MI",
+            "names": {
+                "geonames": "Misratah",
+                "ru": "\u041c\u0438\u0441\u0443\u0440\u0430\u0442\u0430",
+                "en": "Misrata District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0645\u0635\u0631\u0627\u062a\u0629",
+                "de": "Munizip Misrata",
+                "es": "Misurata",
+                "fr": "Misratah",
+                "it": "Municipalit\u00e0 di Misurata",
+                "zh": "\u7c73\u8607\u62c9\u5854\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.374298,
+            "lng": 15.094920000000002
+        },
+        "GT": {
+            "name": "Ghat District",
+            "code": "GT",
+            "names": {
+                "geonames": "Sha`biyat Ghat",
+                "ru": "\u0413\u0430\u0442",
+                "en": "Ghat District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u063a\u0627\u062a",
+                "de": "Munizip Ghat",
+                "es": "Ghat",
+                "fr": "Ghat",
+                "it": "Municipalit\u00e0 di Gat",
+                "zh": "\u52a0\u7279\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 24.964359,
+            "lng": 10.16754000000003
+        },
+        "ZA": {
+            "name": "Zawiya District",
+            "code": "ZA",
+            "names": {
+                "geonames": "Az Zawiyah",
+                "ru": "\u042d\u0437-\u0417\u0430\u0432\u0438\u044f",
+                "en": "Zawiya District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0632\u0627\u0648\u064a\u0629",
+                "de": "Munizip az-Zawiya",
+                "es": "Zauiya",
+                "fr": "Az Zaouiyah",
+                "it": "Municipalit\u00e0 di Zauia",
+                "zh": "\u624e\u7dad\u8036\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.7630282,
+            "lng": 12.736496200000033
+        },
+        "WS": {
+            "name": "Wadi al Shatii District",
+            "code": "WS",
+            "names": {
+                "geonames": "Sha'biyat Wadi ash Shati'",
+                "ru": "\u0412\u0430\u0434\u0438-\u044d\u0448-\u0428\u0430\u0442\u0438",
+                "en": "Wadi al Shatii District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u0634\u0627\u0637\u0626",
+                "de": "Munizip Wadi asch-Schati\u2019",
+                "es": "Wadi Al Shatii",
+                "fr": "Wadi ach Chatii",
+                "it": "Municipalit\u00e0 di Uadi esc-Sciati",
+                "zh": "\u6c99\u63d0\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "JU": {
+            "name": "Jufra District",
+            "code": "JU",
+            "names": {
+                "geonames": "Al Jufrah",
+                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0443\u0444\u0440\u0430",
+                "en": "Jufra District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0641\u0631\u0629",
+                "de": "Munizip al-Dschufra",
+                "es": "Al Jufrah",
+                "fr": "Al Djoufrah",
+                "it": "Municipalit\u00e0 di Giofra",
+                "zh": "\u6731\u592b\u62c9\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "NQ": {
+            "name": "Nuqat al Khams",
+            "code": "NQ",
+            "names": {
+                "geonames": "An Nuqat al Khams",
+                "ru": "\u042d\u043d-\u041d\u0443\u0433\u0430\u0442-\u044d\u043b\u044c-\u0425\u0443\u043c\u0441",
+                "en": "Nuqat al Khams",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062e\u0645\u0633",
+                "de": "Munizip an-Nuqat al-Chams",
+                "es": "An Nuqat al Khams",
+                "fr": "An Nouqat al Khams",
+                "it": "Municipalit\u00e0 di Nuqat al Khams",
+                "zh": "\u52aa\u52a0\u7279\u6d77\u59c6\u65af\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "BU": {
+            "name": "Butnan District",
+            "code": "BU",
+            "names": {
+                "geonames": "Sha`biyat al Butnan",
+                "ru": "\u042d\u043b\u044c-\u0411\u0443\u0442\u043d\u0430\u043d",
+                "en": "Butnan District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0628\u0637\u0646\u0627\u0646",
+                "de": "Munizip al-Butnan",
+                "es": "Al Butnan",
+                "fr": "Al Boutnan",
+                "it": "Municipalit\u00e0 di Butnan",
+                "zh": "\u5e03\u7279\u5357\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.1466667,
+            "lng": 23.80777779999994
+        },
+        "JG": {
+            "name": "Jabal al Gharbi District",
+            "code": "JG",
+            "names": {
+                "geonames": "Jabal al Gharbi",
+                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0430\u0431\u0430\u043b-\u044d\u043b\u044c-\u0413\u0430\u0440\u0431\u0438",
+                "en": "Jabal al Gharbi District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u063a\u0631\u0628\u064a",
+                "de": "Munizip al-Dschabal al-Gharbi",
+                "es": "Al Jabal al Gharbi",
+                "fr": "Al Djabal al Gharbi",
+                "it": "Municipalit\u00e0 di Gebel Garbi",
+                "zh": "\u897f\u5c71\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "JI": {
+            "name": "Jafara",
+            "code": "JI",
+            "names": {
+                "geonames": "Sha`biyat al Jafarah",
+                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0438\u0444\u0430\u0440\u0430",
+                "en": "Jafara",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0641\u0627\u0631\u0629",
+                "de": "Munizip al-Dschifara",
+                "es": "Al Jfara",
+                "fr": "Al Djfara",
+                "it": "Municipalit\u00e0 di Gefara",
+                "zh": "\u5409\u6cd5\u62c9\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 27.5166667,
+            "lng": 16.899999999999977
+        },
+        "MB": {
+            "name": "Murqub District",
+            "code": "MB",
+            "names": {
+                "geonames": "Al Marqab",
+                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0440\u0433\u0430\u0431",
+                "en": "Murqub District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0645\u0631\u0642\u0628",
+                "de": "Munizip al-Murgub",
+                "es": "Al Murgub",
+                "fr": "Al Mourqoub",
+                "it": "Municipalit\u00e0 di Margheb",
+                "zh": "\u8fc8\u5c14\u76d6\u535c\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "WA": {
+            "name": "Al Wahat District",
+            "code": "WA",
+            "names": {
+                "geonames": "Sha`biyat al Wahat",
+                "ru": "\u042d\u043b\u044c-\u0412\u0430\u0445\u0430\u0442",
+                "en": "Al Wahat District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0648\u0627\u062d\u0627\u062a",
+                "de": "Munizip al-Wahat",
+                "es": "Al Wahat",
+                "fr": "Al Wahat",
+                "it": "Municipalit\u00e0 di el-Uahat",
+                "zh": "\u7eff\u6d32\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 29.8166667,
+            "lng": 23.200000000000045
+        },
+        "WD": {
+            "name": "Wadi al Hayaa District",
+            "code": "WD",
+            "names": {
+                "geonames": "Sha`biyat Wadi al Hayat",
+                "ru": "\u0412\u0430\u0434\u0438-\u044d\u043b\u044c-\u0425\u0430\u044f\u0442",
+                "en": "Wadi al Hayaa District",
+                "ar": "\u0634\u0639\u0628\u064a\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u062d\u064a\u0627\u0629",
+                "de": "Munizip Wadi al-Haya",
+                "es": "Wadi Al Hayaa",
+                "fr": "Wadi al Hayaat",
+                "it": "Municipalit\u00e0 di Uadi el-Agial",
+                "zh": "\u74e6\u8fea\u54c8\u8036\u7279\u7701"
+            },
+            "division": "popularates",
+            "parent": "LY",
+            "lat": null,
+            "lng": null
+        },
+        "JB": {
+            "name": "Jaghb\u016bb",
+            "division": "popularates",
+            "parent": "LY",
+            "lat": 29.7425,
+            "lng": 24.516944400000057
+        }
+    }
+}

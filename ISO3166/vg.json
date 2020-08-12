@@ -1,0 +1,26 @@
+{
+    "alpha-2": "VG",
+    "alpha-3": "VGB",
+    "numeric": 92,
+    "capital": "Road Town",
+    "currency": "USD",
+    "names": {
+        "geonames": "British Virgin Islands",
+        "en": "British Virgin Islands",
+        "ar": "\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629",
+        "de": "Britische Jungferninseln",
+        "es": "Islas V\u00edrgenes Brit\u00e1nicas",
+        "fr": "\u00celes Vierges britanniques",
+        "it": "Isole Vergini britanniche",
+        "ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "zh": "\u82f1\u5c6c\u7dad\u723e\u4eac\u7fa4\u5cf6",
+        "he": "\u05d0\u05d9\u05d9 \u05d4\u05d1\u05ea\u05d5\u05dc\u05d4 \u05d4\u05d1\u05e8\u05d9\u05d8\u05d9\u05d9\u05dd",
+        "hi": "\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0935\u0930\u094d\u091c\u093f\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
+        "pt": "Ilhas Virgens Brit\u00e2nicas"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": null
+}

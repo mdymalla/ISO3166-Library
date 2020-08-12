@@ -1,0 +1,217 @@
+{
+    "alpha-2": "LT",
+    "alpha-3": "LTU",
+    "numeric": 440,
+    "capital": "Vilnius",
+    "currency": "EUR",
+    "names": {
+        "geonames": "Lithuania",
+        "en": "Lithuania",
+        "ar": "\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627",
+        "de": "Litauen",
+        "es": "Lituania",
+        "fr": "Lituanie",
+        "it": "Lituania",
+        "ru": "\u041b\u0438\u0442\u0432\u0430",
+        "zh": "\u7acb\u9676\u5b9b",
+        "he": "\u05dc\u05d9\u05d8\u05d0",
+        "hi": "\u0932\u093f\u0925\u0941\u0906\u0928\u093f\u092f\u093e",
+        "ja": "\u30ea\u30c8\u30a2\u30cb\u30a2",
+        "pt": "Litu\u00e2nia"
+    },
+    "languages": [
+        "lt"
+    ],
+    "ISO3166-2": {
+        "AL": {
+            "name": "Alytus County",
+            "code": "AL",
+            "names": {
+                "geonames": "Alytus",
+                "ru": "\u0410\u043b\u0438\u0442\u0443\u0441\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Alytus County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0644\u064a\u062a\u0633",
+                "de": "Bezirk Alytus",
+                "es": "Provincia de Alytus",
+                "fr": "Apskritis d'Alytus",
+                "it": "Contea di Alytus",
+                "zh": "\u963f\u5229\u5716\u65af\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 54.3297496,
+            "lng": 24.19609319999995
+        },
+        "KU": {
+            "name": "Kaunas County",
+            "code": "KU",
+            "names": {
+                "geonames": "Kaunas",
+                "ru": "\u041a\u0430\u0443\u043d\u0430\u0441\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Kaunas County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0648\u0646\u0627\u0633",
+                "de": "Bezirk Kaunas",
+                "es": "Provincia de Kaunas",
+                "fr": "Apskritis de Kaunas",
+                "it": "Contea di Kaunas",
+                "zh": "\u8003\u90a3\u65af\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 54.9894104,
+            "lng": 23.717079099999978
+        },
+        "KL": {
+            "name": "Klaip\u0117da County",
+            "code": "KL",
+            "names": {
+                "geonames": "Klaipeda County",
+                "ru": "\u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Klaip\u0117da County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0644\u0627\u064a\u0628\u064a\u062f\u0627",
+                "de": "Bezirk Klaip\u0117da",
+                "es": "Provincia de Klaip\u0117da",
+                "fr": "Apskritis de Klaip\u0117da",
+                "it": "Contea di Klaip\u0117da",
+                "zh": "\u514b\u840a\u4f69\u9054\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.6686983,
+            "lng": 21.424137299999984
+        },
+        "MR": {
+            "name": "Marijampol\u0117 County",
+            "code": "MR",
+            "names": {
+                "geonames": "Marijampole County",
+                "ru": "\u041c\u0430\u0440\u0438\u044f\u043c\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Marijampol\u0117 County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0631\u0627\u064a\u0627\u0645\u0628\u0648\u0644\u0647",
+                "de": "Bezirk Marijampol\u0117",
+                "es": "Provincia de Marijampol\u0117",
+                "fr": "Apskritis de Marijampol\u0117",
+                "it": "Contea di Marijampol\u0117",
+                "zh": "\u99ac\u91cc\u63da\u6cca\u5217\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 54.557812,
+            "lng": 23.34981240000002
+        },
+        "PN": {
+            "name": "Panev\u0117\u017eys County",
+            "code": "PN",
+            "names": {
+                "geonames": "Panevezys",
+                "ru": "\u041f\u0430\u043d\u0435\u0432\u0435\u0436\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Panev\u0117\u017eys County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0646\u064a\u0641\u064a\u0632\u064a\u0633",
+                "de": "Bezirk Panev\u0117\u017eys",
+                "es": "Provincia de Panev\u0117\u017eys",
+                "fr": "Apskritis de Panev\u0117\u017eys",
+                "it": "Contea di Panev\u0117\u017eys",
+                "zh": "\u5e15\u6d85\u97cb\u65e5\u65af\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.8051868,
+            "lng": 24.016592599999967
+        },
+        "SA": {
+            "name": "\u0160iauliai County",
+            "code": "SA",
+            "names": {
+                "geonames": "Siauliai",
+                "ru": "\u0428\u044f\u0443\u043b\u044f\u0439\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "\u0160iauliai County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0627\u0648\u0644\u064a\u0627\u064a",
+                "de": "Bezirk \u0160iauliai",
+                "es": "Provincia de \u0160iauliai",
+                "fr": "Apskritis de \u0160iauliai",
+                "it": "Contea di \u0160iauliai",
+                "zh": "\u5e0c\u5967\u5229\u827e\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.9721456,
+            "lng": 23.033236999999986
+        },
+        "TA": {
+            "name": "Taurag\u0117 County",
+            "code": "TA",
+            "names": {
+                "geonames": "Taurage County",
+                "ru": "\u0422\u0430\u0443\u0440\u0430\u0433\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Taurag\u0117 County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0648\u0631\u0627\u063a\u0647",
+                "de": "Bezirk Taurag\u0117",
+                "es": "Provincia de Taurag\u0117",
+                "fr": "Apskritis de Taurag\u0117",
+                "it": "Contea di Taurag\u0117",
+                "zh": "\u9676\u62c9\u683c\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.4050846,
+            "lng": 22.573037200000044
+        },
+        "TE": {
+            "name": "Tel\u0161iai County",
+            "code": "TE",
+            "names": {
+                "geonames": "Telsiai",
+                "ru": "\u0422\u0435\u043b\u044c\u0448\u044f\u0439\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Tel\u0161iai County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u0644\u0633\u064a\u0627\u064a",
+                "de": "Bezirk Tel\u0161iai",
+                "es": "Provincia de Tel\u0161iai",
+                "fr": "Apskritis de Tel\u0161iai",
+                "it": "Contea di Tel\u0161iai",
+                "zh": "\u7279\u723e\u5e0c\u827e\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.9884349,
+            "lng": 22.243248600000015
+        },
+        "UT": {
+            "name": "Utena County",
+            "code": "UT",
+            "names": {
+                "geonames": "Utena",
+                "ru": "\u0423\u0442\u0435\u043d\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Utena County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u062a\u064a\u0646\u0627",
+                "de": "Bezirk Utena",
+                "es": "Provincia de Utena",
+                "fr": "Apskritis d'Utena",
+                "it": "Contea di Utena",
+                "zh": "\u70cf\u7530\u7d0d\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 55.5003184,
+            "lng": 25.608860700000037
+        },
+        "VL": {
+            "name": "Vilnius County",
+            "code": "VL",
+            "names": {
+                "geonames": "Vilnius",
+                "ru": "\u0412\u0438\u043b\u044c\u043d\u044e\u0441\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434",
+                "en": "Vilnius County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u0644\u0646\u064a\u0648\u0633",
+                "de": "Bezirk Vilnius",
+                "es": "Provincia de Vilna",
+                "fr": "Apskritis de Vilnius",
+                "it": "Contea di Vilnius",
+                "zh": "\u7dad\u723e\u7d10\u65af\u7e23"
+            },
+            "division": "county",
+            "parent": "LT",
+            "lat": 54.7732578,
+            "lng": 25.586711299999934
+        }
+    }
+}

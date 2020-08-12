@@ -1,0 +1,285 @@
+{
+    "alpha-2": "UZ",
+    "alpha-3": "UZB",
+    "numeric": 860,
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "names": {
+        "geonames": "Uzbekistan",
+        "en": "Uzbekistan",
+        "ar": "\u0623\u0648\u0632\u0628\u0643\u0633\u062a\u0627\u0646",
+        "de": "Usbekistan",
+        "es": "Uzbekist\u00e1n",
+        "fr": "Ouzb\u00e9kistan",
+        "it": "Uzbekistan",
+        "ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+        "zh": "\u4e4c\u5179\u522b\u514b\u65af\u5766",
+        "he": "\u05d0\u05d5\u05d6\u05d1\u05e7\u05d9\u05e1\u05d8\u05df",
+        "hi": "\u0909\u091c\u093c\u094d\u092c\u0947\u0915\u093f\u0938\u094d\u0924\u093e\u0928",
+        "ja": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
+        "pt": "Uzbequist\u00e3o"
+    },
+    "languages": [
+        "uz",
+        "ru"
+    ],
+    "ISO3166-2": {
+        "QR": {
+            "name": "Karakalpakstan",
+            "code": "QR",
+            "names": {
+                "geonames": "Karakalpakstan",
+                "ru": "\u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0441\u0442\u0430\u043d",
+                "en": "Karakalpakstan",
+                "ar": "\u0642\u0631\u0642\u0644 \u0628\u0627\u063a\u0633\u062a\u0627\u0646",
+                "de": "Karakalpakistan",
+                "es": "Karakalpakia",
+                "fr": "Karakalpakistan",
+                "it": "Karakalpakstan",
+                "zh": "\u5361\u62c9\u5361\u723e\u5e15\u514b\u65af\u5766\u81ea\u6cbb\u5171\u548c\u570b"
+            },
+            "division": "republic",
+            "parent": "UZ",
+            "lat": null,
+            "lng": null
+        },
+        "SU": {
+            "name": "Surxondaryo Province",
+            "code": "SU",
+            "names": {
+                "geonames": "Surxondaryo",
+                "ru": "\u0421\u0443\u0440\u0445\u0430\u043d\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Surxondaryo Province",
+                "de": "Provinz Surxondaryo",
+                "es": "Provincia de Surjandar\u00edn",
+                "fr": "Province de Sourkhan-Daria",
+                "it": "Regione di Surkhandarya",
+                "zh": "\u8607\u723e\u6f22\u6cb3\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 38.366667,
+            "lng": 67.64999999999998
+        },
+        "SA": {
+            "name": "Samarqand Province",
+            "code": "SA",
+            "names": {
+                "geonames": "Samarqand",
+                "ru": "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Samarqand Province",
+                "de": "Provinz Samarqand",
+                "es": "Provincia de Samarcanda",
+                "fr": "Province de Samarcande",
+                "it": "Regione di Samarcanda",
+                "zh": "\u6492\u99ac\u723e\u7f55\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 39.6541667,
+            "lng": 66.95972219999999
+        },
+        "QA": {
+            "name": "Qashqadaryo Province",
+            "code": "QA",
+            "names": {
+                "geonames": "Qashqadaryo",
+                "ru": "\u041a\u0430\u0448\u043a\u0430\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Qashqadaryo Province",
+                "de": "Provinz Qashqadaryo",
+                "es": "Provincia de Kashkadar",
+                "fr": "Province de Kachkadaria",
+                "it": "Regione di Kashkadarya",
+                "zh": "\u5361\u4ec0\u5361\u9054\u91cc\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": null,
+            "lng": null
+        },
+        "BU": {
+            "name": "Bukhara Province",
+            "code": "BU",
+            "names": {
+                "geonames": "Bukhara",
+                "ru": "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Bukhara Province",
+                "de": "Provinz Buxoro",
+                "es": "Provincia de Bujar\u00e1",
+                "fr": "Province de Boukhara",
+                "it": "Regione di Bukhara",
+                "zh": "\u5e03\u54c8\u62c9\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 39.765869,
+            "lng": 64.42234800000006
+        },
+        "TO": {
+            "name": "Tashkent Province",
+            "code": "TO",
+            "names": {
+                "geonames": "Toshkent",
+                "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "de": "Provinz Taschkent",
+                "en": "Tashkent Province",
+                "es": "Provincia de Taskent",
+                "fr": "Province de Tachkent",
+                "it": "Regione di Tashkent",
+                "zh": "\u5854\u4ec0\u5e72\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 41.2666667,
+            "lng": 69.21666670000002
+        },
+        "TK": {
+            "name": "Tashkent",
+            "code": "TK",
+            "names": {
+                "geonames": "Toshkent Shahri",
+                "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442",
+                "en": "Tashkent",
+                "ar": "\u0637\u0634\u0642\u0646\u062f",
+                "de": "Taschkent",
+                "es": "Taskent",
+                "fr": "Tachkent",
+                "it": "Tashkent",
+                "zh": "\u5854\u4ec0\u5e72"
+            },
+            "division": "city",
+            "parent": "UZ",
+            "lat": 41.2666667,
+            "lng": 69.21666670000002
+        },
+        "SI": {
+            "name": "Sirdaryo Province",
+            "code": "SI",
+            "names": {
+                "geonames": "Sirdaryo",
+                "ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Sirdaryo Province",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0633\u0631\u062f\u0627\u0631\u064a\u0627",
+                "de": "Provinz Sirdaryo",
+                "es": "Provincia de Sirdar\u00edn",
+                "fr": "Province de Syr-Daria",
+                "it": "Regione di Sirdarya",
+                "zh": "\u932b\u723e\u6cb3\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.85,
+            "lng": 68.66666669999995
+        },
+        "NW": {
+            "name": "Navoiy Province",
+            "code": "NW",
+            "names": {
+                "geonames": "Navoiy",
+                "ru": "\u041d\u0430\u0432\u043e\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Navoiy Province",
+                "de": "Provinz Navoiy",
+                "es": "Provincia de Navoi",
+                "fr": "Province de Navo\u00ef",
+                "it": "Regione di Navoiy",
+                "zh": "\u7d0d\u6c83\u4f0a\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.0844444,
+            "lng": 65.37916670000004
+        },
+        "NG": {
+            "name": "Namangan Province",
+            "code": "NG",
+            "names": {
+                "geonames": "Namangan",
+                "ru": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Namangan Province",
+                "de": "Provinz Namangan",
+                "es": "Provincia de Namang\u00e1n",
+                "fr": "Province de Namangan",
+                "it": "Regione di Namangan",
+                "zh": "\u7d0d\u66fc\u5e72\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.99902,
+            "lng": 71.67965700000002
+        },
+        "XO": {
+            "name": "Xorazm Province",
+            "code": "XO",
+            "names": {
+                "geonames": "Xorazm",
+                "ru": "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Xorazm Province",
+                "de": "Provinz Xorazm",
+                "es": "Provincia de Corasmia",
+                "fr": "Province de Khorezm",
+                "it": "Regione di Khorezm",
+                "zh": "\u82b1\u62c9\u5b50\u6a21\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": null,
+            "lng": null
+        },
+        "JI": {
+            "name": "Jizzakh Province",
+            "code": "JI",
+            "names": {
+                "geonames": "Jizzax",
+                "ru": "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Jizzakh Province",
+                "de": "Provinz Jizzax",
+                "es": "Provincia de Djizaks",
+                "fr": "Province de Djizak",
+                "it": "Regione di Djizak",
+                "zh": "\u5409\u624e\u514b\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.1166667,
+            "lng": 67.85000000000002
+        },
+        "FA": {
+            "name": "Fergana Province",
+            "code": "FA",
+            "names": {
+                "geonames": "Fergana",
+                "ru": "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Fergana Province",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0641\u0631\u063a\u0627\u0646\u0629",
+                "de": "Provinz Farg\u02bbona",
+                "es": "Provincia de Fergan\u00e1",
+                "fr": "Province de Ferghana",
+                "it": "Regione di Fergana",
+                "zh": "\u8cbb\u723e\u5e72\u7d0d\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.38641,
+            "lng": 71.78637700000002
+        },
+        "AN": {
+            "name": "Andijan Province",
+            "code": "AN",
+            "names": {
+                "geonames": "Andijon",
+                "ru": "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Andijan Province",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0623\u0646\u062f\u064a\u062c\u0627\u0646",
+                "de": "Provinz Andijon",
+                "es": "Provincia de Andill\u00e1n",
+                "fr": "Province d'Andijan",
+                "it": "Regione di Andijan",
+                "zh": "\u5b89\u96c6\u5ef6\u5dde"
+            },
+            "division": "region",
+            "parent": "UZ",
+            "lat": 40.7833333,
+            "lng": 72.33333330000005
+        }
+    }
+}

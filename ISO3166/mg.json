@@ -1,0 +1,105 @@
+{
+    "alpha-2": "MG",
+    "alpha-3": "MDG",
+    "numeric": 450,
+    "capital": "Antananarivo",
+    "currency": "MGA",
+    "names": {
+        "geonames": "Madagascar",
+        "en": "Madagascar",
+        "ar": "\u0645\u062f\u063a\u0634\u0642\u0631",
+        "de": "Madagaskar",
+        "es": "Madagascar",
+        "fr": "Madagascar",
+        "it": "Madagascar",
+        "ru": "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440",
+        "zh": "\u9a6c\u8fbe\u52a0\u65af\u52a0",
+        "he": "\u05de\u05d3\u05d2\u05e1\u05e7\u05e8",
+        "hi": "\u092e\u0947\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930",
+        "ja": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb",
+        "pt": "Madag\u00e1scar"
+    },
+    "languages": [
+        "fr",
+        "mg"
+    ],
+    "ISO3166-2": {
+        "": {
+            "name": "Atsimo-Andrefana",
+            "code": "",
+            "names": {
+                "geonames": "Atsimo-Andrefana",
+                "en": "Atsimo-Andrefana"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "M": {
+            "name": "Mahajanga Province",
+            "code": "M",
+            "names": {
+                "geonames": "Analamanga",
+                "ru": "\u041c\u0430\u0445\u0430\u0434\u0437\u0430\u043d\u0433\u0430",
+                "en": "Mahajanga Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0647\u0627\u062c\u0627\u0646\u062c\u0627",
+                "de": "Mahajanga",
+                "es": "Provincia de Mahajanga",
+                "fr": "Province de Majunga",
+                "it": "Provincia di Mahajanga",
+                "zh": "\u99ac\u54c8\u8d0a\u52a0\u7701"
+            },
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -15.7166667,
+            "lng": 46.31666670000004
+        },
+        "D": {
+            "name": "Antsiranana Province",
+            "code": "D",
+            "names": {
+                "geonames": "Atsinanana",
+                "ru": "\u0410\u043d\u0446\u0438\u0440\u0430\u043d\u0430\u043d\u0430",
+                "en": "Antsiranana Province",
+                "de": "Antsiranana",
+                "es": "Provincia de Antsiranana",
+                "fr": "Province de Diego-Suarez",
+                "it": "Provincia di Antsiranana",
+                "zh": "\u5b89\u9f4a\u62c9\u7d0d\u7d0d\u7701"
+            },
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -12.2809,
+            "lng": 49.290858999999955
+        },
+        "T": {
+            "name": "Antananarivo",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -18.914872,
+            "lng": 47.531611999999996
+        },
+        "F": {
+            "name": "Fianarantsoa",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -21.4536111,
+            "lng": 47.08583329999999
+        },
+        "A": {
+            "name": "Toamasina",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -18.1499,
+            "lng": 49.40230900000006
+        },
+        "U": {
+            "name": "Toliara",
+            "division": "autonomous province",
+            "parent": "MG",
+            "lat": -23.35,
+            "lng": 43.66666669999995
+        }
+    }
+}

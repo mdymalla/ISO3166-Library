@@ -1,0 +1,267 @@
+{
+    "alpha-2": "SA",
+    "alpha-3": "SAU",
+    "numeric": 682,
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "names": {
+        "geonames": "Saudi Arabia",
+        "en": "Saudi Arabia",
+        "ar": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "de": "Saudi-Arabien",
+        "es": "Arabia Saudita",
+        "fr": "Arabie saoudite",
+        "it": "Arabia Saudita",
+        "ru": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+        "zh": "\u6c99\u7279\u963f\u62c9\u4f2f",
+        "he": "\u05e2\u05e8\u05d1 \u05d4\u05e1\u05e2\u05d5\u05d3\u05d9\u05ea",
+        "hi": "\u0938\u0909\u0926\u0940 \u0905\u0930\u092c",
+        "ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
+        "pt": "Ar\u00e1bia Saudita"
+    },
+    "languages": [
+        "ar"
+    ],
+    "ISO3166-2": {
+        "07": {
+            "name": "Tabuk Region",
+            "code": "07",
+            "names": {
+                "geonames": "Tabuk",
+                "ru": "\u0422\u0430\u0431\u0443\u043a",
+                "en": "Tabuk Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0628\u0648\u0643",
+                "de": "Provinz Tabuk",
+                "es": "Provincia de Tabuk",
+                "fr": "Tabuk",
+                "it": "Tabuk",
+                "zh": "\u5854\u5e03\u514b\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 26.2733419,
+            "lng": 50.19038780000005
+        },
+        "10": {
+            "name": "Najran Region",
+            "code": "10",
+            "names": {
+                "geonames": "Najran",
+                "ru": "\u041d\u0430\u0434\u0436\u0440\u0430\u043d",
+                "en": "Najran Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646",
+                "de": "Provinz Nadschran",
+                "es": "Provincia de Najr\u00e1n",
+                "fr": "Najran",
+                "it": "Najran",
+                "zh": "\u5948\u5b63\u5170\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 26.2718703,
+            "lng": 50.18619490000003
+        },
+        "02": {
+            "name": "Makkah Region",
+            "code": "02",
+            "names": {
+                "geonames": "Makkah",
+                "ru": "\u041c\u0435\u043a\u043a\u0430",
+                "en": "Makkah Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "de": "Provinz Mekka",
+                "es": "Provincia de La Meca",
+                "fr": "La Mecque",
+                "it": "Provincia della Mecca",
+                "zh": "\u9ea5\u52a0\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 21.4273779,
+            "lng": 39.81483830000002
+        },
+        "09": {
+            "name": "Jizan Region",
+            "code": "09",
+            "names": {
+                "geonames": "Jizan",
+                "ru": "\u0414\u0436\u0438\u0437\u0430\u043d",
+                "en": "Jizan Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646",
+                "de": "Provinz Dschaizan",
+                "es": "Provincia de Jiz\u00e1n",
+                "fr": "Jizan",
+                "it": "Jazan",
+                "zh": "\u5409\u8d5e\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 21.2680711,
+            "lng": 40.42371449999996
+        },
+        "06": {
+            "name": "Ha'il Region",
+            "code": "06",
+            "names": {
+                "geonames": "Hai'l Region",
+                "ru": "\u0425\u0430\u0438\u043b\u044c",
+                "en": "Ha'il Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644",
+                "de": "Provinz Ha'il",
+                "es": "Provincia de Ha\u00edl",
+                "fr": "Ha\u00efl",
+                "it": "Ha'il",
+                "zh": "\u54c8\u4f0a\u52d2\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 21.5189104,
+            "lng": 39.16984320000006
+        },
+        "14": {
+            "name": "'Asir Region",
+            "code": "14",
+            "names": {
+                "geonames": "'Asir",
+                "ru": "\u0410\u0441\u0438\u0440",
+                "en": "'Asir Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631",
+                "de": "Provinz Asir",
+                "es": "Provincia de Asir",
+                "fr": "Asir",
+                "it": "'Asir",
+                "zh": "\u963f\u897f\u5c14\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 24.6204049,
+            "lng": 46.69755329999998
+        },
+        "04": {
+            "name": "Eastern Province",
+            "code": "04",
+            "names": {
+                "geonames": "Eastern Province",
+                "en": "Eastern Province"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 26.4200197,
+            "lng": 50.0994637
+        },
+        "01": {
+            "name": "Riyadh Province",
+            "code": "01",
+            "names": {
+                "geonames": "Ar Riyad",
+                "ru": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+                "en": "Riyadh Province",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+                "de": "Provinz Riad",
+                "es": "Provincia de Riad",
+                "fr": "Riyad",
+                "it": "Al-Riyad",
+                "zh": "\u5229\u96c5\u5f97\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 24.0062801,
+            "lng": 38.190596700000015
+        },
+        "05": {
+            "name": "Al-Qassim Region",
+            "code": "05",
+            "names": {
+                "geonames": "Al-Qassim",
+                "ru": "\u042d\u043b\u044c-\u041a\u0430\u0441\u0438\u043c",
+                "en": "Al-Qassim Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0635\u064a\u0645",
+                "de": "Provinz Qasim",
+                "es": "Casim",
+                "fr": "Al Qasim",
+                "it": "Al-Qasim",
+                "zh": "\u76d6\u897f\u59c6\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 21.4662153,
+            "lng": 39.20090389999996
+        },
+        "03": {
+            "name": "Al Madinah Region",
+            "code": "03",
+            "names": {
+                "geonames": "Al Madinah al Munawwarah",
+                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0434\u0438\u043d\u0430",
+                "en": "Al Madinah Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "de": "Provinz Medina",
+                "es": "Provincia de Medina",
+                "fr": "M\u00e9dine",
+                "it": "Medina",
+                "zh": "\u9ea6\u5730\u90a3\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 24.460899,
+            "lng": 39.62018999999998
+        },
+        "12": {
+            "name": "Al Jawf Region",
+            "code": "12",
+            "names": {
+                "geonames": "Al Jawf",
+                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0430\u0443\u0444",
+                "en": "Al Jawf Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0648\u0641",
+                "de": "Provinz Dschauf",
+                "es": "Provincia de Yauf",
+                "fr": "Al Jawf",
+                "it": "Al-Jawf",
+                "zh": "\u7126\u592b\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 29.802988,
+            "lng": 39.87931819999994
+        },
+        "08": {
+            "name": "Northern Borders Region",
+            "code": "08",
+            "names": {
+                "geonames": "Northern Borders",
+                "ru": "\u042d\u043b\u044c-\u0425\u0443\u0434\u0443\u0434 \u044d\u0448-\u0428\u0430\u043c\u0430\u043b\u0438\u0439\u044f",
+                "en": "Northern Borders Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+                "de": "Provinz al-Hudud asch-schamaliyya",
+                "es": "Provincia de la Frontera del Norte",
+                "fr": "Al-Hudud ach-Chamaliya",
+                "it": "Al-Hudud al-Shamaliyya",
+                "zh": "\u5317\u90e8\u8fb9\u7586\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "11": {
+            "name": "Al Bahah Region",
+            "code": "11",
+            "names": {
+                "geonames": "Al Bahah",
+                "ru": "\u042d\u043b\u044c-\u0411\u0430\u0445\u0430",
+                "en": "Al Bahah Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
+                "de": "Provinz Baha",
+                "es": "Provincia de Baha",
+                "fr": "Al Bahah",
+                "it": "Al-B\u0101ha",
+                "zh": "\u5df4\u54c8\u7701"
+            },
+            "division": "province",
+            "parent": "SA",
+            "lat": 28.396757,
+            "lng": 45.927276000000006
+        }
+    }
+}

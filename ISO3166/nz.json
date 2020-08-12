@@ -1,0 +1,349 @@
+{
+    "alpha-2": "NZ",
+    "alpha-3": "NZL",
+    "numeric": 554,
+    "capital": "Wellington",
+    "currency": "NZD",
+    "names": {
+        "geonames": "New Zealand",
+        "en": "New Zealand",
+        "ar": "\u0646\u064a\u0648\u0632\u064a\u0644\u0646\u062f\u0627",
+        "de": "Neuseeland",
+        "es": "Nueva Zelanda",
+        "fr": "Nouvelle-Z\u00e9lande",
+        "it": "Nuova Zelanda",
+        "ru": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "zh": "\u65b0\u897f\u5170",
+        "he": "\u05e0\u05d9\u05d5 \u05d6\u05d9\u05dc\u05e0\u05d3",
+        "hi": "\u0929\u094d\u092f\u0942\u091c\u0940\u0932\u0948\u0923\u094d\u0921",
+        "ja": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+        "pt": "Nova Zel\u00e2ndia"
+    },
+    "languages": [
+        "en",
+        "mi"
+    ],
+    "ISO3166-2": {
+        "WGN": {
+            "name": "Wellington Region",
+            "code": "WGN",
+            "names": {
+                "geonames": "Wellington",
+                "ru": "\u0412\u0435\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d",
+                "en": "Wellington Region",
+                "ar": "\u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646",
+                "de": "Wellington",
+                "es": "Wellington",
+                "fr": "Wellington",
+                "it": "Wellington",
+                "zh": "\u60e0\u7075\u987f"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -41.2924945,
+            "lng": 174.7732353
+        },
+        "MWT": {
+            "name": "Manawatu-Wanganui",
+            "code": "MWT",
+            "names": {
+                "geonames": "Manawatu-Wanganui",
+                "ru": "\u041c\u0430\u043d\u0430\u0432\u0430\u0442\u0443-\u0423\u0430\u043d\u0433\u0430\u043d\u0443\u0438",
+                "en": "Manawatu-Wanganui",
+                "de": "Manawatu-Wanganui",
+                "es": "Manawatu-Wanganui",
+                "fr": "Manawatu-Wanganui",
+                "it": "Manawatu-Wanganui",
+                "zh": "\u9a6c\u7eb3\u74e6\u56fe\uff0d\u65fa\u52a0\u52aa\u4f0a"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -39.7273356,
+            "lng": 175.43755740000006
+        },
+        "WKO": {
+            "name": "Waikato",
+            "code": "WKO",
+            "names": {
+                "geonames": "Waikato",
+                "ru": "\u0423\u0430\u0438\u043a\u0430\u0442\u043e",
+                "en": "Waikato",
+                "de": "Waikato",
+                "es": "Waikato",
+                "fr": "Waikato",
+                "it": "Waikato",
+                "zh": "\u61f7\u5361\u6258"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -37.7466618,
+            "lng": 175.42129049999994
+        },
+        "TAS": {
+            "name": "Tasman District",
+            "code": "TAS",
+            "names": {
+                "geonames": "Tasman",
+                "ru": "\u0422\u0430\u0441\u043c\u0430\u043d",
+                "en": "Tasman District",
+                "de": "Tasman",
+                "es": "Regi\u00f3n de Tasman",
+                "fr": "Tasman",
+                "it": "Tasman",
+                "zh": "\u5854\u65af\u66fc"
+            },
+            "division": "unitary authority",
+            "parent": "NZ-S",
+            "lat": -41.3423198,
+            "lng": 173.1728948
+        },
+        "TKI": {
+            "name": "Taranaki",
+            "code": "TKI",
+            "names": {
+                "geonames": "Taranaki",
+                "ru": "\u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438",
+                "en": "Taranaki",
+                "de": "Taranaki",
+                "es": "Taranaki",
+                "fr": "Taranaki",
+                "it": "Taranaki",
+                "zh": "\u5854\u62c9\u7eb3\u57fa\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -39.3538149,
+            "lng": 174.43827209999995
+        },
+        "STL": {
+            "name": "Southland",
+            "code": "STL",
+            "names": {
+                "geonames": "Southland",
+                "ru": "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434",
+                "en": "Southland",
+                "de": "Southland",
+                "es": "Southland",
+                "fr": "Southland",
+                "it": "Southland",
+                "zh": "\u5357\u5730\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-S",
+            "lat": -45.8626797,
+            "lng": 167.97398950000002
+        },
+        "BOP": {
+            "name": "Bay of Plenty region",
+            "code": "BOP",
+            "names": {
+                "geonames": "Bay of Plenty",
+                "ru": "\u0411\u0435\u0439-\u043e\u0444-\u041f\u043b\u0435\u043d\u0442\u0438",
+                "en": "Bay of Plenty region",
+                "de": "Bay of Plenty",
+                "es": "Bay of Plenty",
+                "fr": "Baie de l'Abondance",
+                "it": "Bay of Plenty",
+                "zh": "\u4e30\u76db\u6e7e"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -38.0933357,
+            "lng": 176.41873080000005
+        },
+        "NTL": {
+            "name": "Northland region",
+            "code": "NTL",
+            "names": {
+                "geonames": "Northland",
+                "ru": "\u041d\u043e\u0440\u0442\u043b\u0435\u043d\u0434",
+                "en": "Northland region",
+                "de": "Northland",
+                "es": "Northland",
+                "fr": "Northland",
+                "it": "Northland",
+                "zh": "\u5317\u5730\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -35.5795461,
+            "lng": 173.76240529999995
+        },
+        "MBH": {
+            "name": "Marlborough Region",
+            "code": "MBH",
+            "names": {
+                "geonames": "Marlborough",
+                "ru": "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e",
+                "en": "Marlborough Region",
+                "de": "Marlborough",
+                "es": "Marlborough",
+                "fr": "Marlborough",
+                "it": "Marlborough",
+                "zh": "\u9a6c\u5c14\u5821"
+            },
+            "division": "unitary authority",
+            "parent": "NZ-S",
+            "lat": -41.57269,
+            "lng": 173.42166129999998
+        },
+        "HKB": {
+            "name": "Hawke's Bay region",
+            "code": "HKB",
+            "names": {
+                "geonames": "Hawke's Bay",
+                "ru": "\u0425\u043e\u043a\u0441-\u0411\u0435\u0439",
+                "en": "Hawke's Bay region",
+                "de": "Hawke\u2019s Bay",
+                "es": "Hawke's Bay",
+                "fr": "Hawke's Bay",
+                "it": "Hawke's Bay",
+                "zh": "\u970d\u514b\u6e7e\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -39.7711616,
+            "lng": 176.74163739999995
+        },
+        "GIS": {
+            "name": "Gisborne region",
+            "code": "GIS",
+            "names": {
+                "geonames": "Gisborne",
+                "ru": "\u0413\u0438\u0441\u0431\u043e\u0440\u043d",
+                "en": "Gisborne region",
+                "de": "Gisborne",
+                "es": "Gisborne",
+                "fr": "Gisborne",
+                "it": "Gisborne",
+                "zh": "\u5409\u65af\u4f2f\u6069"
+            },
+            "division": "unitary authority",
+            "parent": "NZ-N",
+            "lat": -38.662334,
+            "lng": 178.017649
+        },
+        "WTC": {
+            "name": "West Coast",
+            "code": "WTC",
+            "names": {
+                "geonames": "West Coast",
+                "ru": "\u0423\u044d\u0441\u0442-\u041a\u043e\u0441\u0442",
+                "en": "West Coast",
+                "de": "West Coast",
+                "es": "West Coast",
+                "fr": "West Coast",
+                "it": "West Coast",
+                "zh": "\u897f\u5cb8\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-S",
+            "lat": -42.4064185,
+            "lng": 171.6911559
+        },
+        "CAN": {
+            "name": "Canterbury",
+            "code": "CAN",
+            "names": {
+                "geonames": "Canterbury",
+                "ru": "\u041a\u0435\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0438",
+                "en": "Canterbury",
+                "ar": "\u0643\u0627\u0646\u062a\u0631\u0628\u064a\u0631\u064a",
+                "de": "Canterbury",
+                "es": "Canterbury",
+                "fr": "Canterbury",
+                "it": "Canterbury",
+                "zh": "\u574e\u7279\u4f2f\u96f7"
+            },
+            "division": "regional council",
+            "parent": "NZ-S",
+            "lat": -43.7542275,
+            "lng": 171.16372449999994
+        },
+        "AUK": {
+            "name": "Auckland Region",
+            "code": "AUK",
+            "names": {
+                "geonames": "Auckland",
+                "ru": "\u041e\u043a\u043b\u0435\u043d\u0434",
+                "en": "Auckland Region",
+                "de": "Auckland",
+                "es": "Regi\u00f3n de Auckland",
+                "fr": "Auckland",
+                "it": "Auckland",
+                "zh": "\u5965\u514b\u5170\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-N",
+            "lat": -36.8484597,
+            "lng": 174.76333150000005
+        },
+        "": {
+            "name": "Chatham Islands",
+            "code": "",
+            "names": {
+                "geonames": "Chatham Islands",
+                "en": "Chatham Islands"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "NSN": {
+            "name": "Nelson",
+            "code": "NSN",
+            "names": {
+                "geonames": "Nelson",
+                "ru": "\u041d\u0435\u043b\u044c\u0441\u043e\u043d",
+                "en": "Nelson",
+                "de": "Nelson",
+                "es": "Nelson",
+                "fr": "Nelson",
+                "it": "Nelson",
+                "zh": "\u5c3c\u723e\u905c"
+            },
+            "division": "unitary authority",
+            "parent": "NZ-S",
+            "lat": -41.2690399,
+            "lng": 173.28404139999998
+        },
+        "OTA": {
+            "name": "Otago",
+            "code": "OTA",
+            "names": {
+                "geonames": "Otago",
+                "ru": "\u041e\u0442\u0430\u0433\u043e",
+                "en": "Otago",
+                "de": "Otago",
+                "es": "Otago",
+                "fr": "Otago",
+                "it": "Otago",
+                "zh": "\u5965\u5854\u54e5\u5927\u533a"
+            },
+            "division": "regional council",
+            "parent": "NZ-S",
+            "lat": -44.8280041,
+            "lng": 169.63452529999995
+        },
+        "N": {
+            "name": "North Island",
+            "division": "island",
+            "parent": "NZ",
+            "lat": -37.8965461,
+            "lng": 175.60236429999998
+        },
+        "S": {
+            "name": "South Island",
+            "division": "island",
+            "parent": "NZ",
+            "lat": -45.1526707,
+            "lng": 169.89263329999994
+        },
+        "CIT": {
+            "name": "Chatham Islands Territory",
+            "division": "special island authority",
+            "parent": "NZ"
+        }
+    }
+}

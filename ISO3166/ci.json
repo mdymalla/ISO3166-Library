@@ -1,0 +1,290 @@
+{
+    "alpha-2": "CI",
+    "alpha-3": "CIV",
+    "numeric": 384,
+    "capital": "Yamoussoukro",
+    "currency": "XOF",
+    "names": {
+        "geonames": "Ivory Coast",
+        "en": "Ivory Coast",
+        "ar": "\u0633\u0627\u062d\u0644 \u0627\u0644\u0639\u0627\u062c",
+        "de": "Elfenbeink\u00fcste",
+        "es": "Costa de Marfil",
+        "fr": "C\u00f4te d'Ivoire",
+        "it": "Costa d'Avorio",
+        "ru": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440",
+        "zh": "\u79d1\u7279\u8fea\u74e6",
+        "he": "\u05d7\u05d5\u05e3 \u05d4\u05e9\u05e0\u05d4\u05d1",
+        "hi": "\u0915\u094b\u0924 \u0926\u093f\u0935\u094d\u0935\u093e\u0930",
+        "ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
+        "pt": "Costa do Marfim"
+    },
+    "languages": [
+        "fr"
+    ],
+    "ISO3166-2": {
+        "YM": {
+            "name": "Yamoussoukro",
+            "code": "YM",
+            "names": {
+                "geonames": "Yamoussoukro Autonomous District",
+                "en": "Yamoussoukro"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "BS": {
+            "name": "Bas-Sassandra",
+            "code": "BS",
+            "names": {
+                "geonames": "Bas-Sassandra",
+                "en": "Bas-Sassandra"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "CM": {
+            "name": "Como\u00e9",
+            "code": "CM",
+            "names": {
+                "geonames": "Comoe",
+                "en": "Como\u00e9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "DN": {
+            "name": "Dengu\u00e9l\u00e9",
+            "code": "DN",
+            "names": {
+                "geonames": "Denguele",
+                "en": "Dengu\u00e9l\u00e9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "GD": {
+            "name": "G\u00f4h-Djiboua",
+            "code": "GD",
+            "names": {
+                "geonames": "Goh-Djiboua",
+                "en": "G\u00f4h-Djiboua"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "LC": {
+            "name": "Lacs",
+            "code": "LC",
+            "names": {
+                "geonames": "Lacs",
+                "en": "Lacs"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "LG": {
+            "name": "Lagunes",
+            "code": "LG",
+            "names": {
+                "geonames": "Lagunes",
+                "en": "Lagunes"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "MG": {
+            "name": "Montagnes",
+            "code": "MG",
+            "names": {
+                "geonames": "Montagnes",
+                "en": "Montagnes"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SM": {
+            "name": "Sassandra-Marahou\u00e9",
+            "code": "SM",
+            "names": {
+                "geonames": "Sassandra-Marahoue",
+                "en": "Sassandra-Marahou\u00e9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SV": {
+            "name": "Savanes",
+            "code": "SV",
+            "names": {
+                "geonames": "Savanes",
+                "en": "Savanes"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "VB": {
+            "name": "Vall\u00e9e du Bandama",
+            "code": "VB",
+            "names": {
+                "geonames": "Vallee du Bandama",
+                "en": "Vall\u00e9e du Bandama"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "WR": {
+            "name": "Woroba",
+            "code": "WR",
+            "names": {
+                "geonames": "Woroba",
+                "en": "Woroba"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "ZZ": {
+            "name": "Zanzan",
+            "code": "ZZ",
+            "names": {
+                "geonames": "Zanzan",
+                "en": "Zanzan"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "AB": {
+            "name": "Abidjan",
+            "code": "AB",
+            "names": {
+                "geonames": "Abidjan",
+                "en": "Abidjan"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "06": {
+            "name": "18 Montagnes (R\u00e9gion des)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "16": {
+            "name": "Agn\u00e9bi (R\u00e9gion de l')",
+            "division": "region",
+            "parent": "CI"
+        },
+        "17": {
+            "name": "Bafing (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "09": {
+            "name": "Bas-Sassandra (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "10": {
+            "name": "Dengu\u00e9l\u00e9 (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "18": {
+            "name": "Fromager (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "02": {
+            "name": "Haut-Sassandra (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "07": {
+            "name": "Lacs (R\u00e9gion des)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "01": {
+            "name": "Lagunes (R\u00e9gion des)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "12": {
+            "name": "Marahou\u00e9 (R\u00e9gion de la)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "19": {
+            "name": "Moyen-Cavally (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "05": {
+            "name": "Moyen-Como\u00e9 (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "11": {
+            "name": "Nzi-Como\u00e9 (R\u00e9gion)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "03": {
+            "name": "Savanes (R\u00e9gion des)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "15": {
+            "name": "Sud-Bandama (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "13": {
+            "name": "Sud-Como\u00e9 (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "04": {
+            "name": "Vall\u00e9e du Bandama (R\u00e9gion de la)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "14": {
+            "name": "Worodouqou (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        },
+        "08": {
+            "name": "Zanzan (R\u00e9gion du)",
+            "division": "region",
+            "parent": "CI"
+        }
+    }
+}

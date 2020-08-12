@@ -1,0 +1,457 @@
+{
+    "alpha-2": "VE",
+    "alpha-3": "VEN",
+    "numeric": 862,
+    "capital": "Caracas",
+    "currency": "VES",
+    "names": {
+        "geonames": "Venezuela",
+        "en": "Venezuela",
+        "ar": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627",
+        "de": "Venezuela",
+        "es": "Venezuela",
+        "fr": "Venezuela",
+        "it": "Venezuela",
+        "ru": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+        "zh": "\u59d4\u5167\u745e\u62c9",
+        "he": "\u05d5\u05e0\u05e6\u05d5\u05d0\u05dc\u05d4",
+        "hi": "\u0935\u0947\u0928\u0947\u091c\u093c\u0941\u090f\u0932\u093e",
+        "ja": "\u30d9\u30cd\u30ba\u30a8\u30e9",
+        "pt": "Venezuela"
+    },
+    "languages": [
+        "es"
+    ],
+    "ISO3166-2": {
+        "V": {
+            "name": "Zulia",
+            "code": "V",
+            "names": {
+                "geonames": "Zulia",
+                "ru": "\u0421\u0443\u043b\u0438\u044f",
+                "en": "Zulia",
+                "de": "Zulia",
+                "es": "Zulia",
+                "fr": "\u00c9tat de Zulia",
+                "it": "Zulia",
+                "zh": "\u82cf\u5229\u4e9a\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.967492,
+            "lng": -72.5204827
+        },
+        "U": {
+            "name": "Yaracuy",
+            "code": "U",
+            "names": {
+                "geonames": "Yaracuy",
+                "ru": "\u042f\u0440\u0430\u043a\u0443\u0439",
+                "en": "Yaracuy",
+                "de": "Yaracuy",
+                "es": "Yaracuy",
+                "fr": "\u00c9tat d'Yaracuy",
+                "it": "Yaracuy",
+                "zh": "\u4e9a\u62c9\u594e\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.417644,
+            "lng": -68.71549749999997
+        },
+        "T": {
+            "name": "Trujillo, Venezuela",
+            "code": "T",
+            "names": {
+                "geonames": "Trujillo",
+                "ru": "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e",
+                "en": "Trujillo",
+                "de": "Trujillo",
+                "es": "Trujillo",
+                "fr": "\u00c9tat de Trujillo",
+                "it": "Trujillo",
+                "zh": "\u7279\u9c81\u5e0c\u7565\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3666667,
+            "lng": -70.43333330000002
+        },
+        "S": {
+            "name": "T\u00e1chira",
+            "code": "S",
+            "names": {
+                "geonames": "Tachira",
+                "ru": "\u0422\u0430\u0447\u0438\u0440\u0430",
+                "en": "T\u00e1chira",
+                "ar": "\u062a\u0627\u062a\u0634\u064a\u0631\u0627",
+                "de": "T\u00e1chira",
+                "es": "T\u00e1chira",
+                "fr": "\u00c9tat de T\u00e1chira",
+                "it": "T\u00e1chira",
+                "zh": "\u5854\u5947\u62c9\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 7.9137001,
+            "lng": -72.1416132
+        },
+        "R": {
+            "name": "Sucre",
+            "code": "R",
+            "names": {
+                "geonames": "Sucre",
+                "en": "Sucre"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.4055886,
+            "lng": -63.297505
+        },
+        "P": {
+            "name": "Portuguesa, Venezuela",
+            "code": "P",
+            "names": {
+                "geonames": "Portuguesa",
+                "ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0435\u0441\u0430",
+                "en": "Portuguesa",
+                "ar": "\u0628\u0648\u0631\u062a\u0648\u063a\u064a\u0632\u0627",
+                "de": "Portuguesa",
+                "es": "Portuguesa",
+                "fr": "\u00c9tat de Portuguesa",
+                "it": "Portuguesa",
+                "zh": "\u6ce2\u56fe\u683c\u8428\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.0943999,
+            "lng": -69.09702299999998
+        },
+        "O": {
+            "name": "Nueva Esparta",
+            "code": "O",
+            "names": {
+                "geonames": "Nueva Esparta",
+                "ru": "\u041d\u0443\u044d\u0432\u0430-\u042d\u0441\u043f\u0430\u0440\u0442\u0430",
+                "en": "Nueva Esparta",
+                "de": "Nueva Esparta",
+                "es": "Nueva Esparta",
+                "fr": "\u00c9tat de Nueva Esparta",
+                "it": "Nuova Sparta",
+                "zh": "\u65b0\u57c3\u65af\u5e15\u5854\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.9970723,
+            "lng": -63.91132959999999
+        },
+        "N": {
+            "name": "Monagas",
+            "code": "N",
+            "names": {
+                "geonames": "Monagas",
+                "ru": "\u041c\u043e\u043d\u0430\u0433\u0430\u0441",
+                "en": "Monagas",
+                "de": "Monagas",
+                "es": "Monagas",
+                "fr": "\u00c9tat de Monagas",
+                "it": "Monagas",
+                "zh": "\u83ab\u7d0d\u52a0\u65af\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3241652,
+            "lng": -63.014757799999984
+        },
+        "M": {
+            "name": "Miranda",
+            "code": "M",
+            "names": {
+                "geonames": "Miranda",
+                "ru": "\u041c\u0438\u0440\u0430\u043d\u0434\u0430",
+                "en": "Miranda",
+                "de": "Miranda",
+                "es": "Miranda",
+                "fr": "\u00c9tat de Miranda",
+                "it": "Miranda",
+                "zh": "\u7c73\u5170\u8fbe\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.2509303,
+            "lng": -66.42714990000002
+        },
+        "L": {
+            "name": "M\u00e9rida, Venezuela",
+            "code": "L",
+            "names": {
+                "geonames": "Merida",
+                "ru": "\u041c\u0435\u0440\u0438\u0434\u0430",
+                "en": "M\u00e9rida",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0631\u062f\u0629",
+                "de": "M\u00e9rida",
+                "es": "M\u00e9rida",
+                "fr": "\u00c9tat de M\u00e9rida",
+                "it": "M\u00e9rida",
+                "zh": "\u6885\u91cc\u8fbe\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.6,
+            "lng": -71.14999999999998
+        },
+        "K": {
+            "name": "Lara, Venezuela",
+            "code": "K",
+            "names": {
+                "geonames": "Lara",
+                "ru": "\u041b\u0430\u0440\u0430",
+                "en": "Lara",
+                "de": "Lara",
+                "es": "Lara",
+                "fr": "\u00c9tat de Lara",
+                "it": "Lara",
+                "zh": "\u62c9\u814a\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.1537842,
+            "lng": -69.85974060000001
+        },
+        "J": {
+            "name": "Gu\u00e1rico",
+            "code": "J",
+            "names": {
+                "geonames": "Guarico",
+                "ru": "\u0413\u0443\u0430\u0440\u0438\u043a\u043e",
+                "en": "Gu\u00e1rico",
+                "de": "Gu\u00e1rico",
+                "es": "Gu\u00e1rico",
+                "fr": "\u00c9tat de Gu\u00e1rico",
+                "it": "Gu\u00e1rico",
+                "zh": "\u74dc\u91cc\u79d1\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.7489309,
+            "lng": -66.23671719999999
+        },
+        "W": {
+            "name": "Federal Dependencies of Venezuela",
+            "code": "W",
+            "names": {
+                "geonames": "Dependencias Federales",
+                "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u044f \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u044b",
+                "en": "Federal Dependencies of Venezuela",
+                "de": "Dependencias Federales",
+                "es": "Dependencias Federales Venezolanas",
+                "fr": "D\u00e9pendances f\u00e9d\u00e9rales",
+                "it": "Dipendenze Federali",
+                "zh": "\u806f\u90a6\u5c6c\u5730"
+            },
+            "division": "federal dependency",
+            "parent": "VE",
+            "lat": 10.9377053,
+            "lng": -65.35695729999998
+        },
+        "A": {
+            "name": "Capital",
+            "code": "A",
+            "names": {
+                "geonames": "Capital",
+                "en": "Capital"
+            },
+            "division": "federal district",
+            "parent": "VE",
+            "lat": 10.5004352,
+            "lng": -66.95114590000003
+        },
+        "I": {
+            "name": "Falc\u00f3n",
+            "code": "I",
+            "names": {
+                "geonames": "Falcon",
+                "ru": "\u0424\u0430\u043b\u044c\u043a\u043e\u043d",
+                "en": "Falc\u00f3n",
+                "de": "Falc\u00f3n",
+                "es": "Falc\u00f3n",
+                "fr": "\u00c9tat de Falc\u00f3n",
+                "it": "Falc\u00f3n",
+                "zh": "\u6cd5\u5c14\u5b54\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 11.1810674,
+            "lng": -69.85974060000001
+        },
+        "Y": {
+            "name": "Delta Amacuro",
+            "code": "Y",
+            "names": {
+                "geonames": "Delta Amacuro",
+                "ru": "\u0414\u0435\u043b\u044c\u0442\u0430-\u0410\u043c\u0430\u043a\u0443\u0440\u043e",
+                "en": "Delta Amacuro",
+                "de": "Delta Amacuro",
+                "es": "Delta Amacuro",
+                "fr": "\u00c9tat de Delta Amacuro",
+                "it": "Delta Amacuro",
+                "zh": "\u963f\u9a6c\u5e93\u7f57\u4e09\u89d2\u6d32\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.8810158,
+            "lng": -61.513603699999976
+        },
+        "H": {
+            "name": "Cojedes, Venezuela",
+            "code": "H",
+            "names": {
+                "geonames": "Cojedes",
+                "ru": "\u041a\u043e\u0445\u0435\u0434\u0435\u0441",
+                "en": "Cojedes",
+                "de": "Cojedes",
+                "es": "Cojedes",
+                "fr": "\u00c9tat de Cojedes",
+                "it": "Cojedes",
+                "zh": "\u79d1\u8d6b\u5fb7\u65af\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 9.3816682,
+            "lng": -68.33392750000002
+        },
+        "G": {
+            "name": "Carabobo",
+            "code": "G",
+            "names": {
+                "geonames": "Carabobo",
+                "ru": "\u041a\u0430\u0440\u0430\u0431\u043e\u0431\u043e",
+                "en": "Carabobo",
+                "de": "Carabobo",
+                "es": "Carabobo",
+                "fr": "\u00c9tat de Carabobo",
+                "it": "Carabobo",
+                "zh": "\u5361\u62c9\u6ce2\u6ce2\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.1176433,
+            "lng": -68.04775089999998
+        },
+        "F": {
+            "name": "Bolivar",
+            "code": "F",
+            "names": {
+                "geonames": "Bolivar",
+                "en": "Bolivar"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 6.3585216,
+            "lng": -63.580610999999976
+        },
+        "E": {
+            "name": "Barinas, Venezuela",
+            "code": "E",
+            "names": {
+                "geonames": "Barinas",
+                "ru": "\u0411\u0430\u0440\u0438\u043d\u0430\u0441",
+                "en": "Barinas",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u0631\u064a\u0646\u0627\u0633",
+                "de": "Barinas",
+                "es": "Barinas",
+                "fr": "\u00c9tat de Barinas",
+                "it": "Barinas",
+                "zh": "\u5df4\u91cc\u7eb3\u65af\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.630485,
+            "lng": -70.20990799999998
+        },
+        "D": {
+            "name": "Aragua",
+            "code": "D",
+            "names": {
+                "geonames": "Aragua",
+                "ru": "\u0410\u0440\u0430\u0433\u0443\u0430",
+                "en": "Aragua",
+                "de": "Aragua",
+                "es": "Aragua",
+                "fr": "\u00c9tat d'Aragua",
+                "it": "Aragua",
+                "zh": "\u963f\u62c9\u74dc\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.2313205,
+            "lng": -67.2847875
+        },
+        "C": {
+            "name": "Apure",
+            "code": "C",
+            "names": {
+                "geonames": "Apure",
+                "ru": "\u0410\u043f\u0443\u0440\u0435",
+                "en": "Apure",
+                "de": "Apure",
+                "es": "Apure",
+                "fr": "\u00c9tat d'Apure",
+                "it": "Apure",
+                "zh": "\u963f\u666e\u96f7\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 6.9269483,
+            "lng": -68.52471489999999
+        },
+        "B": {
+            "name": "Anzo\u00e1tegui",
+            "code": "B",
+            "names": {
+                "geonames": "Anzoategui",
+                "ru": "\u0410\u043d\u0441\u043e\u0430\u0442\u0435\u0433\u0438",
+                "en": "Anzo\u00e1tegui",
+                "de": "Anzo\u00e1tegui",
+                "es": "Anzo\u00e1tegui",
+                "fr": "\u00c9tat d'Anzo\u00e1tegui",
+                "it": "Anzo\u00e1tegui",
+                "zh": "\u5b89\u7d22\u963f\u7279\u5409\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 8.8862613,
+            "lng": -64.16852690000002
+        },
+        "Z": {
+            "name": "Amazonas",
+            "code": "Z",
+            "names": {
+                "geonames": "Amazonas",
+                "en": "Amazonas"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 2.8101413,
+            "lng": -65.09577919999998
+        },
+        "X": {
+            "name": "Vargas, Venezuela",
+            "code": "X",
+            "names": {
+                "geonames": "Vargas",
+                "ru": "\u0412\u0430\u0440\u0433\u0430\u0441",
+                "en": "Vargas",
+                "de": "Vargas",
+                "es": "Vargas",
+                "fr": "\u00c9tat de Vargas",
+                "it": "Vargas",
+                "zh": "\u74e6\u5c14\u52a0\u65af\u5dde"
+            },
+            "division": "state",
+            "parent": "VE",
+            "lat": 10.530532,
+            "lng": -67.07028909999997
+        }
+    }
+}

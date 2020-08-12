@@ -1,0 +1,143 @@
+{
+    "alpha-2": "CY",
+    "alpha-3": "CYP",
+    "numeric": 196,
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "names": {
+        "geonames": "Cyprus",
+        "en": "Cyprus",
+        "ar": "\u0642\u0628\u0631\u0635",
+        "de": "Republik Zypern",
+        "es": "Chipre",
+        "fr": "Chypre",
+        "it": "Cipro",
+        "ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440",
+        "zh": "\u8cfd\u666e\u52d2\u65af",
+        "he": "\u05e7\u05e4\u05e8\u05d9\u05e1\u05d9\u05df",
+        "hi": "\u0938\u093e\u0907\u092a\u094d\u0930\u0938",
+        "ja": "\u30ad\u30d7\u30ed\u30b9",
+        "pt": "Chipre"
+    },
+    "languages": [
+        "el",
+        "tr",
+        "hy"
+    ],
+    "ISO3166-2": {
+        "05": {
+            "name": "Paphos District",
+            "code": "05",
+            "names": {
+                "geonames": "Pafos",
+                "ru": "\u041f\u0430\u0444\u043e\u0441",
+                "en": "Paphos District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0641\u0648\u0633",
+                "de": "Bezirk Paphos",
+                "es": "Distrito de Pafos",
+                "fr": "District de Paphos",
+                "it": "Distretto di Pafo",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.7719536,
+            "lng": 32.430223100000035
+        },
+        "01": {
+            "name": "Nicosia District",
+            "code": "01",
+            "names": {
+                "geonames": "Nicosia",
+                "ru": "\u041d\u0438\u043a\u043e\u0441\u0438\u044f",
+                "en": "Nicosia District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0646\u064a\u0642\u0648\u0633\u064a\u0627",
+                "de": "Bezirk Nikosia",
+                "es": "Distrito de Nicosia",
+                "fr": "District de Nicosie",
+                "it": "Distretto di Nicosia",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": 35.1666667,
+            "lng": 33.366666699999996
+        },
+        "02": {
+            "name": "Limassol District",
+            "code": "02",
+            "names": {
+                "geonames": "Limassol",
+                "ru": "\u041b\u0438\u043c\u0430\u0441\u043e\u043b",
+                "en": "Limassol District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0644\u064a\u0645\u0627\u0633\u0648\u0644",
+                "de": "Bezirk Limassol",
+                "es": "Distrito de Limasol",
+                "fr": "District de Limassol",
+                "it": "Distretto di Limassol",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.7071301,
+            "lng": 33.022617399999945
+        },
+        "03": {
+            "name": "Larnaca District",
+            "code": "03",
+            "names": {
+                "geonames": "Larnaka",
+                "ru": "\u041b\u0430\u0440\u043d\u0430\u043a\u0430",
+                "en": "Larnaca District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0644\u0627\u0631\u0646\u0643\u0627",
+                "de": "Bezirk Larnaka",
+                "es": "Distrito de L\u00e1rnaca",
+                "fr": "District de Larnaca",
+                "it": "Distretto di Larnaca",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.9166667,
+            "lng": 33.633333300000004
+        },
+        "06": {
+            "name": "Kyrenia District",
+            "code": "06",
+            "names": {
+                "geonames": "Keryneia",
+                "ru": "\u041a\u0438\u0440\u0435\u043d\u0438\u044f",
+                "en": "Kyrenia District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u064a\u0631\u064a\u0646\u064a\u0627",
+                "de": "Bezirk Kyrenia",
+                "es": "Distrito de Kyrenia",
+                "fr": "District de Kyrenia",
+                "it": "Distretto di Kyrenia",
+                "zh": "\u51ef\u91cc\u5c3c\u4e9a\u533a"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": null,
+            "lng": null
+        },
+        "04": {
+            "name": "Famagusta District",
+            "code": "04",
+            "names": {
+                "geonames": "Ammochostos",
+                "ru": "\u0424\u0430\u043c\u0430\u0433\u0443\u0441\u0442\u0430",
+                "en": "Famagusta District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0641\u0627\u0645\u0627\u063a\u0648\u0633\u062a\u0627",
+                "de": "Bezirk Famagusta",
+                "es": "Distrito de Famagusta",
+                "fr": "District de Famagouste",
+                "it": "Distretto di Famagosta",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

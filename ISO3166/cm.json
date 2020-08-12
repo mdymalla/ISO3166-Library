@@ -1,0 +1,203 @@
+{
+    "alpha-2": "CM",
+    "alpha-3": "CMR",
+    "numeric": 120,
+    "capital": "Yaound\u00e9",
+    "currency": "XAF",
+    "names": {
+        "geonames": "Cameroon",
+        "en": "Cameroon",
+        "ar": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
+        "de": "Kamerun",
+        "es": "Camer\u00fan",
+        "fr": "Cameroun",
+        "it": "Camerun",
+        "ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "zh": "\u5580\u9ea6\u9686",
+        "he": "\u05e7\u05de\u05e8\u05d5\u05df",
+        "hi": "\u0915\u0948\u092e\u0930\u0941\u0928",
+        "ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
+        "pt": "Camar\u00f5es"
+    },
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "ISO3166-2": {
+        "SW": {
+            "name": "Southwest Region",
+            "code": "SW",
+            "names": {
+                "geonames": "South-West",
+                "ru": "\u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "Southwest Region",
+                "de": "Sud-Ouest",
+                "es": "Regi\u00f3n del Sudoeste",
+                "fr": "R\u00e9gion du Sud-Ouest",
+                "it": "Regione del Sudovest",
+                "zh": "\u897f\u5357\u533a"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 2.7202832,
+            "lng": 11.70682940000006
+        },
+        "SU": {
+            "name": "South Region",
+            "code": "SU",
+            "names": {
+                "geonames": "South",
+                "en": "South Region",
+                "de": "Sud",
+                "es": "Regi\u00f3n del Sur",
+                "fr": "R\u00e9gion du Sud",
+                "it": "Regione del Sud",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "zh": "\u5357\u90e8\u533a"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 6.4,
+            "lng": 10.399999999999977
+        },
+        "OU": {
+            "name": "West Region",
+            "code": "OU",
+            "names": {
+                "geonames": "West",
+                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "West Region",
+                "de": "Ouest",
+                "es": "Regi\u00f3n del Oeste",
+                "fr": "R\u00e9gion de l'Ouest",
+                "it": "Regione dell'Ovest",
+                "zh": "\u897f\u90e8\u533a"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": -34.9295746,
+            "lng": 138.58798439999998
+        },
+        "NW": {
+            "name": "Northwest Region",
+            "code": "NW",
+            "names": {
+                "geonames": "North-West",
+                "en": "Northwest Region",
+                "de": "Nord-Ouest",
+                "es": "Regi\u00f3n del Noroeste",
+                "fr": "R\u00e9gion du Nord-Ouest",
+                "it": "Regione del Nordovest",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "zh": "\u897f\u5317\u5340"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 7.369722,
+            "lng": 12.354722000000038
+        },
+        "NO": {
+            "name": "North Region, Cameroon",
+            "code": "NO",
+            "names": {
+                "geonames": "North",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "North Region",
+                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629\u060c \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
+                "de": "Nord",
+                "es": "Regi\u00f3n del Norte",
+                "fr": "R\u00e9gion du Nord",
+                "it": "Regione del Nord",
+                "zh": "\u5317\u90e8\u5340"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 8.5809013,
+            "lng": 13.914399000000003
+        },
+        "LT": {
+            "name": "Littoral Region",
+            "code": "LT",
+            "names": {
+                "geonames": "Littoral",
+                "ru": "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "de": "Littoral",
+                "en": "Littoral Region",
+                "es": "Regi\u00f3n del Litoral",
+                "fr": "R\u00e9gion du Littoral",
+                "it": "Regione del Litorale",
+                "zh": "\u6ff1\u6d77\u5340"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": null,
+            "lng": null
+        },
+        "EN": {
+            "name": "Far North Region",
+            "code": "EN",
+            "names": {
+                "geonames": "Far North",
+                "ru": "\u041a\u0440\u0430\u0439\u043d\u0435\u0441\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "Far North Region",
+                "de": "Extr\u00eame-Nord",
+                "es": "Regi\u00f3n del Extremo Norte",
+                "fr": "R\u00e9gion de l'Extr\u00eame-Nord",
+                "it": "Regione dell'Estremo Nord",
+                "zh": "\u6975\u5317\u5340"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 42.2511693,
+            "lng": 3.1819865999999593
+        },
+        "ES": {
+            "name": "East Region",
+            "code": "ES",
+            "names": {
+                "geonames": "East",
+                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "East Region",
+                "de": "Est",
+                "es": "Regi\u00f3n del Este",
+                "fr": "R\u00e9gion de l'Est",
+                "it": "Regione dell'Est",
+                "zh": "\u4e1c\u90e8\u533a"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": 39.2795607,
+            "lng": -3.0977020000000266
+        },
+        "CE": {
+            "name": "Centre",
+            "code": "CE",
+            "names": {
+                "geonames": "Centre",
+                "en": "Centre"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": null,
+            "lng": null
+        },
+        "AD": {
+            "name": "Adamawa Region",
+            "code": "AD",
+            "names": {
+                "geonames": "Adamaoua",
+                "ru": "\u0410\u0434\u0430\u043c\u0430\u0432\u0430",
+                "en": "Adamawa Region",
+                "de": "Adamaoua",
+                "es": "Regi\u00f3n Adamawa",
+                "fr": "R\u00e9gion de l'Adamaoua",
+                "it": "Regione di Adamaoua",
+                "zh": "\u963f\u8fbe\u9a6c\u74e6\u533a"
+            },
+            "division": "province",
+            "parent": "CM",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "alpha-2": "AQ",
+    "alpha-3": "ATA",
+    "numeric": 10,
+    "capital": "",
+    "currency": "",
+    "names": {
+        "geonames": "Antarctica",
+        "en": "Antarctica",
+        "ar": "\u0627\u0644\u0642\u0627\u0631\u0629 \u0627\u0644\u0642\u0637\u0628\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+        "de": "Antarktika",
+        "es": "Ant\u00e1rtida",
+        "fr": "Antarctique",
+        "it": "Antartide",
+        "ru": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430",
+        "zh": "\u5357\u6781\u6d32",
+        "he": "\u05d0\u05e0\u05d8\u05d0\u05e8\u05e7\u05d8\u05d9\u05e7\u05d4",
+        "hi": "\u0905\u0902\u091f\u093e\u0930\u094d\u0915\u091f\u093f\u0915\u093e",
+        "ja": "\u5357\u6975\u5927\u9678",
+        "pt": "Ant\u00e1rtida"
+    },
+    "languages": [],
+    "ISO3166-2": null
+}

@@ -1,0 +1,795 @@
+{
+    "alpha-2": "RO",
+    "alpha-3": "ROU",
+    "numeric": 642,
+    "capital": "Bucharest",
+    "currency": "RON",
+    "names": {
+        "geonames": "Romania",
+        "en": "Romania",
+        "ar": "\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+        "de": "Rum\u00e4nien",
+        "es": "Rumania",
+        "fr": "Roumanie",
+        "it": "Romania",
+        "ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+        "zh": "\u7f85\u99ac\u5c3c\u4e9e",
+        "he": "\u05e8\u05d5\u05de\u05e0\u05d9\u05d4",
+        "hi": "\u0930\u094b\u092e\u093e\u0928\u093f\u092f\u093e",
+        "ja": "\u30eb\u30fc\u30de\u30cb\u30a2",
+        "pt": "Rom\u00eania"
+    },
+    "languages": [
+        "ro"
+    ],
+    "ISO3166-2": {
+        "VN": {
+            "name": "Vrancea County",
+            "code": "VN",
+            "names": {
+                "geonames": "Vrancea",
+                "ru": "\u0412\u0440\u0430\u043d\u0447\u0430",
+                "en": "Vrancea County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0641\u0631\u0646\u062a\u0634\u064a\u0627",
+                "de": "Kreis Vrancea",
+                "es": "Vrancea",
+                "fr": "Jude\u021b de Vrancea",
+                "it": "Distretto di Vrancea",
+                "zh": "\u5f17\u6717\u6070\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "VL": {
+            "name": "V\u00e2lcea County",
+            "code": "VL",
+            "names": {
+                "geonames": "Valcea",
+                "ru": "\u0412\u044b\u043b\u0447\u0430",
+                "en": "V\u00e2lcea County",
+                "de": "Kreis V\u00e2lcea",
+                "es": "V\u00e2lcea",
+                "fr": "Jude\u021b de V\u00e2lcea",
+                "it": "Distretto di V\u00e2lcea",
+                "zh": "\u6c83\u723e\u6070\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.1051067,
+            "lng": 24.36411380000004
+        },
+        "VS": {
+            "name": "Vaslui County",
+            "code": "VS",
+            "names": {
+                "geonames": "Vaslui",
+                "ru": "\u0412\u0430\u0441\u043b\u0443\u0439",
+                "en": "Vaslui County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0641\u0627\u0633\u0644\u0648\u064a",
+                "de": "Kreis Vaslui",
+                "es": "Vaslui",
+                "fr": "Jude\u021b de Vaslui",
+                "it": "Distretto di Vaslui",
+                "zh": "\u74e6\u65af\u76e7\u4f0a\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.6383333,
+            "lng": 27.72916669999995
+        },
+        "TL": {
+            "name": "Tulcea County",
+            "code": "TL",
+            "names": {
+                "geonames": "Tulcea",
+                "ru": "\u0422\u0443\u043b\u0447\u0430",
+                "en": "Tulcea County",
+                "de": "Kreis Tulcea",
+                "es": "Tulcea",
+                "fr": "Jude\u021b de Tulcea",
+                "it": "Distretto di Tulcea",
+                "zh": "\u5716\u723e\u6070\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.179932,
+            "lng": 28.80633899999998
+        },
+        "TM": {
+            "name": "Timi\u0219 County",
+            "code": "TM",
+            "names": {
+                "geonames": "Timis",
+                "ru": "\u0422\u0438\u043c\u0438\u0448",
+                "en": "Timi\u0219 County",
+                "de": "Kreis Timi\u0219",
+                "es": "Timi\u0219",
+                "fr": "Jude\u021b de Timi\u0219",
+                "it": "Distretto di Timi\u0219",
+                "zh": "\u8482\u7c73\u4ec0\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "TR": {
+            "name": "Teleorman County",
+            "code": "TR",
+            "names": {
+                "geonames": "Teleorman",
+                "ru": "\u0422\u0435\u043b\u0435\u043e\u0440\u043c\u0430\u043d",
+                "en": "Teleorman County",
+                "de": "Kreis Teleorman",
+                "es": "Teleorman",
+                "fr": "Jude\u021b de Teleorman",
+                "it": "Distretto di Teleorman",
+                "zh": "\u7279\u5217\u5967\u723e\u66fc\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.7819641,
+            "lng": 23.622656499999948
+        },
+        "SV": {
+            "name": "Suceava County",
+            "code": "SV",
+            "names": {
+                "geonames": "Suceava",
+                "ru": "\u0421\u0443\u0447\u0430\u0432\u0430",
+                "en": "Suceava County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0633\u0648\u062a\u0634\u064a\u0627\u0641\u0627",
+                "de": "Kreis Suceava",
+                "es": "Suceava",
+                "fr": "Jude\u021b de Suceava",
+                "it": "Distretto di Suceava",
+                "zh": "\u8607\u6070\u74e6\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 47.6513889,
+            "lng": 26.25555559999998
+        },
+        "SB": {
+            "name": "Sibiu County",
+            "code": "SB",
+            "names": {
+                "geonames": "Sibiu",
+                "ru": "\u0421\u0438\u0431\u0438\u0443",
+                "en": "Sibiu County",
+                "de": "Kreis Sibiu",
+                "es": "Sibiu",
+                "fr": "Jude\u021b de Sibiu",
+                "it": "Distretto di Sibiu",
+                "zh": "\u932b\u6bd4\u70cf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.787441,
+            "lng": 24.143258999999944
+        },
+        "SM": {
+            "name": "Satu Mare County",
+            "code": "SM",
+            "names": {
+                "geonames": "Satu Mare",
+                "ru": "\u0421\u0430\u0442\u0443-\u041c\u0430\u0440\u0435",
+                "en": "Satu Mare County",
+                "de": "Kreis Satu Mare",
+                "es": "Satu Mare",
+                "fr": "Jude\u021b de Satu Mare",
+                "it": "Distretto di Satu Mare",
+                "zh": "\u85a9\u5716\u99ac\u96f7\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 47.792091,
+            "lng": 22.88518899999997
+        },
+        "SJ": {
+            "name": "S\u0103laj County",
+            "code": "SJ",
+            "names": {
+                "geonames": "Salaj",
+                "ru": "\u0421\u044d\u043b\u0430\u0436",
+                "en": "S\u0103laj County",
+                "de": "Kreis S\u0103laj",
+                "es": "S\u0103laj",
+                "fr": "Jude\u021b de S\u0103laj",
+                "it": "Distretto di S\u0103laj",
+                "zh": "\u745f\u62c9\u65e5\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "PH": {
+            "name": "Prahova County",
+            "code": "PH",
+            "names": {
+                "geonames": "Prahova",
+                "ru": "\u041f\u0440\u0430\u0445\u043e\u0432\u0430",
+                "en": "Prahova County",
+                "de": "Kreis Prahova",
+                "es": "Prahova",
+                "fr": "Jude\u021b de Prahova",
+                "it": "Distretto di Prahova",
+                "zh": "\u666e\u62c9\u970d\u74e6\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "OT": {
+            "name": "Olt County",
+            "code": "OT",
+            "names": {
+                "geonames": "Olt",
+                "ru": "\u041e\u043b\u0442",
+                "en": "Olt County",
+                "de": "Kreis Olt",
+                "es": "Olt",
+                "fr": "Jude\u021b d'Olt",
+                "it": "Distretto di Olt",
+                "zh": "\u5967\u723e\u7279\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "NT": {
+            "name": "Neam\u021b County",
+            "code": "NT",
+            "names": {
+                "geonames": "Neamt",
+                "ru": "\u041d\u044f\u043c\u0446",
+                "en": "Neam\u021b County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u064a\u0627\u0645\u062a\u0633",
+                "de": "Kreis Neam\u021b",
+                "es": "Neam\u021b",
+                "fr": "Jude\u021b de Neam\u021b",
+                "it": "Distretto di Neam\u021b",
+                "zh": "\u5c3c\u4e9e\u59c6\u8328\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "MS": {
+            "name": "Mure\u0219 County",
+            "code": "MS",
+            "names": {
+                "geonames": "Mures",
+                "ru": "\u041c\u0443\u0440\u0435\u0448",
+                "en": "Mure\u0219 County",
+                "de": "Kreis Mure\u0219",
+                "es": "Mure\u0219",
+                "fr": "Jude\u021b de Mure\u0219",
+                "it": "Distretto di Mure\u0219",
+                "zh": "\u7a46\u5217\u4ec0\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.5569904,
+            "lng": 24.672321499999953
+        },
+        "MH": {
+            "name": "Mehedin\u021bi County",
+            "code": "MH",
+            "names": {
+                "geonames": "Mehedinti",
+                "ru": "\u041c\u0435\u0445\u0435\u0434\u0438\u043d\u0446\u0438",
+                "en": "Mehedin\u021bi County",
+                "de": "Kreis Mehedin\u021bi",
+                "es": "Mehedin\u021bi",
+                "fr": "Jude\u021b de Mehedin\u021bi",
+                "it": "Distretto di Mehedin\u021bi",
+                "zh": "\u6885\u8d6b\u4e01\u8328\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 44.509941,
+            "lng": 22.575150000000008
+        },
+        "MM": {
+            "name": "Maramure\u0219 County",
+            "code": "MM",
+            "names": {
+                "geonames": "Maramures",
+                "ru": "\u041c\u0430\u0440\u0430\u043c\u0443\u0440\u0435\u0448",
+                "en": "Maramure\u0219 County",
+                "de": "Kreis Maramure\u0219",
+                "es": "Maramure\u0219",
+                "fr": "Jude\u021b de Maramure\u0219",
+                "it": "Distretto di Maramure\u0219",
+                "zh": "\u99ac\u62c9\u7a46\u5217\u4ec0\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "IS": {
+            "name": "Ia\u0219i County",
+            "code": "IS",
+            "names": {
+                "geonames": "Iasi",
+                "ru": "\u042f\u0441\u0441\u044b",
+                "en": "Ia\u0219i County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u064a\u0627\u0634",
+                "de": "Kreis Ia\u0219i",
+                "es": "Ia\u0219i",
+                "fr": "Jude\u021b de Ia\u0219i",
+                "it": "Distretto di Ia\u0219i",
+                "zh": "\u96c5\u897f\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 47.1569444,
+            "lng": 27.590277799999967
+        },
+        "IL": {
+            "name": "Ialomi\u021ba County",
+            "code": "IL",
+            "names": {
+                "geonames": "Ialomita",
+                "ru": "\u042f\u043b\u043e\u043c\u0438\u0446\u0430",
+                "en": "Ialomi\u021ba County",
+                "de": "Kreis Ialomi\u021ba",
+                "es": "Ialomi\u021ba",
+                "fr": "Jude\u021b de Ialomi\u021ba",
+                "it": "Distretto di Ialomi\u021ba",
+                "zh": "\u96c5\u6d1b\u7c73\u5bdf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 44.603107,
+            "lng": 27.501220099999955
+        },
+        "HD": {
+            "name": "Hunedoara County",
+            "code": "HD",
+            "names": {
+                "geonames": "Hunedoara",
+                "ru": "\u0425\u0443\u043d\u0435\u0434\u043e\u0430\u0440\u0430",
+                "en": "Hunedoara County",
+                "de": "Kreis Hunedoara",
+                "es": "Hunedoara",
+                "fr": "Jude\u021b de Hunedoara",
+                "it": "Distretto di Hunedoara",
+                "zh": "\u80e1\u5167\u591a\u963f\u62c9\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.76643,
+            "lng": 22.920679000000064
+        },
+        "HR": {
+            "name": "Harghita County",
+            "code": "HR",
+            "names": {
+                "geonames": "Harghita",
+                "ru": "\u0425\u0430\u0440\u0433\u0438\u0442\u0430",
+                "en": "Harghita County",
+                "de": "Kreis Harghita",
+                "es": "Harghita",
+                "fr": "Jude\u021b de Harghita",
+                "it": "Distretto di Harghita",
+                "zh": "\u54c8\u723e\u5409\u5854\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "GJ": {
+            "name": "Gorj County",
+            "code": "GJ",
+            "names": {
+                "geonames": "Gorj",
+                "ru": "\u0413\u043e\u0440\u0436",
+                "en": "Gorj County",
+                "de": "Kreis Gorj",
+                "es": "Gorj",
+                "fr": "Jude\u021b de Gorj",
+                "it": "Distretto di Gorj",
+                "zh": "\u6208\u723e\u65e5\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.0194278,
+            "lng": 23.524904300000003
+        },
+        "GR": {
+            "name": "Giurgiu County",
+            "code": "GR",
+            "names": {
+                "geonames": "Giurgiu",
+                "ru": "\u0414\u0436\u0443\u0440\u0434\u0436\u0443",
+                "en": "Giurgiu County",
+                "de": "Kreis Giurgiu",
+                "es": "Giurgiu",
+                "fr": "Jude\u021b de Giurgiu",
+                "it": "Distretto di Giurgiu",
+                "zh": "\u4e45\u723e\u4e45\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 43.900408,
+            "lng": 25.97166100000004
+        },
+        "GL": {
+            "name": "Gala\u021bi County",
+            "code": "GL",
+            "names": {
+                "geonames": "Galati",
+                "ru": "\u0413\u0430\u043b\u0430\u0446",
+                "en": "Gala\u021bi County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u063a\u0627\u0644\u0627\u062a\u0633",
+                "de": "Kreis Gala\u021bi",
+                "es": "Gala\u021bi",
+                "fr": "Jude\u021b de Gala\u021bi",
+                "it": "Distretto di Gala\u021bi",
+                "zh": "\u52a0\u62c9\u8328\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.42572,
+            "lng": 28.031044000000065
+        },
+        "DJ": {
+            "name": "Dolj County",
+            "code": "DJ",
+            "names": {
+                "geonames": "Dolj",
+                "ru": "\u0414\u043e\u043b\u0436",
+                "en": "Dolj County",
+                "de": "Kreis Dolj",
+                "es": "Dolj",
+                "fr": "Jude\u021b de Dolj",
+                "it": "Distretto di Dolj",
+                "zh": "\u591a\u723e\u65e5\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 44.1623022,
+            "lng": 23.632505400000014
+        },
+        "DB": {
+            "name": "D\u00e2mbovi\u021ba County",
+            "code": "DB",
+            "names": {
+                "geonames": "Dambovita",
+                "ru": "\u0414\u044b\u043c\u0431\u043e\u0432\u0438\u0446\u0430",
+                "en": "D\u00e2mbovi\u021ba County",
+                "de": "Kreis D\u00e2mbovi\u021ba",
+                "es": "D\u00e2mbovi\u021ba",
+                "fr": "Jude\u021b de D\u00e2mbovi\u021ba",
+                "it": "Distretto di D\u00e2mbovi\u021ba",
+                "zh": "\u767b\u535a\u7dad\u5bdf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "CV": {
+            "name": "Covasna County",
+            "code": "CV",
+            "names": {
+                "geonames": "Covasna",
+                "ru": "\u041a\u043e\u0432\u0430\u0441\u043d\u0430",
+                "en": "Covasna County",
+                "de": "Kreis Covasna",
+                "es": "Covasna",
+                "fr": "Jude\u021b de Covasna",
+                "it": "Distretto di Covasna",
+                "zh": "\u79d1\u74e6\u65af\u7d0d\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.8517,
+            "lng": 26.18291099999999
+        },
+        "CT": {
+            "name": "Constan\u021ba County",
+            "code": "CT",
+            "names": {
+                "geonames": "Constanta",
+                "ru": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430",
+                "en": "Constan\u021ba County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0643\u0648\u0646\u0633\u062a\u0627\u0646\u062a\u0633\u0627",
+                "de": "Kreis Constan\u021ba",
+                "es": "Constan\u021ba",
+                "fr": "Jude\u021b de Constan\u021ba",
+                "it": "Distretto di Costanza",
+                "zh": "\u5eb7\u65af\u5766\u5bdf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 44.1733333,
+            "lng": 28.6383333
+        },
+        "CJ": {
+            "name": "Cluj County",
+            "code": "CJ",
+            "names": {
+                "geonames": "Cluj",
+                "ru": "\u041a\u043b\u0443\u0436",
+                "en": "Cluj County",
+                "de": "Kreis Cluj",
+                "es": "Cluj",
+                "fr": "Jude\u021b de Cluj",
+                "it": "Distretto di Cluj",
+                "zh": "\u514b\u9b6f\u65e5\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.777248,
+            "lng": 23.59988999999996
+        },
+        "CS": {
+            "name": "Cara\u0219-Severin County",
+            "code": "CS",
+            "names": {
+                "geonames": "Caras-Severin",
+                "ru": "\u041a\u0430\u0440\u0430\u0448-\u0421\u0435\u0432\u0435\u0440\u0438\u043d",
+                "en": "Cara\u0219-Severin County",
+                "de": "Kreis Cara\u0219-Severin",
+                "es": "Cara\u0219-Severin",
+                "fr": "Jude\u021b de Cara\u0219-Severin",
+                "it": "Distretto di Cara\u0219-Severin",
+                "zh": "\u5361\u62c9\u4ec0-\u585e\u7dad\u6797\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.3240806,
+            "lng": 21.878447499999993
+        },
+        "CL": {
+            "name": "C\u0103l\u0103ra\u0219i County",
+            "code": "CL",
+            "names": {
+                "geonames": "Calarasi",
+                "ru": "\u041a\u044d\u043b\u044d\u0440\u0430\u0448\u0438",
+                "de": "Kreis C\u0103l\u0103ra\u0219i",
+                "en": "C\u0103l\u0103ra\u0219i County",
+                "es": "C\u0103l\u0103ra\u0219i",
+                "fr": "Jude\u021b de C\u0103l\u0103ra\u0219i",
+                "it": "Distretto di C\u0103l\u0103ra\u0219i",
+                "zh": "\u514b\u52d2\u62c9\u5e0c\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 44.202016,
+            "lng": 27.330038999999942
+        },
+        "BZ": {
+            "name": "Buz\u0103u County",
+            "code": "BZ",
+            "names": {
+                "geonames": "Buzau",
+                "ru": "\u0411\u0443\u0437\u044d\u0443",
+                "en": "Buz\u0103u County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u0632\u0627\u0648",
+                "de": "Kreis Buz\u0103u",
+                "es": "Buz\u0103u",
+                "fr": "Jude\u021b de Buz\u0103u",
+                "it": "Distretto di Buz\u0103u",
+                "zh": "\u5e03\u6fa4\u70cf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.14806,
+            "lng": 26.823339000000033
+        },
+        "B": {
+            "name": "Bucharest",
+            "code": "B",
+            "names": {
+                "geonames": "Bucuresti",
+                "ru": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+                "en": "Bucharest",
+                "ar": "\u0628\u0648\u062e\u0627\u0631\u0633\u062a",
+                "de": "Bukarest",
+                "es": "Bucarest",
+                "fr": "Bucarest",
+                "it": "Bucarest",
+                "zh": "\u5e03\u52a0\u52d2\u65af\u7279"
+            },
+            "division": "municipality",
+            "parent": "RO",
+            "lat": 44.437711,
+            "lng": 26.097366999999963
+        },
+        "BV": {
+            "name": "Bra\u0219ov County",
+            "code": "BV",
+            "names": {
+                "geonames": "Brasov",
+                "ru": "\u0411\u0440\u0430\u0448\u043e\u0432",
+                "en": "Bra\u0219ov County",
+                "de": "Kreis Bra\u0219ov",
+                "es": "Bra\u0219ov",
+                "fr": "Jude\u021b de Bra\u0219ov",
+                "it": "Distretto di Bra\u0219ov",
+                "zh": "\u5e03\u62c9\u7d22\u592b\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.655651,
+            "lng": 25.61080000000004
+        },
+        "BR": {
+            "name": "Br\u0103ila County",
+            "code": "BR",
+            "names": {
+                "geonames": "Braila",
+                "ru": "\u0411\u0440\u044d\u0438\u043b\u0430",
+                "en": "Br\u0103ila County",
+                "de": "Kreis Br\u0103ila",
+                "es": "Br\u0103ila",
+                "fr": "Jude\u021b de Br\u0103ila",
+                "it": "Distretto di Br\u0103ila",
+                "zh": "\u5e03\u52d2\u4f0a\u62c9\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 45.2691944,
+            "lng": 27.957472199999984
+        },
+        "BT": {
+            "name": "Boto\u0219ani County",
+            "code": "BT",
+            "names": {
+                "geonames": "Botosani",
+                "ru": "\u0411\u043e\u0442\u043e\u0448\u0430\u043d\u0438",
+                "en": "Boto\u0219ani County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u062a\u0648\u0634\u0627\u0646",
+                "de": "Kreis Boto\u0219ani",
+                "es": "Boto\u0219ani",
+                "fr": "Jude\u021b de Boto\u0219ani",
+                "it": "Distretto di Boto\u0219ani",
+                "zh": "\u535a\u6258\u6c99\u5c3c\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 47.746231,
+            "lng": 26.666809000000057
+        },
+        "BN": {
+            "name": "Bistri\u021ba-N\u0103s\u0103ud County",
+            "code": "BN",
+            "names": {
+                "geonames": "Bistrita-Nasaud",
+                "ru": "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430-\u041d\u044d\u0441\u044d\u0443\u0434",
+                "en": "Bistri\u021ba-N\u0103s\u0103ud County",
+                "de": "Kreis Bistri\u021ba-N\u0103s\u0103ud",
+                "es": "Bistri\u021ba-N\u0103s\u0103ud",
+                "fr": "Jude\u021b de Bistri\u021ba-N\u0103s\u0103ud",
+                "it": "Distretto di Bistri\u021ba-N\u0103s\u0103ud",
+                "zh": "\u6bd4\u65af\u7279\u91cc\u5bdf-\u8a25\u745f\u70cf\u5fb7\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 47.2664094,
+            "lng": 24.371108999999933
+        },
+        "BH": {
+            "name": "Bihor County",
+            "code": "BH",
+            "names": {
+                "geonames": "Bihor",
+                "ru": "\u0411\u0438\u0445\u043e\u0440",
+                "en": "Bihor County",
+                "de": "Kreis Bihor",
+                "es": "Bihor",
+                "fr": "Jude\u021b de Bihor",
+                "it": "Distretto di Bihor",
+                "zh": "\u6bd4\u970d\u723e\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "BC": {
+            "name": "Bac\u0103u County",
+            "code": "BC",
+            "names": {
+                "geonames": "Bacau",
+                "ru": "\u0411\u0430\u043a\u044d\u0443",
+                "en": "Bac\u0103u County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0628\u0627\u0643\u0627\u0648",
+                "de": "Kreis Bac\u0103u",
+                "es": "Bac\u0103u",
+                "fr": "Jude\u021b de Bac\u0103u",
+                "it": "Distretto di Bac\u0103u",
+                "zh": "\u5df4\u514b\u70cf\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.571289,
+            "lng": 26.925170999999978
+        },
+        "AG": {
+            "name": "Arge\u0219 County",
+            "code": "AG",
+            "names": {
+                "geonames": "Arges",
+                "ru": "\u0410\u0440\u0434\u0436\u0435\u0448",
+                "en": "Arge\u0219 County",
+                "de": "Kreis Arge\u0219",
+                "es": "Arge\u0219",
+                "fr": "Jude\u021b d'Arge\u0219",
+                "it": "Distretto di Arge\u0219",
+                "zh": "\u963f\u723e\u5091\u4ec0\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        },
+        "AR": {
+            "name": "Arad County",
+            "code": "AR",
+            "names": {
+                "geonames": "Arad",
+                "ru": "\u0410\u0440\u0430\u0434",
+                "en": "Arad County",
+                "de": "Kreis Arad",
+                "es": "Arad",
+                "fr": "Jude\u021b d'Arad",
+                "it": "Distretto di Arad",
+                "zh": "\u963f\u62c9\u5fb7\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.1666667,
+            "lng": 21.31666670000004
+        },
+        "AB": {
+            "name": "Alba County",
+            "code": "AB",
+            "names": {
+                "geonames": "Alba",
+                "ru": "\u0410\u043b\u0431\u0430",
+                "en": "Alba County",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0623\u0644\u0628\u0627",
+                "de": "Kreis Alba",
+                "es": "Alba",
+                "fr": "Jude\u021b d'Alba",
+                "it": "Distretto di Alba",
+                "zh": "\u963f\u723e\u5df4\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": 46.1558924,
+            "lng": 23.555612099999962
+        },
+        "IF": {
+            "name": "Ilfov County",
+            "code": "IF",
+            "names": {
+                "geonames": "Ilfov",
+                "ru": "\u0418\u043b\u0444\u043e\u0432",
+                "en": "Ilfov County",
+                "de": "Kreis Ilfov",
+                "es": "Ilfov",
+                "fr": "Jude\u021b d'Ilfov",
+                "it": "Distretto di Ilfov",
+                "zh": "\u4f0a\u723e\u798f\u592b\u7e23"
+            },
+            "division": "department",
+            "parent": "RO",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "alpha-2": "BB",
+    "alpha-3": "BRB",
+    "numeric": 52,
+    "capital": "Bridgetown",
+    "currency": "BBD",
+    "names": {
+        "geonames": "Barbados",
+        "en": "Barbados",
+        "ar": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
+        "de": "Barbados",
+        "es": "Barbados",
+        "fr": "Barbade",
+        "it": "Barbados",
+        "ru": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+        "zh": "\u5df4\u5df4\u591a\u65af",
+        "he": "\u05d1\u05e8\u05d1\u05d3\u05d5\u05e1",
+        "hi": "\u092c\u093e\u0930\u092c\u093e\u0921\u094b\u0938",
+        "ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
+        "pt": "Barbados"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": {
+        "11": {
+            "name": "Saint Thomas, Barbados",
+            "code": "11",
+            "names": {
+                "geonames": "Saint Thomas",
+                "ru": "\u0421\u0435\u043d\u0442 \u0422\u043e\u043c\u0430\u0441",
+                "en": "Saint Thomas",
+                "es": "Parroquia de Saint Thomas",
+                "fr": "Saint Thomas",
+                "it": "Saint Thomas",
+                "zh": "\u8056\u6258\u99ac\u65af\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.185877,
+            "lng": -59.612885000000006
+        },
+        "10": {
+            "name": "Saint Philip",
+            "code": "10",
+            "names": {
+                "geonames": "Saint Philip",
+                "ru": "\u0421\u0435\u043d\u0442 \u0424\u0438\u043b\u0438\u043f\u043f",
+                "en": "Saint Philip"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1170007,
+            "lng": -59.47554450000001
+        },
+        "09": {
+            "name": "Saint Peter",
+            "code": "09",
+            "names": {
+                "geonames": "Saint Peter",
+                "ru": "\u0421\u0435\u043d\u0442 \u041f\u0438\u0442\u0435\u0440",
+                "en": "Saint Peter"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2510364,
+            "lng": -59.6437669
+        },
+        "08": {
+            "name": "Saint Michael, Barbados",
+            "code": "08",
+            "names": {
+                "geonames": "Saint Michael",
+                "ru": "\u0421\u0435\u043d\u0442 \u041c\u0438\u0448\u0435\u043b\u044c",
+                "en": "Saint Michael",
+                "ar": "\u0633\u0627\u0646\u062a \u0645\u0627\u064a\u0643\u0644",
+                "de": "Saint Michael",
+                "es": "Parroquia de Saint Michael",
+                "fr": "Saint Michael",
+                "it": "Saint Michael",
+                "zh": "\u8056\u9081\u514b\u723e\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.0975883,
+            "lng": -59.61217579999999
+        },
+        "07": {
+            "name": "Saint Lucy, Barbados",
+            "code": "07",
+            "names": {
+                "geonames": "Saint Lucy",
+                "ru": "\u0421\u0435\u043d\u0442 \u041b\u044e\u0447\u0438",
+                "en": "Saint Lucy",
+                "de": "Saint Lucy",
+                "es": "Parroquia de Saint Lucy",
+                "fr": "Saint Lucy",
+                "it": "Saint Lucy",
+                "zh": "\u8056\u9732"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2923044,
+            "lng": -59.62329629999999
+        },
+        "06": {
+            "name": "Saint Joseph, Barbados",
+            "code": "06",
+            "names": {
+                "geonames": "Saint Joseph",
+                "ru": "\u0421\u0435\u043d\u0442 \u0414\u0436\u043e\u0437\u0435\u0444",
+                "en": "Saint Joseph",
+                "es": "Parroquia de Saint Joseph",
+                "fr": "Saint Joseph",
+                "it": "Saint Joseph",
+                "zh": "\u8056\u7d04\u745f\u592b\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.2014732,
+            "lng": -59.539123200000006
+        },
+        "05": {
+            "name": "Saint John",
+            "code": "05",
+            "names": {
+                "geonames": "Saint John",
+                "ru": "\u0421\u0435\u043d\u0442 \u0414\u0436\u043e\u043d",
+                "en": "Saint John"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1848385,
+            "lng": -59.498380399999974
+        },
+        "04": {
+            "name": "Saint James, Barbados",
+            "code": "04",
+            "names": {
+                "geonames": "Saint James",
+                "ru": "\u0421\u0435\u043d\u0442 \u0414\u0436\u0435\u0439\u043c\u0441",
+                "en": "Saint James",
+                "es": "Parroquia de Saint James",
+                "fr": "Saint James",
+                "it": "Saint James",
+                "zh": "\u8056\u8a79\u59c6\u65af\u6559\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.1461643,
+            "lng": -59.637168599999995
+        },
+        "03": {
+            "name": "Saint George",
+            "code": "03",
+            "names": {
+                "geonames": "Saint George",
+                "ru": "\u0421\u0435\u043d\u0442 \u0414\u0436\u043e\u0440\u0434\u0436",
+                "en": "Saint George"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.130602,
+            "lng": -59.5639175
+        },
+        "02": {
+            "name": "Saint Andrew, Barbados",
+            "code": "02",
+            "names": {
+                "geonames": "Saint Andrew",
+                "ru": "\u0421\u0435\u043d\u0442 \u042d\u043d\u0434\u0440\u044e",
+                "en": "Saint Andrew",
+                "es": "Saint Andrew",
+                "fr": "Saint Andrew",
+                "it": "Saint Andrew",
+                "zh": "\u8056\u5b89\u5fb7\u9b6f\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        "01": {
+            "name": "Christ Church, Barbados",
+            "code": "01",
+            "names": {
+                "geonames": "Christ Church",
+                "ru": "\u041a\u0440\u0430\u0439\u0441\u0442 \u0427\u0451\u0440\u0447",
+                "en": "Christ Church",
+                "es": "Parroquia de Christ Church",
+                "fr": "Christ Church",
+                "it": "Christ Church",
+                "zh": "\u57fa\u7763\u57ce\u6559\u5340"
+            },
+            "division": "parish",
+            "parent": "BB",
+            "lat": 13.0653071,
+            "lng": -59.53826090000001
+        }
+    }
+}

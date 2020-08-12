@@ -1,0 +1,189 @@
+{
+    "alpha-2": "GA",
+    "alpha-3": "GAB",
+    "numeric": 266,
+    "capital": "Libreville",
+    "currency": "XAF",
+    "names": {
+        "geonames": "Gabon",
+        "en": "Gabon",
+        "ar": "\u0627\u0644\u063a\u0627\u0628\u0648\u0646",
+        "de": "Gabun",
+        "es": "Gab\u00f3n",
+        "fr": "Gabon",
+        "it": "Gabon",
+        "ru": "\u0413\u0430\u0431\u043e\u043d",
+        "zh": "\u52a0\u84ec",
+        "he": "\u05d2\u05d1\u05d5\u05df",
+        "hi": "\u0917\u092c\u094b\u0928",
+        "ja": "\u30ac\u30dc\u30f3",
+        "pt": "Gab\u00e3o"
+    },
+    "languages": [
+        "fr"
+    ],
+    "ISO3166-2": {
+        "9": {
+            "name": "Woleu-Ntem Province",
+            "code": "9",
+            "names": {
+                "geonames": "Woleu-Ntem",
+                "ru": "\u0412\u043e\u043b\u0451-\u041d\u0442\u0435\u043c",
+                "en": "Woleu-Ntem Province",
+                "de": "Woleu-Ntem",
+                "es": "Provincia de Woleu-Ntem",
+                "fr": "Woleu-Ntem",
+                "it": "Woleu-Ntem",
+                "zh": "\u6c83\u52d2-\u6069\u7279\u59c6\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": 2.2989827,
+            "lng": 11.446691399999963
+        },
+        "8": {
+            "name": "Ogoou\u00e9-Maritime Province",
+            "code": "8",
+            "names": {
+                "geonames": "Ogooue-Maritime",
+                "ru": "\u041e\u0433\u043e\u0432\u0435-\u041c\u0430\u0440\u0438\u0442\u0438\u043c",
+                "en": "Ogoou\u00e9-Maritime Province",
+                "de": "Ogoou\u00e9-Maritime",
+                "es": "Provincia de Ogoou\u00e9-Maritime",
+                "fr": "Ogoou\u00e9-Maritime",
+                "it": "Provincia di Ogoou\u00e9-Maritime",
+                "zh": "\u6ff1\u6d77\u5967\u679c\u97cb\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "7": {
+            "name": "Ogoou\u00e9-Lolo Province",
+            "code": "7",
+            "names": {
+                "geonames": "Ogooue-Lolo",
+                "ru": "\u041e\u0433\u043e\u0432\u0435-\u041b\u043e\u043b\u043e",
+                "en": "Ogoou\u00e9-Lolo Province",
+                "de": "Ogoou\u00e9-Lolo",
+                "es": "Provincia de Ogoou\u00e9-Lolo",
+                "fr": "Ogoou\u00e9-Lolo",
+                "it": "Ogoou\u00e9-Lolo",
+                "zh": "\u5967\u679c\u97cb-\u6d1b\u6d1b\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "6": {
+            "name": "Ogoou\u00e9-Ivindo Province",
+            "code": "6",
+            "names": {
+                "geonames": "Ogooue-Ivindo",
+                "ru": "\u041e\u0433\u043e\u0432\u0435-\u0418\u0432\u0438\u043d\u0434\u043e",
+                "en": "Ogoou\u00e9-Ivindo Province",
+                "de": "Ogoou\u00e9-Ivindo",
+                "es": "Provincia de Ogoou\u00e9-Ivindo",
+                "fr": "Ogoou\u00e9-Ivindo",
+                "it": "Ogoou\u00e9-Ivindo",
+                "zh": "\u5967\u679c\u97cb-\u4f0a\u6eab\u591a\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "5": {
+            "name": "Nyanga Province",
+            "code": "5",
+            "names": {
+                "geonames": "Nyanga",
+                "ru": "\u041d\u044c\u044f\u043d\u0433\u0430",
+                "en": "Nyanga Province",
+                "de": "Nyanga",
+                "es": "Provincia de Nyanga",
+                "fr": "Nyanga",
+                "it": "Provincia di Nyanga",
+                "zh": "\u5c3c\u63da\u52a0\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": -2.983333,
+            "lng": 10.28333299999997
+        },
+        "4": {
+            "name": "Ngouni\u00e9 Province",
+            "code": "4",
+            "names": {
+                "geonames": "Ngouni",
+                "ru": "\u041d\u0433\u0443\u043d\u0438",
+                "en": "Ngouni\u00e9 Province",
+                "de": "Ngouni\u00e9",
+                "es": "Provincia de Ngouni\u00e9",
+                "fr": "Ngouni\u00e9",
+                "it": "Provincia di Ngouni\u00e9",
+                "zh": "\u6069\u53e4\u6d85\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "3": {
+            "name": "Moyen-Ogoou\u00e9 Province",
+            "code": "3",
+            "names": {
+                "geonames": "Moyen-Ogooue",
+                "ru": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435 \u041e\u0433\u043e\u0432\u0435",
+                "en": "Moyen-Ogoou\u00e9 Province",
+                "de": "Moyen-Ogoou\u00e9",
+                "es": "Provincia de Moyen-Ogoou\u00e9",
+                "fr": "Moyen-Ogoou\u00e9",
+                "it": "Moyen-Ogoou\u00e9",
+                "zh": "\u4e2d\u5967\u679c\u97cb\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "2": {
+            "name": "Haut-Ogoou\u00e9 Province",
+            "code": "2",
+            "names": {
+                "geonames": "Haut-Ogooue",
+                "ru": "\u0412\u0435\u0440\u0445\u043d\u0435\u0435 \u041e\u0433\u043e\u0432\u0435",
+                "en": "Haut-Ogoou\u00e9 Province",
+                "de": "Haut-Ogoou\u00e9",
+                "es": "Provincia de Haut-Ogoou\u00e9",
+                "fr": "Haut-Ogoou\u00e9",
+                "it": "Haut-Ogoou\u00e9",
+                "zh": "\u4e0a\u5965\u679c\u97e6\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        },
+        "1": {
+            "name": "Estuaire Province",
+            "code": "1",
+            "names": {
+                "geonames": "Estuaire",
+                "ru": "\u042d\u0441\u0442\u0443\u0430\u0440\u0438\u0439",
+                "en": "Estuaire Province",
+                "de": "Estuaire",
+                "es": "Provincia de Estuaire",
+                "fr": "Estuaire",
+                "it": "Estuaire",
+                "zh": "\u6cb3\u53e3\u7701"
+            },
+            "division": "province",
+            "parent": "GA",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

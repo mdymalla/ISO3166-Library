@@ -1,0 +1,698 @@
+{
+    "alpha-2": "MD",
+    "alpha-3": "MDA",
+    "numeric": 498,
+    "capital": "Chi\u0219in\u0103u",
+    "currency": "MDL",
+    "names": {
+        "geonames": "Moldova",
+        "en": "Moldova",
+        "ar": "\u0645\u0648\u0644\u062f\u0648\u0641\u0627",
+        "de": "Republik Moldau",
+        "es": "Moldavia",
+        "fr": "Moldavie",
+        "it": "Moldavia",
+        "ru": "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f",
+        "zh": "\u6469\u5c14\u591a\u74e6",
+        "he": "\u05de\u05d5\u05dc\u05d3\u05d5\u05d1\u05d4",
+        "hi": "\u092e\u0949\u0932\u094d\u0921\u094b\u0935\u093e",
+        "ja": "\u30e2\u30eb\u30c9\u30d0",
+        "pt": "Mold\u00e1via"
+    },
+    "languages": [
+        "ro"
+    ],
+    "ISO3166-2": {
+        "ED": {
+            "name": "Edine\u021b County",
+            "code": "ED",
+            "names": {
+                "geonames": "Raionul Edinet",
+                "ru": "\u0415\u0434\u0438\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Edine\u021b County",
+                "de": "Rajon Edine\u021b",
+                "es": "Distrito de Edine\u021b",
+                "fr": "Raion d'Edine\u021b",
+                "it": "Distretto di Edine\u021b",
+                "zh": "\u57c3\u8fea\u5167\u8328\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.1666667,
+            "lng": 27.31666670000004
+        },
+        "UN": {
+            "name": "Ungheni District",
+            "code": "UN",
+            "names": {
+                "geonames": "Ungheni",
+                "ru": "\u0423\u043d\u0433\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Ungheni District",
+                "de": "Rajon Ungheni",
+                "es": "Distrito de Ungheni",
+                "fr": "Raion d'Ungheni",
+                "it": "Distretto di Ungheni",
+                "zh": "\u6eab\u683c\u5167\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.2166667,
+            "lng": 27.81666670000004
+        },
+        "TE": {
+            "name": "Telene\u0219ti District",
+            "code": "TE",
+            "names": {
+                "geonames": "Telenesti",
+                "ru": "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Telene\u0219ti District",
+                "de": "Rajon Telene\u0219ti",
+                "es": "Distrito de Telene\u0219ti",
+                "fr": "Raion de Telene\u0219ti",
+                "it": "Distretto di Telene\u0219ti",
+                "zh": "\u6cf0\u840a\u5167\u4ec0\u8482\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.5027778,
+            "lng": 28.366666699999996
+        },
+        "TA": {
+            "name": "Taraclia District",
+            "code": "TA",
+            "names": {
+                "geonames": "Taraclia",
+                "ru": "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Taraclia District",
+                "de": "Rajon Taraclia",
+                "es": "Distrito de Taraclia",
+                "fr": "Raion de Taraclia",
+                "it": "Distretto di Taraclia",
+                "zh": "\u5854\u62c9\u514b\u5229\u4e9e\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 45.9,
+            "lng": 28.668888899999956
+        },
+        "SV": {
+            "name": "\u0218tefan Vod\u0103 District",
+            "code": "SV",
+            "names": {
+                "geonames": "Stefan-Voda",
+                "ru": "\u0428\u0442\u0435\u0444\u0430\u043d-\u0412\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "\u0218tefan Vod\u0103 District",
+                "de": "Rajon \u0218tefan Vod\u0103",
+                "es": "Distrito de \u0218tefan Vod\u0103",
+                "fr": "Raion de \u0218tefan Vod\u0103",
+                "it": "Distretto di \u0218tefan Vod\u0103",
+                "zh": "\u65af\u7279\u51e1\u5927\u516c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.5153404,
+            "lng": 29.662445899999966
+        },
+        "ST": {
+            "name": "Str\u0103\u0219eni District",
+            "code": "ST",
+            "names": {
+                "geonames": "Straseni",
+                "ru": "\u0421\u0442\u0440\u0430\u0448\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Str\u0103\u0219eni District",
+                "de": "Rajon Str\u0103\u0219eni",
+                "es": "Distrito de Str\u0103\u0219eni",
+                "fr": "Raion de Str\u0103\u0219eni",
+                "it": "Distretto di Str\u0103\u0219eni",
+                "zh": "\u65af\u7279\u52d2\u8b1d\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.14204,
+            "lng": 28.618370000000027
+        },
+        "SO": {
+            "name": "Soroca District",
+            "code": "SO",
+            "names": {
+                "geonames": "Raionul Soroca",
+                "ru": "\u0421\u043e\u0440\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Soroca District",
+                "de": "Rajon Soroca",
+                "es": "Distrito de Soroca",
+                "fr": "Raion de Soroca",
+                "it": "Distretto di Soroca",
+                "zh": "\u7d22\u7f85\u5361\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.1666667,
+            "lng": 28.299999999999955
+        },
+        "RI": {
+            "name": "R\u00ee\u0219cani District",
+            "code": "RI",
+            "names": {
+                "geonames": "Riscani",
+                "ru": "\u0420\u044b\u0448\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "R\u00ee\u0219cani District",
+                "de": "Rajon R\u00ee\u0219cani",
+                "es": "Distrito de R\u00ee\u0219cani",
+                "fr": "Raion de R\u00ee\u0219cani",
+                "it": "Distretto di R\u00ee\u0219cani",
+                "zh": "\u96f7\u4ec0\u5361\u5167\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.950001,
+            "lng": 27.56628999999998
+        },
+        "RE": {
+            "name": "Rezina District",
+            "code": "RE",
+            "names": {
+                "geonames": "Rezina",
+                "ru": "\u0420\u0435\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Rezina District",
+                "de": "Rajon Rezina",
+                "es": "Distrito de Rezina",
+                "fr": "Raion de Rezina",
+                "it": "Distretto di Rezina",
+                "zh": "\u96f7\u6fdf\u7d0d\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.741718,
+            "lng": 28.963381000000027
+        },
+        "OR": {
+            "name": "Orhei District",
+            "code": "OR",
+            "names": {
+                "geonames": "Orhei",
+                "ru": "\u041e\u0440\u0433\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Orhei District",
+                "de": "Rajon Orhei",
+                "es": "Distrito de Orhei",
+                "fr": "Raion d'Orhei",
+                "it": "Distretto di Orhei",
+                "zh": "\u5967\u723e\u6d77\u4f0a\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.3833333,
+            "lng": 28.81666670000004
+        },
+        "OC": {
+            "name": "Ocni\u021ba District",
+            "code": "OC",
+            "names": {
+                "geonames": "Raionul Ocnita",
+                "ru": "\u041e\u043a\u043d\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Ocni\u021ba District",
+                "de": "Rajon Ocni\u021ba",
+                "es": "Distrito de Ocni\u0163a",
+                "fr": "Raion d'Ocni\u021ba",
+                "it": "Distretto di Ocni\u021ba",
+                "zh": "\u5967\u514b\u5c3c\u5bdf\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.41243,
+            "lng": 27.493052000000034
+        },
+        "AN": {
+            "name": "Anenii Noi District",
+            "code": "AN",
+            "names": {
+                "geonames": "Anenii Noi",
+                "ru": "\u041d\u043e\u0432\u043e\u0430\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Anenii Noi District",
+                "de": "Rajon Anenii Noi",
+                "es": "Distrito de Anenii Noi",
+                "fr": "Raion d'Anenii Noi",
+                "it": "Distretto di Anenii Noi",
+                "zh": "\u65b0\u963f\u5167\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.8833333,
+            "lng": 29.21666670000002
+        },
+        "NI": {
+            "name": "Nisporeni District",
+            "code": "NI",
+            "names": {
+                "geonames": "Nisporeni",
+                "ru": "\u041d\u0438\u0441\u043f\u043e\u0440\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Nisporeni District",
+                "de": "Rajon Nisporeni",
+                "es": "Distrito de Nisporeni",
+                "fr": "Raion de Nisporeni",
+                "it": "Distretto di Nisporeni",
+                "zh": "\u5c3c\u65af\u6ce2\u96f7\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.0833333,
+            "lng": 28.18333329999996
+        },
+        "LE": {
+            "name": "Leova District",
+            "code": "LE",
+            "names": {
+                "geonames": "Leova",
+                "ru": "\u041b\u0435\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Leova District",
+                "de": "Rajon Leova",
+                "es": "Distrito de Leova",
+                "fr": "Raion de Leova",
+                "it": "Distretto di Leova",
+                "zh": "\u840a\u5967\u74e6\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.4833333,
+            "lng": 28.25
+        },
+        "SI": {
+            "name": "S\u00eengerei District",
+            "code": "SI",
+            "names": {
+                "geonames": "Singerei",
+                "ru": "\u0421\u044b\u043d\u0436\u0435\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "S\u00eengerei District",
+                "de": "Rajon S\u00eengerei",
+                "es": "Distrito de S\u00eengerei",
+                "fr": "Raion de S\u00eengerei",
+                "it": "Distretto di S\u00eengerei",
+                "zh": "\u68ee\u5091\u96f7\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.5667466,
+            "lng": 28.17816670000002
+        },
+        "CR": {
+            "name": "Criuleni District",
+            "code": "CR",
+            "names": {
+                "geonames": "Criuleni",
+                "ru": "\u041a\u0440\u0438\u0443\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Criuleni District",
+                "de": "Rajon Criuleni",
+                "es": "Distrito de Criuleni",
+                "fr": "Raion de Criuleni",
+                "it": "Distretto di Criuleni",
+                "zh": "\u514b\u7559\u840a\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.205249,
+            "lng": 29.158379999999966
+        },
+        "IA": {
+            "name": "Ialoveni District",
+            "code": "IA",
+            "names": {
+                "geonames": "Ialoveni",
+                "ru": "\u042f\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Ialoveni District",
+                "de": "Rajon Ialoveni",
+                "es": "Distrito de Ialoveni",
+                "fr": "Raion de Ialoveni",
+                "it": "Distretto di Ialoveni",
+                "zh": "\u4e9e\u6d1b\u97cb\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.95,
+            "lng": 28.78333329999998
+        },
+        "CU": {
+            "name": "Chi\u0219in\u0103u",
+            "code": "CU",
+            "names": {
+                "geonames": "Chisinau Municipality",
+                "ru": "\u041a\u0438\u0448\u0438\u043d\u0451\u0432",
+                "en": "Chi\u0219in\u0103u",
+                "ar": "\u0643\u064a\u0634\u064a\u0646\u0627\u0648",
+                "de": "Chi\u0219in\u0103u",
+                "es": "Chisin\u00e1u",
+                "fr": "Chi\u0219in\u0103u",
+                "it": "Chi\u0219in\u0103u",
+                "zh": "\u57fa\u5e0c\u8bb7\u4e4c"
+            },
+            "division": "city",
+            "parent": "MD",
+            "lat": 47.0392872,
+            "lng": 28.864200600000004
+        },
+        "CS": {
+            "name": "C\u0103u\u0219eni District",
+            "code": "CS",
+            "names": {
+                "geonames": "Causeni",
+                "ru": "\u041a\u0430\u0443\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "C\u0103u\u0219eni District",
+                "de": "Rajon C\u0103u\u0219eni",
+                "es": "Distrito de C\u0103u\u0219eni",
+                "fr": "Raion de C\u0103u\u0219eni",
+                "it": "Distretto di C\u0103u\u0219eni",
+                "zh": "\u514b\u70cf\u8b1d\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.6418,
+            "lng": 29.409419999999955
+        },
+        "CT": {
+            "name": "Cantemir District",
+            "code": "CT",
+            "names": {
+                "geonames": "Cantemir",
+                "ru": "\u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Cantemir District",
+                "de": "Rajon Cantemir",
+                "es": "Distrito de Cantemir",
+                "fr": "Raion de Cantemir",
+                "it": "Distretto di Cantemir",
+                "zh": "\u5ca1\u4ee3\u7c73\u723e\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.2771742,
+            "lng": 28.200965300000007
+        },
+        "CL": {
+            "name": "C\u0103l\u0103ra\u0219i District",
+            "code": "CL",
+            "names": {
+                "geonames": "Calarasi",
+                "ru": "\u041a\u0430\u043b\u0430\u0440\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "C\u0103l\u0103ra\u0219i District",
+                "de": "Rajon C\u0103l\u0103ra\u0219i",
+                "es": "Distrito de C\u0103l\u0103ra\u0219i",
+                "fr": "Raion de C\u0103l\u0103ra\u0219i",
+                "it": "Distretto di C\u0103l\u0103ra\u0219i",
+                "zh": "\u5361\u62c9\u62c9\u4ec0\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.261791,
+            "lng": 28.324640000000045
+        },
+        "CA": {
+            "name": "Cahul District",
+            "code": "CA",
+            "names": {
+                "geonames": "Cahul",
+                "ru": "\u041a\u0430\u0433\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Cahul District",
+                "de": "Rajon Cahul",
+                "es": "Distrito de Cahul",
+                "fr": "Raion de Cahul",
+                "it": "Distretto di Cahul",
+                "zh": "\u5361\u80e1\u723e\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 45.904579,
+            "lng": 28.19856100000004
+        },
+        "GL": {
+            "name": "Glodeni District",
+            "code": "GL",
+            "names": {
+                "geonames": "Glodeni",
+                "ru": "\u0413\u043b\u043e\u0434\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Glodeni District",
+                "de": "Rajon Glodeni",
+                "es": "Distrito de Glodeni",
+                "fr": "Raion de Glodeni",
+                "it": "Distretto di Glodeni",
+                "zh": "\u683c\u6d1b\u4ee3\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.7666667,
+            "lng": 27.516666699999973
+        },
+        "FL": {
+            "name": "Flore\u0219ti District",
+            "code": "FL",
+            "names": {
+                "geonames": "Floresti",
+                "ru": "\u0424\u043b\u043e\u0440\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Flore\u0219ti District",
+                "de": "Rajon Flore\u0219ti",
+                "es": "Distrito de Flore\u0219ti",
+                "fr": "Raion de Flore\u0219ti",
+                "it": "Distretto di Flore\u0219ti",
+                "zh": "\u5f17\u6d1b\u96f7\u4ec0\u8482\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.8933333,
+            "lng": 28.301388900000006
+        },
+        "FA": {
+            "name": "F\u0103le\u0219ti District",
+            "code": "FA",
+            "names": {
+                "geonames": "Falesti",
+                "ru": "\u0424\u0430\u043b\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "F\u0103le\u0219ti District",
+                "de": "Rajon F\u0103le\u0219ti",
+                "es": "Distrito de F\u0103le\u0219ti",
+                "fr": "Raion de Fale\u0219ti",
+                "it": "Distretto di F\u0103le\u0219ti",
+                "zh": "\u5f17\u840a\u4ec0\u8482\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.57621,
+            "lng": 27.71853999999996
+        },
+        "DU": {
+            "name": "Dub\u0103sari District",
+            "code": "DU",
+            "names": {
+                "geonames": "Dubasari",
+                "ru": "\u0414\u0443\u0431\u043e\u0441\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Dub\u0103sari District",
+                "de": "Rajon Dub\u0103sari",
+                "es": "Distrito de Dub\u0103sari",
+                "fr": "Raion de Dub\u0103sari",
+                "it": "Distretto di Dub\u0103sari",
+                "zh": "\u675c\u4f2f\u85a9\u91cc\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.266041,
+            "lng": 29.157159999999976
+        },
+        "DR": {
+            "name": "Drochia District",
+            "code": "DR",
+            "names": {
+                "geonames": "Drochia",
+                "ru": "\u0414\u0440\u043e\u043a\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Drochia District",
+                "de": "Rajon Drochia",
+                "es": "Distrito de Drochia",
+                "fr": "Raion de Drochia",
+                "it": "Distretto di Drochia",
+                "zh": "\u5fb7\u7f85\u57fa\u4e9e\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.031247,
+            "lng": 27.828722999999968
+        },
+        "DO": {
+            "name": "Dondu\u0219eni District",
+            "code": "DO",
+            "names": {
+                "geonames": "Donduseni",
+                "ru": "\u0414\u043e\u043d\u0434\u044e\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Dondu\u0219eni District",
+                "de": "Rajon Dondu\u0219eni",
+                "es": "Distrito de Dondu\u0219eni",
+                "fr": "Raion de Dondu\u0219eni",
+                "it": "Distretto di Dondu\u0219eni",
+                "zh": "\u68df\u675c\u8b1d\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.243469,
+            "lng": 27.613831000000005
+        },
+        "CM": {
+            "name": "Cimi\u0219lia District",
+            "code": "CM",
+            "names": {
+                "geonames": "Cimislia",
+                "ru": "\u0427\u0438\u043c\u0438\u0448\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Cimi\u0219lia District",
+                "de": "Rajon Cimi\u0219lia",
+                "es": "Distrito de Cimi\u0219lia",
+                "fr": "Raion de Cimi\u0219lia",
+                "it": "Distretto di Cimi\u0219lia",
+                "zh": "\u5947\u7c73\u4ec0\u5229\u4e9e\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.528858,
+            "lng": 28.78375099999994
+        },
+        "BR": {
+            "name": "Briceni District",
+            "code": "BR",
+            "names": {
+                "geonames": "Briceni",
+                "ru": "\u0411\u0440\u0438\u0447\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Briceni District",
+                "de": "Rajon Briceni",
+                "es": "Distrito de Briceni",
+                "fr": "Raion de Briceni",
+                "it": "Distretto di Briceni",
+                "zh": "\u5e03\u91cc\u5207\u5c3c\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 48.3632022,
+            "lng": 27.075039800000013
+        },
+        "BS": {
+            "name": "Basarabeasca District",
+            "code": "BS",
+            "names": {
+                "geonames": "Basarabeasca",
+                "ru": "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "Basarabeasca District",
+                "de": "Rajon Basarabeasca",
+                "es": "Distrito de Basarabeasca",
+                "fr": "Raion de Basarabeasca",
+                "it": "Distretto di Basarabeasca",
+                "zh": "\u5df4\u85a9\u62c9\u8c9d\u4e9e\u65af\u5361\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.3333333,
+            "lng": 28.96666670000002
+        },
+        "HI": {
+            "name": "H\u00eence\u0219ti District",
+            "code": "HI",
+            "names": {
+                "geonames": "Hincesti",
+                "ru": "\u0425\u044b\u043d\u0447\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "H\u00eence\u0219ti District",
+                "de": "Rajon H\u00eence\u0219ti",
+                "es": "Distrito de H\u00eence\u0219ti",
+                "fr": "Raion de H\u00eence\u0219ti",
+                "it": "Distretto di H\u00eence\u0219ti",
+                "zh": "\u4ea8\u5207\u4ec0\u8482\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 46.8166667,
+            "lng": 28.58333330000005
+        },
+        "SD": {
+            "name": "\u0218old\u0103ne\u0219ti District",
+            "code": "SD",
+            "names": {
+                "geonames": "Soldanesti",
+                "ru": "\u0428\u043e\u043b\u0434\u0430\u043d\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                "en": "\u0218old\u0103ne\u0219ti District",
+                "de": "Rajon \u0218old\u0103ne\u0219ti",
+                "es": "Distrito de \u0218old\u0103ne\u0219ti",
+                "fr": "Raion de \u0218old\u0103ne\u0219ti",
+                "it": "Distretto di \u0218old\u0103ne\u0219ti",
+                "zh": "\u7d39\u723e\u5fb7\u5167\u4ec0\u8482\u5340"
+            },
+            "division": "district",
+            "parent": "MD",
+            "lat": 47.8166667,
+            "lng": 28.799999999999955
+        },
+        "SN": {
+            "name": "Transnistria Autonomous Territorial Unit with Special Legal Status",
+            "code": "SN",
+            "names": {
+                "geonames": "Stinga Nistrului",
+                "ru": "\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u041c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "en": "Transnistria Autonomous Territorial Unit with Special Legal Status",
+                "ar": "\u062a\u0631\u0627\u0646\u0633\u0646\u064a\u0633\u062a\u0631\u064a\u0627",
+                "de": "Transnistrien",
+                "es": "Transnistria",
+                "fr": "Transnistrie",
+                "it": "Transnistria",
+                "zh": "\u5fb7\u6d85\u65af\u7279\u6cb3\u6cbf\u5cb8"
+            },
+            "division": "territorial unit",
+            "parent": "MD",
+            "lat": null,
+            "lng": null
+        },
+        "GA": {
+            "name": "Gagauzia",
+            "code": "GA",
+            "names": {
+                "geonames": "Gagauzia",
+                "ru": "\u0413\u0430\u0433\u0430\u0443\u0437\u0438\u044f",
+                "en": "Gagauzia",
+                "ar": "\u063a\u0627\u063a\u0627\u0648\u0632\u064a\u0627",
+                "de": "Gagausien",
+                "es": "Gagauzia",
+                "fr": "Gagaouzie",
+                "it": "Gagauzia",
+                "zh": "\u52a0\u544a\u8332\u81ea\u6cbb\u5340"
+            },
+            "division": "autonomous territorial unit",
+            "parent": "MD",
+            "lat": 32.1574351,
+            "lng": -82.90712300000001
+        },
+        "BD": {
+            "name": "Bender, Moldova",
+            "code": "BD",
+            "names": {
+                "geonames": "Bender Municipality",
+                "ru": "\u0411\u0435\u043d\u0434\u0435\u0440\u044b",
+                "en": "Bender",
+                "ar": "\u0628\u064a\u0646\u062f\u0631\u060c \u0645\u0648\u0644\u062f\u0648\u0641\u064a\u0627",
+                "de": "Bender",
+                "es": "Bender",
+                "fr": "Tighina",
+                "it": "Tighina",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "city",
+            "parent": "MD",
+            "lat": 46.8751254,
+            "lng": 29.2454338
+        },
+        "BA": {
+            "name": "B\u0103l\u021bi",
+            "code": "BA",
+            "names": {
+                "geonames": "Balti",
+                "ru": "\u0411\u0435\u043b\u044c\u0446\u044b",
+                "en": "B\u0103l\u021bi",
+                "ar": "\u0628\u0627\u0644\u062a\u0633\u064a",
+                "de": "B\u0103l\u021bi",
+                "es": "B\u0103l\u021bi",
+                "fr": "B\u0103l\u021bi",
+                "it": "B\u0103l\u021bi",
+                "zh": "\u4f2f\u723e\u8332"
+            },
+            "division": "city",
+            "parent": "MD",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "alpha-2": "GQ",
+    "alpha-3": "GNQ",
+    "numeric": 226,
+    "capital": "Malabo",
+    "currency": "XAF",
+    "names": {
+        "geonames": "Equatorial Guinea",
+        "en": "Equatorial Guinea",
+        "ar": "\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629",
+        "de": "\u00c4quatorialguinea",
+        "es": "Guinea Ecuatorial",
+        "fr": "Guin\u00e9e \u00e9quatoriale",
+        "it": "Guinea Equatoriale",
+        "ru": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "zh": "\u8d64\u9053\u51e0\u5185\u4e9a",
+        "he": "\u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05de\u05e9\u05d5\u05d5\u05e0\u05d9\u05ea",
+        "hi": "\u092d\u0942\u092e\u0927\u094d\u092f\u0930\u0947\u0916\u0940\u092f \u0917\u093f\u0928\u0940",
+        "ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
+        "pt": "Guin\u00e9 Equatorial"
+    },
+    "languages": [
+        "es",
+        "fr"
+    ],
+    "ISO3166-2": {
+        "AN": {
+            "name": "Annob\u00f3n Province",
+            "code": "AN",
+            "names": {
+                "geonames": "Annobon",
+                "ru": "\u0410\u043d\u043d\u043e\u0431\u043e\u043d",
+                "en": "Annob\u00f3n Province",
+                "de": "Annob\u00f3n",
+                "es": "Annob\u00f3n",
+                "fr": "Annob\u00f3n",
+                "it": "Annob\u00f3n",
+                "zh": "\u5b89\u8bfa\u672c\u5c9b"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "BN": {
+            "name": "Bioko Norte Province",
+            "code": "BN",
+            "names": {
+                "geonames": "Bioko Norte",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0438\u043e\u043a\u043e",
+                "en": "Bioko Norte Province",
+                "de": "Bioko Norte",
+                "es": "Provincia de Bioko Norte",
+                "fr": "Bioko-Norte",
+                "it": "Provincia di Bioko Nord",
+                "zh": "\u5317\u6bd4\u5965\u79d1\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "BS": {
+            "name": "Bioko Sur Province",
+            "code": "BS",
+            "names": {
+                "geonames": "Bioko Sur",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0411\u0438\u043e\u043a\u043e",
+                "en": "Bioko Sur Province",
+                "de": "Bioko Sur",
+                "es": "Provincia de Bioko Sur",
+                "fr": "Bioko-Sur",
+                "it": "Provincia di Bioko Sud",
+                "zh": "\u5357\u6bd4\u5965\u79d1\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "CS": {
+            "name": "Centro Sur Province",
+            "code": "CS",
+            "names": {
+                "geonames": "Centro Sur",
+                "ru": "\u0421\u0435\u043d\u0442\u0440\u043e-\u0421\u0443\u0440",
+                "en": "Centro Sur Province",
+                "de": "Centro Sur",
+                "es": "Provincia Centro Sur",
+                "fr": "Centro-Sur",
+                "it": "Provincia Centro Sud",
+                "zh": "\u4e2d\u5357\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "KN": {
+            "name": "Ki\u00e9-Ntem Province",
+            "code": "KN",
+            "names": {
+                "geonames": "Kie-Ntem",
+                "ru": "\u041a\u0435-\u041d\u0442\u0435\u043c",
+                "en": "Ki\u00e9-Ntem Province",
+                "de": "Ki\u00e9-Ntem",
+                "es": "Provincia Ki\u00e9-Ntem",
+                "fr": "Ki\u00e9-Ntem",
+                "it": "Provincia Ki\u00e9-Ntem",
+                "zh": "\u57fa\u57c3\u6069\u7279\u59c6\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "LI": {
+            "name": "Litoral Province",
+            "code": "LI",
+            "names": {
+                "geonames": "Litoral",
+                "ru": "\u041b\u0438\u0442\u043e\u0440\u0430\u043b",
+                "en": "Litoral Province",
+                "de": "Litoral",
+                "es": "Provincia Litoral",
+                "fr": "Litoral",
+                "it": "Provincia Litorale",
+                "zh": "\u6ee8\u6d77\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "WN": {
+            "name": "Wele-Nzas Province",
+            "code": "WN",
+            "names": {
+                "geonames": "Wele-Nzas",
+                "ru": "\u0412\u0435\u043b\u0435-\u041d\u0437\u0430\u0441",
+                "en": "Wele-Nzas Province",
+                "de": "Wele-Nzas",
+                "es": "Provincia Wele-Nzas",
+                "fr": "Wele-Nzas",
+                "it": "Provincia Wele-Nzas",
+                "zh": "\u97e6\u83b1\u6069\u8428\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "GQ",
+            "lat": null,
+            "lng": null
+        },
+        "C": {
+            "name": "Regi\u00f3n Continental",
+            "division": "province",
+            "parent": "GQ"
+        },
+        "I": {
+            "name": "Regi\u00f3n Insular",
+            "division": "province",
+            "parent": "GQ"
+        }
+    }
+}

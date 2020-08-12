@@ -1,0 +1,26 @@
+{
+    "alpha-2": "PN",
+    "alpha-3": "PCN",
+    "numeric": 612,
+    "capital": "Adamstown",
+    "currency": "NZD",
+    "names": {
+        "geonames": "Pitcairn",
+        "en": "Pitcairn Islands",
+        "ar": "\u062c\u0632\u0631 \u0628\u064a\u062a\u0643\u064a\u0631\u0646",
+        "de": "Pitcairninseln",
+        "es": "Islas Pitcairn",
+        "fr": "\u00celes Pitcairn",
+        "it": "Isole Pitcairn",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041f\u0438\u0442\u043a\u044d\u0440\u043d",
+        "zh": "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b",
+        "he": "\u05e4\u05d9\u05d8\u05e7\u05e8\u05df",
+        "hi": "\u092a\u093f\u091f\u0915\u0947\u0930\u094d\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "ja": "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6",
+        "pt": "Ilhas Pitcairn"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": null
+}

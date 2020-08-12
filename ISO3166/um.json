@@ -1,0 +1,195 @@
+{
+    "alpha-2": "UM",
+    "alpha-3": "UMI",
+    "numeric": 581,
+    "capital": "",
+    "currency": "USD",
+    "names": {
+        "geonames": "United States Minor Outlying Islands",
+        "en": "United States Minor Outlying Islands",
+        "de": "United States Minor Outlying Islands",
+        "es": "Islas Ultramarinas Menores de los Estados Unidos",
+        "fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
+        "it": "Isole minori esterne degli Stati Uniti d'America",
+        "ru": "\u0412\u043d\u0435\u0448\u043d\u0438\u0435 \u043c\u0430\u043b\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u0428\u0410",
+        "zh": "\u7f8e\u56fd\u672c\u571f\u5916\u5c0f\u5c9b\u5c7f",
+        "ar": "\u062c\u0632\u0631 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0627\u0644\u0646\u0627\u0626\u064a\u0629",
+        "ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
+        "pt": "Ilhas Menores Distantes dos Estados Unidos"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": {
+        "79": {
+            "name": "Wake Island",
+            "code": "79",
+            "names": {
+                "geonames": "Wake Island",
+                "ru": "\u0423\u044d\u0439\u043a",
+                "en": "Wake Island",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0648\u064a\u0643",
+                "de": "Wake",
+                "es": "Isla Wake",
+                "fr": "Wake",
+                "it": "Isola di Wake",
+                "zh": "\u5a01\u514b\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": null,
+            "lng": null
+        },
+        "76": {
+            "name": "Navassa Island",
+            "code": "76",
+            "names": {
+                "geonames": "Navassa Island",
+                "ru": "\u041d\u0430\u0432\u0430\u0441\u0441\u0430",
+                "en": "Navassa Island",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0646\u0627\u0641\u0627\u0633\u0627",
+                "de": "Navassa",
+                "es": "Isla de Navaza",
+                "fr": "\u00cele de la Navasse",
+                "it": "Isola Navassa",
+                "zh": "\u7d0d\u5f17\u6c99\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": null,
+            "lng": null
+        },
+        "81": {
+            "name": "Baker Island",
+            "code": "81",
+            "names": {
+                "geonames": "Baker Island",
+                "ru": "\u0411\u0435\u0439\u043a\u0435\u0440",
+                "en": "Baker Island",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0628\u064a\u0643\u0631",
+                "de": "Bakerinsel",
+                "es": "Isla Baker",
+                "fr": "\u00cele Baker",
+                "it": "Isola Baker",
+                "zh": "\u8c9d\u514b\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 0.1936266,
+            "lng": -176.47690799999998
+        },
+        "84": {
+            "name": "Howland Island",
+            "code": "84",
+            "names": {
+                "geonames": "Howland Island",
+                "ru": "\u0425\u0430\u0443\u043b\u0435\u043d\u0434",
+                "en": "Howland Island",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0647\u0627\u0648\u0644\u0627\u0646\u062f",
+                "de": "Howlandinsel",
+                "es": "Isla Howland",
+                "fr": "\u00cele Howland",
+                "it": "Isola Howland",
+                "zh": "\u8c6a\u862d\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 0.8065705,
+            "lng": -176.6182736
+        },
+        "86": {
+            "name": "Jarvis Island",
+            "code": "86",
+            "names": {
+                "geonames": "Jarvis Island",
+                "ru": "\u0414\u0436\u0430\u0440\u0432\u0438\u0441",
+                "en": "Jarvis Island",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u062c\u0627\u0631\u0641\u064a\u0633",
+                "de": "Jarvisinsel",
+                "es": "Isla Jarvis",
+                "fr": "\u00cele Jarvis",
+                "it": "Isola Jarvis",
+                "zh": "\u8cc8\u7dad\u65af\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": -0.3810415,
+            "lng": -160.017563
+        },
+        "67": {
+            "name": "Johnston Atoll",
+            "code": "67",
+            "names": {
+                "geonames": "Johnston Atoll",
+                "ru": "\u0414\u0436\u043e\u043d\u0441\u0442\u043e\u043d",
+                "en": "Johnston Atoll",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0646\u0633\u062a\u0648\u0646 \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a\u0629",
+                "de": "Johnston-Atoll",
+                "es": "Atol\u00f3n Johnston",
+                "fr": "Atoll Johnston",
+                "it": "Atollo Johnston",
+                "zh": "\u7ea6\u7ff0\u65af\u987f\u73af\u7901"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 16.7305556,
+            "lng": -169.53527780000002
+        },
+        "89": {
+            "name": "Kingman Reef",
+            "code": "89",
+            "names": {
+                "geonames": "Kingman Reef",
+                "ru": "\u0420\u0438\u0444 \u041a\u0438\u043d\u0433\u043c\u0435\u043d",
+                "en": "Kingman Reef",
+                "ar": "\u0634\u0639\u0628 \u0643\u064a\u0646\u063a\u0645\u0627\u0646 \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a\u0629",
+                "de": "Kingmanriff",
+                "es": "Arrecife Kingman",
+                "fr": "R\u00e9cif Kingman",
+                "it": "Kingman Reef",
+                "zh": "\u91d1\u66fc\u7901"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 35.189443,
+            "lng": -114.05300649999998
+        },
+        "71": {
+            "name": "Midway Atoll",
+            "code": "71",
+            "names": {
+                "geonames": "Midway Islands",
+                "ru": "\u041c\u0438\u0434\u0443\u044d\u0439",
+                "en": "Midway Atoll",
+                "de": "Midwayinseln",
+                "es": "Islas Midway",
+                "fr": "\u00celes Midway",
+                "it": "Atollo di Midway",
+                "zh": "\u4e2d\u9014\u5cf6"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 27.0754315,
+            "lng": -175.01145050000002
+        },
+        "95": {
+            "name": "Palmyra Atoll",
+            "code": "95",
+            "names": {
+                "geonames": "Palmyra Atoll",
+                "ru": "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430",
+                "en": "Palmyra Atoll",
+                "ar": "\u062c\u0632\u0631 \u0628\u0627\u0644\u0645\u064a\u0631\u0627 \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a\u0629",
+                "de": "Palmyra",
+                "es": "Atol\u00f3n Palmyra",
+                "fr": "Atoll Palmyra",
+                "it": "Palmyra",
+                "zh": "\u5e15\u9081\u62c9\u74b0\u7901"
+            },
+            "division": "territory",
+            "parent": "UM",
+            "lat": 5.883278,
+            "lng": -162.06699430000003
+        }
+    }
+}

@@ -1,0 +1,484 @@
+{
+    "alpha-2": "AR",
+    "alpha-3": "ARG",
+    "numeric": 32,
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "names": {
+        "geonames": "Argentina",
+        "en": "Argentina",
+        "ar": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646",
+        "de": "Argentinien",
+        "es": "Argentina",
+        "fr": "Argentine",
+        "it": "Argentina",
+        "ru": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+        "zh": "\u963f\u6839\u5ef7",
+        "he": "\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4",
+        "hi": "\u0905\u0930\u094d\u091c\u0947\u0923\u094d\u091f\u0940\u0928\u093e",
+        "ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
+        "pt": "Argentina"
+    },
+    "languages": [
+        "es",
+        "gn"
+    ],
+    "ISO3166-2": {
+        "N": {
+            "name": "Misiones Province",
+            "code": "N",
+            "names": {
+                "geonames": "Misiones",
+                "ru": "\u041c\u0438\u0441\u044c\u043e\u043d\u0435\u0441",
+                "en": "Misiones Province",
+                "ar": "\u0645\u064a\u0633\u064a\u0648\u0646\u0633",
+                "de": "Provinz Misiones",
+                "es": "Provincia de Misiones",
+                "fr": "Province de Misiones",
+                "it": "Provincia di Misiones",
+                "zh": "\u7c73\u897f\u5967\u5167\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -26.9377146,
+            "lng": -54.43421380000001
+        },
+        "P": {
+            "name": "Formosa Province",
+            "code": "P",
+            "names": {
+                "geonames": "Formosa",
+                "ru": "\u0424\u043e\u0440\u043c\u043e\u0441\u0430",
+                "en": "Formosa Province",
+                "ar": "\u0641\u0648\u0631\u0645\u0648\u0633\u0627",
+                "de": "Provinz Formosa",
+                "es": "Provincia de Formosa",
+                "fr": "Province de Formosa",
+                "it": "Provincia di Formosa",
+                "zh": "\u798f\u723e\u6469\u6c99\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -26.185201,
+            "lng": -58.17536970000003
+        },
+        "C": {
+            "name": "Buenos Aires",
+            "code": "C",
+            "names": {
+                "geonames": "Buenos Aires F.D.",
+                "ru": "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441",
+                "en": "Buenos Aires",
+                "ar": "\u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633",
+                "de": "Buenos Aires",
+                "es": "Buenos Aires",
+                "fr": "Buenos Aires",
+                "it": "Buenos Aires",
+                "zh": "\u5e03\u5b9c\u8afe\u65af\u827e\u5229\u65af"
+            },
+            "division": "city",
+            "parent": "AR",
+            "lat": -34.6084175,
+            "lng": -58.37316129999999
+        },
+        "E": {
+            "name": "Entre R\u00edos Province",
+            "code": "E",
+            "names": {
+                "geonames": "Entre Rios",
+                "ru": "\u042d\u043d\u0442\u0440\u0435-\u0420\u0438\u043e\u0441",
+                "en": "Entre R\u00edos Province",
+                "ar": "\u0625\u0646\u062a\u0631\u064a \u0631\u064a\u0648\u0633",
+                "de": "Provinz Entre R\u00edos",
+                "es": "Provincia de Entre R\u00edos",
+                "fr": "Province d'Entre R\u00edos",
+                "it": "Provincia di Entre R\u00edos",
+                "zh": "\u6069\u7279\u96f7\u91cc\u5965\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -32.5175643,
+            "lng": -59.10417580000001
+        },
+        "W": {
+            "name": "Corrientes Province",
+            "code": "W",
+            "names": {
+                "geonames": "Corrientes",
+                "ru": "\u041a\u043e\u0440\u0440\u0438\u0435\u043d\u0442\u0435\u0441",
+                "en": "Corrientes Province",
+                "ar": "\u0643\u0648\u0631\u064a\u064a\u0646\u062a\u0633",
+                "de": "Provinz Corrientes",
+                "es": "Provincia de Corrientes",
+                "fr": "Province de Corrientes",
+                "it": "Provincia di Corrientes",
+                "zh": "\u79d1\u8fde\u7279\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -27.4712257,
+            "lng": -58.839584400000035
+        },
+        "B": {
+            "name": "Buenos Aires Province",
+            "code": "B",
+            "names": {
+                "geonames": "Buenos Aires",
+                "en": "Buenos Aires Province",
+                "ar": "\u0628\u0648\u064a\u0646\u0633 \u0622\u064a\u0631\u0633",
+                "de": "Provinz Buenos Aires",
+                "es": "Provincia de Buenos Aires",
+                "fr": "Province de Buenos Aires",
+                "it": "Provincia di Buenos Aires",
+                "ru": "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441",
+                "zh": "\u5e03\u5b9c\u8bfa\u65af\u827e\u5229\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -34.6084175,
+            "lng": -58.37316129999999
+        },
+        "T": {
+            "name": "Tucum\u00e1n Province",
+            "code": "T",
+            "names": {
+                "geonames": "Tucuman",
+                "ru": "\u0422\u0443\u043a\u0443\u043c\u0430\u043d",
+                "en": "Tucum\u00e1n Province",
+                "ar": "\u062a\u0648\u0643\u0648\u0645\u0627\u0646",
+                "de": "Provinz Tucum\u00e1n",
+                "es": "Provincia de Tucum\u00e1n",
+                "fr": "Province de Tucum\u00e1n",
+                "it": "Provincia di Tucum\u00e1n",
+                "zh": "\u56fe\u5e93\u66fc\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -26.8082848,
+            "lng": -65.21759029999998
+        },
+        "V": {
+            "name": "Tierra del Fuego Province, Argentina",
+            "code": "V",
+            "names": {
+                "geonames": "Tierra del Fuego",
+                "ru": "\u041e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0417\u0435\u043c\u043b\u044f",
+                "en": "Tierra del Fuego Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u0636 \u0627\u0644\u0646\u0627\u0631 \u0648\u0623\u0646\u062a\u0627\u0631\u0643\u062a\u064a\u0643\u0627 \u0648\u062c\u0632\u0631 \u062c\u0646\u0648\u0628 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0623\u0637\u0644\u0633\u064a",
+                "de": "Provinz Tierra del Fuego",
+                "es": "Provincia de Tierra del Fuego",
+                "fr": "Terre de Feu",
+                "it": "Provincia di Terra del Fuoco",
+                "zh": "\u706b\u5730\u5c9b\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -54.6666667,
+            "lng": -68.5
+        },
+        "G": {
+            "name": "Santiago del Estero Province",
+            "code": "G",
+            "names": {
+                "geonames": "Santiago del Estero",
+                "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435\u043b\u044c-\u042d\u0441\u0442\u0435\u0440\u043e",
+                "en": "Santiago del Estero Province",
+                "ar": "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062f\u064a\u0644 \u0627\u0633\u062a\u064a\u0631\u0648",
+                "de": "Provinz Santiago del Estero",
+                "es": "Provincia de Santiago del Estero",
+                "fr": "Santiago del Estero",
+                "it": "Provincia di Santiago del Estero",
+                "zh": "\u5723\u5730\u4e9a\u54e5-\u5fb7\u5c14\u57c3\u65af\u7279\u7f57\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -27.78442,
+            "lng": -64.26728059999999
+        },
+        "S": {
+            "name": "Santa Fe Province",
+            "code": "S",
+            "names": {
+                "geonames": "Santa Fe",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u0424\u0435",
+                "en": "Santa Fe Province",
+                "ar": "\u0633\u0627\u0646\u062a\u0627 \u0641\u064a",
+                "de": "Provinz Santa Fe",
+                "es": "Provincia de Santa Fe",
+                "fr": "Province de Santa Fe",
+                "it": "Provincia di Santa Fe",
+                "zh": "\u8056\u5927\u975e\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -31.6323891,
+            "lng": -60.69945910000001
+        },
+        "Z": {
+            "name": "Santa Cruz Province, Argentina",
+            "code": "Z",
+            "names": {
+                "geonames": "Santa Cruz",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441",
+                "en": "Santa Cruz Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632\u060c \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646",
+                "de": "Provinz Santa Cruz",
+                "es": "Provincia de Santa Cruz",
+                "fr": "Province de Santa Cruz",
+                "it": "Provincia di Santa Cruz",
+                "zh": "\u5723\u514b\u9c81\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -50.078468,
+            "lng": -68.508873
+        },
+        "D": {
+            "name": "San Luis Province",
+            "code": "D",
+            "names": {
+                "geonames": "San Luis",
+                "ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441",
+                "en": "San Luis Province",
+                "ar": "\u0633\u0627\u0646 \u0644\u0648\u064a\u0633",
+                "de": "Provinz San Luis",
+                "es": "Provincia de San Luis",
+                "fr": "Province de San Luis",
+                "it": "Provincia di San Luis",
+                "zh": "\u5723\u8def\u6613\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -33.2995605,
+            "lng": -66.34918210000001
+        },
+        "J": {
+            "name": "San Juan Province, Argentina",
+            "code": "J",
+            "names": {
+                "geonames": "San Juan",
+                "ru": "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d",
+                "en": "San Juan Province",
+                "ar": "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646",
+                "de": "Provinz San Juan",
+                "es": "Provincia de San Juan",
+                "fr": "Province de San Juan",
+                "it": "Provincia di San Juan",
+                "zh": "\u5723\u80e1\u5b89\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -31.5272732,
+            "lng": -68.52140810000003
+        },
+        "A": {
+            "name": "Salta Province",
+            "code": "A",
+            "names": {
+                "geonames": "Salta",
+                "ru": "\u0421\u0430\u043b\u044c\u0442\u0430",
+                "en": "Salta Province",
+                "ar": "\u0633\u0627\u0644\u062a\u0627",
+                "de": "Provinz Salta",
+                "es": "Provincia de Salta",
+                "fr": "Province de Salta",
+                "it": "Provincia di Salta",
+                "zh": "\u8428\u5c14\u5854\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -24.7829323,
+            "lng": -65.41215520000003
+        },
+        "R": {
+            "name": "R\u00edo Negro Province",
+            "code": "R",
+            "names": {
+                "geonames": "Rio Negro",
+                "ru": "\u0420\u0438\u043e-\u041d\u0435\u0433\u0440\u043e",
+                "en": "R\u00edo Negro Province",
+                "ar": "\u0631\u064a\u0648 \u0646\u064a\u063a\u0631\u0648",
+                "de": "Provinz R\u00edo Negro",
+                "es": "Provincia de R\u00edo Negro",
+                "fr": "Province de R\u00edo Negro",
+                "it": "Provincia di R\u00edo Negro",
+                "zh": "\u5185\u683c\u7f57\u6cb3\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -40.7344343,
+            "lng": -66.61764549999998
+        },
+        "Q": {
+            "name": "Neuqu\u00e9n Province",
+            "code": "Q",
+            "names": {
+                "geonames": "Neuquen",
+                "ru": "\u041d\u0435\u0443\u043a\u0435\u043d",
+                "en": "Neuqu\u00e9n Province",
+                "ar": "\u0646\u064a\u0648\u0643\u0648\u064a\u0646",
+                "de": "Provinz Neuqu\u00e9n",
+                "es": "Provincia del Neuqu\u00e9n",
+                "fr": "Province de Neuqu\u00e9n",
+                "it": "Provincia di Neuqu\u00e9n",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -38.9492798,
+            "lng": -68.06581119999998
+        },
+        "M": {
+            "name": "Mendoza Province",
+            "code": "M",
+            "names": {
+                "geonames": "Mendoza",
+                "ru": "\u041c\u0435\u043d\u0434\u043e\u0441\u0430",
+                "en": "Mendoza Province",
+                "ar": "\u0645\u0646\u062f\u0648\u0633\u0627",
+                "de": "Provinz Mendoza",
+                "es": "Provincia de Mendoza",
+                "fr": "Province de Mendoza",
+                "it": "Provincia di Mendoza",
+                "zh": "\u95e8\u591a\u8428\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -32.890183,
+            "lng": -68.8440498
+        },
+        "F": {
+            "name": "La Rioja Province, Argentina",
+            "code": "F",
+            "names": {
+                "geonames": "La Rioja",
+                "ru": "\u041b\u0430-\u0420\u0438\u043e\u0445\u0430",
+                "en": "La Rioja Province",
+                "ar": "\u0644\u0627 \u0631\u064a\u0648\u062e\u0627",
+                "de": "Provinz La Rioja",
+                "es": "Provincia de La Rioja",
+                "fr": "Province de La Rioja",
+                "it": "Provincia di La Rioja",
+                "zh": "\u62c9\u91cc\u5965\u54c8\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "L": {
+            "name": "La Pampa Province",
+            "code": "L",
+            "names": {
+                "geonames": "La Pampa",
+                "ru": "\u041b\u0430-\u041f\u0430\u043c\u043f\u0430",
+                "en": "La Pampa Province",
+                "ar": "\u0644\u0627 \u0628\u0627\u0645\u0628\u0627",
+                "de": "Provinz La Pampa",
+                "es": "Provincia de La Pampa",
+                "fr": "Province de La Pampa",
+                "it": "Provincia di La Pampa",
+                "zh": "\u62c9\u6f58\u5e15\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -37.8956594,
+            "lng": -65.09577919999998
+        },
+        "Y": {
+            "name": "Jujuy Province",
+            "code": "Y",
+            "names": {
+                "geonames": "Jujuy",
+                "ru": "\u0416\u0443\u0436\u0443\u0439",
+                "en": "Jujuy Province",
+                "ar": "\u062e\u0648\u062e\u0648\u064a",
+                "de": "Provinz Jujuy",
+                "es": "Provincia de Jujuy",
+                "fr": "Province de Jujuy",
+                "it": "Provincia di Jujuy",
+                "zh": "\u80e1\u80e1\u4f0a\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -24.1857864,
+            "lng": -65.29947670000001
+        },
+        "X": {
+            "name": "C\u00f3rdoba Province, Argentina",
+            "code": "X",
+            "names": {
+                "geonames": "Cordoba",
+                "ru": "\u041a\u043e\u0440\u0434\u043e\u0432\u0430",
+                "en": "C\u00f3rdoba Province",
+                "ar": "\u0643\u0648\u0631\u062f\u0648\u0628\u0627",
+                "de": "Provinz C\u00f3rdoba",
+                "es": "Provincia de C\u00f3rdoba",
+                "fr": "Province de C\u00f3rdoba",
+                "it": "Provincia di C\u00f3rdoba",
+                "zh": "\u79d1\u5c14\u591a\u74e6\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -31.3989296,
+            "lng": -64.18212890000001
+        },
+        "U": {
+            "name": "Chubut Province",
+            "code": "U",
+            "names": {
+                "geonames": "Chubut",
+                "ru": "\u0427\u0443\u0431\u0443\u0442",
+                "en": "Chubut Province",
+                "ar": "\u062a\u0634\u0648\u0628\u0648\u062a",
+                "de": "Provinz Chubut",
+                "es": "Provincia del Chubut",
+                "fr": "Province de Chubut",
+                "it": "Provincia di Chubut",
+                "zh": "\u4e18\u5e03\u7279\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -43.6846192,
+            "lng": -69.27455370000001
+        },
+        "H": {
+            "name": "Chaco Province",
+            "code": "H",
+            "names": {
+                "geonames": "Chaco",
+                "ru": "\u0427\u0430\u043a\u043e",
+                "en": "Chaco Province",
+                "ar": "\u0634\u0627\u0643\u0648",
+                "de": "Provinz Chaco",
+                "es": "Provincia del Chaco",
+                "fr": "Province du Chaco",
+                "it": "Provincia del Chaco",
+                "zh": "\u67e5\u79d1\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -26.5857656,
+            "lng": -60.9540073
+        },
+        "K": {
+            "name": "Catamarca Province",
+            "code": "K",
+            "names": {
+                "geonames": "Catamarca",
+                "ru": "\u041a\u0430\u0442\u0430\u043c\u0430\u0440\u043a\u0430",
+                "en": "Catamarca Province",
+                "ar": "\u0643\u0627\u062a\u0627\u0645\u0627\u0631\u0643\u0627",
+                "de": "Provinz Catamarca",
+                "es": "Provincia de Catamarca",
+                "fr": "Province de Catamarca",
+                "it": "Provincia di Catamarca",
+                "zh": "\u5361\u5854\u9a6c\u5361\u7701"
+            },
+            "division": "province",
+            "parent": "AR",
+            "lat": -28.4689906,
+            "lng": -65.77897159999998
+        }
+    }
+}

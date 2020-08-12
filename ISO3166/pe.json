@@ -1,0 +1,498 @@
+{
+    "alpha-2": "PE",
+    "alpha-3": "PER",
+    "numeric": 604,
+    "capital": "Lima",
+    "currency": "PEN",
+    "names": {
+        "geonames": "Peru",
+        "en": "Peru",
+        "ar": "\u0628\u064a\u0631\u0648",
+        "de": "Peru",
+        "es": "Per\u00fa",
+        "fr": "P\u00e9rou",
+        "it": "Per\u00f9",
+        "ru": "\u041f\u0435\u0440\u0443",
+        "zh": "\u79d8\u9c81",
+        "he": "\u05e4\u05e8\u05d5",
+        "hi": "\u092a\u0947\u0930\u0942",
+        "ja": "\u30da\u30eb\u30fc",
+        "pt": "Peru"
+    },
+    "languages": [
+        "es"
+    ],
+    "ISO3166-2": {
+        "UCA": {
+            "name": "Ucayali Region",
+            "code": "UCA",
+            "names": {
+                "geonames": "Ucayali",
+                "ru": "\u0423\u043a\u0430\u044f\u043b\u0438",
+                "en": "Ucayali Region",
+                "de": "Ucayali",
+                "es": "Departamento de Ucayali",
+                "fr": "R\u00e9gion d'Ucayali",
+                "it": "Regione di Ucayali",
+                "zh": "\u4e4c\u5361\u4e9a\u5229\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": 43.141142,
+            "lng": -75.38538
+        },
+        "TUM": {
+            "name": "Tumbes Region",
+            "code": "TUM",
+            "names": {
+                "geonames": "Tumbes",
+                "ru": "\u0422\u0443\u043c\u0431\u0435\u0441",
+                "en": "Tumbes Region",
+                "de": "Tumbes",
+                "es": "Departamento de Tumbes",
+                "fr": "R\u00e9gion de Tumbes",
+                "it": "Regione di Tumbes",
+                "zh": "\u901a\u8d1d\u65af\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -3.5666667,
+            "lng": -80.44999999999999
+        },
+        "SAM": {
+            "name": "San Mart\u00edn Region",
+            "code": "SAM",
+            "names": {
+                "geonames": "San Martin",
+                "ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d",
+                "en": "San Mart\u00edn Region",
+                "de": "San Mart\u00edn",
+                "es": "Departamento de San Mart\u00edn",
+                "fr": "R\u00e9gion de San Mart\u00edn",
+                "it": "Regione di San Mart\u00edn",
+                "zh": "\u5723\u9a6c\u4e01\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -6.5,
+            "lng": -76.75
+        },
+        "PIU": {
+            "name": "Piura Region",
+            "code": "PIU",
+            "names": {
+                "geonames": "Piura",
+                "ru": "\u041f\u044c\u044e\u0440\u0430",
+                "en": "Piura Region",
+                "de": "Piura",
+                "es": "Departamento de Piura",
+                "fr": "R\u00e9gion de Piura",
+                "it": "Regione di Piura",
+                "zh": "\u76ae\u4e4c\u62c9\u5730\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -5.2,
+            "lng": -80.6333333
+        },
+        "LOR": {
+            "name": "Loreto Region",
+            "code": "LOR",
+            "names": {
+                "geonames": "Loreto",
+                "ru": "\u041b\u043e\u0440\u0435\u0442\u043e",
+                "en": "Loreto Region",
+                "de": "Loreto",
+                "es": "Departamento de Loreto",
+                "fr": "R\u00e9gion de Loreto",
+                "it": "Regione di Loreto",
+                "zh": "\u6d1b\u96f7\u6258\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -12.0620973,
+            "lng": -77.0528248
+        },
+        "LAM": {
+            "name": "Lambayeque Region",
+            "code": "LAM",
+            "names": {
+                "geonames": "Lambayeque",
+                "ru": "\u041b\u0430\u043c\u0431\u0430\u0435\u043a\u0435",
+                "en": "Lambayeque Region",
+                "de": "Lambayeque",
+                "es": "Departamento de Lambayeque",
+                "fr": "R\u00e9gion de Lambayeque",
+                "it": "Regione di Lambayeque",
+                "zh": "\u5170\u5df4\u8036\u514b\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -6.7,
+            "lng": -79.89999999999998
+        },
+        "LAL": {
+            "name": "La Libertad Region",
+            "code": "LAL",
+            "names": {
+                "geonames": "La Libertad",
+                "ru": "\u041b\u0430-\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434",
+                "en": "La Libertad Region",
+                "de": "La Libertad",
+                "es": "Departamento de La Libertad",
+                "fr": "R\u00e9gion de La Libertad",
+                "it": "Regione di La Libertad",
+                "zh": "\u62c9\u5229\u4f2f\u5854\u5fb7\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -8.1435933,
+            "lng": -78.47519449999999
+        },
+        "HUC": {
+            "name": "Hu\u00e1nuco Region",
+            "code": "HUC",
+            "names": {
+                "geonames": "Huanuco",
+                "ru": "\u0423\u0430\u043d\u0443\u043a\u043e",
+                "en": "Hu\u00e1nuco Region",
+                "de": "Hu\u00e1nuco",
+                "es": "Departamento de Hu\u00e1nuco",
+                "fr": "R\u00e9gion de Hu\u00e1nuco",
+                "it": "Regione di Hu\u00e1nuco",
+                "zh": "\u74e6\u52aa\u79d1\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -9.925265,
+            "lng": -76.23116299999998
+        },
+        "CAJ": {
+            "name": "Cajamarca Region",
+            "code": "CAJ",
+            "names": {
+                "geonames": "Cajamarca",
+                "ru": "\u041a\u0430\u0445\u0430\u043c\u0430\u0440\u043a\u0430",
+                "en": "Cajamarca Region",
+                "de": "Cajamarca",
+                "es": "Departamento de Cajamarca",
+                "fr": "R\u00e9gion de Cajamarca",
+                "it": "Regione di Cajamarca",
+                "zh": "\u5361\u54c8\u9a6c\u5361\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -7.162099,
+            "lng": -78.510628
+        },
+        "ANC": {
+            "name": "Ancash Region",
+            "code": "ANC",
+            "names": {
+                "geonames": "Ancash",
+                "ru": "\u0410\u043d\u043a\u0430\u0448",
+                "en": "Ancash Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0623\u0646\u0643\u0627\u0634",
+                "de": "Ancash",
+                "es": "Departamento de \u00c1ncash",
+                "fr": "R\u00e9gion d'Ancash",
+                "it": "Regione di Ancash",
+                "zh": "\u5b89\u5361\u4ec0\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": 61.173915,
+            "lng": -149.981017
+        },
+        "AMA": {
+            "name": "Amazonas Region",
+            "code": "AMA",
+            "names": {
+                "geonames": "Amazonas",
+                "ru": "\u0410\u043c\u0430\u0441\u043e\u043d\u0430\u0441",
+                "de": "Amazonas",
+                "en": "Amazonas Region",
+                "es": "Departamento de Amazonas",
+                "fr": "Amazonas",
+                "it": "Regione di Amazonas",
+                "zh": "\u4e9a\u9a6c\u5b59\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -1.4429123,
+            "lng": -71.57239529999998
+        },
+        "TAC": {
+            "name": "Tacna Region",
+            "code": "TAC",
+            "names": {
+                "geonames": "Tacna",
+                "ru": "\u0422\u0430\u043a\u043d\u0430",
+                "en": "Tacna Region",
+                "de": "Tacna",
+                "es": "Departamento de Tacna",
+                "fr": "R\u00e9gion de Tacna",
+                "it": "Regione di Tacna",
+                "zh": "\u5854\u514b\u7eb3\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -18.01757,
+            "lng": -70.250969
+        },
+        "PUN": {
+            "name": "Puno Region",
+            "code": "PUN",
+            "names": {
+                "geonames": "Puno",
+                "ru": "\u041f\u0443\u043d\u043e",
+                "en": "Puno Region",
+                "de": "Puno",
+                "es": "Departamento de Puno",
+                "fr": "R\u00e9gion de Puno",
+                "it": "Regione di Puno",
+                "zh": "\u666e\u8bfa\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -15.8433333,
+            "lng": -70.02361109999998
+        },
+        "PAS": {
+            "name": "Pasco Region",
+            "code": "PAS",
+            "names": {
+                "geonames": "Pasco",
+                "ru": "\u041f\u0430\u0441\u043a\u043e",
+                "en": "Pasco Region",
+                "de": "Pasco",
+                "es": "Departamento de Pasco",
+                "fr": "R\u00e9gion de Pasco",
+                "it": "Regione di Pasco",
+                "zh": "\u5e15\u65af\u79d1\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": null,
+            "lng": null
+        },
+        "MOQ": {
+            "name": "Moquegua Region",
+            "code": "MOQ",
+            "names": {
+                "geonames": "Moquegua",
+                "ru": "\u041c\u043e\u043a\u0435\u0433\u0443\u0430",
+                "en": "Moquegua Region",
+                "de": "Moquegua",
+                "es": "Departamento de Moquegua",
+                "fr": "R\u00e9gion de Moquegua",
+                "it": "Regione di Moquegua",
+                "zh": "\u83ab\u514b\u74dc\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -17.193951,
+            "lng": -70.93118300000003
+        },
+        "MDD": {
+            "name": "Madre de Dios Region",
+            "code": "MDD",
+            "names": {
+                "geonames": "Madre de Dios",
+                "ru": "\u041c\u0430\u0434\u0440\u0435-\u0434\u0435-\u0414\u044c\u043e\u0441",
+                "en": "Madre de Dios Region",
+                "de": "Madre de Dios",
+                "es": "Departamento de Madre de Dios",
+                "fr": "R\u00e9gion de Madre de Dios",
+                "it": "Regione di Madre de Dios",
+                "zh": "\u9a6c\u5fb7\u96f7\u5fb7\u8fea\u5965\u65af\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": null,
+            "lng": null
+        },
+        "LMA": {
+            "name": "Lima Province",
+            "code": "LMA",
+            "names": {
+                "geonames": "Lima",
+                "ru": "\u041b\u0438\u043c\u0430",
+                "en": "Lima Province",
+                "ar": "\u0644\u064a\u0645\u0627",
+                "de": "Lima",
+                "es": "Lima",
+                "fr": "Lima",
+                "it": "Lima",
+                "zh": "\u5229\u99ac"
+            },
+            "division": "municipality",
+            "parent": "PE",
+            "lat": -12.0452253,
+            "lng": -77.03118139999998
+        },
+        "LIM": {
+            "name": "Lima Region",
+            "code": "LIM",
+            "names": {
+                "geonames": "Lima region",
+                "ru": "\u041b\u0438\u043c\u0430",
+                "en": "Lima Region",
+                "de": "Lima",
+                "es": "Departamento de Lima",
+                "fr": "R\u00e9gion de Lima",
+                "it": "Regione di Lima",
+                "zh": "\u5229\u99ac\u5927\u5340"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -12.0433333,
+            "lng": -77.02833329999999
+        },
+        "JUN": {
+            "name": "Jun\u00edn Region",
+            "code": "JUN",
+            "names": {
+                "geonames": "Junin",
+                "ru": "\u0425\u0443\u043d\u0438\u043d",
+                "en": "Jun\u00edn Region",
+                "de": "Jun\u00edn",
+                "es": "Departamento de Jun\u00edn",
+                "fr": "R\u00e9gion de Jun\u00edn",
+                "it": "Regione di Jun\u00edn",
+                "zh": "\u80e1\u5b81\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -11.15404,
+            "lng": -76.00573700000001
+        },
+        "ICA": {
+            "name": "Ica Region",
+            "code": "ICA",
+            "names": {
+                "geonames": "Ica",
+                "ru": "\u0418\u043a\u0430",
+                "en": "Ica Region",
+                "de": "Ica",
+                "es": "Departamento de Ica",
+                "fr": "R\u00e9gion d'Ica",
+                "it": "Regione di Ica",
+                "zh": "\u4f0a\u5361\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -14.0666667,
+            "lng": -75.73333330000003
+        },
+        "HUV": {
+            "name": "Huancavelica Region",
+            "code": "HUV",
+            "names": {
+                "geonames": "Huancavelica",
+                "ru": "\u0423\u0430\u043d\u043a\u0430\u0432\u0435\u043b\u0438\u043a\u0430",
+                "en": "Huancavelica Region",
+                "de": "Huancavelica",
+                "es": "Departamento de Huancavelica",
+                "fr": "R\u00e9gion de Huancavelica",
+                "it": "Regione di Huancavelica",
+                "zh": "\u842c\u5361\u97cb\u5229\u5361\u5927\u5340"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -12.7861978,
+            "lng": -74.97640239999998
+        },
+        "CUS": {
+            "name": "Cusco Region",
+            "code": "CUS",
+            "names": {
+                "geonames": "Cusco",
+                "ru": "\u041a\u0443\u0441\u043a\u043e",
+                "en": "Cusco Region",
+                "de": "Cusco",
+                "es": "Departamento del Cuzco",
+                "fr": "R\u00e9gion de Cuzco",
+                "it": "Regione di Cusco",
+                "zh": "\u5e93\u65af\u79d1\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -13.525,
+            "lng": -71.97222220000003
+        },
+        "CAL": {
+            "name": "Callao",
+            "code": "CAL",
+            "names": {
+                "geonames": "Callao",
+                "ru": "\u041a\u0430\u043b\u044c\u044f\u043e",
+                "en": "Callao",
+                "ar": "\u0643\u0627\u064a\u0627\u0648",
+                "de": "Callao",
+                "es": "Callao",
+                "fr": "Callao",
+                "it": "Callao",
+                "zh": "\u5361\u4e9e\u4fc4"
+            },
+            "division": "constitutional province",
+            "parent": "PE",
+            "lat": -12.0333333,
+            "lng": -77.1333333
+        },
+        "AYA": {
+            "name": "Ayacucho Region",
+            "code": "AYA",
+            "names": {
+                "geonames": "Ayacucho",
+                "ru": "\u0410\u044f\u043a\u0443\u0447\u043e",
+                "en": "Ayacucho Region",
+                "de": "Ayacucho",
+                "es": "Departamento de Ayacucho",
+                "fr": "R\u00e9gion d'Ayacucho",
+                "it": "Regione di Ayacucho",
+                "zh": "\u963f\u4e9a\u5e93\u4e54\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -13.1630556,
+            "lng": -74.22444439999998
+        },
+        "ARE": {
+            "name": "Arequipa Region",
+            "code": "ARE",
+            "names": {
+                "geonames": "Arequipa",
+                "ru": "\u0410\u0440\u0435\u043a\u0438\u043f\u0430",
+                "en": "Arequipa Region",
+                "de": "Arequipa",
+                "es": "Departamento de Arequipa",
+                "fr": "R\u00e9gion d'Arequipa",
+                "it": "Regione di Arequipa",
+                "zh": "\u963f\u96f7\u57fa\u5e15\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -16.3988222,
+            "lng": -71.5368861
+        },
+        "APU": {
+            "name": "Apur\u00edmac Region",
+            "code": "APU",
+            "names": {
+                "geonames": "Apurimac",
+                "ru": "\u0410\u043f\u0443\u0440\u0438\u043c\u0430\u043a",
+                "en": "Apur\u00edmac Region",
+                "de": "Apur\u00edmac",
+                "es": "Departamento de Apur\u00edmac",
+                "fr": "R\u00e9gion d'Apur\u00edmac",
+                "it": "Regione di Apur\u00edmac",
+                "zh": "\u963f\u666e\u91cc\u9a6c\u514b\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "PE",
+            "lat": -13.6077778,
+            "lng": -73.03083329999998
+        }
+    }
+}

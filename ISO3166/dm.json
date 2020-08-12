@@ -1,0 +1,180 @@
+{
+    "alpha-2": "DM",
+    "alpha-3": "DMA",
+    "numeric": 212,
+    "capital": "Roseau",
+    "currency": "XCD",
+    "names": {
+        "geonames": "Dominica",
+        "en": "Dominica",
+        "ar": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
+        "de": "Dominica",
+        "es": "Dominica",
+        "fr": "Dominique",
+        "it": "Dominica",
+        "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "zh": "\u591a\u7c73\u5c3c\u514b",
+        "he": "\u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05d4",
+        "hi": "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e",
+        "ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
+        "pt": "Dominica"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": {
+        "11": {
+            "name": "Saint Peter",
+            "code": "11",
+            "names": {
+                "geonames": "Saint Peter",
+                "en": "Saint Peter"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Saint Paul",
+            "code": "10",
+            "names": {
+                "geonames": "Saint Paul",
+                "en": "Saint Paul"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 48.855168,
+            "lng": 2.3613789999999426
+        },
+        "09": {
+            "name": "Saint Patrick Parish, Dominica",
+            "code": "09",
+            "names": {
+                "geonames": "Saint Patrick",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0430\u0442\u0440\u0438\u043a",
+                "en": "Saint Patrick Parish",
+                "de": "Saint Patrick",
+                "es": "Parroquia de Saint Patrick",
+                "fr": "Saint-Patrick",
+                "it": "Parrocchia di Saint Patrick",
+                "zh": "\u8056\u5e15\u7279\u91cc\u514b\u5802\u5340"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 46.8876348,
+            "lng": -71.51658370000001
+        },
+        "08": {
+            "name": "Saint Mark Parish, Dominica",
+            "code": "08",
+            "names": {
+                "geonames": "Saint Mark",
+                "ru": "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u043a",
+                "en": "Saint Mark Parish",
+                "de": "Saint Mark",
+                "es": "Parroquia de Saint Mark",
+                "fr": "Saint-Mark",
+                "it": "Parrocchia di Saint Mark",
+                "zh": "\u8056\u99ac\u514b\u5802\u5340"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 51.5907575,
+            "lng": -3.002969300000018
+        },
+        "07": {
+            "name": "Saint Luke Parish, Dominica",
+            "code": "07",
+            "names": {
+                "geonames": "Saint Luke",
+                "ru": "\u0421\u0435\u043d\u0442-\u041b\u044e\u043a",
+                "en": "Saint Luke Parish",
+                "de": "Saint Luke",
+                "es": "Parroquia de Saint Luke",
+                "fr": "Saint-Luke",
+                "it": "Parrocchia di Saint Luke",
+                "zh": "\u8056\u76e7\u514b\u5802\u5340"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 53.6444489,
+            "lng": -2.9883749000000535
+        },
+        "06": {
+            "name": "Saint Joseph",
+            "code": "06",
+            "names": {
+                "geonames": "Saint Joseph",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444",
+                "en": "Saint Joseph"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 15.404123,
+            "lng": -61.42452800000001
+        },
+        "05": {
+            "name": "Saint John",
+            "code": "05",
+            "names": {
+                "geonames": "Saint John",
+                "en": "Saint John"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 15.3008192,
+            "lng": -61.38924930000002
+        },
+        "04": {
+            "name": "Saint George",
+            "code": "04",
+            "names": {
+                "geonames": "Saint George",
+                "en": "Saint George"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 46.5079598,
+            "lng": 6.301685700000007
+        },
+        "03": {
+            "name": "Saint David Parish, Dominica",
+            "code": "03",
+            "names": {
+                "geonames": "Saint David",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u044d\u0432\u0438\u0434",
+                "en": "Saint David Parish",
+                "de": "Saint David",
+                "es": "Parroquia de Saint David",
+                "fr": "Saint-David",
+                "it": "Parrocchia di Saint David",
+                "zh": "\u8056\u6234\u7dad\u5802\u5340"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": null,
+            "lng": null
+        },
+        "02": {
+            "name": "Saint Andrew",
+            "code": "02",
+            "names": {
+                "geonames": "Saint Andrew",
+                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043d\u0434\u0440\u044e",
+                "en": "Saint Andrew"
+            },
+            "division": "parish",
+            "parent": "DM",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        "01": {
+            "name": "Saint Peter",
+            "division": "parish",
+            "parent": "DM",
+            "lat": 48.24348,
+            "lng": 11.903689999999983
+        }
+    }
+}

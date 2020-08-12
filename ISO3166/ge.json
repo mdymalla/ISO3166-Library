@@ -1,0 +1,246 @@
+{
+    "alpha-2": "GE",
+    "alpha-3": "GEO",
+    "numeric": 268,
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "names": {
+        "geonames": "Georgia",
+        "en": "Georgia",
+        "ar": "\u062c\u0648\u0631\u062c\u064a\u0627",
+        "de": "Georgien",
+        "es": "Georgia",
+        "fr": "G\u00e9orgie",
+        "it": "Georgia",
+        "ru": "\u0413\u0440\u0443\u0437\u0438\u044f",
+        "zh": "\u683c\u9c81\u5409\u4e9a",
+        "he": "\u05d2\u05d0\u05d5\u05e8\u05d2\u05d9\u05d4",
+        "hi": "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e",
+        "ja": "\u30b8\u30e7\u30fc\u30b8\u30a2",
+        "pt": "Ge\u00f3rgia"
+    },
+    "languages": [
+        "ka"
+    ],
+    "ISO3166-2": {
+        "TB": {
+            "name": "Tbilisi",
+            "code": "TB",
+            "names": {
+                "geonames": "T'bilisi",
+                "ru": "\u0422\u0431\u0438\u043b\u0438\u0441\u0438",
+                "en": "Tbilisi",
+                "ar": "\u062a\u0641\u0644\u064a\u0633",
+                "de": "Tiflis",
+                "es": "Tiflis",
+                "fr": "Tbilissi",
+                "it": "Tbilisi",
+                "zh": "\u7b2c\u6bd4\u5229\u65af"
+            },
+            "division": "city",
+            "parent": "GE",
+            "lat": 41.709981,
+            "lng": 44.79299800000001
+        },
+        "AJ": {
+            "name": "Adjara",
+            "code": "AJ",
+            "names": {
+                "geonames": "Ajaria",
+                "ru": "\u0410\u0434\u0436\u0430\u0440\u0438\u044f",
+                "en": "Adjara",
+                "ar": "\u0623\u062c\u0627\u0631\u064a\u0627",
+                "de": "Adscharien",
+                "es": "Ayaria",
+                "fr": "Adjarie",
+                "it": "Agiaria",
+                "zh": "\u963f\u624e\u5c14"
+            },
+            "division": "autonomous republic",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "KK": {
+            "name": "Kvemo Kartli",
+            "code": "KK",
+            "names": {
+                "geonames": "Kvemo Kartli",
+                "ru": "\u041a\u0432\u0435\u043c\u043e-\u041a\u0430\u0440\u0442\u043b\u0438",
+                "en": "Kvemo Kartli",
+                "de": "Niederkartlien",
+                "es": "Kvemo Kartli",
+                "fr": "Kvemo Kartli",
+                "it": "Kvemo Kartli",
+                "zh": "\u514b\u7dad\u83ab-\u5361\u7279\u5229\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": 41.4791833,
+            "lng": 44.65604510000003
+        },
+        "KA": {
+            "name": "Kakheti",
+            "code": "KA",
+            "names": {
+                "geonames": "Kakheti",
+                "ru": "\u041a\u0430\u0445\u0435\u0442\u0438\u044f",
+                "en": "Kakheti",
+                "de": "Kachetien",
+                "es": "Kajetia",
+                "fr": "Kakh\u00e9tie",
+                "it": "Cachezia",
+                "zh": "\u5361\u8d6b\u5b63\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "GU": {
+            "name": "Guria",
+            "code": "GU",
+            "names": {
+                "geonames": "Guria",
+                "ru": "\u0413\u0443\u0440\u0438\u044f",
+                "en": "Guria",
+                "de": "Gurien",
+                "es": "Guria",
+                "fr": "Gourie",
+                "it": "Guria",
+                "zh": "\u53e4\u5229\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "IM": {
+            "name": "Imereti",
+            "code": "IM",
+            "names": {
+                "geonames": "Imereti",
+                "ru": "\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u044f",
+                "en": "Imereti",
+                "de": "Imeretien",
+                "es": "Imericia",
+                "fr": "Im\u00e9r\u00e9thie",
+                "it": "Imerezia",
+                "zh": "\u4f0a\u6885\u5217\u5b63\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "SK": {
+            "name": "Shida Kartli",
+            "code": "SK",
+            "names": {
+                "geonames": "Shida Kartli",
+                "ru": "\u0428\u0438\u0434\u0430-\u041a\u0430\u0440\u0442\u043b\u0438",
+                "en": "Shida Kartli",
+                "de": "Innerkartlien",
+                "es": "Shida Kartli",
+                "fr": "Shida Kartli",
+                "it": "Shida Kartli",
+                "zh": "\u4ec0\u9054-\u5361\u7279\u5229\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "MM": {
+            "name": "Mtskheta-Mtianeti",
+            "code": "MM",
+            "names": {
+                "geonames": "Mtskheta-Mtianeti",
+                "ru": "\u041c\u0446\u0445\u0435\u0442\u0430-\u041c\u0442\u0438\u0430\u043d\u0435\u0442\u0438",
+                "en": "Mtskheta-Mtianeti",
+                "de": "Mzcheta-Mtianeti",
+                "es": "Mtsjeta-Mtianeti",
+                "fr": "Mtskheta-Mtianeti",
+                "it": "Mtskheta-Mtianeti",
+                "zh": "\u59c6\u8328\u8d6b\u5854-\u59c6\u5b63\u963f\u6d85\u5b63\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "RL": {
+            "name": "Racha-Lechkhumi and Kvemo Svaneti",
+            "code": "RL",
+            "names": {
+                "geonames": "Racha-Lechkhumi and Kvemo Svaneti",
+                "ru": "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0438 \u0438 \u041a\u0432\u0435\u043c\u043e-\u0421\u0432\u0430\u043d\u0435\u0442\u0438",
+                "en": "Racha-Lechkhumi and Kvemo Svaneti",
+                "de": "Ratscha-Letschchumi und Niederswanetien",
+                "es": "Racha-Lechjumi y Kvemo Svaneti",
+                "fr": "Racha-Lechkhumi et Kvemo Svaneti",
+                "it": "Racha-Lechkhumi e Kvemo Svaneti",
+                "zh": "\u62c9\u6070-\u5217\u5176\u547c\u7c73-\u4e0b\u65af\u74e6\u6d85\u5b63\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": 42.6718873,
+            "lng": 43.05628360000003
+        },
+        "SZ": {
+            "name": "Samegrelo-Zemo Svaneti",
+            "code": "SZ",
+            "names": {
+                "geonames": "Samegrelo and Zemo Svaneti",
+                "ru": "\u0421\u0430\u043c\u0435\u0433\u0440\u0435\u043b\u043e",
+                "en": "Samegrelo-Zemo Svaneti",
+                "de": "Mingrelien und Oberswanetien",
+                "es": "Samegrelo-Zemo Svaneti",
+                "fr": "Mingr\u00e9lie-et-Haute-Svan\u00e9tie",
+                "it": "Mingrelia-Alta Svanezia",
+                "zh": "\u85a9\u6885\u683c\u5217\u7f85-\u4e0a\u65af\u74e6\u6d85\u5b63\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "SJ": {
+            "name": "Samtskhe-Javakheti",
+            "code": "SJ",
+            "names": {
+                "geonames": "Samtskhe-Javakheti",
+                "ru": "\u0421\u0430\u043c\u0446\u0445\u0435-\u0414\u0436\u0430\u0432\u0430\u0445\u0435\u0442\u0438",
+                "en": "Samtskhe-Javakheti",
+                "de": "Samzche-Dschawachetien",
+                "es": "Samtsje-Yavajeti",
+                "fr": "Samtskh\u00e9-Djavakh\u00e9tie",
+                "it": "Samtskhe-Javakheti",
+                "zh": "\u85a9\u59c6\u8328\u8d6b-\u624e\u74e6\u8d6b\u5b63\u5dde"
+            },
+            "division": "region",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        },
+        "AB": {
+            "name": "Abkhazia",
+            "code": "AB",
+            "names": {
+                "geonames": "Abkhazia",
+                "ru": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0431\u0445\u0430\u0437\u0438\u044f",
+                "en": "Abkhazia",
+                "de": "Autonome Republik Abchasien",
+                "es": "Rep\u00fablica Aut\u00f3noma de Abjasia",
+                "ar": "\u0623\u0628\u062e\u0627\u0632\u064a\u0627",
+                "fr": "Abkhazie",
+                "it": "Abcasia",
+                "zh": "\u963f\u5e03\u54c8\u8332"
+            },
+            "division": "autonomous republic",
+            "parent": "GE",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

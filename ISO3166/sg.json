@@ -1,0 +1,93 @@
+{
+    "alpha-2": "SG",
+    "alpha-3": "SGP",
+    "numeric": 702,
+    "capital": "Singapore",
+    "currency": "SGD",
+    "names": {
+        "geonames": "Singapore",
+        "en": "Singapore",
+        "ar": "\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629",
+        "de": "Singapur",
+        "es": "Singapur",
+        "fr": "Singapour",
+        "it": "Singapore",
+        "ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+        "zh": "\u65b0\u52a0\u5761",
+        "he": "\u05e1\u05d9\u05e0\u05d2\u05e4\u05d5\u05e8",
+        "hi": "\u0938\u093f\u0902\u0917\u093e\u092a\u0941\u0930",
+        "ja": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+        "pt": "Singapura"
+    },
+    "languages": [
+        "en",
+        "ms",
+        "ta",
+        "zh"
+    ],
+    "ISO3166-2": {
+        "01": {
+            "name": "Central Singapore Community Development Council",
+            "code": "01",
+            "names": {
+                "geonames": "Central Singapore",
+                "en": "Central Singapore Community Development Council"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 1.3521616,
+            "lng": 103.94318220000002
+        },
+        "02": {
+            "name": "North East",
+            "code": "02",
+            "names": {
+                "geonames": "North East",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439",
+                "en": "North East"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9628693,
+            "lng": 23.67798210000001
+        },
+        "04": {
+            "name": "South East",
+            "code": "04",
+            "names": {
+                "geonames": "South East",
+                "en": "South East"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9630614,
+            "lng": 23.67806619999999
+        },
+        "05": {
+            "name": "South West Community Development Council",
+            "code": "05",
+            "names": {
+                "geonames": "South West",
+                "en": "South West Community Development Council",
+                "de": "South West Singapore District"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 51.1627581,
+            "lng": 6.996535600000016
+        },
+        "03": {
+            "name": "North West",
+            "code": "03",
+            "names": {
+                "geonames": "North West",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0439",
+                "en": "North West"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9629654,
+            "lng": 23.67802419999998
+        }
+    }
+}

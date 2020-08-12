@@ -1,0 +1,183 @@
+{
+    "alpha-2": "GH",
+    "alpha-3": "GHA",
+    "numeric": 288,
+    "capital": "Accra",
+    "currency": "GHS",
+    "names": {
+        "geonames": "Ghana",
+        "en": "Ghana",
+        "ar": "\u063a\u0627\u0646\u0627",
+        "de": "Ghana",
+        "es": "Ghana",
+        "fr": "Ghana",
+        "it": "Ghana",
+        "ru": "\u0413\u0430\u043d\u0430",
+        "zh": "\u52a0\u7eb3",
+        "he": "\u05d2\u05d0\u05e0\u05d4",
+        "hi": "\u0918\u093e\u0928\u093e",
+        "ja": "\u30ac\u30fc\u30ca",
+        "pt": "Gana"
+    },
+    "languages": [
+        "en"
+    ],
+    "ISO3166-2": {
+        "WP": {
+            "name": "Western",
+            "code": "WP",
+            "names": {
+                "geonames": "Western",
+                "en": "Western"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        },
+        "TV": {
+            "name": "Volta Region",
+            "code": "TV",
+            "names": {
+                "geonames": "Volta",
+                "ru": "\u0412\u043e\u043b\u044c\u0442\u0430",
+                "en": "Volta Region",
+                "de": "Volta Region",
+                "es": "Volta",
+                "fr": "R\u00e9gion de la Volta",
+                "it": "Regione del Volta",
+                "zh": "\u6c83\u723e\u7279\u5730\u5340"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        },
+        "UW": {
+            "name": "Upper West Region",
+            "code": "UW",
+            "names": {
+                "geonames": "Upper West",
+                "ru": "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439",
+                "en": "Upper West Region",
+                "de": "Upper West Region",
+                "es": "Alta Occidental",
+                "fr": "R\u00e9gion du Haut Ghana occidental",
+                "it": "Regione Nordoccidentale",
+                "zh": "\u897f\u5317\u5730\u5340"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": 42.3250419,
+            "lng": -85.6613969
+        },
+        "UE": {
+            "name": "Upper East Region",
+            "code": "UE",
+            "names": {
+                "geonames": "Upper East",
+                "ru": "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439",
+                "en": "Upper East Region",
+                "de": "Upper East Region",
+                "es": "Alta Oriental",
+                "fr": "R\u00e9gion du Haut Ghana oriental",
+                "it": "Regione Nordorientale",
+                "zh": "\u6771\u5317\u5730\u5340"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        },
+        "NP": {
+            "name": "Northern",
+            "code": "NP",
+            "names": {
+                "geonames": "Northern",
+                "en": "Northern"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": 41.2131788,
+            "lng": -124.00462759999999
+        },
+        "AA": {
+            "name": "Greater Accra Region",
+            "code": "AA",
+            "names": {
+                "geonames": "Greater Accra",
+                "ru": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0410\u043a\u043a\u0440\u0430",
+                "en": "Greater Accra Region",
+                "de": "Greater Accra Region",
+                "es": "Gran Acra",
+                "fr": "R\u00e9gion du Grand Accra",
+                "it": "Regione della Grande Accra",
+                "zh": "Chinese"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": 5.555717,
+            "lng": -0.1963060000000496
+        },
+        "EP": {
+            "name": "Eastern",
+            "code": "EP",
+            "names": {
+                "geonames": "Eastern",
+                "en": "Eastern"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": 52.3679722,
+            "lng": 4.943786499999987
+        },
+        "CP": {
+            "name": "Central",
+            "code": "CP",
+            "names": {
+                "geonames": "Central",
+                "en": "Central"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": 5.0900702,
+            "lng": -1.3464301000000205
+        },
+        "BA": {
+            "name": "Brong-Ahafo Region",
+            "code": "BA",
+            "names": {
+                "geonames": "Brong-Ahafo",
+                "ru": "\u0411\u0440\u043e\u043d\u0433-\u0410\u0445\u0430\u0444\u043e",
+                "en": "Brong-Ahafo Region",
+                "de": "Brong-Ahafo Region",
+                "es": "Brong-Ahafo",
+                "fr": "R\u00e9gion de Brong Ahafo",
+                "it": "Regione di Brong-Ahafo",
+                "zh": "\u5e03\u6717\u963f\u54c8\u798f\u5730\u5340"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        },
+        "AH": {
+            "name": "Ashanti Region",
+            "code": "AH",
+            "names": {
+                "geonames": "Ashanti",
+                "ru": "\u0410\u0448\u0430\u043d\u0442\u0438",
+                "en": "Ashanti Region",
+                "de": "Ashanti Region",
+                "es": "Ashanti",
+                "fr": "R\u00e9gion Ashanti",
+                "it": "Regione di Ashanti",
+                "zh": "\u963f\u6563\u8482\u5730\u5340"
+            },
+            "division": "region",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        }
+    }
+}
