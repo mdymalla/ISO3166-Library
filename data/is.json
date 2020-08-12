@@ -1,0 +1,179 @@
+{
+    "alpha-2": "IS",
+    "alpha-3": "ISL",
+    "numeric": 352,
+    "capital": "Reykjavik",
+    "currency": "ISK",
+    "languages": [
+        "is"
+    ],
+    "flag-icon": "\ud83c\uddee\ud83c\uddf8",
+    "names": {
+        "geonames": "Iceland",
+        "en": "Iceland",
+        "ar": "\u0622\u064a\u0633\u0644\u0646\u062f\u0627",
+        "de": "Island",
+        "es": "Islandia",
+        "fr": "Islande",
+        "it": "Islanda",
+        "ru": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+        "zh": "\u51b0\u5c9b",
+        "he": "\u05d0\u05d9\u05e1\u05dc\u05e0\u05d3",
+        "hi": "\u0906\u0907\u0938\u0932\u0948\u0923\u094d\u0921",
+        "ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
+        "pt": "Isl\u00e2ndia"
+    },
+    "ISO3166-2": {
+        "5": {
+            "name": "Northwestern Region",
+            "code": "5",
+            "names": {
+                "geonames": "Northwest",
+                "ru": "\u041d\u043e\u0440\u0434\u0443\u0440\u043b\u0430\u043d\u0434 \u0412\u0435\u0441\u0442\u0440\u0430",
+                "en": "Northwestern Region",
+                "de": "Nor\u00f0urland vestra",
+                "es": "Nor\u00f0urland Vestra",
+                "fr": "Nor\u00f0urland vestra",
+                "it": "Nor\u00f0urland vestra",
+                "zh": "\u897f\u5317\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": 68.5063478,
+            "lng": 16.446494700000017
+        },
+        "6": {
+            "name": "Northeastern Region",
+            "code": "6",
+            "names": {
+                "geonames": "Northeast",
+                "ru": "\u041d\u043e\u0440\u0434\u044e\u0440\u043b\u0430\u043d\u0434-\u042d\u0439\u0441\u0442\u0440\u0430",
+                "en": "Northeastern Region",
+                "de": "Nor\u00f0urland eystra",
+                "es": "Nor\u00f0urland Eystra",
+                "fr": "Nor\u00f0urland eystra",
+                "it": "Nor\u00f0urland eystra",
+                "zh": "\u6771\u5317\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        "7": {
+            "name": "Eastern Region",
+            "code": "7",
+            "names": {
+                "geonames": "East",
+                "ru": "\u042d\u0439\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434",
+                "en": "Eastern Region",
+                "de": "Austurland",
+                "es": "Austurland",
+                "fr": "Austurland",
+                "it": "Austurland",
+                "zh": "\u6771\u90e8\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        "8": {
+            "name": "Southern Region",
+            "code": "8",
+            "names": {
+                "geonames": "South",
+                "ru": "\u0421\u044e\u0434\u044e\u0440\u043b\u0430\u043d\u0434",
+                "en": "Southern Region",
+                "de": "Su\u00f0urland",
+                "es": "Su\u00f0urland",
+                "fr": "Su\u00f0urland",
+                "it": "Su\u00f0urland",
+                "zh": "\u5357\u90e8\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        "1": {
+            "name": "Capital Region",
+            "code": "1",
+            "names": {
+                "geonames": "Capital Region",
+                "ru": "\u0425\u0451\u0432\u044e\u0434\u0431\u043e\u0440\u0433\u0430\u0440\u0441\u0432\u0430\u0439\u0434\u0438\u0434",
+                "en": "Capital Region",
+                "de": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0",
+                "es": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0",
+                "fr": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0",
+                "it": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0",
+                "zh": "\u5927\u96f7\u514b\u96c5\u672a\u514b\u533a"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": 64.0656126,
+            "lng": -21.58098940000002
+        },
+        "2": {
+            "name": "Southern Peninsula",
+            "code": "2",
+            "names": {
+                "geonames": "Southern Peninsula",
+                "ru": "\u0421\u0443\u0434\u0443\u0440\u043d\u044d\u0441",
+                "en": "Southern Peninsula",
+                "de": "Su\u00f0urnes",
+                "es": "Su\u00f0urnes",
+                "fr": "Su\u00f0urnes",
+                "it": "Su\u00f0urnes",
+                "zh": "\u897f\u5357\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        "3": {
+            "name": "Western Region",
+            "code": "3",
+            "names": {
+                "geonames": "West",
+                "ru": "\u0412\u0435\u0441\u0442\u0443\u0440\u043b\u0430\u043d\u0434",
+                "en": "Western Region",
+                "de": "Vesturland",
+                "es": "Vesturland",
+                "fr": "Vesturland",
+                "it": "Vesturland",
+                "zh": "\u897f\u90e8\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": 64.738395,
+            "lng": -21.683904600000005
+        },
+        "4": {
+            "name": "Westfjords",
+            "code": "4",
+            "names": {
+                "geonames": "Westfjords",
+                "ru": "\u0412\u0435\u0441\u0442\u0444\u0438\u0440\u0434\u0438\u0440",
+                "en": "Westfjords",
+                "de": "Vestfir\u00f0ir",
+                "es": "Vestfir\u00f0ir",
+                "fr": "Vestfir\u00f0ir",
+                "it": "Vestfir\u00f0ir",
+                "zh": "\u897f\u5cfd\u7063\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        "0": {
+            "name": "Reykjav\u00edk",
+            "division": "city",
+            "parent": "IS",
+            "lat": 64.1288941,
+            "lng": -21.93898360000003
+        }
+    }
+}

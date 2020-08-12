@@ -1,0 +1,215 @@
+{
+    "alpha-2": "LS",
+    "alpha-3": "LSO",
+    "numeric": 426,
+    "capital": "Maseru",
+    "currency": "LSL,ZAR",
+    "languages": [
+        "en",
+        "st"
+    ],
+    "flag-icon": "\ud83c\uddf1\ud83c\uddf8",
+    "names": {
+        "geonames": "Lesotho",
+        "en": "Lesotho",
+        "ar": "\u0644\u064a\u0633\u0648\u062a\u0648",
+        "de": "Lesotho",
+        "es": "Lesoto",
+        "fr": "Lesotho",
+        "it": "Lesotho",
+        "ru": "\u041b\u0435\u0441\u043e\u0442\u043e",
+        "zh": "\u83b1\u7d22\u6258",
+        "he": "\u05dc\u05e1\u05d5\u05d8\u05d5",
+        "hi": "\u0932\u093f\u0938\u0942\u0924\u0942",
+        "ja": "\u30ec\u30bd\u30c8",
+        "pt": "Lesoto"
+    },
+    "ISO3166-2": {
+        "K": {
+            "name": "Thaba-Tseka District",
+            "code": "K",
+            "names": {
+                "geonames": "Thaba-Tseka",
+                "ru": "\u0422\u0430\u0431\u0430-\u0426\u0435\u043a\u0430",
+                "en": "Thaba-Tseka District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062b\u0627\u0628\u0627-\u062a\u0633\u064a\u0643\u0627",
+                "de": "Distrikt Thaba-Tseka",
+                "es": "Distrito de Thaba-Tseka",
+                "fr": "District de Thaba-Tseka",
+                "it": "Distretto di Thaba-Tseka",
+                "zh": "\u5854\u5df4-\u91c7\u5361\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -29.5212165,
+            "lng": 28.605094699999995
+        },
+        "G": {
+            "name": "Quthing District",
+            "code": "G",
+            "names": {
+                "geonames": "Quthing",
+                "ru": "\u0426\u0433\u0443\u0442\u0438\u043d\u0433",
+                "en": "Quthing District",
+                "de": "Distrikt Quthing",
+                "es": "Quthing",
+                "fr": "District de Quthing",
+                "it": "Distretto di Quthing",
+                "zh": "\u53e4\u5ef7\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -30.4105544,
+            "lng": 27.699837500000058
+        },
+        "H": {
+            "name": "Qacha's Nek District",
+            "code": "H",
+            "names": {
+                "geonames": "Qacha's Nek",
+                "ru": "\u0426\u0433\u0430\u0447\u0430\u0441-\u041d\u0435\u043a",
+                "en": "Qacha's Nek District",
+                "de": "Distrikt Qacha\u2019s Nek",
+                "es": "Distrito de Qacha's Nek",
+                "fr": "District de Qacha's Nek",
+                "it": "Distretto di Qacha's Nek",
+                "zh": "\u52a0\u67e5\u65af\u5167\u514b\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -30.1186489,
+            "lng": 28.691630400000008
+        },
+        "J": {
+            "name": "Mokhotlong District",
+            "code": "J",
+            "names": {
+                "geonames": "Mokhotlong",
+                "ru": "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433",
+                "en": "Mokhotlong District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u062e\u0648\u062a\u0644\u0646\u063a",
+                "de": "Distrikt Mokhotlong",
+                "es": "Distrito de Mokhotlong",
+                "fr": "District de Mokhotlong",
+                "it": "Distretto di Mokhotlong",
+                "zh": "\u83ab\u970d\u7279\u9686\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -29.2916064,
+            "lng": 29.067345199999977
+        },
+        "F": {
+            "name": "Mohale's Hoek District",
+            "code": "F",
+            "names": {
+                "geonames": "Mohale's Hoek District",
+                "ru": "\u041c\u043e\u0445\u0430\u043b\u0435\u0441-\u0425\u0443\u043a",
+                "en": "Mohale's Hoek District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u0647\u064a\u0644\u0632 \u0647\u0648\u0643",
+                "de": "Distrikt Mohale\u2019s Hoek",
+                "es": "Distrito de Mohale's Hoek",
+                "fr": "District de Mohale's Hoek",
+                "it": "Distretto di Mohale's Hoek",
+                "zh": "\u83ab\u54c8\u840a\u65af\u80e1\u514b\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -30.1501674,
+            "lng": 27.471027899999967
+        },
+        "A": {
+            "name": "Maseru District",
+            "code": "A",
+            "names": {
+                "geonames": "Maseru",
+                "ru": "\u041c\u0430\u0441\u0435\u0440\u0443",
+                "en": "Maseru District",
+                "de": "Distrikt Maseru",
+                "es": "Distrito de Maseru",
+                "fr": "District de Maseru",
+                "it": "Distretto di Maseru",
+                "zh": "\u99ac\u585e\u76e7\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -29.3141863,
+            "lng": 27.483263299999976
+        },
+        "E": {
+            "name": "Mafeteng District",
+            "code": "E",
+            "names": {
+                "geonames": "Mafeteng",
+                "ru": "\u041c\u0430\u0444\u0435\u0442\u0435\u043d\u0433",
+                "en": "Mafeteng District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0641\u062a\u0646\u063a",
+                "de": "Distrikt Mafeteng",
+                "es": "Distrito de Mafeteng",
+                "fr": "District de Mafeteng",
+                "it": "Distretto di Mafeteng",
+                "zh": "\u99ac\u8cbb\u6ed5\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -29.8221886,
+            "lng": 27.23825720000002
+        },
+        "C": {
+            "name": "Leribe District",
+            "code": "C",
+            "names": {
+                "geonames": "Leribe",
+                "ru": "\u041b\u0435\u0440\u0438\u0431\u0435",
+                "en": "Leribe District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0631\u064a\u0628",
+                "de": "Distrikt Leribe",
+                "es": "Distrito de Leribe",
+                "fr": "District de Leribe",
+                "it": "Distretto di Leribe",
+                "zh": "\u840a\u91cc\u8c9d\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -28.872497,
+            "lng": 28.0417238
+        },
+        "B": {
+            "name": "Butha-Buthe District",
+            "code": "B",
+            "names": {
+                "geonames": "Butha-Buthe",
+                "ru": "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435",
+                "en": "Butha-Buthe District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u062b\u0627-\u0628\u0648\u062b",
+                "de": "Distrikt Butha-Buthe",
+                "es": "Distrito de Butha-Buthe",
+                "fr": "District de Butha-Buthe",
+                "it": "Distretto di Butha-Buthe",
+                "zh": "\u5e03\u5854-\u5e03\u6cf0\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -28.7639833,
+            "lng": 28.24807720000001
+        },
+        "D": {
+            "name": "Berea District",
+            "code": "D",
+            "names": {
+                "geonames": "Berea",
+                "ru": "\u0411\u0435\u0440\u044c\u044f",
+                "en": "Berea District",
+                "de": "Distrikt Berea",
+                "es": "Distrito de Berea",
+                "fr": "District de Berea",
+                "it": "Distretto di Berea",
+                "zh": "\u4f2f\u91cc\u4e9e\u5340"
+            },
+            "division": "district",
+            "parent": "LS",
+            "lat": -29.268854,
+            "lng": 27.610860000000002
+        }
+    }
+}

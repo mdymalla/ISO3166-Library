@@ -1,0 +1,551 @@
+{
+    "alpha-2": "EG",
+    "alpha-3": "EGY",
+    "numeric": 818,
+    "capital": "Cairo",
+    "currency": "EGP",
+    "languages": [
+        "ar"
+    ],
+    "flag-icon": "\ud83c\uddea\ud83c\uddec",
+    "names": {
+        "geonames": "Egypt",
+        "en": "Egypt",
+        "ar": "\u0645\u0635\u0631",
+        "de": "\u00c4gypten",
+        "es": "Egipto",
+        "fr": "\u00c9gypte",
+        "it": "Egitto",
+        "ru": "\u0415\u0433\u0438\u043f\u0435\u0442",
+        "zh": "\u57c3\u53ca",
+        "he": "\u05de\u05e6\u05e8\u05d9\u05dd",
+        "hi": "\u092e\u093f\u0938\u094d\u0930",
+        "ja": "\u30a8\u30b8\u30d7\u30c8",
+        "pt": "Egito"
+    },
+    "ISO3166-2": {
+        "SHG": {
+            "name": "Sohag Governorate",
+            "code": "SHG",
+            "names": {
+                "geonames": "Sohag",
+                "ru": "\u0421\u043e\u0445\u0430\u0433",
+                "en": "Sohag Governorate",
+                "ar": "\u0633\u0648\u0647\u0627\u062c",
+                "de": "Sohag",
+                "es": "Suhag",
+                "fr": "Sohag",
+                "it": "Sohag",
+                "zh": "\u7d22\u54c8\u5091"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "SIN": {
+            "name": "North Sinai Governorate",
+            "code": "SIN",
+            "names": {
+                "geonames": "North Sinai",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0421\u0438\u043d\u0430\u0439",
+                "en": "North Sinai Governorate",
+                "ar": "\u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621",
+                "de": "Gouvernement Schimal Sina",
+                "es": "Sina\u00ed del Norte",
+                "fr": "Gouvernorat du Sina\u00ef Nord",
+                "it": "Governatorato del Sinai del Nord",
+                "zh": "\u5317\u897f\u5948\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 30.282365,
+            "lng": 33.61757699999998
+        },
+        "KN": {
+            "name": "Qena Governorate",
+            "code": "KN",
+            "names": {
+                "geonames": "Qena",
+                "ru": "\u041a\u0435\u043d\u0430",
+                "en": "Qena Governorate",
+                "de": "Quena",
+                "es": "Quena",
+                "fr": "Quena",
+                "it": "Quena",
+                "ar": "\u0642\u0646\u0627",
+                "zh": "\u57fa\u7d0d\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "MT": {
+            "name": "Matrouh Governorate",
+            "code": "MT",
+            "names": {
+                "geonames": "Matruh",
+                "ru": "\u041c\u0430\u0442\u0440\u0443\u0445",
+                "en": "Matrouh Governorate",
+                "ar": "\u0645\u0637\u0631\u0648\u062d",
+                "de": "Gouvernement Matruh",
+                "es": "Matr\u00fa",
+                "fr": "Gouvernorat de Marsa-Matruh",
+                "it": "Governatorato di Matruh",
+                "zh": "\u99ac\u7279\u9b6f\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "KFS": {
+            "name": "Kafr el-Sheikh Governorate",
+            "code": "KFS",
+            "names": {
+                "geonames": "Kafr el-Sheikh",
+                "ru": "\u041a\u0430\u0444\u0440 \u044d\u0448 \u0428\u0435\u0439\u0445",
+                "en": "Kafr el-Sheikh Governorate",
+                "ar": "\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+                "de": "Gouvernement Kafr asch-Schaich",
+                "es": "Kafr el Sheij",
+                "fr": "Gouvernorat de Kafr el-Cheik",
+                "it": "Governatorato di Kafr el-Sheikh",
+                "zh": "\u8b1d\u8d6b\u6751\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "JS": {
+            "name": "South Sinai Governorate",
+            "code": "JS",
+            "names": {
+                "geonames": "South Sinai",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0438\u043d\u0430\u0439",
+                "en": "South Sinai Governorate",
+                "ar": "\u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621",
+                "de": "Gouvernement Dschanub Sina",
+                "es": "Sina\u00ed del Sur",
+                "fr": "Gouvernorat du Sina\u00ef Sud",
+                "it": "Governatorato del Sinai del Sud",
+                "zh": "\u5357\u897f\u5948\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "DT": {
+            "name": "Damietta Governorate",
+            "code": "DT",
+            "names": {
+                "geonames": "Damietta",
+                "ru": "\u0414\u0443\u043c\u044c\u044f\u0442",
+                "en": "Damietta Governorate",
+                "ar": "\u062f\u0645\u064a\u0627\u0637",
+                "de": "Damiette",
+                "es": "Damieta",
+                "fr": "Damiette",
+                "it": "Damietta",
+                "zh": "\u675c\u59c6\u4e9a\u7279"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": null,
+            "lng": null
+        },
+        "PTS": {
+            "name": "Port Said Governorate",
+            "code": "PTS",
+            "names": {
+                "geonames": "Port Said",
+                "ru": "\u041f\u043e\u0440\u0442 \u0421\u0430\u0438\u0434",
+                "en": "Port Said Governorate",
+                "ar": "\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+                "de": "Gouvernement Bur Sa\u02bfid",
+                "es": "Puerto Sa\u00edd",
+                "fr": "Gouvernorat de Port-Sa\u00efd",
+                "it": "Governatorato di Porto Said",
+                "zh": "\u585e\u5f97\u6e2f\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 31.2565,
+            "lng": 32.291518999999994
+        },
+        "BNS": {
+            "name": "Beni Suef Governorate",
+            "code": "BNS",
+            "names": {
+                "geonames": "Beni Suweif",
+                "ru": "\u0411\u0435\u043d\u0438 \u0421\u0443\u044d\u0439\u0444",
+                "en": "Beni Suef Governorate",
+                "ar": "\u0628\u0646\u064a \u0633\u0648\u064a\u0641",
+                "de": "Gouvernement Bani Suwaif",
+                "es": "Beni Suef",
+                "fr": "Gouvernorat de Beni Souef",
+                "it": "Governatorato di Beni Suef",
+                "zh": "\u8d1d\u5c3c\u82cf\u97e6\u592b\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 29.076321,
+            "lng": 31.09692999999993
+        },
+        "AST": {
+            "name": "Asyut Governorate",
+            "code": "AST",
+            "names": {
+                "geonames": "Asyut",
+                "ru": "\u0410\u0441\u044c\u044e\u0442",
+                "en": "Asyut Governorate",
+                "ar": "\u0623\u0633\u064a\u0648\u0637",
+                "de": "Asyut",
+                "es": "Asiut",
+                "fr": "Assiout",
+                "it": "Asy\u016b\u1e6d",
+                "zh": "\u827e\u65af\u5c24\u7279"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 46.1549567,
+            "lng": -123.88519480000002
+        },
+        "ASN": {
+            "name": "Aswan Governorate",
+            "code": "ASN",
+            "names": {
+                "geonames": "Aswan",
+                "ru": "\u0410\u0441\u0443\u0430\u043d",
+                "en": "Aswan Governorate",
+                "ar": "\u0623\u0633\u0648\u0627\u0646",
+                "de": "Assuan",
+                "es": "Asu\u00e1n",
+                "fr": "Assouan",
+                "it": "Assuan",
+                "zh": "\u963f\u65af\u65fa"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 24.0818,
+            "lng": 32.910799999999995
+        },
+        "SUZ": {
+            "name": "Suez Governorate",
+            "code": "SUZ",
+            "names": {
+                "geonames": "Suez",
+                "ru": "\u0421\u0443\u044d\u0446",
+                "en": "Suez Governorate",
+                "ar": "\u0627\u0644\u0633\u0648\u064a\u0633",
+                "de": "Sues",
+                "es": "Suez",
+                "fr": "Suez",
+                "it": "Suez",
+                "zh": "\u82cf\u4f0a\u58eb"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 29.9834,
+            "lng": 32.52449999999999
+        },
+        "SHR": {
+            "name": "Al Sharqia Governorate",
+            "code": "SHR",
+            "names": {
+                "geonames": "Sharqia",
+                "ru": "\u0428\u0430\u0440\u043a\u0438\u044f",
+                "en": "Al Sharqia Governorate",
+                "ar": "\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "de": "Gouvernement asch-Scharqiyya",
+                "es": "Oriental",
+                "fr": "Ach-Charqiya",
+                "it": "Governatorato di Sharqiyya",
+                "zh": "\u6771\u90e8\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 44.7739218,
+            "lng": -106.9691929
+        },
+        "WAD": {
+            "name": "New Valley Governorate",
+            "code": "WAD",
+            "names": {
+                "geonames": "New Valley",
+                "ru": "\u041d\u043e\u0432\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430",
+                "en": "New Valley Governorate",
+                "es": "Nova Dolyna",
+                "ar": "\u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f",
+                "de": "Gouvernement al-Wadi al-dschadid",
+                "fr": "Gouvernorat de la Nouvelle-Vall\u00e9e",
+                "it": "Governatorato di Wadi al-Jadid",
+                "zh": "\u65b0\u6cb3\u8c37\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "KB": {
+            "name": "Qalyubia Governorate",
+            "code": "KB",
+            "names": {
+                "geonames": "Qalyubia",
+                "ru": "\u041a\u0430\u043b\u044c\u044e\u0431\u0438\u044f",
+                "en": "Qalyubia Governorate",
+                "ar": "\u0627\u0644\u0642\u0644\u064a\u0648\u0628\u064a\u0629",
+                "de": "Gouvernement al-Qalyubiyya",
+                "es": "Caliubia",
+                "fr": "Gouvernorat de Qalyubiya",
+                "it": "Governatorato di al-Qaly\u016bbiyya",
+                "zh": "\u84cb\u76e7\u6bd4\u5c24\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "C": {
+            "name": "Cairo Governorate",
+            "code": "C",
+            "names": {
+                "geonames": "Cairo",
+                "ru": "\u041a\u0430\u0438\u0440",
+                "en": "Cairo Governorate",
+                "ar": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+                "de": "Kairo",
+                "es": "El Cairo",
+                "fr": "Le Caire",
+                "it": "Il Cairo",
+                "zh": "\u5f00\u7f57"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 30.064742,
+            "lng": 31.24950899999999
+        },
+        "MN": {
+            "name": "Minya Governorate",
+            "code": "MN",
+            "names": {
+                "geonames": "Minya",
+                "ru": "\u042d\u043b\u044c \u041c\u0438\u043d\u044c\u044f",
+                "en": "Minya Governorate",
+                "ar": "\u0627\u0644\u0645\u0646\u064a\u0627",
+                "de": "Gouvernement al-Minya",
+                "es": "Menia",
+                "fr": "Gouvernorat de Minya",
+                "it": "Governatorato di Minya",
+                "zh": "\u660e\u4e9e\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 28.0907,
+            "lng": 30.75299999999993
+        },
+        "MNF": {
+            "name": "Monufia Governorate",
+            "code": "MNF",
+            "names": {
+                "geonames": "Monufia",
+                "ru": "\u041c\u0438\u043d\u0443\u0444\u0438\u044f",
+                "en": "Monufia Governorate",
+                "ar": "\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629",
+                "de": "Gouvernement al-Minufiyya",
+                "es": "Menufia",
+                "fr": "Gouvernorat de Menufeya",
+                "it": "Governatorato di al-Manufiyya",
+                "zh": "\u7c73\u52aa\u592b\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "GZ": {
+            "name": "Giza Governorate",
+            "code": "GZ",
+            "names": {
+                "geonames": "Giza",
+                "ru": "\u042d\u043b\u044c \u0413\u0438\u0437\u0430",
+                "en": "Giza Governorate",
+                "ar": "\u0627\u0644\u062c\u064a\u0632\u0629",
+                "de": "Gouvernement al-Dschiza",
+                "es": "Guiza",
+                "fr": "Gouvernorat de Gizeh",
+                "it": "Governatorato di Giza",
+                "zh": "\u5409\u85a9\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "IS": {
+            "name": "Al Ism\u0101\u02bf\u012bl\u012byyah",
+            "code": "IS",
+            "names": {
+                "geonames": "Ismailia",
+                "ru": "\u0418\u0441\u043c\u0430\u0438\u043b\u0438\u044f",
+                "en": "Al Ism\u0101\u02bf\u012bl\u012byyah",
+                "ar": "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629",
+                "de": "Ismailia",
+                "es": "Ismail\u00eda",
+                "fr": "Isma\u00eflia",
+                "it": "Ismailia",
+                "zh": "\u4f0a\u65af\u6885\u5229\u4e9a"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 30.58923,
+            "lng": 32.26585
+        },
+        "ALX": {
+            "name": "Alexandria Governorate",
+            "code": "ALX",
+            "names": {
+                "geonames": "Alexandria",
+                "ru": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
+                "en": "Alexandria Governorate",
+                "ar": "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+                "de": "Alexandria",
+                "es": "Alejandr\u00eda",
+                "fr": "Alexandrie",
+                "it": "Alessandria d'Egitto",
+                "zh": "\u4e9a\u5386\u5c71\u5927\u6e2f"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "GH": {
+            "name": "Gharbia Governorate",
+            "code": "GH",
+            "names": {
+                "geonames": "Gharbia",
+                "ru": "\u0413\u0430\u0440\u0431\u0438\u044f",
+                "en": "Gharbia Governorate",
+                "ar": "\u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+                "de": "Gouvernement al-Gharbiyya",
+                "es": "Occidental",
+                "fr": "Gouvernorat de Gharbeya",
+                "it": "Governatorato di Gharbiyya",
+                "zh": "\u897f\u90e8\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "FYM": {
+            "name": "Faiyum Governorate",
+            "code": "FYM",
+            "names": {
+                "geonames": "Faiyum",
+                "ru": "\u042d\u043b\u044c \u0424\u0430\u0439\u044e",
+                "en": "Faiyum Governorate",
+                "ar": "\u0627\u0644\u0641\u064a\u0648\u0645",
+                "de": "Gouvernement al-Fayyum",
+                "es": "Fay\u00fan",
+                "fr": "Gouvernorat du Fayoum",
+                "it": "Governatorato di Fayyum",
+                "zh": "\u6cd5\u5c24\u59c6\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "BH": {
+            "name": "Beheira Governorate",
+            "code": "BH",
+            "names": {
+                "geonames": "Beheira",
+                "ru": "\u0411\u0443\u0445\u0435\u0439\u0440\u0430",
+                "en": "Beheira Governorate",
+                "ar": "\u0627\u0644\u0628\u062d\u064a\u0631\u0629",
+                "de": "Gouvernement al-Buhaira",
+                "es": "Behera",
+                "fr": "Gouvernorat de Beheira",
+                "it": "Governatorato di Buhayra",
+                "zh": "\u5e03\u6d77\u62c9\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "BA": {
+            "name": "Red Sea Governorate",
+            "code": "BA",
+            "names": {
+                "geonames": "Red Sea",
+                "ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u043c\u043e\u0440\u0435",
+                "en": "Red Sea Governorate",
+                "ar": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631",
+                "de": "Rotes Meer",
+                "es": "Mar Rojo",
+                "fr": "Mer Rouge",
+                "it": "Mar Rosso",
+                "zh": "\u7ea2\u6d77"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 26.0833333,
+            "lng": 33.83333330000005
+        },
+        "DK": {
+            "name": "Dakahlia Governorate",
+            "code": "DK",
+            "names": {
+                "geonames": "Dakahlia",
+                "ru": "\u0414\u0430\u043a\u0430\u0445\u043b\u0438\u044f",
+                "en": "Dakahlia Governorate",
+                "ar": "\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629",
+                "de": "Gouvernement ad-Daqahliyya",
+                "es": "Dacalia",
+                "fr": "Gouvernorat de Dakhleya",
+                "it": "Governatorato di Daqahliyya",
+                "zh": "\u4ee3\u84cb\u8d6b\u5229\u8036\u7701"
+            },
+            "division": "governorate",
+            "parent": "EG",
+            "lat": 56.178898,
+            "lng": 10.424211000000014
+        },
+        "LX": {
+            "name": "Luxor Governorate",
+            "code": "LX",
+            "names": {
+                "geonames": "Luxor",
+                "ru": "\u041b\u0443\u043a\u0441\u043e\u0440",
+                "en": "Luxor Governorate",
+                "ar": "\u0627\u0644\u0623\u0642\u0635\u0631",
+                "de": "Luxor",
+                "es": "L\u00faxor",
+                "fr": "Louxor",
+                "it": "Luxor",
+                "zh": "\u6a02\u8700"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SU": {
+            "name": "As S\u0101dis min Ukt\u016bbar",
+            "division": "governorate",
+            "parent": "EG"
+        },
+        "HU": {
+            "name": "H\u0327ulw\u0101n",
+            "division": "governorate",
+            "parent": "EG"
+        }
+    }
+}

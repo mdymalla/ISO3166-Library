@@ -1,0 +1,395 @@
+{
+    "alpha-2": "NO",
+    "alpha-3": "NOR",
+    "numeric": 578,
+    "capital": "Oslo",
+    "currency": "NOK",
+    "languages": [
+        "no",
+        "nb",
+        "nn"
+    ],
+    "flag-icon": "\ud83c\uddf3\ud83c\uddf4",
+    "names": {
+        "geonames": "Norway",
+        "en": "Norway",
+        "ar": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c",
+        "de": "Norwegen",
+        "es": "Noruega",
+        "fr": "Norv\u00e8ge",
+        "it": "Norvegia",
+        "ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "zh": "\u632a\u5a01",
+        "he": "\u05e0\u05d5\u05e8\u05d5\u05d5\u05d2\u05d9\u05d4",
+        "hi": "\u0928\u0949\u0930\u094d\u0935\u0947",
+        "ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
+        "pt": "Noruega"
+    },
+    "ISO3166-2": {
+        "20": {
+            "name": "Finnmark",
+            "code": "20",
+            "names": {
+                "geonames": "Finnmark",
+                "ru": "\u0424\u0438\u043d\u043d\u043c\u0430\u0440\u043a",
+                "en": "Finnmark",
+                "ar": "\u0641\u064a\u0646\u0645\u0627\u0631\u0643",
+                "de": "Finnmark",
+                "es": "Finnmark",
+                "fr": "Comt\u00e9 de Finnmark",
+                "it": "Finnmark",
+                "zh": "\u82ac\u9a6c\u514b\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 52.1362078,
+            "lng": 5.432760700000017
+        },
+        "07": {
+            "name": "Vestfold",
+            "code": "07",
+            "names": {
+                "geonames": "Vestfold",
+                "ru": "\u0412\u0435\u0441\u0442\u0444\u043e\u043b\u043b",
+                "en": "Vestfold",
+                "ar": "\u0641\u0633\u062a\u0641\u0648\u0644\u062f",
+                "de": "Vestfold",
+                "es": "Vestfold",
+                "fr": "Comt\u00e9 de Vestfold",
+                "it": "Vestfold",
+                "zh": "\u897f\u798f\u5c14\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 57.2982944,
+            "lng": 9.656915600000048
+        },
+        "10": {
+            "name": "Vest-Agder",
+            "code": "10",
+            "names": {
+                "geonames": "Vest-Agder",
+                "ru": "\u0412\u0435\u0441\u0442-\u0410\u0433\u0434\u0435\u0440",
+                "en": "Vest-Agder",
+                "de": "Vest-Agder",
+                "es": "Vest-Agder",
+                "fr": "Comt\u00e9 de Vest-Agder",
+                "it": "Vest-Agder",
+                "zh": "\u897f\u963f\u683c\u5fb7\u5c14\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 58.0686167,
+            "lng": 7.386932399999978
+        },
+        "19": {
+            "name": "Troms",
+            "code": "19",
+            "names": {
+                "geonames": "Troms",
+                "ru": "\u0422\u0440\u043e\u043c\u0441",
+                "en": "Troms",
+                "ar": "\u062a\u0631\u0648\u0645\u0633",
+                "de": "Troms",
+                "es": "Troms",
+                "fr": "Comt\u00e9 de Troms",
+                "it": "Troms",
+                "zh": "\u7279\u7f57\u59c6\u65af\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 70.6734555,
+            "lng": 23.66569930000003
+        },
+        "08": {
+            "name": "Telemark",
+            "code": "08",
+            "names": {
+                "geonames": "Telemark",
+                "ru": "\u0422\u0435\u043b\u0435\u043c\u0430\u0440\u043a",
+                "en": "Telemark",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0644\u0645\u0627\u0631\u0643",
+                "de": "Telemark",
+                "es": "Telemark",
+                "fr": "Comt\u00e9 de Telemark",
+                "it": "Telemark",
+                "zh": "\u6cf0\u52d2\u9a6c\u514b\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 46.2010194,
+            "lng": -91.05709990000003
+        },
+        "16": {
+            "name": "S\u00f8r-Tr\u00f8ndelag",
+            "code": "16",
+            "names": {
+                "geonames": "Sor-Trondelag",
+                "ru": "\u0421\u0451\u0440-\u0422\u0440\u0451\u043d\u0434\u0435\u043b\u0430\u0433",
+                "en": "S\u00f8r-Tr\u00f8ndelag",
+                "de": "S\u00f8r-Tr\u00f8ndelag",
+                "es": "S\u00f8r-Tr\u00f8ndelag",
+                "fr": "Comt\u00e9 de S\u00f8r-Tr\u00f8ndelag",
+                "it": "S\u00f8r-Tr\u00f8ndelag",
+                "zh": "\u5357\u7279\u4f26\u5fb7\u62c9\u683c\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 63.6062246,
+            "lng": 8.970937700000036
+        },
+        "14": {
+            "name": "Sogn og Fjordane",
+            "code": "14",
+            "names": {
+                "geonames": "Sogn og Fjordane",
+                "ru": "\u0421\u043e\u0433\u043d-\u043e\u0433-\u0424\u044c\u044e\u0440\u0430\u043d\u0435",
+                "en": "Sogn og Fjordane",
+                "de": "Sogn og Fjordane",
+                "es": "Sogn og Fjordane",
+                "fr": "Comt\u00e9 de Sogn og Fjordane",
+                "it": "Sogn og Fjordane",
+                "zh": "\u677e\u6069-\u83f2\u5c24\u62c9\u8bb7\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 61.588841,
+            "lng": 5.042037899999968
+        },
+        "11": {
+            "name": "Rogaland",
+            "code": "11",
+            "names": {
+                "geonames": "Rogaland",
+                "ru": "\u0420\u0443\u0433\u0430\u043b\u0430\u043d\u043d",
+                "en": "Rogaland",
+                "de": "Rogaland",
+                "es": "Rogaland",
+                "fr": "Comt\u00e9 de Rogaland",
+                "it": "Rogaland",
+                "zh": "\u7f57\u52a0\u5170\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 51.9365166,
+            "lng": 4.5971002
+        },
+        "01": {
+            "name": "\u00d8stfold",
+            "code": "01",
+            "names": {
+                "geonames": "Ostfold",
+                "ru": "\u042d\u0441\u0442\u0444\u043e\u043b\u043b",
+                "en": "\u00d8stfold",
+                "ar": "\u0623\u0633\u062a\u0641\u0644\u062f",
+                "de": "\u00d8stfold",
+                "es": "\u00d8stfold",
+                "fr": "Comt\u00e9 d'\u00d8stfold",
+                "it": "\u00d8stfold",
+                "zh": "\u4e1c\u798f\u5c14\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 59.4912932,
+            "lng": 10.852177900000015
+        },
+        "03": {
+            "name": "Oslo",
+            "code": "03",
+            "names": {
+                "geonames": "Oslo",
+                "ru": "\u041e\u0441\u043b\u043e",
+                "en": "Oslo",
+                "ar": "\u0623\u0648\u0633\u0644\u0648",
+                "de": "Oslo",
+                "es": "Oslo",
+                "fr": "Oslo",
+                "it": "Oslo",
+                "zh": "\u5965\u65af\u9646"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 59.9138688,
+            "lng": 10.752245399999993
+        },
+        "05": {
+            "name": "Oppland",
+            "code": "05",
+            "names": {
+                "geonames": "Oppland",
+                "ru": "\u041e\u043f\u043f\u043b\u0430\u043d\u043d",
+                "en": "Oppland",
+                "ar": "\u0623\u0648\u0628\u0644\u0627\u0646\u062f",
+                "de": "Oppland",
+                "es": "Oppland",
+                "fr": "Comt\u00e9 d'Oppland",
+                "it": "Oppland",
+                "zh": "\u5965\u666e\u5170\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 51.9364031,
+            "lng": 4.598902800000019
+        },
+        "17": {
+            "name": "Nord-Tr\u00f8ndelag",
+            "code": "17",
+            "names": {
+                "geonames": "Nord-Trondelag",
+                "ru": "\u041d\u0443\u0440-\u0422\u0440\u0451\u043d\u0434\u0435\u043b\u0430\u0433",
+                "en": "Nord-Tr\u00f8ndelag",
+                "de": "Nord-Tr\u00f8ndelag",
+                "es": "Nord-Tr\u00f8ndelag",
+                "fr": "Comt\u00e9 de Nord-Tr\u00f8ndelag",
+                "it": "Nord-Tr\u00f8ndelag",
+                "zh": "\u5317\u7279\u4f26\u5fb7\u62c9\u683c\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 64.8613357,
+            "lng": 11.23296240000002
+        },
+        "18": {
+            "name": "Nordland",
+            "code": "18",
+            "names": {
+                "geonames": "Nordland",
+                "ru": "\u041d\u0443\u0440\u043b\u0430\u043d\u043d",
+                "en": "Nordland",
+                "ar": "\u0646\u0648\u0631\u0644\u0627\u0646",
+                "de": "Nordland",
+                "es": "Nordland",
+                "fr": "Comt\u00e9 de Nordland",
+                "it": "Nordland",
+                "zh": "\u8bfa\u5c14\u5170\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 67.6916702,
+            "lng": 12.70194760000004
+        },
+        "15": {
+            "name": "M\u00f8re og Romsdal",
+            "code": "15",
+            "names": {
+                "geonames": "More og Romsdal",
+                "ru": "\u041c\u0451\u0440\u0435-\u043e\u0433-\u0420\u043e\u043c\u0441\u0434\u0430\u043b",
+                "en": "M\u00f8re og Romsdal",
+                "ar": "\u0645\u0648\u0631 \u0623\u0648 \u0631\u0648\u0645\u064a\u0633\u062f\u0627\u0644",
+                "de": "M\u00f8re og Romsdal",
+                "es": "M\u00f8re og Romsdal",
+                "fr": "Comt\u00e9 de M\u00f8re og Romsdal",
+                "it": "M\u00f8re og Romsdal",
+                "zh": "\u9ed8\u52d2-\u9c81\u59c6\u65af\u8fbe\u5c14\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 62.6228509,
+            "lng": 7.171365100000003
+        },
+        "12": {
+            "name": "Hordaland",
+            "code": "12",
+            "names": {
+                "geonames": "Hordaland",
+                "ru": "\u0425\u043e\u0440\u0434\u0430\u043b\u0430\u043d\u043d",
+                "en": "Hordaland",
+                "de": "Hordaland",
+                "es": "Hordaland",
+                "fr": "Comt\u00e9 de Hordaland",
+                "it": "Hordaland",
+                "zh": "\u970d\u8fbe\u5170\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 51.9357508,
+            "lng": 4.59849209999993
+        },
+        "04": {
+            "name": "Hedmark",
+            "code": "04",
+            "names": {
+                "geonames": "Hedmark",
+                "ru": "\u0425\u0435\u0434\u043c\u0430\u0440\u043a",
+                "en": "Hedmark",
+                "de": "Hedmark",
+                "es": "Hedmark",
+                "fr": "Comt\u00e9 de Hedmark",
+                "it": "Hedmark",
+                "zh": "\u6d77\u5fb7\u9a6c\u514b\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 60.7922226,
+            "lng": 11.034736599999974
+        },
+        "06": {
+            "name": "Buskerud",
+            "code": "06",
+            "names": {
+                "geonames": "Buskerud",
+                "ru": "\u0411\u0443\u0441\u043a\u0435\u0440\u0443\u0434",
+                "en": "Buskerud",
+                "de": "Buskerud",
+                "es": "Buskerud",
+                "fr": "Comt\u00e9 de Buskerud",
+                "it": "Buskerud",
+                "zh": "\u5e03\u65af\u514b\u5415\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 59.7513261,
+            "lng": 10.151991400000043
+        },
+        "09": {
+            "name": "Aust-Agder",
+            "code": "09",
+            "names": {
+                "geonames": "Aust-Agder",
+                "ru": "\u042d\u0443\u0441\u0442-\u0410\u0433\u0434\u0435\u0440",
+                "en": "Aust-Agder",
+                "de": "Aust-Agder",
+                "es": "Aust-Agder",
+                "fr": "Comt\u00e9 d'Aust-Agder",
+                "it": "Aust-Agder",
+                "zh": "\u4e1c\u963f\u683c\u5fb7\u5c14\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 58.3661796,
+            "lng": 8.59473539999999
+        },
+        "02": {
+            "name": "Akershus",
+            "code": "02",
+            "names": {
+                "geonames": "Akershus",
+                "ru": "\u0410\u043a\u0435\u0440\u0441\u0445\u0443\u0441",
+                "en": "Akershus",
+                "de": "Akershus",
+                "es": "Akershus",
+                "fr": "Comt\u00e9 d'Akershus",
+                "it": "Akershus",
+                "zh": "\u963f\u514b\u4ec0\u80e1\u65af\u90e1"
+            },
+            "division": "county",
+            "parent": "NO",
+            "lat": 59.9198022,
+            "lng": 10.754524599999968
+        },
+        "22": {
+            "name": "Jan Mayen",
+            "division": "county",
+            "parent": "NO",
+            "lat": 69.6412795,
+            "lng": 18.9026523
+        },
+        "21": {
+            "name": "Svalbard",
+            "division": "county",
+            "parent": "NO",
+            "lat": 64.252025,
+            "lng": -15.209702300000004
+        }
+    }
+}

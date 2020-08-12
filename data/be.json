@@ -1,0 +1,155 @@
+{
+    "alpha-2": "BE",
+    "alpha-3": "BEL",
+    "numeric": 56,
+    "capital": "Brussels",
+    "currency": "EUR",
+    "languages": [
+        "nl",
+        "fr",
+        "de"
+    ],
+    "flag-icon": "\ud83c\udde7\ud83c\uddea",
+    "names": {
+        "geonames": "Belgium",
+        "en": "Belgium",
+        "ar": "\u0628\u0644\u062c\u064a\u0643\u0627",
+        "de": "Belgien",
+        "es": "B\u00e9lgica",
+        "fr": "Belgique",
+        "it": "Belgio",
+        "ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+        "zh": "\u6bd4\u5229\u65f6",
+        "he": "\u05d1\u05dc\u05d2\u05d9\u05d4",
+        "hi": "\u092c\u0947\u0932\u094d\u091c\u093f\u092f\u092e",
+        "ja": "\u30d9\u30eb\u30ae\u30fc",
+        "pt": "B\u00e9lgica"
+    },
+    "ISO3166-2": {
+        "BRU": {
+            "name": "Brussels",
+            "code": "BRU",
+            "names": {
+                "geonames": "Brussels Capital",
+                "ru": "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "Brussels",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0628\u0631\u0648\u0643\u0633\u0644 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+                "de": "Region Br\u00fcssel-Hauptstadt",
+                "es": "Regi\u00f3n de Bruselas-Capital",
+                "fr": "R\u00e9gion de Bruxelles-Capitale",
+                "it": "Regione di Bruxelles-Capitale",
+                "zh": "\u5e03\u9c81\u585e\u5c14"
+            },
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.8503396,
+            "lng": 4.351710300000036
+        },
+        "WAL": {
+            "name": "Wallonia",
+            "code": "WAL",
+            "names": {
+                "geonames": "Wallonia",
+                "ru": "\u0412\u0430\u043b\u043b\u043e\u043d\u0438\u044f",
+                "en": "Wallonia",
+                "ar": "\u0648\u0627\u0644\u0648\u0646\u064a\u0627",
+                "de": "Wallonische Region",
+                "es": "Regi\u00f3n Valona",
+                "fr": "R\u00e9gion wallonne",
+                "it": "Vallonia",
+                "zh": "\u74e6\u9686"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "VLG": {
+            "name": "Flemish Region",
+            "code": "VLG",
+            "names": {
+                "geonames": "Flanders",
+                "en": "Flemish Region",
+                "ar": "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0641\u0644\u0627\u0645\u0646\u062f\u064a",
+                "es": "Regi\u00f3n Flamenca",
+                "fr": "R\u00e9gion flamande",
+                "ru": "\u0424\u043b\u0430\u043c\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "zh": "\u5f17\u62c9\u8292\u5927\u5340"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "VAN": {
+            "name": "Antwerpen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.21992,
+            "lng": 4.396250000000009
+        },
+        "WBR": {
+            "name": "Brabant Wallon",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.6769713,
+            "lng": 4.625562899999977
+        },
+        "WHT": {
+            "name": "Hainaut",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.4804432,
+            "lng": 4.358186599999954
+        },
+        "WLG": {
+            "name": "Liege",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.63333,
+            "lng": 5.566659999999956
+        },
+        "VLI": {
+            "name": "Limburg",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.9738973,
+            "lng": 5.341967699999941
+        },
+        "WLX": {
+            "name": "Luxembourg",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.0546886,
+            "lng": 5.467698299999938
+        },
+        "WNA": {
+            "name": "Namur",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.465328,
+            "lng": 4.867664999999988
+        },
+        "VOV": {
+            "name": "Oost-Vlaanderen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.02337,
+            "lng": 3.621849999999995
+        },
+        "VBR": {
+            "name": "Vlaams-Brabant",
+            "division": "province",
+            "parent": "BE",
+            "lat": 50.8770154,
+            "lng": 4.717335000000048
+        },
+        "VWV": {
+            "name": "West-Vlaanderen",
+            "division": "province",
+            "parent": "BE",
+            "lat": 51.30054,
+            "lng": 3.15300000000002
+        }
+    }
+}

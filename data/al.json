@@ -1,0 +1,408 @@
+{
+    "alpha-2": "AL",
+    "alpha-3": "ALB",
+    "numeric": 8,
+    "capital": "Tirana",
+    "currency": "ALL",
+    "languages": [
+        "sq"
+    ],
+    "flag-icon": "\ud83c\udde6\ud83c\uddf1",
+    "names": {
+        "geonames": "Albania",
+        "en": "Albania",
+        "ar": "\u0623\u0644\u0628\u0627\u0646\u064a\u0627",
+        "de": "Albanien",
+        "es": "Albania",
+        "fr": "Albanie",
+        "it": "Albania",
+        "ru": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f",
+        "zh": "\u963f\u5c14\u5df4\u5c3c\u4e9a",
+        "he": "\u05d0\u05dc\u05d1\u05e0\u05d9\u05d4",
+        "hi": "\u0905\u0932\u094d\u092c\u093e\u0928\u093f\u092f\u093e",
+        "ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
+        "pt": "Alb\u00e2nia"
+    },
+    "ISO3166-2": {
+        "BR": {
+            "name": "Berat",
+            "code": "BR",
+            "names": {
+                "geonames": "Berat",
+                "en": "Berat"
+            },
+            "division": "district",
+            "parent": "AL-01",
+            "lat": 42.8720128,
+            "lng": -0.5582494999999881
+        },
+        "DI": {
+            "name": "Diber",
+            "code": "DI",
+            "names": {
+                "geonames": "Diber",
+                "en": "Diber"
+            },
+            "division": "district",
+            "parent": "AL-09",
+            "lat": null,
+            "lng": null
+        },
+        "EL": {
+            "name": "Elbasan",
+            "code": "EL",
+            "names": {
+                "geonames": "Elbasan",
+                "en": "Elbasan"
+            },
+            "division": "district",
+            "parent": "AL-03",
+            "lat": null,
+            "lng": null
+        },
+        "GJ": {
+            "name": "Gjirokaster",
+            "code": "GJ",
+            "names": {
+                "geonames": "Gjirokaster",
+                "en": "Gjirokaster"
+            },
+            "division": "district",
+            "parent": "AL-05",
+            "lat": null,
+            "lng": null
+        },
+        "06": {
+            "name": "Kor\u00e7\u00eb County",
+            "code": "06",
+            "names": {
+                "geonames": "Korce",
+                "ru": "\u041a\u043e\u0440\u0447\u0430",
+                "en": "Kor\u00e7\u00eb County",
+                "de": "Qark Kor\u00e7a",
+                "es": "Condado de Kor\u00e7\u00eb",
+                "fr": "Pr\u00e9fecture de Kor\u00e7\u00eb",
+                "it": "Prefettura di Coriza",
+                "zh": "\u79d1\u8d64\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 40.618307,
+            "lng": 20.79006000000004
+        },
+        "07": {
+            "name": "Kuk\u00ebs County",
+            "code": "07",
+            "names": {
+                "geonames": "Kukes",
+                "ru": "\u041a\u0443\u043a\u0435\u0441",
+                "en": "Kuk\u00ebs County",
+                "de": "Qark Kuk\u00ebs",
+                "es": "Condado de Kuk\u00ebs",
+                "fr": "Pr\u00e9fecture de Kuk\u00ebs",
+                "it": "Prefettura di Kuk\u00ebs",
+                "zh": "\u5eab\u514b\u65af\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 42.084391,
+            "lng": 20.420250500000066
+        },
+        "02": {
+            "name": "Durr\u00ebs County",
+            "code": "02",
+            "names": {
+                "geonames": "Durres",
+                "ru": "\u0414\u0443\u0440\u0440\u0435\u0441",
+                "en": "Durr\u00ebs County",
+                "de": "Qark Durr\u00ebs",
+                "es": "Condado de Durr\u00ebs",
+                "fr": "Pr\u00e9fecture de Durr\u00ebs",
+                "it": "Prefettura di Durazzo",
+                "zh": "\u675c\u52d2\u65af\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 41.3166667,
+            "lng": 19.450000000000045
+        },
+        "04": {
+            "name": "Fier County",
+            "code": "04",
+            "names": {
+                "geonames": "Fier",
+                "ru": "\u0424\u0438\u0435\u0440\u0438",
+                "en": "Fier County",
+                "de": "Qark Fier",
+                "es": "Condado de Fier",
+                "fr": "Pr\u00e9fecture de Fier",
+                "it": "Prefettura di Fier",
+                "zh": "\u975e\u590f\u723e\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 40.730019,
+            "lng": 19.573259000000007
+        },
+        "LE": {
+            "name": "Lezhe",
+            "code": "LE",
+            "names": {
+                "geonames": "Lezhe",
+                "en": "Lezhe"
+            },
+            "division": "district",
+            "parent": "AL-08",
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Shkod\u00ebr County",
+            "code": "10",
+            "names": {
+                "geonames": "Shkoder",
+                "ru": "\u0428\u043a\u043e\u0434\u0435\u0440",
+                "en": "Shkod\u00ebr County",
+                "de": "Qark Shkodra",
+                "es": "Condado de Shkod\u00ebr",
+                "fr": "Pr\u00e9fecture de Shkod\u00ebr",
+                "it": "Prefettura di Scutari",
+                "zh": "\u58eb\u79d1\u5fb7\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 42.074299,
+            "lng": 19.52765999999997
+        },
+        "11": {
+            "name": "Tirana County",
+            "code": "11",
+            "names": {
+                "geonames": "Tirane",
+                "ru": "\u0422\u0438\u0440\u0430\u043d\u0430",
+                "en": "Tirana County",
+                "de": "Qark Tirana",
+                "es": "Condado de Tirana",
+                "fr": "Pr\u00e9fecture de Tirana",
+                "it": "Prefettura di Tirana",
+                "zh": "\u5730\u62c9\u90a3\u5dde"
+            },
+            "division": "county",
+            "parent": "AL",
+            "lat": 41.33,
+            "lng": 19.819999999999936
+        },
+        "VL": {
+            "name": "Vlore",
+            "code": "VL",
+            "names": {
+                "geonames": "Vlore",
+                "en": "Vlore"
+            },
+            "division": "district",
+            "parent": "AL-12",
+            "lat": null,
+            "lng": null
+        },
+        "01": {
+            "name": "Berat",
+            "division": "county",
+            "parent": "AL",
+            "lat": 40.7,
+            "lng": 19.950000000000045
+        },
+        "09": {
+            "name": "Dib\u00ebr",
+            "division": "county",
+            "parent": "AL"
+        },
+        "03": {
+            "name": "Elbasan",
+            "division": "county",
+            "parent": "AL",
+            "lat": 41.11684,
+            "lng": 20.09262100000001
+        },
+        "05": {
+            "name": "Gjirokast\u00ebr",
+            "division": "county",
+            "parent": "AL",
+            "lat": 40.078751,
+            "lng": 20.14862100000005
+        },
+        "08": {
+            "name": "Lezh\u00eb",
+            "division": "county",
+            "parent": "AL",
+            "lat": 41.787731,
+            "lng": 19.654070000000047
+        },
+        "12": {
+            "name": "Vlor\u00eb",
+            "division": "county",
+            "parent": "AL",
+            "lat": 40.471882,
+            "lng": 19.490219000000025
+        },
+        "BU": {
+            "name": "Bulqiz\u00eb",
+            "division": "district",
+            "parent": "AL-09"
+        },
+        "DL": {
+            "name": "Delvin\u00eb",
+            "division": "district",
+            "parent": "AL-12",
+            "lat": 39.95,
+            "lng": 20.100000000000023
+        },
+        "DV": {
+            "name": "Devoll",
+            "division": "district",
+            "parent": "AL-06"
+        },
+        "DR": {
+            "name": "Durr\u00ebs",
+            "division": "district",
+            "parent": "AL-02",
+            "lat": 41.807445,
+            "lng": 19.943543699999964
+        },
+        "FR": {
+            "name": "Fier",
+            "division": "district",
+            "parent": "AL-04"
+        },
+        "GR": {
+            "name": "Gramsh",
+            "division": "district",
+            "parent": "AL-03",
+            "lat": 40.8646209,
+            "lng": 20.187131200000067
+        },
+        "HA": {
+            "name": "Has",
+            "division": "district",
+            "parent": "AL-07"
+        },
+        "KA": {
+            "name": "Kavaj\u00eb",
+            "division": "district",
+            "parent": "AL-11"
+        },
+        "ER": {
+            "name": "Kolonj\u00eb",
+            "division": "district",
+            "parent": "AL-06"
+        },
+        "KO": {
+            "name": "Kor\u00e7\u00eb",
+            "division": "district",
+            "parent": "AL-06"
+        },
+        "KR": {
+            "name": "Kruj\u00eb",
+            "division": "district",
+            "parent": "AL-02"
+        },
+        "KC": {
+            "name": "Ku\u00e7ov\u00eb",
+            "division": "district",
+            "parent": "AL-01"
+        },
+        "KU": {
+            "name": "Kuk\u00ebs",
+            "division": "district",
+            "parent": "AL-07"
+        },
+        "KB": {
+            "name": "Kurbin",
+            "division": "district",
+            "parent": "AL-08"
+        },
+        "LB": {
+            "name": "Librazhd",
+            "division": "district",
+            "parent": "AL-03"
+        },
+        "LU": {
+            "name": "Lushnj\u00eb",
+            "division": "district",
+            "parent": "AL-04"
+        },
+        "MM": {
+            "name": "Mal\u00ebsi e Madhe",
+            "division": "district",
+            "parent": "AL-10"
+        },
+        "MK": {
+            "name": "Mallakast\u00ebr",
+            "division": "district",
+            "parent": "AL-04"
+        },
+        "MT": {
+            "name": "Mat",
+            "division": "district",
+            "parent": "AL-09"
+        },
+        "MR": {
+            "name": "Mirdit\u00eb",
+            "division": "district",
+            "parent": "AL-08"
+        },
+        "PQ": {
+            "name": "Peqin",
+            "division": "district",
+            "parent": "AL-03"
+        },
+        "PR": {
+            "name": "P\u00ebrmet",
+            "division": "district",
+            "parent": "AL-05"
+        },
+        "PG": {
+            "name": "Pogradec",
+            "division": "district",
+            "parent": "AL-06"
+        },
+        "PU": {
+            "name": "Puk\u00eb",
+            "division": "district",
+            "parent": "AL-10"
+        },
+        "SR": {
+            "name": "Sarand\u00eb",
+            "division": "district",
+            "parent": "AL-12"
+        },
+        "SK": {
+            "name": "Skrapar",
+            "division": "district",
+            "parent": "AL-01"
+        },
+        "SH": {
+            "name": "Shkod\u00ebr",
+            "division": "district",
+            "parent": "AL-10",
+            "lat": 42.0536145,
+            "lng": 19.498008099999993
+        },
+        "TE": {
+            "name": "Tepelen\u00eb",
+            "division": "district",
+            "parent": "AL-05"
+        },
+        "TR": {
+            "name": "Tiran\u00eb",
+            "division": "district",
+            "parent": "AL-11",
+            "lat": 41.3147867,
+            "lng": 19.79789299999993
+        },
+        "TP": {
+            "name": "Tropoj\u00eb",
+            "division": "district",
+            "parent": "AL-07"
+        }
+    }
+}

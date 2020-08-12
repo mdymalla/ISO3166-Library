@@ -1,0 +1,476 @@
+{
+    "alpha-2": "KH",
+    "alpha-3": "KHM",
+    "numeric": 116,
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "languages": [
+        "km"
+    ],
+    "flag-icon": "\ud83c\uddf0\ud83c\udded",
+    "names": {
+        "geonames": "Cambodia",
+        "en": "Cambodia",
+        "ar": "\u0643\u0645\u0628\u0648\u062f\u064a\u0627",
+        "de": "Kambodscha",
+        "es": "Camboya",
+        "fr": "Cambodge",
+        "it": "Cambogia",
+        "ru": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430",
+        "zh": "\u67ec\u57d4\u5be8",
+        "he": "\u05e7\u05de\u05d1\u05d5\u05d3\u05d9\u05d4",
+        "hi": "\u0915\u092e\u094d\u092c\u094b\u0921\u093f\u092f\u093e",
+        "ja": "\u30ab\u30f3\u30dc\u30b8\u30a2",
+        "pt": "Camboja"
+    },
+    "ISO3166-2": {
+        "15": {
+            "name": "Pursat Province",
+            "code": "15",
+            "names": {
+                "geonames": "Pursat",
+                "ru": "\u041f\u043e\u0443\u0441\u0430\u0442",
+                "en": "Pursat Province",
+                "de": "Pursat",
+                "es": "Provincia de Pursat",
+                "fr": "Province de Pouthisat",
+                "it": "Provincia di Pursat",
+                "zh": "\u83e9\u8428\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.5333333,
+            "lng": 103.91666669999995
+        },
+        "2": {
+            "name": "Battambang Province",
+            "code": "2",
+            "names": {
+                "geonames": "Battambang",
+                "ru": "\u0411\u0430\u0442\u0442\u0430\u043c\u0431\u0430\u043d\u0433",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u062a\u0627\u0645\u0628\u0627\u0646\u063a",
+                "de": "Battambang",
+                "en": "Battambang Province",
+                "es": "Battambang",
+                "fr": "Province de Battambang",
+                "it": "Provincia di Battambang",
+                "zh": "\u99ac\u5fb7\u671b\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 13.1190499,
+            "lng": 103.20864419999998
+        },
+        "21": {
+            "name": "Tak\u00e9o Province",
+            "code": "21",
+            "names": {
+                "geonames": "Takeo",
+                "ru": "\u0422\u0430\u043a\u0435\u043e",
+                "en": "Tak\u00e9o Province",
+                "ar": "\u062a\u0627\u0643\u064a\u0648\u060c \u0633\u0627\u063a\u0627",
+                "de": "Takeo",
+                "fr": "Takeo",
+                "it": "Takeo",
+                "zh": "\u6b66\u96c4\u5e02",
+                "es": "Provincia de Tak\u00e9o"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 10.9833333,
+            "lng": 104.78333329999998
+        },
+        "20": {
+            "name": "Svay Rieng Province",
+            "code": "20",
+            "names": {
+                "geonames": "Svay Rieng",
+                "ru": "\u0421\u0432\u0430\u0439\u0440\u0438\u0435\u043d\u0433",
+                "en": "Svay Rieng Province",
+                "de": "Svay Rieng",
+                "es": "Provincia de Svay Rieng",
+                "fr": "Province de Svay Rieng",
+                "it": "Provincia di Svay Rieng",
+                "zh": "\u67f4\u6968\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.0833333,
+            "lng": 105.79999999999995
+        },
+        "19": {
+            "name": "Stung Treng Province",
+            "code": "19",
+            "names": {
+                "geonames": "Stung Treng",
+                "ru": "\u0421\u0442\u044b\u043d\u0433\u0442\u0440\u0430\u0435\u043d\u0433",
+                "en": "Stung Treng Province",
+                "de": "Stung Treng",
+                "es": "Provincia de Stung Treng",
+                "fr": "Province de Stoeng Treng",
+                "it": "Provincia di Stung Treng",
+                "zh": "\u4e0a\u4e01\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "22": {
+            "name": "Oddar Meanchey Province",
+            "code": "22",
+            "names": {
+                "geonames": "Otar Meanchey",
+                "ru": "\u041e\u0434\u0434\u0430\u0440\u043c\u0435\u0430\u043d\u0442\u044c\u0435\u0439",
+                "en": "Oddar Meanchey Province",
+                "de": "Oddar Meanchey",
+                "es": "Provincia de Oddar Mean Chey",
+                "fr": "Province d'Otdar Mean Cheay",
+                "it": "Provincia di Oddar Meancheay",
+                "zh": "\u5965\u591a\u68c9\u5409\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "17": {
+            "name": "Siem Reap Province",
+            "code": "17",
+            "names": {
+                "geonames": "Siem Reap",
+                "ru": "\u0421\u0438\u0435\u043c\u0440\u0435\u0430\u043f",
+                "en": "Siem Reap Province",
+                "de": "Siem Reap",
+                "es": "Provincia de Siem Riep",
+                "fr": "Province de Siem Reap",
+                "it": "Provincia di Siem Reap",
+                "zh": "\u66b9\u7c92\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 13.3622222,
+            "lng": 103.85972219999996
+        },
+        "16": {
+            "name": "Ratanakiri Province",
+            "code": "16",
+            "names": {
+                "geonames": "Ratanakiri",
+                "ru": "\u0420\u0430\u0442\u0430\u043d\u0430\u043a\u0438\u0440\u0438",
+                "en": "Ratanakiri Province",
+                "de": "Ratanakiri",
+                "es": "Provincia de Ratanak Kir\u00ed",
+                "fr": "Province de Rotanah Kiri",
+                "it": "Provincia di Ratanakiri",
+                "zh": "\u814a\u5854\u7eb3\u57fa\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "14": {
+            "name": "Prey Veng Province",
+            "code": "14",
+            "names": {
+                "geonames": "Prey Veng",
+                "ru": "\u041f\u0440\u0435\u0439\u0432\u044d\u043d\u0433",
+                "en": "Prey Veng Province",
+                "de": "Prey Veng",
+                "es": "Provincia de Prey Veng",
+                "fr": "Province de Prey Veng",
+                "it": "Provincia di Prey Veng",
+                "zh": "\u6ce2\u841d\u52c9\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.485114,
+            "lng": 105.32809799999995
+        },
+        "13": {
+            "name": "Preah Vihear Province",
+            "code": "13",
+            "names": {
+                "geonames": "Preah Vihear",
+                "ru": "\u041f\u0440\u044d\u0430\u0445\u0432\u0438\u0445\u0435\u0430",
+                "en": "Preah Vihear Province",
+                "de": "Prasat Preah Vihear",
+                "es": "Templo Preah Vihear",
+                "fr": "Temple de Preah Vihear",
+                "it": "Tempio Preah Vihear",
+                "zh": "\u67cf\u5a01\u590f\u5bfa"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 14.130792,
+            "lng": 105.8754212
+        },
+        "12": {
+            "name": "Phnom Penh",
+            "code": "12",
+            "names": {
+                "geonames": "Phnom Penh",
+                "ru": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c",
+                "en": "Phnom Penh",
+                "ar": "\u0628\u0646\u0648\u0645 \u0628\u0646",
+                "de": "Phnom Penh",
+                "es": "Nom Pen",
+                "fr": "Phnom Penh",
+                "it": "Phnom Penh",
+                "zh": "\u91d1\u8fb9"
+            },
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": 11.558831,
+            "lng": 104.91744500000004
+        },
+        "24": {
+            "name": "Pailin",
+            "code": "24",
+            "names": {
+                "geonames": "Pailin",
+                "ru": "\u041f\u0430\u0439\u043b\u0438\u043d",
+                "en": "Pailin",
+                "de": "Pailin",
+                "es": "Ciudad de Pail\u00edn",
+                "fr": "Pailin",
+                "it": "Pailin",
+                "zh": "\u62dc\u6797\u5e02"
+            },
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": 12.84673,
+            "lng": 102.61299899999995
+        },
+        "11": {
+            "name": "Mondulkiri Province",
+            "code": "11",
+            "names": {
+                "geonames": "Mondolkiri",
+                "ru": "\u041c\u043e\u043d\u0434\u043e\u043b\u044c\u043a\u0438\u0440\u0438",
+                "en": "Mondulkiri Province",
+                "de": "Mondulkiri",
+                "es": "Provincia de Mondol Kir\u00ed",
+                "fr": "Province de Mondol Kiri",
+                "it": "Provincia di Mondulkiri",
+                "zh": "\u8499\u591a\u57fa\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Krati\u00e9 Province",
+            "code": "10",
+            "names": {
+                "geonames": "Kratie",
+                "ru": "\u041a\u0440\u0430\u0442\u044c\u044d\u0445",
+                "en": "Krati\u00e9 Province",
+                "de": "Kratie",
+                "es": "Provincia de Krati\u00e9",
+                "fr": "Province de Kratie",
+                "it": "Provincia di Krati\u00e9",
+                "zh": "\u6854\u4e95\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.48,
+            "lng": 106.02999999999997
+        },
+        "23": {
+            "name": "Kep Province",
+            "code": "23",
+            "names": {
+                "geonames": "Kep",
+                "ru": "\u041a\u0430\u0435\u043f",
+                "en": "Kep Province",
+                "de": "Kep",
+                "es": "Ciudad de Kep",
+                "fr": "Kep",
+                "it": "Kep",
+                "zh": "\u767d\u99ac\u5e02"
+            },
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "9": {
+            "name": "Koh Kong Province",
+            "code": "9",
+            "names": {
+                "geonames": "Koh Kong",
+                "ru": "\u041a\u043e\u0445\u043a\u043e\u043d\u0433",
+                "de": "Koh Kong",
+                "en": "Koh Kong Province",
+                "es": "Provincia de Koh Kong",
+                "fr": "Province de Kaoh Kong",
+                "it": "Provincia di Koh Kong",
+                "zh": "\u6208\u516c\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.7743209,
+            "lng": 102.88512049999997
+        },
+        "8": {
+            "name": "Kandal Province",
+            "code": "8",
+            "names": {
+                "geonames": "Kandal",
+                "ru": "\u041a\u0430\u043d\u0434\u0430\u043b\u044c",
+                "de": "Kandal",
+                "en": "Kandal Province",
+                "es": "Provincia de Kandal",
+                "fr": "Province de Kandal",
+                "it": "Provincia di Kandal",
+                "zh": "\u5e72\u4e39\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 54.3267888,
+            "lng": -2.7475776999999653
+        },
+        "7": {
+            "name": "Kampot Province",
+            "code": "7",
+            "names": {
+                "geonames": "Kampot",
+                "ru": "\u041a\u0430\u043c\u043f\u043e\u0442",
+                "de": "Kampot",
+                "en": "Kampot Province",
+                "es": "Provincia de Kompot",
+                "fr": "Province de Kampot",
+                "it": "Provincia di Kampot",
+                "zh": "\u8d21\u5e03\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 10.6046889,
+            "lng": 104.17565730000001
+        },
+        "6": {
+            "name": "Kampong Cham Province",
+            "code": "6",
+            "names": {
+                "geonames": "Kampong Thom",
+                "ru": "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0442\u044f\u043c",
+                "de": "Kampong Cham",
+                "en": "Kampong Cham Province",
+                "es": "Provincia de Kompung Cham",
+                "fr": "Province de Kampong Cham",
+                "it": "Provincia di Kampong Cham",
+                "zh": "\u78c5\u6e5b\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.71197,
+            "lng": 104.88860299999999
+        },
+        "5": {
+            "name": "Kampong Speu Province",
+            "code": "5",
+            "names": {
+                "geonames": "Kampong Speu",
+                "ru": "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0441\u043f\u044b",
+                "de": "Kampong Speu",
+                "en": "Kampong Speu Province",
+                "es": "Provincia de Kompung Speu",
+                "fr": "Province de Kampong Spoe",
+                "it": "Provincia di Kampong Speu",
+                "zh": "\u78c5\u58eb\u5351\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.4734921,
+            "lng": 104.50436000000002
+        },
+        "4": {
+            "name": "Kampong Chhnang Province",
+            "code": "4",
+            "names": {
+                "geonames": "Kampong Chhnang",
+                "ru": "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0447\u043d\u0430\u043d\u0433",
+                "de": "Kampong Chhnang",
+                "en": "Kampong Chhnang Province",
+                "es": "Provincia de Kompung Chinang",
+                "fr": "Province de Kampong Chhnang",
+                "it": "Provincia di Kampong Chhnang",
+                "zh": "\u78c5\u6e05\u626c\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 12.25,
+            "lng": 104.66666669999995
+        },
+        "3": {
+            "name": "Kampong Thom Province",
+            "code": "3",
+            "names": {
+                "geonames": "Kampong Cham",
+                "ru": "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0442\u0445\u043e\u043c",
+                "de": "Kampong Thom",
+                "en": "Kampong Thom Province",
+                "es": "Provincia de Kompung Thom",
+                "fr": "Province de Kampong Thom",
+                "it": "Provincia di Kampong Thom",
+                "zh": "\u78c5\u540c\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": 11.99141,
+            "lng": 105.46540099999993
+        },
+        "18": {
+            "name": "Sihanoukville",
+            "code": "18",
+            "names": {
+                "geonames": "Preah Sihanouk",
+                "ru": "\u0421\u0438\u0430\u043d\u0443\u043a\u0432\u0438\u043b\u044c",
+                "en": "Sihanoukville",
+                "de": "Sihanoukville",
+                "es": "Ciudad de Sihanoukville",
+                "fr": "Sihanoukville",
+                "it": "Sihanoukville",
+                "zh": "\u897f\u54c8\u52aa\u514b\u5e02"
+            },
+            "division": "autonomous municipality",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "1": {
+            "name": "Banteay Meanchey Province",
+            "code": "1",
+            "names": {
+                "geonames": "Banteay Meanchey",
+                "ru": "\u0411\u0430\u043d\u0442\u0435\u0430\u0439\u043c\u0435\u0430\u043d\u0442\u044c\u0435\u0439",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0646\u062a\u064a\u0627\u064a \u0645\u064a\u0646\u062a\u0634\u064a",
+                "de": "Banteay Meanchey",
+                "en": "Banteay Meanchey Province",
+                "es": "Provincia de Banteay Mean Chey",
+                "fr": "Province de Banteay Mean Chey",
+                "it": "Provincia di Banteay Meanchey",
+                "zh": "\u73ed\u8fed\u68c9\u5409\u7701"
+            },
+            "division": "province",
+            "parent": "KH",
+            "lat": null,
+            "lng": null
+        },
+        "25": {
+            "name": "Tbong Khmum",
+            "code": "25",
+            "names": {
+                "geonames": "Tboung Khmum",
+                "en": "Tbong Khmum"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

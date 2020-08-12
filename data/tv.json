@@ -1,0 +1,167 @@
+{
+    "alpha-2": "TV",
+    "alpha-3": "TUV",
+    "numeric": 798,
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf9\ud83c\uddfb",
+    "names": {
+        "geonames": "Tuvalu",
+        "en": "Tuvalu",
+        "ar": "\u062a\u0648\u0641\u0627\u0644\u0648",
+        "de": "Tuvalu",
+        "es": "Tuvalu",
+        "fr": "Tuvalu",
+        "it": "Tuvalu",
+        "ru": "\u0422\u0443\u0432\u0430\u043b\u0443",
+        "zh": "\u5716\u74e6\u76e7",
+        "he": "\u05d8\u05d5\u05d1\u05d0\u05dc\u05d5",
+        "hi": "\u0924\u0941\u0935\u093e\u0932\u0942",
+        "ja": "\u30c4\u30d0\u30eb",
+        "pt": "Tuvalu"
+    },
+    "ISO3166-2": {
+        "NIU": {
+            "name": "Nui",
+            "code": "NIU",
+            "names": {
+                "geonames": "Nui",
+                "en": "Nui"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.2666667,
+            "lng": 177.16666669999995
+        },
+        "NMA": {
+            "name": "Nanumea",
+            "code": "NMA",
+            "names": {
+                "geonames": "Nanumea",
+                "ru": "\u041d\u0430\u043d\u0443\u043c\u0435\u0430",
+                "en": "Nanumea",
+                "de": "Nanumea-Atoll",
+                "es": "Nanumea",
+                "fr": "Nanumea",
+                "it": "Nanumea",
+                "zh": "\u7d0d\u52aa\u6885\u963f\u74b0\u7901"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        },
+        "FUN": {
+            "name": "Funafuti",
+            "code": "FUN",
+            "names": {
+                "geonames": "Funafuti",
+                "ru": "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0438",
+                "en": "Funafuti",
+                "ar": "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u064a",
+                "de": "Funafuti",
+                "es": "Funafuti",
+                "fr": "Funafuti",
+                "it": "Funafuti",
+                "zh": "\u5bcc\u7eb3\u5bcc\u63d0"
+            },
+            "division": "town council",
+            "parent": "TV",
+            "lat": -8.5239901,
+            "lng": 179.19685619999996
+        },
+        "NIT": {
+            "name": "Niutao",
+            "code": "NIT",
+            "names": {
+                "geonames": "Niutao",
+                "ru": "\u041d\u0438\u0443\u0442\u0430\u043e",
+                "en": "Niutao",
+                "de": "Niutao",
+                "es": "Niutao",
+                "fr": "Niutao",
+                "it": "Niutao",
+                "zh": "\u7d10\u9676\u5cf6"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": -6.1064014,
+            "lng": 177.33887670000001
+        },
+        "NMG": {
+            "name": "Nanumanga",
+            "code": "NMG",
+            "names": {
+                "geonames": "Nanumanga",
+                "ru": "\u041d\u0430\u043d\u0443\u043c\u0430\u043d\u0433\u0430",
+                "en": "Nanumanga",
+                "de": "Nanumanga",
+                "es": "Nanumanga",
+                "fr": "Nanumaga",
+                "it": "Nanumaga",
+                "zh": "\u7eb3\u52aa\u66fc\u52a0\u5c9b"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        },
+        "VAI": {
+            "name": "Vaitupu",
+            "code": "VAI",
+            "names": {
+                "geonames": "Vaitupu",
+                "ru": "\u0412\u0430\u0438\u0442\u0443\u043f\u0443",
+                "en": "Vaitupu",
+                "de": "Vaitupu",
+                "es": "Vaitupu",
+                "fr": "Vaitupu",
+                "it": "Vaitupu",
+                "zh": "\u5a53\u4f0a\u6258\u6ce2"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.4916303,
+            "lng": 178.68079109999996
+        },
+        "NKF": {
+            "name": "Nukufetau",
+            "code": "NKF",
+            "names": {
+                "geonames": "Nukufetau",
+                "ru": "\u041d\u0443\u043a\u0443\u0444\u0435\u0442\u0430\u0443",
+                "en": "Nukufetau",
+                "de": "Nukufetau",
+                "es": "Nukufetau",
+                "fr": "Nukufetau",
+                "it": "Nukufetau",
+                "zh": "\u52aa\u5eab\u8cbb\u9676\u74b0\u7901"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        },
+        "NKL": {
+            "name": "Nukulaelae",
+            "code": "NKL",
+            "names": {
+                "geonames": "Nukulaelae",
+                "ru": "\u041d\u0443\u043a\u0443\u043b\u0430\u044d\u043b\u0430\u044d",
+                "en": "Nukulaelae",
+                "de": "Nukulaelae",
+                "es": "Nukulaelae",
+                "fr": "Nukulaelae",
+                "it": "Nukulaelae",
+                "zh": "\u52aa\u5eab\u840a\u840a\u74b0\u7901"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

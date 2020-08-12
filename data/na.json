@@ -1,0 +1,277 @@
+{
+    "alpha-2": "NA",
+    "alpha-3": "NAM",
+    "numeric": 516,
+    "capital": "Windhoek",
+    "currency": "NAD,ZAR",
+    "languages": [
+        "en",
+        "af"
+    ],
+    "flag-icon": "\ud83c\uddf3\ud83c\udde6",
+    "names": {
+        "geonames": "Namibia",
+        "en": "Namibia",
+        "ar": "\u0646\u0627\u0645\u064a\u0628\u064a\u0627",
+        "de": "Namibia",
+        "es": "Namibia",
+        "fr": "Namibie",
+        "it": "Namibia",
+        "ru": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+        "zh": "\u7eb3\u7c73\u6bd4\u4e9a",
+        "he": "\u05e0\u05de\u05d9\u05d1\u05d9\u05d4",
+        "hi": "\u0928\u093e\u092e\u0940\u092c\u093f\u092f\u093e",
+        "ja": "\u30ca\u30df\u30d3\u30a2",
+        "pt": "Nam\u00edbia"
+    },
+    "ISO3166-2": {
+        "CA": {
+            "name": "Zambezi Region",
+            "code": "CA",
+            "names": {
+                "geonames": "Zambezi",
+                "ru": "\u041a\u0430\u043f\u0440\u0438\u0432\u0438",
+                "en": "Zambezi Region",
+                "de": "Sambesi",
+                "es": "Caprivi",
+                "fr": "Caprivi",
+                "it": "Regione dello Zambesi",
+                "zh": "\u5361\u666e\u91cc\u7ef4\u533a"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": 36.778261,
+            "lng": -119.41793239999998
+        },
+        "KH": {
+            "name": "Khomas Region",
+            "code": "KH",
+            "names": {
+                "geonames": "Khomas",
+                "ru": "\u041a\u0445\u043e\u043c\u0430\u0441",
+                "en": "Khomas Region",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u062e\u0648\u0645\u0627\u0633",
+                "de": "Khomas",
+                "es": "Khomas",
+                "fr": "Khomas",
+                "it": "Regione di Khomas",
+                "zh": "\u970d\u99ac\u65af\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": -22.535498,
+            "lng": 16.747544999999946
+        },
+        "ER": {
+            "name": "Erongo Region",
+            "code": "ER",
+            "names": {
+                "geonames": "Erongo",
+                "ru": "\u042d\u0440\u043e\u043d\u0433\u043e",
+                "en": "Erongo Region",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0625\u064a\u0631\u0648\u0646\u063a\u0648",
+                "de": "Erongo",
+                "es": "Erongo",
+                "fr": "Erongo",
+                "it": "Regione degli Erongo",
+                "zh": "\u57c3\u9f8d\u6208\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "HA": {
+            "name": "Hardap Region",
+            "code": "HA",
+            "names": {
+                "geonames": "Hardap",
+                "ru": "\u0425\u0430\u0440\u0434\u0430\u043f",
+                "en": "Hardap Region",
+                "de": "Hardap",
+                "es": "Hardap",
+                "fr": "Hardap",
+                "it": "Regione di Hardap",
+                "zh": "\u54c8\u9054\u666e\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": -24.533333,
+            "lng": 17.933332999999948
+        },
+        "KA": {
+            "name": "\u01c1Karas Region",
+            "code": "KA",
+            "names": {
+                "geonames": "Karas",
+                "ru": "\u041a\u0430\u0440\u0430\u0441",
+                "en": "\u01c1Karas Region",
+                "de": "\u01c1Karas",
+                "es": "Karas",
+                "fr": "Karas",
+                "it": "Regione di Karas",
+                "zh": "\u5361\u62c9\u65af\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "KU": {
+            "name": "Kunene Region",
+            "code": "KU",
+            "names": {
+                "geonames": "Kunene",
+                "en": "Kunene Region",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u0643\u0648\u0646\u064a\u0646\u064a",
+                "de": "Kunene",
+                "es": "Kunene",
+                "fr": "Kunene",
+                "it": "Regione del Kunene",
+                "ru": "\u041a\u0443\u043d\u0435\u043d\u0435",
+                "zh": "\u5eab\u5167\u5167\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "OW": {
+            "name": "Ohangwena Region",
+            "code": "OW",
+            "names": {
+                "geonames": "Ohangwena",
+                "ru": "\u041e\u0445\u0430\u043d\u0433\u0432\u0435\u043d\u0430",
+                "en": "Ohangwena Region",
+                "de": "Ohangwena",
+                "es": "Ohangwena",
+                "fr": "Ohangwena",
+                "it": "Regione di Ohangwena",
+                "zh": "\u5967\u6f22\u572d\u7d0d\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "OH": {
+            "name": "Omaheke Region",
+            "code": "OH",
+            "names": {
+                "geonames": "Omaheke",
+                "ru": "\u041e\u043c\u0430\u0445\u0435\u043a\u0435",
+                "en": "Omaheke Region",
+                "de": "Omaheke",
+                "es": "Omaheke",
+                "fr": "Omaheke",
+                "it": "Regione di Omaheke",
+                "zh": "\u5967\u99ac\u6d77\u51f1\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": -21.8466651,
+            "lng": 19.188004699999965
+        },
+        "OS": {
+            "name": "Omusati Region",
+            "code": "OS",
+            "names": {
+                "geonames": "Omusati",
+                "ru": "\u041e\u043c\u0443\u0441\u0430\u0442\u0438",
+                "en": "Omusati Region",
+                "de": "Omusati",
+                "es": "Omusati",
+                "fr": "Omusati",
+                "it": "Regione di Omusati",
+                "zh": "\u5967\u7a46\u85a9\u8482\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "ON": {
+            "name": "Oshana Region",
+            "code": "ON",
+            "names": {
+                "geonames": "Oshana",
+                "ru": "\u041e\u0448\u0430\u043d\u0430",
+                "en": "Oshana Region",
+                "de": "Oshana",
+                "es": "Oshana",
+                "fr": "Oshana",
+                "it": "Regione dell'Oshana",
+                "zh": "\u5967\u6c99\u7d0d\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "OT": {
+            "name": "Oshikoto Region",
+            "code": "OT",
+            "names": {
+                "geonames": "Oshikoto",
+                "ru": "\u041e\u0448\u0438\u043a\u043e\u0442\u043e",
+                "en": "Oshikoto Region",
+                "de": "Oshikoto",
+                "es": "Oshikoto",
+                "fr": "Oshikoto",
+                "it": "Regione di Oshikoto",
+                "zh": "\u5967\u5e0c\u79d1\u6258\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "OD": {
+            "name": "Otjozondjupa Region",
+            "code": "OD",
+            "names": {
+                "geonames": "Otjozondjupa",
+                "ru": "\u041e\u0447\u043e\u0441\u043e\u043d\u0434\u044c\u044e\u043f\u0430",
+                "en": "Otjozondjupa Region",
+                "de": "Otjozondjupa",
+                "es": "Otjozondjupa",
+                "fr": "Otjozondjupa",
+                "it": "Regione di Otjozondjupa",
+                "zh": "\u5967\u55ac\u5b97\u6731\u5e15\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "KE": {
+            "name": "Kavango East",
+            "code": "KE",
+            "names": {
+                "geonames": "Kavango East",
+                "en": "Kavango East"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KW": {
+            "name": "Kavango West",
+            "code": "KW",
+            "names": {
+                "geonames": "Kavango West",
+                "en": "Kavango West"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "OK": {
+            "name": "Okavango",
+            "division": "region",
+            "parent": "NA"
+        }
+    }
+}

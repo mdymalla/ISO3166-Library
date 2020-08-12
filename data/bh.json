@@ -1,0 +1,107 @@
+{
+    "alpha-2": "BH",
+    "alpha-3": "BHR",
+    "numeric": 48,
+    "capital": "Manama",
+    "currency": "BHD",
+    "languages": [
+        "ar"
+    ],
+    "flag-icon": "\ud83c\udde7\ud83c\udded",
+    "names": {
+        "geonames": "Bahrain",
+        "en": "Bahrain",
+        "ar": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+        "de": "Bahrain",
+        "es": "Bar\u00e9in",
+        "fr": "Bahre\u00efn",
+        "it": "Bahrein",
+        "ru": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+        "zh": "\u5df4\u6797",
+        "he": "\u05d1\u05d7\u05e8\u05d9\u05d9\u05df",
+        "hi": "\u092c\u0939\u0930\u0940\u0928",
+        "ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
+        "pt": "Bahrein"
+    },
+    "ISO3166-2": {
+        "15": {
+            "name": "Muharraq Governorate",
+            "code": "15",
+            "names": {
+                "geonames": "Muharraq",
+                "ru": "\u041c\u0443\u0445\u0430\u0440\u0440\u0430\u043a",
+                "en": "Muharraq Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062d\u0631\u0642",
+                "es": "Muharraq",
+                "fr": "Gouvernorat de Muharraq",
+                "it": "Governatorato di Muharraq",
+                "zh": "\u7a46\u54c8\u62c9\u683c\u7701"
+            },
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.25,
+            "lng": 50.616666699999996
+        },
+        "13": {
+            "name": "Capital Governorate, Bahrain",
+            "code": "13",
+            "names": {
+                "geonames": "Manama",
+                "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f",
+                "en": "Capital Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+                "es": "Capital",
+                "fr": "Gouvernorat de la capitale",
+                "it": "Governatorato della Capitale",
+                "zh": "\u9996\u90fd\u7701"
+            },
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.2074507,
+            "lng": 50.53843470000004
+        },
+        "17": {
+            "name": "Northern Governorate",
+            "code": "17",
+            "names": {
+                "geonames": "Southern Governorate",
+                "en": "Northern Governorate",
+                "ar": "\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+                "es": "Norte",
+                "fr": "Gouvernorat septentrional",
+                "it": "Governatorato Settentrionale",
+                "zh": "\u5317\u65b9\u7701"
+            },
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.2935171,
+            "lng": 50.217544299999986
+        },
+        "19": {
+            "name": "Northern",
+            "code": "19",
+            "names": {
+                "geonames": "Northern",
+                "en": "Northern"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "14": {
+            "name": "Al Jan\u016bb\u012byah",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 36.8218211,
+            "lng": 10.1858072
+        },
+        "16": {
+            "name": "Al Wus\u0163\u00e1",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 24.6098375,
+            "lng": 46.63363149999998
+        }
+    }
+}

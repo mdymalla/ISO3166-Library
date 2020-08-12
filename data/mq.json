@@ -1,0 +1,40 @@
+{
+    "alpha-2": "MQ",
+    "alpha-3": "MTQ",
+    "numeric": 474,
+    "capital": "Fort-de-France",
+    "currency": "EUR",
+    "languages": [
+        "fr"
+    ],
+    "flag-icon": "\ud83c\uddf2\ud83c\uddf6",
+    "names": {
+        "geonames": "Martinique",
+        "en": "Martinique",
+        "ar": "\u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0643",
+        "de": "Martinique",
+        "es": "Martinica",
+        "fr": "Martinique",
+        "it": "Martinica",
+        "ru": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430",
+        "zh": "\u99ac\u63d0\u5c3c\u514b",
+        "he": "\u05de\u05e8\u05d8\u05d9\u05e0\u05d9\u05e7",
+        "hi": "\u092e\u093e\u0930\u094d\u091f\u0940\u0928\u093f\u0915",
+        "ja": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
+        "pt": "Martinica"
+    },
+    "ISO3166-2": {
+        "": {
+            "name": "Martinique",
+            "code": "",
+            "names": {
+                "geonames": "Martinique",
+                "en": "Martinique"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

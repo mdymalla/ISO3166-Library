@@ -1,0 +1,27 @@
+{
+    "alpha-2": "TC",
+    "alpha-3": "TCA",
+    "numeric": 796,
+    "capital": "Cockburn Town",
+    "currency": "USD",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf9\ud83c\udde8",
+    "names": {
+        "geonames": "Turks and Caicos Islands",
+        "en": "Turks and Caicos Islands",
+        "ar": "\u062c\u0632\u0631 \u062a\u0648\u0631\u0643\u0633 \u0648\u0643\u0627\u064a\u0643\u0648\u0633",
+        "de": "Turks- und Caicosinseln",
+        "es": "Islas Turcas y Caicos",
+        "fr": "\u00celes Turques-et-Ca\u00efques",
+        "it": "Turks e Caicos",
+        "ru": "\u0422\u0435\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441",
+        "zh": "\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b",
+        "he": "\u05d0\u05d9\u05d9 \u05d8\u05e8\u05e7\u05e1 \u05d5\u05e7\u05d9\u05d9\u05e7\u05d5\u05e1",
+        "hi": "\u0924\u0941\u0930\u094d\u0915 \u0914\u0930 \u0915\u0947\u0915\u094b\u0938 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "ja": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
+        "pt": "Ilhas Turcas e Caicos"
+    },
+    "ISO3166-2": null
+}

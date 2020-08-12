@@ -1,0 +1,77 @@
+{
+    "alpha-2": "MP",
+    "alpha-3": "MNP",
+    "numeric": 580,
+    "capital": "Saipan",
+    "currency": "USD",
+    "languages": [
+        "en",
+        "ch"
+    ],
+    "flag-icon": "\ud83c\uddf2\ud83c\uddf5",
+    "names": {
+        "geonames": "Northern Mariana Islands",
+        "en": "Northern Mariana Islands",
+        "ar": "\u062c\u0632\u0631 \u0645\u0627\u0631\u064a\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "de": "N\u00f6rdliche Marianen",
+        "es": "Islas Marianas del Norte",
+        "fr": "\u00celes Mariannes du Nord",
+        "it": "Isole Marianne Settentrionali",
+        "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u041c\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "zh": "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b",
+        "he": "\u05d0\u05d9\u05d9 \u05de\u05e8\u05d9\u05d0\u05e0\u05d4 \u05d4\u05e6\u05e4\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "hi": "\u0909\u0924\u094d\u0924\u0930\u0940 \u092e\u093e\u0930\u093f\u092f\u093e\u0928\u093e \u0926\u094d\u0935\u0940\u092a",
+        "ja": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
+        "pt": "Ilhas Marianas Setentrionais"
+    },
+    "ISO3166-2": {
+        "100": {
+            "name": "Rota",
+            "code": "100",
+            "names": {
+                "geonames": "Rota",
+                "en": "Rota"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "110": {
+            "name": "Saipan",
+            "code": "110",
+            "names": {
+                "geonames": "Saipan",
+                "en": "Saipan"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "120": {
+            "name": "Tinian",
+            "code": "120",
+            "names": {
+                "geonames": "Tinian",
+                "en": "Tinian"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "085": {
+            "name": "Northern Islands",
+            "code": "085",
+            "names": {
+                "geonames": "Northern Islands",
+                "en": "Northern Islands"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

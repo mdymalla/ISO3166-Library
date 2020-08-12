@@ -1,0 +1,205 @@
+{
+    "alpha-2": "ML",
+    "alpha-3": "MLI",
+    "numeric": 466,
+    "capital": "Bamako",
+    "currency": "XOF",
+    "languages": [
+        "fr"
+    ],
+    "flag-icon": "\ud83c\uddf2\ud83c\uddf1",
+    "names": {
+        "geonames": "Mali",
+        "en": "Mali",
+        "ar": "\u0645\u0627\u0644\u064a",
+        "de": "Mali",
+        "es": "Mal\u00ed",
+        "fr": "Mali",
+        "it": "Mali",
+        "ru": "\u041c\u0430\u043b\u0438",
+        "zh": "\u9a6c\u91cc",
+        "he": "\u05de\u05d0\u05dc\u05d9",
+        "hi": "\u092e\u093e\u0932\u0940",
+        "ja": "\u30de\u30ea\u5171\u548c\u56fd",
+        "pt": "Mali"
+    },
+    "ISO3166-2": {
+        "6": {
+            "name": "Tombouctou Region",
+            "code": "6",
+            "names": {
+                "geonames": "Tombouctou",
+                "ru": "\u0422\u043e\u043c\u0431\u0443\u043a\u0442\u0443",
+                "en": "Tombouctou Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0645\u0628\u0643\u062a\u0648",
+                "de": "Region Timbuktu",
+                "es": "Tombuct\u00fa",
+                "fr": "R\u00e9gion de Tombouctou",
+                "it": "Regione di Timbuct\u00f9",
+                "zh": "\u901a\u5e03\u5716\u5340"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 16.77532,
+            "lng": -3.0082649999999376
+        },
+        "3": {
+            "name": "Sikasso Region",
+            "code": "3",
+            "names": {
+                "geonames": "Sikasso",
+                "ru": "\u0421\u0438\u043a\u0430\u0441\u043e",
+                "en": "Sikasso Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0633\u064a\u0643\u0627\u0633\u0648",
+                "de": "Region Sikasso",
+                "es": "Sikasso",
+                "fr": "R\u00e9gion de Sikasso",
+                "it": "Regione di Sikasso",
+                "zh": "\u9521\u5361\u7d22\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 11.316667,
+            "lng": -5.666666999999961
+        },
+        "4": {
+            "name": "S\u00e9gou Region",
+            "code": "4",
+            "names": {
+                "geonames": "Segou",
+                "ru": "\u0421\u0435\u0433\u0443",
+                "en": "S\u00e9gou Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0633\u064a\u063a\u0648",
+                "de": "Region S\u00e9gou",
+                "es": "Seg\u00fa",
+                "fr": "R\u00e9gion de S\u00e9gou",
+                "it": "Regione di S\u00e9gou",
+                "zh": "\u585e\u53e4\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 13.440597,
+            "lng": -6.265321999999969
+        },
+        "5": {
+            "name": "Mopti Region",
+            "code": "5",
+            "names": {
+                "geonames": "Mopti",
+                "ru": "\u041c\u043e\u043f\u0442\u0438",
+                "en": "Mopti Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0648\u0628\u062a\u064a",
+                "de": "Region Mopti",
+                "fr": "R\u00e9gion de Mopti",
+                "it": "Regione di Mopti",
+                "zh": "\u83ab\u666e\u63d0\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 14.48319,
+            "lng": -4.183031000000028
+        },
+        "2": {
+            "name": "Koulikoro Region",
+            "code": "2",
+            "names": {
+                "geonames": "Koulikoro",
+                "ru": "\u041a\u0443\u043b\u0438\u043a\u043e\u0440\u043e",
+                "en": "Koulikoro Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0644\u064a\u0643\u0648\u0631\u0648",
+                "de": "Region Koulikoro",
+                "es": "Kulikor\u00f3",
+                "fr": "R\u00e9gion de Koulikoro",
+                "it": "Regione di Koulikoro",
+                "zh": "\u5e93\u5229\u79d1\u7f57\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 12.8666667,
+            "lng": -7.566666700000042
+        },
+        "1": {
+            "name": "Kayes Region",
+            "code": "1",
+            "names": {
+                "geonames": "Kayes",
+                "ru": "\u041a\u0430\u0435\u0441",
+                "en": "Kayes Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0627\u064a\u0633",
+                "de": "Region Kayes",
+                "es": "Kayes",
+                "fr": "R\u00e9gion de Kayes",
+                "it": "Regione di Kayes",
+                "zh": "\u5361\u4f0a\u5340"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 14.45,
+            "lng": -11.433333299999958
+        },
+        "7": {
+            "name": "Gao Region",
+            "code": "7",
+            "names": {
+                "geonames": "Gao",
+                "ru": "\u0413\u0430\u043e",
+                "en": "Gao Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u063a\u0627\u0648",
+                "de": "Region Gao",
+                "es": "Gao",
+                "fr": "R\u00e9gion de Gao",
+                "it": "Regione di Gao",
+                "zh": "\u52a0\u5965\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 16.2666667,
+            "lng": -0.049999999999954525
+        },
+        "BKO": {
+            "name": "Bamako",
+            "code": "BKO",
+            "names": {
+                "geonames": "Bamako",
+                "ru": "\u0411\u0430\u043c\u0430\u043a\u043e",
+                "en": "Bamako",
+                "ar": "\u0628\u0627\u0645\u0627\u0643\u0648",
+                "de": "Bamako",
+                "es": "Bamako",
+                "fr": "Bamako",
+                "it": "Bamako",
+                "zh": "\u5df4\u99ac\u79d1"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "8": {
+            "name": "Kidal Region",
+            "code": "8",
+            "names": {
+                "geonames": "Kidal",
+                "ru": "\u041a\u0438\u0434\u0430\u043b\u044c",
+                "en": "Kidal Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u064a\u062f\u0627\u0644",
+                "de": "Region Kidal",
+                "es": "Kidal",
+                "fr": "R\u00e9gion de Kidal",
+                "it": "Regione di Kidal",
+                "zh": "\u57fa\u9054\u723e\u5340"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 18.444309,
+            "lng": 1.4015229999999974
+        },
+        "BK0": {
+            "name": "Bamako",
+            "division": "district",
+            "parent": "ML",
+            "lat": 12.646861,
+            "lng": -8.00170049999997
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "alpha-2": "PM",
+    "alpha-3": "SPM",
+    "numeric": 666,
+    "capital": "Saint-Pierre",
+    "currency": "EUR",
+    "languages": [
+        "fr"
+    ],
+    "flag-icon": "\ud83c\uddf5\ud83c\uddf2",
+    "names": {
+        "geonames": "Saint Pierre and Miquelon",
+        "en": "Saint Pierre and Miquelon",
+        "ar": "\u0633\u0627\u0646 \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0644\u0648\u0646",
+        "de": "Saint-Pierre und Miquelon",
+        "es": "San Pedro y Miquel\u00f3n",
+        "fr": "Saint-Pierre-et-Miquelon",
+        "it": "Saint-Pierre e Miquelon",
+        "ru": "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d",
+        "zh": "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686",
+        "he": "\u05e1\u05df \u05e4\u05d9\u05d9\u05e8 \u05d5\u05de\u05d9\u05e7\u05dc\u05d5\u05df",
+        "hi": "\u0938\u0928\u094d\u0924 \u092a\u093f\u092f\u0930 \u0914\u0930 \u092e\u093f\u0915\u0932\u093e\u0928",
+        "ja": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
+        "pt": "Saint-Pierre e Miquelon"
+    },
+    "ISO3166-2": {
+        "": {
+            "name": "Miquelon-Langlade",
+            "code": "",
+            "names": {
+                "geonames": "Miquelon-Langlade",
+                "en": "Miquelon-Langlade"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

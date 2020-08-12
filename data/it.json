@@ -1,0 +1,1178 @@
+{
+    "alpha-2": "IT",
+    "alpha-3": "ITA",
+    "numeric": 380,
+    "capital": "Rome",
+    "currency": "EUR",
+    "languages": [
+        "it"
+    ],
+    "flag-icon": "\ud83c\uddee\ud83c\uddf9",
+    "names": {
+        "geonames": "Italy",
+        "en": "Italy",
+        "ar": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+        "de": "Italien",
+        "es": "Italia",
+        "fr": "Italie",
+        "it": "Italia",
+        "ru": "\u0418\u0442\u0430\u043b\u0438\u044f",
+        "zh": "\u610f\u5927\u5229",
+        "he": "\u05d0\u05d9\u05d8\u05dc\u05d9\u05d4",
+        "hi": "\u0907\u091f\u0932\u0940",
+        "ja": "\u30a4\u30bf\u30ea\u30a2",
+        "pt": "It\u00e1lia"
+    },
+    "ISO3166-2": {
+        "82": {
+            "name": "Sicily",
+            "code": "82",
+            "names": {
+                "geonames": "Sicily",
+                "ru": "\u0421\u0438\u0446\u0438\u043b\u0438\u044f",
+                "en": "Sicily",
+                "ar": "\u0635\u0642\u0644\u064a\u0629",
+                "de": "Autonome Region Sizilien",
+                "es": "Sicilia",
+                "fr": "Sicile",
+                "it": "Sicilia",
+                "zh": "\u897f\u897f\u91cc\u5c9b"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 37.5856832,
+            "lng": 12.78043869999999
+        },
+        "88": {
+            "name": "Sardinia",
+            "code": "88",
+            "names": {
+                "geonames": "Sardinia",
+                "ru": "\u0421\u0430\u0440\u0434\u0438\u043d\u0438\u044f",
+                "en": "Sardinia",
+                "ar": "\u0633\u0631\u062f\u064a\u0646\u064a\u0627",
+                "de": "Sardinien",
+                "es": "Cerde\u00f1a",
+                "fr": "Sardaigne",
+                "it": "Sardegna",
+                "zh": "\u6492\u4e01\u5c9b"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 40.4101004,
+            "lng": 8.543791800000008
+        },
+        "78": {
+            "name": "Calabria",
+            "code": "78",
+            "names": {
+                "geonames": "Calabria",
+                "ru": "\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u044f",
+                "en": "Calabria",
+                "ar": "\u0642\u0644\u0648\u0631\u064a\u0629",
+                "de": "Kalabrien",
+                "es": "Calabria",
+                "fr": "Calabre",
+                "it": "Calabria",
+                "zh": "\u5361\u62c9\u5e03\u91cc\u4e9a"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 38.1146898,
+            "lng": 15.65013650000003
+        },
+        "34": {
+            "name": "Veneto",
+            "code": "34",
+            "names": {
+                "geonames": "Veneto",
+                "ru": "\u0412\u0435\u043d\u0435\u0446\u0438\u044f",
+                "en": "Veneto",
+                "ar": "\u0641\u064a\u0646\u064a\u062a\u0648",
+                "de": "Venetien",
+                "es": "V\u00e9neto",
+                "fr": "V\u00e9n\u00e9tie",
+                "it": "Veneto",
+                "zh": "\u5a01\u5c3c\u6258"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.7223889,
+            "lng": 11.387914499999965
+        },
+        "23": {
+            "name": "Aosta Valley",
+            "code": "23",
+            "names": {
+                "geonames": "Aosta Valley",
+                "ru": "\u0412\u0430\u043b\u043b\u0435-\u0434\u2019\u0410\u043e\u0441\u0442\u0430",
+                "en": "Aosta Valley",
+                "ar": "\u0641\u0627\u0644\u064a \u062f\u0627 \u0623\u0648\u0633\u062a\u0627",
+                "de": "Aostatal",
+                "es": "Valle de Aosta",
+                "fr": "Vall\u00e9e d'Aoste",
+                "it": "Valle d'Aosta",
+                "zh": "\u74e6\u83b1\u8fbe\u5965\u65af\u5854"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 42.5106762,
+            "lng": 14.163797400000021
+        },
+        "55": {
+            "name": "Umbria",
+            "code": "55",
+            "names": {
+                "geonames": "Umbria",
+                "ru": "\u0423\u043c\u0431\u0440\u0438\u044f",
+                "en": "Umbria",
+                "ar": "\u0623\u0648\u0645\u0628\u0631\u064a\u0627",
+                "de": "Umbrien",
+                "es": "Umbr\u00eda",
+                "fr": "Ombrie",
+                "it": "Umbria",
+                "zh": "\u7fc1\u5e03\u91cc\u4e9a"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 43.0329882,
+            "lng": 12.364278900000045
+        },
+        "32": {
+            "name": "Trentino-Alto Adige\/S\u00fcdtirol",
+            "code": "32",
+            "names": {
+                "geonames": "Trentino-Alto Adige",
+                "ru": "\u0422\u0440\u0435\u043d\u0442\u0438\u043d\u043e-\u0410\u043b\u044c\u0442\u043e-\u0410\u0434\u0438\u0434\u0436\u0435",
+                "en": "Trentino-Alto Adige\/S\u00fcdtirol",
+                "ar": "\u062a\u0631\u064a\u0646\u062a\u064a\u0646\u0648 \u0623\u0644\u062a\u0648 \u0623\u062f\u064a\u062c\u064a",
+                "de": "Trentino-S\u00fcdtirol",
+                "es": "Trentino-Alto Adigio",
+                "fr": "Trentin-Haut-Adige",
+                "it": "Trentino-Alto Adige",
+                "zh": "\u7279\u4f26\u8482\u8bfa-\u4e0a\u963f\u8fea\u6770"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 46.0731212,
+            "lng": 11.12209299999995
+        },
+        "52": {
+            "name": "Tuscany",
+            "code": "52",
+            "names": {
+                "geonames": "Tuscany",
+                "ru": "\u0422\u043e\u0441\u043a\u0430\u043d\u0430",
+                "en": "Tuscany",
+                "ar": "\u062a\u0648\u0633\u0643\u0627\u0646\u0627",
+                "de": "Toskana",
+                "es": "Toscana",
+                "fr": "Toscane",
+                "it": "Toscana",
+                "zh": "\u6258\u65af\u5361\u7eb3"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 42.806793,
+            "lng": 11.327256000000034
+        },
+        "75": {
+            "name": "Apulia",
+            "code": "75",
+            "names": {
+                "geonames": "Apulia",
+                "ru": "\u0410\u043f\u0443\u043b\u0438\u044f",
+                "en": "Apulia",
+                "ar": "\u0628\u0648\u0644\u064a\u0627",
+                "de": "Apulien",
+                "es": "Apulia",
+                "fr": "Pouilles",
+                "it": "Puglia",
+                "zh": "\u666e\u5229\u4e9a"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 41.5598693,
+            "lng": 14.680326799999989
+        },
+        "21": {
+            "name": "Piedmont",
+            "code": "21",
+            "names": {
+                "geonames": "Piedmont",
+                "ru": "\u041f\u044c\u0435\u043c\u043e\u043d\u0442",
+                "en": "Piedmont",
+                "ar": "\u0628\u064a\u064a\u0645\u0648\u0646\u062a\u064a",
+                "de": "Piemont",
+                "es": "Piamonte",
+                "fr": "Pi\u00e9mont",
+                "it": "Piemonte",
+                "zh": "\u76ae\u57c3\u8499\u7279"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.3645865,
+            "lng": 7.62089519999995
+        },
+        "67": {
+            "name": "Molise",
+            "code": "67",
+            "names": {
+                "geonames": "Molise",
+                "ru": "\u041c\u043e\u043b\u0438\u0437\u0435",
+                "en": "Molise",
+                "ar": "\u0645\u0648\u0644\u064a\u0632\u064a",
+                "de": "Molise",
+                "es": "Molise",
+                "fr": "Molise",
+                "it": "Molise",
+                "zh": "\u83ab\u5229\u585e"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 41.6310902,
+            "lng": 14.49346109999999
+        },
+        "57": {
+            "name": "Marche",
+            "code": "57",
+            "names": {
+                "geonames": "The Marches",
+                "ru": "\u041c\u0430\u0440\u043a\u0435",
+                "en": "Marche",
+                "ar": "\u0645\u0627\u0631\u0643\u064a",
+                "de": "Marken",
+                "es": "Marcas",
+                "fr": "Marches",
+                "it": "Marche",
+                "zh": "\u9a6c\u5c14\u51ef"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.495853,
+            "lng": 9.19288830000005
+        },
+        "25": {
+            "name": "Lombardy",
+            "code": "25",
+            "names": {
+                "geonames": "Lombardy",
+                "ru": "\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f",
+                "en": "Lombardy",
+                "ar": "\u0644\u0648\u0645\u0628\u0627\u0631\u062f\u064a\u0627",
+                "de": "Lombardei",
+                "es": "Lombard\u00eda",
+                "fr": "Lombardie",
+                "it": "Lombardia",
+                "zh": "\u4f26\u5df4\u7b2c"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.0107079,
+            "lng": 10.527332000000001
+        },
+        "42": {
+            "name": "Liguria",
+            "code": "42",
+            "names": {
+                "geonames": "Liguria",
+                "ru": "\u041b\u0438\u0433\u0443\u0440\u0438\u044f",
+                "en": "Liguria",
+                "ar": "\u0644\u064a\u063a\u0648\u0631\u064a\u0627",
+                "de": "Ligurien",
+                "es": "Liguria",
+                "fr": "Ligurie",
+                "it": "Liguria",
+                "zh": "\u5229\u53e4\u91cc\u4e9e"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.4436003,
+            "lng": 9.174197899999967
+        },
+        "62": {
+            "name": "Lazio",
+            "code": "62",
+            "names": {
+                "geonames": "Latium",
+                "ru": "\u041b\u0430\u0446\u0438\u043e",
+                "en": "Lazio",
+                "ar": "\u0644\u0627\u062a\u0633\u064a\u0648",
+                "de": "Latium",
+                "es": "Lacio",
+                "fr": "Latium",
+                "it": "Lazio",
+                "zh": "\u62c9\u9f50\u5965"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 42.4333705,
+            "lng": 11.715573100000029
+        },
+        "36": {
+            "name": "Friuli-Venezia Giulia",
+            "code": "36",
+            "names": {
+                "geonames": "Friuli Venezia Giulia",
+                "ru": "\u0424\u0440\u0438\u0443\u043b\u0438-\u0412\u0435\u043d\u0435\u0446\u0438\u044f-\u0414\u0436\u0443\u043b\u0438\u044f",
+                "en": "Friuli-Venezia Giulia",
+                "ar": "\u0641\u0631\u064a\u0648\u0644\u064a \u0641\u064a\u0646\u064a\u062a\u0633\u064a\u0627 \u062c\u0648\u0644\u064a\u0627",
+                "de": "Friaul-Julisch Venetien",
+                "es": "Friuli-Venecia Julia",
+                "fr": "Frioul-V\u00e9n\u00e9tie julienne",
+                "it": "Friuli-Venezia Giulia",
+                "zh": "\u5f17\u7559\u5229-\u5a01\u5c3c\u65af\u6731\u5229\u4e9a"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 45.9578768,
+            "lng": 13.464358199999992
+        },
+        "45": {
+            "name": "Emilia-Romagna",
+            "code": "45",
+            "names": {
+                "geonames": "Emilia-Romagna",
+                "ru": "\u042d\u043c\u0438\u043b\u0438\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f",
+                "en": "Emilia-Romagna",
+                "ar": "\u0625\u0645\u064a\u0644\u064a\u0627-\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+                "de": "Emilia-Romagna",
+                "es": "Emilia-Roma\u00f1a",
+                "fr": "\u00c9milie-Romagne",
+                "it": "Emilia-Romagna",
+                "zh": "\u827e\u7c73\u5229\u4e9a-\u7f57\u9a6c\u6d85"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 44.9751927,
+            "lng": 9.658160100000032
+        },
+        "72": {
+            "name": "Campania",
+            "code": "72",
+            "names": {
+                "geonames": "Campania",
+                "ru": "\u041a\u0430\u043c\u043f\u0430\u043d\u0438\u044f",
+                "en": "Campania",
+                "ar": "\u0643\u0627\u0645\u0628\u0627\u0646\u064a\u0627",
+                "de": "Kampanien",
+                "es": "Campania",
+                "fr": "Campanie",
+                "it": "Campania",
+                "zh": "\u574e\u5e15\u5c3c\u4e9a"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 40.5415435,
+            "lng": 17.43374599999993
+        },
+        "77": {
+            "name": "Basilicata",
+            "code": "77",
+            "names": {
+                "geonames": "Basilicate",
+                "ru": "\u0411\u0430\u0437\u0438\u043b\u0438\u043a\u0430\u0442\u0430",
+                "en": "Basilicata",
+                "ar": "\u0628\u0627\u0632\u064a\u0644\u064a\u0643\u0627\u062a\u0627",
+                "de": "Basilikata",
+                "es": "Basilicata",
+                "fr": "Basilicate",
+                "it": "Basilicata",
+                "zh": "\u5df4\u65af\u5229\u5361\u5854"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 41.6860653,
+            "lng": 15.376025600000048
+        },
+        "65": {
+            "name": "Abruzzo",
+            "code": "65",
+            "names": {
+                "geonames": "Abruzzo",
+                "ru": "\u0410\u0431\u0440\u0443\u0446\u0446\u043e",
+                "en": "Abruzzo",
+                "ar": "\u0623\u0628\u0631\u0648\u062a\u0633\u0648",
+                "de": "Abruzzen",
+                "es": "Abruzos",
+                "fr": "Abruzzes",
+                "it": "Abruzzo",
+                "zh": "\u963f\u5e03\u9c81\u4f50"
+            },
+            "division": "region",
+            "parent": "IT",
+            "lat": 42.3549861,
+            "lng": 14.138306000000057
+        },
+        "AG": {
+            "name": "Agrigento",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 37.3111882,
+            "lng": 13.576955999999996
+        },
+        "AL": {
+            "name": "Alessandria",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 44.9132168,
+            "lng": 8.616950699999961
+        },
+        "AN": {
+            "name": "Ancona",
+            "division": "province",
+            "parent": "IT-57",
+            "lat": 43.6158572,
+            "lng": 13.51875670000004
+        },
+        "AO": {
+            "name": "Aosta",
+            "division": "province",
+            "parent": "IT-23",
+            "lat": 45.7350001,
+            "lng": 7.313233999999966
+        },
+        "AR": {
+            "name": "Arezzo",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.4712011,
+            "lng": 11.863061700000003
+        },
+        "AP": {
+            "name": "Ascoli Piceno",
+            "division": "province",
+            "parent": "IT-57",
+            "lat": 42.8554018,
+            "lng": 13.57497710000007
+        },
+        "AT": {
+            "name": "Asti",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 44.9008642,
+            "lng": 8.206813000000011
+        },
+        "AV": {
+            "name": "Avellino",
+            "division": "province",
+            "parent": "IT-72",
+            "lat": 40.9147487,
+            "lng": 14.792722899999944
+        },
+        "BA": {
+            "name": "Bari",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 41.126001,
+            "lng": 16.86837879999996
+        },
+        "BT": {
+            "name": "Barletta-Andria-Trani",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 41.231315,
+            "lng": 16.304783000000043
+        },
+        "BL": {
+            "name": "Belluno",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 46.1399645,
+            "lng": 12.217590599999994
+        },
+        "BN": {
+            "name": "Benevento",
+            "division": "province",
+            "parent": "IT-72",
+            "lat": 41.130448,
+            "lng": 14.781173999999965
+        },
+        "BG": {
+            "name": "Bergamo",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.6949028,
+            "lng": 9.669952800000033
+        },
+        "BI": {
+            "name": "Biella",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 45.5628199,
+            "lng": 8.058280700000068
+        },
+        "BO": {
+            "name": "Bologna",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.4942191,
+            "lng": 11.346481499999982
+        },
+        "BZ": {
+            "name": "Bolzano",
+            "division": "province",
+            "parent": "IT-32",
+            "lat": 46.4967153,
+            "lng": 11.358004800000003
+        },
+        "BS": {
+            "name": "Brescia",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.5398297,
+            "lng": 10.222957299999962
+        },
+        "BR": {
+            "name": "Brindisi",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 40.6361753,
+            "lng": 17.93899090000002
+        },
+        "CA": {
+            "name": "Cagliari",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 39.2154583,
+            "lng": 9.109228199999961
+        },
+        "CL": {
+            "name": "Caltanissetta",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 37.4899089,
+            "lng": 14.063289299999951
+        },
+        "CB": {
+            "name": "Campobasso",
+            "division": "province",
+            "parent": "IT-67",
+            "lat": 41.5600859,
+            "lng": 14.664799200000061
+        },
+        "CI": {
+            "name": "Carbonia-Iglesias",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 39.3140952,
+            "lng": 8.541358700000046
+        },
+        "CE": {
+            "name": "Caserta",
+            "division": "province",
+            "parent": "IT-72",
+            "lat": 41.0754153,
+            "lng": 14.33219459999998
+        },
+        "CT": {
+            "name": "Catania",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 37.5024825,
+            "lng": 15.087834499999985
+        },
+        "CZ": {
+            "name": "Catanzaro",
+            "division": "province",
+            "parent": "IT-78",
+            "lat": 38.9105994,
+            "lng": 16.58767940000007
+        },
+        "CH": {
+            "name": "Chieti",
+            "division": "province",
+            "parent": "IT-65",
+            "lat": 42.3517929,
+            "lng": 14.167151099999955
+        },
+        "CO": {
+            "name": "Como",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.811988,
+            "lng": 9.085563900000011
+        },
+        "CS": {
+            "name": "Cosenza",
+            "division": "province",
+            "parent": "IT-78",
+            "lat": 39.2982626,
+            "lng": 16.253809400000023
+        },
+        "CR": {
+            "name": "Cremona",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.1334974,
+            "lng": 10.026135000000068
+        },
+        "KR": {
+            "name": "Crotone",
+            "division": "province",
+            "parent": "IT-78",
+            "lat": 39.0807391,
+            "lng": 17.127079200000026
+        },
+        "CN": {
+            "name": "Cuneo",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 44.3887987,
+            "lng": 7.547110699999962
+        },
+        "EN": {
+            "name": "Enna",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 37.5675948,
+            "lng": 14.279705899999954
+        },
+        "FM": {
+            "name": "Fermo",
+            "division": "province",
+            "parent": "IT-57",
+            "lat": 43.1656296,
+            "lng": 13.724222199999986
+        },
+        "FE": {
+            "name": "Ferrara",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.8378942,
+            "lng": 11.620439600000054
+        },
+        "FI": {
+            "name": "Firenze",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.7687324,
+            "lng": 11.256901299999981
+        },
+        "FG": {
+            "name": "Foggia",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 41.4623351,
+            "lng": 15.544699700000024
+        },
+        "FC": {
+            "name": "Forl\u00ec-Cesena",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.1361702,
+            "lng": 12.256998100000033
+        },
+        "FR": {
+            "name": "Frosinone",
+            "division": "province",
+            "parent": "IT-62",
+            "lat": 41.6401367,
+            "lng": 13.35190190000003
+        },
+        "GE": {
+            "name": "Genova",
+            "division": "province",
+            "parent": "IT-42",
+            "lat": 44.4070624,
+            "lng": 8.933988900000031
+        },
+        "GO": {
+            "name": "Gorizia",
+            "division": "province",
+            "parent": "IT-36",
+            "lat": 45.9413046,
+            "lng": 13.62154570000007
+        },
+        "GR": {
+            "name": "Grosseto",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 42.7628597,
+            "lng": 11.11278279999999
+        },
+        "IM": {
+            "name": "Imperia",
+            "division": "province",
+            "parent": "IT-42",
+            "lat": 43.8878924,
+            "lng": 8.031564099999969
+        },
+        "IS": {
+            "name": "Isernia",
+            "division": "province",
+            "parent": "IT-67",
+            "lat": 41.5943332,
+            "lng": 14.230827599999998
+        },
+        "SP": {
+            "name": "La Spezia",
+            "division": "province",
+            "parent": "IT-42",
+            "lat": 44.1067367,
+            "lng": 9.8292189
+        },
+        "AQ": {
+            "name": "L'Aquila",
+            "division": "province",
+            "parent": "IT-65",
+            "lat": 42.3506978,
+            "lng": 13.399933799999985
+        },
+        "LT": {
+            "name": "Latina",
+            "division": "province",
+            "parent": "IT-62",
+            "lat": 41.4675967,
+            "lng": 12.903700000000072
+        },
+        "LE": {
+            "name": "Lecce",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 40.3532912,
+            "lng": 18.174014599999964
+        },
+        "LC": {
+            "name": "Lecco",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.8529825,
+            "lng": 9.390070499999979
+        },
+        "LI": {
+            "name": "Livorno",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.551876,
+            "lng": 10.308010800000034
+        },
+        "LO": {
+            "name": "Lodi",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.3128778,
+            "lng": 9.49785010000005
+        },
+        "LU": {
+            "name": "Lucca",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.8430139,
+            "lng": 10.507994000000053
+        },
+        "SC": {
+            "name": "Macerata",
+            "division": "province",
+            "parent": "IT-57",
+            "lat": 43.3007462,
+            "lng": 13.456262000000038
+        },
+        "MN": {
+            "name": "Mantova",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.1603653,
+            "lng": 10.797697599999992
+        },
+        "MS": {
+            "name": "Massa-Carrara",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 44.0797037,
+            "lng": 10.104000600000063
+        },
+        "MT": {
+            "name": "Matera",
+            "division": "province",
+            "parent": "IT-77",
+            "lat": 40.6686534,
+            "lng": 16.606087200000047
+        },
+        "VS": {
+            "name": "Medio Campidano",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 39.5618686,
+            "lng": 8.89906300000007
+        },
+        "ME": {
+            "name": "Messina",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 38.1923323,
+            "lng": 15.555523200000039
+        },
+        "MI": {
+            "name": "Milano",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.4636889,
+            "lng": 9.188140799999928
+        },
+        "MO": {
+            "name": "Modena",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.6470798,
+            "lng": 10.925219999999968
+        },
+        "MB": {
+            "name": "Monza e Brianza",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.5980157,
+            "lng": 9.270298000000025
+        },
+        "NA": {
+            "name": "Napoli",
+            "division": "province",
+            "parent": "IT-72",
+            "lat": 40.8400969,
+            "lng": 14.251635699999952
+        },
+        "NO": {
+            "name": "Novara",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 45.4450839,
+            "lng": 8.61867099999995
+        },
+        "NU": {
+            "name": "Nuoro",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 40.3209984,
+            "lng": 9.330364700000018
+        },
+        "OG": {
+            "name": "Ogliastra",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 39.8788857,
+            "lng": 9.548220700000002
+        },
+        "OT": {
+            "name": "Olbia-Tempio",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 40.9044613,
+            "lng": 9.114000000000033
+        },
+        "OR": {
+            "name": "Oristano",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 39.9052746,
+            "lng": 8.596332999999959
+        },
+        "PD": {
+            "name": "Padova",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.4095683,
+            "lng": 11.876588599999991
+        },
+        "PA": {
+            "name": "Palermo",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 38.1156193,
+            "lng": 13.361375800000019
+        },
+        "PR": {
+            "name": "Parma",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.8078657,
+            "lng": 10.3295478
+        },
+        "PV": {
+            "name": "Pavia",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.1858877,
+            "lng": 9.156562699999995
+        },
+        "PG": {
+            "name": "Perugia",
+            "division": "province",
+            "parent": "IT-55",
+            "lat": 43.1107009,
+            "lng": 12.38917200000003
+        },
+        "PU": {
+            "name": "Pesaro e Urbino",
+            "division": "province",
+            "parent": "IT-57",
+            "lat": 43.9079764,
+            "lng": 12.913864200000035
+        },
+        "PE": {
+            "name": "Pescara",
+            "division": "province",
+            "parent": "IT-65",
+            "lat": 42.4648263,
+            "lng": 14.214094599999953
+        },
+        "PC": {
+            "name": "Piacenza",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 45.0537735,
+            "lng": 9.695142099999998
+        },
+        "PI": {
+            "name": "Pisa",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.7161354,
+            "lng": 10.396584299999972
+        },
+        "PT": {
+            "name": "Pistoia",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.9321551,
+            "lng": 10.918523400000026
+        },
+        "PN": {
+            "name": "Pordenone",
+            "division": "province",
+            "parent": "IT-36",
+            "lat": 45.9626521,
+            "lng": 12.655043599999999
+        },
+        "PZ": {
+            "name": "Potenza",
+            "division": "province",
+            "parent": "IT-77",
+            "lat": 40.6372425,
+            "lng": 15.802221400000008
+        },
+        "PO": {
+            "name": "Prato",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.8796987,
+            "lng": 11.096312099999977
+        },
+        "RG": {
+            "name": "Ragusa",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 36.9259126,
+            "lng": 14.728503700000033
+        },
+        "RA": {
+            "name": "Ravenna",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.4157307,
+            "lng": 12.196571100000028
+        },
+        "RC": {
+            "name": "Reggio Calabria",
+            "division": "province",
+            "parent": "IT-78",
+            "lat": 38.1146898,
+            "lng": 15.65013650000003
+        },
+        "RE": {
+            "name": "Reggio Emilia",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.6962299,
+            "lng": 10.627794300000005
+        },
+        "RI": {
+            "name": "Rieti",
+            "division": "province",
+            "parent": "IT-62",
+            "lat": 42.4030563,
+            "lng": 12.861179399999969
+        },
+        "RN": {
+            "name": "Rimini",
+            "division": "province",
+            "parent": "IT-45",
+            "lat": 44.0609167,
+            "lng": 12.566301299999964
+        },
+        "RM": {
+            "name": "Roma",
+            "division": "province",
+            "parent": "IT-62",
+            "lat": 41.8954656,
+            "lng": 12.48232429999996
+        },
+        "RO": {
+            "name": "Rovigo",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.0707365,
+            "lng": 11.7897964
+        },
+        "SA": {
+            "name": "Salerno",
+            "division": "province",
+            "parent": "IT-72",
+            "lat": 40.6779567,
+            "lng": 14.765912200000002
+        },
+        "SS": {
+            "name": "Sassari",
+            "division": "province",
+            "parent": "IT-88",
+            "lat": 40.727165,
+            "lng": 8.558468400000038
+        },
+        "SV": {
+            "name": "Savona",
+            "division": "province",
+            "parent": "IT-42",
+            "lat": 44.3110703,
+            "lng": 8.477246299999933
+        },
+        "SI": {
+            "name": "Siena",
+            "division": "province",
+            "parent": "IT-52",
+            "lat": 43.3186614,
+            "lng": 11.330513500000052
+        },
+        "SR": {
+            "name": "Siracusa",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 37.0664551,
+            "lng": 15.284427600000072
+        },
+        "SO": {
+            "name": "Sondrio",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 46.1712597,
+            "lng": 9.869333600000004
+        },
+        "TA": {
+            "name": "Taranto",
+            "division": "province",
+            "parent": "IT-75",
+            "lat": 40.4692383,
+            "lng": 17.24000879999994
+        },
+        "TE": {
+            "name": "Teramo",
+            "division": "province",
+            "parent": "IT-65",
+            "lat": 42.661269,
+            "lng": 13.698530699999992
+        },
+        "TR": {
+            "name": "Terni",
+            "division": "province",
+            "parent": "IT-55",
+            "lat": 42.5602192,
+            "lng": 12.646781199999964
+        },
+        "TO": {
+            "name": "Torino",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 45.0705621,
+            "lng": 7.686618599999974
+        },
+        "TP": {
+            "name": "Trapani",
+            "division": "province",
+            "parent": "IT-82",
+            "lat": 38.0185881,
+            "lng": 12.514633799999956
+        },
+        "TN": {
+            "name": "Trento",
+            "division": "province",
+            "parent": "IT-32",
+            "lat": 46.0667123,
+            "lng": 11.119059099999959
+        },
+        "TV": {
+            "name": "Treviso",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.6662855,
+            "lng": 12.242072000000007
+        },
+        "TS": {
+            "name": "Trieste",
+            "division": "province",
+            "parent": "IT-36",
+            "lat": 45.6536295,
+            "lng": 13.778407199999947
+        },
+        "UD": {
+            "name": "Udine",
+            "division": "province",
+            "parent": "IT-36",
+            "lat": 46.0649418,
+            "lng": 13.230724699999996
+        },
+        "VA": {
+            "name": "Varese",
+            "division": "province",
+            "parent": "IT-25",
+            "lat": 45.8176046,
+            "lng": 8.826384400000052
+        },
+        "VE": {
+            "name": "Venezia",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.4343363,
+            "lng": 12.338784400000009
+        },
+        "VB": {
+            "name": "Verbano-Cusio-Ossola",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 45.9302494,
+            "lng": 8.465604399999961
+        },
+        "VC": {
+            "name": "Vercelli",
+            "division": "province",
+            "parent": "IT-21",
+            "lat": 45.3211114,
+            "lng": 8.426235899999938
+        },
+        "VR": {
+            "name": "Verona",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.4383667,
+            "lng": 10.991747600000053
+        },
+        "VV": {
+            "name": "Vibo Valentia",
+            "division": "province",
+            "parent": "IT-78",
+            "lat": 38.67561,
+            "lng": 16.09766000000002
+        },
+        "VI": {
+            "name": "Vicenza",
+            "division": "province",
+            "parent": "IT-34",
+            "lat": 45.5459053,
+            "lng": 11.540306999999984
+        },
+        "VT": {
+            "name": "Viterbo",
+            "division": "province",
+            "parent": "IT-62",
+            "lat": 42.4173794,
+            "lng": 12.104854100000011
+        }
+    }
+}

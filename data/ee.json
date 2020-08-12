@@ -1,0 +1,299 @@
+{
+    "alpha-2": "EE",
+    "alpha-3": "EST",
+    "numeric": 233,
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "languages": [
+        "et"
+    ],
+    "flag-icon": "\ud83c\uddea\ud83c\uddea",
+    "names": {
+        "geonames": "Estonia",
+        "en": "Estonia",
+        "ar": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627",
+        "de": "Estland",
+        "es": "Estonia",
+        "fr": "Estonie",
+        "it": "Estonia",
+        "ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "zh": "\u7231\u6c99\u5c3c\u4e9a",
+        "he": "\u05d0\u05e1\u05d8\u05d5\u05e0\u05d9\u05d4",
+        "hi": "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e",
+        "ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
+        "pt": "Est\u00f3nia"
+    },
+    "ISO3166-2": {
+        "86": {
+            "name": "V\u00f5ru County",
+            "code": "86",
+            "names": {
+                "geonames": "Vorumaa",
+                "ru": "\u0412\u044b\u0440\u0443\u043c\u0430\u0430",
+                "en": "V\u00f5ru County",
+                "de": "Kreis V\u00f5ru",
+                "es": "Condado de V\u00f5ru",
+                "fr": "Comt\u00e9 de V\u00f5ru",
+                "it": "V\u00f5rumaa",
+                "zh": "\u6c83\u9b6f\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 57.7693312,
+            "lng": 26.06817849999993
+        },
+        "84": {
+            "name": "Viljandi County",
+            "code": "84",
+            "names": {
+                "geonames": "Viljandimaa",
+                "ru": "\u0412\u0438\u043b\u044c\u044f\u043d\u0434\u0438\u043c\u0430\u0430",
+                "en": "Viljandi County",
+                "de": "Kreis Viljandi",
+                "es": "Condado de Viljandi",
+                "fr": "Comt\u00e9 de Viljandi",
+                "it": "Viljandimaa",
+                "zh": "\u7dad\u723e\u63da\u8fea\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.7921895,
+            "lng": 25.421504400000003
+        },
+        "82": {
+            "name": "Valga County",
+            "code": "82",
+            "names": {
+                "geonames": "Valgamaa",
+                "ru": "\u0412\u0430\u043b\u0433\u0430\u043c\u0430\u0430",
+                "en": "Valga County",
+                "de": "Kreis Valga",
+                "es": "Condado de Valga",
+                "fr": "Comt\u00e9 de Valga",
+                "it": "Valgamaa",
+                "zh": "\u74e6\u723e\u52a0\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": null,
+            "lng": null
+        },
+        "78": {
+            "name": "Tartu County",
+            "code": "78",
+            "names": {
+                "geonames": "Tartu",
+                "ru": "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430",
+                "en": "Tartu County",
+                "de": "Kreis Tartu",
+                "es": "Condado de Tartu",
+                "fr": "Comt\u00e9 de Tartu",
+                "it": "Tartumaa",
+                "zh": "\u5854\u723e\u5716\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.2247949,
+            "lng": 26.420096400000034
+        },
+        "74": {
+            "name": "Saare County",
+            "code": "74",
+            "names": {
+                "geonames": "Saare",
+                "ru": "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430",
+                "en": "Saare County",
+                "es": "Condado de Saare",
+                "fr": "Comt\u00e9 de Saare",
+                "it": "Saaremaa",
+                "zh": "\u85a9\u96f7\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.4849721,
+            "lng": 22.61364070000002
+        },
+        "70": {
+            "name": "Rapla County",
+            "code": "70",
+            "names": {
+                "geonames": "Raplamaa",
+                "ru": "\u0420\u0430\u043f\u043b\u0430\u043c\u0430\u0430",
+                "en": "Rapla County",
+                "de": "Kreis Rapla",
+                "es": "Condado de Rapla",
+                "fr": "Comt\u00e9 de Rapla",
+                "it": "Raplamaa",
+                "zh": "\u62c9\u666e\u62c9\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": null,
+            "lng": null
+        },
+        "65": {
+            "name": "P\u00f5lva County",
+            "code": "65",
+            "names": {
+                "geonames": "Polvamaa",
+                "ru": "\u041f\u044b\u043b\u0432\u0430\u043c\u0430\u0430",
+                "en": "P\u00f5lva County",
+                "de": "Kreis P\u00f5lva",
+                "es": "Condado de P\u00f5lva",
+                "fr": "Comt\u00e9 de P\u00f5lva",
+                "it": "P\u00f5lvamaa",
+                "zh": "\u73c0\u723e\u74e6\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.0024626,
+            "lng": 27.343599700000027
+        },
+        "67": {
+            "name": "P\u00e4rnu County",
+            "code": "67",
+            "names": {
+                "geonames": "Paernumaa",
+                "ru": "\u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430",
+                "en": "P\u00e4rnu County",
+                "de": "Kreis P\u00e4rnu",
+                "es": "Condado de P\u00e4rnu",
+                "fr": "Comt\u00e9 de P\u00e4rnu",
+                "it": "P\u00e4rnumaa",
+                "zh": "\u6d3e\u723e\u52aa\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": null,
+            "lng": null
+        },
+        "59": {
+            "name": "L\u00e4\u00e4ne-Viru County",
+            "code": "59",
+            "names": {
+                "geonames": "Laeaene-Virumaa",
+                "ru": "\u041b\u044f\u044d\u043d\u0435-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
+                "en": "L\u00e4\u00e4ne-Viru County",
+                "de": "Kreis L\u00e4\u00e4ne-Viru",
+                "es": "Condado de L\u00e4\u00e4ne-Viru",
+                "fr": "Comt\u00e9 de Viru-Ouest",
+                "it": "L\u00e4\u00e4ne-Virumaa",
+                "zh": "\u897f\u7dad\u9b6f\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3453739,
+            "lng": 26.83297749999997
+        },
+        "57": {
+            "name": "L\u00e4\u00e4ne County",
+            "code": "57",
+            "names": {
+                "geonames": "Laeaene",
+                "ru": "\u041b\u044f\u044d\u043d\u0435\u043c\u0430\u0430",
+                "en": "L\u00e4\u00e4ne County",
+                "de": "Kreis L\u00e4\u00e4ne",
+                "es": "Condado de L\u00e4\u00e4ne",
+                "fr": "Comt\u00e9 de L\u00e4\u00e4ne",
+                "it": "L\u00e4\u00e4nemaa",
+                "zh": "\u840a\u5167\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.948764,
+            "lng": 23.54073399999993
+        },
+        "49": {
+            "name": "J\u00f5geva County",
+            "code": "49",
+            "names": {
+                "geonames": "Jogevamaa",
+                "ru": "\u0419\u044b\u0433\u0435\u0432\u0430\u043c\u0430\u0430",
+                "en": "J\u00f5geva County",
+                "de": "Kreis J\u00f5geva",
+                "es": "Condado de J\u00f5geva",
+                "fr": "Comt\u00e9 de J\u00f5geva",
+                "it": "J\u00f5gevamaa",
+                "zh": "\u7d04\u683c\u74e6\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.7094265,
+            "lng": 25.747190300000057
+        },
+        "51": {
+            "name": "J\u00e4rva County",
+            "code": "51",
+            "names": {
+                "geonames": "Jaervamaa",
+                "ru": "\u042f\u0440\u0432\u0430\u043c\u0430\u0430",
+                "en": "J\u00e4rva County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0631\u0641\u0627",
+                "de": "Kreis J\u00e4rva",
+                "es": "Condado de J\u00e4rva",
+                "fr": "Comt\u00e9 de J\u00e4rva",
+                "it": "J\u00e4rvamaa",
+                "zh": "\u8036\u723e\u74e6\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.888928,
+            "lng": 25.55744149999998
+        },
+        "44": {
+            "name": "Ida-Viru County",
+            "code": "44",
+            "names": {
+                "geonames": "Ida-Virumaa",
+                "ru": "\u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
+                "en": "Ida-Viru County",
+                "de": "Kreis Ida-Viru",
+                "es": "Condado de Ida-Viru",
+                "fr": "Comt\u00e9 de Viru-Est",
+                "it": "Ida-Virumaa",
+                "zh": "\u6771\u7dad\u9b6f\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3473967,
+            "lng": 28.168977199999972
+        },
+        "39": {
+            "name": "Hiiu County",
+            "code": "39",
+            "names": {
+                "geonames": "Hiiumaa",
+                "ru": "\u0425\u0438\u0439\u0443\u043c\u0430\u0430",
+                "en": "Hiiu County",
+                "de": "Kreis Hiiu",
+                "es": "Condado de Hiiu",
+                "fr": "Comt\u00e9 de Hiiu",
+                "it": "Hiiumaa",
+                "zh": "\u5e0c\u5c24\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 58.9239553,
+            "lng": 22.59194679999996
+        },
+        "37": {
+            "name": "Harju County",
+            "code": "37",
+            "names": {
+                "geonames": "Harjumaa",
+                "ru": "\u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430",
+                "en": "Harju County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0627\u0631\u064a\u0648",
+                "de": "Kreis Harju",
+                "es": "Condado de Harju",
+                "fr": "Comt\u00e9 de Harju",
+                "it": "Harjumaa",
+                "zh": "\u54c8\u723e\u5c24\u7e23"
+            },
+            "division": "county",
+            "parent": "EE",
+            "lat": 59.3039486,
+            "lng": 24.43979730000001
+        }
+    }
+}

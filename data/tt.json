@@ -1,0 +1,291 @@
+{
+    "alpha-2": "TT",
+    "alpha-3": "TTO",
+    "numeric": 780,
+    "capital": "Port of Spain",
+    "currency": "TTD",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf9\ud83c\uddf9",
+    "names": {
+        "geonames": "Trinidad and Tobago",
+        "en": "Trinidad and Tobago",
+        "ar": "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648",
+        "de": "Trinidad und Tobago",
+        "es": "Trinidad y Tobago",
+        "fr": "Trinit\u00e9-et-Tobago",
+        "it": "Trinidad e Tobago",
+        "ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "zh": "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5",
+        "he": "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3 \u05d5\u05d8\u05d5\u05d1\u05d2\u05d5",
+        "hi": "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926 \u0914\u0930 \u091f\u094b\u092c\u0948\u0917\u094b",
+        "ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
+        "pt": "Trindade e Tobago"
+    },
+    "ISO3166-2": {
+        "TOB": {
+            "name": "Tobago",
+            "code": "TOB",
+            "names": {
+                "geonames": "Tobago",
+                "en": "Tobago",
+                "ar": "\u062a\u0648\u0628\u0627\u063a\u0648",
+                "de": "Tobago",
+                "es": "Tobago",
+                "fr": "Tobago",
+                "it": "Tobago",
+                "ru": "\u0422\u043e\u0431\u0430\u0433\u043e",
+                "zh": "Chinese"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SFO": {
+            "name": "San Fernando, Trinidad and Tobago",
+            "code": "SFO",
+            "names": {
+                "geonames": "City of San Fernando",
+                "ru": "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e",
+                "en": "San Fernando",
+                "de": "San Fernando",
+                "es": "San Fernando",
+                "fr": "San Fernando",
+                "it": "San Fernando"
+            },
+            "division": "city",
+            "parent": "TT",
+            "lat": 10.28289,
+            "lng": -61.45859899999999
+        },
+        "POS": {
+            "name": "Port of Spain",
+            "code": "POS",
+            "names": {
+                "geonames": "City of Port of Spain",
+                "ru": "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d",
+                "en": "Port of Spain",
+                "ar": "\u0628\u0648\u0631\u062a \u0623\u0648\u0641 \u0633\u0628\u064a\u0646",
+                "de": "Port of Spain",
+                "es": "Puerto Espa\u00f1a",
+                "fr": "Port-d'Espagne",
+                "it": "Port of Spain",
+                "zh": "\u897f\u73ed\u7259\u6e2f"
+            },
+            "division": "city",
+            "parent": "TT",
+            "lat": 10.595278,
+            "lng": -61.337222
+        },
+        "MRC": {
+            "name": "Rio Claro-Mayaro Regional Corporation",
+            "code": "MRC",
+            "names": {
+                "geonames": "Mayaro",
+                "en": "Rio Claro-Mayaro Regional Corporation",
+                "fr": "R\u00e9gion de Rio Claro-Mayaro",
+                "it": "Regione di Rio Claro-Mayaro"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "ARI": {
+            "name": "Arima",
+            "code": "ARI",
+            "names": {
+                "geonames": "Borough of Arima",
+                "ru": "\u0410\u0440\u0438\u043c\u0430",
+                "en": "Arima",
+                "de": "Arima",
+                "es": "Arima",
+                "fr": "Arima",
+                "it": "Arima"
+            },
+            "division": "borough",
+            "parent": "TT",
+            "lat": 10.63111,
+            "lng": -61.27516200000002
+        },
+        "CHA": {
+            "name": "Chaguanas",
+            "code": "CHA",
+            "names": {
+                "geonames": "Chaguanas",
+                "ru": "\u0427\u0430\u0433\u0443\u0430\u043d\u0430\u0441",
+                "en": "Chaguanas",
+                "es": "Chaguanas",
+                "fr": "Chaguanas",
+                "it": "Chaguanas"
+            },
+            "division": "borough",
+            "parent": "TT",
+            "lat": 10.5204623,
+            "lng": -61.41201209999997
+        },
+        "CTT": {
+            "name": "Couva-Tabaquite-Talparo Regional Corporation",
+            "code": "CTT",
+            "names": {
+                "geonames": "Couva-Tabaquite-Talparo",
+                "ru": "\u041a\u0443\u0432\u0430-\u0422\u0430\u0431\u0430\u043a\u0438\u0442\u0435-\u0422\u0430\u043b\u044c\u043f\u0430\u0440\u043e",
+                "en": "Couva-Tabaquite-Talparo Regional Corporation",
+                "de": "Couva-Tabaquite-Talparo",
+                "fr": "R\u00e9gion de Couva-Tabaquite-Talparo",
+                "it": "Regione di Couva-Tabaquite-Talparo"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.509905,
+            "lng": -61.264509799999985
+        },
+        "DMN": {
+            "name": "Diego Martin Regional Corporation",
+            "code": "DMN",
+            "names": {
+                "geonames": "Diego Martin",
+                "ru": "\u0414\u0438\u0435\u0433\u043e \u041c\u0430\u0440\u0442\u0438\u043d",
+                "en": "Diego Martin Regional Corporation",
+                "de": "Diego Martin",
+                "es": "Diego Martin",
+                "fr": "R\u00e9gion de Diego Martin",
+                "it": "Regione di Diego Martin"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.7173376,
+            "lng": -61.544534
+        },
+        "PED": {
+            "name": "Penal-Debe Regional Corporation",
+            "code": "PED",
+            "names": {
+                "geonames": "Penal\/Debe",
+                "ru": "\u041f\u0435\u043d\u0430\u043b-\u0414\u0435\u0431\u0435",
+                "en": "Penal-Debe Regional Corporation",
+                "fr": "R\u00e9gion de Penal-Debe",
+                "it": "Regione di Penal-Debe"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.20739,
+            "lng": -61.44284099999999
+        },
+        "PRT": {
+            "name": "Princes Town Regional Corporation",
+            "code": "PRT",
+            "names": {
+                "geonames": "Princes Town",
+                "ru": "\u041f\u0440\u0438\u043d\u0441\u0435\u0441 \u0422\u0430\u0443\u043d",
+                "en": "Princes Town Regional Corporation",
+                "fr": "R\u00e9gion de Princes Town",
+                "it": "Regione di Princes Town"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.2689783,
+            "lng": -61.36933379999999
+        },
+        "PTF": {
+            "name": "Point Fortin",
+            "code": "PTF",
+            "names": {
+                "geonames": "Point Fortin",
+                "ru": "\u041f\u043e\u0439\u043d\u0442-\u0424\u043e\u0440\u0442\u0438\u043d",
+                "en": "Point Fortin",
+                "de": "Point Fortin",
+                "es": "Point Fortin",
+                "fr": "Point Fortin",
+                "it": "Point Fortin"
+            },
+            "division": "borough",
+            "parent": "TT",
+            "lat": 10.1704,
+            "lng": -61.67924099999999
+        },
+        "SGE": {
+            "name": "Sangre Grande Regional Corporation",
+            "code": "SGE",
+            "names": {
+                "geonames": "Sangre Grande",
+                "ru": "\u0421\u0430\u043d\u0433\u0440\u0435-\u0413\u0440\u0430\u043d\u0434\u0435",
+                "en": "Sangre Grande Regional Corporation",
+                "de": "Sangre Grande",
+                "fr": "R\u00e9gion de Sangre Grande",
+                "it": "Regione di Sangre Grande"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.5937227,
+            "lng": -61.12860710000001
+        },
+        "SIP": {
+            "name": "Siparia Regional Corporation",
+            "code": "SIP",
+            "names": {
+                "geonames": "Siparia",
+                "ru": "\u0421\u0438\u043f\u0430\u0440\u0438\u044f",
+                "en": "Siparia Regional Corporation",
+                "fr": "R\u00e9gion de Siparia",
+                "it": "Regione di Siparia"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": null,
+            "lng": null
+        },
+        "SJL": {
+            "name": "San Juan-Laventille Regional Corporation",
+            "code": "SJL",
+            "names": {
+                "geonames": "San Juan\/Laventille",
+                "ru": "\u0421\u0430\u043d \u0425\u0443\u0430\u043d-\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u044c",
+                "en": "San Juan-Laventille Regional Corporation",
+                "de": "San Juan-Laventille",
+                "es": "San Juan-Laventille",
+                "fr": "R\u00e9gion de San Juan-Laventille",
+                "it": "Regione di San Juan-Laventille"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": null,
+            "lng": null
+        },
+        "TUP": {
+            "name": "Tunapuna-Piarco Regional Corporation",
+            "code": "TUP",
+            "names": {
+                "geonames": "Tunapuna\/Piarco",
+                "ru": "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430-\u041f\u0438\u0430\u0440\u043a\u043e",
+                "en": "Tunapuna-Piarco Regional Corporation",
+                "de": "Tunapuna-Piarco",
+                "fr": "R\u00e9gion de Tunapuna-Piarco",
+                "it": "Regione di Tunapuna-Piarco"
+            },
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.5859081,
+            "lng": -61.33220929999999
+        },
+        "ETO": {
+            "name": "Eastern Tobago",
+            "division": "region",
+            "parent": "TT"
+        },
+        "RCM": {
+            "name": "Rio Claro-Mayaro",
+            "division": "region",
+            "parent": "TT",
+            "lat": 10.2892766,
+            "lng": -61.013264400000025
+        },
+        "WTO": {
+            "name": "Western Tobago",
+            "division": "region",
+            "parent": "TT"
+        }
+    }
+}

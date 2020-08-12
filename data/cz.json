@@ -1,0 +1,927 @@
+{
+    "alpha-2": "CZ",
+    "alpha-3": "CZE",
+    "numeric": 203,
+    "capital": "Prague",
+    "currency": "CZK",
+    "languages": [
+        "cs",
+        "sk"
+    ],
+    "flag-icon": "\ud83c\udde8\ud83c\uddff",
+    "names": {
+        "geonames": "Czech Republic",
+        "en": "Czech Republic",
+        "ar": "\u0627\u0644\u062a\u0634\u064a\u0643",
+        "de": "Tschechien",
+        "es": "Rep\u00fablica Checa",
+        "fr": "R\u00e9publique tch\u00e8que",
+        "it": "Repubblica Ceca",
+        "ru": "\u0427\u0435\u0445\u0438\u044f",
+        "zh": "\u6377\u514b",
+        "he": "\u05e6'\u05db\u05d9\u05d4",
+        "hi": "\u091a\u0947\u0915 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+        "ja": "\u30c1\u30a7\u30b3",
+        "pt": "Rep\u00fablica Checa"
+    },
+    "ISO3166-2": {
+        "PR": {
+            "name": "Prague",
+            "code": "PR",
+            "names": {
+                "geonames": "Praha",
+                "ru": "\u041f\u0440\u0430\u0433\u0430",
+                "ar": "\u0628\u0631\u0627\u063a",
+                "de": "Prag",
+                "en": "Prague",
+                "es": "Praga",
+                "fr": "Prague",
+                "it": "Praga",
+                "zh": "\u5e03\u62c9\u683c"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.0536498,
+            "lng": 14.52749689999996
+        },
+        "JM": {
+            "name": "South Moravian Region",
+            "code": "JM",
+            "names": {
+                "geonames": "South Moravian",
+                "ru": "\u042e\u0436\u043d\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0648\u0631\u0627\u0641\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+                "de": "Jihomoravsk\u00fd kraj",
+                "en": "South Moravian Region",
+                "es": "Regi\u00f3n de Moravia Meridional",
+                "fr": "Moravie-du-Sud",
+                "it": "Moravia meridionale",
+                "zh": "\u5357\u6469\u62c9\u7dad\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.2965936,
+            "lng": 16.742679199999998
+        },
+        "JC": {
+            "name": "South Bohemian Region",
+            "code": "JC",
+            "names": {
+                "geonames": "Jihocesky",
+                "ru": "\u042e\u0436\u043d\u043e\u0447\u0435\u0448\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Jiho\u010desk\u00fd kraj",
+                "en": "South Bohemian Region",
+                "es": "Regi\u00f3n de Bohemia Meridional",
+                "fr": "Boh\u00eame-du-Sud",
+                "it": "Boemia meridionale",
+                "zh": "\u5357\u6ce2\u5e0c\u7c73\u4e9a\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 48.9457789,
+            "lng": 14.441605500000037
+        },
+        "VY": {
+            "name": "Vyso\u010dina Region",
+            "code": "VY",
+            "names": {
+                "geonames": "Vysocina",
+                "ru": "\u041a\u0440\u0430\u0439 \u0412\u044b\u0441\u043e\u0447\u0438\u043d\u0430",
+                "de": "Kraj Vyso\u010dina",
+                "en": "Vyso\u010dina Region",
+                "es": "Regi\u00f3n de Vyso\u010dina",
+                "fr": "R\u00e9gion de Vyso\u010dina",
+                "it": "Regione di Vyso\u010dina",
+                "zh": "\u7dad\u7d22\u57fa\u7d0d\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.4490052,
+            "lng": 15.640593399999943
+        },
+        "KA": {
+            "name": "Karlovy Vary Region",
+            "code": "KA",
+            "names": {
+                "geonames": "Karlovarsky",
+                "ru": "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Karlovarsk\u00fd kraj",
+                "en": "Karlovy Vary Region",
+                "es": "Regi\u00f3n de Karlovy Vary",
+                "fr": "R\u00e9gion de Karlovy Vary",
+                "it": "Regione di Karlovy Vary",
+                "zh": "\u5361\u7f85\u7dad\u767c\u5229\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.1435,
+            "lng": 12.75018990000001
+        },
+        "KR": {
+            "name": "Hradec Kr\u00e1lov\u00e9 Region",
+            "code": "KR",
+            "names": {
+                "geonames": "Kralovehradecky",
+                "ru": "\u041a\u0440\u0430\u043b\u043e\u0432\u0435\u0433\u0440\u0430\u0434\u0435\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+                "en": "Hradec Kr\u00e1lov\u00e9 Region",
+                "es": "Regi\u00f3n de Hradec Kr\u00e1lov\u00e9",
+                "fr": "R\u00e9gion de Hradec Kr\u00e1lov\u00e9",
+                "it": "Regione di Hradec Kr\u00e1lov\u00e9",
+                "zh": "\u8d6b\u62c9\u5fb7\u8328-\u514b\u62c9\u6d1b\u97cb\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.4332205,
+            "lng": 15.369282500000054
+        },
+        "LI": {
+            "name": "Liberec Region",
+            "code": "LI",
+            "names": {
+                "geonames": "Liberecky",
+                "ru": "\u041b\u0438\u0431\u0435\u0440\u0435\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Libereck\u00fd kraj",
+                "en": "Liberec Region",
+                "es": "Regi\u00f3n de Liberec",
+                "fr": "R\u00e9gion de Liberec",
+                "it": "Regione di Liberec",
+                "zh": "\u5229\u8d1d\u96f7\u8328\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.659424,
+            "lng": 14.763242399999967
+        },
+        "712": {
+            "name": "Olomouc District",
+            "code": "712",
+            "names": {
+                "geonames": "Olomoucky",
+                "ru": "\u041e\u043b\u043e\u043c\u043e\u0443\u0446",
+                "en": "Olomouc District",
+                "de": "Okres Olomouc",
+                "fr": "District d'Olomouc",
+                "it": "Distretto di Olomouc"
+            },
+            "division": "district",
+            "parent": "CZ-OL",
+            "lat": 49.5953879,
+            "lng": 17.251872100000014
+        },
+        "MO": {
+            "name": "Moravian-Silesian Region",
+            "code": "MO",
+            "names": {
+                "geonames": "Moravskoslezsky",
+                "ru": "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u043e\u0441\u0438\u043b\u0435\u0437\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0648\u0631\u0627\u0641\u064a\u0627-\u0633\u064a\u0644\u064a\u0632\u064a\u0627",
+                "de": "Moravskoslezsk\u00fd kraj",
+                "en": "Moravian-Silesian Region",
+                "es": "Regi\u00f3n de Moravia-Silesia",
+                "fr": "R\u00e9gion de Moravie-Sil\u00e9sie",
+                "it": "Regione di Moravia-Slesia",
+                "zh": "\u6469\u62c9\u7dad\u4e9e-\u897f\u91cc\u897f\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.7305327,
+            "lng": 18.233263699999952
+        },
+        "PA": {
+            "name": "Pardubice Region",
+            "code": "PA",
+            "names": {
+                "geonames": "Pardubicky",
+                "ru": "\u041f\u0430\u0440\u0434\u0443\u0431\u0438\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Pardubick\u00fd kraj",
+                "en": "Pardubice Region",
+                "es": "Regi\u00f3n de Pardubice",
+                "fr": "R\u00e9gion de Pardubice",
+                "it": "Regione di Pardubice",
+                "zh": "\u5e15\u723e\u675c\u6bd4\u91c7\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.9444479,
+            "lng": 16.285691600000064
+        },
+        "PL": {
+            "name": "Plze\u0148 Region",
+            "code": "PL",
+            "names": {
+                "geonames": "Plzensky",
+                "ru": "\u041f\u043b\u044c\u0437\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "Plze\u0148sk\u00fd kraj",
+                "en": "Plze\u0148 Region",
+                "es": "Regi\u00f3n de Pilsen",
+                "fr": "R\u00e9gion de Plze\u0148",
+                "it": "Regione di Plze\u0148",
+                "zh": "\u6bd4\u723e\u68ee\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.4134812,
+            "lng": 13.315724600000067
+        },
+        "ST": {
+            "name": "Central Bohemian Region",
+            "code": "ST",
+            "names": {
+                "geonames": "Central Bohemia",
+                "ru": "\u0421\u0440\u0435\u0434\u043d\u0435\u0447\u0435\u0448\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "St\u0159edo\u010desk\u00fd kraj",
+                "en": "Central Bohemian Region",
+                "es": "Regi\u00f3n de Bohemia Central",
+                "fr": "Boh\u00eame centrale",
+                "it": "Boemia centrale",
+                "zh": "\u4e2d\u6ce2\u5e0c\u7c73\u4e9a\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.4451309,
+            "lng": 14.780793200000062
+        },
+        "US": {
+            "name": "\u00dast\u00ed nad Labem Region",
+            "code": "US",
+            "names": {
+                "geonames": "Ustecky",
+                "ru": "\u0423\u0441\u0442\u0435\u0446\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "de": "\u00dasteck\u00fd kraj",
+                "en": "\u00dast\u00ed nad Labem Region",
+                "es": "Regi\u00f3n de \u00dast\u00ed nad Labem",
+                "fr": "R\u00e9gion d'Aussig-sur-Elbe",
+                "it": "Regione di \u00dast\u00ed nad Labem",
+                "zh": "\u70cf\u65af\u5b63\u5dde"
+            },
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.5327778,
+            "lng": 13.629444400000011
+        },
+        "72": {
+            "name": "Zl\u00edn",
+            "code": "72",
+            "names": {
+                "geonames": "Zlin",
+                "en": "Zl\u00edn",
+                "ar": "\u0632\u0644\u064a\u0646",
+                "de": "Zl\u00edn",
+                "es": "Zl\u00edn",
+                "fr": "Zl\u00edn",
+                "it": "Zl\u00edn",
+                "ru": "\u0417\u043b\u0438\u043d",
+                "zh": "Chinese"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "OL": {
+            "name": "Olomouck\u00fd kraj",
+            "division": "region",
+            "parent": "CZ",
+            "lat": 50.31017,
+            "lng": 17.382720000000063
+        },
+        "ZL": {
+            "name": "Zl\u00ednsk\u00fd kraj",
+            "division": "region",
+            "parent": "CZ",
+            "lat": 49.2162296,
+            "lng": 17.77203529999997
+        },
+        "201": {
+            "name": "Bene\u0161ov",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 49.7817045,
+            "lng": 14.686574699999937
+        },
+        "202": {
+            "name": "Beroun",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 49.9634209,
+            "lng": 14.071866
+        },
+        "621": {
+            "name": "Blansko",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 49.3632154,
+            "lng": 16.644793299999947
+        },
+        "622": {
+            "name": "Brno-m\u011bsto",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 49.1909804,
+            "lng": 16.611534699999993
+        },
+        "623": {
+            "name": "Brno-venkov",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 49.1909804,
+            "lng": 16.611534699999993
+        },
+        "801": {
+            "name": "Brunt\u00e1l",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.9881706,
+            "lng": 17.464258200000017
+        },
+        "624": {
+            "name": "B\u0159eclav",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 48.7602079,
+            "lng": 16.880739800000015
+        },
+        "511": {
+            "name": "\u010cesk\u00e1 L\u00edpa",
+            "division": "district",
+            "parent": "CZ-LI",
+            "lat": 50.6866491,
+            "lng": 14.537128199999984
+        },
+        "311": {
+            "name": "\u010cesk\u00e9 Bud\u011bjovice",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 48.9739084,
+            "lng": 14.47502350000002
+        },
+        "312": {
+            "name": "\u010cesk\u00fd Krumlov",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 48.8107194,
+            "lng": 14.315023900000028
+        },
+        "421": {
+            "name": "D\u011b\u010d\u00edn",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.7817726,
+            "lng": 14.214583400000038
+        },
+        "321": {
+            "name": "Doma\u017elice",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.4413117,
+            "lng": 12.926006099999995
+        },
+        "802": {
+            "name": "Fr\u00fddek M\u00edstek",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.6852722,
+            "lng": 18.34803390000002
+        },
+        "611": {
+            "name": "Havl\u00ed\u010dk\u016fv Brod",
+            "division": "district",
+            "parent": "CZ-VY",
+            "lat": 49.6069448,
+            "lng": 15.579347999999982
+        },
+        "625": {
+            "name": "Hodon\u00edn",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 48.8510819,
+            "lng": 17.127050300000064
+        },
+        "521": {
+            "name": "Hradec Kr\u00e1lov\u00e9",
+            "division": "district",
+            "parent": "CZ-KR",
+            "lat": 50.2094261,
+            "lng": 15.832625900000039
+        },
+        "411": {
+            "name": "Cheb",
+            "division": "district",
+            "parent": "CZ-KA",
+            "lat": 50.0777871,
+            "lng": 12.375781599999982
+        },
+        "422": {
+            "name": "Chomutov",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.4605452,
+            "lng": 13.418151500000022
+        },
+        "531": {
+            "name": "Chrudim",
+            "division": "district",
+            "parent": "CZ-PA",
+            "lat": 49.9511407,
+            "lng": 15.794772700000067
+        },
+        "512": {
+            "name": "Jablonec nad Nisou",
+            "division": "district",
+            "parent": "CZ-LI",
+            "lat": 50.7249076,
+            "lng": 15.169397600000025
+        },
+        "711": {
+            "name": "Jesen\u00edk",
+            "division": "district",
+            "parent": "CZ-OL",
+            "lat": 50.2298994,
+            "lng": 17.204507899999953
+        },
+        "522": {
+            "name": "Ji\u010d\u00edn",
+            "division": "district",
+            "parent": "CZ-KR",
+            "lat": 50.4370003,
+            "lng": 15.351312600000028
+        },
+        "612": {
+            "name": "Jihlava",
+            "division": "district",
+            "parent": "CZ-VY",
+            "lat": 49.3954732,
+            "lng": 15.590954099999976
+        },
+        "313": {
+            "name": "Jind\u0159ich\u016fv Hradec",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 49.1515019,
+            "lng": 15.010794499999975
+        },
+        "412": {
+            "name": "Karlovy Vary",
+            "division": "district",
+            "parent": "CZ-KA",
+            "lat": 50.2322052,
+            "lng": 12.871276500000022
+        },
+        "803": {
+            "name": "Karvin\u00e1",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.8534622,
+            "lng": 18.540811500000018
+        },
+        "203": {
+            "name": "Kladno",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.1470184,
+            "lng": 14.10326669999995
+        },
+        "322": {
+            "name": "Klatovy",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.3954468,
+            "lng": 13.29475309999998
+        },
+        "204": {
+            "name": "Kol\u00edn",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.0280075,
+            "lng": 15.2011665
+        },
+        "721": {
+            "name": "Krom\u0115\u0159\u00ed\u017e",
+            "division": "district",
+            "parent": "CZ-ZL",
+            "lat": 49.2989616,
+            "lng": 17.39060589999997
+        },
+        "205": {
+            "name": "Kutn\u00e1 Hora",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 49.948254,
+            "lng": 15.267967699999986
+        },
+        "513": {
+            "name": "Liberec",
+            "division": "district",
+            "parent": "CZ-LI",
+            "lat": 50.7670199,
+            "lng": 15.05613459999995
+        },
+        "423": {
+            "name": "Litom\u011b\u0159ice",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.5338588,
+            "lng": 14.131222799999932
+        },
+        "424": {
+            "name": "Louny",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.3567009,
+            "lng": 13.796857799999998
+        },
+        "206": {
+            "name": "M\u011bln\u00edk",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.3520371,
+            "lng": 14.474727900000062
+        },
+        "207": {
+            "name": "Mlad\u00e1 Boleslav",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.410745,
+            "lng": 14.902804599999968
+        },
+        "425": {
+            "name": "Most",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.503189,
+            "lng": 13.636256900000035
+        },
+        "523": {
+            "name": "N\u00e1chod",
+            "division": "district",
+            "parent": "CZ-KR",
+            "lat": 50.4165382,
+            "lng": 16.16314890000001
+        },
+        "804": {
+            "name": "Nov\u00fd Ji\u010d\u00edn",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.5953794,
+            "lng": 18.010137699999973
+        },
+        "208": {
+            "name": "Nymburk",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.1861,
+            "lng": 15.041560300000015
+        },
+        "805": {
+            "name": "Opava",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.9387627,
+            "lng": 17.902458199999955
+        },
+        "806": {
+            "name": "Ostrava m\u011bsto",
+            "division": "district",
+            "parent": "CZ-MO",
+            "lat": 49.8412715,
+            "lng": 18.29024830000003
+        },
+        "532": {
+            "name": "Pardubice",
+            "division": "district",
+            "parent": "CZ-PA",
+            "lat": 50.0378281,
+            "lng": 15.780833499999972
+        },
+        "613": {
+            "name": "Pelh\u0159imov",
+            "division": "district",
+            "parent": "CZ-VY",
+            "lat": 49.4324611,
+            "lng": 15.227150400000028
+        },
+        "314": {
+            "name": "P\u00edsek",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 49.3083158,
+            "lng": 14.147469300000012
+        },
+        "324": {
+            "name": "Plze\u0148 jih",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.7474848,
+            "lng": 13.37760359999993
+        },
+        "323": {
+            "name": "Plze\u0148 m\u011bsto",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.7474848,
+            "lng": 13.37760359999993
+        },
+        "325": {
+            "name": "Plze\u0148 sever",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.7474848,
+            "lng": 13.37760359999993
+        },
+        "101": {
+            "name": "Praha 1",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 49.9830699,
+            "lng": 14.362477799999965
+        },
+        "102": {
+            "name": "Praha 2",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0061118,
+            "lng": 14.654828100000032
+        },
+        "103": {
+            "name": "Praha 3",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0842668,
+            "lng": 14.469287300000019
+        },
+        "104": {
+            "name": "Praha 4",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 49.9947905,
+            "lng": 14.397294200000033
+        },
+        "105": {
+            "name": "Praha 5",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0721598,
+            "lng": 14.397653499999933
+        },
+        "106": {
+            "name": "Praha 6",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0980982,
+            "lng": 14.410075399999982
+        },
+        "107": {
+            "name": "Praha 7",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0967168,
+            "lng": 14.352438699999993
+        },
+        "108": {
+            "name": "Praha 8",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.1343049,
+            "lng": 14.489990300000045
+        },
+        "109": {
+            "name": "Praha 9",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0860494,
+            "lng": 14.55964819999997
+        },
+        "10A": {
+            "name": "Praha 10",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.1157286,
+            "lng": 14.588726599999973
+        },
+        "10B": {
+            "name": "Praha 11",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.4793551,
+            "lng": 14.962753900000052
+        },
+        "10C": {
+            "name": "Praha 12",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.0876202,
+            "lng": 14.562153500000022
+        },
+        "10D": {
+            "name": "Praha 13",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.4793551,
+            "lng": 14.962753900000052
+        },
+        "10E": {
+            "name": "Praha 14",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.1287046,
+            "lng": 14.625461599999994
+        },
+        "10F": {
+            "name": "Praha 15",
+            "division": "district",
+            "parent": "CZ-PR",
+            "lat": 50.1224681,
+            "lng": 14.601420100000041
+        },
+        "209": {
+            "name": "Praha v\u00fdchod",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.0878114,
+            "lng": 14.420459800000003
+        },
+        "20A": {
+            "name": "Praha z\u00e1pad",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.0878114,
+            "lng": 14.420459800000003
+        },
+        "315": {
+            "name": "Prachatice",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 49.0127106,
+            "lng": 13.997190499999988
+        },
+        "713": {
+            "name": "Prost\u0115jov",
+            "division": "district",
+            "parent": "CZ-OL",
+            "lat": 49.471508,
+            "lng": 17.11241910000001
+        },
+        "714": {
+            "name": "P\u0159erov",
+            "division": "district",
+            "parent": "CZ-OL",
+            "lat": 49.4553909,
+            "lng": 17.45030780000002
+        },
+        "20B": {
+            "name": "P\u0159\u00edbram",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 49.6897802,
+            "lng": 14.010103399999934
+        },
+        "20C": {
+            "name": "Rakovn\u00edk",
+            "division": "district",
+            "parent": "CZ-ST",
+            "lat": 50.1041874,
+            "lng": 13.731717000000003
+        },
+        "326": {
+            "name": "Rokycany",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.7422142,
+            "lng": 13.594652200000041
+        },
+        "524": {
+            "name": "Rychnov nad Kn\u011b\u017enou",
+            "division": "district",
+            "parent": "CZ-KR",
+            "lat": 50.1632374,
+            "lng": 16.274780899999996
+        },
+        "514": {
+            "name": "Semily",
+            "division": "district",
+            "parent": "CZ-LI",
+            "lat": 50.6027296,
+            "lng": 15.334385800000064
+        },
+        "413": {
+            "name": "Sokolov",
+            "division": "district",
+            "parent": "CZ-KA",
+            "lat": 50.1813973,
+            "lng": 12.639736200000016
+        },
+        "316": {
+            "name": "Strakonice",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 49.261748,
+            "lng": 13.90345339999999
+        },
+        "533": {
+            "name": "Svitavy",
+            "division": "district",
+            "parent": "CZ-PA",
+            "lat": 49.7559562,
+            "lng": 16.469460300000037
+        },
+        "715": {
+            "name": "\u0160umperk",
+            "division": "district",
+            "parent": "CZ-OL",
+            "lat": 49.9654901,
+            "lng": 16.97005349999995
+        },
+        "317": {
+            "name": "T\u00e1bor",
+            "division": "district",
+            "parent": "CZ-JC",
+            "lat": 49.4141617,
+            "lng": 14.657792100000052
+        },
+        "327": {
+            "name": "Tachov",
+            "division": "district",
+            "parent": "CZ-PL",
+            "lat": 49.7955894,
+            "lng": 12.633594499999958
+        },
+        "426": {
+            "name": "Teplice",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.6399608,
+            "lng": 13.824544699999933
+        },
+        "525": {
+            "name": "Trutnov",
+            "division": "district",
+            "parent": "CZ-KR",
+            "lat": 50.5608982,
+            "lng": 15.91280699999993
+        },
+        "614": {
+            "name": "T\u0159eb\u00ed\u010d",
+            "division": "district",
+            "parent": "CZ-VY",
+            "lat": 49.2158467,
+            "lng": 15.879919200000018
+        },
+        "722": {
+            "name": "Uhersk\u00e9 Hradi\u0161t\u0115",
+            "division": "district",
+            "parent": "CZ-ZL",
+            "lat": 49.0683317,
+            "lng": 17.460511199999928
+        },
+        "427": {
+            "name": "\u00dast\u00ed nad Labem",
+            "division": "district",
+            "parent": "CZ-US",
+            "lat": 50.6610266,
+            "lng": 14.032996799999978
+        },
+        "534": {
+            "name": "\u00dast\u00ed nad Orlic\u00ed",
+            "division": "district",
+            "parent": "CZ-PA",
+            "lat": 49.9736137,
+            "lng": 16.39429659999996
+        },
+        "723": {
+            "name": "Vset\u00edn",
+            "division": "district",
+            "parent": "CZ-ZL",
+            "lat": 49.3402653,
+            "lng": 17.992973900000038
+        },
+        "626": {
+            "name": "Vy\u0161kov",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 49.2768858,
+            "lng": 16.998227199999974
+        },
+        "724": {
+            "name": "Zl\u00edn",
+            "division": "district",
+            "parent": "CZ-ZL",
+            "lat": 49.2268877,
+            "lng": 17.66890269999999
+        },
+        "627": {
+            "name": "Znojmo",
+            "division": "district",
+            "parent": "CZ-JM",
+            "lat": 48.8557968,
+            "lng": 16.048829999999953
+        },
+        "615": {
+            "name": "\u017dd\u2019\u00e1r nad S\u00e1zavou",
+            "division": "district",
+            "parent": "CZ-VY",
+            "lat": 49.5626831,
+            "lng": 15.939812699999948
+        }
+    }
+}

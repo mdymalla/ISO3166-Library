@@ -1,0 +1,640 @@
+{
+    "alpha-2": "KE",
+    "alpha-3": "KEN",
+    "numeric": 404,
+    "capital": "Nairobi",
+    "currency": "KES",
+    "languages": [
+        "en",
+        "sw"
+    ],
+    "flag-icon": "\ud83c\uddf0\ud83c\uddea",
+    "names": {
+        "geonames": "Kenya",
+        "en": "Kenya",
+        "ar": "\u0643\u064a\u0646\u064a\u0627",
+        "de": "Kenia",
+        "es": "Kenia",
+        "fr": "Kenya",
+        "it": "Kenya",
+        "ru": "\u041a\u0435\u043d\u0438\u044f",
+        "zh": "\u80af\u5c3c\u4e9a",
+        "he": "\u05e7\u05e0\u05d9\u05d4",
+        "hi": "\u0915\u0940\u0928\u093f\u092f\u093e",
+        "ja": "\u30b1\u30cb\u30a2",
+        "pt": "Qu\u00e9nia"
+    },
+    "ISO3166-2": {
+        "47": {
+            "name": "West Pokot",
+            "code": "47",
+            "names": {
+                "geonames": "West Pokot",
+                "en": "West Pokot"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "46": {
+            "name": "Wajir",
+            "code": "46",
+            "names": {
+                "geonames": "Wajir",
+                "en": "Wajir"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "44": {
+            "name": "Uasin Gishu",
+            "code": "44",
+            "names": {
+                "geonames": "Uasin Gishu",
+                "en": "Uasin Gishu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "43": {
+            "name": "Turkana",
+            "code": "43",
+            "names": {
+                "geonames": "Turkana",
+                "en": "Turkana"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "42": {
+            "name": "Trans Nzoia",
+            "code": "42",
+            "names": {
+                "geonames": "Trans Nzoia",
+                "en": "Trans Nzoia"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "41": {
+            "name": "Tharaka-Nithi",
+            "code": "41",
+            "names": {
+                "geonames": "Tharaka District",
+                "en": "Tharaka-Nithi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "40": {
+            "name": "Tana River",
+            "code": "40",
+            "names": {
+                "geonames": "Tana River",
+                "en": "Tana River"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "38": {
+            "name": "Siaya",
+            "code": "38",
+            "names": {
+                "geonames": "Siaya",
+                "en": "Siaya"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "37": {
+            "name": "Samburu",
+            "code": "37",
+            "names": {
+                "geonames": "Samburu",
+                "en": "Samburu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "30": {
+            "name": "Nairobi City",
+            "code": "30",
+            "names": {
+                "geonames": "Nairobi Area",
+                "en": "Nairobi City"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "29": {
+            "name": "Murang'a",
+            "code": "29",
+            "names": {
+                "geonames": "Murang'a District",
+                "en": "Murang'a"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "28": {
+            "name": "Mombasa",
+            "code": "28",
+            "names": {
+                "geonames": "Mombasa",
+                "en": "Mombasa"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "26": {
+            "name": "Meru",
+            "code": "26",
+            "names": {
+                "geonames": "Meru",
+                "en": "Meru"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "25": {
+            "name": "Marsabit",
+            "code": "25",
+            "names": {
+                "geonames": "Marsabit",
+                "en": "Marsabit"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "24": {
+            "name": "Mandera",
+            "code": "24",
+            "names": {
+                "geonames": "Mandera",
+                "en": "Mandera"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "20": {
+            "name": "Laikipia",
+            "code": "20",
+            "names": {
+                "geonames": "Laikipia",
+                "en": "Laikipia"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "19": {
+            "name": "Kwale",
+            "code": "19",
+            "names": {
+                "geonames": "Kwale",
+                "en": "Kwale"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "18": {
+            "name": "Kitui",
+            "code": "18",
+            "names": {
+                "geonames": "Kitui",
+                "en": "Kitui"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "17": {
+            "name": "Kisumu",
+            "code": "17",
+            "names": {
+                "geonames": "Kisumu",
+                "en": "Kisumu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "16": {
+            "name": "Kisii",
+            "code": "16",
+            "names": {
+                "geonames": "Kisii",
+                "en": "Kisii"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "15": {
+            "name": "Kirinyaga",
+            "code": "15",
+            "names": {
+                "geonames": "Kirinyaga",
+                "en": "Kirinyaga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "14": {
+            "name": "Kilifi",
+            "code": "14",
+            "names": {
+                "geonames": "Kilifi",
+                "en": "Kilifi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "13": {
+            "name": "Kiambu",
+            "code": "13",
+            "names": {
+                "geonames": "Kiambu",
+                "en": "Kiambu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "12": {
+            "name": "Kericho",
+            "code": "12",
+            "names": {
+                "geonames": "Kericho",
+                "en": "Kericho"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "11": {
+            "name": "Kakamega",
+            "code": "11",
+            "names": {
+                "geonames": "Kakamega",
+                "en": "Kakamega"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "09": {
+            "name": "Isiolo",
+            "code": "09",
+            "names": {
+                "geonames": "Isiolo",
+                "en": "Isiolo"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "07": {
+            "name": "Garissa",
+            "code": "07",
+            "names": {
+                "geonames": "Garissa",
+                "en": "Garissa"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "06": {
+            "name": "Embu",
+            "code": "06",
+            "names": {
+                "geonames": "Embu",
+                "en": "Embu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "04": {
+            "name": "Busia",
+            "code": "04",
+            "names": {
+                "geonames": "Busia",
+                "en": "Busia"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "03": {
+            "name": "Bungoma",
+            "code": "03",
+            "names": {
+                "geonames": "Bungoma",
+                "en": "Bungoma"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "01": {
+            "name": "Baringo",
+            "code": "01",
+            "names": {
+                "geonames": "Baringo",
+                "en": "Baringo"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "35": {
+            "name": "Nyandarua",
+            "code": "35",
+            "names": {
+                "geonames": "Nyandarua",
+                "en": "Nyandarua"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "45": {
+            "name": "Vihiga",
+            "code": "45",
+            "names": {
+                "geonames": "Vihiga",
+                "en": "Vihiga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "21": {
+            "name": "Lamu",
+            "code": "21",
+            "names": {
+                "geonames": "Lamu",
+                "en": "Lamu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "22": {
+            "name": "Machakos",
+            "code": "22",
+            "names": {
+                "geonames": "Machakos",
+                "en": "Machakos"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "23": {
+            "name": "Makueni",
+            "code": "23",
+            "names": {
+                "geonames": "Makueni",
+                "en": "Makueni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "05": {
+            "name": "Elgeyo\/Marakwet",
+            "code": "05",
+            "names": {
+                "geonames": "Marakwet District",
+                "en": "Elgeyo\/Marakwet"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "39": {
+            "name": "Taita\/Taveta",
+            "code": "39",
+            "names": {
+                "geonames": "Taita Taveta",
+                "en": "Taita\/Taveta"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Kajiado",
+            "code": "10",
+            "names": {
+                "geonames": "Kajiado",
+                "en": "Kajiado"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "36": {
+            "name": "Nyeri",
+            "code": "36",
+            "names": {
+                "geonames": "Nyeri",
+                "en": "Nyeri"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "08": {
+            "name": "Homa Bay",
+            "code": "08",
+            "names": {
+                "geonames": "Homa Bay",
+                "en": "Homa Bay"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "02": {
+            "name": "Bomet",
+            "code": "02",
+            "names": {
+                "geonames": "Bomet",
+                "en": "Bomet"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "27": {
+            "name": "Migori",
+            "code": "27",
+            "names": {
+                "geonames": "Migori",
+                "en": "Migori"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "31": {
+            "name": "Nakuru",
+            "code": "31",
+            "names": {
+                "geonames": "Nakuru",
+                "en": "Nakuru"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "33": {
+            "name": "Narok",
+            "code": "33",
+            "names": {
+                "geonames": "Narok",
+                "en": "Narok"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "34": {
+            "name": "Nyamira",
+            "code": "34",
+            "names": {
+                "geonames": "Nyamira District",
+                "en": "Nyamira"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "32": {
+            "name": "Nandi",
+            "code": "32",
+            "names": {
+                "geonames": "Nandi",
+                "en": "Nandi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "110": {
+            "name": "Nairobi Municipality",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2833333,
+            "lng": 36.81666670000004
+        },
+        "200": {
+            "name": "Central",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2140711,
+            "lng": 36.872534900000005
+        },
+        "300": {
+            "name": "Coast",
+            "division": "province",
+            "parent": "KE",
+            "lat": -4.0690822,
+            "lng": 39.6783289
+        },
+        "400": {
+            "name": "Eastern",
+            "division": "province",
+            "parent": "KE",
+            "lat": -1.2164728,
+            "lng": 36.99062349999997
+        },
+        "500": {
+            "name": "North-Eastern Kaskazini Mashariki",
+            "division": "province",
+            "parent": "KE"
+        },
+        "700": {
+            "name": "Rift Valley",
+            "division": "province",
+            "parent": "KE",
+            "lat": -0.944009,
+            "lng": 36.59571649999998
+        },
+        "900": {
+            "name": "Western Magharibi",
+            "division": "province",
+            "parent": "KE",
+            "lat": 0.2759607,
+            "lng": 34.75764159999994
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "alpha-2": "KN",
+    "alpha-3": "KNA",
+    "numeric": 659,
+    "capital": "Basseterre",
+    "currency": "XCD",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf0\ud83c\uddf3",
+    "names": {
+        "geonames": "Saint Kitts and Nevis",
+        "en": "Saint Kitts and Nevis",
+        "ar": "\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648\u0646\u064a\u0641\u064a\u0633",
+        "de": "St. Kitts und Nevis",
+        "es": "San Crist\u00f3bal y Nieves",
+        "fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
+        "it": "Saint Kitts e Nevis",
+        "ru": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "zh": "\u8056\u514b\u91cc\u65af\u591a\u798f\u53ca\u5c3c\u7dad\u65af",
+        "he": "\u05e1\u05e0\u05d8 \u05e7\u05d9\u05d8\u05e1 \u05d5\u05e0\u05d5\u05d5\u05d9\u05e1",
+        "hi": "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d\u0938 \u090f\u0902\u0921 \u0928\u0947\u0935\u093f\u0938",
+        "ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
+        "pt": "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
+    },
+    "ISO3166-2": {
+        "15": {
+            "name": "Trinity Palmetto Point Parish",
+            "code": "15",
+            "names": {
+                "geonames": "Trinity Palmetto Point",
+                "ru": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438-\u041f\u0430\u043b\u043c\u0435\u0442\u0442\u043e-\u041f\u043e\u0439\u043d\u0442",
+                "en": "Trinity Palmetto Point Parish",
+                "de": "Trinity Palmetto Point",
+                "es": "Parroquia de Trinity Palmetto Point",
+                "fr": "Trinity Palmetto Point",
+                "it": "Parrocchia di Trinity Palmetto Point",
+                "zh": "\u7279\u7acb\u5c3c\u63d0\u5e15\u7f8e\u6258\u89d2\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3080707,
+            "lng": -62.77354300000002
+        },
+        "13": {
+            "name": "Saint Thomas Middle Island Parish",
+            "code": "13",
+            "names": {
+                "geonames": "Middle Island",
+                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041c\u0438\u0434\u043b-\u0410\u0439\u043b\u0435\u043d\u0434",
+                "en": "Saint Thomas Middle Island Parish",
+                "de": "Saint Thomas Middle Island",
+                "es": "Parroquia de Saint Thomas Middle Island",
+                "fr": "Saint-Thomas Middle Island",
+                "it": "Parrocchia di Saint Thomas Middle Island",
+                "zh": "\u8056\u6258\u99ac\u65af\u7c73\u5fb7\u827e\u862d\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3348813,
+            "lng": -62.808825100000035
+        },
+        "12": {
+            "name": "Saint Thomas Lowland Parish",
+            "code": "12",
+            "names": {
+                "geonames": "Saint Thomas Lowland",
+                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041b\u043e\u0443\u043b\u0435\u043d\u0434",
+                "en": "Saint Thomas Lowland Parish",
+                "de": "Saint Thomas Lowland",
+                "es": "Parroquia de Saint Thomas Lowland",
+                "fr": "Saint-Thomas Lowland",
+                "it": "Parrocchia di Saint Thomas Lowland",
+                "zh": "\u8056\u6258\u99ac\u65af\u4f4e\u5730\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1650513,
+            "lng": -62.6089753
+        },
+        "11": {
+            "name": "Saint Peter Basseterre Parish",
+            "code": "11",
+            "names": {
+                "geonames": "Saint Peter Basseterre",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0438\u0442\u0435\u0440-\u0411\u0430\u0441\u0442\u0435\u0440",
+                "en": "Saint Peter Basseterre Parish",
+                "de": "Saint Peter Basseterre",
+                "es": "Parroquia de Saint Peter Basseterre",
+                "fr": "Saint-Peter Basseterre",
+                "it": "Parrocchia di Saint Peter Basseterre",
+                "zh": "\u8056\u5f7c\u5f97\u5df4\u585e\u7279\u840a\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3273856,
+            "lng": -62.72063149999997
+        },
+        "10": {
+            "name": "Saint Paul Charlestown Parish",
+            "code": "10",
+            "names": {
+                "geonames": "Saint Paul Charlestown",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b-\u0427\u0430\u0440\u043b\u0441\u0442\u0430\u0443\u043d",
+                "en": "Saint Paul Charlestown Parish",
+                "de": "Saint Paul Charlestown",
+                "es": "Parroquia de Saint Paul Charlestown",
+                "fr": "Saint-Paul Charlestown",
+                "it": "Parrocchia di Saint Paul Charlestown",
+                "zh": "\u8056\u4fdd\u7f85\u67e5\u723e\u65af\u6566\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1346297,
+            "lng": -62.613381600000025
+        },
+        "09": {
+            "name": "Saint Paul Capisterre Parish",
+            "code": "09",
+            "names": {
+                "geonames": "Saint Paul Capesterre",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b-\u041a\u0430\u043f\u0438\u0441\u0442\u0435\u0440",
+                "en": "Saint Paul Capisterre Parish",
+                "de": "Saint Paul Capisterre",
+                "es": "Saint Paul Capisterre",
+                "fr": "Saint-Paul Capisterre",
+                "it": "Parrocchia di Saint Paul Capisterre",
+                "zh": "\u8056\u4fdd\u7f85\u5361\u76ae\u65af\u7279\u840a\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3942021,
+            "lng": -62.844113300000004
+        },
+        "08": {
+            "name": "Saint Mary Cayon Parish",
+            "code": "08",
+            "names": {
+                "geonames": "Saint Mary Cayon",
+                "ru": "\u0421\u0435\u043d\u0442-\u041c\u0435\u0440\u0438-\u041a\u0430\u0439\u043e\u043d",
+                "en": "Saint Mary Cayon Parish",
+                "de": "Saint Mary Cayon",
+                "es": "Parroquia de Saint Mary Cayon",
+                "fr": "Saint-Mary Cayon",
+                "it": "Parrocchia di Saint Mary Cayon",
+                "zh": "\u8056\u746a\u9e97\u5361\u6c38\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3538946,
+            "lng": -62.73532769999997
+        },
+        "07": {
+            "name": "Saint John Figtree Parish",
+            "code": "07",
+            "names": {
+                "geonames": "Saint John Figtree",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d-\u0424\u0438\u0433\u0442\u0440\u0438",
+                "en": "Saint John Figtree Parish",
+                "de": "Saint John Figtree",
+                "es": "Parroquia de Saint John Figtree",
+                "fr": "Saint-John Figtree",
+                "it": "Parrocchia di Saint John Figtree",
+                "zh": "\u8056\u7d04\u7ff0\u8cbb\u683c\u7279\u91cc\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1306916,
+            "lng": -62.601143699999966
+        },
+        "06": {
+            "name": "Saint John Capisterre Parish",
+            "code": "06",
+            "names": {
+                "geonames": "Saint John Capesterre",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d-\u041a\u0430\u043f\u0438\u0441\u0442\u0435\u0440",
+                "en": "Saint John Capisterre Parish",
+                "de": "Saint John Capisterre",
+                "es": "Parroquia de Saint John Capisterre",
+                "fr": "Saint-John Capisterre",
+                "it": "Parrocchia di Saint John Capisterre",
+                "zh": "\u8056\u7d04\u7ff0\u5361\u76ae\u65af\u7279\u840a\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 16.1361361,
+            "lng": -61.57729119999999
+        },
+        "05": {
+            "name": "Saint James Windward Parish",
+            "code": "05",
+            "names": {
+                "geonames": "Saint James Windwa",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u0435\u0439\u043c\u0441-\u0423\u0438\u043d\u0434\u0443\u043e\u0440\u0434",
+                "en": "Saint James Windward Parish",
+                "de": "Saint James Windward",
+                "es": "Parroquia de Saint James Windward",
+                "fr": "Saint-James Windward",
+                "it": "Parrocchia di Saint James Windward",
+                "zh": "\u8056\u8a79\u59c6\u65af\u6eab\u6c83\u5fb7\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1815053,
+            "lng": -62.57372859999998
+        },
+        "04": {
+            "name": "Saint George Gingerland Parish",
+            "code": "04",
+            "names": {
+                "geonames": "Saint George Gingerland",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0414\u0436\u0438\u043d\u0434\u0436\u0435\u0440\u043b\u0430\u043d\u0434",
+                "en": "Saint George Gingerland Parish",
+                "ar": "\u062c\u064a\u0646\u062c\u0631\u0644\u0627\u0646\u062f",
+                "de": "Saint George Gingerland",
+                "es": "Parroquia de Saint George Gingerland",
+                "fr": "Saint-George Gingerland",
+                "it": "Parrocchia di Saint George Gingerland",
+                "zh": "\u8056\u55ac\u6cbb\u91d1\u54f2\u862d\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-N",
+            "lat": 17.1308813,
+            "lng": -62.57094740000002
+        },
+        "03": {
+            "name": "Saint George Basseterre Parish",
+            "code": "03",
+            "names": {
+                "geonames": "Saint George Basseterre",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0411\u0430\u0441\u0442\u0435\u0440",
+                "en": "Saint George Basseterre Parish",
+                "de": "Saint George Basseterre",
+                "es": "Parroquia de Saint George Basseterre",
+                "fr": "Saint-George Basseterre",
+                "it": "Parrocchia di Saint George Basseterre",
+                "zh": "\u8056\u55ac\u6cbb\u5df4\u585e\u7279\u840a\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.2946391,
+            "lng": -62.72370990000002
+        },
+        "02": {
+            "name": "Saint Anne Sandy Point Parish",
+            "code": "02",
+            "names": {
+                "geonames": "Saint Anne Sandy Point",
+                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043d\u043d-\u0421\u044d\u043d\u0434\u0438-\u041f\u043e\u0439\u043d\u0442",
+                "en": "Saint Anne Sandy Point Parish",
+                "de": "Saint Anne Sandy Point",
+                "es": "Parroquia de Saint Anne Sandy Point",
+                "fr": "Saint-Anne Sandy Point",
+                "it": "Parrocchia di Saint Anne Sandy Point",
+                "zh": "\u8056\u5b89\u5a1c\u6c99\u89d2\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3725333,
+            "lng": -62.844113300000004
+        },
+        "01": {
+            "name": "Christ Church Nichola Town Parish",
+            "code": "01",
+            "names": {
+                "geonames": "Christ Church Nichola Town",
+                "ru": "\u041a\u0440\u0430\u0439\u0441\u0442-\u0427\u0451\u0440\u0447-\u041d\u0438\u043a\u043e\u043b\u0430-\u0422\u0430\u0443\u043d",
+                "en": "Christ Church Nichola Town Parish",
+                "de": "Christ Church Nichola Town",
+                "es": "Parroquia de Christ Church Nichola Town",
+                "fr": "Christ Church Nichola Town",
+                "it": "Parrocchia di Christ Church Nichola Town",
+                "zh": "\u57fa\u7763\u6559\u6703\u5c3c\u53e4\u62c9\u93ae\u5340"
+            },
+            "division": "parish",
+            "parent": "KN-K",
+            "lat": 17.3838624,
+            "lng": -62.77354300000002
+        },
+        "K": {
+            "name": "Saint Kitts",
+            "division": "state",
+            "parent": "KN",
+            "lat": 17.3433796,
+            "lng": -62.7559043
+        },
+        "N": {
+            "name": "Nevis",
+            "division": "state",
+            "parent": "KN",
+            "lat": 17.1553558,
+            "lng": -62.57960259999999
+        }
+    }
+}

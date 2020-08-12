@@ -1,0 +1,424 @@
+{
+    "alpha-2": "CD",
+    "alpha-3": "COD",
+    "numeric": 180,
+    "capital": "Kinshasa",
+    "currency": "CDF",
+    "languages": [
+        "fr",
+        "ln",
+        "kg",
+        "sw",
+        "lu"
+    ],
+    "flag-icon": "\ud83c\udde8\ud83c\udde9",
+    "names": {
+        "geonames": "Democratic Republic of the Congo",
+        "en": "Democratic Republic of the Congo",
+        "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+        "de": "Demokratische Republik Kongo",
+        "es": "Rep\u00fablica Democr\u00e1tica del Congo",
+        "fr": "R\u00e9publique d\u00e9mocratique du Congo",
+        "it": "Repubblica Democratica del Congo",
+        "ru": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+        "zh": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd",
+        "he": "\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc \u05e7\u05d5\u05e0\u05d2\u05d5",
+        "hi": "\u0915\u093e\u0902\u0917\u094b \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+        "ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
+        "pt": "Rep\u00fablica Democr\u00e1tica do Congo"
+    },
+    "ISO3166-2": {
+        "TU": {
+            "name": "Tshuapa",
+            "code": "TU",
+            "names": {
+                "geonames": "Tshuapa",
+                "en": "Tshuapa"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "TO": {
+            "name": "Tshopo",
+            "code": "TO",
+            "names": {
+                "geonames": "Tshopo",
+                "en": "Tshopo"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "TA": {
+            "name": "Tanganyika",
+            "code": "TA",
+            "names": {
+                "geonames": "Tanganika",
+                "en": "Tanganyika"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SK": {
+            "name": "South Kivu",
+            "code": "SK",
+            "names": {
+                "geonames": "South Kivu",
+                "ru": "\u042e\u0436\u043d\u043e\u0435 \u041a\u0438\u0432\u0443",
+                "en": "South Kivu",
+                "ar": "\u0643\u064a\u0641\u0648 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+                "de": "Sud-Kivu",
+                "es": "Kivu del Sur",
+                "fr": "Sud-Kivu",
+                "it": "Provincia del Kivu Sud",
+                "zh": "\u5357\u57fa\u4f0d\u7701"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": null,
+            "lng": null
+        },
+        "SA": {
+            "name": "Sankuru",
+            "code": "SA",
+            "names": {
+                "geonames": "Sankuru",
+                "en": "Sankuru"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "NK": {
+            "name": "North Kivu",
+            "code": "NK",
+            "names": {
+                "geonames": "Nord Kivu",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041a\u0438\u0432\u0443",
+                "en": "North Kivu",
+                "ar": "\u0643\u064a\u0641\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+                "de": "Nord-Kivu",
+                "es": "Kivu del Norte",
+                "fr": "Nord-Kivu",
+                "it": "Provincia del Kivu Nord",
+                "zh": "\u5317\u57fa\u4f0d\u7701"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": null,
+            "lng": null
+        },
+        "MO": {
+            "name": "Mongala",
+            "code": "MO",
+            "names": {
+                "geonames": "Mongala",
+                "en": "Mongala"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "MA": {
+            "name": "Maniema",
+            "code": "MA",
+            "names": {
+                "geonames": "Maniema",
+                "ru": "\u041c\u0430\u043d\u0438\u0435\u043c\u0430",
+                "en": "Maniema",
+                "ar": "\u0645\u0627\u0646\u064a\u0645\u0627",
+                "de": "Maniema",
+                "es": "Maniema",
+                "fr": "Maniema",
+                "it": "Provincia di Maniema",
+                "zh": "\u9a6c\u6d85\u9a6c\u7701"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": -4.3363338,
+            "lng": 15.263784100000066
+        },
+        "KC": {
+            "name": "Kasa\u00ef Central",
+            "code": "KC",
+            "names": {
+                "geonames": "Kasai-Central",
+                "en": "Kasa\u00ef Central"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KE": {
+            "name": "Kasa\u00ef-Oriental",
+            "code": "KE",
+            "names": {
+                "geonames": "Kasai-Oriental",
+                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435 \u041a\u0430\u0441\u0430\u0438",
+                "en": "Kasa\u00ef-Oriental",
+                "es": "Kasai Oriental",
+                "fr": "Tshilenge",
+                "zh": "\u4e1c\u5f00\u8d5b\u7701",
+                "ar": "\u0643\u0627\u0633\u0627\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "de": "Kasai-Oriental",
+                "it": "Provincia del Kasai Orientale"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": null,
+            "lng": null
+        },
+        "KS": {
+            "name": "Kasa\u00ef",
+            "code": "KS",
+            "names": {
+                "geonames": "Kasai",
+                "en": "Kasa\u00ef"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "IT": {
+            "name": "Ituri",
+            "code": "IT",
+            "names": {
+                "geonames": "Ituri",
+                "en": "Ituri"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "HU": {
+            "name": "Haut-U\u00e9l\u00e9",
+            "code": "HU",
+            "names": {
+                "geonames": "Haut Uele",
+                "en": "Haut-U\u00e9l\u00e9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "HL": {
+            "name": "Haut-Lomami",
+            "code": "HL",
+            "names": {
+                "geonames": "Haut-Lomani",
+                "en": "Haut-Lomami"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "EQ": {
+            "name": "\u00c9quateur",
+            "code": "EQ",
+            "names": {
+                "geonames": "Equateur",
+                "ru": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "\u00c9quateur",
+                "es": "\u00c9quateur",
+                "fr": "\u00c9quateur",
+                "zh": "\u8d64\u9053\u7701",
+                "ar": "\u0625\u0643\u0648\u0627\u062a\u0648\u0631",
+                "de": "\u00c9quateur",
+                "it": "Provincia dell'Equatore"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": null,
+            "lng": null
+        },
+        "BU": {
+            "name": "Bas-U\u00e9l\u00e9",
+            "code": "BU",
+            "names": {
+                "geonames": "Bas Uele",
+                "en": "Bas-U\u00e9l\u00e9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "LU": {
+            "name": "Lualaba",
+            "code": "LU",
+            "names": {
+                "geonames": "Lualaba",
+                "en": "Lualaba"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "MN": {
+            "name": "Mai-Ndombe",
+            "code": "MN",
+            "names": {
+                "geonames": "Mai Ndombe",
+                "en": "Mai-Ndombe"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KL": {
+            "name": "Kwilu",
+            "code": "KL",
+            "names": {
+                "geonames": "Kwilu",
+                "en": "Kwilu"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KG": {
+            "name": "Kwango",
+            "code": "KG",
+            "names": {
+                "geonames": "Kwango",
+                "en": "Kwango"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KN": {
+            "name": "Kinshasa",
+            "code": "KN",
+            "names": {
+                "geonames": "Kinshasa",
+                "ru": "\u041a\u0438\u043d\u0448\u0430\u0441\u0430",
+                "en": "Kinshasa",
+                "fr": "Kinshasa",
+                "ar": "\u0643\u064a\u0646\u0634\u0627\u0633\u0627",
+                "de": "Kinshasa",
+                "es": "Kinsasa",
+                "it": "Kinshasa",
+                "zh": "\u91d1\u590f\u6c99"
+            },
+            "division": "city",
+            "parent": "CD",
+            "lat": -4.320836,
+            "lng": 15.29866000000004
+        },
+        "BC": {
+            "name": "Kongo Central",
+            "code": "BC",
+            "names": {
+                "geonames": "Bas-Congo",
+                "ru": "\u041d\u0438\u0436\u043d\u0435\u0435 \u041a\u043e\u043d\u0433\u043e",
+                "en": "Kongo Central",
+                "de": "Kongo-Central",
+                "es": "Kongo Central",
+                "fr": "Kongo central",
+                "zh": "\u4e2d\u521a\u679c\u7701"
+            },
+            "division": "province",
+            "parent": "CD",
+            "lat": null,
+            "lng": null
+        },
+        "HK": {
+            "name": "Haut-Katanga",
+            "code": "HK",
+            "names": {
+                "geonames": "Haut-Katanga",
+                "en": "Haut-Katanga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "LO": {
+            "name": "Lomami",
+            "code": "LO",
+            "names": {
+                "geonames": "Lomami",
+                "en": "Lomami"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "NU": {
+            "name": "Nord-Ubangi",
+            "code": "NU",
+            "names": {
+                "geonames": "Nord-Ubangi",
+                "en": "Nord-Ubangi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SU": {
+            "name": "Sud-Ubangi",
+            "code": "SU",
+            "names": {
+                "geonames": "Sud-Ubangi",
+                "en": "Sud-Ubangi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "BN": {
+            "name": "Bandundu",
+            "division": "province",
+            "parent": "CD",
+            "lat": -3.315234,
+            "lng": 17.385598999999957
+        },
+        "HC": {
+            "name": "Haut-Congo",
+            "division": "province",
+            "parent": "CD",
+            "lat": -4.4050923,
+            "lng": 15.252982900000006
+        },
+        "KW": {
+            "name": "Kasai-Occidental",
+            "division": "province",
+            "parent": "CD"
+        },
+        "KA": {
+            "name": "Katanga",
+            "division": "province",
+            "parent": "CD",
+            "lat": -6.272154,
+            "lng": 21.055969000000005
+        },
+        "OR": {
+            "name": "Orientale",
+            "division": "province",
+            "parent": "CD",
+            "lat": 2.25,
+            "lng": 36.91666669999995
+        }
+    }
+}

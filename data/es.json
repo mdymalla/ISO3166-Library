@@ -1,0 +1,736 @@
+{
+    "alpha-2": "ES",
+    "alpha-3": "ESP",
+    "numeric": 724,
+    "capital": "Madrid",
+    "currency": "EUR",
+    "languages": [
+        "es",
+        "eu",
+        "ca",
+        "gl",
+        "oc"
+    ],
+    "flag-icon": "\ud83c\uddea\ud83c\uddf8",
+    "names": {
+        "geonames": "Spain",
+        "en": "Spain",
+        "ar": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627",
+        "de": "Spanien",
+        "es": "Espa\u00f1a",
+        "fr": "Espagne",
+        "it": "Spagna",
+        "ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+        "zh": "\u897f\u73ed\u7259",
+        "he": "\u05e1\u05e4\u05e8\u05d3",
+        "hi": "\u0938\u094d\u092a\u0947\u0928",
+        "ja": "\u30b9\u30da\u30a4\u30f3",
+        "pt": "Espanha"
+    },
+    "ISO3166-2": {
+        "MU": {
+            "name": "Region of Murcia",
+            "code": "MU",
+            "names": {
+                "geonames": "Murcia",
+                "en": "Region of Murcia",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0631\u0633\u064a\u0629",
+                "de": "Murcia",
+                "es": "Regi\u00f3n de Murcia",
+                "fr": "R\u00e9gion de Murcie",
+                "it": "Murcia",
+                "ru": "\u041c\u0443\u0440\u0441\u0438\u044f",
+                "zh": "\u7a46\u5c14\u897f\u4e9a\u81ea\u6cbb\u533a"
+            },
+            "division": "province",
+            "parent": "ES-MC",
+            "lat": 37.9834449,
+            "lng": -1.1298897000000352
+        },
+        "CE": {
+            "name": "Ceuta",
+            "code": "CE",
+            "names": {
+                "geonames": "Ceuta",
+                "ru": "\u0421\u0435\u0443\u0442\u0430",
+                "en": "Ceuta",
+                "ar": "\u0633\u0628\u062a\u0629",
+                "de": "Ceuta",
+                "es": "Ceuta",
+                "fr": "Ceuta",
+                "it": "Ceuta",
+                "zh": "\u4f11\u8fbe"
+            },
+            "division": "autonomous city",
+            "parent": "ES",
+            "lat": 35.8882871,
+            "lng": -5.316194900000028
+        },
+        "PM": {
+            "name": "Balears",
+            "code": "PM",
+            "names": {
+                "geonames": "Balearic Islands",
+                "ru": "\u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+                "en": "Balears",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062c\u0632\u0631 \u0627\u0644\u0628\u0644\u064a\u0627\u0631",
+                "de": "Balearische Inseln",
+                "es": "Islas Baleares",
+                "fr": "\u00celes Bal\u00e9ares",
+                "it": "Isole Baleari",
+                "zh": "\u5df4\u5229\u963f\u91cc\u7fa4\u5cf6"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.5341789,
+            "lng": 2.857710499999939
+        },
+        "AN": {
+            "name": "Andalusia",
+            "code": "AN",
+            "names": {
+                "geonames": "Andalusia",
+                "ru": "\u0410\u043d\u0434\u0430\u043b\u0443\u0441\u0438\u044f",
+                "en": "Andalusia",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0623\u0646\u062f\u0644\u0648\u0633\u064a\u0627",
+                "de": "Andalusien",
+                "es": "Andaluc\u00eda",
+                "fr": "Andalousie",
+                "it": "Andalusia",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 37.7616494,
+            "lng": -3.7646191000000044
+        },
+        "CN": {
+            "name": "Canary Islands",
+            "code": "CN",
+            "names": {
+                "geonames": "Canary Islands",
+                "ru": "\u041a\u0430\u043d\u0430\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+                "en": "Canary Islands",
+                "ar": "\u062c\u0632\u0631 \u0627\u0644\u0643\u0646\u0627\u0631\u064a",
+                "de": "Kanarische Inseln",
+                "es": "Canarias",
+                "fr": "\u00celes Canaries",
+                "it": "Isole Canarie",
+                "zh": "\u52a0\u90a3\u5229\u7fa4\u5c9b"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 28.2915637,
+            "lng": -16.629130400000008
+        },
+        "CM": {
+            "name": "Castilla-La Mancha",
+            "code": "CM",
+            "names": {
+                "geonames": "Castille-La Mancha",
+                "ru": "\u041a\u0430\u0441\u0442\u0438\u043b\u0438\u044f",
+                "en": "Castilla-La Mancha",
+                "ar": "\u0643\u0627\u0633\u062a\u064a\u0627-\u0644\u0627 \u0645\u0627\u0646\u062a\u0634\u0627",
+                "de": "Kastilien-La Mancha",
+                "es": "Castilla-La Mancha",
+                "fr": "Castille-La Manche",
+                "it": "Castiglia-La Mancia",
+                "zh": "\u5361\u65af\u8482\u5229\u4e9a-\u62c9\u66fc\u6070"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.2795607,
+            "lng": -3.0977020000000266
+        },
+        "EX": {
+            "name": "Extremadura",
+            "code": "EX",
+            "names": {
+                "geonames": "Extremadura",
+                "ru": "\u042d\u0441\u0442\u0440\u0435\u043c\u0430\u0434\u0443\u0440\u0430",
+                "en": "Extremadura",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0625\u0643\u0633\u062a\u0631\u064a\u0645\u0627\u062f\u0648\u0631\u0627",
+                "de": "Extremadura",
+                "es": "Extremadura",
+                "fr": "Estr\u00e9madure",
+                "it": "Estremadura",
+                "zh": "\u57c3\u65af\u7279\u96f7\u9a6c\u675c\u62c9"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 39.4937392,
+            "lng": -6.067919399999937
+        },
+        "VC": {
+            "name": "Valencian Community",
+            "code": "VC",
+            "names": {
+                "geonames": "Valencia",
+                "ru": "\u0412\u0430\u043b\u0435\u043d\u0441\u0438\u044f",
+                "en": "Valencian Community",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0628\u0644\u0646\u0633\u064a\u0629",
+                "de": "Valencianische Gemeinschaft",
+                "es": "Comunidad Valenciana",
+                "fr": "Communaut\u00e9 valencienne",
+                "it": "Comunit\u00e0 valenzana",
+                "zh": "\u5df4\u502b\u897f\u4e9e\u81ea\u6cbb\u5340"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": null,
+            "lng": null
+        },
+        "AS": {
+            "name": "Asturias",
+            "code": "AS",
+            "names": {
+                "geonames": "Asturias",
+                "ru": "\u0410\u0441\u0442\u0443\u0440\u0438\u044f",
+                "en": "Asturias",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0623\u0633\u062a\u0648\u0631\u064a\u0627\u0633",
+                "de": "Asturien",
+                "es": "Principado de Asturias",
+                "fr": "Asturies",
+                "it": "Asturie",
+                "zh": "\u963f\u65af\u56fe\u91cc\u4e9a\u65af"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 43.3889264,
+            "lng": -5.688461599999982
+        },
+        "NC": {
+            "name": "Navarre",
+            "code": "NC",
+            "names": {
+                "geonames": "Navarre",
+                "ru": "\u041d\u0430\u0432\u0430\u0440\u0440\u0430",
+                "en": "Navarre",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0646\u0627\u0641\u0627\u0631\u0627",
+                "de": "Navarra",
+                "es": "Navarra",
+                "fr": "Communaut\u00e9 forale de Navarre",
+                "it": "Navarra",
+                "zh": "\u7d0d\u74e6\u62c9"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 35.7595731,
+            "lng": -79.01929970000003
+        },
+        "MD": {
+            "name": "Community of Madrid",
+            "code": "MD",
+            "names": {
+                "geonames": "Madrid",
+                "ru": "\u041c\u0430\u0434\u0440\u0438\u0434",
+                "en": "Community of Madrid",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u062f\u0631\u064a\u062f",
+                "de": "Autonome Gemeinschaft Madrid",
+                "es": "Comunidad de Madrid",
+                "fr": "Communaut\u00e9 de Madrid",
+                "it": "Madrid",
+                "zh": "\u9a6c\u5fb7\u91cc\u81ea\u6cbb\u533a"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 40.4702826,
+            "lng": -3.666906299999937
+        },
+        "LO": {
+            "name": "La Rioja",
+            "code": "LO",
+            "names": {
+                "geonames": "La Rioja",
+                "en": "La Rioja"
+            },
+            "division": "province",
+            "parent": "ES-RI",
+            "lat": 42.2870733,
+            "lng": -2.5396029999999428
+        },
+        "CB": {
+            "name": "Cantabria",
+            "code": "CB",
+            "names": {
+                "geonames": "Cantabria",
+                "ru": "\u041a\u0430\u043d\u0442\u0430\u0431\u0440\u0438\u044f",
+                "en": "Cantabria",
+                "ar": "\u0645\u0646\ufffd\ufffd\u0642\u0629 \u0643\u0627\u0646\u062a\u0627\u0628\u0631\u064a\u0627",
+                "de": "Kantabrien",
+                "es": "Cantabria",
+                "fr": "Cantabrie",
+                "it": "Cantabria",
+                "zh": "\u574e\u5854\u5e03\u91cc\u4e9a"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 43.1828396,
+            "lng": -3.9878426999999874
+        },
+        "AR": {
+            "name": "Aragon",
+            "code": "AR",
+            "names": {
+                "geonames": "Aragon",
+                "ru": "\u0410\u0440\u0430\u0433\u043e\u043d",
+                "en": "Aragon",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0623\u0631\u0627\u063a\u0648\u0646",
+                "de": "Aragonien",
+                "es": "Arag\u00f3n",
+                "fr": "Aragon",
+                "it": "Aragona",
+                "zh": "\u963f\u62c9\u8d21\u81ea\u6cbb\u533a"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.6521757,
+            "lng": -1.310852000000068
+        },
+        "CL": {
+            "name": "Castile and Le\u00f3n",
+            "code": "CL",
+            "names": {
+                "geonames": "Castille and Leon",
+                "ru": "\u041a\u0430\u0441\u0442\u0438\u043b\u0438\u044f \u0438 \u041b\u0435\u043e\u043d",
+                "en": "Castile and Le\u00f3n",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0642\u0634\u062a\u0627\u0644\u0629 \u0648\u0644\u064a\u0648\u0646",
+                "de": "Kastilien und Le\u00f3n",
+                "es": "Castilla y Le\u00f3n",
+                "fr": "Castille-et-Le\u00f3n",
+                "it": "Castiglia e Le\u00f3n",
+                "zh": "\u5361\u65af\u8482\u5229\u4e9a-\u83b1\u6602"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 41.8356821,
+            "lng": -4.3976357000000235
+        },
+        "CT": {
+            "name": "Catalonia",
+            "code": "CT",
+            "names": {
+                "geonames": "Catalonia",
+                "ru": "\u041a\u0430\u0442\u0430\u043b\u043e\u043d\u0438\u044f",
+                "en": "Catalonia",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u062a\u0627\u0644\u0648\u0646\u064a\u0627",
+                "de": "Katalonien",
+                "es": "Catalu\u00f1a",
+                "fr": "Catalogne",
+                "it": "Catalogna",
+                "zh": "\u52a0\u6cf0\u7f57\u5c3c\u4e9a"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 41.5911589,
+            "lng": 1.5208623999999418
+        },
+        "GA": {
+            "name": "Galicia",
+            "code": "GA",
+            "names": {
+                "geonames": "Galicia",
+                "ru": "\u0413\u0430\u043b\u0438\u0441\u0438\u044f",
+                "en": "Galicia",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u063a\u0627\u0644\u064a\u0633\u064a\u0627",
+                "de": "Galicien",
+                "es": "Galicia",
+                "fr": "Galice",
+                "it": "Galizia",
+                "zh": "\u52a0\u5229\u897f\u4e9a"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.5750554,
+            "lng": -8.133855799999992
+        },
+        "PV": {
+            "name": "Basque Country",
+            "code": "PV",
+            "names": {
+                "geonames": "Basque Country",
+                "ru": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0411\u0430\u0441\u043a\u043e\u0432",
+                "en": "Basque Country",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0628\u0627\u0633\u0643",
+                "de": "Autonome Gemeinschaft Baskenland",
+                "es": "Pa\u00eds Vasco",
+                "fr": "Pays basque",
+                "it": "Paesi Baschi",
+                "zh": "\u5df4\u65af\u514b\u81ea\u6cbb\u5340"
+            },
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.9896248,
+            "lng": -2.6189272999999957
+        },
+        "ML": {
+            "name": "Melilla",
+            "code": "ML",
+            "names": {
+                "geonames": "Melilla",
+                "ru": "\u041c\u0435\u043b\u0438\u043b\u044c\u044f",
+                "en": "Melilla",
+                "ar": "\u0645\u0644\u064a\u0644\u064a\u0629",
+                "de": "Melilla",
+                "es": "Melilla",
+                "fr": "Melilla",
+                "it": "Melilla",
+                "zh": "\u6885\u5229\u5229\u4e9a"
+            },
+            "division": "autonomous city",
+            "parent": "ES",
+            "lat": 35.2923388,
+            "lng": -2.938793799999985
+        },
+        "RI": {
+            "name": "La Rioja",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 42.2870733,
+            "lng": -2.5396029999999428
+        },
+        "MC": {
+            "name": "Murcia, Regi\u00f3n de",
+            "division": "autonomous community",
+            "parent": "ES",
+            "lat": 37.9834449,
+            "lng": -1.1298897000000352
+        },
+        "C": {
+            "name": "A Coru\u00f1a",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 43.3708731,
+            "lng": -8.395835000000034
+        },
+        "VI": {
+            "name": "\u00c1lava",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 42.8478523,
+            "lng": -2.683532600000035
+        },
+        "AB": {
+            "name": "Albacete",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 38.9976516,
+            "lng": -1.86007010000003
+        },
+        "A": {
+            "name": "Alicante",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 38.3452032,
+            "lng": -0.4810059999999794
+        },
+        "AL": {
+            "name": "Almer\u00eda",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.8401638,
+            "lng": -2.4679217000000335
+        },
+        "O": {
+            "name": "Asturias",
+            "division": "province",
+            "parent": "ES-AS",
+            "lat": 43.2504393,
+            "lng": -5.983257699999967
+        },
+        "AV": {
+            "name": "\u00c1vila",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.6564225,
+            "lng": -4.700322400000005
+        },
+        "BA": {
+            "name": "Badajoz",
+            "division": "province",
+            "parent": "ES-EX",
+            "lat": 38.8785967,
+            "lng": -6.970283399999971
+        },
+        "IB": {
+            "name": "Balears",
+            "division": "province",
+            "parent": "ES",
+            "lat": 39.5341789,
+            "lng": 2.857710499999939
+        },
+        "B": {
+            "name": "Barcelona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.387917,
+            "lng": 2.1699187000000393
+        },
+        "BU": {
+            "name": "Burgos",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.3408747,
+            "lng": -3.699730999999929
+        },
+        "CC": {
+            "name": "C\u00e1ceres",
+            "division": "province",
+            "parent": "ES-EX",
+            "lat": 39.4761789,
+            "lng": -6.370760399999995
+        },
+        "CA": {
+            "name": "C\u00e1diz",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.5296879,
+            "lng": -6.292656899999997
+        },
+        "S": {
+            "name": "Cantabria",
+            "division": "province",
+            "parent": "ES-CB",
+            "lat": 43.1828396,
+            "lng": -3.9878426999999874
+        },
+        "CS": {
+            "name": "Castell\u00f3n",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 39.9860683,
+            "lng": -0.03602420000004258
+        },
+        "CR": {
+            "name": "Ciudad Real",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 38.9860963,
+            "lng": -3.9272628999999597
+        },
+        "CO": {
+            "name": "C\u00f3rdoba",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.8847267,
+            "lng": -4.779151700000057
+        },
+        "CU": {
+            "name": "Cuenca",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 40.0718353,
+            "lng": -2.1340053000000125
+        },
+        "GI": {
+            "name": "Girona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.9817957,
+            "lng": 2.823699900000065
+        },
+        "GR": {
+            "name": "Granada",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.1764874,
+            "lng": -3.5979290999999876
+        },
+        "GU": {
+            "name": "Guadalajara",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 40.629816,
+            "lng": -3.166493100000025
+        },
+        "SS": {
+            "name": "Guip\u00fazcoa \/ Gipuzkoa",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 43.3209906,
+            "lng": -1.982391000000007
+        },
+        "H": {
+            "name": "Huelva",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.2571009,
+            "lng": -6.9495547000000215
+        },
+        "HU": {
+            "name": "Huesca",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 42.1401024,
+            "lng": -0.40889800000002197
+        },
+        "J": {
+            "name": "Ja\u00e9n",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.7657389,
+            "lng": -3.789517700000033
+        },
+        "GC": {
+            "name": "Las Palmas",
+            "division": "province",
+            "parent": "ES-CN",
+            "lat": 28.1248227,
+            "lng": -15.43000649999999
+        },
+        "LE": {
+            "name": "Le\u00f3n",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.5998764,
+            "lng": -5.57175200000006
+        },
+        "L": {
+            "name": "Lleida",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.6141518,
+            "lng": 0.6257825000000139
+        },
+        "LU": {
+            "name": "Lugo",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 43.0120868,
+            "lng": -7.555851399999938
+        },
+        "M": {
+            "name": "Madrid",
+            "division": "province",
+            "parent": "ES-MD",
+            "lat": 40.4166909,
+            "lng": -3.70034540000006
+        },
+        "MA": {
+            "name": "M\u00e1laga",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 36.7196459,
+            "lng": -4.4200186000000485
+        },
+        "NA": {
+            "name": "Navarra \/ Nafarroa",
+            "division": "province",
+            "parent": "ES-NC",
+            "lat": 42.6953909,
+            "lng": -1.6760690999999497
+        },
+        "OR": {
+            "name": "Ourense",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 42.3400086,
+            "lng": -7.864640799999961
+        },
+        "P": {
+            "name": "Palencia",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 42.0124584,
+            "lng": -4.531174800000031
+        },
+        "PO": {
+            "name": "Pontevedra",
+            "division": "province",
+            "parent": "ES-GA",
+            "lat": 42.4336191,
+            "lng": -8.648053000000004
+        },
+        "SA": {
+            "name": "Salamanca",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.9649717,
+            "lng": -5.663047099999972
+        },
+        "TF": {
+            "name": "Santa Cruz de Tenerife",
+            "division": "province",
+            "parent": "ES-CN",
+            "lat": 28.46981,
+            "lng": -16.254855799999973
+        },
+        "SG": {
+            "name": "Segovia",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 40.9494272,
+            "lng": -4.1192092
+        },
+        "SE": {
+            "name": "Sevilla",
+            "division": "province",
+            "parent": "ES-AN",
+            "lat": 37.38264,
+            "lng": -5.9962950999999975
+        },
+        "SO": {
+            "name": "Soria",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.7635982,
+            "lng": -2.4649206000000277
+        },
+        "T": {
+            "name": "Tarragona",
+            "division": "province",
+            "parent": "ES-CT",
+            "lat": 41.1186629,
+            "lng": 1.2453299999999672
+        },
+        "TE": {
+            "name": "Teruel",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 40.3441099,
+            "lng": -1.1069095999999945
+        },
+        "TO": {
+            "name": "Toledo",
+            "division": "province",
+            "parent": "ES-CM",
+            "lat": 39.8567775,
+            "lng": -4.02447589999997
+        },
+        "V": {
+            "name": "Valencia \/ Val\u00e8ncia",
+            "division": "province",
+            "parent": "ES-VC",
+            "lat": 39.4702393,
+            "lng": -0.37680490000002465
+        },
+        "VA": {
+            "name": "Valladolid",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.6529473,
+            "lng": -4.728387699999985
+        },
+        "BI": {
+            "name": "Vizcayaa \/ Bizkaia",
+            "division": "province",
+            "parent": "ES-PV",
+            "lat": 43.2648596,
+            "lng": -2.916554099999985
+        },
+        "ZA": {
+            "name": "Zamora",
+            "division": "province",
+            "parent": "ES-CL",
+            "lat": 41.5036834,
+            "lng": -5.743778099999986
+        },
+        "Z": {
+            "name": "Zaragoza",
+            "division": "province",
+            "parent": "ES-AR",
+            "lat": 41.6562873,
+            "lng": -0.8765379000000166
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "alpha-2": "TM",
+    "alpha-3": "TKM",
+    "numeric": 795,
+    "capital": "Ashgabat",
+    "currency": "TMT",
+    "languages": [
+        "tk",
+        "ru"
+    ],
+    "flag-icon": "\ud83c\uddf9\ud83c\uddf2",
+    "names": {
+        "geonames": "Turkmenistan",
+        "en": "Turkmenistan",
+        "ar": "\u062a\u0631\u0643\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
+        "de": "Turkmenistan",
+        "es": "Turkmenist\u00e1n",
+        "fr": "Turkm\u00e9nistan",
+        "it": "Turkmenistan",
+        "ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+        "zh": "\u571f\u5e93\u66fc\u65af\u5766",
+        "he": "\u05d8\u05d5\u05e8\u05e7\u05de\u05e0\u05d9\u05e1\u05d8\u05df",
+        "hi": "\u0924\u0941\u0930\u094d\u0915\u092e\u0947\u0928\u093f\u0938\u094d\u0924\u093e\u0928",
+        "ja": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
+        "pt": "Turquemenist\u00e3o"
+    },
+    "ISO3166-2": {
+        "B": {
+            "name": "Balkan Province",
+            "code": "B",
+            "names": {
+                "geonames": "Balkan",
+                "ru": "\u0411\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Balkan Province",
+                "ar": "\u0628\u0644\u0642\u0627\u0646",
+                "de": "Balkan wela\u00fdaty",
+                "es": "Provincia de Balkan",
+                "fr": "Balkan",
+                "it": "Provincia di Balkan",
+                "zh": "\u5df4\u723e\u574e\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 40.9468884,
+            "lng": 54.495243200000004
+        },
+        "A": {
+            "name": "Ahal Province",
+            "code": "A",
+            "names": {
+                "geonames": "Ahal",
+                "ru": "\u0410\u0445\u0430\u043b\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Ahal Province",
+                "de": "Ahal wela\u00fdaty",
+                "es": "Provincia de Ahal",
+                "fr": "Ahal",
+                "it": "Provincia di Ahal",
+                "zh": "\u963f\u54c8\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 38.8375215,
+            "lng": 59.10417580000001
+        },
+        "S": {
+            "name": "Ashgabat",
+            "code": "S",
+            "names": {
+                "geonames": "Ashgabat",
+                "ru": "\u0410\u0448\u0445\u0430\u0431\u0430\u0434",
+                "en": "Ashgabat",
+                "ar": "\u0639\u0634\u0642 \u0622\u0628\u0627\u062f",
+                "de": "A\u015fgabat",
+                "es": "Asjabad",
+                "fr": "Achgabat",
+                "it": "A\u015fgabat",
+                "zh": "\u963f\u4ec0\u54c8\u5df4\u5fb7"
+            },
+            "division": "city",
+            "parent": "TM",
+            "lat": 37.950197,
+            "lng": 58.380223
+        },
+        "D": {
+            "name": "Da\u015foguz Province",
+            "code": "D",
+            "names": {
+                "geonames": "Dasoguz",
+                "ru": "\u0414\u0430\u0448\u043e\u0433\u0443\u0437\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Da\u015foguz Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0627\u0634\u0648\u063a\u0648\u0632",
+                "de": "Da\u015foguz wela\u00fdaty",
+                "es": "Provincia de Da\u015foguz",
+                "fr": "Province de Da\u015foguz",
+                "it": "Provincia di Da\u015foguz",
+                "zh": "\u9054\u6c99\u53e4\u8332\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 41.834461,
+            "lng": 59.95732099999998
+        },
+        "M": {
+            "name": "Mary Province",
+            "code": "M",
+            "names": {
+                "geonames": "Mary",
+                "ru": "\u041c\u0430\u0440\u044b\u0439\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Mary Province",
+                "de": "Mary wela\u00fdaty",
+                "es": "Provincia de Mary",
+                "fr": "Mary",
+                "it": "Provincia di Mary",
+                "zh": "\u99ac\u96f7\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 37.6,
+            "lng": 61.83333330000005
+        },
+        "L": {
+            "name": "Lebap Province",
+            "code": "L",
+            "names": {
+                "geonames": "Lebap",
+                "ru": "\u041b\u0435\u0431\u0430\u043f\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Lebap Province",
+                "de": "Lebap wela\u00fdaty",
+                "es": "Provincia de Lebap",
+                "fr": "Lebap",
+                "it": "Provincia di Lebap",
+                "zh": "\u5217\u5df4\u666e\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 38.1272462,
+            "lng": 64.71624150000002
+        }
+    }
+}

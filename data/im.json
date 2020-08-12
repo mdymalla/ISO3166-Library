@@ -1,0 +1,41 @@
+{
+    "alpha-2": "IM",
+    "alpha-3": "IMN",
+    "numeric": 833,
+    "capital": "Douglas",
+    "currency": "GBP",
+    "languages": [
+        "en",
+        "gv"
+    ],
+    "flag-icon": "\ud83c\uddee\ud83c\uddf2",
+    "names": {
+        "geonames": "Isle of Man",
+        "en": "Isle of Man",
+        "ar": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0646",
+        "de": "Isle of Man",
+        "es": "Isla de Man",
+        "fr": "\u00cele de Man",
+        "it": "Isola di Man",
+        "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+        "zh": "\u66fc\u5cf6",
+        "he": "\u05d4\u05d0\u05d9 \u05de\u05d0\u05df",
+        "hi": "\u0906\u0907\u0932 \u0911\u092b\u093c \u092e\u0948\u0928",
+        "ja": "\u30de\u30f3\u5cf6",
+        "pt": "Ilha de Man"
+    },
+    "ISO3166-2": {
+        "": {
+            "name": "Santon",
+            "code": "",
+            "names": {
+                "geonames": "Santon",
+                "en": "Santon"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

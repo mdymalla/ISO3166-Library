@@ -1,0 +1,424 @@
+{
+    "alpha-2": "GT",
+    "alpha-3": "GTM",
+    "numeric": 320,
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "languages": [
+        "es"
+    ],
+    "flag-icon": "\ud83c\uddec\ud83c\uddf9",
+    "names": {
+        "geonames": "Guatemala",
+        "en": "Guatemala",
+        "ar": "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+        "de": "Guatemala",
+        "es": "Guatemala",
+        "fr": "Guatemala",
+        "it": "Guatemala",
+        "ru": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+        "zh": "\u5371\u5730\u9a6c\u62c9",
+        "he": "\u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4",
+        "hi": "\u0917\u094d\u0935\u093e\u091f\u0947\u092e\u093e\u0932\u093e",
+        "ja": "\u30b0\u30a2\u30c6\u30de\u30e9",
+        "pt": "Guatemala"
+    },
+    "ISO3166-2": {
+        "ZA": {
+            "name": "Zacapa Department",
+            "code": "ZA",
+            "names": {
+                "geonames": "Zacapa",
+                "ru": "\u0421\u0430\u043a\u0430\u043f\u0430",
+                "en": "Zacapa Department",
+                "de": "Departamento Zacapa",
+                "es": "Zacapa",
+                "fr": "D\u00e9partement de Zacapa",
+                "it": "Dipartimento di Zacapa",
+                "zh": "\u85a9\u5361\u5e15\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.9719,
+            "lng": -89.52903700000002
+        },
+        "TO": {
+            "name": "Totonicap\u00e1n Department",
+            "code": "TO",
+            "names": {
+                "geonames": "Totonicapan",
+                "ru": "\u0422\u043e\u0442\u043e\u043d\u0438\u043a\u0430\u043f\u0430\u043d",
+                "en": "Totonicap\u00e1n Department",
+                "de": "Departamento Totonicap\u00e1n",
+                "es": "Totonicap\u00e1n",
+                "fr": "D\u00e9partement de Totonicap\u00e1n",
+                "it": "Dipartimento di Totonicap\u00e1n",
+                "zh": "\u6258\u6258\u5c3c\u5361\u6f58\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.9125,
+            "lng": -91.36000000000001
+        },
+        "SU": {
+            "name": "Suchitep\u00e9quez Department",
+            "code": "SU",
+            "names": {
+                "geonames": "Suchitepeque",
+                "ru": "\u0421\u0443\u0447\u0438\u0442\u0435\u043f\u0435\u043a\u0435\u0441",
+                "en": "Suchitep\u00e9quez Department",
+                "de": "Departamento Suchitep\u00e9quez",
+                "es": "Suchitep\u00e9quez",
+                "fr": "D\u00e9partement de Suchitep\u00e9quez",
+                "it": "Dipartimento di Suchitep\u00e9quez",
+                "zh": "\u8607\u5947\u7279\u4f69\u514b\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.4215982,
+            "lng": -91.4048249
+        },
+        "SO": {
+            "name": "Solol\u00e1 Department",
+            "code": "SO",
+            "names": {
+                "geonames": "Solola",
+                "ru": "\u0421\u043e\u043b\u043e\u043b\u0430",
+                "en": "Solol\u00e1 Department",
+                "de": "Departamento Solol\u00e1",
+                "es": "Solol\u00e1",
+                "fr": "D\u00e9partement de Solol\u00e1",
+                "it": "Dipartimento di Solol\u00e1",
+                "zh": "\u7d22\u6d1b\u62c9\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.77312,
+            "lng": -91.18303700000001
+        },
+        "SR": {
+            "name": "Santa Rosa Department, Guatemala",
+            "code": "SR",
+            "names": {
+                "geonames": "Santa Rosa",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u0420\u043e\u0441\u0430",
+                "en": "Santa Rosa Department",
+                "de": "Departamento Santa Rosa",
+                "es": "Santa Rosa",
+                "fr": "D\u00e9partement de Santa Rosa",
+                "it": "Dipartimento di Santa Rosa",
+                "zh": "\u8056\u7f85\u85a9\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.869329,
+            "lng": -92.26690530000002
+        },
+        "SM": {
+            "name": "San Marcos Department",
+            "code": "SM",
+            "names": {
+                "geonames": "San Marcos",
+                "ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441",
+                "en": "San Marcos Department",
+                "de": "Departamento San Marcos",
+                "es": "San Marcos",
+                "fr": "D\u00e9partement de San Marcos",
+                "it": "Dipartimento di San Marcos",
+                "zh": "\u8056\u99ac\u79d1\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.9652778,
+            "lng": -91.79583330000003
+        },
+        "SA": {
+            "name": "Sacatep\u00e9quez Department",
+            "code": "SA",
+            "names": {
+                "geonames": "Sacatepequez",
+                "ru": "\u0421\u0430\u043a\u0430\u0442\u0435\u043f\u0435\u043a\u0435\u0441",
+                "en": "Sacatep\u00e9quez Department",
+                "de": "Departamento Sacatep\u00e9quez",
+                "es": "Sacatep\u00e9quez",
+                "fr": "D\u00e9partement de Sacatep\u00e9quez",
+                "it": "Dipartimento di Sacatep\u00e9quez",
+                "zh": "\u85a9\u5361\u7279\u4f69\u514b\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.5178379,
+            "lng": -90.7152749
+        },
+        "RE": {
+            "name": "Retalhuleu Department",
+            "code": "RE",
+            "names": {
+                "geonames": "Retalhuleu",
+                "ru": "\u0420\u0435\u0442\u0430\u043b\u0443\u043b\u0435\u0443",
+                "en": "Retalhuleu Department",
+                "de": "Departamento Retalhuleu",
+                "es": "Retalhuleu",
+                "fr": "D\u00e9partement de Retalhuleu",
+                "it": "Dipartimento di Retalhuleu",
+                "zh": "\u96f7\u5854\u76e7\u840a\u70cf\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.5376944,
+            "lng": -91.67971339999997
+        },
+        "QC": {
+            "name": "Quich\u00e9 Department",
+            "code": "QC",
+            "names": {
+                "geonames": "Quiche",
+                "ru": "\u041a\u0438\u0447\u0435",
+                "en": "Quich\u00e9 Department",
+                "de": "Departamento Quich\u00e9",
+                "es": "Quich\u00e9",
+                "fr": "D\u00e9partement du Quich\u00e9",
+                "it": "Dipartimento di Quich\u00e9",
+                "zh": "\u57fa\u5207\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": null,
+            "lng": null
+        },
+        "QZ": {
+            "name": "Quetzaltenango Department",
+            "code": "QZ",
+            "names": {
+                "geonames": "Quetzaltenango",
+                "ru": "\u041a\u0435\u0441\u0430\u043b\u044c\u0442\u0435\u043d\u0430\u043d\u0433\u043e",
+                "en": "Quetzaltenango Department",
+                "de": "Departamento Quetzaltenango",
+                "es": "Quetzaltenango",
+                "fr": "D\u00e9partement de Quetzaltenango",
+                "it": "Dipartimento di Quetzaltenango",
+                "zh": "\u514b\u85a9\u723e\u7279\u5357\u6208\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.836156,
+            "lng": -91.52195899999998
+        },
+        "PE": {
+            "name": "Pet\u00e9n Department",
+            "code": "PE",
+            "names": {
+                "geonames": "Peten",
+                "ru": "\u041f\u0435\u0442\u0435\u043d",
+                "en": "Pet\u00e9n Department",
+                "de": "Departamento Pet\u00e9n",
+                "es": "Pet\u00e9n",
+                "fr": "D\u00e9partement du Pet\u00e9n",
+                "it": "Dipartimento di Pet\u00e9n",
+                "zh": "\u8c9d\u767b\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 16.912033,
+            "lng": -90.2995785
+        },
+        "JU": {
+            "name": "Jutiapa Department",
+            "code": "JU",
+            "names": {
+                "geonames": "Jutiapa",
+                "ru": "\u0425\u0443\u0442\u044c\u044f\u043f\u0430",
+                "en": "Jutiapa Department",
+                "de": "Departamento Jutiapa",
+                "es": "Jutiapa",
+                "fr": "D\u00e9partement de Jutiapa",
+                "it": "Dipartimento di Jutiapa",
+                "zh": "\u80e1\u8482\u4e9e\u5e15\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.29021,
+            "lng": -89.89716299999998
+        },
+        "JA": {
+            "name": "Jalapa Department",
+            "code": "JA",
+            "names": {
+                "geonames": "Jalapa",
+                "ru": "\u0425\u0430\u043b\u0430\u043f\u0430",
+                "en": "Jalapa Department",
+                "de": "Departamento Jalapa",
+                "es": "Jalapa",
+                "fr": "D\u00e9partement de Jalapa",
+                "it": "Dipartimento di Jalapa",
+                "zh": "\u54c8\u62c9\u5e15\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.6329,
+            "lng": -89.988564
+        },
+        "IZ": {
+            "name": "Izabal Department",
+            "code": "IZ",
+            "names": {
+                "geonames": "Izabal",
+                "ru": "\u0418\u0441\u0430\u0431\u0430\u043b\u044c",
+                "en": "Izabal Department",
+                "de": "Departamento Izabal",
+                "es": "Izabal",
+                "fr": "D\u00e9partement d'Izabal",
+                "it": "Dipartimento di Izabal",
+                "zh": "\u4f0a\u85a9\u74e6\u723e\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 15.349221,
+            "lng": -89.11773310000001
+        },
+        "HU": {
+            "name": "Huehuetenango Department",
+            "code": "HU",
+            "names": {
+                "geonames": "Huehuetenango",
+                "ru": "\u0423\u044d\u0443\u044d\u0442\u0435\u043d\u0430\u043d\u0433\u043e",
+                "en": "Huehuetenango Department",
+                "de": "Departamento Huehuetenango",
+                "es": "Huehuetenango",
+                "fr": "D\u00e9partement de Huehuetenango",
+                "it": "Dipartimento di Huehuetenango",
+                "zh": "\u97cb\u97cb\u7279\u5357\u6208\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 15.3214911,
+            "lng": -91.46884829999999
+        },
+        "GU": {
+            "name": "Guatemala Department",
+            "code": "GU",
+            "names": {
+                "geonames": "Guatemala",
+                "ru": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+                "en": "Guatemala Department",
+                "de": "Departamento Guatemala",
+                "es": "Guatemala",
+                "fr": "D\u00e9partement de Guatemala",
+                "it": "Dipartimento di Guatemala",
+                "zh": "\u74dc\u5730\u99ac\u62c9\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.6133333,
+            "lng": -90.53527780000002
+        },
+        "ES": {
+            "name": "Escuintla Department",
+            "code": "ES",
+            "names": {
+                "geonames": "Escuintla",
+                "ru": "\u042d\u0441\u043a\u0443\u0438\u043d\u0442\u043b\u0430",
+                "en": "Escuintla Department",
+                "de": "Departamento Escuintla",
+                "es": "Escuintla",
+                "fr": "D\u00e9partement d'Escuintla",
+                "it": "Dipartimento di Escuintla",
+                "zh": "\u57c3\u65af\u6606\u7279\u62c9\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.300474,
+            "lng": -90.78749099999999
+        },
+        "PR": {
+            "name": "El Progreso Department",
+            "code": "PR",
+            "names": {
+                "geonames": "El Progreso",
+                "ru": "\u042d\u043b\u044c-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e",
+                "en": "El Progreso Department",
+                "de": "Departamento El Progreso",
+                "es": "El Progreso",
+                "fr": "D\u00e9partement d'El Progreso",
+                "it": "Dipartimento di El Progreso",
+                "zh": "\u666e\u7f85\u683c\u96f7\u7d22\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.757514,
+            "lng": -90.20480470000001
+        },
+        "CQ": {
+            "name": "Chiquimula Department",
+            "code": "CQ",
+            "names": {
+                "geonames": "Chiquimula",
+                "ru": "\u0427\u0438\u043a\u0438\u043c\u0443\u043b\u0430",
+                "en": "Chiquimula Department",
+                "de": "Departamento Chiquimula",
+                "es": "Chiquimula",
+                "fr": "D\u00e9partement de Chiquimula",
+                "it": "Dipartimento di Chiquimula",
+                "zh": "\u5947\u57fa\u7a46\u62c9\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.79685,
+            "lng": -89.54405199999997
+        },
+        "CM": {
+            "name": "Chimaltenango Department",
+            "code": "CM",
+            "names": {
+                "geonames": "Chimaltenango",
+                "ru": "\u0427\u0438\u043c\u0430\u043b\u044c\u0442\u0435\u043d\u0430\u043d\u0433\u043e",
+                "en": "Chimaltenango Department",
+                "de": "Departamento Chimaltenango",
+                "es": "Chimaltenango",
+                "fr": "D\u00e9partement de Chimaltenango",
+                "it": "Dipartimento di Chimaltenango",
+                "zh": "\u5947\u99ac\u723e\u7279\u5357\u6208\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 14.6622222,
+            "lng": -90.8208333
+        },
+        "BV": {
+            "name": "Baja Verapaz Department",
+            "code": "BV",
+            "names": {
+                "geonames": "Baja Verapaz",
+                "ru": "\u0411\u0430\u0445\u0430-\u0412\u0435\u0440\u0430\u043f\u0430\u0441",
+                "en": "Baja Verapaz Department",
+                "de": "Departamento Baja Verapaz",
+                "es": "Baja Verapaz",
+                "fr": "D\u00e9partement de Baja Verapaz",
+                "it": "Dipartimento di Baja Verapaz",
+                "zh": "\u4e0b\u7dad\u62c9\u5e15\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 15.1255867,
+            "lng": -90.3748354
+        },
+        "AV": {
+            "name": "Alta Verapaz Department",
+            "code": "AV",
+            "names": {
+                "geonames": "Alta Verapaz",
+                "ru": "\u0410\u043b\u044c\u0442\u0430-\u0412\u0435\u0440\u0430\u043f\u0430\u0441",
+                "en": "Alta Verapaz Department",
+                "de": "Departamento Alta Verapaz",
+                "es": "Alta Verapaz",
+                "fr": "D\u00e9partement d'Alta Verapaz",
+                "it": "Dipartimento di Alta Verapaz",
+                "zh": "\u4e0a\u7dad\u62c9\u5e15\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "GT",
+            "lat": 15.5942883,
+            "lng": -90.1494988
+        }
+    }
+}

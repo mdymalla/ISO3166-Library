@@ -1,0 +1,353 @@
+{
+    "alpha-2": "UY",
+    "alpha-3": "URY",
+    "numeric": 858,
+    "capital": "Montevideo",
+    "currency": "UYI,UYU",
+    "languages": [
+        "es"
+    ],
+    "flag-icon": "\ud83c\uddfa\ud83c\uddfe",
+    "names": {
+        "geonames": "Uruguay",
+        "en": "Uruguay",
+        "ar": "\u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a",
+        "de": "Uruguay",
+        "es": "Uruguay",
+        "fr": "Uruguay",
+        "it": "Uruguay",
+        "ru": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+        "zh": "\u4e4c\u62c9\u572d",
+        "he": "\u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d5\u05d0\u05d9",
+        "hi": "\u0909\u0930\u0941\u0917\u094d\u0935\u0947",
+        "ja": "\u30a6\u30eb\u30b0\u30a2\u30a4",
+        "pt": "Uruguai"
+    },
+    "ISO3166-2": {
+        "TT": {
+            "name": "Treinta y Tres Department",
+            "code": "TT",
+            "names": {
+                "geonames": "Treinta y Tres",
+                "ru": "\u0422\u0440\u0435\u0439\u043d\u0442\u0430-\u0438-\u0422\u0440\u0435\u0441",
+                "en": "Treinta y Tres Department",
+                "de": "Departamento Treinta y Tres",
+                "es": "Departamento de Treinta y Tres",
+                "fr": "Treinta y Tres",
+                "it": "Dipartimento di Treinta y Tres",
+                "zh": "\u4e09\u5341\u4e09\u4eba\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.23148,
+            "lng": -54.37455
+        },
+        "TA": {
+            "name": "Tacuaremb\u00f3 Department",
+            "code": "TA",
+            "names": {
+                "geonames": "Tacuarembo",
+                "ru": "\u0422\u0430\u043a\u0443\u0430\u0440\u0435\u043c\u0431\u043e",
+                "en": "Tacuaremb\u00f3 Department",
+                "de": "Departamento Tacuaremb\u00f3",
+                "es": "Departamento de Tacuaremb\u00f3",
+                "fr": "Tacuaremb\u00f3",
+                "it": "Dipartimento di Tacuaremb\u00f3",
+                "zh": "\u5854\u5938\u4f26\u535a\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -31.7333333,
+            "lng": -55.98333330000003
+        },
+        "SO": {
+            "name": "Soriano Department",
+            "code": "SO",
+            "names": {
+                "geonames": "Soriano",
+                "ru": "\u0421\u043e\u0440\u044c\u044f\u043d\u043e",
+                "en": "Soriano Department",
+                "de": "Departamento Soriano",
+                "es": "Departamento de Soriano",
+                "fr": "Soriano",
+                "it": "Dipartimento di Soriano",
+                "zh": "\u7d22\u91cc\u4e9a\u8bfa\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.5103372,
+            "lng": -57.73461129999998
+        },
+        "SJ": {
+            "name": "San Jose",
+            "code": "SJ",
+            "names": {
+                "geonames": "San Jose",
+                "en": "San Jose"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.337956,
+            "lng": -56.71281799999997
+        },
+        "SA": {
+            "name": "Salto Department",
+            "code": "SA",
+            "names": {
+                "geonames": "Salto",
+                "ru": "\u0421\u0430\u043b\u044c\u0442\u043e",
+                "en": "Salto Department",
+                "de": "Departamento Salto",
+                "es": "Departamento de Salto",
+                "fr": "Salto",
+                "it": "Dipartimento di Salto",
+                "zh": "\u8428\u5c14\u6258\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -31.39566,
+            "lng": -57.96276899999998
+        },
+        "RO": {
+            "name": "Rocha Department",
+            "code": "RO",
+            "names": {
+                "geonames": "Rocha",
+                "ru": "\u0420\u043e\u0447\u0430",
+                "en": "Rocha Department",
+                "de": "Departamento Rocha",
+                "es": "Departamento de Rocha",
+                "fr": "Rocha",
+                "it": "Dipartimento di Rocha",
+                "zh": "\u7f57\u6070\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.4833333,
+            "lng": -54.35000000000002
+        },
+        "RV": {
+            "name": "Rivera Department",
+            "code": "RV",
+            "names": {
+                "geonames": "Rivera",
+                "ru": "\u0420\u0438\u0432\u0435\u0440\u0430",
+                "en": "Rivera Department",
+                "de": "Departamento Rivera",
+                "es": "Departamento de Rivera",
+                "fr": "Rivera",
+                "it": "Dipartimento di Rivera",
+                "zh": "\u91cc\u97e6\u62c9\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -30.905337,
+            "lng": -55.55075899999997
+        },
+        "RN": {
+            "name": "Rio Negro",
+            "code": "RN",
+            "names": {
+                "geonames": "Rio Negro",
+                "en": "Rio Negro"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -32.4165639,
+            "lng": -58.28099370000001
+        },
+        "PA": {
+            "name": "Paysand\u00fa Department",
+            "code": "PA",
+            "names": {
+                "geonames": "Paysandu",
+                "ru": "\u041f\u0430\u0439\u0441\u0430\u043d\u0434\u0443",
+                "en": "Paysand\u00fa Department",
+                "de": "Departamento Paysand\u00fa",
+                "es": "Departamento de Paysand\u00fa",
+                "fr": "Paysand\u00fa",
+                "it": "Dipartimento di Paysand\u00fa",
+                "zh": "\u6d3e\u6851\u675c\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -32.3213889,
+            "lng": -58.07555560000003
+        },
+        "MO": {
+            "name": "Montevideo Department",
+            "code": "MO",
+            "names": {
+                "geonames": "Montevideo",
+                "ru": "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e",
+                "en": "Montevideo Department",
+                "de": "Departamento Montevideo",
+                "es": "Departamento de Montevideo",
+                "fr": "Montevideo",
+                "it": "Dipartimento di Montevideo",
+                "zh": "\u8499\u5f97\u7dad\u7684\u4e9e\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.8833333,
+            "lng": -56.16666670000001
+        },
+        "MA": {
+            "name": "Maldonado Department",
+            "code": "MA",
+            "names": {
+                "geonames": "Maldonado",
+                "ru": "\u041c\u0430\u043b\u044c\u0434\u043e\u043d\u0430\u0434\u043e",
+                "en": "Maldonado Department",
+                "de": "Departamento Maldonado",
+                "es": "Departamento de Maldonado",
+                "fr": "Maldonado",
+                "it": "Dipartimento di Maldonado",
+                "zh": "\u9a6c\u5c14\u591a\u7eb3\u591a\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.9,
+            "lng": -54.94999999999999
+        },
+        "LA": {
+            "name": "Lavalleja Department",
+            "code": "LA",
+            "names": {
+                "geonames": "Lavalleja",
+                "ru": "\u041b\u0430\u0432\u0430\u043b\u044c\u0435\u0445\u0430",
+                "en": "Lavalleja Department",
+                "de": "Departamento Lavalleja",
+                "es": "Departamento de Lavalleja",
+                "fr": "Lavalleja",
+                "it": "Dipartimento di Lavalleja",
+                "zh": "\u62c9\u74e6\u8036\u54c8\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.0040354,
+            "lng": -54.96118360000003
+        },
+        "FD": {
+            "name": "Florida",
+            "code": "FD",
+            "names": {
+                "geonames": "Florida",
+                "en": "Florida"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.1,
+            "lng": -56.21666670000002
+        },
+        "FS": {
+            "name": "Flores Department",
+            "code": "FS",
+            "names": {
+                "geonames": "Flores",
+                "ru": "\u0424\u043b\u043e\u0440\u0435\u0441",
+                "en": "Flores Department",
+                "de": "Departamento Flores",
+                "es": "Departamento de Flores",
+                "fr": "Flores",
+                "it": "Dipartimento di Flores",
+                "zh": "\u5f17\u6d1b\u96f7\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -16.2985254,
+            "lng": -48.93696449999999
+        },
+        "DU": {
+            "name": "Durazno Department",
+            "code": "DU",
+            "names": {
+                "geonames": "Durazno",
+                "en": "Durazno Department",
+                "de": "Departamento Durazno",
+                "es": "Departamento de Durazno",
+                "fr": "Durazno",
+                "it": "Dipartimento di Durazno",
+                "ru": "\u0414\u0443\u0440\u0430\u0441\u043d\u043e",
+                "zh": "\u675c\u62c9\u65af\u8bfa\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -33.3816468,
+            "lng": -56.52801679999999
+        },
+        "CO": {
+            "name": "Colonia Department",
+            "code": "CO",
+            "names": {
+                "geonames": "Colonia",
+                "ru": "\u041a\u043e\u043b\u043e\u043d\u0438\u044f",
+                "en": "Colonia Department",
+                "de": "Departamento Colonia",
+                "es": "Departamento de Colonia",
+                "fr": "Colonia",
+                "it": "Dipartimento di Colonia",
+                "zh": "\u79d1\u6d1b\u5c3c\u4e9a\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.8290934,
+            "lng": -56.229046600000004
+        },
+        "CL": {
+            "name": "Cerro Largo Department",
+            "code": "CL",
+            "names": {
+                "geonames": "Cerro Largo",
+                "ru": "\u0421\u0435\u0440\u0440\u043e-\u041b\u0430\u0440\u0433\u043e",
+                "en": "Cerro Largo Department",
+                "ar": "\u0633\u064a\u0631\u0648 \u0644\u0627\u063a\u0648",
+                "de": "Departamento Cerro Largo",
+                "es": "Departamento de Cerro Largo",
+                "fr": "Cerro Largo",
+                "it": "Dipartimento di Cerro Largo",
+                "zh": "\u585e\u7f57\u62c9\u5c14\u6208\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.9009444,
+            "lng": -56.1884852
+        },
+        "CA": {
+            "name": "Canelones Department",
+            "code": "CA",
+            "names": {
+                "geonames": "Canelones",
+                "ru": "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441",
+                "en": "Canelones Department",
+                "de": "Departamento Canelones",
+                "es": "Departamento de Canelones",
+                "fr": "Canelones",
+                "it": "Dipartimento di Canelones",
+                "zh": "\u5361\u5185\u6d1b\u5185\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -34.5166667,
+            "lng": -56.28333329999998
+        },
+        "AR": {
+            "name": "Artigas Department",
+            "code": "AR",
+            "names": {
+                "geonames": "Artigas",
+                "ru": "\u0410\u0440\u0442\u0438\u0433\u0430\u0441",
+                "en": "Artigas Department",
+                "de": "Departamento Artigas",
+                "es": "Departamento de Artigas",
+                "fr": "Artigas",
+                "it": "Dipartimento di Artigas",
+                "zh": "\u963f\u8482\u52a0\u65af\u7701"
+            },
+            "division": "department",
+            "parent": "UY",
+            "lat": -30.40996,
+            "lng": -56.47282000000001
+        }
+    }
+}

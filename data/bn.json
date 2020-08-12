@@ -1,0 +1,97 @@
+{
+    "alpha-2": "BN",
+    "alpha-3": "BRN",
+    "numeric": 96,
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND",
+    "languages": [
+        "ms"
+    ],
+    "flag-icon": "\ud83c\udde7\ud83c\uddf3",
+    "names": {
+        "geonames": "Brunei",
+        "en": "Brunei",
+        "ar": "\u0628\u0631\u0648\u0646\u0627\u064a",
+        "de": "Brunei",
+        "es": "Brun\u00e9i",
+        "fr": "Brunei",
+        "it": "Brunei",
+        "ru": "\u0411\u0440\u0443\u043d\u0435\u0439",
+        "zh": "\u6c76\u83b1",
+        "he": "\u05d1\u05e8\u05d5\u05e0\u05d9\u05d9",
+        "hi": "\u092c\u094d\u0930\u0941\u0928\u0947\u0908",
+        "ja": "\u30d6\u30eb\u30cd\u30a4",
+        "pt": "Brunei"
+    },
+    "ISO3166-2": {
+        "TU": {
+            "name": "Tutong District",
+            "code": "TU",
+            "names": {
+                "geonames": "Tutong",
+                "ru": "\u0422\u0443\u0442\u043e\u043d\u0433",
+                "en": "Tutong District",
+                "es": "Distrito de Tutong",
+                "fr": "Tutong",
+                "it": "Distretto di Tutong",
+                "zh": "\u90fd\u4e1c\u53bf"
+            },
+            "division": "district",
+            "parent": "BN",
+            "lat": 4.805784,
+            "lng": 114.64669800000001
+        },
+        "TE": {
+            "name": "Temburong District",
+            "code": "TE",
+            "names": {
+                "geonames": "Temburong",
+                "ru": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0433",
+                "en": "Temburong District",
+                "de": "Temburong",
+                "es": "Temburong",
+                "fr": "Temburong",
+                "it": "Distretto di Temburong",
+                "zh": "\u6de1\u5e03\u9686\u53bf"
+            },
+            "division": "district",
+            "parent": "BN",
+            "lat": null,
+            "lng": null
+        },
+        "BM": {
+            "name": "Brunei-Muara District",
+            "code": "BM",
+            "names": {
+                "geonames": "Brunei and Muara",
+                "ru": "\u0411\u0440\u0443\u043d\u0435\u0439-\u041c\u0443\u0430\u0440\u0430",
+                "en": "Brunei-Muara District",
+                "es": "Brunei y Muara",
+                "fr": "Brunei-Muara",
+                "it": "Distretto di Brunei-Muara",
+                "zh": "\u6c76\u83b1\u6469\u62c9\u53bf"
+            },
+            "division": "district",
+            "parent": "BN",
+            "lat": 5.0333333,
+            "lng": 115.06666670000004
+        },
+        "BE": {
+            "name": "Belait District",
+            "code": "BE",
+            "names": {
+                "geonames": "Belait",
+                "ru": "\u0411\u0435\u043b\u0430\u0439\u0442",
+                "en": "Belait District",
+                "es": "Distrito de Belait",
+                "fr": "Belait",
+                "it": "Distretto di Belait",
+                "zh": "\u9a6c\u6765\u5955\u53bf"
+            },
+            "division": "district",
+            "parent": "BN",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

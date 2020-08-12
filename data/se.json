@@ -1,0 +1,420 @@
+{
+    "alpha-2": "SE",
+    "alpha-3": "SWE",
+    "numeric": 752,
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "languages": [
+        "sv"
+    ],
+    "flag-icon": "\ud83c\uddf8\ud83c\uddea",
+    "names": {
+        "geonames": "Sweden",
+        "en": "Sweden",
+        "ar": "\u0627\u0644\u0633\u0648\u064a\u062f",
+        "de": "Schweden",
+        "es": "Suecia",
+        "fr": "Su\u00e8de",
+        "it": "Svezia",
+        "ru": "\u0428\u0432\u0435\u0446\u0438\u044f",
+        "zh": "\u745e\u5178",
+        "he": "\u05e9\u05d5\u05d5\u05d3\u05d9\u05d4",
+        "hi": "\u0938\u094d\u0935\u0940\u0921\u0928",
+        "ja": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
+        "pt": "Su\u00e9cia"
+    },
+    "ISO3166-2": {
+        "BD": {
+            "name": "Norrbotten County",
+            "code": "BD",
+            "names": {
+                "geonames": "Norrbotten",
+                "ru": "\u041d\u043e\u0440\u0440\u0431\u043e\u0442\u0442\u0435\u043d",
+                "en": "Norrbotten County",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0648\u0631\u0628\u0648\u062a\u0646",
+                "de": "Norrbottens l\u00e4n",
+                "es": "Provincia de Norrbotten",
+                "fr": "Comt\u00e9 de Norrbotten",
+                "it": "Norrbotten",
+                "zh": "\u5317\u535a\u6ed5\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 66.8309216,
+            "lng": 20.399196599999982
+        },
+        "U": {
+            "name": "V\u00e4stmanland County",
+            "code": "U",
+            "names": {
+                "geonames": "Vaestmanland",
+                "ru": "\u0412\u0435\u0441\u0442\u043c\u0430\u043d\u043b\u0430\u043d\u0434",
+                "en": "V\u00e4stmanland County",
+                "de": "V\u00e4stmanlands l\u00e4n",
+                "es": "Provincia de V\u00e4stmanland",
+                "fr": "Comt\u00e9 de V\u00e4stmanland",
+                "it": "V\u00e4stmanland",
+                "zh": "\u897f\u66fc\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.6713879,
+            "lng": 16.215895400000022
+        },
+        "Y": {
+            "name": "V\u00e4sternorrland County",
+            "code": "Y",
+            "names": {
+                "geonames": "Vaesternorrland",
+                "ru": "\u0412\u0435\u0441\u0442\u0435\u0440\u043d\u043e\u0440\u0440\u043b\u0430\u043d\u0434",
+                "en": "V\u00e4sternorrland County",
+                "de": "V\u00e4sternorrlands l\u00e4n",
+                "es": "Provincia de V\u00e4sternorrland",
+                "fr": "Comt\u00e9 de V\u00e4sternorrland",
+                "it": "V\u00e4sternorrland",
+                "zh": "\u897f\u8bfa\u5c14\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 62.985529,
+            "lng": 18.125860399999965
+        },
+        "AC": {
+            "name": "V\u00e4sterbotten County",
+            "code": "AC",
+            "names": {
+                "geonames": "Vaesterbotten",
+                "ru": "\u0412\u0435\u0441\u0442\u0435\u0440\u0431\u043e\u0442\u0442\u0435\u043d",
+                "en": "V\u00e4sterbotten County",
+                "de": "V\u00e4sterbottens l\u00e4n",
+                "es": "Provincia de V\u00e4sterbotten",
+                "fr": "Comt\u00e9 de V\u00e4sterbotten",
+                "it": "V\u00e4sterbotten",
+                "zh": "\u897f\u535a\u6ed5\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 65.3337311,
+            "lng": 16.516169499999933
+        },
+        "S": {
+            "name": "V\u00e4rmland County",
+            "code": "S",
+            "names": {
+                "geonames": "Vaermland",
+                "ru": "\u0412\u0435\u0440\u043c\u043b\u0430\u043d\u0434",
+                "en": "V\u00e4rmland County",
+                "de": "V\u00e4rmlands l\u00e4n",
+                "es": "Provincia de V\u00e4rmland",
+                "fr": "Comt\u00e9 de V\u00e4rmland",
+                "it": "V\u00e4rmland",
+                "zh": "\u97e6\u59c6\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.5807897,
+            "lng": 12.847297400000002
+        },
+        "C": {
+            "name": "Uppsala County",
+            "code": "C",
+            "names": {
+                "geonames": "Uppsala",
+                "ru": "\u0423\u043f\u043f\u0441\u0430\u043b\u0430",
+                "en": "Uppsala County",
+                "de": "Uppsala l\u00e4n",
+                "es": "Provincia de Upsala",
+                "fr": "Comt\u00e9 d'Uppsala",
+                "it": "Uppsala",
+                "zh": "\u4e4c\u666e\u8428\u62c9\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.8581435,
+            "lng": 17.64458579999996
+        },
+        "AB": {
+            "name": "Stockholm County",
+            "code": "AB",
+            "names": {
+                "geonames": "Stockholm",
+                "ru": "\u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c",
+                "en": "Stockholm County",
+                "de": "Stockholms l\u00e4n",
+                "es": "Provincia de Estocolmo",
+                "fr": "Comt\u00e9 de Stockholm",
+                "it": "Stoccolma",
+                "zh": "\u65af\u5fb7\u54e5\u5c14\u6469\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.3327881,
+            "lng": 18.064488100000062
+        },
+        "D": {
+            "name": "S\u00f6dermanland County",
+            "code": "D",
+            "names": {
+                "geonames": "Soedermanland",
+                "ru": "\u0421\u0451\u0434\u0435\u0440\u043c\u0430\u043d\u043b\u0430\u043d\u0434",
+                "en": "S\u00f6dermanland County",
+                "de": "S\u00f6dermanlands l\u00e4n",
+                "es": "Provincia de S\u00f6dermanland",
+                "fr": "Comt\u00e9 de S\u00f6dermanland",
+                "it": "S\u00f6dermanland",
+                "zh": "\u5357\u66fc\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.0336349,
+            "lng": 16.751889900000037
+        },
+        "E": {
+            "name": "\u00d6sterg\u00f6tland County",
+            "code": "E",
+            "names": {
+                "geonames": "OEstergoetland",
+                "ru": "\u042d\u0441\u0442\u0435\u0440\u0433\u0451\u0442\u043b\u0430\u043d\u0434",
+                "en": "\u00d6sterg\u00f6tland County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u0633\u062a\u0631\u063a\u0648\u062a\u0644\u0627\u0646\u062f",
+                "de": "\u00d6sterg\u00f6tlands l\u00e4n",
+                "es": "Provincia de \u00d6sterg\u00f6tland",
+                "fr": "Comt\u00e9 d'\u00d6sterg\u00f6tland",
+                "it": "\u00d6sterg\u00f6tland",
+                "zh": "\u4e1c\u7ea6\u7279\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 58.3453635,
+            "lng": 15.51978429999997
+        },
+        "T": {
+            "name": "\u00d6rebro County",
+            "code": "T",
+            "names": {
+                "geonames": "OErebro",
+                "ru": "\u042d\u0440\u0435\u0431\u0440\u0443",
+                "en": "\u00d6rebro County",
+                "de": "\u00d6rebro l\u00e4n",
+                "es": "Provincia de \u00d6rebro",
+                "fr": "Comt\u00e9 d'\u00d6rebro",
+                "it": "Contea di \u00d6rebro",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 59.273755,
+            "lng": 15.207539499999939
+        },
+        "G": {
+            "name": "Kronoberg County",
+            "code": "G",
+            "names": {
+                "geonames": "Kronoberg",
+                "ru": "\u041a\u0440\u0443\u043d\u0443\u0431\u0435\u0440\u0433",
+                "en": "Kronoberg County",
+                "de": "Kronobergs l\u00e4n",
+                "es": "Provincia de Kronoberg",
+                "fr": "Comt\u00e9 de Kronoberg",
+                "it": "Kronoberg",
+                "zh": "\u514b\u9c81\u52aa\u8d1d\u91cc\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.8906494,
+            "lng": 14.508452300000044
+        },
+        "W": {
+            "name": "Dalarna County",
+            "code": "W",
+            "names": {
+                "geonames": "Dalarna",
+                "ru": "\u0414\u0430\u043b\u0430\u0440\u043d\u0430",
+                "en": "Dalarna County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0627\u0644\u0631\u0646\u0627\u0633",
+                "de": "Dalarnas l\u00e4n",
+                "es": "Provincia de Dalarna",
+                "fr": "Comt\u00e9 de Dal\u00e9carlie",
+                "it": "Dalarna",
+                "zh": "\u8fbe\u62c9\u7eb3\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 61.0917012,
+            "lng": 14.666365300000052
+        },
+        "H": {
+            "name": "Kalmar County",
+            "code": "H",
+            "names": {
+                "geonames": "Kalmar",
+                "ru": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+                "en": "Kalmar County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0644\u0645\u0627\u0631",
+                "de": "Kalmar l\u00e4n",
+                "es": "Provincia de Kalmar",
+                "fr": "Comt\u00e9 de Kalmar",
+                "it": "Kalmar",
+                "zh": "\u5361\u5c14\u9a6c\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.0942447,
+            "lng": 16.543560500000012
+        },
+        "F": {
+            "name": "J\u00f6nk\u00f6ping County",
+            "code": "F",
+            "names": {
+                "geonames": "Joenkoeping",
+                "ru": "\u0419\u0451\u043d\u0447\u0451\u043f\u0438\u043d\u0433",
+                "en": "J\u00f6nk\u00f6ping County",
+                "de": "J\u00f6nk\u00f6pings l\u00e4n",
+                "es": "Provincia de J\u00f6nk\u00f6ping",
+                "fr": "Comt\u00e9 de J\u00f6nk\u00f6ping",
+                "it": "J\u00f6nk\u00f6ping",
+                "zh": "\u5ef6\u96ea\u5e73\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.7817978,
+            "lng": 14.158510400000068
+        },
+        "Z": {
+            "name": "J\u00e4mtland County",
+            "code": "Z",
+            "names": {
+                "geonames": "Jaemtland",
+                "ru": "\u0415\u043c\u0442\u043b\u0430\u043d\u0434",
+                "en": "J\u00e4mtland County",
+                "de": "J\u00e4mtlands l\u00e4n",
+                "es": "Provincia de J\u00e4mtland",
+                "fr": "Comt\u00e9 de J\u00e4mtland",
+                "it": "J\u00e4mtland",
+                "zh": "\u8036\u59c6\u7279\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": null,
+            "lng": null
+        },
+        "N": {
+            "name": "Halland County",
+            "code": "N",
+            "names": {
+                "geonames": "Halland",
+                "ru": "\u0425\u0430\u043b\u043b\u0430\u043d\u0434",
+                "en": "Halland County",
+                "de": "Hallands l\u00e4n",
+                "es": "Provincia de Halland",
+                "fr": "Comt\u00e9 de Halland",
+                "it": "Halland",
+                "zh": "\u54c8\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.7957699,
+            "lng": 12.893493000000035
+        },
+        "I": {
+            "name": "Gotland County",
+            "code": "I",
+            "names": {
+                "geonames": "Gotland",
+                "ru": "\u0413\u043e\u0442\u043b\u0430\u043d\u0434",
+                "en": "Gotland County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062c\u0648\u062a\u0644\u0627\u0646\u062f\u0632",
+                "de": "Gotlands l\u00e4n",
+                "es": "Provincia de Gotland",
+                "fr": "Comt\u00e9 de Gotland",
+                "it": "Gotland",
+                "zh": "\u54e5\u5f97\u5170\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 57.649684,
+            "lng": 18.71446800000001
+        },
+        "X": {
+            "name": "G\u00e4vleborg County",
+            "code": "X",
+            "names": {
+                "geonames": "Gaevleborg",
+                "ru": "\u0415\u0432\u043b\u0435\u0431\u043e\u0440\u0433",
+                "en": "G\u00e4vleborg County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0641\u0644\u0628\u0648\u0631\u063a",
+                "de": "G\u00e4vleborgs l\u00e4n",
+                "es": "Provincia de G\u00e4vleborg",
+                "fr": "Comt\u00e9 de G\u00e4vleborg",
+                "it": "G\u00e4vleborg",
+                "zh": "\u8036\u592b\u52d2\u5821\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 61.4388743,
+            "lng": 16.594019600000024
+        },
+        "K": {
+            "name": "Blekinge County",
+            "code": "K",
+            "names": {
+                "geonames": "Blekinge",
+                "ru": "\u0411\u043b\u0435\u043a\u0438\u043d\u0433\u0435",
+                "en": "Blekinge County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0644\u064a\u0643\u064a\u0646\u062c",
+                "de": "Blekinge l\u00e4n",
+                "es": "Provincia de Blekinge",
+                "fr": "Comt\u00e9 de Blekinge",
+                "it": "Blekinge",
+                "zh": "\u5e03\u840a\u91d1\u5384\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 56.143109,
+            "lng": 15.36667030000001
+        },
+        "M": {
+            "name": "Sk\u00e5ne County",
+            "code": "M",
+            "names": {
+                "geonames": "Skane",
+                "ru": "\u0421\u043a\u043e\u043d\u0435",
+                "en": "Sk\u00e5ne County",
+                "de": "Sk\u00e5ne l\u00e4n",
+                "es": "Provincia de Escania",
+                "fr": "Comt\u00e9 de Scanie",
+                "it": "Scania",
+                "zh": "\u65af\u79d1\u8bb7\u7701"
+            },
+            "division": "county",
+            "parent": "SE",
+            "lat": 55.9902572,
+            "lng": 13.59576919999995
+        },
+        "O": {
+            "name": "V\u00e4stra G\u00f6taland County",
+            "code": "O",
+            "names": {
+                "geonames": "Vaestra Goetaland",
+                "ru": "\u0412\u0435\u0441\u0442\u0440\u0430-\u0413\u0451\u0442\u0430\u043b\u0430\u043d\u0434",
+                "en": "V\u00e4stra G\u00f6taland County",
+                "de": "V\u00e4stra G\u00f6talands l\u00e4n",
+                "es": "Provincia de V\u00e4stra G\u00f6taland",
+                "fr": "Comt\u00e9 de V\u00e4stra G\u00f6taland",
+                "it": "V\u00e4stra G\u00f6taland",
+                "zh": "\u897f\u7ea6\u5854\u5170\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "Q": {
+            "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+            "division": "county",
+            "parent": "SE",
+            "lat": 58.1599159,
+            "lng": 12.136054899999976
+        }
+    }
+}

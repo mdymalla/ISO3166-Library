@@ -1,0 +1,228 @@
+{
+    "alpha-2": "MZ",
+    "alpha-3": "MOZ",
+    "numeric": 508,
+    "capital": "Maputo",
+    "currency": "MZN",
+    "languages": [
+        "pt"
+    ],
+    "flag-icon": "\ud83c\uddf2\ud83c\uddff",
+    "names": {
+        "geonames": "Mozambique",
+        "en": "Mozambique",
+        "ar": "\u0645\u0648\u0632\u0645\u0628\u064a\u0642",
+        "de": "Mosambik",
+        "es": "Mozambique",
+        "fr": "Mozambique",
+        "it": "Mozambico",
+        "ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+        "zh": "\u83ab\u6851\u6bd4\u514b",
+        "he": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
+        "hi": "\u092e\u094b\u091c\u093c\u093e\u092e\u094d\u092c\u0940\u0915",
+        "ja": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
+        "pt": "Mo\u00e7ambique"
+    },
+    "ISO3166-2": {
+        "Q": {
+            "name": "Zambezia Province",
+            "code": "Q",
+            "names": {
+                "geonames": "Zambezia",
+                "ru": "\u0417\u0430\u043c\u0431\u0435\u0437\u0438\u044f",
+                "en": "Zambezia Province",
+                "de": "Provinz Zambezia",
+                "es": "Zambezia",
+                "fr": "Province de Zamb\u00e9zie",
+                "it": "Provincia di Zambezia",
+                "zh": "\u8d5e\u6bd4\u897f\u4e9a\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -16.5638987,
+            "lng": 36.60939259999998
+        },
+        "T": {
+            "name": "Tete Province",
+            "code": "T",
+            "names": {
+                "geonames": "Tete",
+                "ru": "\u0422\u0435\u0442\u0435",
+                "en": "Tete Province",
+                "de": "Provinz Tete",
+                "es": "Provincia de Tete",
+                "fr": "Province de Tete",
+                "it": "Provincia di Tete",
+                "zh": "\u592a\u7279\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -16.1666667,
+            "lng": 33.60000000000002
+        },
+        "S": {
+            "name": "Sofala Province",
+            "code": "S",
+            "names": {
+                "geonames": "Sofala",
+                "ru": "\u0421\u043e\u0444\u0430\u043b\u0430",
+                "en": "Sofala Province",
+                "de": "Provinz Sofala",
+                "es": "Sofala",
+                "fr": "Province de Sofala",
+                "it": "Provincia di Sofala",
+                "zh": "\u7d22\u6cd5\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -19.2039073,
+            "lng": 34.86241659999996
+        },
+        "A": {
+            "name": "Niassa Province",
+            "code": "A",
+            "names": {
+                "geonames": "Niassa",
+                "ru": "\u041d\u044c\u044f\u0441\u0430",
+                "en": "Niassa Province",
+                "ar": "\u0628\u062d\u064a\u0631\u0629 \u0645\u0627\u0644\u0627\u0648\u064a",
+                "de": "Malawisee",
+                "es": "Lago Malaui",
+                "fr": "Lac Malawi",
+                "it": "Lago Malawi",
+                "zh": "\u9a6c\u62c9\u7ef4\u6e56"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -12.7826202,
+            "lng": 36.60939259999998
+        },
+        "N": {
+            "name": "Nampula Province",
+            "code": "N",
+            "names": {
+                "geonames": "Nampula",
+                "ru": "\u041d\u0430\u043c\u043f\u0443\u043b\u0430",
+                "en": "Nampula Province",
+                "de": "Provinz Nampula",
+                "es": "Provincia de Nampula",
+                "fr": "Province de Nampula",
+                "it": "Provincia di Nampula",
+                "zh": "\u6960\u666e\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -15.1166667,
+            "lng": 39.26666669999997
+        },
+        "L": {
+            "name": "Maputo Province",
+            "code": "L",
+            "names": {
+                "geonames": "Maputo",
+                "ru": "\u041c\u0430\u043f\u0443\u0442\u0443",
+                "de": "Provinz Maputo",
+                "en": "Maputo Province",
+                "es": "Provincia de Maputo",
+                "fr": "Province de Maputo",
+                "it": "Provincia di Maputo",
+                "zh": "\u9a6c\u666e\u6258\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -25.9666667,
+            "lng": 32.58333330000005
+        },
+        "B": {
+            "name": "Manica Province",
+            "code": "B",
+            "names": {
+                "geonames": "Manica",
+                "ru": "\u041c\u0430\u043d\u0438\u043a\u0430",
+                "en": "Manica Province",
+                "de": "Manica",
+                "es": "Manica",
+                "fr": "Province de Manica",
+                "it": "Provincia di Manica",
+                "zh": "\u9a6c\u5c3c\u5361\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -18.9344444,
+            "lng": 32.875555599999984
+        },
+        "I": {
+            "name": "Inhambane Province",
+            "code": "I",
+            "names": {
+                "geonames": "Inhambane",
+                "ru": "\u0418\u043d\u044c\u044f\u043c\u0431\u0430\u043d\u0435",
+                "en": "Inhambane Province",
+                "de": "Provinz Inhambane",
+                "es": "Inhambane",
+                "fr": "Province d'Inhambane",
+                "it": "Provincia di Inhambane",
+                "zh": "\u4f0a\u5c3c\u626c\u5df4\u5185\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -23.873541,
+            "lng": 35.388259999999946
+        },
+        "G": {
+            "name": "Gaza Province",
+            "code": "G",
+            "names": {
+                "geonames": "Gaza",
+                "ru": "\u0413\u0430\u0437\u0430",
+                "en": "Gaza Province",
+                "de": "Provinz Gaza",
+                "es": "Provincia de Gaza",
+                "fr": "Province de Gaza",
+                "it": "Provincia di Gaza",
+                "zh": "\u52a0\u624e\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -23.0221928,
+            "lng": 32.71813750000001
+        },
+        "P": {
+            "name": "Cabo Delgado Province",
+            "code": "P",
+            "names": {
+                "geonames": "Cabo Delgado",
+                "ru": "\u041a\u0430\u0431\u0443-\u0414\u0435\u043b\u0433\u0430\u0434\u0443",
+                "en": "Cabo Delgado Province",
+                "de": "Provinz Cabo Delgado",
+                "es": "Cabo Delgado",
+                "fr": "Province de Cabo Delgado",
+                "it": "Provincia di Cabo Delgado",
+                "zh": "\u5fb7\u5c14\u52a0\u675c\u89d2\u7701"
+            },
+            "division": "province",
+            "parent": "MZ",
+            "lat": -12.3335474,
+            "lng": 39.32062410000003
+        },
+        "MPM": {
+            "name": "Maputo",
+            "code": "MPM",
+            "names": {
+                "geonames": "Maputo City",
+                "en": "Maputo",
+                "ar": "\u0645\u0627\u0628\u0648\u062a\u0648",
+                "de": "Maputo",
+                "es": "Maputo",
+                "fr": "Maputo",
+                "it": "Maputo",
+                "ru": "\u041c\u0430\u043f\u0443\u0442\u0443",
+                "zh": "\u9a6c\u666e\u6258"
+            },
+            "division": "city",
+            "parent": "MZ",
+            "lat": -25.9666667,
+            "lng": 32.58333330000005
+        }
+    }
+}

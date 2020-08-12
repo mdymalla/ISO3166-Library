@@ -1,0 +1,81 @@
+{
+    "alpha-2": "SL",
+    "alpha-3": "SLE",
+    "numeric": 694,
+    "capital": "Freetown",
+    "currency": "SLL",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf8\ud83c\uddf1",
+    "names": {
+        "geonames": "Sierra Leone",
+        "en": "Sierra Leone",
+        "ar": "\u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646",
+        "de": "Sierra Leone",
+        "es": "Sierra Leona",
+        "fr": "Sierra Leone",
+        "it": "Sierra Leone",
+        "ru": "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+        "zh": "\u585e\u62c9\u5229\u6602",
+        "he": "\u05e1\u05d9\u05d9\u05e8\u05d4 \u05dc\u05d0\u05d5\u05df",
+        "hi": "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u092f\u094b\u0928",
+        "ja": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd",
+        "pt": "Serra Leoa"
+    },
+    "ISO3166-2": {
+        "W": {
+            "name": "Western Area",
+            "code": "W",
+            "names": {
+                "geonames": "Western Area",
+                "en": "Western Area",
+                "de": "Western",
+                "es": "\u00c1rea Occidental",
+                "it": "Area Occidentale",
+                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "zh": "\u897f\u90e8\u5340"
+            },
+            "division": "area",
+            "parent": "SL",
+            "lat": 8.484146,
+            "lng": -13.228669999999966
+        },
+        "S": {
+            "name": "Southern Province",
+            "code": "S",
+            "names": {
+                "geonames": "Southern Province",
+                "en": "Southern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 7.7906625,
+            "lng": -11.889172099999996
+        },
+        "N": {
+            "name": "Northern Province",
+            "code": "N",
+            "names": {
+                "geonames": "Northern Province",
+                "en": "Northern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 9.3500888,
+            "lng": -11.70682940000006
+        },
+        "E": {
+            "name": "Eastern Province",
+            "code": "E",
+            "names": {
+                "geonames": "Eastern Province",
+                "en": "Eastern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 8.2473775,
+            "lng": -10.890309900000034
+        }
+    }
+}

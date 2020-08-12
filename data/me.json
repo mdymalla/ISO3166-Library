@@ -1,0 +1,439 @@
+{
+    "alpha-2": "ME",
+    "alpha-3": "MNE",
+    "numeric": 499,
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "languages": [
+        "sr",
+        "bs",
+        "sq",
+        "hr"
+    ],
+    "flag-icon": "\ud83c\uddf2\ud83c\uddea",
+    "names": {
+        "geonames": "Montenegro",
+        "en": "Montenegro",
+        "ar": "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062f",
+        "de": "Montenegro",
+        "es": "Montenegro",
+        "fr": "Mont\u00e9n\u00e9gro",
+        "it": "Montenegro",
+        "ru": "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f",
+        "zh": "\u8499\u7279\u5167\u54e5\u7f85",
+        "he": "\u05de\u05d5\u05e0\u05d8\u05e0\u05d2\u05e8\u05d5",
+        "hi": "\u092e\u0949\u0928\u094d\u091f\u0947\u0928\u0940\u0917\u094d\u0930\u094b",
+        "ja": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
+        "pt": "Montenegro"
+    },
+    "ISO3166-2": {
+        "17": {
+            "name": "Ro\u017eaje Municipality",
+            "code": "17",
+            "names": {
+                "geonames": "Opstina Rozaje",
+                "ru": "\u0420\u043e\u0436\u0430\u0435",
+                "en": "Ro\u017eaje Municipality",
+                "de": "Ro\u017eaje",
+                "es": "Ro\u017eaje",
+                "fr": "Ro\u017eaje",
+                "it": "Ro\u017eaje",
+                "zh": "\u7f85\u624e\u4f0a"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.8442278,
+            "lng": 20.167877800000042
+        },
+        "21": {
+            "name": "\u017dabljak Municipality",
+            "code": "21",
+            "names": {
+                "geonames": "Opstina Zabljak",
+                "ru": "\u0416\u0430\u0431\u043b\u044f\u043a",
+                "en": "\u017dabljak Municipality",
+                "de": "\u017dabljak",
+                "es": "\u017dabljak",
+                "fr": "\u017dabljak",
+                "it": "\u017dabljak",
+                "zh": "\u624e\u5e03\u5229\u4e9e\u514b"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.154541,
+            "lng": 19.12315000000001
+        },
+        "20": {
+            "name": "Ulcinj Municipality",
+            "code": "20",
+            "names": {
+                "geonames": "Ulcinj",
+                "ru": "\u0423\u043b\u0446\u0438\u043d\u044c",
+                "en": "Ulcinj Municipality",
+                "de": "Ulcinj",
+                "es": "Ulcinj",
+                "fr": "Ulcinj",
+                "it": "Dulcigno",
+                "zh": "\u70cf\u723e\u9f4a\u5c3c"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 41.929722,
+            "lng": 19.224290999999994
+        },
+        "19": {
+            "name": "Tivat Municipality",
+            "code": "19",
+            "names": {
+                "geonames": "Tivat",
+                "ru": "\u0422\u0438\u0432\u0430\u0442",
+                "en": "Tivat Municipality",
+                "de": "Tivat",
+                "es": "Tivat",
+                "fr": "Tivat",
+                "it": "Teodo",
+                "zh": "\u8482\u74e6\u7279"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.431877,
+            "lng": 18.71126700000002
+        },
+        "16": {
+            "name": "Podgorica Municipality",
+            "code": "16",
+            "names": {
+                "geonames": "Podgorica",
+                "ru": "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430",
+                "en": "Podgorica Municipality",
+                "ar": "\u0628\u0648\u062f\u063a\u0648\u0631\u064a\u062a\u0633\u0627",
+                "de": "Podgorica",
+                "es": "Podgorica",
+                "fr": "Podgorica",
+                "it": "Podgorica",
+                "zh": "\u6ce2\u5fb7\u6208\u91cc\u5bdf"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.442575,
+            "lng": 19.26864599999999
+        },
+        "18": {
+            "name": "\u0160avnik Municipality",
+            "code": "18",
+            "names": {
+                "geonames": "Opstina Savnik",
+                "ru": "\u0428\u0430\u0432\u043d\u0438\u043a",
+                "en": "\u0160avnik Municipality",
+                "de": "\u0160avnik",
+                "es": "\u0160avnik",
+                "fr": "\u0160avnik",
+                "it": "\u0160avnik",
+                "zh": "\u6c99\u592b\u5c3c\u514b"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.9577803,
+            "lng": 19.094362700000033
+        },
+        "15": {
+            "name": "Plu\u017eine Municipality",
+            "code": "15",
+            "names": {
+                "geonames": "Opstina Pluzine",
+                "ru": "\u041f\u043b\u0443\u0436\u0438\u043d\u0435",
+                "en": "Plu\u017eine Municipality",
+                "de": "Plu\u017eine",
+                "es": "Plu\u017eine",
+                "fr": "Plu\u017eine",
+                "it": "Plu\u017eine",
+                "zh": "\u666e\u76e7\u65e5\u5167"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.1541366,
+            "lng": 18.841037599999936
+        },
+        "14": {
+            "name": "Pljevlja Municipality",
+            "code": "14",
+            "names": {
+                "geonames": "Pljevlja",
+                "ru": "\u041f\u043b\u0435\u0432\u043b\u044f",
+                "en": "Pljevlja Municipality",
+                "de": "Pljevlja",
+                "es": "Pljevlja",
+                "fr": "Pljevlja",
+                "it": "Pljevlja",
+                "zh": "\u666e\u5217\u592b\u5229\u4e9e"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.36,
+            "lng": 19.360000000000014
+        },
+        "13": {
+            "name": "Plav Municipality",
+            "code": "13",
+            "names": {
+                "geonames": "Opstina Plav",
+                "ru": "\u041f\u043b\u0430\u0432",
+                "en": "Plav Municipality",
+                "de": "Plav",
+                "es": "Plav",
+                "fr": "Plav",
+                "it": "Plav",
+                "zh": "\u666e\u62c9\u592b"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.5955556,
+            "lng": 19.944999999999936
+        },
+        "12": {
+            "name": "Nik\u0161i\u0107 Municipality",
+            "code": "12",
+            "names": {
+                "geonames": "Opstina Niksic",
+                "ru": "\u041d\u0438\u043a\u0448\u0438\u0447",
+                "en": "Nik\u0161i\u0107 Municipality",
+                "ar": "\u0646\u064a\u0643\u0634\u064a\u062a\u0634",
+                "de": "Nik\u0161i\u0107",
+                "es": "Nik\u0161i\u0107",
+                "fr": "Nik\u0161i\u0107",
+                "it": "Nik\u0161i\u0107",
+                "zh": "\u5c3c\u514b\u5e0c\u5947"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.773281,
+            "lng": 18.94416000000001
+        },
+        "11": {
+            "name": "Mojkovac Municipality",
+            "code": "11",
+            "names": {
+                "geonames": "Mojkovac",
+                "ru": "\u041c\u043e\u0439\u043a\u043e\u0432\u0430\u0446",
+                "en": "Mojkovac Municipality",
+                "de": "Mojkovac",
+                "es": "Mojkovac",
+                "fr": "Mojkovac",
+                "it": "Mojkovac",
+                "zh": "\u83ab\u4f0a\u79d1\u74e6\u8328"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.96,
+            "lng": 19.579999999999927
+        },
+        "10": {
+            "name": "Kotor Municipality",
+            "code": "10",
+            "names": {
+                "geonames": "Kotor",
+                "ru": "\u041a\u043e\u0442\u043e\u0440",
+                "en": "Kotor Municipality",
+                "de": "Kotor",
+                "es": "Kotor",
+                "fr": "Kotor",
+                "it": "Cattaro",
+                "zh": "\u79d1\u6258\u723e"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.4211357,
+            "lng": 18.767521399999964
+        },
+        "09": {
+            "name": "Kola\u0161in Municipality",
+            "code": "09",
+            "names": {
+                "geonames": "Opstina Kolasin",
+                "ru": "\u041a\u043e\u043b\u0430\u0448\u0438\u043d",
+                "en": "Kola\u0161in Municipality",
+                "de": "Kola\u0161in",
+                "es": "Kola\u0161in",
+                "fr": "Kola\u0161in",
+                "it": "Kola\u0161in",
+                "zh": "\u79d1\u62c9\u6b23"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.822606,
+            "lng": 19.51643899999999
+        },
+        "03": {
+            "name": "Berane Municipality",
+            "code": "03",
+            "names": {
+                "geonames": "Berane",
+                "ru": "\u0411\u0435\u0440\u0430\u043d\u0435",
+                "en": "Berane Municipality",
+                "ar": "\u0628\u0631\u0627\u0646\u064a",
+                "de": "Berane",
+                "es": "Berane",
+                "fr": "Berane",
+                "it": "Berane",
+                "zh": "\u8c9d\u62c9\u5167"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.8472722,
+            "lng": 19.86941390000004
+        },
+        "08": {
+            "name": "Herceg Novi",
+            "code": "08",
+            "names": {
+                "geonames": "Herceg Novi",
+                "ru": "\u0425\u0435\u0440\u0446\u0435\u0433-\u041d\u043e\u0432\u0438",
+                "en": "Herceg Novi",
+                "de": "Herceg Novi",
+                "es": "Herceg Novi",
+                "fr": "Herceg Novi",
+                "it": "Castelnuovo",
+                "zh": "\u65b0\u6d77\u5c14\u91c7\u683c"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.45295,
+            "lng": 18.53144999999995
+        },
+        "07": {
+            "name": "Danilovgrad Municipality",
+            "code": "07",
+            "names": {
+                "geonames": "Danilovgrad",
+                "ru": "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u0433\u0440\u0430\u0434",
+                "en": "Danilovgrad Municipality",
+                "de": "Danilovgrad",
+                "es": "Danilovgrad",
+                "fr": "Danilovgrad",
+                "it": "Danilovgrad",
+                "zh": "\u9054\u5c3c\u6d1b\u592b\u683c\u52d2"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.55566,
+            "lng": 19.105708999999933
+        },
+        "06": {
+            "name": "Cetinje Municipality",
+            "code": "06",
+            "names": {
+                "geonames": "Cetinje",
+                "ru": "\u0426\u0435\u0442\u0438\u043d\u0435",
+                "en": "Cetinje Municipality",
+                "ar": "\u0633\u062a\u0646\u064a\u064a",
+                "de": "Cetinje",
+                "es": "Ceti\u00f1a",
+                "fr": "Cetinje",
+                "it": "Cettigne",
+                "zh": "\u91c7\u8482\u6d85"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.390888,
+            "lng": 18.913980000000038
+        },
+        "05": {
+            "name": "Budva Municipality",
+            "code": "05",
+            "names": {
+                "geonames": "Budva",
+                "ru": "\u0411\u0443\u0434\u0432\u0430",
+                "en": "Budva Municipality",
+                "de": "Budva",
+                "es": "Budva",
+                "fr": "Budva",
+                "it": "Budua",
+                "zh": "\u5e03\u5fb7\u74e6"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.2880556,
+            "lng": 18.842499999999973
+        },
+        "04": {
+            "name": "Bijelo Polje Municipality",
+            "code": "04",
+            "names": {
+                "geonames": "Bijelo Polje",
+                "ru": "\u0411\u0438\u0435\u043b\u043e-\u041f\u043e\u043b\u0435",
+                "en": "Bijelo Polje Municipality",
+                "ar": "\u0628\u064a\u064a\u0644\u0648 \u0628\u0648\u0644\u064a\u064a",
+                "de": "Bijelo Polje",
+                "es": "Bijelo Polje",
+                "fr": "Bijelo Polje",
+                "it": "Bijelo Polje",
+                "zh": "\u6bd4\u8036\u6d1b\u6ce2\u5217"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 43.037708,
+            "lng": 19.747930999999994
+        },
+        "02": {
+            "name": "Bar Municipality",
+            "code": "02",
+            "names": {
+                "geonames": "Bar",
+                "ru": "\u0411\u0430\u0440",
+                "en": "Bar Municipality",
+                "ar": "\u0628\u0627\u0631\u060c \u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062f",
+                "de": "Bar",
+                "es": "Bar",
+                "fr": "Bar",
+                "it": "Antivari",
+                "zh": "\u5df4\u5c14"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.1,
+            "lng": 19.100000000000023
+        },
+        "01": {
+            "name": "Andrijevica Municipality",
+            "code": "01",
+            "names": {
+                "geonames": "Andrijevica",
+                "ru": "\u0410\u043d\u0434\u0440\u0438\u0435\u0432\u0438\u0446\u0430",
+                "en": "Andrijevica Municipality",
+                "de": "Andrijevica",
+                "es": "Andrijevica",
+                "fr": "Andrijevica",
+                "zh": "\u5b89\u5fb7\u91cc\u8036\u7dad\u5bdf",
+                "it": "Andrijevica"
+            },
+            "division": "municipality",
+            "parent": "ME",
+            "lat": 42.7338889,
+            "lng": 19.791944400000034
+        },
+        "22": {
+            "name": "Gusinje",
+            "code": "22",
+            "names": {
+                "geonames": "Gusinje",
+                "en": "Gusinje"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "23": {
+            "name": "Petnjica",
+            "code": "23",
+            "names": {
+                "geonames": "Petnjica",
+                "en": "Petnjica"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

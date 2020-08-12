@@ -1,0 +1,425 @@
+{
+    "alpha-2": "HR",
+    "alpha-3": "HRV",
+    "numeric": 191,
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "languages": [
+        "hr"
+    ],
+    "flag-icon": "\ud83c\udded\ud83c\uddf7",
+    "names": {
+        "geonames": "Croatia",
+        "en": "Croatia",
+        "ar": "\u0643\u0631\u0648\u0627\u062a\u064a\u0627",
+        "de": "Kroatien",
+        "es": "Croacia",
+        "fr": "Croatie",
+        "it": "Croazia",
+        "ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+        "zh": "\u514b\u7f57\u5730\u4e9a",
+        "he": "\u05e7\u05e8\u05d5\u05d0\u05d8\u05d9\u05d4",
+        "hi": "\u0915\u094d\u0930\u094b\u090f\u0936\u093f\u092f\u093e",
+        "ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
+        "pt": "Cro\u00e1cia"
+    },
+    "ISO3166-2": {
+        "07": {
+            "name": "Bjelovar-Bilogora County",
+            "code": "07",
+            "names": {
+                "geonames": "Bjelovarsko-Bilogorska",
+                "ru": "\u0411\u0435\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u043e-\u0411\u0438\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Bjelovar-Bilogora County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0644\u0648\u0641\u0627\u0631-\u0628\u064a\u0644\u0648\u063a\u0648\u0631\u0627",
+                "de": "Gespanschaft Bjelovar-Bilogora",
+                "es": "Condado de Bjelovar-Bilogora",
+                "fr": "Comitat de Bjelovar-Bilogora",
+                "it": "Regione di Bjelovar e della Bilogora",
+                "zh": "\u5225\u6d1b\u74e6\u723e-\u6bd4\u6d1b\u6208\u62c9\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.8961969,
+            "lng": 16.844369099999994
+        },
+        "12": {
+            "name": "Brod-Posavina County",
+            "code": "12",
+            "names": {
+                "geonames": "Slavonski Brod-Posavina",
+                "ru": "\u0411\u0440\u043e\u0434\u0441\u043a\u043e-\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Brod-Posavina County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u0648\u062f-\u0628\u0648\u0633\u0627\u0641\u064a\u0646\u0627",
+                "de": "Gespanschaft Brod-Posavina",
+                "es": "Condado de Brod-Posavina",
+                "fr": "Comitat de Brod-Posavina",
+                "it": "Regione di Brod e della Posavina",
+                "zh": "\u5e03\u7f85\u5fb7-\u6ce2\u85a9\u7dad\u7d0d\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.1552642,
+            "lng": 17.996791099999996
+        },
+        "19": {
+            "name": "Dubrovnik-Neretva County",
+            "code": "19",
+            "names": {
+                "geonames": "Dubrovacko-Neretvanska",
+                "ru": "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u043a\u043e-\u041d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Dubrovnik-Neretva County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0628\u0631\u0648\u0641\u0646\u064a\u0643-\u0646\u064a\u0631\u064a\u062a\u0641\u0627",
+                "de": "Gespanschaft Dubrovnik-Neretva",
+                "es": "Condado de Dubrovnik-Neretva",
+                "fr": "Comitat de Dubrovnik-Neretva",
+                "it": "Regione raguseo-narentana",
+                "zh": "\u675c\u5e03\u7f85\u592b\u5c3c\u514b-\u5167\u96f7\u7279\u74e6\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 43.0766588,
+            "lng": 17.52684709999994
+        },
+        "18": {
+            "name": "Istria County",
+            "code": "18",
+            "names": {
+                "geonames": "Istarska",
+                "ru": "\u0418\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Istria County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0633\u062a\u0631\u064a\u0627",
+                "de": "Gespanschaft Istrien",
+                "es": "Condado de Istria",
+                "fr": "Comitat d'Istrie",
+                "it": "Regione istriana",
+                "zh": "\u4f0a\u65af\u7279\u62c9\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.1286455,
+            "lng": 13.901542000000063
+        },
+        "04": {
+            "name": "Karlovac County",
+            "code": "04",
+            "names": {
+                "geonames": "Karlovacka",
+                "ru": "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0446\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Karlovac County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0631\u0644\u0648\u0641\u0627\u062a\u0634",
+                "de": "Gespanschaft Karlovac",
+                "es": "Condado de Karlovac",
+                "fr": "Comitat de Karlovac",
+                "it": "Regione di Karlovac",
+                "zh": "\u5361\u723e\u6d1b\u74e6\u8328\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.2389445,
+            "lng": 15.398006699999996
+        },
+        "06": {
+            "name": "Koprivnica-Kri\u017eevci County",
+            "code": "06",
+            "names": {
+                "geonames": "Koprivnicko-Krizevacka",
+                "ru": "\u041a\u043e\u043f\u0440\u0438\u0432\u043d\u0438\u0446\u043a\u043e-\u041a\u0440\u0438\u0436\u0435\u0432\u0430\u0446\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Koprivnica-Kri\u017eevci County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0628\u0631\u064a\u0641\u0646\u064a\u0643\u0627-\u0643\u0631\u064a\u0632\u0641\u062a\u0633\u064a",
+                "de": "Gespanschaft Koprivnica-Kri\u017eevci",
+                "es": "Condado de Koprivnica-Kri\u017eevci",
+                "fr": "Comitat de Koprivnica-Kri\u017eevci",
+                "it": "Regione di Koprivnica e Kri\u017eevci",
+                "zh": "\u79d1\u666e\u91cc\u592b\u5c3c\u5bdf-\u514b\u91cc\u71b1\u592b\u9f4a\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 46.1568919,
+            "lng": 16.839082599999983
+        },
+        "02": {
+            "name": "Krapina-Zagorje County",
+            "code": "02",
+            "names": {
+                "geonames": "Krapinsko-Zagorska",
+                "ru": "\u041a\u0440\u0430\u043f\u0438\u043d\u0441\u043a\u043e-\u0417\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Krapina-Zagorje County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0631\u0627\u0628\u064a\u0646\u0627 \u0632\u0627\u063a\u0648\u0631\u064a\u0647",
+                "de": "Gespanschaft Krapina-Zagorje",
+                "es": "Condado de Krapina-Zagorje",
+                "fr": "Comitat de Krapina-Zagorje",
+                "it": "Regione di Krapina e dello Zagorje",
+                "zh": "\u514b\u62c9\u76ae\u7d0d-\u624e\u6208\u5217\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 46.1013393,
+            "lng": 15.88096930000006
+        },
+        "09": {
+            "name": "Lika-Senj County",
+            "code": "09",
+            "names": {
+                "geonames": "Licko-Senjska",
+                "ru": "\u041b\u0438\u0446\u043a\u043e-\u0421\u0435\u043d\u044c\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Lika-Senj County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u0643\u0627 \u0633\u0646\u064a",
+                "de": "Gespanschaft Lika-Senj",
+                "es": "Condado de Lika-Senj",
+                "fr": "Comitat de Lika-Senj",
+                "it": "Regione della Lika e di Segna",
+                "zh": "\u5229\u5361-\u585e\u5c3c\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 44.6192218,
+            "lng": 15.47016080000003
+        },
+        "20": {
+            "name": "Me\u0111imurje County",
+            "code": "20",
+            "names": {
+                "geonames": "Medimurska",
+                "ru": "\u041c\u0435\u0434\u0436\u0443\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Me\u0111imurje County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u062c\u064a\u0645\u0648\u0631\u064a\u0647",
+                "de": "Gespanschaft Me\u0111imurje",
+                "es": "Condado de Me\u0111imurje",
+                "fr": "Comitat de Me\u0111imurje",
+                "it": "Regione del Me\u0111imurje",
+                "zh": "\u6885\u5409\u7a46\u5217\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 46.3430507,
+            "lng": 16.592248299999937
+        },
+        "14": {
+            "name": "Osijek-Baranja County",
+            "code": "14",
+            "names": {
+                "geonames": "Osjecko-Baranjska",
+                "ru": "\u041e\u0441\u0438\u0435\u0446\u043a\u043e-\u0411\u0430\u0440\u0430\u043d\u044c\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Osijek-Baranja County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\ufffd\ufffd \u0623\u0648\u0633\u064a\u064a\u0643-\u0628\u0627\u0631\u0627\u0646\u064a\u0627",
+                "de": "Gespanschaft Osijek-Baranja",
+                "es": "Condado de Osijek-Baranja",
+                "fr": "Comitat d'Osijek-Baranja",
+                "it": "Regione di Osijek e della Baranja",
+                "zh": "\u5967\u897f\u8036\u514b-\u5df4\u62c9\u5c3c\u4e9e\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.5576428,
+            "lng": 18.3942141
+        },
+        "11": {
+            "name": "Po\u017eega-Slavonia County",
+            "code": "11",
+            "names": {
+                "geonames": "Pozesko-Slavonska",
+                "ru": "\u041f\u043e\u0436\u0435\u0436\u0441\u043a\u043e-\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Po\u017eega-Slavonia County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0632\u064a\u063a\u0627-\u0633\u0644\u0627\u0641\u0648\u0646\u064a\u0627",
+                "de": "Gespanschaft Po\u017eega-Slawonien",
+                "es": "Condado de Po\u017eega-Eslavonia",
+                "fr": "Comitat de Po\u017eega-Slavonie",
+                "it": "Regione di Po\u017eega e della Slavonia",
+                "zh": "\u6ce2\u71b1\u52a0-\u65af\u62c9\u6c83\u5c3c\u4e9e\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.3417868,
+            "lng": 17.811435899999992
+        },
+        "08": {
+            "name": "Primorje-Gorski Kotar County",
+            "code": "08",
+            "names": {
+                "geonames": "Primorsko-Goranska",
+                "ru": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e-\u0413\u043e\u0440\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Primorje-Gorski Kotar County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u064a\u0645\u0648\u0631\u064a\u0647-\u063a\u0648\u0631\u0633\u0643\u064a \u0643\u0648\u062a\u0627\u0631",
+                "de": "Gespanschaft Primorje-Gorski kotar",
+                "es": "Condado de Primorje-Gorski Kotar",
+                "fr": "Comitat de Primorje-Gorski Kotar",
+                "it": "Regione litoraneo-montana",
+                "zh": "\u6ff1\u6d77\u548c\u5c71\u5340\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": null,
+            "lng": null
+        },
+        "15": {
+            "name": "\u0160ibenik-Knin County",
+            "code": "15",
+            "names": {
+                "geonames": "Sibensko-Kniniska",
+                "ru": "\u0428\u0438\u0431\u0435\u043d\u0441\u043a\u043e-\u041a\u043d\u0438\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "\u0160ibenik-Knin County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0628\u064a\u0646\u064a\u0643-\u0643\u0646\u064a\u0646",
+                "de": "Gespanschaft \u0160ibenik-Knin",
+                "es": "Condado de \u0160ibenik-Knin",
+                "fr": "Comitat de \u0160ibenik-Knin",
+                "it": "Regione di Sebenico e Tenin",
+                "zh": "\u5e0c\u8c9d\u5c3c\u514b-\u514b\u5be7\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 43.9281485,
+            "lng": 16.103769400000033
+        },
+        "03": {
+            "name": "Sisak-Moslavina County",
+            "code": "03",
+            "names": {
+                "geonames": "Sisacko-Moslavacka",
+                "ru": "\u0421\u0438\u0441\u0430\u0446\u043a\u043e-\u041c\u043e\u0441\u043b\u0430\u0432\u0438\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Sisak-Moslavina County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u064a\u0633\u0627\u0643-\u0645\u0648\u0633\u0644\u0627\u0641\u064a\u0646\u0627",
+                "de": "Gespanschaft Sisak-Moslavina",
+                "es": "Condado de Sisak-Moslavina",
+                "fr": "Comitat de Sisak-Moslavina",
+                "it": "Regione di Sisak e della Moslavina",
+                "zh": "\u932b\u85a9\u514b-\u83ab\u65af\u62c9\u7dad\u7d0d\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.3837926,
+            "lng": 16.538099500000044
+        },
+        "17": {
+            "name": "Split-Dalmatia County",
+            "code": "17",
+            "names": {
+                "geonames": "Splitsko-Dalmatinska",
+                "ru": "\u0421\u043f\u043b\u0438\u0442\u0441\u043a\u043e-\u0414\u0430\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Split-Dalmatia County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0628\u0644\u064a\u062a-\u062f\u0627\u0644\u0645\u0627\u0633\u064a\u0627",
+                "de": "Gespanschaft Split-Dalmatien",
+                "es": "Condado de Split-Dalmacia",
+                "fr": "Comitat de Split-Dalmatie",
+                "it": "Regione spalatino-dalmata",
+                "zh": "\u65af\u666e\u5229\u7279-\u9054\u723e\u99ac\u63d0\u4e9e\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 43.5240328,
+            "lng": 16.817837699999927
+        },
+        "05": {
+            "name": "Vara\u017edin County",
+            "code": "05",
+            "names": {
+                "geonames": "Varazdinska",
+                "ru": "\u0412\u0430\u0440\u0430\u0436\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Vara\u017edin County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0631\u0627\u0632\u062f\u064a\u0646",
+                "es": "Condado de Vara\u017edin",
+                "it": "Regione di Vara\u017edin",
+                "zh": "\u74e6\u62c9\u65e5\u4e01\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 46.2317473,
+            "lng": 16.33605579999994
+        },
+        "16": {
+            "name": "Vukovar-Syrmia County",
+            "code": "16",
+            "names": {
+                "geonames": "Vukovar-Sirmium",
+                "ru": "\u0412\u0443\u043a\u043e\u0432\u0430\u0440\u0441\u043a\u043e-\u0421\u0440\u0435\u043c\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Vukovar-Syrmia County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u0643\u0648\u0641\u0627\u0631-\u0633\u064a\u0631\u0645\u064a\u0627",
+                "de": "Gespanschaft Vukovar-Srijem",
+                "es": "Condado de Vukovar-Sirmia",
+                "fr": "Comitat de Vukovar-Syrmie",
+                "it": "Regione di Vukovar e della Sirmia",
+                "zh": "\u6b66\u79d1\u74e6\u723e-\u65af\u91cc\u8036\u59c6\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.1773552,
+            "lng": 18.805352699999958
+        },
+        "13": {
+            "name": "Zadar County",
+            "code": "13",
+            "names": {
+                "geonames": "Zadarska",
+                "ru": "\u0417\u0430\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Zadar County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u062f\u0627\u0631",
+                "de": "Gespanschaft Zadar",
+                "es": "Condado de Zadar",
+                "fr": "Comitat de Zadar",
+                "it": "Regione zaratina",
+                "zh": "\u624e\u9054\u723e\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 44.1318273,
+            "lng": 15.455696200000034
+        },
+        "01": {
+            "name": "Zagreb County",
+            "code": "01",
+            "names": {
+                "geonames": "Zagrebacka",
+                "ru": "\u0417\u0430\u0433\u0440\u0435\u0431\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Zagreb County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u063a\u0631\u0628",
+                "de": "Gespanschaft Zagreb",
+                "es": "Condado de Zagreb",
+                "fr": "Comitat de Zagreb",
+                "it": "Regione di Zagabria",
+                "zh": "\u85a9\u683c\u52d2\u5e03\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.8706612,
+            "lng": 16.395490999999993
+        },
+        "21": {
+            "name": "Zagreb",
+            "code": "21",
+            "names": {
+                "geonames": "City of Zagreb",
+                "ru": "\u0417\u0430\u0433\u0440\u0435\u0431",
+                "en": "Zagreb",
+                "ar": "\u0632\u063a\u0631\u0628",
+                "de": "Zagreb",
+                "es": "Zagreb",
+                "fr": "Zagreb",
+                "it": "Zagabria",
+                "zh": "\u8428\u683c\u52d2\u5e03"
+            },
+            "division": "city",
+            "parent": "HR",
+            "lat": 45.814912,
+            "lng": 15.97851449999996
+        },
+        "10": {
+            "name": "Virovitica-Podravina County",
+            "code": "10",
+            "names": {
+                "geonames": "Virovitick-Podravska",
+                "ru": "\u0412\u0438\u0440\u043e\u0432\u0438\u0442\u0438\u0446\u043a\u043e-\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f",
+                "en": "Virovitica-Podravina County",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u0631\u0648\u0641\u064a\u062a\u064a\u0643\u0627-\u0628\u0648\u062f\u0631\u0627\u0641\u064a\u0646\u0627",
+                "de": "Gespanschaft Virovitica-Podravina",
+                "es": "Condado de Virovitica-Podravina",
+                "fr": "Comitat de Virovitica-Podravina",
+                "it": "Regione di Varaviza e della Podravina",
+                "zh": "\u7dad\u7f85\u7dad\u8482\u5bdf-\u6ce2\u5fb7\u62c9\u7dad\u7d0d\u7e23"
+            },
+            "division": "county",
+            "parent": "HR",
+            "lat": 45.6557985,
+            "lng": 17.793247199999996
+        }
+    }
+}

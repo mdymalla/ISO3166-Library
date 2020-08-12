@@ -1,0 +1,427 @@
+{
+    "alpha-2": "YE",
+    "alpha-3": "YEM",
+    "numeric": 887,
+    "capital": "Sana'a",
+    "currency": "YER",
+    "languages": [
+        "ar"
+    ],
+    "flag-icon": "\ud83c\uddfe\ud83c\uddea",
+    "names": {
+        "geonames": "Yemen",
+        "ar": "\u0627\u0644\u064a\u0645\u0646",
+        "de": "Jemen",
+        "en": "Yemen",
+        "es": "Yemen",
+        "fr": "Y\u00e9men",
+        "it": "Yemen",
+        "ru": "\u0419\u0435\u043c\u0435\u043d",
+        "zh": "\u4e5f\u95e8",
+        "he": "\u05ea\u05d9\u05de\u05df",
+        "hi": "\u092f\u092e\u0928",
+        "ja": "\u30a4\u30a8\u30e1\u30f3",
+        "pt": "I\u00e9men"
+    },
+    "ISO3166-2": {
+        "TA": {
+            "name": "Ta'izz Governorate",
+            "code": "TA",
+            "names": {
+                "geonames": "Ta'izz",
+                "ru": "\u0422\u0430\u0438\u0437",
+                "en": "Ta'izz Governorate",
+                "ar": "\u062a\u0639\u0632",
+                "de": "Gouvernement Ta'izz",
+                "es": "Gobernaci\u00f3n de Ta'izz",
+                "fr": "Gouvernorat de Ta'izz",
+                "it": "Governatorato di Ta'izz",
+                "zh": "\u5854\u4f0a\u8332\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 13.685553,
+            "lng": 44.13434600000005
+        },
+        "SH": {
+            "name": "Shabwah Governorate",
+            "code": "SH",
+            "names": {
+                "geonames": "Shabwah",
+                "ru": "\u0428\u0430\u0431\u0432\u0430",
+                "en": "Shabwah Governorate",
+                "ar": "\u0634\u0628\u0648\u0629",
+                "de": "Gouvernement Schabwa",
+                "es": "Gobernaci\u00f3n de Shabwah",
+                "fr": "Shabwah",
+                "it": "Governatorato di Shabwa",
+                "zh": "\u820d\u535c\u6c83\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 15.3690262,
+            "lng": 47.02729260000001
+        },
+        "SA": {
+            "name": "Amanat Al Asimah",
+            "code": "SA",
+            "names": {
+                "geonames": "Amanat Al Asimah",
+                "ru": "\u0421\u0430\u043d\u0430",
+                "en": "Sana'a",
+                "ar": "\u0635\u0646\u0639\u0627\u0621",
+                "de": "Sanaa",
+                "es": "San\u00e1",
+                "fr": "Sanaa",
+                "it": "San'a'",
+                "zh": "\u8428\u90a3"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SD": {
+            "name": "Saada Governorate",
+            "code": "SD",
+            "names": {
+                "geonames": "Sa'dah",
+                "ru": "\u0421\u0430\u0430\u0434\u0430",
+                "en": "Saada Governorate",
+                "ar": "\u0635\u0639\u062f\u0629",
+                "de": "Gouvernement Sa'da",
+                "es": "Gobernaci\u00f3n de Sa'dah",
+                "fr": "Gouvernorat de Sa'dah",
+                "it": "Governatorato di Sa'da",
+                "zh": "\u8428\u8fbe\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "RA": {
+            "name": "Raymah Governorate",
+            "code": "RA",
+            "names": {
+                "geonames": "Raymah",
+                "ru": "\u0420\u0430\u0439\u043c\u0430",
+                "en": "Raymah Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u064a\u0645\u0629",
+                "de": "Gouvernement Raima",
+                "es": "Gobernaci\u00f3n de Raymah",
+                "fr": "Gouvernorat de Raima",
+                "it": "Governatorato di Rayma",
+                "zh": "\u8d56\u9a6c\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "MA": {
+            "name": "Ma'rib Governorate",
+            "code": "MA",
+            "names": {
+                "geonames": "Ma'rib",
+                "ru": "\u041c\u0430\u0440\u0438\u0431",
+                "en": "Ma'rib Governorate",
+                "ar": "\u0645\u0623\u0631\u0628",
+                "de": "Gouvernement Ma'rib",
+                "es": "Gobernaci\u00f3n de Mareb",
+                "fr": "Gouvernorat de Ma'rib",
+                "it": "Governatorato di Ma'rib",
+                "zh": "\u9a6c\u91cc\u535c\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 15.4700312,
+            "lng": 45.322857500000055
+        },
+        "MW": {
+            "name": "Al Mahwit Governorate",
+            "code": "MW",
+            "names": {
+                "geonames": "Al Mahwit",
+                "ru": "\u041c\u0430\u0445\u0432\u0438\u0442",
+                "en": "Al Mahwit Governorate",
+                "ar": "\u0627\u0644\u0645\u062d\u0648\u064a\u062a",
+                "de": "Gouvernement al-Mahwit",
+                "es": "Gobernaci\u00f3n de Al Mahwit",
+                "fr": "Gouvernorat d'Al Mahwit",
+                "it": "Governatorato di al-Mahwit",
+                "zh": "\u8fc8\u8d6b\u7ef4\u7279\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "JA": {
+            "name": "Al Jawf",
+            "code": "JA",
+            "names": {
+                "geonames": "Al Jawf",
+                "en": "Al Jawf"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "HD": {
+            "name": "Hadhramaut Governorate",
+            "code": "HD",
+            "names": {
+                "geonames": "Muhafazat Hadramawt",
+                "ru": "\u0425\u0430\u0434\u0440\u0430\u043c\u0430\u0443\u0442",
+                "en": "Hadhramaut Governorate",
+                "ar": "\u062d\u0636\u0631\u0645\u0648\u062a",
+                "de": "Gouvernement Hadramaut",
+                "es": "Gobernaci\u00f3n de Hadramaut",
+                "fr": "Gouvernorat de l\u2019Hadramaout",
+                "it": "Governatorato di Hadramawt",
+                "zh": "\u54c8\u5fb7\u62c9\u6bdb\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "DH": {
+            "name": "Dhamar Governorate",
+            "code": "DH",
+            "names": {
+                "geonames": "Dhamar",
+                "ru": "\u0414\u0430\u043c\u0430\u0440",
+                "en": "Dhamar Governorate",
+                "ar": "\u0630\u0645\u0627\u0631",
+                "de": "Gouvernement Dhamar",
+                "es": "Gobernaci\u00f3n de Dhamar",
+                "fr": "Gouvernorat de Dhamar",
+                "it": "Governatorato di Dhamar",
+                "zh": "\u624e\u739b\u5c14\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "MR": {
+            "name": "Al Mahrah Governorate",
+            "code": "MR",
+            "names": {
+                "geonames": "Al Mahrah",
+                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0445\u0440\u0430",
+                "en": "Al Mahrah Governorate",
+                "ar": "\u0627\u0644\u0645\u0647\u0631\u0629",
+                "de": "Gouvernement al-Mahra",
+                "es": "Gobernaci\u00f3n de Al Mahrah",
+                "fr": "Mahra",
+                "it": "Governatorato di al-Mahra",
+                "zh": "\u9a6c\u54c8\u62c9\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "HU": {
+            "name": "Al Hudaydah Governorate",
+            "code": "HU",
+            "names": {
+                "geonames": "Al Hudaydah",
+                "ru": "\u0425\u043e\u0434\u0435\u0439\u0434\u0430",
+                "en": "Al Hudaydah Governorate",
+                "ar": "\u0627\u0644\u062d\u062f\u064a\u062f\u0629",
+                "de": "Gouvernement al-Hudaida",
+                "es": "Gobernaci\u00f3n de Al Hudayda",
+                "fr": "Gouvernorat d'Al Hudaydah",
+                "it": "Governatorato di al-Hudayda",
+                "zh": "\u8377\u53f0\u8fbe\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "BA": {
+            "name": "Al Bayda' Governorate",
+            "code": "BA",
+            "names": {
+                "geonames": "Al Bayda Governorate",
+                "ru": "\u042d\u043b\u044c-\u0411\u0435\u0439\u0434\u0430",
+                "en": "Al Bayda' Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621",
+                "de": "Gouvernement al-Baida'",
+                "es": "Gobernaci\u00f3n de Al Bayda'",
+                "fr": "Gouvernorat d'Al Bayda'",
+                "it": "Governatorato di al-Bayda'",
+                "zh": "\u8d1d\u8fbe\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 33.5942606,
+            "lng": -7.587060299999962
+        },
+        "AD": {
+            "name": "'Adan Governorate",
+            "code": "AD",
+            "names": {
+                "geonames": "Aden",
+                "ru": "\u0410\u0434\u0435\u043d",
+                "en": "'Adan Governorate",
+                "ar": "\u0639\u062f\u0646",
+                "de": "Gouvernement Adan",
+                "es": "Gobernaci\u00f3n de 'Adan",
+                "fr": "Gouvernorat d\u2019Aden",
+                "it": "Governatorato di 'Adan",
+                "zh": "\u4e9e\u4e01\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 12.8,
+            "lng": 45.03333329999998
+        },
+        "AB": {
+            "name": "Abyan Governorate",
+            "code": "AB",
+            "names": {
+                "geonames": "Abyan",
+                "ru": "\u0410\u0431\u044c\u044f\u043d",
+                "en": "Abyan Governorate",
+                "ar": "\u0623\u0628\u064a\u0646",
+                "de": "Gouvernement Abyan",
+                "es": "Gobernaci\u00f3n de Abyan",
+                "fr": "Gouvernorat d'Abyan",
+                "it": "Governatorato di Abyan",
+                "zh": "\u963f\u6bd4\u626c\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 13.7166667,
+            "lng": 45.39999999999998
+        },
+        "DA": {
+            "name": "Ad Dali' Governorate",
+            "code": "DA",
+            "names": {
+                "geonames": "Ad Dali'",
+                "ru": "\u042d\u0434-\u0414\u0430\u043b\u0438",
+                "en": "Ad Dali' Governorate",
+                "ar": "\u0627\u0644\u0636\u0627\u0644\u0639",
+                "de": "Gouvernement ad-Dali'",
+                "es": "Gobernaci\u00f3n de Ad Dali'",
+                "fr": "Gouvernorat d'Ad Dali'",
+                "it": "Governatorato di al-Dali'",
+                "zh": "\u8fbe\u5229\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "AM": {
+            "name": "'Amran Governorate",
+            "code": "AM",
+            "names": {
+                "geonames": "Omran",
+                "ru": "\u0410\u043c\u0440\u0430\u043d",
+                "en": "'Amran Governorate",
+                "ar": "\u0639\u0645\u0631\u0627\u0646",
+                "de": "Gouvernement \u02bfAmr\u0101n",
+                "es": "Gobernaci\u00f3n de 'Amran",
+                "fr": "Gouvernorat d'Amran",
+                "it": "Governatorato di 'Amran",
+                "zh": "\u963f\u59c6\u862d\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": null,
+            "lng": null
+        },
+        "HJ": {
+            "name": "Hajjah Governorate",
+            "code": "HJ",
+            "names": {
+                "geonames": "Hajjah",
+                "ru": "\u0425\u0430\u0434\u0434\u0436\u0430",
+                "en": "Hajjah Governorate",
+                "ar": "\u062d\u062c\u0629",
+                "de": "Gouvernement Haddscha",
+                "es": "Gobernaci\u00f3n de Hajjah",
+                "fr": "Gouvernorat de Hajjah",
+                "it": "Governatorato di Hajja",
+                "zh": "\u54c8\u6770\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 15.69324,
+            "lng": 43.603141999999934
+        },
+        "IB": {
+            "name": "Ibb Governorate",
+            "code": "IB",
+            "names": {
+                "geonames": "Ibb",
+                "ru": "\u0418\u0431\u0431",
+                "en": "Ibb Governorate",
+                "ar": "\u0625\u0628",
+                "de": "Gouvernement Ibb",
+                "es": "Gobernaci\u00f3n de Ibb",
+                "fr": "Gouvernorat d'Ibb",
+                "it": "Governatorato di Ibb",
+                "zh": "\u4f0a\u535c\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 13.9666667,
+            "lng": 44.16666669999995
+        },
+        "LA": {
+            "name": "Lahij Governorate",
+            "code": "LA",
+            "names": {
+                "geonames": "Lahij",
+                "ru": "\u041b\u0430\u0445\u0434\u0436",
+                "en": "Lahij Governorate",
+                "ar": "\u0644\u062d\u062c",
+                "de": "Gouvernement Lahidsch",
+                "es": "Gobernaci\u00f3n de Lahij",
+                "fr": "Gouvernorat de Lahij",
+                "it": "Governatorato di Lahij",
+                "zh": "\u62c9\u8d6b\u5b63\u7701"
+            },
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 13.7,
+            "lng": 45.06666670000004
+        },
+        "": {
+            "name": "Soqatra",
+            "code": "",
+            "names": {
+                "geonames": "Soqatra",
+                "en": "Soqatra"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "MU": {
+            "name": "Al \u1e28udaydah",
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 15.7271066,
+            "lng": 43.02677659999995
+        },
+        "SN": {
+            "name": "\u015ean'\u0101'",
+            "division": "governorate",
+            "parent": "YE",
+            "lat": 15.352029,
+            "lng": 44.20745599999998
+        }
+    }
+}

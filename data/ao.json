@@ -1,0 +1,360 @@
+{
+    "alpha-2": "AO",
+    "alpha-3": "AGO",
+    "numeric": 24,
+    "capital": "Luanda",
+    "currency": "AOA",
+    "languages": [
+        "pt"
+    ],
+    "flag-icon": "\ud83c\udde6\ud83c\uddf4",
+    "names": {
+        "geonames": "Angola",
+        "en": "Angola",
+        "ar": "\u0623\u0646\u063a\u0648\u0644\u0627",
+        "de": "Angola",
+        "es": "Angola",
+        "fr": "Angola",
+        "it": "Angola",
+        "ru": "\u0410\u043d\u0433\u043e\u043b\u0430",
+        "zh": "\u5b89\u54e5\u62c9",
+        "he": "\u05d0\u05e0\u05d2\u05d5\u05dc\u05d4",
+        "hi": "\u0905\u0902\u0917\u094b\u0932\u093e",
+        "ja": "\u30a2\u30f3\u30b4\u30e9",
+        "pt": "Angola"
+    },
+    "ISO3166-2": {
+        "LSU": {
+            "name": "Lunda Sul Province",
+            "code": "LSU",
+            "names": {
+                "geonames": "Lunda Sul",
+                "ru": "\u042e\u0436\u043d\u0430\u044f \u041b\u0443\u043d\u0434\u0430",
+                "en": "Lunda Sul Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0646\u062f\u0627 \u0633\u0648\u0644",
+                "de": "Provinz Lunda Sul",
+                "es": "Lunda Sul",
+                "fr": "Lunda-Sud",
+                "it": "Provincia di Lunda Sud",
+                "zh": "\u5357\u502b\u9054\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "LNO": {
+            "name": "Lunda Norte Province",
+            "code": "LNO",
+            "names": {
+                "geonames": "Luanda Norte",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041b\u0443\u043d\u0434\u0430",
+                "en": "Lunda Norte Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0646\u062f\u0627 \u0646\u0648\u0631\u062a\u064a",
+                "de": "Provinz Lunda Norte",
+                "es": "Lunda Norte",
+                "fr": "Lunda-Nord",
+                "it": "Provincia di Lunda Nord",
+                "zh": "\u5317\u502b\u9054\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -8.3525022,
+            "lng": 19.188004699999965
+        },
+        "MOX": {
+            "name": "Moxico Province",
+            "code": "MOX",
+            "names": {
+                "geonames": "Moxico",
+                "ru": "\u041c\u043e\u0448\u0438\u043a\u043e",
+                "en": "Moxico Province",
+                "de": "Provinz Moxico",
+                "es": "Moxico",
+                "fr": "Moxico",
+                "it": "Provincia di Moxico",
+                "zh": "\u83ab\u5e0c\u79d1\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": 14.8961739,
+            "lng": -92.24734769999998
+        },
+        "CCU": {
+            "name": "Cuando Cubango Province",
+            "code": "CCU",
+            "names": {
+                "geonames": "Cuando Cobango",
+                "ru": "\u041a\u0432\u0430\u043d\u0434\u043e-\u041a\u0443\u0431\u0430\u043d\u0433\u043e",
+                "en": "Cuando Cubango Province",
+                "de": "Provinz Cuando Cubango",
+                "es": "Cuando Cubango",
+                "fr": "Kwando-Kubango",
+                "it": "Provincia di Cuando Cubango",
+                "zh": "\u5eab\u5b89\u591a\u53e4\u73ed\u54e5\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "ZAI": {
+            "name": "Zaire Province",
+            "code": "ZAI",
+            "names": {
+                "geonames": "Zaire",
+                "ru": "\u0417\u0430\u0438\u0440\u0435",
+                "en": "Zaire Province",
+                "de": "Provinz Zaire",
+                "es": "Provincia de Zaire",
+                "fr": "Za\u00efre",
+                "it": "Provincia dello Zaire",
+                "zh": "\u85a9\u4f0a\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "UIG": {
+            "name": "U\u00edge Province",
+            "code": "UIG",
+            "names": {
+                "geonames": "Uige",
+                "ru": "\u0423\u0438\u0436\u0435",
+                "en": "U\u00edge Province",
+                "de": "Provinz U\u00edge",
+                "es": "Uige",
+                "fr": "U\u00edge",
+                "it": "Provincia di U\u00edge",
+                "zh": "\u5a01\u71b1\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -7.6102105,
+            "lng": 15.061586499999976
+        },
+        "MAL": {
+            "name": "Malanje Province",
+            "code": "MAL",
+            "names": {
+                "geonames": "Malanje",
+                "ru": "\u041c\u0430\u043b\u0430\u043d\u0436\u0435",
+                "en": "Malanje Province",
+                "de": "Provinz Malanje",
+                "es": "Malanje",
+                "fr": "Malanje",
+                "it": "Provincia di Malanje",
+                "zh": "\u99ac\u862d\u54f2\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -9.541654,
+            "lng": 16.341048999999998
+        },
+        "LUA": {
+            "name": "Luanda Province",
+            "code": "LUA",
+            "names": {
+                "geonames": "Luanda",
+                "ru": "\u041b\u0443\u0430\u043d\u0434\u0430",
+                "en": "Luanda Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0627\u0646\u062f\u0627",
+                "de": "Provinz Luanda",
+                "es": "Provincia de Luanda",
+                "fr": "Luanda",
+                "it": "Provincia di Luanda",
+                "zh": "\u7f85\u5b89\u9054\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -8.8383333,
+            "lng": 13.23444440000003
+        },
+        "CNO": {
+            "name": "Cuanza Norte Province",
+            "code": "CNO",
+            "names": {
+                "geonames": "Cuanza Norte",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u0432\u0430\u043d\u0437\u0430",
+                "en": "Cuanza Norte Province",
+                "de": "Provinz Cuanza Norte",
+                "es": "Cuanza Norte",
+                "fr": "Kwanza-Nord",
+                "it": "Provincia di Cuanza Nord",
+                "zh": "\u5317\u5ee3\u85a9\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "CAB": {
+            "name": "Cabinda Province",
+            "code": "CAB",
+            "names": {
+                "geonames": "Cabinda",
+                "ru": "\u041a\u0430\u0431\u0438\u043d\u0434\u0430",
+                "en": "Cabinda Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0628\u064a\u0646\u062f\u0627",
+                "de": "Provinz Cabinda",
+                "es": "Cabinda",
+                "fr": "Cabinda",
+                "it": "Provincia di Cabinda",
+                "zh": "\u5580\u4e19\u9054\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -5.556549,
+            "lng": 12.189840000000004
+        },
+        "BGO": {
+            "name": "Bengo Province",
+            "code": "BGO",
+            "names": {
+                "geonames": "Bengo",
+                "ru": "\u0411\u0435\u043d\u0433\u043e",
+                "en": "Bengo Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0646\u063a\u0648",
+                "de": "Provinz Bengo",
+                "es": "Bengo",
+                "fr": "Bengo",
+                "it": "Provincia del Bengo",
+                "zh": "\u672c\u54e5\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "NAM": {
+            "name": "Namibe Province",
+            "code": "NAM",
+            "names": {
+                "geonames": "Namibe",
+                "ru": "\u041d\u0430\u043c\u0438\u0431\u0435",
+                "en": "Namibe Province",
+                "de": "Provinz Namibe",
+                "es": "Namibe",
+                "fr": "Namibe",
+                "it": "Provincia di Namibe",
+                "zh": "\u7d0d\u7c73\u8c9d\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -15.18574,
+            "lng": 12.157069999999976
+        },
+        "HUI": {
+            "name": "Hu\u00edla Province",
+            "code": "HUI",
+            "names": {
+                "geonames": "Huila",
+                "ru": "\u0423\u0438\u043b\u0430",
+                "en": "Hu\u00edla Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u064a\u0644\u0627",
+                "de": "Provinz Hu\u00edla",
+                "es": "Huila",
+                "fr": "Huila",
+                "it": "Provincia di Hu\u00edla",
+                "zh": "\u5a01\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "HUA": {
+            "name": "Huambo Province",
+            "code": "HUA",
+            "names": {
+                "geonames": "Huambo",
+                "ru": "\u0423\u0430\u043c\u0431\u043e",
+                "en": "Huambo Province",
+                "de": "Provinz Huambo",
+                "es": "Provincia de Huambo",
+                "fr": "Huambo",
+                "it": "Provincia di Huambo",
+                "zh": "\u4e07\u535a\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -12.7666667,
+            "lng": 15.733333300000027
+        },
+        "CNN": {
+            "name": "Cunene Province",
+            "code": "CNN",
+            "names": {
+                "geonames": "Cunene",
+                "ru": "\u041a\u0443\u043d\u0435\u043d\u0435",
+                "en": "Cunene Province",
+                "de": "Provinz Cunene",
+                "es": "Cunene",
+                "fr": "Kunene",
+                "it": "Provincia del Cunene",
+                "zh": "\u5eab\u5167\u7d0d\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "CUS": {
+            "name": "Cuanza Sul Province",
+            "code": "CUS",
+            "names": {
+                "geonames": "Kwanza Sul",
+                "ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u0432\u0430\u043d\u0437\u0430",
+                "en": "Cuanza Sul Province",
+                "de": "Provinz Cuanza Sul",
+                "es": "Cuanza Sur",
+                "fr": "Kwanza-Sud",
+                "it": "Provincia di Cuanza Sud",
+                "zh": "\u5357\u5ee3\u85a9\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": null,
+            "lng": null
+        },
+        "BIE": {
+            "name": "Bi\u00e9 Province",
+            "code": "BIE",
+            "names": {
+                "geonames": "Bie",
+                "ru": "\u0411\u0438\u0435",
+                "en": "Bi\u00e9 Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u064a",
+                "de": "Provinz Bi\u00e9",
+                "es": "Bi\u00e9",
+                "fr": "Bi\u00e9",
+                "it": "Provincia di Bi\u00e9",
+                "zh": "\u6bd4\u8036\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -12.5727907,
+            "lng": 17.66888700000004
+        },
+        "BGU": {
+            "name": "Benguela Province",
+            "code": "BGU",
+            "names": {
+                "geonames": "Benguela",
+                "ru": "\u0411\u0435\u043d\u0433\u0435\u043b\u0430",
+                "en": "Benguela Province",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0646\u063a\u064a\u0644\u0627",
+                "de": "Provinz Benguela",
+                "es": "Benguela",
+                "fr": "Benguela",
+                "it": "Provincia di Benguela",
+                "zh": "\u672c\u5409\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "AO",
+            "lat": -12.57655,
+            "lng": 13.405549999999948
+        }
+    }
+}

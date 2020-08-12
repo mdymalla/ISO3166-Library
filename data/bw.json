@@ -1,0 +1,197 @@
+{
+    "alpha-2": "BW",
+    "alpha-3": "BWA",
+    "numeric": 72,
+    "capital": "Gaborone",
+    "currency": "BWP",
+    "languages": [
+        "en",
+        "tn"
+    ],
+    "flag-icon": "\ud83c\udde7\ud83c\uddfc",
+    "names": {
+        "geonames": "Botswana",
+        "en": "Botswana",
+        "ar": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
+        "de": "Botswana",
+        "es": "Botsuana",
+        "fr": "Botswana",
+        "it": "Botswana",
+        "ru": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+        "zh": "\u6ce2\u672d\u90a3",
+        "he": "\u05d1\u05d5\u05d8\u05e1\u05d5\u05d0\u05e0\u05d4",
+        "hi": "\u092c\u094b\u0924\u094d\u0938\u0935\u093e\u0928\u093e",
+        "ja": "\u30dc\u30c4\u30ef\u30ca",
+        "pt": "Botswana"
+    },
+    "ISO3166-2": {
+        "SO": {
+            "name": "Southern District",
+            "code": "SO",
+            "names": {
+                "geonames": "Ngwaketsi",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "Southern District",
+                "de": "Southern District",
+                "es": "Distrito Sur",
+                "fr": "District du Sud",
+                "it": "Distretto Meridionale",
+                "zh": "\u5357\u90e8\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -24.823384,
+            "lng": 24.714291799999955
+        },
+        "SE": {
+            "name": "South-East District",
+            "code": "SE",
+            "names": {
+                "geonames": "South-East",
+                "ru": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "South-East District",
+                "es": "Distrito Sudeste",
+                "fr": "District du Sud-Est",
+                "it": "Distretto Sudorientale",
+                "zh": "\u6771\u5357\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -25.0158695,
+            "lng": 25.733850200000006
+        },
+        "NE": {
+            "name": "North-East District",
+            "code": "NE",
+            "names": {
+                "geonames": "North-East",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "North-East District",
+                "de": "North-East District",
+                "es": "Distrito Noreste",
+                "fr": "District du Nord-Est",
+                "it": "Distretto Nordorientale",
+                "zh": "\u6771\u5317\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -20.9030555,
+            "lng": 27.455638799999974
+        },
+        "NW": {
+            "name": "North-West District",
+            "code": "NW",
+            "names": {
+                "geonames": "North-West",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "North-West District",
+                "de": "North-West District",
+                "es": "Distrito Noroeste",
+                "fr": "District du Nord-Ouest",
+                "it": "Distretto Nordoccidentale",
+                "zh": "\u897f\u5317\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -26.6638599,
+            "lng": 25.283758499999976
+        },
+        "KW": {
+            "name": "Kweneng District",
+            "code": "KW",
+            "names": {
+                "geonames": "Kweneng",
+                "ru": "\u041a\u0432\u0435\u043d\u0435\u043d\u0433",
+                "en": "Kweneng District",
+                "de": "Kweneng District",
+                "es": "Distrito de Kweneng",
+                "fr": "District de Kweneng",
+                "it": "Distretto di Kweneng",
+                "zh": "\u594e\u5ae9\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": null,
+            "lng": null
+        },
+        "KL": {
+            "name": "Kgatleng District",
+            "code": "KL",
+            "names": {
+                "geonames": "Kgatleng",
+                "ru": "\u041a\u0433\u0430\u0442\u043b\u0435\u043d\u0433",
+                "en": "Kgatleng District",
+                "de": "Kgatleng District",
+                "es": "Distrito de Kgatleng",
+                "fr": "District de Kgatleng",
+                "it": "Distretto di Kgatleng",
+                "zh": "\u5361\u7279\u502b\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -24.5634858,
+            "lng": 25.97547510000004
+        },
+        "KG": {
+            "name": "Kgalagadi District",
+            "code": "KG",
+            "names": {
+                "geonames": "Kgalagadi",
+                "ru": "\u041a\u0433\u0430\u043b\u0430\u0433\u0430\u0434\u0438",
+                "en": "Kgalagadi District",
+                "de": "Kgalagadi District",
+                "es": "Distrito de Kgalagadi",
+                "fr": "District de Kgalagadi",
+                "it": "Distretto di Kgalagadi",
+                "zh": "\u5361\u62c9\u54c8\u8fea\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": null,
+            "lng": null
+        },
+        "GH": {
+            "name": "Ghanzi District",
+            "code": "GH",
+            "names": {
+                "geonames": "Ghanzi",
+                "ru": "\u0413\u0430\u043d\u0437\u0438",
+                "en": "Ghanzi District",
+                "de": "Ghanzi District",
+                "es": "Distrito de Ghanzi",
+                "fr": "District de Ghanzi",
+                "it": "Distretto di Ghanzi",
+                "zh": "\u676d\u6fdf\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": -21.7,
+            "lng": 21.649999999999977
+        },
+        "CE": {
+            "name": "Central District",
+            "code": "CE",
+            "names": {
+                "geonames": "Central",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "Central District",
+                "de": "Central District",
+                "es": "Distrito Central",
+                "fr": "District central",
+                "it": "Distretto Centrale",
+                "zh": "\u4e2d\u90e8\u5340"
+            },
+            "division": "district",
+            "parent": "BW",
+            "lat": null,
+            "lng": null
+        },
+        "NG": {
+            "name": "Ngamiland",
+            "division": "district",
+            "parent": "BW",
+            "lat": -20.6254059,
+            "lng": 21.666072499999927
+        }
+    }
+}

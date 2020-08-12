@@ -1,0 +1,712 @@
+{
+    "alpha-2": "NG",
+    "alpha-3": "NGA",
+    "numeric": 566,
+    "capital": "Abuja",
+    "currency": "NGN",
+    "languages": [
+        "en"
+    ],
+    "flag-icon": "\ud83c\uddf3\ud83c\uddec",
+    "names": {
+        "geonames": "Nigeria",
+        "en": "Nigeria",
+        "ar": "\u0646\u064a\u062c\u064a\u0631\u064a\u0627",
+        "de": "Nigeria",
+        "es": "Nigeria",
+        "fr": "Nigeria",
+        "it": "Nigeria",
+        "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+        "zh": "\u5948\u53ca\u5229\u4e9e",
+        "he": "\u05e0\u05d9\u05d2\u05e8\u05d9\u05d4",
+        "hi": "\u0928\u093e\u0908\u091c\u0940\u0930\u093f\u092f\u093e",
+        "ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
+        "pt": "Nig\u00e9ria"
+    },
+    "ISO3166-2": {
+        "SO": {
+            "name": "Sokoto State",
+            "code": "SO",
+            "names": {
+                "geonames": "Sokoto",
+                "ru": "\u0421\u043e\u043a\u043e\u0442\u043e",
+                "en": "Sokoto State",
+                "ar": "\u0633\u0642\u0637\u0648",
+                "de": "Sokoto",
+                "es": "Sokoto",
+                "fr": "\u00c9tat de Sokoto",
+                "it": "Sokoto",
+                "zh": "\u7d22\u79d1\u6258\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 13.0666667,
+            "lng": 5.233333300000027
+        },
+        "RI": {
+            "name": "Rivers State",
+            "code": "RI",
+            "names": {
+                "geonames": "Rivers",
+                "ru": "\u0420\u0438\u0432\u0435\u0440\u0441",
+                "en": "Rivers State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0631\u064a\u0641\u0631\u0632",
+                "de": "Rivers",
+                "es": "Rivers",
+                "fr": "\u00c9tat de Rivers",
+                "it": "Rivers",
+                "zh": "\u6cb3\u6d41\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "PL": {
+            "name": "Plateau",
+            "code": "PL",
+            "names": {
+                "geonames": "Plateau",
+                "en": "Plateau"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 9.2350817,
+            "lng": 9.723267299999975
+        },
+        "OY": {
+            "name": "Oyo State",
+            "code": "OY",
+            "names": {
+                "geonames": "Oyo",
+                "en": "Oyo State",
+                "ar": "\u0623\u0648\u064a\u0648",
+                "de": "Oyo",
+                "es": "Oyo",
+                "fr": "\u00c9tat d'Oyo",
+                "it": "Oyo",
+                "ru": "\u041e\u0439\u043e",
+                "zh": "\u5965\u7ea6\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 7.837154,
+            "lng": 3.9346520000000282
+        },
+        "ON": {
+            "name": "Ondo State",
+            "code": "ON",
+            "names": {
+                "geonames": "Ondo",
+                "ru": "\u041e\u043d\u0434\u043e",
+                "en": "Ondo State",
+                "de": "Ondo",
+                "es": "Ondo",
+                "fr": "\u00c9tat d'Ondo",
+                "it": "Ondo",
+                "zh": "\u7fc1\u591a\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 7.088721,
+            "lng": 4.838762999999972
+        },
+        "OG": {
+            "name": "Ogun State",
+            "code": "OG",
+            "names": {
+                "geonames": "Ogun",
+                "ru": "\u041e\u0433\u0443\u043d",
+                "en": "Ogun State",
+                "de": "Ogun",
+                "es": "Ogun",
+                "fr": "\u00c9tat d'Ogun",
+                "it": "Ogun",
+                "zh": "\u5965\u8d21\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "NI": {
+            "name": "Niger State",
+            "code": "NI",
+            "names": {
+                "geonames": "Niger",
+                "ru": "\u041d\u0438\u0433\u0435\u0440",
+                "en": "Niger State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u062c\u0631",
+                "de": "Niger",
+                "es": "N\u00edger",
+                "fr": "\u00c9tat de Niger",
+                "it": "Niger",
+                "zh": "\u5c3c\u65e5\u5c14\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 9.081999,
+            "lng": 8.675277000000051
+        },
+        "LA": {
+            "name": "Lagos State",
+            "code": "LA",
+            "names": {
+                "geonames": "Lagos",
+                "ru": "\u041b\u0430\u0433\u043e\u0441",
+                "en": "Lagos State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0644\u0627\u063a\u0648\u0633",
+                "de": "Lagos",
+                "es": "Estado de Lagos",
+                "fr": "\u00c9tat de Lagos",
+                "it": "Lagos",
+                "zh": "\u62c9\u5404\u65af\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 6.4530556,
+            "lng": 3.3958333000000493
+        },
+        "KW": {
+            "name": "Kwara State",
+            "code": "KW",
+            "names": {
+                "geonames": "Kwara",
+                "ru": "\u041a\u0432\u0430\u0440\u0430",
+                "en": "Kwara State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0627\u0631\u0629",
+                "de": "Kwara",
+                "es": "Kwara",
+                "fr": "\u00c9tat de Kwara",
+                "it": "Kwara",
+                "zh": "\u5938\u62c9\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 8.9847995,
+            "lng": 4.56244259999994
+        },
+        "KT": {
+            "name": "Katsina State",
+            "code": "KT",
+            "names": {
+                "geonames": "Katsina",
+                "ru": "\u041a\u0430\u0446\u0438\u043d\u0430",
+                "en": "Katsina State",
+                "ar": "\u0643\u0627\u062a\u0633\u064a\u0646\u0627",
+                "de": "Katsina",
+                "es": "Katsina",
+                "fr": "\u00c9tat de Katsina",
+                "it": "Katsina",
+                "zh": "\u5361\u9f50\u7eb3\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 12.99302,
+            "lng": 7.606163000000038
+        },
+        "KN": {
+            "name": "Kano State",
+            "code": "KN",
+            "names": {
+                "geonames": "Kano",
+                "ru": "\u041a\u0430\u043d\u043e",
+                "en": "Kano State",
+                "ar": "\u0643\u0627\u0646\u0648",
+                "de": "Kano",
+                "es": "Estado de Kano",
+                "fr": "\u00c9tat de Kano",
+                "it": "Kano",
+                "zh": "\u5361\u8bfa\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 12,
+            "lng": 8.516666999999984
+        },
+        "KD": {
+            "name": "Kaduna State",
+            "code": "KD",
+            "names": {
+                "geonames": "Kaduna",
+                "ru": "\u041a\u0430\u0434\u0443\u043d\u0430",
+                "en": "Kaduna State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u062f\u0648\u0646\u0627",
+                "de": "Kaduna",
+                "es": "Kaduna",
+                "fr": "\u00c9tat de Kaduna",
+                "it": "Kaduna",
+                "zh": "\u5361\u675c\u7eb3\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 10.5166667,
+            "lng": 7.433333299999958
+        },
+        "IM": {
+            "name": "Imo State",
+            "code": "IM",
+            "names": {
+                "geonames": "Imo",
+                "ru": "\u0418\u043c\u043e",
+                "en": "Imo State",
+                "de": "Imo",
+                "es": "Imo",
+                "fr": "\u00c9tat d'Imo",
+                "it": "Imo",
+                "zh": "\u4f0a\u83ab\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "CR": {
+            "name": "Cross River State",
+            "code": "CR",
+            "names": {
+                "geonames": "Cross River",
+                "ru": "\u041a\u0440\u043e\u0441\u0441-\u0420\u0438\u0432\u0435\u0440",
+                "en": "Cross River State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0631\u0648\u0633 \u0631\u064a\u0641\u0631",
+                "de": "Cross River",
+                "es": "Cross River",
+                "fr": "\u00c9tat de Cross River",
+                "it": "Cross River",
+                "zh": "\u514b\u91cc\u65af\u6cb3\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 41.263153,
+            "lng": -73.61331200000001
+        },
+        "BO": {
+            "name": "Borno State",
+            "code": "BO",
+            "names": {
+                "geonames": "Borno",
+                "ru": "\u0411\u043e\u0440\u043d\u043e",
+                "en": "Borno State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0631\u0646\u0648",
+                "de": "Borno",
+                "es": "Borno",
+                "fr": "\u00c9tat de Borno",
+                "it": "Borno",
+                "zh": "\u535a\u5c14\u8bfa\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "BE": {
+            "name": "Benue State",
+            "code": "BE",
+            "names": {
+                "geonames": "Benue",
+                "ru": "\u0411\u0435\u043d\u0443\u044d",
+                "en": "Benue State",
+                "de": "Benue",
+                "es": "Benue",
+                "fr": "\u00c9tat de Benue",
+                "it": "Benue",
+                "zh": "\u8d1d\u52aa\u57c3\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "BA": {
+            "name": "Bauchi State",
+            "code": "BA",
+            "names": {
+                "geonames": "Bauchi",
+                "ru": "\u0411\u0430\u0443\u0447\u0438",
+                "en": "Bauchi State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u0648\u062a\u0634\u064a",
+                "de": "Bauchi",
+                "es": "Bauchi",
+                "fr": "\u00c9tat de Bauchi",
+                "it": "Bauchi",
+                "zh": "\u5305\u5947\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 10.30982,
+            "lng": 9.845172000000048
+        },
+        "AN": {
+            "name": "Anambra State",
+            "code": "AN",
+            "names": {
+                "geonames": "Anambra",
+                "ru": "\u0410\u043d\u0430\u043c\u0431\u0440\u0430",
+                "en": "Anambra State",
+                "ar": "\u0623\u0646\u0627\u0645\u0628\u0631\u0627",
+                "de": "Anambra",
+                "es": "Anambra",
+                "fr": "\u00c9tat d'Anambra",
+                "it": "Anambra",
+                "zh": "\u963f\u5357\u5e03\u62c9\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "AK": {
+            "name": "Akwa Ibom State",
+            "code": "AK",
+            "names": {
+                "geonames": "Akwa Ibom",
+                "ru": "\u0410\u043a\u0432\u0430-\u0418\u0431\u043e\u043c",
+                "en": "Akwa Ibom State",
+                "de": "Akwa Ibom",
+                "es": "Akwa Ibom",
+                "fr": "\u00c9tat d'Akwa Ibom",
+                "it": "Akwa Ibom",
+                "zh": "\u963f\u5938\u4f0a\u535a\u59c6\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "FC": {
+            "name": "Federal Capital Territory",
+            "code": "FC",
+            "names": {
+                "geonames": "FCT",
+                "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f",
+                "en": "Federal Capital Territory",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062a\u062d\u0627\u062f\u064a\u0629 \u0644\u0646\u064a\u062c\u064a\u0631\u064a\u0627",
+                "de": "Federal Capital Territory",
+                "es": "Territorio de la Capital Federal",
+                "fr": "Territoire de la capitale f\u00e9d\u00e9rale du Nigeria",
+                "it": "Abuja Federal Capital Territory"
+            },
+            "division": "capital territory",
+            "parent": "NG",
+            "lat": 9.058036,
+            "lng": 7.489060999999992
+        },
+        "AB": {
+            "name": "Abia State",
+            "code": "AB",
+            "names": {
+                "geonames": "Abia",
+                "ru": "\u0410\u0431\u0438\u044f",
+                "en": "Abia State",
+                "de": "Abia",
+                "es": "Abia",
+                "fr": "\u00c9tat d'Abia",
+                "it": "Abia",
+                "zh": "\u963f\u6bd4\u4e9a\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 5.1166667,
+            "lng": 7.366666699999996
+        },
+        "DE": {
+            "name": "Delta State",
+            "code": "DE",
+            "names": {
+                "geonames": "Delta",
+                "ru": "\u0414\u0435\u043b\u044c\u0442\u0430",
+                "en": "Delta State",
+                "ar": "\u062f\u0644\u062a\u0627",
+                "de": "Delta",
+                "es": "Delta",
+                "fr": "\u00c9tat du Delta",
+                "it": "Delta",
+                "zh": "\u4e09\u89d2\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": -11.9385307,
+            "lng": -76.99765560000003
+        },
+        "AD": {
+            "name": "Adamawa State",
+            "code": "AD",
+            "names": {
+                "geonames": "Adamawa",
+                "en": "Adamawa State",
+                "ar": "\u0622\u062f\u0645\u0627\u0648\u0629",
+                "de": "Adamawa",
+                "es": "Adamawa",
+                "fr": "\u00c9tat d'Adamawa",
+                "it": "Adamawa",
+                "ru": "\u0410\u0434\u0430\u043c\u0430\u0432\u0430",
+                "zh": "\u963f\u9054\u99ac\u74e6"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "ED": {
+            "name": "Edo State",
+            "code": "ED",
+            "names": {
+                "geonames": "Edo",
+                "ru": "\u042d\u0434\u043e",
+                "en": "Edo State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0625\u062f\u0648",
+                "de": "Edo",
+                "es": "Edo",
+                "fr": "\u00c9tat d'Edo",
+                "it": "Edo",
+                "zh": "\u57c3\u591a\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 6.3425117,
+            "lng": 5.618197900000041
+        },
+        "EN": {
+            "name": "Enugu State",
+            "code": "EN",
+            "names": {
+                "geonames": "Enugu",
+                "ru": "\u042d\u043d\u0443\u0433\u0443",
+                "en": "Enugu State",
+                "de": "Enugu",
+                "es": "Enugu",
+                "fr": "\u00c9tat d'Enugu",
+                "it": "Enugu",
+                "zh": "\u57c3\u52aa\u53e4\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 6.4526667,
+            "lng": 7.510333299999957
+        },
+        "JI": {
+            "name": "Jigawa State",
+            "code": "JI",
+            "names": {
+                "geonames": "Jigawa",
+                "ru": "\u0414\u0436\u0438\u0433\u0430\u0432\u0430",
+                "en": "Jigawa State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062c\u064a\u063a\u0627\u0648\u0629",
+                "de": "Jigawa",
+                "es": "Jigawa",
+                "fr": "\u00c9tat de Jigawa",
+                "it": "Jigawa",
+                "zh": "\u5409\u52a0\u74e6\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 12.6212435,
+            "lng": 8.970081700000037
+        },
+        "BY": {
+            "name": "Bayelsa State",
+            "code": "BY",
+            "names": {
+                "geonames": "Bayelsa",
+                "ru": "\u0411\u0430\u0439\u0435\u043b\u044c\u0441\u0430",
+                "en": "Bayelsa State",
+                "de": "Bayelsa",
+                "es": "Bayelsa",
+                "fr": "\u00c9tat de Bayelsa",
+                "it": "Bayelsa",
+                "zh": "\u5df4\u8036\u5c14\u8428\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "EB": {
+            "name": "Ebonyi State",
+            "code": "EB",
+            "names": {
+                "geonames": "Ebonyi",
+                "ru": "\u042d\u0431\u043e\u043d\u044c\u0438",
+                "en": "Ebonyi State",
+                "de": "Ebonyi",
+                "es": "Ebonyi",
+                "fr": "\u00c9tat d'Ebonyi",
+                "it": "Ebonyi",
+                "zh": "\u57c3\u90a6\u4f0a\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "EK": {
+            "name": "Ekiti State",
+            "code": "EK",
+            "names": {
+                "geonames": "Ekiti",
+                "ru": "\u042d\u043a\u0438\u0442\u0438",
+                "en": "Ekiti State",
+                "de": "Ekiti",
+                "es": "Ekiti",
+                "fr": "\u00c9tat d'Ekiti",
+                "it": "Ekiti",
+                "zh": "\u57c3\u57fa\u8482\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "GO": {
+            "name": "Gombe State",
+            "code": "GO",
+            "names": {
+                "geonames": "Gombe",
+                "ru": "\u0413\u043e\u043c\u0431\u0435",
+                "en": "Gombe State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u063a\u0648\u0645\u0628\u064a",
+                "de": "Gombe",
+                "es": "Gombe",
+                "fr": "\u00c9tat de Gombe",
+                "it": "Gombe",
+                "zh": "\u8d21\u8d1d\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 10.2824,
+            "lng": 11.17479000000003
+        },
+        "NA": {
+            "name": "Nasarawa State",
+            "code": "NA",
+            "names": {
+                "geonames": "Nassarawa",
+                "ru": "\u041d\u0430\u0441\u0430\u0440\u0430\u0432\u0430",
+                "en": "Nasarawa State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0646\u0635\u0631\u0627\u0648\u0629",
+                "de": "Nassarawa",
+                "es": "Nassawara",
+                "fr": "\u00c9tat de Nassarawa",
+                "it": "Nassarawa",
+                "zh": "\u7eb3\u8428\u62c9\u74e6\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 8.5474692,
+            "lng": 7.71180030000005
+        },
+        "ZA": {
+            "name": "Zamfara State",
+            "code": "ZA",
+            "names": {
+                "geonames": "Zamfara",
+                "ru": "\u0417\u0430\u043c\u0444\u0430\u0440\u0430",
+                "en": "Zamfara State",
+                "ar": "\u0632\u0645\u0641\u0631\u0629",
+                "de": "Zamfara",
+                "es": "Zamfara",
+                "fr": "\u00c9tat de Zamfara",
+                "it": "Zamfara",
+                "zh": "\u624e\u59c6\u6cd5\u62c9\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "KE": {
+            "name": "Kebbi State",
+            "code": "KE",
+            "names": {
+                "geonames": "Kebbi",
+                "ru": "\u041a\u0435\u0431\u0431\u0438",
+                "en": "Kebbi State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0628\u064a",
+                "de": "Kebbi",
+                "es": "Kebbi",
+                "fr": "\u00c9tat de Kebbi",
+                "it": "Kebbi",
+                "zh": "\u51ef\u6bd4\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "KO": {
+            "name": "Kogi State",
+            "code": "KO",
+            "names": {
+                "geonames": "Kogi",
+                "ru": "\u041a\u043e\u0433\u0438",
+                "en": "Kogi State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u062c\u064a",
+                "de": "Kogi",
+                "es": "Kogi",
+                "fr": "\u00c9tat de Kogi",
+                "it": "Kogi",
+                "zh": "\u79d1\u5409\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "OS": {
+            "name": "Osun State",
+            "code": "OS",
+            "names": {
+                "geonames": "Osun",
+                "ru": "\u041e\u0441\u0443\u043d",
+                "en": "Osun State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0623\u0648\u0634\u0648\u0646",
+                "de": "Osun",
+                "es": "Osun",
+                "fr": "\u00c9tat d'Osun",
+                "it": "Osun",
+                "zh": "\u5965\u5b59\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": 7.983333,
+            "lng": 5.083333000000039
+        },
+        "TA": {
+            "name": "Taraba State",
+            "code": "TA",
+            "names": {
+                "geonames": "Taraba",
+                "ru": "\u0422\u0430\u0440\u0430\u0431\u0430",
+                "en": "Taraba State",
+                "ar": "\u062a\u0631\u0627\u0628\u0629",
+                "de": "Taraba",
+                "es": "Taraba",
+                "fr": "\u00c9tat de Taraba",
+                "it": "Taraba",
+                "zh": "\u5854\u62c9\u5df4\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        },
+        "YO": {
+            "name": "Yobe State",
+            "code": "YO",
+            "names": {
+                "geonames": "Yobe",
+                "ru": "\u0419\u043e\u0431\u0435",
+                "en": "Yobe State",
+                "de": "Yobe",
+                "es": "Yobe",
+                "fr": "\u00c9tat de Yobe",
+                "it": "Yobe",
+                "zh": "\u7ea6\u8d1d\u5dde"
+            },
+            "division": "state",
+            "parent": "NG",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

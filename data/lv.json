@@ -1,0 +1,2063 @@
+{
+    "alpha-2": "LV",
+    "alpha-3": "LVA",
+    "numeric": 428,
+    "capital": "Riga",
+    "currency": "EUR",
+    "languages": [
+        "lv"
+    ],
+    "flag-icon": "\ud83c\uddf1\ud83c\uddfb",
+    "names": {
+        "geonames": "Latvia",
+        "en": "Latvia",
+        "ar": "\u0644\u0627\u062a\u0641\u064a\u0627",
+        "de": "Lettland",
+        "es": "Letonia",
+        "fr": "Lettonie",
+        "it": "Lettonia",
+        "ru": "\u041b\u0430\u0442\u0432\u0438\u044f",
+        "zh": "\u62c9\u812b\u7dad\u4e9e",
+        "he": "\u05dc\u05d8\u05d1\u05d9\u05d4",
+        "hi": "\u0932\u093e\u0924\u0935\u093f\u092f\u093e",
+        "ja": "\u30e9\u30c8\u30d3\u30a2",
+        "pt": "Let\u00f3nia"
+    },
+    "ISO3166-2": {
+        "106": {
+            "name": "Ventspils Municipality",
+            "code": "106",
+            "names": {
+                "geonames": "Ventspils Rajons",
+                "ru": "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ventspils Municipality",
+                "de": "Bezirk Ventspils",
+                "es": "Municipalidad de Ventspils",
+                "it": "Ventspils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "VEN": {
+            "name": "Ventspils",
+            "code": "VEN",
+            "names": {
+                "geonames": "Ventspils",
+                "ru": "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441",
+                "en": "Ventspils",
+                "de": "Ventspils",
+                "es": "Ventspils",
+                "fr": "Ventspils",
+                "it": "Ventspils",
+                "zh": "\u6587\u8328\u76ae\u5c14\u65af"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 57.3949981,
+            "lng": 21.59262609999996
+        },
+        "VMR": {
+            "name": "Valmiera",
+            "code": "VMR",
+            "names": {
+                "geonames": "Valmieras Rajons",
+                "ru": "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430",
+                "en": "Valmiera",
+                "ar": "\u0627\u0644\u0645\u064a\u0631\u0627",
+                "de": "Valmiera",
+                "es": "Valmiera",
+                "fr": "Valmiera",
+                "it": "Valmiera",
+                "zh": "\u74e6\u723e\u7c73\u8036\u62c9"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "101": {
+            "name": "Valka Municipality",
+            "code": "101",
+            "names": {
+                "geonames": "Valkas Rajons",
+                "ru": "\u0412\u0430\u043b\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Valka Municipality",
+                "es": "Municipalidad de Valka"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "099": {
+            "name": "Tukums Municipality",
+            "code": "099",
+            "names": {
+                "geonames": "Tukuma Rajons",
+                "ru": "\u0422\u0443\u043a\u0443\u043c\u0441\u043a\u0438\u0439",
+                "en": "Tukums Municipality",
+                "es": "Municipalidad de Tukums",
+                "it": "Tukums"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "097": {
+            "name": "Talsi Municipality",
+            "code": "097",
+            "names": {
+                "geonames": "Talsu Rajons",
+                "ru": "\u0422\u0430\u043b\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Talsi Municipality",
+                "es": "Municipalidad de Talsi",
+                "it": "Talsi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "088": {
+            "name": "Saldus Municipality",
+            "code": "088",
+            "names": {
+                "geonames": "Saldus Rajons",
+                "ru": "\u0421\u0430\u043b\u0434\u0443\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Saldus Municipality",
+                "es": "Municipalidad de Saldus",
+                "it": "Saldus"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "RIX": {
+            "name": "Riga",
+            "code": "RIX",
+            "names": {
+                "geonames": "Riga",
+                "ru": "\u0420\u0438\u0433\u0430",
+                "en": "Riga",
+                "ar": "\u0631\u064a\u063a\u0627",
+                "de": "Riga",
+                "es": "Riga",
+                "fr": "Riga",
+                "it": "Riga",
+                "zh": "\u91cc\u52a0"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 56.9465363,
+            "lng": 24.104850299999953
+        },
+        "077": {
+            "name": "R\u0113zekne Municipality",
+            "code": "077",
+            "names": {
+                "geonames": "Rezeknes Rajons",
+                "ru": "\u0420\u0435\u0437\u0435\u043a\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "R\u0113zekne Municipality",
+                "de": "Bezirk R\u0113zekne",
+                "es": "Municipalidad de R\u0113zekne",
+                "it": "R\u0113zekne"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "REZ": {
+            "name": "R\u0113zekne",
+            "code": "REZ",
+            "names": {
+                "geonames": "Rezekne",
+                "ru": "\u0420\u0435\u0437\u0435\u043a\u043d\u0435",
+                "en": "R\u0113zekne",
+                "ar": "\u0631\u064a\u0632\u0643\u0646\u064a",
+                "de": "R\u0113zekne",
+                "es": "R\u0113zekne",
+                "fr": "R\u0113zekne",
+                "it": "R\u0113zekne",
+                "zh": "\u96f7\u6fa4\u514b\u5167"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 56.5076359,
+            "lng": 27.336576700000023
+        },
+        "073": {
+            "name": "Prei\u013ci Municipality",
+            "code": "073",
+            "names": {
+                "geonames": "Preilu Rajons",
+                "ru": "\u041f\u0440\u0435\u0439\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Prei\u013ci Municipality",
+                "es": "Municipalidad de Prei\u013ci",
+                "it": "Prei\u013ci"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "067": {
+            "name": "Ogre Municipality",
+            "code": "067",
+            "names": {
+                "geonames": "Ogre",
+                "ru": "\u041e\u0433\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ogre Municipality",
+                "es": "Municipalidad de Ogre"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "059": {
+            "name": "Madona Municipality",
+            "code": "059",
+            "names": {
+                "geonames": "Madonas Rajons",
+                "ru": "\u041c\u0430\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Madona Municipality",
+                "es": "Municipalidad de Madona",
+                "it": "Madona"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "058": {
+            "name": "Ludza Municipality",
+            "code": "058",
+            "names": {
+                "geonames": "Ludzas Rajons",
+                "ru": "\u041b\u0443\u0434\u0437\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ludza Municipality",
+                "es": "Municipalidad de Ludza",
+                "it": "Ludza"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "054": {
+            "name": "Limba\u017ei Municipality",
+            "code": "054",
+            "names": {
+                "geonames": "Limbazu Rajons",
+                "ru": "\u041b\u0438\u043c\u0431\u0430\u0436\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Limba\u017ei Municipality",
+                "de": "Bezirk Limba\u017ei",
+                "es": "Municipalidad de Limba\u017ei",
+                "it": "Limba\u017ei"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "LPX": {
+            "name": "Liep\u0101ja",
+            "code": "LPX",
+            "names": {
+                "geonames": "Liepaja",
+                "ru": "\u041b\u0438\u0435\u043f\u0430\u044f",
+                "en": "Liep\u0101ja",
+                "de": "Liep\u0101ja",
+                "es": "Liep\u0101ja",
+                "fr": "Liep\u0101ja",
+                "it": "Liep\u0101ja",
+                "zh": "\u5229\u8036\u5e15\u4e9a"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 56.4893335,
+            "lng": 21.011582699999963
+        },
+        "050": {
+            "name": "Kuld\u012bga Municipality",
+            "code": "050",
+            "names": {
+                "geonames": "Kuldigas Rajons",
+                "ru": "\u041a\u0443\u043b\u0434\u0438\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Kuld\u012bga Municipality",
+                "de": "Bezirk Kuld\u012bga",
+                "es": "Municipalidad de Kuld\u012bga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "047": {
+            "name": "Kr\u0101slava Municipality",
+            "code": "047",
+            "names": {
+                "geonames": "Kraslavas Rajons",
+                "ru": "\u041a\u0440\u0430\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Kr\u0101slava Municipality",
+                "de": "Bezirk Kr\u0101slava",
+                "es": "Municipalidad de Kr\u0101slava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "JUR": {
+            "name": "J\u016brmala",
+            "code": "JUR",
+            "names": {
+                "geonames": "Jurmala",
+                "ru": "\u042e\u0440\u043c\u0430\u043b\u0430",
+                "en": "J\u016brmala",
+                "de": "J\u016brmala",
+                "es": "J\u016brmala",
+                "fr": "Jurmala",
+                "it": "J\u016brmala",
+                "zh": "\u5c24\u723e\u99ac\u62c9"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 56.9681536,
+            "lng": 23.77052739999999
+        },
+        "041": {
+            "name": "Jelgava Municipality",
+            "code": "041",
+            "names": {
+                "geonames": "Jelgavas Rajons",
+                "ru": "\u0415\u043b\u0433\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Jelgava Municipality",
+                "de": "Bezirk Jelgava",
+                "es": "Municipalidad de Jelgava",
+                "it": "Jelgava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "JEL": {
+            "name": "Jelgava",
+            "code": "JEL",
+            "names": {
+                "geonames": "Jelgava",
+                "ru": "\u0415\u043b\u0433\u0430\u0432\u0430",
+                "en": "Jelgava",
+                "de": "Jelgava",
+                "es": "Jelgava",
+                "fr": "Jelgava",
+                "it": "Jelgava",
+                "zh": "\u53f6\u5c14\u52a0\u74e6"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 56.6484159,
+            "lng": 23.713940999999977
+        },
+        "042": {
+            "name": "J\u0113kabpils Municipality",
+            "code": "042",
+            "names": {
+                "geonames": "Jekabpils Municipality",
+                "ru": "\u0415\u043a\u0430\u0431\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "J\u0113kabpils Municipality",
+                "de": "Bezirk J\u0113kabpils",
+                "es": "Municipalidad de J\u0113kabpils",
+                "it": "J\u0113kabpils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "033": {
+            "name": "Gulbene Municipality",
+            "code": "033",
+            "names": {
+                "geonames": "Gulbenes Rajons",
+                "ru": "\u0413\u0443\u043b\u0431\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Gulbene Municipality",
+                "de": "Bezirk Gulbene",
+                "es": "Municipalidad de Gulbene"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "026": {
+            "name": "Dobele municipality",
+            "code": "026",
+            "names": {
+                "geonames": "Dobeles Rajons",
+                "ru": "\u0414\u043e\u0431\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Dobele municipality",
+                "de": "Bezirk Dobele",
+                "es": "Municipalidad de Dobele",
+                "it": "Dobele"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "025": {
+            "name": "Daugavpils Municipality",
+            "code": "025",
+            "names": {
+                "geonames": "Daugavpils municipality",
+                "ru": "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Daugavpils Municipality",
+                "de": "Bezirk Daugavpils",
+                "es": "Municipalidad de Daugavpils",
+                "fr": "Municipalit\u00e9 de Daugavpils",
+                "it": "Daugavpils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "DGV": {
+            "name": "Daugavpils",
+            "code": "DGV",
+            "names": {
+                "geonames": "Daugavpils",
+                "ru": "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441",
+                "en": "Daugavpils",
+                "ar": "\u062f\u0627\u0648\u063a\u0627\u0641\u0628\u064a\u0644\u0633",
+                "de": "Daugavpils",
+                "es": "Daugavpils",
+                "fr": "Daugavpils",
+                "it": "Daugavpils",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "city",
+            "parent": "LV",
+            "lat": 55.8753064,
+            "lng": 26.535756200000037
+        },
+        "022": {
+            "name": "C\u0113sis Municipality",
+            "code": "022",
+            "names": {
+                "geonames": "Cesu Rajons",
+                "ru": "\u0426\u0435\u0441\u0438\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "C\u0113sis Municipality",
+                "de": "Bezirk C\u0113sis",
+                "es": "Municipalidad de C\u0113sis"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "016": {
+            "name": "Bauska Municipality",
+            "code": "016",
+            "names": {
+                "geonames": "Bauskas Rajons",
+                "ru": "\u0411\u0430\u0443\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Bauska Municipality",
+                "de": "Bezirk Bauska",
+                "es": "Municipalidad de Bauska"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "015": {
+            "name": "Balvi Municipality",
+            "code": "015",
+            "names": {
+                "geonames": "Balvu Rajons",
+                "ru": "\u0411\u0430\u043b\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Balvi Municipality",
+                "de": "Bezirk Balvi",
+                "es": "Municipalidad de Balvi",
+                "it": "Balvi"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "007": {
+            "name": "Al\u016bksne Municipality",
+            "code": "007",
+            "names": {
+                "geonames": "Aluksnes Novads",
+                "ru": "\u0410\u043b\u0443\u043a\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Al\u016bksne Municipality",
+                "de": "Bezirk Al\u016bksne",
+                "es": "Municipalidad de Al\u016bksne"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "002": {
+            "name": "Aizkraukle Municipality",
+            "code": "002",
+            "names": {
+                "geonames": "Aizkraukles Rajons",
+                "ru": "\u0410\u0439\u0437\u043a\u0440\u0430\u0443\u043a\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Aizkraukle Municipality",
+                "de": "Bezirk Aizkraukle",
+                "es": "Municipalidad de Aizkraukle",
+                "fr": "Aizkraukles novads"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "027": {
+            "name": "Dundaga Municipality",
+            "code": "027",
+            "names": {
+                "geonames": "Dundaga",
+                "ru": "\u0414\u0443\u043d\u0434\u0430\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Dundaga Municipality",
+                "de": "Bezirk Dundaga",
+                "es": "Municipalidad de Dundaga",
+                "it": "Dundaga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "006": {
+            "name": "Alsunga municipality",
+            "code": "006",
+            "names": {
+                "geonames": "Alsunga",
+                "ru": "\u0410\u043b\u0441\u0443\u043d\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Alsunga municipality",
+                "de": "Bezirk Alsunga",
+                "es": "Municipalidad de Alsunga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "071": {
+            "name": "P\u0101vilosta Municipality",
+            "code": "071",
+            "names": {
+                "geonames": "Pavilostas",
+                "ru": "\u041f\u0430\u0432\u0438\u043b\u043e\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "P\u0101vilosta Municipality",
+                "de": "Bezirk P\u0101vilosta",
+                "es": "Municipalidad de P\u0101vilosta",
+                "it": "P\u0101vilosta"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "066": {
+            "name": "N\u012bca Municipality",
+            "code": "066",
+            "names": {
+                "geonames": "Nica",
+                "ru": "\u041d\u0438\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "N\u012bca Municipality",
+                "es": "Municipalidad de N\u012bca",
+                "fr": "N\u012bcas novads",
+                "it": "N\u012bca"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "081": {
+            "name": "Rucava Municipality",
+            "code": "081",
+            "names": {
+                "geonames": "Rucavas",
+                "ru": "\u0420\u0443\u0446\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Rucava Municipality",
+                "es": "Municipalidad de Rucava",
+                "it": "Rucava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "032": {
+            "name": "Grobi\u0146a Municipality",
+            "code": "032",
+            "names": {
+                "geonames": "Grobina",
+                "ru": "\u0413\u0440\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439",
+                "en": "Grobi\u0146a Municipality",
+                "de": "Bezirk Grobi\u0146a",
+                "es": "Municipalidad de Grobi\u0146a"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "028": {
+            "name": "Durbe Municipality",
+            "code": "028",
+            "names": {
+                "geonames": "Durbe",
+                "ru": "\u0414\u0443\u0440\u0431\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Durbe Municipality",
+                "de": "Bezirk Durbe",
+                "es": "Municipalidad de Durbe"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "003": {
+            "name": "Aizpute Municipality",
+            "code": "003",
+            "names": {
+                "geonames": "Aizpute",
+                "ru": "\u0410\u0439\u0437\u043f\u0443\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Aizpute Municipality",
+                "de": "Bezirk Aizpute",
+                "es": "Municipalidad de Aizpute",
+                "fr": "Aizputes novads"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "074": {
+            "name": "Priekule Municipality",
+            "code": "074",
+            "names": {
+                "geonames": "Priekule",
+                "ru": "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Priekule Municipality",
+                "es": "Municipalidad de Priekule",
+                "it": "Priekule"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "100": {
+            "name": "Vai\u0146ode Municipality",
+            "code": "100",
+            "names": {
+                "geonames": "Vainode",
+                "ru": "\u0412\u0430\u0439\u043d\u0451\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vai\u0146ode Municipality",
+                "es": "Municipalidad de Vai\u0146ode",
+                "it": "Vai\u0146ode"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "093": {
+            "name": "Skrunda Municipality",
+            "code": "093",
+            "names": {
+                "geonames": "Skrunda",
+                "ru": "\u0421\u043a\u0440\u0443\u043d\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Skrunda Municipality",
+                "de": "Bezirk Skrunda",
+                "es": "Municipalidad de Skrunda",
+                "it": "Skrunda"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "018": {
+            "name": "Broc\u0113ni Municipality",
+            "code": "018",
+            "names": {
+                "geonames": "Broceni",
+                "ru": "\u0411\u0440\u043e\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Broc\u0113ni Municipality",
+                "de": "Bezirk Broc\u0113ni",
+                "es": "Municipalidad de Broc\u0113ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "079": {
+            "name": "Roja Municipality",
+            "code": "079",
+            "names": {
+                "geonames": "Rojas",
+                "ru": "\u0420\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Roja Municipality",
+                "es": "Municipalidad de Roja",
+                "it": "Roja"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "043": {
+            "name": "Kandava Municipality",
+            "code": "043",
+            "names": {
+                "geonames": "Kandava",
+                "ru": "\u041a\u0430\u043d\u0434\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Kandava Municipality",
+                "de": "Bezirk Kandava",
+                "es": "Municipalidad de Kandava",
+                "it": "Kandava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "010": {
+            "name": "Auce Municipality",
+            "code": "010",
+            "names": {
+                "geonames": "Auces",
+                "ru": "\u0410\u0443\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Auce Municipality",
+                "de": "Bezirk Auce",
+                "es": "Municipalidad de Auce"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "040": {
+            "name": "Jaunpils Municipality",
+            "code": "040",
+            "names": {
+                "geonames": "Jaunpils",
+                "ru": "\u042f\u0443\u043d\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Jaunpils Municipality",
+                "de": "Bezirk Jaunpils",
+                "es": "Municipalidad de Jaunpils",
+                "it": "Jaunpils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "029": {
+            "name": "Engure Municipality",
+            "code": "029",
+            "names": {
+                "geonames": "Engure",
+                "ru": "\u042d\u043d\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Engure Municipality",
+                "de": "Bezirk Engure",
+                "es": "Municipalidad de Engure",
+                "it": "Engure"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "098": {
+            "name": "T\u0113rvete Municipality",
+            "code": "098",
+            "names": {
+                "geonames": "Tervete",
+                "ru": "\u0422\u0435\u0440\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "T\u0113rvete Municipality",
+                "es": "Municipalidad de T\u0113rvete",
+                "fr": "T\u0113rvete",
+                "it": "T\u0113rvete"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "069": {
+            "name": "Ozolnieki Municipality",
+            "code": "069",
+            "names": {
+                "geonames": "Ozolnieku",
+                "ru": "\u041e\u0437\u043e\u043b\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ozolnieki Municipality",
+                "es": "Municipalidad de Ozolnieki",
+                "it": "Ozolnieki"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "083": {
+            "name": "Rund\u0101le Municipality",
+            "code": "083",
+            "names": {
+                "geonames": "Rundales",
+                "ru": "\u0420\u0443\u043d\u0434\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Rund\u0101le Municipality",
+                "es": "Municipalidad de Rund\u0101le",
+                "it": "Rund\u0101le"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "012": {
+            "name": "Bab\u012bte Municipality",
+            "code": "012",
+            "names": {
+                "geonames": "Babite",
+                "ru": "\u0411\u0430\u0431\u0438\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Bab\u012bte Municipality",
+                "de": "Bezirk Bab\u012bte",
+                "es": "Municipalidad de Bab\u012bte",
+                "it": "Bab\u012bte"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "062": {
+            "name": "M\u0101rupe Municipality",
+            "code": "062",
+            "names": {
+                "geonames": "Marupe",
+                "ru": "\u041c\u0430\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "M\u0101rupe Municipality",
+                "es": "Municipalidad de M\u0101rupe",
+                "it": "M\u0101rupe"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "068": {
+            "name": "Olaine Municipality",
+            "code": "068",
+            "names": {
+                "geonames": "Olaine",
+                "ru": "\u041e\u043b\u0430\u0439\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Olaine Municipality",
+                "es": "Municipalidad de Olaine"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "034": {
+            "name": "Iecava municipality",
+            "code": "034",
+            "names": {
+                "geonames": "Lecava",
+                "ru": "\u0418\u0435\u0446\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Iecava municipality",
+                "de": "Bezirk Iecava",
+                "es": "Municipalidad de Iecava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "052": {
+            "name": "\u0136ekava Municipality",
+            "code": "052",
+            "names": {
+                "geonames": "Kekava",
+                "ru": "\u041a\u0435\u043a\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "\u0136ekava Municipality",
+                "es": "Municipalidad de \u0136ekava",
+                "it": "\u0136ekava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "087": {
+            "name": "Salaspils Municipality",
+            "code": "087",
+            "names": {
+                "geonames": "Salaspils",
+                "ru": "\u0421\u0430\u043b\u0430\u0441\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Salaspils Municipality",
+                "es": "Municipalidad de Salaspils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "013": {
+            "name": "Baldone Municipality",
+            "code": "013",
+            "names": {
+                "geonames": "Baldone",
+                "ru": "\u0411\u0430\u043b\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Baldone Municipality",
+                "de": "Bezirk Baldone",
+                "es": "Municipalidad de Baldone",
+                "it": "Baldone"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "095": {
+            "name": "Stopi\u0146i municipality",
+            "code": "095",
+            "names": {
+                "geonames": "Stopini",
+                "ru": "\u0421\u0442\u043e\u043f\u0438\u043d\u0441\u043a\u0438\u0439",
+                "en": "Stopi\u0146i municipality",
+                "es": "Municipalidad de Stopi\u0146i",
+                "it": "Stopi\u0146i"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "020": {
+            "name": "Carnikava Municipality",
+            "code": "020",
+            "names": {
+                "geonames": "Carnikava",
+                "ru": "\u0426\u0430\u0440\u043d\u0438\u043a\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Carnikava Municipality",
+                "de": "Bezirk Carnikava",
+                "es": "Municipalidad de Carnikava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "011": {
+            "name": "\u0100da\u017ei Municipality",
+            "code": "011",
+            "names": {
+                "geonames": "Adazi",
+                "ru": "\u0410\u0434\u0430\u0436\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "\u0100da\u017ei Municipality",
+                "de": "Bezirk \u0100da\u017ei",
+                "es": "Municipalidad de \u0100da\u017ei"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "031": {
+            "name": "Garkalne Municipality",
+            "code": "031",
+            "names": {
+                "geonames": "Garkalne",
+                "ru": "\u0413\u0430\u0440\u043a\u0430\u043b\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Garkalne Municipality",
+                "de": "Bezirk Garkalne",
+                "es": "Municipalidad de Garkalne",
+                "it": "Garkalne"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "105": {
+            "name": "Vecumnieki Municipality",
+            "code": "105",
+            "names": {
+                "geonames": "Vecumnieki",
+                "ru": "\u0412\u0435\u0446\u0443\u043c\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vecumnieki Municipality",
+                "es": "Municipalidad de Vecumnieki",
+                "it": "Vecumnieki"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "051": {
+            "name": "\u0136egums Municipality",
+            "code": "051",
+            "names": {
+                "geonames": "Kegums",
+                "ru": "\u041a\u0435\u0433\u0443\u043c\u0441\u043a\u0438\u0439",
+                "en": "\u0136egums Municipality",
+                "de": "Bezirk \u0136egums",
+                "es": "Municipalidad de \u0136egums",
+                "it": "\u0136egums"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "053": {
+            "name": "Lielv\u0101rde Municipality",
+            "code": "053",
+            "names": {
+                "geonames": "Lielvarde",
+                "ru": "\u041b\u0438\u0435\u043b\u0432\u0430\u0440\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Lielv\u0101rde Municipality",
+                "es": "Municipalidad de Lielv\u0101rde",
+                "it": "Lielv\u0101rde"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "092": {
+            "name": "Skr\u012bveri Municipality",
+            "code": "092",
+            "names": {
+                "geonames": "Skriveri",
+                "ru": "\u0421\u043a\u0440\u0438\u0432\u0435\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Skr\u012bveri Municipality",
+                "es": "Municipalidad de Skr\u012bveri",
+                "it": "Skr\u012bveri"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "038": {
+            "name": "Jaunjelgava Municipality",
+            "code": "038",
+            "names": {
+                "geonames": "Jaunjelgava",
+                "ru": "\u042f\u0443\u043d\u0435\u043b\u0433\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Jaunjelgava Municipality",
+                "de": "Bezirk Jaunjelgava",
+                "es": "Municipalidad de Jaunjelgava",
+                "fr": "Municipalit\u00e9 de Jaunjelgava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "065": {
+            "name": "Nereta Municipality",
+            "code": "065",
+            "names": {
+                "geonames": "Nereta",
+                "ru": "\u041d\u0435\u0440\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Nereta Municipality",
+                "es": "Municipalidad de Nereta",
+                "it": "Nereta"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "107": {
+            "name": "Vies\u012bte Municipality",
+            "code": "107",
+            "names": {
+                "geonames": "Viesite",
+                "ru": "\u0412\u0438\u0435\u0441\u0438\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vies\u012bte Municipality",
+                "es": "Municipalidad de Vies\u012bte",
+                "it": "Vies\u012bte"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "085": {
+            "name": "Sala Municipality, Latvia",
+            "code": "085",
+            "names": {
+                "geonames": "Salas",
+                "ru": "\u0421\u0430\u043b\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Sala Municipality",
+                "es": "Municipalidad de Sala",
+                "it": "Sala"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "JKB": {
+            "name": "J\u0113kabpils",
+            "code": "JKB",
+            "names": {
+                "geonames": "Jekabpils",
+                "ru": "\u0415\u043a\u0430\u0431\u043f\u0438\u043b\u0441",
+                "en": "J\u0113kabpils",
+                "de": "J\u0113kabpils",
+                "es": "J\u0113kabpils",
+                "fr": "J\u0113kabpils",
+                "it": "J\u0113kabpils",
+                "zh": "\u8449\u5361\u5e03\u76ae\u723e\u65af"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "004": {
+            "name": "Akn\u012bste Municipality",
+            "code": "004",
+            "names": {
+                "geonames": "Akniste",
+                "ru": "\u0410\u043a\u043d\u0438\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Akn\u012bste Municipality",
+                "de": "Bezirk Akn\u012bste",
+                "es": "Municipalidad de Akn\u012bste",
+                "fr": "Municipalit\u00e9 d'Akn\u012bste"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "036": {
+            "name": "Il\u016bkste Municipality",
+            "code": "036",
+            "names": {
+                "geonames": "Ilukste",
+                "ru": "\u0418\u043b\u0443\u043a\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Il\u016bkste Municipality",
+                "de": "Bezirk Il\u016bkste",
+                "es": "Municipalidad de Il\u016bkste"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "103": {
+            "name": "V\u0101rkava Municipality",
+            "code": "103",
+            "names": {
+                "geonames": "Varkava",
+                "ru": "\u0412\u0430\u0440\u043a\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "V\u0101rkava Municipality",
+                "de": "Vecv\u0101rkava",
+                "es": "Municipalidad de V\u0101rkava",
+                "it": "V\u0101rkava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "056": {
+            "name": "L\u012bv\u0101ni Municipality",
+            "code": "056",
+            "names": {
+                "geonames": "Livani",
+                "ru": "\u041b\u0438\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "L\u012bv\u0101ni Municipality",
+                "es": "Municipalidad de L\u012bv\u0101ni",
+                "it": "L\u012bv\u0101ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "102": {
+            "name": "Varak\u013c\u0101ni Municipality",
+            "code": "102",
+            "names": {
+                "geonames": "Varaklani",
+                "ru": "\u0412\u0430\u0440\u0430\u043a\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Varak\u013c\u0101ni Municipality",
+                "es": "Municipalidad de Varak\u013c\u0101ni",
+                "it": "Varak\u013c\u0101ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "109": {
+            "name": "Vi\u013c\u0101ni Municipality",
+            "code": "109",
+            "names": {
+                "geonames": "Vilanu",
+                "ru": "\u0412\u0438\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vi\u013c\u0101ni Municipality",
+                "es": "Municipalidad de Vi\u013c\u0101ni",
+                "it": "Vi\u013c\u0101ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "078": {
+            "name": "Riebi\u0146i Municipality",
+            "code": "078",
+            "names": {
+                "geonames": "Riebinu",
+                "ru": "\u0420\u0438\u0435\u0431\u0438\u043d\u0441\u043a\u0438\u0439",
+                "en": "Riebi\u0146i Municipality",
+                "es": "Municipalidad de Riebi\u0146i",
+                "it": "Riebi\u0146i"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "001": {
+            "name": "Aglona Municipality",
+            "code": "001",
+            "names": {
+                "geonames": "Aglona",
+                "ru": "\u0410\u0433\u043b\u043e\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Aglona Municipality",
+                "de": "Bezirk Aglona",
+                "es": "Municipalidad de Aglona",
+                "fr": "Aglonas novads"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "023": {
+            "name": "Cibla municipality",
+            "code": "023",
+            "names": {
+                "geonames": "Cibla",
+                "ru": "\u0426\u0438\u0431\u043b\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Cibla municipality",
+                "de": "Bezirk Cibla",
+                "es": "Municipalidad de Cibla",
+                "it": "Cibla"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "110": {
+            "name": "Zilupe municipality",
+            "code": "110",
+            "names": {
+                "geonames": "Zilupes",
+                "ru": "\u0417\u0438\u043b\u0443\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Zilupe municipality",
+                "de": "Bezirk Zilupe",
+                "es": "Municipalidad de Zilupe",
+                "fr": "Zilupes novads"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "108": {
+            "name": "Vi\u013caka Municipality",
+            "code": "108",
+            "names": {
+                "geonames": "Vilaka",
+                "ru": "\u0412\u0438\u043b\u044f\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vi\u013caka Municipality",
+                "es": "Municipalidad de Vi\u013caka",
+                "it": "Vi\u013caka"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "014": {
+            "name": "Baltinava Municipality",
+            "code": "014",
+            "names": {
+                "geonames": "Baltinava",
+                "ru": "\u0411\u0430\u043b\u0442\u0438\u043d\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Baltinava Municipality",
+                "de": "Bezirk Baltinava",
+                "es": "Municipalidad de Baltinava",
+                "it": "Baltinava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "024": {
+            "name": "Dagda Municipality",
+            "code": "024",
+            "names": {
+                "geonames": "Dagda",
+                "ru": "\u0414\u0430\u0433\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Dagda Municipality",
+                "de": "Bezirk Dagda",
+                "es": "Municipalidad de Dagda"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "044": {
+            "name": "K\u0101rsava Municipality",
+            "code": "044",
+            "names": {
+                "geonames": "Karsava",
+                "ru": "\u041a\u0430\u0440\u0441\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "K\u0101rsava Municipality",
+                "de": "Bezirk K\u0101rsava",
+                "es": "Municipalidad de K\u0101rsava",
+                "it": "K\u0101rsava"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "082": {
+            "name": "Rug\u0101ji Municipality",
+            "code": "082",
+            "names": {
+                "geonames": "Rugaju",
+                "ru": "\u0420\u0443\u0433\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Rug\u0101ji Municipality",
+                "es": "Municipalidad de Rug\u0101ji",
+                "it": "Rug\u0101ji"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "021": {
+            "name": "Cesvaine Municipality",
+            "code": "021",
+            "names": {
+                "geonames": "Cesvaine",
+                "ru": "\u0426\u0435\u0441\u0432\u0430\u0439\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Cesvaine Municipality",
+                "de": "Bezirk Cesvaine",
+                "es": "Municipalidad de Cesvaine"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "057": {
+            "name": "Lub\u0101na Municipality",
+            "code": "057",
+            "names": {
+                "geonames": "Lubana",
+                "ru": "\u041b\u0443\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Lub\u0101na Municipality",
+                "es": "Municipalidad de Lub\u0101na",
+                "it": "Lub\u0101na"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "049": {
+            "name": "Krustpils Municipality",
+            "code": "049",
+            "names": {
+                "geonames": "Krustpils",
+                "ru": "\u041a\u0440\u0443\u0441\u0442\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Krustpils Municipality",
+                "de": "Bezirk Krustpils",
+                "es": "Municipalidad de Krustpils",
+                "it": "Krustpils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "072": {
+            "name": "P\u013cavi\u0146as Municipality",
+            "code": "072",
+            "names": {
+                "geonames": "Plavinu",
+                "ru": "\u041f\u043b\u044f\u0432\u0438\u043d\u0441\u043a\u0438\u0439",
+                "en": "P\u013cavi\u0146as Municipality",
+                "es": "Municipalidad de P\u013cavi\u0146as",
+                "it": "P\u013cavi\u0146as"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "046": {
+            "name": "Koknese Municipality",
+            "code": "046",
+            "names": {
+                "geonames": "Koknese",
+                "ru": "\u041a\u043e\u043a\u043d\u0435\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Koknese Municipality",
+                "de": "Bezirk Koknese",
+                "es": "Municipalidad de Koknese"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "035": {
+            "name": "Ik\u0161\u0137ile Municipality",
+            "code": "035",
+            "names": {
+                "geonames": "Ikskile",
+                "ru": "\u0418\u043a\u0448\u043a\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ik\u0161\u0137ile Municipality",
+                "de": "Bezirk Ik\u0161\u0137ile",
+                "es": "Municipalidad de Ik\u0161\u0137ile"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "080": {
+            "name": "Ropa\u017ei Municipality",
+            "code": "080",
+            "names": {
+                "geonames": "Ropazu",
+                "ru": "\u0420\u043e\u043f\u0430\u0436\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ropa\u017ei Municipality",
+                "es": "Municipalidad de Ropa\u017ei",
+                "it": "Ropa\u017ei"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "037": {
+            "name": "In\u010dukalns Municipality",
+            "code": "037",
+            "names": {
+                "geonames": "Incukalns",
+                "ru": "\u0418\u043d\u0447\u0443\u043a\u0430\u043b\u043d\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "In\u010dukalns Municipality",
+                "de": "Bezirk In\u010dukalns",
+                "es": "Municipalidad de In\u010dukalns",
+                "it": "In\u010dukalns"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "048": {
+            "name": "Krimulda Municipality",
+            "code": "048",
+            "names": {
+                "geonames": "Krimulda",
+                "ru": "\u041a\u0440\u0438\u043c\u0443\u043b\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Krimulda Municipality",
+                "de": "Bezirk Krimulda",
+                "es": "Municipalidad de Krimulda",
+                "it": "Krimulda"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "091": {
+            "name": "Sigulda Municipality",
+            "code": "091",
+            "names": {
+                "geonames": "Sigulda",
+                "ru": "\u0421\u0438\u0433\u0443\u043b\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Sigulda Municipality",
+                "es": "Municipalidad de Sigulda",
+                "it": "Sigulda"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "055": {
+            "name": "L\u012bgatne Municipality",
+            "code": "055",
+            "names": {
+                "geonames": "Ligatne",
+                "ru": "\u041b\u0438\u0433\u0430\u0442\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "L\u012bgatne Municipality",
+                "es": "Municipalidad de L\u012bgatne"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "061": {
+            "name": "M\u0101lpils Municipality",
+            "code": "061",
+            "names": {
+                "geonames": "Malpils",
+                "ru": "\u041c\u0430\u043b\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "M\u0101lpils Municipality",
+                "es": "Municipalidad de M\u0101lpils",
+                "it": "M\u0101lpils"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "090": {
+            "name": "S\u0113ja Municipality",
+            "code": "090",
+            "names": {
+                "geonames": "Seja",
+                "ru": "\u0421\u0435\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "S\u0113ja Municipality",
+                "es": "Municipalidad de S\u0113ja",
+                "it": "S\u0113ja"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "089": {
+            "name": "Saulkrasti Municipality",
+            "code": "089",
+            "names": {
+                "geonames": "Saulkrastu",
+                "ru": "\u0421\u0430\u0443\u043b\u043a\u0440\u0430\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Saulkrasti Municipality",
+                "es": "Municipalidad de Saulkrasti",
+                "it": "Saulkrasti"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "086": {
+            "name": "Salacgr\u012bva Municipality",
+            "code": "086",
+            "names": {
+                "geonames": "Salacgrivas",
+                "ru": "\u0421\u0430\u043b\u0430\u0446\u0433\u0440\u0438\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Salacgr\u012bva Municipality",
+                "es": "Municipalidad de Salacgr\u012bva"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "005": {
+            "name": "Aloja Municipality",
+            "code": "005",
+            "names": {
+                "geonames": "Aloja",
+                "ru": "\u0410\u043b\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Aloja Municipality",
+                "de": "Bezirk Aloja",
+                "es": "Municipalidad de Aloja",
+                "fr": "Municipalit\u00e9 d'Aloja"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "064": {
+            "name": "Nauk\u0161\u0113ni Municipality",
+            "code": "064",
+            "names": {
+                "geonames": "Naukseni",
+                "ru": "\u041d\u0430\u0443\u043a\u0448\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Nauk\u0161\u0113ni Municipality",
+                "es": "Municipalidad de Nauk\u0161\u0113ni",
+                "fr": "Nauk\u0161\u0113nu novads",
+                "it": "Nauk\u0161\u0113ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "084": {
+            "name": "R\u016bjiena Municipality",
+            "code": "084",
+            "names": {
+                "geonames": "Rujienas",
+                "ru": "\u0420\u0443\u0439\u0438\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "R\u016bjiena Municipality",
+                "de": "Bezirk R\u016bjiena",
+                "es": "Municipalidad de R\u016bjiena",
+                "it": "R\u016bjiena"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "060": {
+            "name": "Mazsalaca Municipality",
+            "code": "060",
+            "names": {
+                "geonames": "Mazsalaca",
+                "ru": "\u041c\u0430\u0437\u0441\u0430\u043b\u0430\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Mazsalaca Municipality",
+                "es": "Municipalidad de Mazsalaca",
+                "it": "Mazsalaca"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "019": {
+            "name": "Burtnieki Municipality",
+            "code": "019",
+            "names": {
+                "geonames": "Burtnieki",
+                "ru": "\u0411\u0443\u0440\u0442\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Burtnieki Municipality",
+                "de": "Bezirk Burtnieki",
+                "es": "Municipalidad de Burtnieki",
+                "it": "Burtnieki"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "070": {
+            "name": "P\u0101rgauja Municipality",
+            "code": "070",
+            "names": {
+                "geonames": "Pargaujas",
+                "ru": "\u041f\u0430\u0440\u0433\u0430\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "P\u0101rgauja Municipality",
+                "es": "Municipalidad de P\u0101rgauja",
+                "it": "P\u0101rgauja"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "045": {
+            "name": "Koc\u0113ni Municipality",
+            "code": "045",
+            "names": {
+                "geonames": "Koceni",
+                "ru": "\u041a\u043e\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Koc\u0113ni Municipality",
+                "de": "Bezirk Koc\u0113ni",
+                "es": "Municipalidad de Valmiera",
+                "it": "Koc\u0113ni"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "008": {
+            "name": "Amata Municipality",
+            "code": "008",
+            "names": {
+                "geonames": "Amatas",
+                "ru": "\u0410\u043c\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Amata Municipality",
+                "de": "Bezirk Amata",
+                "es": "Municipalidad de Amata",
+                "it": "Amata"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "075": {
+            "name": "Prieku\u013ci Municipality",
+            "code": "075",
+            "names": {
+                "geonames": "Priekuli",
+                "en": "Prieku\u013ci Municipality",
+                "es": "Municipalidad de Prieku\u013ci",
+                "it": "Prieku\u013ci",
+                "ru": "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "076": {
+            "name": "Rauna Municipality",
+            "code": "076",
+            "names": {
+                "geonames": "Raunas",
+                "ru": "\u0420\u0430\u0443\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Rauna Municipality",
+                "es": "Municipalidad de Rauna",
+                "it": "Rauna"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "096": {
+            "name": "Stren\u010di Municipality",
+            "code": "096",
+            "names": {
+                "geonames": "Strenci",
+                "ru": "\u0421\u0442\u0440\u0435\u043d\u0447\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Stren\u010di Municipality",
+                "es": "Municipalidad de Stren\u010di",
+                "it": "Stren\u010di"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "017": {
+            "name": "Bever\u012bna Municipality",
+            "code": "017",
+            "names": {
+                "geonames": "Beverina",
+                "ru": "\u0411\u0435\u0432\u0435\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Bever\u012bna Municipality",
+                "de": "Bezirk Bever\u012bna",
+                "es": "Municipalidad de Bever\u012bna",
+                "it": "Bever\u012bna"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "094": {
+            "name": "Smiltene Municipality",
+            "code": "094",
+            "names": {
+                "geonames": "Smiltene",
+                "ru": "\u0421\u043c\u0438\u043b\u0442\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Smiltene Municipality",
+                "es": "Municipalidad de Smiltene",
+                "it": "Smiltene"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "039": {
+            "name": "Jaunpiebalga Municipality",
+            "code": "039",
+            "names": {
+                "geonames": "Jaunpiebalga",
+                "ru": "\u042f\u0443\u043d\u043f\u0438\u0435\u0431\u0430\u043b\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Jaunpiebalga Municipality",
+                "de": "Bezirk Jaunpiebalga",
+                "es": "Municipalidad de Jaunpiebalga",
+                "it": "Jaunpiebalga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "030": {
+            "name": "\u0112rg\u013ci Municipality",
+            "code": "030",
+            "names": {
+                "geonames": "Ergli",
+                "ru": "\u042d\u0440\u0433\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "\u0112rg\u013ci Municipality",
+                "de": "Bezirk \u0112rg\u013ci",
+                "es": "Municipalidad de \u0112rg\u013ci",
+                "it": "\u0112rg\u013ci"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "104": {
+            "name": "Vecpiebalga Municipality",
+            "code": "104",
+            "names": {
+                "geonames": "Vecpiebalga",
+                "ru": "\u0412\u0435\u0446\u043f\u0438\u0435\u0431\u0430\u043b\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Vecpiebalga Municipality",
+                "es": "Municipalidad de Vecpiebalga",
+                "it": "Vecpiebalga"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "009": {
+            "name": "Ape Municipality",
+            "code": "009",
+            "names": {
+                "geonames": "Apes",
+                "ru": "\u0410\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "Ape Municipality",
+                "de": "Bezirk Ape",
+                "es": "Municipalidad de Ape"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "063": {
+            "name": "M\u0113rsrags Municipality",
+            "code": "063",
+            "names": {
+                "geonames": "Mesraga",
+                "ru": "\u041c\u0435\u0440\u0441\u0440\u0430\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                "en": "M\u0113rsrags Municipality",
+                "es": "Municipalidad de M\u0113rsrags",
+                "it": "M\u0113rsrags"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "AI": {
+            "name": "Aizkraukle",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.6043878,
+            "lng": 25.255508899999995
+        },
+        "AL": {
+            "name": "Al\u016bksne",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.4205201,
+            "lng": 27.048654199999987
+        },
+        "BL": {
+            "name": "Balvi",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.1298687,
+            "lng": 27.263866000000007
+        },
+        "BU": {
+            "name": "Bauska",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.4042788,
+            "lng": 24.193797399999994
+        },
+        "CE": {
+            "name": "C\u0113sis",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.3126949,
+            "lng": 25.2754142
+        },
+        "DA": {
+            "name": "Daugavpils",
+            "division": "district",
+            "parent": "LV",
+            "lat": 55.8753064,
+            "lng": 26.535756200000037
+        },
+        "DO": {
+            "name": "Dobele",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.6244108,
+            "lng": 23.280162399999995
+        },
+        "GU": {
+            "name": "Gulbene",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.1745802,
+            "lng": 26.756591500000013
+        },
+        "JK": {
+            "name": "J\u0113kabpils",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.4988657,
+            "lng": 25.857245499999976
+        },
+        "JL": {
+            "name": "Jelgava",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.6484159,
+            "lng": 23.713940999999977
+        },
+        "KR": {
+            "name": "Kr\u0101slava",
+            "division": "district",
+            "parent": "LV",
+            "lat": 55.8951331,
+            "lng": 27.16508859999999
+        },
+        "KU": {
+            "name": "Kuld\u012bga",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.9759104,
+            "lng": 21.95696350000003
+        },
+        "LE": {
+            "name": "Liep\u0101ja",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.4893335,
+            "lng": 21.011582699999963
+        },
+        "LM": {
+            "name": "Limba\u017ei",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.511556,
+            "lng": 24.71928159999993
+        },
+        "LU": {
+            "name": "Ludza",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.545137,
+            "lng": 27.727037900000028
+        },
+        "MA": {
+            "name": "Madona",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.8553451,
+            "lng": 26.214578399999937
+        },
+        "OG": {
+            "name": "Ogre",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.8176364,
+            "lng": 24.614343899999994
+        },
+        "PR": {
+            "name": "Prei\u013ci",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.2938383,
+            "lng": 26.724320199999966
+        },
+        "RE": {
+            "name": "R\u0113zekne",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.5076359,
+            "lng": 27.336576700000023
+        },
+        "RI": {
+            "name": "R\u012bga",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.9465363,
+            "lng": 24.104850299999953
+        },
+        "SA": {
+            "name": "Saldus",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.6633003,
+            "lng": 22.48792100000003
+        },
+        "TA": {
+            "name": "Talsi",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.2455638,
+            "lng": 22.584822900000063
+        },
+        "TU": {
+            "name": "Tukums",
+            "division": "district",
+            "parent": "LV",
+            "lat": 56.9668778,
+            "lng": 23.15338159999999
+        },
+        "VK": {
+            "name": "Valka",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.7750697,
+            "lng": 26.01007340000001
+        },
+        "VM": {
+            "name": "Valmiera",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.5433884,
+            "lng": 25.42975660000002
+        },
+        "VE": {
+            "name": "Ventspils",
+            "division": "district",
+            "parent": "LV",
+            "lat": 57.3949981,
+            "lng": 21.59262609999996
+        }
+    }
+}

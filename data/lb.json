@@ -1,0 +1,169 @@
+{
+    "alpha-2": "LB",
+    "alpha-3": "LBN",
+    "numeric": 422,
+    "capital": "Beirut",
+    "currency": "LBP",
+    "languages": [
+        "ar",
+        "fr"
+    ],
+    "flag-icon": "\ud83c\uddf1\ud83c\udde7",
+    "names": {
+        "geonames": "Lebanon",
+        "de": "Libanon",
+        "ar": "\u0644\u0628\u0646\u0627\u0646",
+        "en": "Lebanon",
+        "es": "L\u00edbano",
+        "fr": "Liban",
+        "it": "Libano",
+        "ru": "\u041b\u0438\u0432\u0430\u043d",
+        "zh": "\u9ece\u5df4\u5ae9",
+        "he": "\u05dc\u05d1\u05e0\u05d5\u05df",
+        "hi": "\u0932\u0947\u092c\u0928\u093e\u0928",
+        "ja": "\u30ec\u30d0\u30ce\u30f3",
+        "pt": "L\u00edbano"
+    },
+    "ISO3166-2": {
+        "JL": {
+            "name": "Mount Lebanon Governorate",
+            "code": "JL",
+            "names": {
+                "geonames": "Mont-Liban",
+                "ru": "\u0413\u043e\u0440\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
+                "en": "Mount Lebanon Governorate",
+                "ar": "\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+                "de": "Gouvernement Libanonberg",
+                "es": "Gobernaci\u00f3n del Monte L\u00edbano",
+                "fr": "Gouvernorat du Mont-Liban",
+                "it": "Governatorato del Monte Libano",
+                "zh": "\u9ece\u5df4\u5ae9\u5c71\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": null,
+            "lng": null
+        },
+        "BA": {
+            "name": "Beirut Governorate",
+            "code": "BA",
+            "names": {
+                "geonames": "Beyrouth",
+                "ru": "\u0411\u0435\u0439\u0440\u0443\u0442",
+                "en": "Beirut Governorate",
+                "ar": "\u0628\u064a\u0631\u0648\u062a",
+                "de": "Gouvernement Beirut",
+                "es": "Gobernaci\u00f3n de Beirut",
+                "fr": "Gouvernorat de Beyrouth",
+                "it": "Governatorato di Beirut",
+                "zh": "\u8d1d\u9c81\u7279\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 33.8886289,
+            "lng": 35.49547940000002
+        },
+        "AS": {
+            "name": "North Governorate",
+            "code": "AS",
+            "names": {
+                "geonames": "Liban-Nord",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
+                "en": "North Governorate",
+                "ar": "\u0627\u0644\u0634\u0645\u0627\u0644",
+                "de": "Gouvernement Nord-Libanon",
+                "es": "L\u00edbano-Norte",
+                "fr": "Gouvernorat du Nord",
+                "it": "Governatorato del Nord Libano",
+                "zh": "\u5317\u90e8\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 34.3247222,
+            "lng": 36.00027780000005
+        },
+        "JA": {
+            "name": "South Governorate",
+            "code": "JA",
+            "names": {
+                "geonames": "South Governorate",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
+                "en": "South Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+                "de": "Gouvernement S\u00fcd-Libanon",
+                "es": "L\u00edbano-Sur",
+                "fr": "Gouvernorat du Sud-Liban",
+                "it": "Governatorato del Sud Libano",
+                "zh": "\u5357\u90e8\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 33.1977778,
+            "lng": 35.343888900000024
+        },
+        "BI": {
+            "name": "Beqaa Governorate",
+            "code": "BI",
+            "names": {
+                "geonames": "Beqaa",
+                "ru": "\u0411\u0435\u043a\u0430\u0430",
+                "en": "Beqaa Governorate",
+                "ar": "\u0627\u0644\u0628\u0642\u0627\u0639",
+                "de": "Gouvernement Bekaa",
+                "es": "Gobernaci\u00f3n de Bec\u00e1",
+                "fr": "Gouvernorat de la Bekaa",
+                "it": "Governatorato della Beqa'",
+                "zh": "\u8c9d\u5361\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 34.3583333,
+            "lng": 36.24472220000007
+        },
+        "NA": {
+            "name": "Nabatieh Governorate",
+            "code": "NA",
+            "names": {
+                "geonames": "Nabatiye",
+                "ru": "\u041d\u0430\u0431\u0430\u0442\u0438\u044f",
+                "en": "Nabatieh Governorate",
+                "ar": "\u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+                "de": "Gouvernement Nabat\u00e4a",
+                "es": "Gobernaci\u00f3n de Nabatiye",
+                "fr": "Gouvernorat de Nabatieh",
+                "it": "Governatorato di Nabatiye",
+                "zh": "\u7d0d\u5df4\u6cf0\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 33.4319444,
+            "lng": 35.684999999999945
+        },
+        "AK": {
+            "name": "Aakk\u00e2r",
+            "code": "AK",
+            "names": {
+                "geonames": "Aakkar",
+                "ru": "\u0410\u043a\u043a\u0430\u0440",
+                "en": "Aakk\u00e2r"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": null,
+            "lng": null
+        },
+        "BH": {
+            "name": "Baalbek-Hermel",
+            "code": "BH",
+            "names": {
+                "geonames": "Baalbek-Hermel",
+                "ru": "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a",
+                "en": "Baalbek-Hermel"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 34.0046889,
+            "lng": 36.211040000000025
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "alpha-2": "PS",
+    "alpha-3": "PSE",
+    "numeric": 275,
+    "capital": "Ramallah",
+    "currency": "ILS",
+    "languages": [
+        "ar"
+    ],
+    "flag-icon": "\ud83c\uddf5\ud83c\uddf8",
+    "names": {
+        "geonames": "Palestinian Territory",
+        "en": "Palestine",
+        "ar": "\u0641\u0644\u0633\u0637\u064a\u0646",
+        "de": "Pal\u00e4stina",
+        "es": "Palestina",
+        "fr": "Palestine",
+        "it": "Palestina",
+        "ru": "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430",
+        "zh": "\u5df4\u52d2\u65af\u5766\u5730\u533a",
+        "hi": "\u092b\u093c\u093f\u0932\u093f\u0938\u094d\u0924\u0940\u0928\u0940 \u0930\u093e\u091c\u094d\u092f\u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+        "ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
+        "pt": "Palestina"
+    },
+    "ISO3166-2": {
+        "GZZ": {
+            "name": "Gaza Strip",
+            "code": "GZZ",
+            "names": {
+                "geonames": "Gaza Strip",
+                "en": "Gaza Strip"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "WBK": {
+            "name": "West Bank",
+            "code": "WBK",
+            "names": {
+                "geonames": "West Bank",
+                "en": "West Bank"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

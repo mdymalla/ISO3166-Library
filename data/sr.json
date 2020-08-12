@@ -1,0 +1,218 @@
+{
+    "alpha-2": "SR",
+    "alpha-3": "SUR",
+    "numeric": 740,
+    "capital": "Paramaribo",
+    "currency": "SRD",
+    "languages": [
+        "nl"
+    ],
+    "flag-icon": "\ud83c\uddf8\ud83c\uddf7",
+    "names": {
+        "geonames": "Suriname",
+        "en": "Suriname",
+        "ar": "\u0633\u0648\u0631\u064a\u0646\u0627\u0645",
+        "de": "Suriname",
+        "es": "Surinam",
+        "fr": "Suriname",
+        "it": "Suriname",
+        "ru": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+        "zh": "\u8607\u5229\u5357",
+        "he": "\u05e1\u05d5\u05e8\u05d9\u05e0\u05d0\u05dd",
+        "hi": "\u0938\u0942\u0930\u0940\u0928\u093e\u092e",
+        "ja": "\u30b9\u30ea\u30ca\u30e0",
+        "pt": "Suriname"
+    },
+    "ISO3166-2": {
+        "WA": {
+            "name": "Wanica District",
+            "code": "WA",
+            "names": {
+                "geonames": "Wanica",
+                "en": "Wanica District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0627\u0646\u064a\u0643\u0627",
+                "de": "Wanica",
+                "es": "Wanica",
+                "fr": "Wanica",
+                "it": "Distretto di Wanica",
+                "ru": "\u0412\u0430\u043d\u0438\u043a\u0430",
+                "zh": "\u74e6\u5c3c\u5361\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 47.7510741,
+            "lng": -120.74013860000002
+        },
+        "SI": {
+            "name": "Sipaliwini District",
+            "code": "SI",
+            "names": {
+                "geonames": "Sipaliwini",
+                "en": "Sipaliwini District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u064a\u0628\u0627\u0644\u064a\u0648\u064a\u0646\u064a",
+                "de": "Sipaliwini",
+                "es": "Sipaliwini",
+                "fr": "Sipaliwini",
+                "it": "Distretto del Sipaliwini",
+                "ru": "\u0421\u0438\u043f\u0430\u043b\u0438\u0432\u0438\u043d\u0438",
+                "zh": "\u9521\u5e15\u5229\u7ef4\u5c3c\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 2.0331027,
+            "lng": -56.133755199999996
+        },
+        "SA": {
+            "name": "Saramacca District",
+            "code": "SA",
+            "names": {
+                "geonames": "Saramacca",
+                "en": "Saramacca District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0627\u0631\u0627\u0645\u0627\u0643\u0627",
+                "de": "Saramacca",
+                "es": "Saramacca",
+                "fr": "Saramacca",
+                "it": "Distretto del Saramacca",
+                "ru": "\u0421\u0430\u0440\u0430\u043c\u0430\u043a\u043a\u0430",
+                "zh": "\u8428\u62c9\u9a6c\u5361\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": null,
+            "lng": null
+        },
+        "PM": {
+            "name": "Paramaribo District",
+            "code": "PM",
+            "names": {
+                "geonames": "Paramaribo",
+                "en": "Paramaribo District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648",
+                "de": "Paramaribo",
+                "es": "Paramaribo",
+                "fr": "Paramaribo",
+                "it": "Distretto di Paramaribo",
+                "ru": "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e",
+                "zh": "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 5.8666667,
+            "lng": -55.16666670000001
+        },
+        "PR": {
+            "name": "Para District",
+            "code": "PR",
+            "names": {
+                "geonames": "Para",
+                "en": "Para District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0631\u0627",
+                "de": "Para",
+                "es": "Para",
+                "fr": "Para",
+                "it": "Distretto del Para",
+                "ru": "\u041f\u0430\u0440\u0430",
+                "zh": "\u5e15\u62c9\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": -1.366115,
+            "lng": -48.46950800000002
+        },
+        "NI": {
+            "name": "Nickerie District",
+            "code": "NI",
+            "names": {
+                "geonames": "Nickerie",
+                "en": "Nickerie District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u064a\u0643\u064a\u0631\u064a",
+                "de": "Nickerie",
+                "es": "Nickerie",
+                "fr": "District de Nickerie",
+                "it": "Distretto del Nickerie",
+                "ru": "\u041d\u0438\u043a\u043a\u0435\u0440\u0438",
+                "zh": "\u5c3c\u514b\u91cc\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 5.5855469,
+            "lng": -56.83111170000001
+        },
+        "MA": {
+            "name": "Marowijne District",
+            "code": "MA",
+            "names": {
+                "geonames": "Marowijne",
+                "en": "Marowijne District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0631\u0648\u064a\u062c\u064a\u0646\u064a",
+                "de": "Marowijne",
+                "es": "Marowijne",
+                "fr": "Marowijne",
+                "it": "Distretto del Marowijne",
+                "ru": "\u041c\u0430\u0440\u043e\u0432\u0435\u0439\u043d\u0435",
+                "zh": "\u9a6c\u7f57\u97e6\u8bb7\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        "CR": {
+            "name": "Coronie District",
+            "code": "CR",
+            "names": {
+                "geonames": "Coronie",
+                "en": "Coronie District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0631\u0648\u0646\u064a",
+                "de": "Coronie",
+                "es": "Coronie",
+                "fr": "Coronie",
+                "it": "Distretto di Coronie",
+                "ru": "\u041a\u043e\u0440\u043e\u043d\u0438",
+                "zh": "\u79d1\u7f57\u5c3c\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": null,
+            "lng": null
+        },
+        "CM": {
+            "name": "Commewijne District",
+            "code": "CM",
+            "names": {
+                "geonames": "Commewijne",
+                "en": "Commewijne District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0645\u064a\u0648\u064a\u062c\u0646\u064a",
+                "de": "Commewijne",
+                "es": "Commewijne",
+                "fr": "Commewijne",
+                "it": "Distretto del Commewijne",
+                "ru": "\u041a\u043e\u043c\u043c\u0435\u0432\u0435\u0439\u043d\u0435",
+                "zh": "\u79d1\u9ed8\u97e6\u8bb7\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": null,
+            "lng": null
+        },
+        "BR": {
+            "name": "Brokopondo District",
+            "code": "BR",
+            "names": {
+                "geonames": "Brokopondo",
+                "en": "Brokopondo District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u0648\u0643\u0648\u0628\u0648\u0646\u062f\u0648",
+                "de": "Brokopondo",
+                "es": "Brokopondo",
+                "fr": "Brokopondo",
+                "it": "Distretto di Brokopondo",
+                "ru": "\u0411\u0440\u043e\u043a\u043e\u043f\u043e\u043d\u0434\u043e",
+                "zh": "\u5e03\u7f57\u79d1\u84ec\u591a\u533a"
+            },
+            "division": "district",
+            "parent": "SR",
+            "lat": 5.0252271,
+            "lng": -54.99285329999998
+        }
+    }
+}

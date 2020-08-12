@@ -1,0 +1,212 @@
+{
+    "alpha-2": "ZW",
+    "alpha-3": "ZWE",
+    "numeric": 716,
+    "capital": "Harare",
+    "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+    "languages": [
+        "en",
+        "sn",
+        "nd"
+    ],
+    "flag-icon": "\ud83c\uddff\ud83c\uddfc",
+    "names": {
+        "geonames": "Zimbabwe",
+        "en": "Zimbabwe",
+        "ar": "\u0632\u064a\u0645\u0628\u0627\u0628\u0648\u064a",
+        "de": "Simbabwe",
+        "es": "Zimbabue",
+        "fr": "Zimbabwe",
+        "it": "Zimbabwe",
+        "ru": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+        "zh": "\u8f9b\u5df4\u5a01",
+        "he": "\u05d6\u05d9\u05de\u05d1\u05d1\u05d5\u05d0\u05d4",
+        "hi": "\u091c\u093c\u093f\u092e\u094d\u092c\u093e\u092c\u094d\u0935\u0947",
+        "ja": "\u30b8\u30f3\u30d0\u30d6\u30a8",
+        "pt": "Zimbabwe"
+    },
+    "ISO3166-2": {
+        "MI": {
+            "name": "Midlands Province",
+            "code": "MI",
+            "names": {
+                "geonames": "Midlands",
+                "ru": "\u041c\u0438\u0434\u043b\u0435\u043d\u0434\u0441",
+                "en": "Midlands Province",
+                "de": "Provinz Midlands",
+                "es": "Midlands",
+                "fr": "Province des Midlands",
+                "it": "Provincia delle Midland",
+                "zh": "\u4e2d\u90e8\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": 44.3148443,
+            "lng": -85.60236429999998
+        },
+        "MS": {
+            "name": "Matabeleland South Province",
+            "code": "MS",
+            "names": {
+                "geonames": "Matabeleland South",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u041c\u0430\u0442\u0430\u0431\u0435\u043b\u0435\u043b\u0435\u043d\u0434",
+                "en": "Matabeleland South Province",
+                "de": "Provinz Matabeleland South",
+                "es": "Matabelelandia Meridional",
+                "fr": "Matabeleland m\u00e9ridional",
+                "it": "Provincia del Matabeleland Meridionale",
+                "zh": "\u5357\u99ac\u5854\u8c9d\u840a\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": null,
+            "lng": null
+        },
+        "MN": {
+            "name": "Matabeleland North Province",
+            "code": "MN",
+            "names": {
+                "geonames": "Matabeleland North",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041c\u0430\u0442\u0430\u0431\u0435\u043b\u0435\u043b\u0435\u043d\u0434",
+                "en": "Matabeleland North Province",
+                "de": "Provinz Matabeleland North",
+                "es": "Matabelelandia Septentrional",
+                "fr": "Matabeleland septentrional",
+                "it": "Provincia del Matabeleland Settentrionale",
+                "zh": "\u5317\u99ac\u5854\u8c9d\u840a\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": 46.729553,
+            "lng": -94.68589980000002
+        },
+        "MV": {
+            "name": "Masvingo Province",
+            "code": "MV",
+            "names": {
+                "geonames": "Masvingo",
+                "ru": "\u041c\u0430\u0441\u0432\u0438\u043d\u0433\u043e",
+                "en": "Masvingo Province",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0627\u0633\u0641\u064a\u0646\u063a\u0648",
+                "de": "Provinz Masvingo",
+                "es": "Provincia de Masvingo",
+                "fr": "Province de Masvingo",
+                "it": "Provincia di Masvingo",
+                "zh": "\u99ac\u65af\u6eab\u6208\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": -20.0744444,
+            "lng": 30.83277780000003
+        },
+        "MW": {
+            "name": "Mashonaland West Province",
+            "code": "MW",
+            "names": {
+                "geonames": "Mashonaland West",
+                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041c\u0430\u0448\u043e\u043d\u0430\u043b\u0435\u043d\u0434",
+                "en": "Mashonaland West Province",
+                "de": "Provinz Mashonaland West",
+                "es": "Mashonalandia Occidental",
+                "fr": "Mashonaland occidental",
+                "it": "Provincia del Mashonaland Occidentale",
+                "zh": "\u897f\u99ac\u7d39\u7d0d\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": null,
+            "lng": null
+        },
+        "ME": {
+            "name": "Mashonaland East Province",
+            "code": "ME",
+            "names": {
+                "geonames": "Mashonaland East",
+                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041c\u0430\u0448\u043e\u043d\u0430\u043b\u0435\u043d\u0434",
+                "en": "Mashonaland East Province",
+                "de": "Provinz Mashonaland East",
+                "es": "Mashonalandia Oriental",
+                "fr": "Mashonaland oriental",
+                "it": "Provincia del Mashonaland Orientale",
+                "zh": "\u6771\u99ac\u7d39\u7d0d\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": null,
+            "lng": null
+        },
+        "MC": {
+            "name": "Mashonaland Central Province",
+            "code": "MC",
+            "names": {
+                "geonames": "Mashonaland Central",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u041c\u0430\u0448\u043e\u043d\u0430\u043b\u0435\u043d\u0434",
+                "en": "Mashonaland Central Province",
+                "de": "Provinz Mashonaland Central",
+                "es": "Mashonalandia Central",
+                "fr": "Mashonaland central",
+                "it": "Provincia del Mashonaland Centrale",
+                "zh": "\u4e2d\u99ac\u7d39\u7d0d\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": -17.8172008,
+            "lng": 31.066592000000014
+        },
+        "MA": {
+            "name": "Manicaland Province",
+            "code": "MA",
+            "names": {
+                "geonames": "Manicaland",
+                "ru": "\u041c\u0430\u043d\u0438\u043a\u0430\u043b\u0435\u043d\u0434",
+                "en": "Manicaland Province",
+                "de": "Provinz Manicaland",
+                "es": "Manicalandia",
+                "fr": "Manicaland",
+                "it": "Provincia del Manicaland",
+                "zh": "\u99ac\u5c3c\u5361\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "ZW",
+            "lat": 42.4072107,
+            "lng": -71.38243740000001
+        },
+        "BU": {
+            "name": "Bulawayo",
+            "code": "BU",
+            "names": {
+                "geonames": "Bulawayo",
+                "ru": "\u0411\u0443\u043b\u0430\u0432\u0430\u0439\u043e",
+                "en": "Bulawayo",
+                "de": "Bulawayo",
+                "es": "Bulawayo",
+                "fr": "Bulawayo",
+                "it": "Bulawayo",
+                "zh": "\u5e03\u62c9\u74e6\u7ea6"
+            },
+            "division": "city",
+            "parent": "ZW",
+            "lat": -20.17219,
+            "lng": 28.581159999999954
+        },
+        "HA": {
+            "name": "Harare Province",
+            "code": "HA",
+            "names": {
+                "geonames": "Harare",
+                "ru": "\u0425\u0430\u0440\u0430\u0440\u0435",
+                "en": "Harare Province",
+                "ar": "\u0647\u0631\u0627\u0631\u064a",
+                "de": "Harare",
+                "es": "Harare",
+                "fr": "Harare",
+                "it": "Harare",
+                "zh": "\u54c8\u62c9\u96f7"
+            },
+            "division": "city",
+            "parent": "ZW",
+            "lat": -17.82922,
+            "lng": 31.053961000000072
+        }
+    }
+}

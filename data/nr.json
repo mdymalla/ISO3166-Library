@@ -1,0 +1,282 @@
+{
+    "alpha-2": "NR",
+    "alpha-3": "NRU",
+    "numeric": 520,
+    "capital": "Yaren",
+    "currency": "AUD",
+    "languages": [
+        "en",
+        "na"
+    ],
+    "flag-icon": "\ud83c\uddf3\ud83c\uddf7",
+    "names": {
+        "geonames": "Nauru",
+        "en": "Nauru",
+        "ar": "\u0646\u0627\u0648\u0631\u0648",
+        "de": "Nauru",
+        "es": "Nauru",
+        "fr": "Nauru",
+        "it": "Nauru",
+        "ru": "\u041d\u0430\u0443\u0440\u0443",
+        "zh": "\u8afe\u9b6f",
+        "he": "\u05e0\u05d0\u05d5\u05e8\u05d5",
+        "hi": "\u0928\u093e\u0909\u0930\u0941",
+        "ja": "\u30ca\u30a6\u30eb",
+        "pt": "Nauru"
+    },
+    "ISO3166-2": {
+        "14": {
+            "name": "Yaren District",
+            "code": "14",
+            "names": {
+                "geonames": "Yaren",
+                "ru": "\u042f\u0440\u0435\u043d",
+                "en": "Yaren District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0631\u064a\u0646",
+                "de": "Yaren",
+                "es": "Yaren",
+                "fr": "Yaren",
+                "it": "Yaren",
+                "zh": "\u4e9e\u502b\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5466857,
+            "lng": 166.92109129999994
+        },
+        "13": {
+            "name": "Uaboe District",
+            "code": "13",
+            "names": {
+                "geonames": "Uaboe",
+                "ru": "\u0423\u0430\u0431\u043e",
+                "en": "Uaboe District",
+                "de": "Uaboe",
+                "es": "Uaboe",
+                "fr": "Uaboe",
+                "it": "Uaboe",
+                "zh": "\u512a\u96c5\u5e03\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": null,
+            "lng": null
+        },
+        "12": {
+            "name": "Nibok District",
+            "code": "12",
+            "names": {
+                "geonames": "Nibok",
+                "ru": "\u041d\u0438\u0431\u043e\u043a",
+                "en": "Nibok District",
+                "de": "Nibok",
+                "es": "Nibok",
+                "fr": "Nibok",
+                "it": "Nibok",
+                "zh": "\u5c3c\u67cf\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5196208,
+            "lng": 166.9189301
+        },
+        "11": {
+            "name": "Meneng District",
+            "code": "11",
+            "names": {
+                "geonames": "Meneng",
+                "ru": "\u041c\u0435\u043d\u0435\u043d\u0433",
+                "en": "Meneng District",
+                "de": "Meneng",
+                "es": "Meneng",
+                "fr": "Meneng",
+                "it": "Meneng",
+                "zh": "\u6e44\u6fd8\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Ijuw District",
+            "code": "10",
+            "names": {
+                "geonames": "Ijuw",
+                "ru": "\u0418\u044e\u0432",
+                "en": "Ijuw District",
+                "de": "Ijuw",
+                "es": "Ijuw",
+                "fr": "Ijuw",
+                "it": "Ijuw",
+                "zh": "\u827e\u73e0\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5202767,
+            "lng": 166.95710459999998
+        },
+        "09": {
+            "name": "Ewa District, Nauru",
+            "code": "09",
+            "names": {
+                "geonames": "Ewa",
+                "ru": "\u0415\u0432\u0430",
+                "en": "Ewa District",
+                "de": "Ewa",
+                "es": "Ewa",
+                "fr": "Ewa",
+                "it": "Ewa",
+                "zh": "\u57c3\u74e6\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": 19.1898591,
+            "lng": -155.90512079999996
+        },
+        "08": {
+            "name": "Denigomodu District",
+            "code": "08",
+            "names": {
+                "geonames": "Denigomodu",
+                "ru": "\u0414\u0435\u043d\u0438\u0433\u043e\u043c\u043e\u0434\u0443",
+                "en": "Denigomodu District",
+                "de": "Denigomodu",
+                "es": "Denigomodu",
+                "fr": "Denigomodu",
+                "it": "Denigomodu",
+                "zh": "\u5fb7\u5c3c\u9ad8\u83ab\u90fd\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": null,
+            "lng": null
+        },
+        "07": {
+            "name": "Buada District",
+            "code": "07",
+            "names": {
+                "geonames": "Buada",
+                "ru": "\u0411\u0443\u0430\u0434\u0430",
+                "en": "Buada District",
+                "de": "Buada",
+                "es": "Buada",
+                "fr": "Buada",
+                "it": "Buada",
+                "zh": "\u90e8\u4e9e\u9054\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": 41.4394496,
+            "lng": 2.1785999999999603
+        },
+        "06": {
+            "name": "Boe District",
+            "code": "06",
+            "names": {
+                "geonames": "Boe",
+                "ru": "\u0411\u043e\u044d",
+                "en": "Boe District",
+                "de": "Boe",
+                "es": "Boe",
+                "fr": "Boe",
+                "it": "Boe",
+                "zh": "\u6cca\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5386011,
+            "lng": 166.91100559999995
+        },
+        "05": {
+            "name": "Baiti District",
+            "code": "05",
+            "names": {
+                "geonames": "Baiti",
+                "ru": "\u0411\u0430\u0438\u0442\u0438",
+                "en": "Baiti District",
+                "de": "Baiti",
+                "es": "Baiti",
+                "fr": "Baiti",
+                "it": "Baiti",
+                "zh": "\u767d\u5e1d\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.510431,
+            "lng": 166.92757440000003
+        },
+        "04": {
+            "name": "Anibare District",
+            "code": "04",
+            "names": {
+                "geonames": "Anibare",
+                "ru": "\u0410\u043d\u0438\u0431\u0430\u0440",
+                "en": "Anibare District",
+                "de": "Anibare",
+                "es": "Anibare",
+                "fr": "Anibare",
+                "it": "Anibare",
+                "zh": "\u5b89\u5c3c\u5df4\u60f9\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5294758,
+            "lng": 166.9513432
+        },
+        "03": {
+            "name": "Anetan District",
+            "code": "03",
+            "names": {
+                "geonames": "Anetan",
+                "ru": "\u0410\u043d\u0435\u0442\u0430\u043d",
+                "en": "Anetan District",
+                "de": "Anetan",
+                "es": "Anetan",
+                "fr": "Anetan",
+                "it": "Anetan",
+                "zh": "\u5b89\u9102\u7058\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": null,
+            "lng": null
+        },
+        "02": {
+            "name": "Anabar District",
+            "code": "02",
+            "names": {
+                "geonames": "Anabar",
+                "ru": "\u0410\u043d\u0430\u0431\u0430\u0440",
+                "en": "Anabar District",
+                "de": "Anabar",
+                "es": "Anabar",
+                "fr": "Anabar",
+                "it": "Anabar",
+                "zh": "\u963f\u7d0d\u5df4\u723e\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": -0.5110616,
+            "lng": 166.95422400000007
+        },
+        "01": {
+            "name": "Aiwo District",
+            "code": "01",
+            "names": {
+                "geonames": "Aiwo",
+                "ru": "\u0410\u0439\u0432\u043e",
+                "en": "Aiwo District",
+                "de": "Aiwo",
+                "es": "Aiwo",
+                "fr": "Aiwo",
+                "it": "Aiwo",
+                "zh": "\u611b\u548c\u5340"
+            },
+            "division": "district",
+            "parent": "NR",
+            "lat": null,
+            "lng": null
+        }
+    }
+}

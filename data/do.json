@@ -1,0 +1,584 @@
+{
+    "alpha-2": "DO",
+    "alpha-3": "DOM",
+    "numeric": 214,
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "languages": [
+        "es"
+    ],
+    "flag-icon": "\ud83c\udde9\ud83c\uddf4",
+    "names": {
+        "geonames": "Dominican Republic",
+        "en": "Dominican Republic",
+        "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646",
+        "de": "Dominikanische Republik",
+        "es": "Rep\u00fablica Dominicana",
+        "fr": "R\u00e9publique dominicaine",
+        "it": "Repubblica Dominicana",
+        "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "zh": "\u591a\u660e\u5c3c\u52a0",
+        "he": "\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05e0\u05d9\u05ea",
+        "hi": "\u0926\u094b\u092e\u093f\u0928\u093f\u0915\u0928 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+        "ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
+        "pt": "Rep\u00fablica Dominicana"
+    },
+    "ISO3166-2": {
+        "27": {
+            "name": "Valverde Province",
+            "code": "27",
+            "names": {
+                "geonames": "Valverde",
+                "ru": "\u0412\u0430\u043b\u044c\u0432\u0435\u0440\u0434\u0435",
+                "en": "Valverde Province",
+                "es": "Valverde",
+                "fr": "Valverde",
+                "it": "Provincia di Valverde",
+                "zh": "\u5df4\u97cb\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.5514416,
+            "lng": -71.0742373
+        },
+        "26": {
+            "name": "Santiago Rodr\u00edguez Province",
+            "code": "26",
+            "names": {
+                "geonames": "Santiago Rodriguez",
+                "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441",
+                "en": "Santiago Rodr\u00edguez Province",
+                "es": "Santiago Rodr\u00edguez",
+                "fr": "Santiago Rodr\u00edguez",
+                "it": "Provincia di Santiago Rodr\u00edguez",
+                "zh": "\u8056\u5730\u4e9e\u54e5-\u7f85\u91cc\u84cb\u8332\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.471979,
+            "lng": -71.341339
+        },
+        "25": {
+            "name": "Santiago Province",
+            "code": "25",
+            "names": {
+                "geonames": "Santiago",
+                "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e",
+                "en": "Santiago Province",
+                "de": "Santiago",
+                "es": "Santiago",
+                "fr": "Santiago",
+                "it": "Provincia di Santiago",
+                "zh": "\u8056\u5730\u7259\u54e5\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.45,
+            "lng": -70.69999999999999
+        },
+        "23": {
+            "name": "San Pedro de Macor\u00eds Province",
+            "code": "23",
+            "names": {
+                "geonames": "San Pedro de Macoris",
+                "ru": "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u041c\u0430\u043a\u043e\u0440\u0438\u0441",
+                "en": "San Pedro de Macor\u00eds Province",
+                "de": "San Pedro de Macor\u00eds",
+                "es": "San Pedro de Macor\u00eds",
+                "fr": "San Pedro de Macor\u00eds",
+                "it": "Provincia di San Pedro de Macor\u00eds",
+                "zh": "\u8056\u5f7c\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.455759,
+            "lng": -69.30780800000002
+        },
+        "22": {
+            "name": "San Juan",
+            "code": "22",
+            "names": {
+                "geonames": "San Juan",
+                "en": "San Juan"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.81,
+            "lng": -71.23000000000002
+        },
+        "21": {
+            "name": "San Crist\u00f3bal Province",
+            "code": "21",
+            "names": {
+                "geonames": "San Cristobal",
+                "ru": "\u0421\u0430\u043d-\u041a\u0440\u0438\u0441\u0442\u043e\u0431\u0430\u043b\u044c",
+                "en": "San Crist\u00f3bal Province",
+                "de": "San Crist\u00f3bal",
+                "es": "San Crist\u00f3bal",
+                "fr": "San Crist\u00f3bal",
+                "it": "Provincia di San Crist\u00f3bal",
+                "zh": "\u8056\u514b\u91cc\u65af\u591a\u5821\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.41625,
+            "lng": -70.10935999999998
+        },
+        "24": {
+            "name": "S\u00e1nchez Ram\u00edrez Province",
+            "code": "24",
+            "names": {
+                "geonames": "Sanchez Ramirez",
+                "ru": "\u0421\u0430\u043d\u0447\u0435\u0441-\u0420\u0430\u043c\u0438\u0440\u0435\u0441",
+                "en": "S\u00e1nchez Ram\u00edrez Province",
+                "de": "S\u00e1nchez Ram\u00edrez",
+                "es": "S\u00e1nchez Ram\u00edrez",
+                "fr": "S\u00e1nchez Ram\u00edrez",
+                "it": "Provincia di S\u00e1nchez Ram\u00edrez",
+                "zh": "\u6851\u5207\u65af\u00b7\u62c9\u7c73\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.4683339,
+            "lng": -69.97912150000002
+        },
+        "20": {
+            "name": "Saman\u00e1 Province",
+            "code": "20",
+            "names": {
+                "geonames": "Samana",
+                "ru": "\u0421\u0430\u043c\u0430\u043d\u0430",
+                "en": "Saman\u00e1 Province",
+                "de": "Saman\u00e1",
+                "es": "Saman\u00e1",
+                "fr": "Saman\u00e1",
+                "it": "Provincia di Saman\u00e1",
+                "zh": "\u5c71\u7f8e\u7d0d\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.21166,
+            "lng": -69.332314
+        },
+        "19": {
+            "name": "Hermanas Mirabal",
+            "code": "19",
+            "names": {
+                "geonames": "Hermanas Mirabal",
+                "ru": "\u042d\u0440\u043c\u0430\u043d\u0430\u0441-\u041c\u0438\u0440\u0430\u0431\u0430\u043b\u044c",
+                "en": "Hermanas Mirabal"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.3780173,
+            "lng": -70.42236350000002
+        },
+        "18": {
+            "name": "Puerto Plata Province",
+            "code": "18",
+            "names": {
+                "geonames": "Puerto Plata",
+                "ru": "\u041f\u0443\u044d\u0440\u0442\u043e-\u041f\u043b\u0430\u0442\u0430",
+                "en": "Puerto Plata Province",
+                "de": "Puerto Plata",
+                "es": "Puerto Plata",
+                "fr": "Puerto Plata",
+                "it": "Provincia di Puerto Plata",
+                "zh": "\u9280\u6e2f\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.7807686,
+            "lng": -70.68710909999999
+        },
+        "17": {
+            "name": "Peravia Province",
+            "code": "17",
+            "names": {
+                "geonames": "Peravia",
+                "ru": "\u041f\u0435\u0440\u0430\u0432\u0438\u044f",
+                "en": "Peravia Province",
+                "de": "Peravia",
+                "es": "Peravia",
+                "fr": "Peravia",
+                "it": "Provincia di Peravia",
+                "zh": "\u4f69\u62c9\u7dad\u4e9e\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.503983,
+            "lng": -69.89474589999998
+        },
+        "16": {
+            "name": "Pedernales Province",
+            "code": "16",
+            "names": {
+                "geonames": "Pedernales",
+                "ru": "\u041f\u0435\u0434\u0435\u0440\u043d\u0430\u043b\u0435\u0441",
+                "en": "Pedernales Province",
+                "de": "Pedernales",
+                "es": "Pedernales",
+                "fr": "Pedernales",
+                "it": "Provincia di Pedernales",
+                "zh": "\u4f69\u5fb7\u7d0d\u840a\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.037531,
+            "lng": -71.741287
+        },
+        "01": {
+            "name": "Distrito Nacional",
+            "code": "01",
+            "names": {
+                "geonames": "Nacional",
+                "ru": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "Distrito Nacional",
+                "es": "Distrito Nacional",
+                "fr": "Distrito Nacional",
+                "zh": "\u570b\u5bb6\u7279\u5340"
+            },
+            "division": "district",
+            "parent": "DO",
+            "lat": 18.4484078,
+            "lng": -69.9267984
+        },
+        "29": {
+            "name": "Monte Plata Province",
+            "code": "29",
+            "names": {
+                "geonames": "Monte Plata",
+                "ru": "\u041c\u043e\u043d\u0442\u0435-\u041f\u043b\u0430\u0442\u0430",
+                "en": "Monte Plata Province",
+                "de": "Monte Plata",
+                "es": "Monte Plata",
+                "fr": "Monte Plata",
+                "it": "Provincia di Monte Plata",
+                "zh": "\u9280\u5c71\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.806749,
+            "lng": -69.784378
+        },
+        "15": {
+            "name": "Monte Cristi Province",
+            "code": "15",
+            "names": {
+                "geonames": "Monte Cristi",
+                "ru": "\u041c\u043e\u043d\u0442\u0435-\u041a\u0440\u0438\u0441\u0442\u0438",
+                "en": "Monte Cristi Province",
+                "de": "Monte Cristi",
+                "es": "Montecristi",
+                "fr": "Monte Cristi",
+                "it": "Provincia di Montecristi",
+                "zh": "\u57fa\u5ea6\u5c71\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.850609,
+            "lng": -71.64529400000004
+        },
+        "28": {
+            "name": "Monse\u00f1or Nouel Province",
+            "code": "28",
+            "names": {
+                "geonames": "Monsenor Nouel",
+                "ru": "\u041c\u043e\u043d\u0441\u0435\u043d\u044c\u043e\u0440-\u041d\u043e\u0432\u044d\u043b\u044c",
+                "en": "Monse\u00f1or Nouel Province",
+                "de": "Monse\u00f1or Nouel",
+                "es": "Monse\u00f1or Nouel",
+                "fr": "Monse\u00f1or Nouel",
+                "it": "Provincia di Monse\u00f1or Nouel",
+                "zh": "\u4e3b\u6559\u00b7\u7459\u9ece\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.9041338,
+            "lng": -70.74342869999998
+        },
+        "14": {
+            "name": "Mar\u00eda Trinidad S\u00e1nchez Province",
+            "code": "14",
+            "names": {
+                "geonames": "Maria Trinidad Sanchez",
+                "ru": "\u041c\u0430\u0440\u0438\u044f-\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434-\u0421\u0430\u043d\u0447\u0435\u0441",
+                "en": "Mar\u00eda Trinidad S\u00e1nchez Province",
+                "de": "Mar\u00eda Trinidad S\u00e1nchez",
+                "es": "Mar\u00eda Trinidad S\u00e1nchez",
+                "fr": "Mar\u00eda Trinidad S\u00e1nchez",
+                "it": "Provincia di Mar\u00eda Trinidad S\u00e1nchez",
+                "zh": "\u746a\u9e97\u4e9e\u00b7\u6851\u5176\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.4537407,
+            "lng": -69.6834816
+        },
+        "13": {
+            "name": "La Vega Province",
+            "code": "13",
+            "names": {
+                "geonames": "La Vega",
+                "ru": "\u041b\u0430-\u0412\u0435\u0433\u0430",
+                "en": "La Vega Province",
+                "de": "La Vega",
+                "es": "La Vega",
+                "fr": "La Vega",
+                "it": "Provincia di La Vega",
+                "zh": "\u62c9\u7dad\u52a0\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.22357,
+            "lng": -70.52889299999998
+        },
+        "12": {
+            "name": "La Romana Province",
+            "code": "12",
+            "names": {
+                "geonames": "La Romana",
+                "ru": "\u041b\u0430-\u0420\u043e\u043c\u0430\u043d\u0430",
+                "en": "La Romana Province",
+                "de": "La Romana",
+                "es": "La Romana",
+                "fr": "La Romana",
+                "it": "Provincia di La Romana",
+                "zh": "\u7f85\u99ac\u7d0d\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.43,
+            "lng": -68.97000000000003
+        },
+        "11": {
+            "name": "La Altagracia Province",
+            "code": "11",
+            "names": {
+                "geonames": "La Altagracia",
+                "ru": "\u041b\u0430-\u0410\u043b\u044c\u0442\u0430\u0433\u0440\u0430\u0441\u0438\u044f",
+                "en": "La Altagracia Province",
+                "de": "La Altagracia",
+                "es": "La Altagracia",
+                "fr": "La Altagracia",
+                "it": "Provincia di La Altagracia",
+                "zh": "\u8056\u6bcd\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.5574755,
+            "lng": -69.86147189999997
+        },
+        "10": {
+            "name": "Independencia Province",
+            "code": "10",
+            "names": {
+                "geonames": "Independencia",
+                "ru": "\u0418\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0438\u044f",
+                "en": "Independencia Province",
+                "de": "Independencia",
+                "es": "Independencia",
+                "fr": "Independencia",
+                "it": "Provincia di Independencia",
+                "zh": "\u7368\u7acb\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.23833,
+            "lng": -99.64214529999998
+        },
+        "30": {
+            "name": "Hato Mayor Province",
+            "code": "30",
+            "names": {
+                "geonames": "Hato Mayor",
+                "ru": "\u0410\u0442\u043e-\u041c\u0430\u0439\u043e\u0440",
+                "en": "Hato Mayor Province",
+                "de": "Hato Mayor",
+                "es": "Hato Mayor",
+                "fr": "Hato Mayor",
+                "it": "Provincia di Hato Mayor",
+                "zh": "\u963f\u6258\u99ac\u7d04\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.764311,
+            "lng": -69.25715600000001
+        },
+        "09": {
+            "name": "Espaillat Province",
+            "code": "09",
+            "names": {
+                "geonames": "Espaillat",
+                "ru": "\u042d\u0441\u043f\u0430\u0439\u043b\u044c\u044f\u0442",
+                "en": "Espaillat Province",
+                "de": "Espaillat",
+                "es": "Espaillat",
+                "fr": "Espaillat",
+                "it": "Provincia di Espaillat",
+                "zh": "\u827e\u65af\u6d3e\u4e9e\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.423296,
+            "lng": -68.97085300000003
+        },
+        "08": {
+            "name": "El Seibo Province",
+            "code": "08",
+            "names": {
+                "geonames": "El Seibo",
+                "ru": "\u042d\u043b\u044c-\u0421\u0435\u0439\u0431\u043e",
+                "en": "El Seibo Province",
+                "es": "El Ceibo",
+                "de": "El Seibo",
+                "fr": "El Seibo",
+                "it": "Provincia di El Seibo",
+                "zh": "\u8cfd\u5821\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.7678872,
+            "lng": -69.04289240000003
+        },
+        "07": {
+            "name": "El\u00edas Pi\u00f1a Province",
+            "code": "07",
+            "names": {
+                "geonames": "Elias Pina",
+                "ru": "\u042d\u043b\u0438\u0430\u0441-\u041f\u0438\u043d\u044c\u044f",
+                "en": "El\u00edas Pi\u00f1a Province",
+                "de": "El\u00edas Pi\u00f1a",
+                "es": "El\u00edas Pi\u00f1a",
+                "fr": "El\u00edas Pi\u00f1a",
+                "it": "Provincia di El\u00edas Pi\u00f1a",
+                "zh": "\u827e\u5229\u65af\u76ae\u4e9e\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.87628,
+            "lng": -71.70654300000001
+        },
+        "06": {
+            "name": "Duarte Province",
+            "code": "06",
+            "names": {
+                "geonames": "Duarte",
+                "ru": "\u0414\u0443\u0430\u0440\u0442\u0435",
+                "en": "Duarte Province",
+                "de": "Duarte",
+                "es": "Duarte",
+                "fr": "Duarte",
+                "it": "Provincia di Duarte",
+                "zh": "\u675c\u83ef\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.4167564,
+            "lng": -70.5166423
+        },
+        "05": {
+            "name": "Dajab\u00f3n Province",
+            "code": "05",
+            "names": {
+                "geonames": "Dajabon",
+                "ru": "\u0414\u0430\u0445\u0430\u0431\u043e\u043d",
+                "en": "Dajab\u00f3n Province",
+                "de": "Dajab\u00f3n",
+                "es": "Dajab\u00f3n",
+                "fr": "Dajab\u00f3n",
+                "it": "Provincia di Dajab\u00f3n",
+                "zh": "\u9054\u54c8\u7fc1\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.54764,
+            "lng": -71.70471199999997
+        },
+        "04": {
+            "name": "Barahona Province",
+            "code": "04",
+            "names": {
+                "geonames": "Barahona",
+                "ru": "\u0411\u0430\u0440\u0430\u043e\u043d\u0430",
+                "en": "Barahona Province",
+                "de": "Barahona",
+                "es": "Barahona",
+                "fr": "Barahona",
+                "it": "Provincia di Barahona",
+                "zh": "\u5df4\u62c9\u5967\u7d0d\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.207899,
+            "lng": -71.09961699999997
+        },
+        "03": {
+            "name": "Baoruco",
+            "code": "03",
+            "names": {
+                "geonames": "Baoruco",
+                "ru": "\u0411\u0430\u043e\u0440\u0443\u043a\u043e",
+                "en": "Baoruco"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 19.5898028,
+            "lng": -70.97941939999998
+        },
+        "02": {
+            "name": "Azua Province",
+            "code": "02",
+            "names": {
+                "geonames": "Azua",
+                "ru": "\u0410\u0441\u0443\u0430",
+                "en": "Azua Province",
+                "de": "Azua",
+                "es": "Azua",
+                "fr": "Azua",
+                "it": "Provincia di Azua",
+                "zh": "\u963f\u8607\u963f\u7701"
+            },
+            "division": "province",
+            "parent": "DO",
+            "lat": 18.454491,
+            "lng": -70.72923300000002
+        },
+        "31": {
+            "name": "San Jos\u00e9 de Ocoa Province",
+            "code": "31",
+            "names": {
+                "geonames": "San Jose de Ocoa",
+                "ru": "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u041e\u043a\u043e\u0430",
+                "en": "San Jos\u00e9 de Ocoa Province",
+                "de": "San Jos\u00e9 de Ocoa",
+                "es": "San Jos\u00e9 de Ocoa",
+                "fr": "San Jos\u00e9 de Ocoa",
+                "it": "Provincia di San Jos\u00e9 de Ocoa",
+                "zh": "\u8056\u8377\u897f\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "32": {
+            "name": "Santo Domingo Province",
+            "code": "32",
+            "names": {
+                "geonames": "Santo Domingo",
+                "ru": "\u0421\u0430\u043d\u0442\u043e-\u0414\u043e\u043c\u0438\u043d\u0433\u043e",
+                "en": "Santo Domingo Province",
+                "de": "Santo Domingo",
+                "es": "Santo Domingo",
+                "fr": "Santo Domingo",
+                "it": "Provincia di Santo Domingo",
+                "zh": "\u8056\u591a\u660e\u54e5\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

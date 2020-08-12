@@ -1,0 +1,77 @@
+{
+    "alpha-2": "AS",
+    "alpha-3": "ASM",
+    "numeric": 16,
+    "capital": "Pago Pago",
+    "currency": "USD",
+    "languages": [
+        "en",
+        "sm"
+    ],
+    "flag-icon": "\ud83c\udde6\ud83c\uddf8",
+    "names": {
+        "geonames": "American Samoa",
+        "en": "American Samoa",
+        "ar": "\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+        "de": "Amerikanisch-Samoa",
+        "es": "Samoa Americana",
+        "fr": "Samoa am\u00e9ricaines",
+        "it": "Samoa Americane",
+        "ru": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430",
+        "zh": "\u7f8e\u5c6c\u85a9\u6469\u4e9e",
+        "he": "\u05e1\u05de\u05d5\u05d0\u05d4 \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9\u05ea",
+        "hi": "\u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u0938\u092e\u094b\u0906",
+        "ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
+        "pt": "Samoa Americana"
+    },
+    "ISO3166-2": {
+        "W": {
+            "name": "Western District",
+            "code": "W",
+            "names": {
+                "geonames": "Western District",
+                "en": "Western District"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "": {
+            "name": "Rose Island",
+            "code": "",
+            "names": {
+                "geonames": "Rose Island",
+                "en": "Rose Island"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "E": {
+            "name": "Eastern District",
+            "code": "E",
+            "names": {
+                "geonames": "Eastern District",
+                "en": "Eastern District"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "M": {
+            "name": "Manu'a",
+            "code": "M",
+            "names": {
+                "geonames": "Manu'a",
+                "en": "Manu'a"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        }
+    }
+}

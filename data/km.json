@@ -1,0 +1,86 @@
+{
+    "alpha-2": "KM",
+    "alpha-3": "COM",
+    "numeric": 174,
+    "capital": "Moroni",
+    "currency": "KMF",
+    "languages": [
+        "ar",
+        "fr"
+    ],
+    "flag-icon": "\ud83c\uddf0\ud83c\uddf2",
+    "names": {
+        "geonames": "Comoros",
+        "en": "Comoros",
+        "ar": "\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+        "de": "Komoren",
+        "es": "Comoras",
+        "fr": "Comores",
+        "it": "Comore",
+        "ru": "\u041a\u043e\u043c\u043e\u0440\u044b",
+        "zh": "\u845b\u6469",
+        "he": "\u05e7\u05d5\u05de\u05d5\u05e8\u05d5",
+        "hi": "\u0915\u094b\u092e\u094b\u0930\u094b\u0938",
+        "ja": "\u30b3\u30e2\u30ed",
+        "pt": "Comores"
+    },
+    "ISO3166-2": {
+        "M": {
+            "name": "Moh\u00e9li",
+            "code": "M",
+            "names": {
+                "geonames": "Moheli",
+                "ru": "\u041c\u0432\u0430\u043b\u0438",
+                "en": "Moh\u00e9li",
+                "ar": "\u0645\u0648\u0647\u064a\u0644\u064a",
+                "de": "Moh\u00e9li",
+                "es": "Moh\u00e9li",
+                "fr": "Moh\u00e9li",
+                "it": "Moh\u00e9li",
+                "zh": "\u83ab\u57c3\u5229\u5cf6"
+            },
+            "division": "island",
+            "parent": "KM",
+            "lat": null,
+            "lng": null
+        },
+        "G": {
+            "name": "Grande Comore",
+            "code": "G",
+            "names": {
+                "geonames": "Grande Comore",
+                "ru": "\u041d\u0433\u0430\u0437\u0438\u0434\u0436\u0430",
+                "en": "Grande Comore",
+                "ar": "\u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0643\u0628\u0631\u0649",
+                "de": "Grande Comore",
+                "es": "Gran Comora",
+                "fr": "Grande Comore",
+                "it": "Grande Comore",
+                "zh": "\u5927\u79d1\u6469\u7f57\u5c9b"
+            },
+            "division": "island",
+            "parent": "KM",
+            "lat": null,
+            "lng": null
+        },
+        "A": {
+            "name": "Anjouan",
+            "code": "A",
+            "names": {
+                "geonames": "Anjouan",
+                "ru": "\u0410\u043d\u0436\u0443\u0430\u043d",
+                "en": "Anjouan",
+                "ar": "\u0623\u0646\u062c\u0648\u0627\u0646",
+                "de": "Anjouan",
+                "es": "Anjouan",
+                "fr": "Anjouan",
+                "it": "Anjouan",
+                "zh": "\u6602\u5112\u6602\u5c9b"
+            },
+            "division": "island",
+            "parent": "KM",
+            "lat": null,
+            "lng": null
+        }
+    }
+}
