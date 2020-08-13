@@ -24,24 +24,70 @@
         "pt": "Mali"
     },
     "ISO3166-2": {
-        "6": {
-            "name": "Tombouctou Region",
-            "code": "6",
+        "BK0": {
+            "name": "Bamako",
+            "code": "BK0",
+            "division": "district",
+            "parent": "ML",
+            "lat": 12.646861,
+            "lng": -8.00170049999997
+        },
+        "BKO": {
+            "name": "Bamako",
+            "code": "BKO",
             "names": {
-                "geonames": "Tombouctou",
-                "ru": "\u0422\u043e\u043c\u0431\u0443\u043a\u0442\u0443",
-                "en": "Tombouctou Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0645\u0628\u0643\u062a\u0648",
-                "de": "Region Timbuktu",
-                "es": "Tombuct\u00fa",
-                "fr": "R\u00e9gion de Tombouctou",
-                "it": "Regione di Timbuct\u00f9",
-                "zh": "\u901a\u5e03\u5716\u5340"
+                "geonames": "Bamako",
+                "ru": "\u0411\u0430\u043c\u0430\u043a\u043e",
+                "en": "Bamako",
+                "ar": "\u0628\u0627\u0645\u0627\u0643\u0648",
+                "de": "Bamako",
+                "es": "Bamako",
+                "fr": "Bamako",
+                "it": "Bamako",
+                "zh": "\u5df4\u99ac\u79d1"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "1": {
+            "name": "Kayes Region",
+            "code": "1",
+            "names": {
+                "geonames": "Kayes",
+                "ru": "\u041a\u0430\u0435\u0441",
+                "en": "Kayes Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0627\u064a\u0633",
+                "de": "Region Kayes",
+                "es": "Kayes",
+                "fr": "R\u00e9gion de Kayes",
+                "it": "Regione di Kayes",
+                "zh": "\u5361\u4f0a\u5340"
             },
             "division": "region",
             "parent": "ML",
-            "lat": 16.77532,
-            "lng": -3.0082649999999376
+            "lat": 14.45,
+            "lng": -11.433333299999958
+        },
+        "2": {
+            "name": "Koulikoro Region",
+            "code": "2",
+            "names": {
+                "geonames": "Koulikoro",
+                "ru": "\u041a\u0443\u043b\u0438\u043a\u043e\u0440\u043e",
+                "en": "Koulikoro Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0644\u064a\u0643\u0648\u0631\u0648",
+                "de": "Region Koulikoro",
+                "es": "Kulikor\u00f3",
+                "fr": "R\u00e9gion de Koulikoro",
+                "it": "Regione di Koulikoro",
+                "zh": "\u5e93\u5229\u79d1\u7f57\u533a"
+            },
+            "division": "region",
+            "parent": "ML",
+            "lat": 12.8666667,
+            "lng": -7.566666700000042
         },
         "3": {
             "name": "Sikasso Region",
@@ -99,43 +145,24 @@
             "lat": 14.48319,
             "lng": -4.183031000000028
         },
-        "2": {
-            "name": "Koulikoro Region",
-            "code": "2",
+        "6": {
+            "name": "Tombouctou Region",
+            "code": "6",
             "names": {
-                "geonames": "Koulikoro",
-                "ru": "\u041a\u0443\u043b\u0438\u043a\u043e\u0440\u043e",
-                "en": "Koulikoro Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0644\u064a\u0643\u0648\u0631\u0648",
-                "de": "Region Koulikoro",
-                "es": "Kulikor\u00f3",
-                "fr": "R\u00e9gion de Koulikoro",
-                "it": "Regione di Koulikoro",
-                "zh": "\u5e93\u5229\u79d1\u7f57\u533a"
+                "geonames": "Tombouctou",
+                "ru": "\u0422\u043e\u043c\u0431\u0443\u043a\u0442\u0443",
+                "en": "Tombouctou Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0645\u0628\u0643\u062a\u0648",
+                "de": "Region Timbuktu",
+                "es": "Tombuct\u00fa",
+                "fr": "R\u00e9gion de Tombouctou",
+                "it": "Regione di Timbuct\u00f9",
+                "zh": "\u901a\u5e03\u5716\u5340"
             },
             "division": "region",
             "parent": "ML",
-            "lat": 12.8666667,
-            "lng": -7.566666700000042
-        },
-        "1": {
-            "name": "Kayes Region",
-            "code": "1",
-            "names": {
-                "geonames": "Kayes",
-                "ru": "\u041a\u0430\u0435\u0441",
-                "en": "Kayes Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u0627\u064a\u0633",
-                "de": "Region Kayes",
-                "es": "Kayes",
-                "fr": "R\u00e9gion de Kayes",
-                "it": "Regione di Kayes",
-                "zh": "\u5361\u4f0a\u5340"
-            },
-            "division": "region",
-            "parent": "ML",
-            "lat": 14.45,
-            "lng": -11.433333299999958
+            "lat": 16.77532,
+            "lng": -3.0082649999999376
         },
         "7": {
             "name": "Gao Region",
@@ -156,25 +183,6 @@
             "lat": 16.2666667,
             "lng": -0.049999999999954525
         },
-        "BKO": {
-            "name": "Bamako",
-            "code": "BKO",
-            "names": {
-                "geonames": "Bamako",
-                "ru": "\u0411\u0430\u043c\u0430\u043a\u043e",
-                "en": "Bamako",
-                "ar": "\u0628\u0627\u0645\u0627\u0643\u0648",
-                "de": "Bamako",
-                "es": "Bamako",
-                "fr": "Bamako",
-                "it": "Bamako",
-                "zh": "\u5df4\u99ac\u79d1"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
         "8": {
             "name": "Kidal Region",
             "code": "8",
@@ -193,13 +201,6 @@
             "parent": "ML",
             "lat": 18.444309,
             "lng": 1.4015229999999974
-        },
-        "BK0": {
-            "name": "Bamako",
-            "division": "district",
-            "parent": "ML",
-            "lat": 12.646861,
-            "lng": -8.00170049999997
         }
     }
 }

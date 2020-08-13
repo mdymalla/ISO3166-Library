@@ -24,43 +24,6 @@
         "pt": "Myanmar"
     },
     "ISO3166-2": {
-        "05": {
-            "name": "Tanintharyi Region",
-            "code": "05",
-            "names": {
-                "geonames": "Tanintharyi",
-                "ru": "\u0422\u0430\u043d\u0438\u043d\u0442\u0430\u0439\u0438",
-                "en": "Tanintharyi Region",
-                "de": "Tanintharyi-Division",
-                "es": "Tanintharyi",
-                "fr": "R\u00e9gion de Tanintharyi",
-                "it": "Regione di Tanintharyi",
-                "zh": "\u5fb7\u6797\u8fbe\u4f9d"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 12.0822476,
-            "lng": 99.02118129999997
-        },
-        "17": {
-            "name": "Shan State",
-            "code": "17",
-            "names": {
-                "geonames": "Shan",
-                "ru": "\u0428\u0430\u043d",
-                "en": "Shan State",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0634\u0627\u0646",
-                "de": "Shan-Staat",
-                "es": "Shan",
-                "fr": "\u00c9tat Shan",
-                "it": "Stato Shan",
-                "zh": "\u63b8\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.8060208,
-            "lng": 96.13796669999999
-        },
         "01": {
             "name": "Sagaing Region",
             "code": "01",
@@ -78,42 +41,6 @@
             "parent": "MM",
             "lat": 21.880079,
             "lng": 95.962311
-        },
-        "06": {
-            "name": "Yangon Region",
-            "code": "06",
-            "names": {
-                "geonames": "Yangon",
-                "ru": "\u042f\u043d\u0433\u043e\u043d",
-                "en": "Yangon Region",
-                "de": "Yangon-Division",
-                "fr": "R\u00e9gion de Yangon",
-                "it": "Regione di Yangon",
-                "zh": "\u4ef0\u5149\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 16.783656,
-            "lng": 96.15683100000001
-        },
-        "16": {
-            "name": "Rakhine State",
-            "code": "16",
-            "names": {
-                "geonames": "Rakhine",
-                "ru": "\u0420\u0430\u043a\u0445\u0430\u0439\u043d",
-                "en": "Rakhine State",
-                "ar": "\u0631\u0627\u062e\u064a\u0646",
-                "de": "Rakhaing-Staat",
-                "es": "Rakhine",
-                "fr": "\u00c9tat d'Arakan",
-                "it": "Stato Rakhine",
-                "zh": "\u82e5\u958b\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.7876964,
-            "lng": 96.16896810000003
         },
         "02": {
             "name": "Bago Region",
@@ -133,23 +60,23 @@
             "lat": 17.32774,
             "lng": 96.49845099999993
         },
-        "15": {
-            "name": "Mon State",
-            "code": "15",
+        "03": {
+            "name": "Magway Region",
+            "code": "03",
             "names": {
-                "geonames": "Mon",
-                "ru": "\u041c\u043e\u043d",
-                "en": "Mon State",
-                "de": "Mon-Staat",
-                "es": "Estado Mon",
-                "fr": "\u00c9tat M\u00f4n",
-                "it": "Stato Mon",
-                "zh": "\u5b5f\u90a6"
+                "geonames": "Magway",
+                "ru": "\u041c\u0430\u0433\u0443\u044d",
+                "en": "Magway Region",
+                "de": "Magwe-Division",
+                "es": "Magway",
+                "fr": "R\u00e9gion de Magway",
+                "it": "Regione di Magway",
+                "zh": "\u99ac\u572d\u7701"
             },
-            "division": "state",
+            "division": "division",
             "parent": "MM",
-            "lat": 16.853795,
-            "lng": 96.12605200000007
+            "lat": 20.14027,
+            "lng": 94.92695900000001
         },
         "04": {
             "name": "Mandalay Region",
@@ -168,23 +95,77 @@
             "lat": 21.975941,
             "lng": 96.08415200000002
         },
-        "03": {
-            "name": "Magway Region",
-            "code": "03",
+        "05": {
+            "name": "Tanintharyi Region",
+            "code": "05",
             "names": {
-                "geonames": "Magway",
-                "ru": "\u041c\u0430\u0433\u0443\u044d",
-                "en": "Magway Region",
-                "de": "Magwe-Division",
-                "es": "Magway",
-                "fr": "R\u00e9gion de Magway",
-                "it": "Regione di Magway",
-                "zh": "\u99ac\u572d\u7701"
+                "geonames": "Tanintharyi",
+                "ru": "\u0422\u0430\u043d\u0438\u043d\u0442\u0430\u0439\u0438",
+                "en": "Tanintharyi Region",
+                "de": "Tanintharyi-Division",
+                "es": "Tanintharyi",
+                "fr": "R\u00e9gion de Tanintharyi",
+                "it": "Regione di Tanintharyi",
+                "zh": "\u5fb7\u6797\u8fbe\u4f9d"
             },
             "division": "division",
             "parent": "MM",
-            "lat": 20.14027,
-            "lng": 94.92695900000001
+            "lat": 12.0822476,
+            "lng": 99.02118129999997
+        },
+        "06": {
+            "name": "Yangon Region",
+            "code": "06",
+            "names": {
+                "geonames": "Yangon",
+                "ru": "\u042f\u043d\u0433\u043e\u043d",
+                "en": "Yangon Region",
+                "de": "Yangon-Division",
+                "fr": "R\u00e9gion de Yangon",
+                "it": "Regione di Yangon",
+                "zh": "\u4ef0\u5149\u7701"
+            },
+            "division": "division",
+            "parent": "MM",
+            "lat": 16.783656,
+            "lng": 96.15683100000001
+        },
+        "07": {
+            "name": "Ayeyarwady Region",
+            "code": "07",
+            "names": {
+                "geonames": "Ayeyarwady",
+                "ru": "\u0418\u0440\u0430\u0432\u0430\u0434\u0438",
+                "en": "Ayeyarwady Region",
+                "de": "Irawadi-Division",
+                "es": "Ayeyarwady",
+                "fr": "R\u00e9gion d'Ayeyarwady",
+                "it": "Regione di Ayeyarwady",
+                "zh": "\u4f0a\u6d1b\u74e6\u5e95\u7701"
+            },
+            "division": "division",
+            "parent": "MM",
+            "lat": null,
+            "lng": null
+        },
+        "11": {
+            "name": "Kachin State",
+            "code": "11",
+            "names": {
+                "geonames": "Kachin",
+                "ru": "\u041a\u0430\u0447\u0438\u043d",
+                "en": "Kachin State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u0634\u064a\u0646",
+                "de": "Kachin-Staat",
+                "es": "Estado Kachin",
+                "fr": "\u00c9tat Kachin",
+                "it": "Stato Kachin",
+                "zh": "\u514b\u94a6\u90a6"
+            },
+            "division": "state",
+            "parent": "MM",
+            "lat": 44.6807294,
+            "lng": -93.28115780000002
         },
         "12": {
             "name": "Kayah State",
@@ -222,43 +203,6 @@
             "lat": 16.8820408,
             "lng": 96.11196300000006
         },
-        "11": {
-            "name": "Kachin State",
-            "code": "11",
-            "names": {
-                "geonames": "Kachin",
-                "ru": "\u041a\u0430\u0447\u0438\u043d",
-                "en": "Kachin State",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u0634\u064a\u0646",
-                "de": "Kachin-Staat",
-                "es": "Estado Kachin",
-                "fr": "\u00c9tat Kachin",
-                "it": "Stato Kachin",
-                "zh": "\u514b\u94a6\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 44.6807294,
-            "lng": -93.28115780000002
-        },
-        "07": {
-            "name": "Ayeyarwady Region",
-            "code": "07",
-            "names": {
-                "geonames": "Ayeyarwady",
-                "ru": "\u0418\u0440\u0430\u0432\u0430\u0434\u0438",
-                "en": "Ayeyarwady Region",
-                "de": "Irawadi-Division",
-                "es": "Ayeyarwady",
-                "fr": "R\u00e9gion d'Ayeyarwady",
-                "it": "Regione di Ayeyarwady",
-                "zh": "\u4f0a\u6d1b\u74e6\u5e95\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": null,
-            "lng": null
-        },
         "14": {
             "name": "Chin State",
             "code": "14",
@@ -277,6 +221,62 @@
             "parent": "MM",
             "lat": 16.8089755,
             "lng": 96.14157069999999
+        },
+        "15": {
+            "name": "Mon State",
+            "code": "15",
+            "names": {
+                "geonames": "Mon",
+                "ru": "\u041c\u043e\u043d",
+                "en": "Mon State",
+                "de": "Mon-Staat",
+                "es": "Estado Mon",
+                "fr": "\u00c9tat M\u00f4n",
+                "it": "Stato Mon",
+                "zh": "\u5b5f\u90a6"
+            },
+            "division": "state",
+            "parent": "MM",
+            "lat": 16.853795,
+            "lng": 96.12605200000007
+        },
+        "16": {
+            "name": "Rakhine State",
+            "code": "16",
+            "names": {
+                "geonames": "Rakhine",
+                "ru": "\u0420\u0430\u043a\u0445\u0430\u0439\u043d",
+                "en": "Rakhine State",
+                "ar": "\u0631\u0627\u062e\u064a\u0646",
+                "de": "Rakhaing-Staat",
+                "es": "Rakhine",
+                "fr": "\u00c9tat d'Arakan",
+                "it": "Stato Rakhine",
+                "zh": "\u82e5\u958b\u90a6"
+            },
+            "division": "state",
+            "parent": "MM",
+            "lat": 16.7876964,
+            "lng": 96.16896810000003
+        },
+        "17": {
+            "name": "Shan State",
+            "code": "17",
+            "names": {
+                "geonames": "Shan",
+                "ru": "\u0428\u0430\u043d",
+                "en": "Shan State",
+                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0634\u0627\u0646",
+                "de": "Shan-Staat",
+                "es": "Shan",
+                "fr": "\u00c9tat Shan",
+                "it": "Stato Shan",
+                "zh": "\u63b8\u90a6"
+            },
+            "division": "state",
+            "parent": "MM",
+            "lat": 16.8060208,
+            "lng": 96.13796669999999
         },
         "18": {
             "name": "Nay Pyi Taw",

@@ -25,6 +25,48 @@
         "pt": "Guin\u00e9"
     },
     "ISO3166-2": {
+        "B": {
+            "name": "Bok\u00e9 Region",
+            "code": "B",
+            "names": {
+                "geonames": "Boke",
+                "ru": "\u0411\u043e\u043a\u0435",
+                "en": "Bok\u00e9 Region",
+                "de": "Region Bok\u00e9",
+                "es": "Bok\u00e9",
+                "fr": "R\u00e9gion de Bok\u00e9",
+                "it": "Regione di Bok\u00e9",
+                "zh": "\u535a\u51f1\u5927\u5340"
+            },
+            "division": "governorate",
+            "parent": "GN",
+            "lat": 10.93944,
+            "lng": -14.296680000000038
+        },
+        "BE": {
+            "name": "Beyla",
+            "code": "BE",
+            "division": "prefecture",
+            "parent": "GN-N",
+            "lat": 8.687414,
+            "lng": -8.656549000000041
+        },
+        "BF": {
+            "name": "Boffa",
+            "code": "BF",
+            "division": "prefecture",
+            "parent": "GN-B",
+            "lat": 10.18519,
+            "lng": -14.042580000000044
+        },
+        "BK": {
+            "name": "Bok\u00e9",
+            "code": "BK",
+            "division": "prefecture",
+            "parent": "GN-B",
+            "lat": 10.93944,
+            "lng": -14.296680000000038
+        },
         "C": {
             "name": "Conakry",
             "code": "C",
@@ -44,59 +86,13 @@
             "lat": null,
             "lng": null
         },
-        "B": {
-            "name": "Bok\u00e9 Region",
-            "code": "B",
-            "names": {
-                "geonames": "Boke",
-                "ru": "\u0411\u043e\u043a\u0435",
-                "en": "Bok\u00e9 Region",
-                "de": "Region Bok\u00e9",
-                "es": "Bok\u00e9",
-                "fr": "R\u00e9gion de Bok\u00e9",
-                "it": "Regione di Bok\u00e9",
-                "zh": "\u535a\u51f1\u5927\u5340"
-            },
-            "division": "governorate",
-            "parent": "GN",
-            "lat": 10.93944,
-            "lng": -14.296680000000038
-        },
-        "F": {
-            "name": "Faranah Region",
-            "code": "F",
-            "names": {
-                "geonames": "Faranah",
-                "ru": "\u0424\u0430\u0440\u0430\u043d\u0430",
-                "en": "Faranah Region",
-                "de": "Region Faranah",
-                "es": "Faranah",
-                "fr": "R\u00e9gion de Faranah",
-                "it": "Regione di Faranah",
-                "zh": "\u6cd5\u62c9\u7d0d\u5927\u5340"
-            },
-            "division": "governorate",
-            "parent": "GN",
-            "lat": 10.03901,
-            "lng": -10.743349999999964
-        },
-        "K": {
-            "name": "Kankan Region",
-            "code": "K",
-            "names": {
-                "geonames": "Kankan",
-                "ru": "\u041a\u0430\u043d\u043a\u0430\u043d",
-                "en": "Kankan Region",
-                "de": "Region Kankan",
-                "es": "Kankan",
-                "fr": "R\u00e9gion de Kankan",
-                "it": "Regione di Kankan",
-                "zh": "\u5eb7\u5eb7\u5927\u5340"
-            },
-            "division": "governorate",
-            "parent": "GN",
-            "lat": 10.38404,
-            "lng": -9.305553000000032
+        "CO": {
+            "name": "Coyah",
+            "code": "CO",
+            "division": "prefecture",
+            "parent": "GN-D",
+            "lat": 9.7,
+            "lng": -13.383333300000004
         },
         "D": {
             "name": "Kindia Region",
@@ -116,6 +112,178 @@
             "lat": 10.05531,
             "lng": -12.865689999999972
         },
+        "DB": {
+            "name": "Dabola",
+            "code": "DB",
+            "division": "prefecture",
+            "parent": "GN-F",
+            "lat": 10.74817,
+            "lng": -11.108789999999999
+        },
+        "DI": {
+            "name": "Dinguiraye",
+            "code": "DI",
+            "division": "prefecture",
+            "parent": "GN-F",
+            "lat": 11.3,
+            "lng": -10.716666700000019
+        },
+        "DL": {
+            "name": "Dalaba",
+            "code": "DL",
+            "division": "prefecture",
+            "parent": "GN-M",
+            "lat": 10.6868176,
+            "lng": -12.249069700000064
+        },
+        "DU": {
+            "name": "Dubr\u00e9ka",
+            "code": "DU",
+            "division": "prefecture",
+            "parent": "GN-D",
+            "lat": 9.7833333,
+            "lng": -13.516666699999973
+        },
+        "F": {
+            "name": "Faranah Region",
+            "code": "F",
+            "names": {
+                "geonames": "Faranah",
+                "ru": "\u0424\u0430\u0440\u0430\u043d\u0430",
+                "en": "Faranah Region",
+                "de": "Region Faranah",
+                "es": "Faranah",
+                "fr": "R\u00e9gion de Faranah",
+                "it": "Regione di Faranah",
+                "zh": "\u6cd5\u62c9\u7d0d\u5927\u5340"
+            },
+            "division": "governorate",
+            "parent": "GN",
+            "lat": 10.03901,
+            "lng": -10.743349999999964
+        },
+        "FA": {
+            "name": "Faranah",
+            "code": "FA",
+            "division": "prefecture",
+            "parent": "GN-F",
+            "lat": 10.03901,
+            "lng": -10.743349999999964
+        },
+        "FO": {
+            "name": "For\u00e9cariah",
+            "code": "FO",
+            "division": "prefecture",
+            "parent": "GN-D",
+            "lat": 9.4333333,
+            "lng": -13.08333330000005
+        },
+        "FR": {
+            "name": "Fria",
+            "code": "FR",
+            "division": "prefecture",
+            "parent": "GN-B",
+            "lat": 10.3674543,
+            "lng": -13.584187100000008
+        },
+        "GA": {
+            "name": "Gaoual",
+            "code": "GA",
+            "division": "prefecture",
+            "parent": "GN-B",
+            "lat": 11.75,
+            "lng": -13.200000000000045
+        },
+        "GU": {
+            "name": "Gu\u00e9k\u00e9dou",
+            "code": "GU",
+            "division": "prefecture",
+            "parent": "GN-N",
+            "lat": 8.5666667,
+            "lng": -10.133333300000004
+        },
+        "K": {
+            "name": "Kankan Region",
+            "code": "K",
+            "names": {
+                "geonames": "Kankan",
+                "ru": "\u041a\u0430\u043d\u043a\u0430\u043d",
+                "en": "Kankan Region",
+                "de": "Region Kankan",
+                "es": "Kankan",
+                "fr": "R\u00e9gion de Kankan",
+                "it": "Regione di Kankan",
+                "zh": "\u5eb7\u5eb7\u5927\u5340"
+            },
+            "division": "governorate",
+            "parent": "GN",
+            "lat": 10.38404,
+            "lng": -9.305553000000032
+        },
+        "KA": {
+            "name": "Kankan",
+            "code": "KA",
+            "division": "prefecture",
+            "parent": "GN-K",
+            "lat": 10.38404,
+            "lng": -9.305553000000032
+        },
+        "KB": {
+            "name": "Koubia",
+            "code": "KB",
+            "division": "prefecture",
+            "parent": "GN-L",
+            "lat": 11.588406,
+            "lng": -11.889116000000058
+        },
+        "KD": {
+            "name": "Kindia",
+            "code": "KD",
+            "division": "prefecture",
+            "parent": "GN-D",
+            "lat": 10.05531,
+            "lng": -12.865689999999972
+        },
+        "KE": {
+            "name": "K\u00e9rouan\u00e9",
+            "code": "KE",
+            "division": "prefecture",
+            "parent": "GN-K",
+            "lat": 9.26509,
+            "lng": -9.014453000000003
+        },
+        "KN": {
+            "name": "Koundara",
+            "code": "KN",
+            "division": "prefecture",
+            "parent": "GN-B",
+            "lat": 12.4833333,
+            "lng": -13.299999999999955
+        },
+        "KO": {
+            "name": "Kouroussa",
+            "code": "KO",
+            "division": "prefecture",
+            "parent": "GN-K",
+            "lat": 10.6531,
+            "lng": -9.892393999999967
+        },
+        "KS": {
+            "name": "Kissidougou",
+            "code": "KS",
+            "division": "prefecture",
+            "parent": "GN-F",
+            "lat": 9.1833333,
+            "lng": -10.100000000000023
+        },
+        "L": {
+            "name": "Lab\u00e9",
+            "code": "L",
+            "division": "governorate",
+            "parent": "GN",
+            "lat": 11.3166667,
+            "lng": -12.283333299999981
+        },
         "LA": {
             "name": "Labe",
             "code": "LA",
@@ -127,6 +295,22 @@
             "parent": "GN-L",
             "lat": 11.3166667,
             "lng": -12.283333299999981
+        },
+        "LE": {
+            "name": "L\u00e9louma",
+            "code": "LE",
+            "division": "prefecture",
+            "parent": "GN-L",
+            "lat": 11.4833333,
+            "lng": -12.683333299999958
+        },
+        "LO": {
+            "name": "Lola",
+            "code": "LO",
+            "division": "prefecture",
+            "parent": "GN-N",
+            "lat": 7.8,
+            "lng": -8.533333299999981
         },
         "M": {
             "name": "Mamou Region",
@@ -143,6 +327,38 @@
             },
             "division": "governorate",
             "parent": "GN",
+            "lat": 10.37396,
+            "lng": -12.091589999999997
+        },
+        "MC": {
+            "name": "Macenta",
+            "code": "MC",
+            "division": "prefecture",
+            "parent": "GN-N",
+            "lat": 8.541919,
+            "lng": -9.471172000000024
+        },
+        "MD": {
+            "name": "Mandiana",
+            "code": "MD",
+            "division": "prefecture",
+            "parent": "GN-K",
+            "lat": 10.63286,
+            "lng": -8.697679999999991
+        },
+        "ML": {
+            "name": "Mali",
+            "code": "ML",
+            "division": "prefecture",
+            "parent": "GN-L",
+            "lat": 12.0833333,
+            "lng": -12.299999999999955
+        },
+        "MM": {
+            "name": "Mamou",
+            "code": "MM",
+            "division": "prefecture",
+            "parent": "GN-M",
             "lat": 10.37396,
             "lng": -12.091589999999997
         },
@@ -164,197 +380,9 @@
             "lat": 7.754822,
             "lng": -8.818017999999938
         },
-        "L": {
-            "name": "Lab\u00e9",
-            "division": "governorate",
-            "parent": "GN",
-            "lat": 11.3166667,
-            "lng": -12.283333299999981
-        },
-        "BE": {
-            "name": "Beyla",
-            "division": "prefecture",
-            "parent": "GN-N",
-            "lat": 8.687414,
-            "lng": -8.656549000000041
-        },
-        "BF": {
-            "name": "Boffa",
-            "division": "prefecture",
-            "parent": "GN-B",
-            "lat": 10.18519,
-            "lng": -14.042580000000044
-        },
-        "BK": {
-            "name": "Bok\u00e9",
-            "division": "prefecture",
-            "parent": "GN-B",
-            "lat": 10.93944,
-            "lng": -14.296680000000038
-        },
-        "CO": {
-            "name": "Coyah",
-            "division": "prefecture",
-            "parent": "GN-D",
-            "lat": 9.7,
-            "lng": -13.383333300000004
-        },
-        "DB": {
-            "name": "Dabola",
-            "division": "prefecture",
-            "parent": "GN-F",
-            "lat": 10.74817,
-            "lng": -11.108789999999999
-        },
-        "DL": {
-            "name": "Dalaba",
-            "division": "prefecture",
-            "parent": "GN-M",
-            "lat": 10.6868176,
-            "lng": -12.249069700000064
-        },
-        "DI": {
-            "name": "Dinguiraye",
-            "division": "prefecture",
-            "parent": "GN-F",
-            "lat": 11.3,
-            "lng": -10.716666700000019
-        },
-        "DU": {
-            "name": "Dubr\u00e9ka",
-            "division": "prefecture",
-            "parent": "GN-D",
-            "lat": 9.7833333,
-            "lng": -13.516666699999973
-        },
-        "FA": {
-            "name": "Faranah",
-            "division": "prefecture",
-            "parent": "GN-F",
-            "lat": 10.03901,
-            "lng": -10.743349999999964
-        },
-        "FO": {
-            "name": "For\u00e9cariah",
-            "division": "prefecture",
-            "parent": "GN-D",
-            "lat": 9.4333333,
-            "lng": -13.08333330000005
-        },
-        "FR": {
-            "name": "Fria",
-            "division": "prefecture",
-            "parent": "GN-B",
-            "lat": 10.3674543,
-            "lng": -13.584187100000008
-        },
-        "GA": {
-            "name": "Gaoual",
-            "division": "prefecture",
-            "parent": "GN-B",
-            "lat": 11.75,
-            "lng": -13.200000000000045
-        },
-        "GU": {
-            "name": "Gu\u00e9k\u00e9dou",
-            "division": "prefecture",
-            "parent": "GN-N",
-            "lat": 8.5666667,
-            "lng": -10.133333300000004
-        },
-        "KA": {
-            "name": "Kankan",
-            "division": "prefecture",
-            "parent": "GN-K",
-            "lat": 10.38404,
-            "lng": -9.305553000000032
-        },
-        "KE": {
-            "name": "K\u00e9rouan\u00e9",
-            "division": "prefecture",
-            "parent": "GN-K",
-            "lat": 9.26509,
-            "lng": -9.014453000000003
-        },
-        "KD": {
-            "name": "Kindia",
-            "division": "prefecture",
-            "parent": "GN-D",
-            "lat": 10.05531,
-            "lng": -12.865689999999972
-        },
-        "KS": {
-            "name": "Kissidougou",
-            "division": "prefecture",
-            "parent": "GN-F",
-            "lat": 9.1833333,
-            "lng": -10.100000000000023
-        },
-        "KB": {
-            "name": "Koubia",
-            "division": "prefecture",
-            "parent": "GN-L",
-            "lat": 11.588406,
-            "lng": -11.889116000000058
-        },
-        "KN": {
-            "name": "Koundara",
-            "division": "prefecture",
-            "parent": "GN-B",
-            "lat": 12.4833333,
-            "lng": -13.299999999999955
-        },
-        "KO": {
-            "name": "Kouroussa",
-            "division": "prefecture",
-            "parent": "GN-K",
-            "lat": 10.6531,
-            "lng": -9.892393999999967
-        },
-        "LE": {
-            "name": "L\u00e9louma",
-            "division": "prefecture",
-            "parent": "GN-L",
-            "lat": 11.4833333,
-            "lng": -12.683333299999958
-        },
-        "LO": {
-            "name": "Lola",
-            "division": "prefecture",
-            "parent": "GN-N",
-            "lat": 7.8,
-            "lng": -8.533333299999981
-        },
-        "MC": {
-            "name": "Macenta",
-            "division": "prefecture",
-            "parent": "GN-N",
-            "lat": 8.541919,
-            "lng": -9.471172000000024
-        },
-        "ML": {
-            "name": "Mali",
-            "division": "prefecture",
-            "parent": "GN-L",
-            "lat": 12.0833333,
-            "lng": -12.299999999999955
-        },
-        "MM": {
-            "name": "Mamou",
-            "division": "prefecture",
-            "parent": "GN-M",
-            "lat": 10.37396,
-            "lng": -12.091589999999997
-        },
-        "MD": {
-            "name": "Mandiana",
-            "division": "prefecture",
-            "parent": "GN-K",
-            "lat": 10.63286,
-            "lng": -8.697679999999991
-        },
         "NZ": {
             "name": "Nz\u00e9r\u00e9kor\u00e9",
+            "code": "NZ",
             "division": "prefecture",
             "parent": "GN-N",
             "lat": 7.754822,
@@ -362,6 +390,7 @@
         },
         "PI": {
             "name": "Pita",
+            "code": "PI",
             "division": "prefecture",
             "parent": "GN-M",
             "lat": 10.816667,
@@ -369,6 +398,7 @@
         },
         "SI": {
             "name": "Siguiri",
+            "code": "SI",
             "division": "prefecture",
             "parent": "GN-K",
             "lat": 11.421333,
@@ -376,6 +406,7 @@
         },
         "TE": {
             "name": "T\u00e9lim\u00e9l\u00e9",
+            "code": "TE",
             "division": "prefecture",
             "parent": "GN-D",
             "lat": 10.90452,
@@ -383,6 +414,7 @@
         },
         "TO": {
             "name": "Tougu\u00e9",
+            "code": "TO",
             "division": "prefecture",
             "parent": "GN-L",
             "lat": 11.4464221,
@@ -390,6 +422,7 @@
         },
         "YO": {
             "name": "Yomou",
+            "code": "YO",
             "division": "prefecture",
             "parent": "GN-N",
             "lat": 7.566,

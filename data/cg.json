@@ -25,94 +25,24 @@
         "pt": "Rep\u00fablica do Congo"
     },
     "ISO3166-2": {
-        "13": {
-            "name": "Sangha Department",
-            "code": "13",
+        "BZV": {
+            "name": "Brazzaville",
+            "code": "BZV",
             "names": {
-                "geonames": "Sangha",
-                "ru": "\u0421\u0430\u043d\u0433\u0430",
-                "de": "Sangha",
-                "en": "Sangha Department",
-                "es": "Departamento de Sangha",
-                "fr": "Sangha",
-                "it": "Regione di Sangha",
-                "zh": "\u6851\u52a0\u7701"
+                "geonames": "Brazzaville",
+                "ru": "\u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0438\u043b\u044c",
+                "en": "Brazzaville",
+                "ar": "\u0628\u0631\u0627\u0632\u0627\u0641\u064a\u0644",
+                "de": "Brazzaville",
+                "es": "Brazzaville",
+                "fr": "Brazzaville",
+                "it": "Brazzaville",
+                "zh": "\u5e03\u62c9\u67f4\u7ef4\u5c14"
             },
-            "division": "region",
+            "division": "capital district",
             "parent": "CG",
-            "lat": 36.638011,
-            "lng": 126.65939449999996
-        },
-        "12": {
-            "name": "Pool Department",
-            "code": "12",
-            "names": {
-                "geonames": "Pool",
-                "ru": "\u041f\u0443\u043b",
-                "en": "Pool Department",
-                "de": "Pool",
-                "es": "Departamento de Pool",
-                "fr": "Pool",
-                "it": "Regione di Pool",
-                "zh": "\u666e\u723e\u7701"
-            },
-            "division": "region",
-            "parent": "CG",
-            "lat": 52.800091,
-            "lng": 7.143832100000054
-        },
-        "14": {
-            "name": "Plateaux Department",
-            "code": "14",
-            "names": {
-                "geonames": "Plateaux",
-                "en": "Plateaux Department",
-                "de": "Plateaux",
-                "es": "Plateaux",
-                "fr": "Plateaux",
-                "it": "Regione degli Altopiani",
-                "ru": "\u041f\u043b\u0430\u0442\u043e",
-                "zh": "\u9ad8\u539f\u7701"
-            },
-            "division": "region",
-            "parent": "CG",
-            "lat": 52.3343584,
-            "lng": 6.66234929999996
-        },
-        "9": {
-            "name": "Niari Department",
-            "code": "9",
-            "names": {
-                "geonames": "Niari",
-                "ru": "\u041d\u0438\u0430\u0440\u0438",
-                "de": "Niari",
-                "en": "Niari Department",
-                "fr": "Niari",
-                "it": "Regione di Niari",
-                "zh": "\u5c3c\u963f\u91cc\u7701"
-            },
-            "division": "region",
-            "parent": "CG",
-            "lat": -22.817714,
-            "lng": -43.587089100000014
-        },
-        "7": {
-            "name": "Likouala Department",
-            "code": "7",
-            "names": {
-                "geonames": "Likouala",
-                "ru": "\u041b\u0438\u043a\u0443\u0430\u043b\u0430",
-                "de": "Likouala",
-                "en": "Likouala Department",
-                "es": "Likouala",
-                "fr": "Likouala",
-                "it": "Regione di Likouala",
-                "zh": "\u5229\u5938\u62c9\u7701"
-            },
-            "division": "region",
-            "parent": "CG",
-            "lat": null,
-            "lng": null
+            "lat": -4.272845,
+            "lng": 15.279768999999987
         },
         "2": {
             "name": "L\u00e9koumou Department",
@@ -150,6 +80,24 @@
             "lat": null,
             "lng": null
         },
+        "7": {
+            "name": "Likouala Department",
+            "code": "7",
+            "names": {
+                "geonames": "Likouala",
+                "ru": "\u041b\u0438\u043a\u0443\u0430\u043b\u0430",
+                "de": "Likouala",
+                "en": "Likouala Department",
+                "es": "Likouala",
+                "fr": "Likouala",
+                "it": "Regione di Likouala",
+                "zh": "\u5229\u5938\u62c9\u7701"
+            },
+            "division": "region",
+            "parent": "CG",
+            "lat": null,
+            "lng": null
+        },
         "8": {
             "name": "Cuvette Department",
             "code": "8",
@@ -167,6 +115,23 @@
             "parent": "CG",
             "lat": 48.8084338,
             "lng": -0.8672125000000506
+        },
+        "9": {
+            "name": "Niari Department",
+            "code": "9",
+            "names": {
+                "geonames": "Niari",
+                "ru": "\u041d\u0438\u0430\u0440\u0438",
+                "de": "Niari",
+                "en": "Niari Department",
+                "fr": "Niari",
+                "it": "Regione di Niari",
+                "zh": "\u5c3c\u963f\u91cc\u7701"
+            },
+            "division": "region",
+            "parent": "CG",
+            "lat": -22.817714,
+            "lng": -43.587089100000014
         },
         "11": {
             "name": "Bouenza Department",
@@ -186,24 +151,59 @@
             "lat": null,
             "lng": null
         },
-        "BZV": {
-            "name": "Brazzaville",
-            "code": "BZV",
+        "12": {
+            "name": "Pool Department",
+            "code": "12",
             "names": {
-                "geonames": "Brazzaville",
-                "ru": "\u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0438\u043b\u044c",
-                "en": "Brazzaville",
-                "ar": "\u0628\u0631\u0627\u0632\u0627\u0641\u064a\u0644",
-                "de": "Brazzaville",
-                "es": "Brazzaville",
-                "fr": "Brazzaville",
-                "it": "Brazzaville",
-                "zh": "\u5e03\u62c9\u67f4\u7ef4\u5c14"
+                "geonames": "Pool",
+                "ru": "\u041f\u0443\u043b",
+                "en": "Pool Department",
+                "de": "Pool",
+                "es": "Departamento de Pool",
+                "fr": "Pool",
+                "it": "Regione di Pool",
+                "zh": "\u666e\u723e\u7701"
             },
-            "division": "capital district",
+            "division": "region",
             "parent": "CG",
-            "lat": -4.272845,
-            "lng": 15.279768999999987
+            "lat": 52.800091,
+            "lng": 7.143832100000054
+        },
+        "13": {
+            "name": "Sangha Department",
+            "code": "13",
+            "names": {
+                "geonames": "Sangha",
+                "ru": "\u0421\u0430\u043d\u0433\u0430",
+                "de": "Sangha",
+                "en": "Sangha Department",
+                "es": "Departamento de Sangha",
+                "fr": "Sangha",
+                "it": "Regione di Sangha",
+                "zh": "\u6851\u52a0\u7701"
+            },
+            "division": "region",
+            "parent": "CG",
+            "lat": 36.638011,
+            "lng": 126.65939449999996
+        },
+        "14": {
+            "name": "Plateaux Department",
+            "code": "14",
+            "names": {
+                "geonames": "Plateaux",
+                "en": "Plateaux Department",
+                "de": "Plateaux",
+                "es": "Plateaux",
+                "fr": "Plateaux",
+                "it": "Regione degli Altopiani",
+                "ru": "\u041f\u043b\u0430\u0442\u043e",
+                "zh": "\u9ad8\u539f\u7701"
+            },
+            "division": "region",
+            "parent": "CG",
+            "lat": 52.3343584,
+            "lng": 6.66234929999996
         },
         "15": {
             "name": "Cuvette-Ouest Department",

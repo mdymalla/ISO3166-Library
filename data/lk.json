@@ -43,23 +43,23 @@
             "lat": 7.1385877,
             "lng": 79.95265080000001
         },
-        "8": {
-            "name": "Uva Province",
-            "code": "8",
+        "2": {
+            "name": "Central Province, Sri Lanka",
+            "code": "2",
             "names": {
-                "geonames": "Uva",
-                "ru": "\u0423\u0432\u0430",
-                "en": "Uva Province",
-                "de": "Uva",
-                "es": "Provincia de Uva",
-                "fr": "Province d'Uva",
-                "it": "Uva",
-                "zh": "\u70cf\u6c83\u7701"
+                "geonames": "Central",
+                "en": "Central Province",
+                "de": "Zentralprovinz",
+                "es": "Provincia Central",
+                "fr": "Province du Centre",
+                "it": "Provincia Centrale",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "zh": ""
             },
             "division": "province",
             "parent": "LK",
-            "lat": null,
-            "lng": null
+            "lat": 7.1534623,
+            "lng": 80.62518060000002
         },
         "3": {
             "name": "Southern Province, Sri Lanka",
@@ -78,78 +78,6 @@
             "parent": "LK",
             "lat": 5.9417605,
             "lng": 80.53328369999997
-        },
-        "9": {
-            "name": "Sabaragamuwa Province",
-            "code": "9",
-            "names": {
-                "geonames": "Sabaragamuwa",
-                "ru": "\u0421\u0430\u0431\u0430\u0440\u0430\u0433\u0430\u043c\u0443\u0432\u0430",
-                "en": "Sabaragamuwa Province",
-                "de": "Sabaragamuwa",
-                "es": "Sabaragamuwa",
-                "fr": "Province de Sabaragamuwa",
-                "it": "Sabaragamuwa",
-                "zh": "\u85a9\u4f2f\u52d2\u683c\u7a46\u6c83\u7701"
-            },
-            "division": "province",
-            "parent": "LK",
-            "lat": null,
-            "lng": null
-        },
-        "6": {
-            "name": "North Western Province, Sri Lanka",
-            "code": "6",
-            "names": {
-                "geonames": "North Western",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
-                "en": "North Western Province",
-                "de": "Nordwestprovinz",
-                "es": "Provincia Noroeste",
-                "fr": "Province du Nord-Ouest",
-                "it": "Provincia Nord-Occidentale",
-                "zh": "\u897f\u5317\u7701"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "7": {
-            "name": "North Central Province, Sri Lanka",
-            "code": "7",
-            "names": {
-                "geonames": "North Central",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
-                "en": "North Central Province",
-                "de": "Nord-Zentralprovinz",
-                "es": "Provincia Central del Norte",
-                "fr": "Province du Centre-Nord",
-                "it": "Provincia Centro-Settentrionale",
-                "zh": "\u5317\u4e2d\u7701"
-            },
-            "division": "province",
-            "parent": "LK",
-            "lat": null,
-            "lng": null
-        },
-        "2": {
-            "name": "Central Province, Sri Lanka",
-            "code": "2",
-            "names": {
-                "geonames": "Central",
-                "en": "Central Province",
-                "de": "Zentralprovinz",
-                "es": "Provincia Central",
-                "fr": "Province du Centre",
-                "it": "Provincia Centrale",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
-                "zh": ""
-            },
-            "division": "province",
-            "parent": "LK",
-            "lat": 7.1534623,
-            "lng": 80.62518060000002
         },
         "4": {
             "name": "Northern Province, Sri Lanka",
@@ -187,69 +115,97 @@
             "lat": 7.2895745,
             "lng": 81.6743553
         },
-        "52": {
-            "name": "Amp\u0101ara",
-            "division": "district",
-            "parent": "LK-5"
+        "6": {
+            "name": "North Western Province, Sri Lanka",
+            "code": "6",
+            "names": {
+                "geonames": "North Western",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "North Western Province",
+                "de": "Nordwestprovinz",
+                "es": "Provincia Noroeste",
+                "fr": "Province du Nord-Ouest",
+                "it": "Provincia Nord-Occidentale",
+                "zh": "\u897f\u5317\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
         },
-        "71": {
-            "name": "Anur\u0101dhapura",
-            "division": "district",
-            "parent": "LK-7",
-            "lat": 8.314813,
-            "lng": 80.41493200000002
+        "7": {
+            "name": "North Central Province, Sri Lanka",
+            "code": "7",
+            "names": {
+                "geonames": "North Central",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "en": "North Central Province",
+                "de": "Nord-Zentralprovinz",
+                "es": "Provincia Central del Norte",
+                "fr": "Province du Centre-Nord",
+                "it": "Provincia Centro-Settentrionale",
+                "zh": "\u5317\u4e2d\u7701"
+            },
+            "division": "province",
+            "parent": "LK",
+            "lat": null,
+            "lng": null
         },
-        "81": {
-            "name": "Badulla",
-            "division": "district",
-            "parent": "LK-8",
-            "lat": 6.9847222,
-            "lng": 81.0563889
+        "8": {
+            "name": "Uva Province",
+            "code": "8",
+            "names": {
+                "geonames": "Uva",
+                "ru": "\u0423\u0432\u0430",
+                "en": "Uva Province",
+                "de": "Uva",
+                "es": "Provincia de Uva",
+                "fr": "Province d'Uva",
+                "it": "Uva",
+                "zh": "\u70cf\u6c83\u7701"
+            },
+            "division": "province",
+            "parent": "LK",
+            "lat": null,
+            "lng": null
         },
-        "51": {
-            "name": "Ma\u1e0dakalapuva",
-            "division": "district",
-            "parent": "LK-5",
-            "lat": 7.7166667,
-            "lng": 81.70000000000005
+        "9": {
+            "name": "Sabaragamuwa Province",
+            "code": "9",
+            "names": {
+                "geonames": "Sabaragamuwa",
+                "ru": "\u0421\u0430\u0431\u0430\u0440\u0430\u0433\u0430\u043c\u0443\u0432\u0430",
+                "en": "Sabaragamuwa Province",
+                "de": "Sabaragamuwa",
+                "es": "Sabaragamuwa",
+                "fr": "Province de Sabaragamuwa",
+                "it": "Sabaragamuwa",
+                "zh": "\u85a9\u4f2f\u52d2\u683c\u7a46\u6c83\u7701"
+            },
+            "division": "province",
+            "parent": "LK",
+            "lat": null,
+            "lng": null
         },
         "11": {
             "name": "K\u014f\u1e37amba",
+            "code": "11",
             "division": "district",
             "parent": "LK-1",
             "lat": 6.927468,
             "lng": 79.84835799999996
         },
-        "31": {
-            "name": "G\u0101lla",
-            "division": "district",
-            "parent": "LK-3",
-            "lat": 48.5744679,
-            "lng": 13.250659300000052
-        },
         "12": {
             "name": "Gampaha",
+            "code": "12",
             "division": "district",
             "parent": "LK-1",
             "lat": 7.089895,
             "lng": 79.999413
         },
-        "33": {
-            "name": "Hambant\u014f\u1e6da",
-            "division": "district",
-            "parent": "LK-3",
-            "lat": 6.123861,
-            "lng": 81.12053700000001
-        },
-        "41": {
-            "name": "Y\u0101panaya",
-            "division": "district",
-            "parent": "LK-4",
-            "lat": 9.668333,
-            "lng": 80.006393
-        },
         "13": {
             "name": "Ka\u1e37utara",
+            "code": "13",
             "division": "district",
             "parent": "LK-1",
             "lat": 6.579224,
@@ -257,102 +213,171 @@
         },
         "21": {
             "name": "Mahanuvara",
+            "code": "21",
             "division": "district",
             "parent": "LK-2",
             "lat": 7.2969611,
             "lng": 80.63845279999998
         },
-        "92": {
-            "name": "K\u00e6galla",
-            "division": "district",
-            "parent": "LK-9"
-        },
-        "42": {
-            "name": "Kilin\u014fchchi",
-            "division": "district",
-            "parent": "LK-4",
-            "lat": 9.3833333,
-            "lng": 80.39999999999998
-        },
-        "61": {
-            "name": "Kuru\u1e47\u00e6gala",
-            "division": "district",
-            "parent": "LK"
-        },
-        "43": {
-            "name": "Mann\u0101rama",
-            "division": "district",
-            "parent": "LK-4",
-            "lat": 8.977572,
-            "lng": 79.90933999999993
-        },
         "22": {
             "name": "M\u0101tale",
+            "code": "22",
             "division": "district",
             "parent": "LK-2",
             "lat": 7.467817,
             "lng": 80.62415299999998
         },
-        "32": {
-            "name": "M\u0101tara",
-            "division": "district",
-            "parent": "LK-3",
-            "lat": 5.949305,
-            "lng": 80.535347
-        },
-        "82": {
-            "name": "M\u014f\u1e47ar\u0101gala",
-            "division": "district",
-            "parent": "LK-8",
-            "lat": 6.8694032,
-            "lng": 81.34544170000004
-        },
-        "45": {
-            "name": "Mulativ",
-            "division": "district",
-            "parent": "LK-4",
-            "lat": 9.2670911,
-            "lng": 80.81424800000002
-        },
         "23": {
             "name": "Nuvara \u0114liya",
+            "code": "23",
             "division": "district",
             "parent": "LK-2",
             "lat": 6.8135562,
             "lng": 80.78272820000007
         },
-        "72": {
-            "name": "P\u014f\u1e37\u014fnnaruva",
+        "31": {
+            "name": "G\u0101lla",
+            "code": "31",
             "division": "district",
-            "parent": "LK-7",
-            "lat": 7.932857,
-            "lng": 81.00808699999993
+            "parent": "LK-3",
+            "lat": 48.5744679,
+            "lng": 13.250659300000052
         },
-        "62": {
-            "name": "Puttalama",
+        "32": {
+            "name": "M\u0101tara",
+            "code": "32",
             "division": "district",
-            "parent": "LK",
-            "lat": 8.0341667,
-            "lng": 79.83527779999997
+            "parent": "LK-3",
+            "lat": 5.949305,
+            "lng": 80.535347
         },
-        "91": {
-            "name": "Ratnapura",
+        "33": {
+            "name": "Hambant\u014f\u1e6da",
+            "code": "33",
             "division": "district",
-            "parent": "LK-9",
-            "lat": 6.693124,
-            "lng": 80.386436
+            "parent": "LK-3",
+            "lat": 6.123861,
+            "lng": 81.12053700000001
+        },
+        "41": {
+            "name": "Y\u0101panaya",
+            "code": "41",
+            "division": "district",
+            "parent": "LK-4",
+            "lat": 9.668333,
+            "lng": 80.006393
+        },
+        "42": {
+            "name": "Kilin\u014fchchi",
+            "code": "42",
+            "division": "district",
+            "parent": "LK-4",
+            "lat": 9.3833333,
+            "lng": 80.39999999999998
+        },
+        "43": {
+            "name": "Mann\u0101rama",
+            "code": "43",
+            "division": "district",
+            "parent": "LK-4",
+            "lat": 8.977572,
+            "lng": 79.90933999999993
+        },
+        "44": {
+            "name": "Vavuniy\u0101va",
+            "code": "44",
+            "division": "district",
+            "parent": "LK-4"
+        },
+        "45": {
+            "name": "Mulativ",
+            "code": "45",
+            "division": "district",
+            "parent": "LK-4",
+            "lat": 9.2670911,
+            "lng": 80.81424800000002
+        },
+        "51": {
+            "name": "Ma\u1e0dakalapuva",
+            "code": "51",
+            "division": "district",
+            "parent": "LK-5",
+            "lat": 7.7166667,
+            "lng": 81.70000000000005
+        },
+        "52": {
+            "name": "Amp\u0101ara",
+            "code": "52",
+            "division": "district",
+            "parent": "LK-5"
         },
         "53": {
             "name": "Triku\u1e47\u0101malaya",
+            "code": "53",
             "division": "district",
             "parent": "LK-5",
             "lat": 8.569151,
             "lng": 81.23290999999995
         },
-        "44": {
-            "name": "Vavuniy\u0101va",
+        "61": {
+            "name": "Kuru\u1e47\u00e6gala",
+            "code": "61",
             "division": "district",
-            "parent": "LK-4"
+            "parent": "LK"
+        },
+        "62": {
+            "name": "Puttalama",
+            "code": "62",
+            "division": "district",
+            "parent": "LK",
+            "lat": 8.0341667,
+            "lng": 79.83527779999997
+        },
+        "71": {
+            "name": "Anur\u0101dhapura",
+            "code": "71",
+            "division": "district",
+            "parent": "LK-7",
+            "lat": 8.314813,
+            "lng": 80.41493200000002
+        },
+        "72": {
+            "name": "P\u014f\u1e37\u014fnnaruva",
+            "code": "72",
+            "division": "district",
+            "parent": "LK-7",
+            "lat": 7.932857,
+            "lng": 81.00808699999993
+        },
+        "81": {
+            "name": "Badulla",
+            "code": "81",
+            "division": "district",
+            "parent": "LK-8",
+            "lat": 6.9847222,
+            "lng": 81.0563889
+        },
+        "82": {
+            "name": "M\u014f\u1e47ar\u0101gala",
+            "code": "82",
+            "division": "district",
+            "parent": "LK-8",
+            "lat": 6.8694032,
+            "lng": 81.34544170000004
+        },
+        "91": {
+            "name": "Ratnapura",
+            "code": "91",
+            "division": "district",
+            "parent": "LK-9",
+            "lat": 6.693124,
+            "lng": 80.386436
+        },
+        "92": {
+            "name": "K\u00e6galla",
+            "code": "92",
+            "division": "district",
+            "parent": "LK-9"
         }
     }
 }

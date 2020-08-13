@@ -25,78 +25,30 @@
         "pt": "Haiti"
     },
     "ISO3166-2": {
-        "SE": {
-            "name": "Sud-Est",
-            "code": "SE",
+        "AR": {
+            "name": "Artibonite",
+            "code": "AR",
             "names": {
-                "geonames": "Sud-Est",
-                "en": "Sud-Est"
+                "geonames": "Artibonite",
+                "ru": "\u0410\u0440\u0442\u0438\u0431\u043e\u043d\u0438\u0442",
+                "en": "Artibonite",
+                "de": "D\u00e9partement Artibonite",
+                "es": "Artibonito",
+                "fr": "Artibonite",
+                "it": "Dipartimento dell'Artibonite",
+                "zh": "\u963f\u8482\u535a\u5c3c\u7279\u7701"
             },
             "division": "department",
             "parent": "HT",
-            "lat": 18.2783598,
-            "lng": -72.35479150000003
+            "lat": 35.20105,
+            "lng": -91.8318334
         },
-        "SD": {
-            "name": "Sud",
-            "code": "SD",
+        "CE": {
+            "name": "Centre",
+            "code": "CE",
             "names": {
-                "geonames": "Sud",
-                "en": "Sud"
-            },
-            "division": "department",
-            "parent": "HT",
-            "lat": 18.3320005,
-            "lng": -73.70070880000003
-        },
-        "OU": {
-            "name": "Ouest",
-            "code": "OU",
-            "names": {
-                "geonames": "Ouest",
-                "en": "Ouest"
-            },
-            "division": "department",
-            "parent": "HT",
-            "lat": 18.5419742,
-            "lng": -72.32964989999999
-        },
-        "NO": {
-            "name": "Nord-Ouest",
-            "code": "NO",
-            "names": {
-                "geonames": "Nord-Ouest",
-                "en": "Nord-Ouest"
-            },
-            "division": "department",
-            "parent": "HT",
-            "lat": 19.8374009,
-            "lng": -73.04052769999998
-        },
-        "NE": {
-            "name": "Nord-Est",
-            "code": "NE",
-            "names": {
-                "geonames": "Nord-Est",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442",
-                "en": "Nord-Est",
-                "de": "D\u00e9partement Nord-Est",
-                "es": "Departamento Nordeste",
-                "fr": "Nord-Est",
-                "it": "Dipartimento del Nordest",
-                "zh": "\u4e1c\u5317\u7701"
-            },
-            "division": "department",
-            "parent": "HT",
-            "lat": 19.4889723,
-            "lng": -71.8571331
-        },
-        "ND": {
-            "name": "Nord",
-            "code": "ND",
-            "names": {
-                "geonames": "Nord",
-                "en": "Nord"
+                "geonames": "Centre",
+                "en": "Centre"
             },
             "division": "department",
             "parent": "HT",
@@ -121,35 +73,35 @@
             "lat": 32.1574351,
             "lng": -82.90712300000001
         },
-        "CE": {
-            "name": "Centre",
-            "code": "CE",
+        "ND": {
+            "name": "Nord",
+            "code": "ND",
             "names": {
-                "geonames": "Centre",
-                "en": "Centre"
+                "geonames": "Nord",
+                "en": "Nord"
             },
             "division": "department",
             "parent": "HT",
             "lat": null,
             "lng": null
         },
-        "AR": {
-            "name": "Artibonite",
-            "code": "AR",
+        "NE": {
+            "name": "Nord-Est",
+            "code": "NE",
             "names": {
-                "geonames": "Artibonite",
-                "ru": "\u0410\u0440\u0442\u0438\u0431\u043e\u043d\u0438\u0442",
-                "en": "Artibonite",
-                "de": "D\u00e9partement Artibonite",
-                "es": "Artibonito",
-                "fr": "Artibonite",
-                "it": "Dipartimento dell'Artibonite",
-                "zh": "\u963f\u8482\u535a\u5c3c\u7279\u7701"
+                "geonames": "Nord-Est",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442",
+                "en": "Nord-Est",
+                "de": "D\u00e9partement Nord-Est",
+                "es": "Departamento Nordeste",
+                "fr": "Nord-Est",
+                "it": "Dipartimento del Nordest",
+                "zh": "\u4e1c\u5317\u7701"
             },
             "division": "department",
             "parent": "HT",
-            "lat": 35.20105,
-            "lng": -91.8318334
+            "lat": 19.4889723,
+            "lng": -71.8571331
         },
         "NI": {
             "name": "Nippes",
@@ -163,6 +115,54 @@
             "parent": null,
             "lat": null,
             "lng": null
+        },
+        "NO": {
+            "name": "Nord-Ouest",
+            "code": "NO",
+            "names": {
+                "geonames": "Nord-Ouest",
+                "en": "Nord-Ouest"
+            },
+            "division": "department",
+            "parent": "HT",
+            "lat": 19.8374009,
+            "lng": -73.04052769999998
+        },
+        "OU": {
+            "name": "Ouest",
+            "code": "OU",
+            "names": {
+                "geonames": "Ouest",
+                "en": "Ouest"
+            },
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.5419742,
+            "lng": -72.32964989999999
+        },
+        "SD": {
+            "name": "Sud",
+            "code": "SD",
+            "names": {
+                "geonames": "Sud",
+                "en": "Sud"
+            },
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.3320005,
+            "lng": -73.70070880000003
+        },
+        "SE": {
+            "name": "Sud-Est",
+            "code": "SE",
+            "names": {
+                "geonames": "Sud-Est",
+                "en": "Sud-Est"
+            },
+            "division": "department",
+            "parent": "HT",
+            "lat": 18.2783598,
+            "lng": -72.35479150000003
         }
     }
 }

@@ -24,96 +24,6 @@
         "pt": "Benim"
     },
     "ISO3166-2": {
-        "ZO": {
-            "name": "Zou Department",
-            "code": "ZO",
-            "names": {
-                "geonames": "Zou",
-                "ru": "\u0417\u0443",
-                "en": "Zou Department",
-                "de": "Zou",
-                "es": "Zou",
-                "fr": "Zou",
-                "it": "Dipartimento di Zou",
-                "zh": "\u7956\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
-        },
-        "OU": {
-            "name": "Ou\u00e9m\u00e9 Department",
-            "code": "OU",
-            "names": {
-                "geonames": "Oueme",
-                "ru": "\u0423\u044d\u043c\u0435",
-                "en": "Ou\u00e9m\u00e9 Department",
-                "de": "Ou\u00e9m\u00e9",
-                "es": "Ou\u00e9m\u00e9",
-                "fr": "Ou\u00e9m\u00e9",
-                "it": "Dipartimento di Ou\u00e9m\u00e9",
-                "zh": "\u97cb\u6885\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
-        },
-        "MO": {
-            "name": "Mono Department",
-            "code": "MO",
-            "names": {
-                "geonames": "Mono",
-                "ru": "\u041c\u043e\u043d\u043e",
-                "en": "Mono Department",
-                "de": "Mono",
-                "es": "Mono",
-                "fr": "Mono",
-                "it": "Dipartimento di Mono",
-                "zh": "\u83ab\u8afe\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": 37.9642529,
-            "lng": -91.8318334
-        },
-        "BO": {
-            "name": "Borgou Department",
-            "code": "BO",
-            "names": {
-                "geonames": "Borgou",
-                "ru": "\u0411\u043e\u0440\u0433\u0443",
-                "en": "Borgou Department",
-                "de": "Borgou",
-                "es": "Borgou",
-                "fr": "Borgou",
-                "it": "Dipartimento di Borgou",
-                "zh": "\u535a\u723e\u53e4\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
-        },
-        "AQ": {
-            "name": "Atlantique Department",
-            "code": "AQ",
-            "names": {
-                "geonames": "Atlantique",
-                "ru": "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439",
-                "en": "Atlantique Department",
-                "de": "Atlantique",
-                "es": "Atlantique",
-                "fr": "Atlantique",
-                "it": "Dipartimento dell'Atlantico",
-                "zh": "\u5927\u897f\u6d0b\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
-        },
         "AK": {
             "name": "Atakora Department",
             "code": "AK",
@@ -150,6 +60,42 @@
             "lat": 32.3182314,
             "lng": -86.90229799999997
         },
+        "AQ": {
+            "name": "Atlantique Department",
+            "code": "AQ",
+            "names": {
+                "geonames": "Atlantique",
+                "ru": "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439",
+                "en": "Atlantique Department",
+                "de": "Atlantique",
+                "es": "Atlantique",
+                "fr": "Atlantique",
+                "it": "Dipartimento dell'Atlantico",
+                "zh": "\u5927\u897f\u6d0b\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": null,
+            "lng": null
+        },
+        "BO": {
+            "name": "Borgou Department",
+            "code": "BO",
+            "names": {
+                "geonames": "Borgou",
+                "ru": "\u0411\u043e\u0440\u0433\u0443",
+                "en": "Borgou Department",
+                "de": "Borgou",
+                "es": "Borgou",
+                "fr": "Borgou",
+                "it": "Dipartimento di Borgou",
+                "zh": "\u535a\u723e\u53e4\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": null,
+            "lng": null
+        },
         "CO": {
             "name": "Collines Department",
             "code": "CO",
@@ -162,6 +108,24 @@
                 "fr": "Collines",
                 "it": "Dipartimento delle Colline",
                 "zh": "\u4e18\u9675\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": null,
+            "lng": null
+        },
+        "DO": {
+            "name": "Donga Department",
+            "code": "DO",
+            "names": {
+                "geonames": "Donga",
+                "ru": "\u0414\u043e\u043d\u0433\u0430",
+                "en": "Donga Department",
+                "de": "Donga",
+                "es": "Donga",
+                "fr": "Donga",
+                "it": "Dipartimento di Donga",
+                "zh": "\u5cfd\u8c37\u7701"
             },
             "division": "department",
             "parent": "BJ",
@@ -186,24 +150,6 @@
             "lat": 6.9374786,
             "lng": 2.164672200000041
         },
-        "DO": {
-            "name": "Donga Department",
-            "code": "DO",
-            "names": {
-                "geonames": "Donga",
-                "ru": "\u0414\u043e\u043d\u0433\u0430",
-                "en": "Donga Department",
-                "de": "Donga",
-                "es": "Donga",
-                "fr": "Donga",
-                "it": "Dipartimento di Donga",
-                "zh": "\u5cfd\u8c37\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
-        },
         "LI": {
             "name": "Littoral Department",
             "code": "LI",
@@ -216,6 +162,42 @@
                 "fr": "Littoral",
                 "it": "Dipartimento del Litorale",
                 "zh": "\u6ff1\u6d77\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": null,
+            "lng": null
+        },
+        "MO": {
+            "name": "Mono Department",
+            "code": "MO",
+            "names": {
+                "geonames": "Mono",
+                "ru": "\u041c\u043e\u043d\u043e",
+                "en": "Mono Department",
+                "de": "Mono",
+                "es": "Mono",
+                "fr": "Mono",
+                "it": "Dipartimento di Mono",
+                "zh": "\u83ab\u8afe\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": 37.9642529,
+            "lng": -91.8318334
+        },
+        "OU": {
+            "name": "Ou\u00e9m\u00e9 Department",
+            "code": "OU",
+            "names": {
+                "geonames": "Oueme",
+                "ru": "\u0423\u044d\u043c\u0435",
+                "en": "Ou\u00e9m\u00e9 Department",
+                "de": "Ou\u00e9m\u00e9",
+                "es": "Ou\u00e9m\u00e9",
+                "fr": "Ou\u00e9m\u00e9",
+                "it": "Dipartimento di Ou\u00e9m\u00e9",
+                "zh": "\u97cb\u6885\u7701"
             },
             "division": "department",
             "parent": "BJ",
@@ -239,6 +221,24 @@
             "parent": "BJ",
             "lat": 7.3445141,
             "lng": 2.5396029999999428
+        },
+        "ZO": {
+            "name": "Zou Department",
+            "code": "ZO",
+            "names": {
+                "geonames": "Zou",
+                "ru": "\u0417\u0443",
+                "en": "Zou Department",
+                "de": "Zou",
+                "es": "Zou",
+                "fr": "Zou",
+                "it": "Dipartimento di Zou",
+                "zh": "\u7956\u7701"
+            },
+            "division": "department",
+            "parent": "BJ",
+            "lat": null,
+            "lng": null
         }
     }
 }

@@ -25,19 +25,76 @@
         "pt": "Bielorr\u00fassia"
     },
     "ISO3166-2": {
-        "VI": {
-            "name": "Vitebsk Region",
-            "code": "VI",
+        "BR": {
+            "name": "Brest Region",
+            "code": "BR",
             "names": {
-                "geonames": "Vitebsk",
-                "ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Vitebsk Region",
-                "ar": "\u0641\u064a\u062a\u0633\u0628\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
-                "de": "Wizebskaja Woblasz",
-                "es": "Provincia de V\u00edtebsk",
-                "fr": "Voblast de Vitebsk",
-                "it": "Voblasc' di Vicebsk",
-                "zh": "\u7ef4\u6377\u5e03\u65af\u514b\u5dde"
+                "geonames": "Brest",
+                "ru": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Brest Region",
+                "ar": "\u0628\u0648\u0628\u0631\u064a\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
+                "de": "Breszkaja Woblasz",
+                "es": "Provincia de Brest",
+                "fr": "Voblast de Brest",
+                "it": "Voblasc' di Br\u0117st",
+                "zh": "\u5e03\u5217\u65af\u7279\u5dde"
+            },
+            "division": "oblast",
+            "parent": "BY",
+            "lat": null,
+            "lng": null
+        },
+        "HM": {
+            "name": "Minsk",
+            "code": "HM",
+            "names": {
+                "geonames": "Minsk City",
+                "ru": "\u041c\u0438\u043d\u0441\u043a",
+                "en": "Minsk",
+                "ar": "\u0645\u064a\u0646\u0633\u0643",
+                "de": "Minsk",
+                "es": "Minsk",
+                "fr": "Minsk",
+                "it": "Minsk",
+                "zh": "\u660e\u65af\u514b"
+            },
+            "division": "city",
+            "parent": "BY",
+            "lat": null,
+            "lng": null
+        },
+        "HO": {
+            "name": "Gomel Region",
+            "code": "HO",
+            "names": {
+                "geonames": "Gomel",
+                "ru": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Gomel Region",
+                "ar": "\u063a\u0648\u0645\u0644 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
+                "de": "Homelskaja Woblasz",
+                "es": "Provincia de G\u00f3mel",
+                "fr": "Voblast de Homiel",
+                "it": "Voblasc' di Homel'",
+                "zh": "\u6208\u6885\u5229\u5dde"
+            },
+            "division": "oblast",
+            "parent": "BY",
+            "lat": 52.4452778,
+            "lng": 30.98416670000006
+        },
+        "HR": {
+            "name": "Grodno Region",
+            "code": "HR",
+            "names": {
+                "geonames": "Grodnenskaya",
+                "ru": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Grodno Region",
+                "ar": "\u062c\u0631\u062f\u0648\u0646\u0647 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
+                "de": "Hrodsenskaja Woblasz",
+                "es": "Provincia de Grodno",
+                "fr": "Voblast de Hrodna",
+                "it": "Voblasc' di Hrodna",
+                "zh": "\u683c\u7f85\u5fb7\u8afe\u5dde"
             },
             "division": "oblast",
             "parent": "BY",
@@ -81,76 +138,19 @@
             "lat": 44.3148443,
             "lng": -85.60236429999998
         },
-        "HM": {
-            "name": "Minsk",
-            "code": "HM",
+        "VI": {
+            "name": "Vitebsk Region",
+            "code": "VI",
             "names": {
-                "geonames": "Minsk City",
-                "ru": "\u041c\u0438\u043d\u0441\u043a",
-                "en": "Minsk",
-                "ar": "\u0645\u064a\u0646\u0633\u0643",
-                "de": "Minsk",
-                "es": "Minsk",
-                "fr": "Minsk",
-                "it": "Minsk",
-                "zh": "\u660e\u65af\u514b"
-            },
-            "division": "city",
-            "parent": "BY",
-            "lat": null,
-            "lng": null
-        },
-        "HR": {
-            "name": "Grodno Region",
-            "code": "HR",
-            "names": {
-                "geonames": "Grodnenskaya",
-                "ru": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Grodno Region",
-                "ar": "\u062c\u0631\u062f\u0648\u0646\u0647 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
-                "de": "Hrodsenskaja Woblasz",
-                "es": "Provincia de Grodno",
-                "fr": "Voblast de Hrodna",
-                "it": "Voblasc' di Hrodna",
-                "zh": "\u683c\u7f85\u5fb7\u8afe\u5dde"
-            },
-            "division": "oblast",
-            "parent": "BY",
-            "lat": null,
-            "lng": null
-        },
-        "HO": {
-            "name": "Gomel Region",
-            "code": "HO",
-            "names": {
-                "geonames": "Gomel",
-                "ru": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Gomel Region",
-                "ar": "\u063a\u0648\u0645\u0644 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
-                "de": "Homelskaja Woblasz",
-                "es": "Provincia de G\u00f3mel",
-                "fr": "Voblast de Homiel",
-                "it": "Voblasc' di Homel'",
-                "zh": "\u6208\u6885\u5229\u5dde"
-            },
-            "division": "oblast",
-            "parent": "BY",
-            "lat": 52.4452778,
-            "lng": 30.98416670000006
-        },
-        "BR": {
-            "name": "Brest Region",
-            "code": "BR",
-            "names": {
-                "geonames": "Brest",
-                "ru": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Brest Region",
-                "ar": "\u0628\u0648\u0628\u0631\u064a\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
-                "de": "Breszkaja Woblasz",
-                "es": "Provincia de Brest",
-                "fr": "Voblast de Brest",
-                "it": "Voblasc' di Br\u0117st",
-                "zh": "\u5e03\u5217\u65af\u7279\u5dde"
+                "geonames": "Vitebsk",
+                "ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Vitebsk Region",
+                "ar": "\u0641\u064a\u062a\u0633\u0628\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a",
+                "de": "Wizebskaja Woblasz",
+                "es": "Provincia de V\u00edtebsk",
+                "fr": "Voblast de Vitebsk",
+                "it": "Voblasc' di Vicebsk",
+                "zh": "\u7ef4\u6377\u5e03\u65af\u514b\u5dde"
             },
             "division": "oblast",
             "parent": "BY",

@@ -25,284 +25,19 @@
         "pt": "Som\u00e1lia"
     },
     "ISO3166-2": {
-        "WO": {
-            "name": "Woqooyi Galbeed",
-            "code": "WO",
+        "AW": {
+            "name": "Awdal",
+            "code": "AW",
             "names": {
-                "geonames": "Woqooyi Galbeed",
-                "ru": "\u0412\u043e\u043a\u0443\u0439-\u0413\u0430\u043b\u044c\u0431\u0438\u0434",
-                "en": "Woqooyi Galbeed",
-                "ar": "\u0648\u0642\u0648\u064a\u064a \u062c\u0627\u0644\u0628\u064a\u062f",
-                "de": "Woqooyi Galbeed",
-                "es": "Woqooyi Galbeed",
-                "fr": "Woqooyi Galbeed",
-                "it": "Nordovest",
-                "zh": "\u6c83\u6208\u4f0a\u52a0\u52d2\u8d1d\u5fb7\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "TO": {
-            "name": "Togdheer",
-            "code": "TO",
-            "names": {
-                "geonames": "Togdheer",
-                "ru": "\u0422\u043e\u0433\u0434\u0435\u0440",
-                "en": "Togdheer",
-                "ar": "\u062a\u0648\u062c\u062f\u064a\u0631",
-                "de": "Togdheer",
-                "es": "Togdheer",
-                "fr": "Togdheer",
-                "it": "Tug Dair",
-                "zh": "\u6258\u683c\u4ee3\u723e\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "SH": {
-            "name": "Lower Shebelle",
-            "code": "SH",
-            "names": {
-                "geonames": "Lower Shabeelle",
-                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0428\u0430\u0431\u0435\u043b\u043b\u0435",
-                "en": "Lower Shebelle",
-                "ar": "\u0634\u0628\u064a\u0644\u064a \u0627\u0644\u0633\u0641\u0644\u0649",
-                "de": "Shabeellaha Hoose",
-                "es": "Shabeellaha Hoose",
-                "fr": "Shabeellaha Hoose",
-                "it": "Basso Scebeli",
-                "zh": "\u4e0b\u8b1d\u8c9d\u5229\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "SD": {
-            "name": "Middle Shebelle",
-            "code": "SD",
-            "names": {
-                "geonames": "Middle Shabele",
-                "ru": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0428\u0430\u0431\u0435\u043b\u043b\u0435",
-                "en": "Middle Shebelle",
-                "ar": "\u0634\u0628\u064a\u0644\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
-                "de": "Shabeellaha Dhexe",
-                "es": "Shabeellaha Dhexe",
-                "fr": "Shabeellaha Dhexe",
-                "it": "Medio Scebeli",
-                "zh": "\u4e2d\u8b1d\u8c9d\u5229\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "SA": {
-            "name": "Sanaag",
-            "code": "SA",
-            "names": {
-                "geonames": "Sanaag",
-                "ru": "\u0421\u0430\u043d\u0430\u0430\u0433",
-                "en": "Sanaag",
-                "de": "Sanaag",
-                "es": "Sanaag",
-                "fr": "Sanaag",
-                "it": "Sanag",
-                "zh": "\u85a9\u90a3\u683c\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "NU": {
-            "name": "Nugal, Somalia",
-            "code": "NU",
-            "names": {
-                "geonames": "Nugaal",
-                "ru": "\u041d\u0443\u0433\u0430\u043b",
-                "en": "Nugal",
-                "ar": "\u0646\u0648\u062c\u0627\u0644",
-                "de": "Nugaal",
-                "es": "Nugaal",
-                "fr": "Nugaal",
-                "it": "Nogal",
-                "zh": "\u52aa\u52a0\u723e\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "MU": {
-            "name": "Mudug",
-            "code": "MU",
-            "names": {
-                "geonames": "Mudug",
-                "ru": "\u041c\u0443\u0434\u0443\u0433",
-                "en": "Mudug",
-                "ar": "\u0645\u062f\u0642",
-                "de": "Mudug",
-                "es": "Mudug",
-                "fr": "Mudug",
-                "it": "Mudugh",
-                "zh": "\u7a46\u675c\u683c\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "JH": {
-            "name": "Lower Juba",
-            "code": "JH",
-            "names": {
-                "geonames": "Lower Juba",
-                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0414\u0436\u0443\u0431\u0431\u0430",
-                "en": "Lower Juba",
-                "ar": "\u062c\u0648\u0628\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
-                "de": "Jubbada Hoose",
-                "es": "Jubbada Hoose",
-                "fr": "Jubbada Hoose",
-                "it": "Basso Giuba",
-                "zh": "\u4e0b\u6731\u5df4\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "JD": {
-            "name": "Middle Juba",
-            "code": "JD",
-            "names": {
-                "geonames": "Middle Juba",
-                "ru": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0414\u0436\u0443\u0431\u0431\u0430",
-                "en": "Middle Juba",
-                "ar": "\u062c\u0648\u0628\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
-                "de": "Jubbada Dhexe",
-                "es": "Jubbada Dhexe",
-                "fr": "Jubbada Dhexe",
-                "it": "Medio Giuba",
-                "zh": "\u4e2d\u6731\u5df4\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "HI": {
-            "name": "Hiran, Somalia",
-            "code": "HI",
-            "names": {
-                "geonames": "Hiiraan",
-                "ru": "\u0425\u0438\u0440\u0430\u043d",
-                "en": "Hiran",
-                "ar": "\u0647\u064a\u0631\u0627\u0646",
-                "de": "Hiiraan",
-                "es": "Hiiraan",
-                "fr": "Hiiraan",
-                "it": "Hiran",
-                "zh": "\u5e0c\u862d\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": null,
-            "lng": null
-        },
-        "GE": {
-            "name": "Gedo",
-            "code": "GE",
-            "names": {
-                "geonames": "Gedo",
-                "ru": "\u0413\u0435\u0434\u043e",
-                "en": "Gedo",
-                "ar": "\u062c\u062f\u0648",
-                "de": "Gedo",
-                "es": "Gedo",
-                "fr": "Gedo",
-                "it": "Ghedo",
-                "zh": "\u84cb\u591a\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": 52.3453837,
-            "lng": 5.63377939999998
-        },
-        "GA": {
-            "name": "Galguduud",
-            "code": "GA",
-            "names": {
-                "geonames": "Galguduud",
-                "ru": "\u0413\u0430\u043b\u0433\u0443\u0434\u0443\u0434",
-                "en": "Galguduud",
-                "ar": "\u062c\u0644\u062c\u062f\u0648\u062f",
-                "de": "Galguduud",
-                "es": "Galguduud",
-                "fr": "Galguduud",
-                "it": "Galgudud",
-                "zh": "\u52a0\u52d2\u53e4\u675c\u5fb7\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": 32.1574351,
-            "lng": -82.90712300000001
-        },
-        "BY": {
-            "name": "Bay, Somalia",
-            "code": "BY",
-            "names": {
-                "geonames": "Bay",
-                "ru": "\u0411\u0435\u0439",
-                "en": "Bay",
-                "ar": "\u0628\u0627\u064a",
-                "de": "Bay",
-                "es": "Bay",
-                "fr": "Bay",
-                "it": "Bai",
-                "zh": "\u62dc\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": 53.424522,
-            "lng": -6.35561000000007
-        },
-        "BR": {
-            "name": "Bari, Somalia",
-            "code": "BR",
-            "names": {
-                "geonames": "Bari",
-                "en": "Bari",
-                "ar": "\u0628\u0627\u0631\u064a",
-                "de": "Bari",
-                "es": "Bari",
-                "fr": "Bari",
-                "it": "Bari",
-                "ru": "\u0411\u0430\u0440\u0438",
-                "zh": "\u5df4\u91cc\u5dde"
-            },
-            "division": "region",
-            "parent": "SO",
-            "lat": 47.9719142,
-            "lng": 17.78019919999997
-        },
-        "BN": {
-            "name": "Banaadir",
-            "code": "BN",
-            "names": {
-                "geonames": "Banaadir",
-                "ru": "\u0411\u0435\u043d\u0430\u0434\u0438\u0440",
-                "en": "Banaadir",
-                "ar": "\u0628\u0646\u0627\u062f\u0631",
-                "de": "Banaadir",
-                "es": "Benadir",
-                "fr": "Banaadir",
-                "it": "Benadir",
-                "zh": "\u5df4\u7d0d\u8fea\u723e\u5dde"
+                "geonames": "Awdal",
+                "ru": "\u0410\u0432\u0434\u0430\u043b",
+                "en": "Awdal",
+                "ar": "\u0639\u062f\u0644",
+                "de": "Awdal",
+                "es": "Awdal",
+                "fr": "Awdal",
+                "it": "Adal",
+                "zh": "\u5965\u8fbe\u52d2\u5dde"
             },
             "division": "region",
             "parent": "SO",
@@ -328,19 +63,246 @@
             "lat": null,
             "lng": null
         },
-        "AW": {
-            "name": "Awdal",
-            "code": "AW",
+        "BN": {
+            "name": "Banaadir",
+            "code": "BN",
             "names": {
-                "geonames": "Awdal",
-                "ru": "\u0410\u0432\u0434\u0430\u043b",
-                "en": "Awdal",
-                "ar": "\u0639\u062f\u0644",
-                "de": "Awdal",
-                "es": "Awdal",
-                "fr": "Awdal",
-                "it": "Adal",
-                "zh": "\u5965\u8fbe\u52d2\u5dde"
+                "geonames": "Banaadir",
+                "ru": "\u0411\u0435\u043d\u0430\u0434\u0438\u0440",
+                "en": "Banaadir",
+                "ar": "\u0628\u0646\u0627\u062f\u0631",
+                "de": "Banaadir",
+                "es": "Benadir",
+                "fr": "Banaadir",
+                "it": "Benadir",
+                "zh": "\u5df4\u7d0d\u8fea\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "BR": {
+            "name": "Bari, Somalia",
+            "code": "BR",
+            "names": {
+                "geonames": "Bari",
+                "en": "Bari",
+                "ar": "\u0628\u0627\u0631\u064a",
+                "de": "Bari",
+                "es": "Bari",
+                "fr": "Bari",
+                "it": "Bari",
+                "ru": "\u0411\u0430\u0440\u0438",
+                "zh": "\u5df4\u91cc\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": 47.9719142,
+            "lng": 17.78019919999997
+        },
+        "BY": {
+            "name": "Bay, Somalia",
+            "code": "BY",
+            "names": {
+                "geonames": "Bay",
+                "ru": "\u0411\u0435\u0439",
+                "en": "Bay",
+                "ar": "\u0628\u0627\u064a",
+                "de": "Bay",
+                "es": "Bay",
+                "fr": "Bay",
+                "it": "Bai",
+                "zh": "\u62dc\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": 53.424522,
+            "lng": -6.35561000000007
+        },
+        "GA": {
+            "name": "Galguduud",
+            "code": "GA",
+            "names": {
+                "geonames": "Galguduud",
+                "ru": "\u0413\u0430\u043b\u0433\u0443\u0434\u0443\u0434",
+                "en": "Galguduud",
+                "ar": "\u062c\u0644\u062c\u062f\u0648\u062f",
+                "de": "Galguduud",
+                "es": "Galguduud",
+                "fr": "Galguduud",
+                "it": "Galgudud",
+                "zh": "\u52a0\u52d2\u53e4\u675c\u5fb7\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": 32.1574351,
+            "lng": -82.90712300000001
+        },
+        "GE": {
+            "name": "Gedo",
+            "code": "GE",
+            "names": {
+                "geonames": "Gedo",
+                "ru": "\u0413\u0435\u0434\u043e",
+                "en": "Gedo",
+                "ar": "\u062c\u062f\u0648",
+                "de": "Gedo",
+                "es": "Gedo",
+                "fr": "Gedo",
+                "it": "Ghedo",
+                "zh": "\u84cb\u591a\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": 52.3453837,
+            "lng": 5.63377939999998
+        },
+        "HI": {
+            "name": "Hiran, Somalia",
+            "code": "HI",
+            "names": {
+                "geonames": "Hiiraan",
+                "ru": "\u0425\u0438\u0440\u0430\u043d",
+                "en": "Hiran",
+                "ar": "\u0647\u064a\u0631\u0627\u0646",
+                "de": "Hiiraan",
+                "es": "Hiiraan",
+                "fr": "Hiiraan",
+                "it": "Hiran",
+                "zh": "\u5e0c\u862d\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "JD": {
+            "name": "Middle Juba",
+            "code": "JD",
+            "names": {
+                "geonames": "Middle Juba",
+                "ru": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0414\u0436\u0443\u0431\u0431\u0430",
+                "en": "Middle Juba",
+                "ar": "\u062c\u0648\u0628\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
+                "de": "Jubbada Dhexe",
+                "es": "Jubbada Dhexe",
+                "fr": "Jubbada Dhexe",
+                "it": "Medio Giuba",
+                "zh": "\u4e2d\u6731\u5df4\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "JH": {
+            "name": "Lower Juba",
+            "code": "JH",
+            "names": {
+                "geonames": "Lower Juba",
+                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0414\u0436\u0443\u0431\u0431\u0430",
+                "en": "Lower Juba",
+                "ar": "\u062c\u0648\u0628\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
+                "de": "Jubbada Hoose",
+                "es": "Jubbada Hoose",
+                "fr": "Jubbada Hoose",
+                "it": "Basso Giuba",
+                "zh": "\u4e0b\u6731\u5df4\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "MU": {
+            "name": "Mudug",
+            "code": "MU",
+            "names": {
+                "geonames": "Mudug",
+                "ru": "\u041c\u0443\u0434\u0443\u0433",
+                "en": "Mudug",
+                "ar": "\u0645\u062f\u0642",
+                "de": "Mudug",
+                "es": "Mudug",
+                "fr": "Mudug",
+                "it": "Mudugh",
+                "zh": "\u7a46\u675c\u683c\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "NU": {
+            "name": "Nugal, Somalia",
+            "code": "NU",
+            "names": {
+                "geonames": "Nugaal",
+                "ru": "\u041d\u0443\u0433\u0430\u043b",
+                "en": "Nugal",
+                "ar": "\u0646\u0648\u062c\u0627\u0644",
+                "de": "Nugaal",
+                "es": "Nugaal",
+                "fr": "Nugaal",
+                "it": "Nogal",
+                "zh": "\u52aa\u52a0\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "SA": {
+            "name": "Sanaag",
+            "code": "SA",
+            "names": {
+                "geonames": "Sanaag",
+                "ru": "\u0421\u0430\u043d\u0430\u0430\u0433",
+                "en": "Sanaag",
+                "de": "Sanaag",
+                "es": "Sanaag",
+                "fr": "Sanaag",
+                "it": "Sanag",
+                "zh": "\u85a9\u90a3\u683c\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "SD": {
+            "name": "Middle Shebelle",
+            "code": "SD",
+            "names": {
+                "geonames": "Middle Shabele",
+                "ru": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0428\u0430\u0431\u0435\u043b\u043b\u0435",
+                "en": "Middle Shebelle",
+                "ar": "\u0634\u0628\u064a\u0644\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
+                "de": "Shabeellaha Dhexe",
+                "es": "Shabeellaha Dhexe",
+                "fr": "Shabeellaha Dhexe",
+                "it": "Medio Scebeli",
+                "zh": "\u4e2d\u8b1d\u8c9d\u5229\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "SH": {
+            "name": "Lower Shebelle",
+            "code": "SH",
+            "names": {
+                "geonames": "Lower Shabeelle",
+                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0428\u0430\u0431\u0435\u043b\u043b\u0435",
+                "en": "Lower Shebelle",
+                "ar": "\u0634\u0628\u064a\u0644\u064a \u0627\u0644\u0633\u0641\u0644\u0649",
+                "de": "Shabeellaha Hoose",
+                "es": "Shabeellaha Hoose",
+                "fr": "Shabeellaha Hoose",
+                "it": "Basso Scebeli",
+                "zh": "\u4e0b\u8b1d\u8c9d\u5229\u5dde"
             },
             "division": "region",
             "parent": "SO",
@@ -358,6 +320,44 @@
             "parent": "SO",
             "lat": 19.35901,
             "lng": 97.89790930000004
+        },
+        "TO": {
+            "name": "Togdheer",
+            "code": "TO",
+            "names": {
+                "geonames": "Togdheer",
+                "ru": "\u0422\u043e\u0433\u0434\u0435\u0440",
+                "en": "Togdheer",
+                "ar": "\u062a\u0648\u062c\u062f\u064a\u0631",
+                "de": "Togdheer",
+                "es": "Togdheer",
+                "fr": "Togdheer",
+                "it": "Tug Dair",
+                "zh": "\u6258\u683c\u4ee3\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
+        },
+        "WO": {
+            "name": "Woqooyi Galbeed",
+            "code": "WO",
+            "names": {
+                "geonames": "Woqooyi Galbeed",
+                "ru": "\u0412\u043e\u043a\u0443\u0439-\u0413\u0430\u043b\u044c\u0431\u0438\u0434",
+                "en": "Woqooyi Galbeed",
+                "ar": "\u0648\u0642\u0648\u064a\u064a \u062c\u0627\u0644\u0628\u064a\u062f",
+                "de": "Woqooyi Galbeed",
+                "es": "Woqooyi Galbeed",
+                "fr": "Woqooyi Galbeed",
+                "it": "Nordovest",
+                "zh": "\u6c83\u6208\u4f0a\u52a0\u52d2\u8d1d\u5fb7\u5dde"
+            },
+            "division": "region",
+            "parent": "SO",
+            "lat": null,
+            "lng": null
         }
     }
 }

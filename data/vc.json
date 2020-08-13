@@ -24,70 +24,6 @@
         "pt": "S\u00e3o Vicente e Granadinas"
     },
     "ISO3166-2": {
-        "05": {
-            "name": "Saint Patrick",
-            "code": "05",
-            "names": {
-                "geonames": "Saint Patrick",
-                "en": "Saint Patrick"
-            },
-            "division": "parish",
-            "parent": "VC",
-            "lat": 52.5121349,
-            "lng": -8.274111400000038
-        },
-        "04": {
-            "name": "Saint George",
-            "code": "04",
-            "names": {
-                "geonames": "Saint George",
-                "en": "Saint George"
-            },
-            "division": "parish",
-            "parent": "VC",
-            "lat": 53.7577846,
-            "lng": -2.685843900000009
-        },
-        "03": {
-            "name": "Saint David",
-            "code": "03",
-            "names": {
-                "geonames": "Saint David",
-                "en": "Saint David"
-            },
-            "division": "parish",
-            "parent": "VC",
-            "lat": 53.3804823,
-            "lng": -6.219046599999956
-        },
-        "02": {
-            "name": "Saint Andrew",
-            "code": "02",
-            "names": {
-                "geonames": "Saint Andrew",
-                "en": "Saint Andrew"
-            },
-            "division": "parish",
-            "parent": "VC",
-            "lat": 53.540012,
-            "lng": -6.444357999999966
-        },
-        "06": {
-            "name": "Grenadines Parish",
-            "code": "06",
-            "names": {
-                "geonames": "Grenadines",
-                "ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b",
-                "en": "Grenadines Parish",
-                "fr": "Grenadines",
-                "it": "Parrocchia delle Grenadine",
-                "zh": "\u683c\u745e\u90a3\u4e01\u5340"
-            },
-            "division": "parish",
-            "parent": "VC",
-            "lat": null,
-            "lng": null
-        },
         "01": {
             "name": "Charlotte Parish, Saint Vincent and the Grenadines",
             "code": "01",
@@ -104,6 +40,70 @@
             "parent": "VC",
             "lat": 10.6560848,
             "lng": -61.50791620000001
+        },
+        "02": {
+            "name": "Saint Andrew",
+            "code": "02",
+            "names": {
+                "geonames": "Saint Andrew",
+                "en": "Saint Andrew"
+            },
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.540012,
+            "lng": -6.444357999999966
+        },
+        "03": {
+            "name": "Saint David",
+            "code": "03",
+            "names": {
+                "geonames": "Saint David",
+                "en": "Saint David"
+            },
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.3804823,
+            "lng": -6.219046599999956
+        },
+        "04": {
+            "name": "Saint George",
+            "code": "04",
+            "names": {
+                "geonames": "Saint George",
+                "en": "Saint George"
+            },
+            "division": "parish",
+            "parent": "VC",
+            "lat": 53.7577846,
+            "lng": -2.685843900000009
+        },
+        "05": {
+            "name": "Saint Patrick",
+            "code": "05",
+            "names": {
+                "geonames": "Saint Patrick",
+                "en": "Saint Patrick"
+            },
+            "division": "parish",
+            "parent": "VC",
+            "lat": 52.5121349,
+            "lng": -8.274111400000038
+        },
+        "06": {
+            "name": "Grenadines Parish",
+            "code": "06",
+            "names": {
+                "geonames": "Grenadines",
+                "ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b",
+                "en": "Grenadines Parish",
+                "fr": "Grenadines",
+                "it": "Parrocchia delle Grenadine",
+                "zh": "\u683c\u745e\u90a3\u4e01\u5340"
+            },
+            "division": "parish",
+            "parent": "VC",
+            "lat": null,
+            "lng": null
         }
     }
 }

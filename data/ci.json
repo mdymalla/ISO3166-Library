@@ -24,12 +24,66 @@
         "pt": "Costa do Marfim"
     },
     "ISO3166-2": {
-        "YM": {
-            "name": "Yamoussoukro",
-            "code": "YM",
+        "01": {
+            "name": "Lagunes (R\u00e9gion des)",
+            "code": "01",
+            "division": "region",
+            "parent": "CI"
+        },
+        "02": {
+            "name": "Haut-Sassandra (R\u00e9gion du)",
+            "code": "02",
+            "division": "region",
+            "parent": "CI"
+        },
+        "03": {
+            "name": "Savanes (R\u00e9gion des)",
+            "code": "03",
+            "division": "region",
+            "parent": "CI"
+        },
+        "04": {
+            "name": "Vall\u00e9e du Bandama (R\u00e9gion de la)",
+            "code": "04",
+            "division": "region",
+            "parent": "CI"
+        },
+        "05": {
+            "name": "Moyen-Como\u00e9 (R\u00e9gion du)",
+            "code": "05",
+            "division": "region",
+            "parent": "CI"
+        },
+        "06": {
+            "name": "18 Montagnes (R\u00e9gion des)",
+            "code": "06",
+            "division": "region",
+            "parent": "CI"
+        },
+        "07": {
+            "name": "Lacs (R\u00e9gion des)",
+            "code": "07",
+            "division": "region",
+            "parent": "CI"
+        },
+        "08": {
+            "name": "Zanzan (R\u00e9gion du)",
+            "code": "08",
+            "division": "region",
+            "parent": "CI"
+        },
+        "09": {
+            "name": "Bas-Sassandra (R\u00e9gion du)",
+            "code": "09",
+            "division": "region",
+            "parent": "CI"
+        },
+        "AB": {
+            "name": "Abidjan",
+            "code": "AB",
             "names": {
-                "geonames": "Yamoussoukro Autonomous District",
-                "en": "Yamoussoukro"
+                "geonames": "Abidjan",
+                "en": "Abidjan"
             },
             "division": null,
             "parent": null,
@@ -168,6 +222,18 @@
             "lat": null,
             "lng": null
         },
+        "YM": {
+            "name": "Yamoussoukro",
+            "code": "YM",
+            "names": {
+                "geonames": "Yamoussoukro Autonomous District",
+                "en": "Yamoussoukro"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
         "ZZ": {
             "name": "Zanzan",
             "code": "ZZ",
@@ -180,110 +246,63 @@
             "lat": null,
             "lng": null
         },
-        "AB": {
-            "name": "Abidjan",
-            "code": "AB",
-            "names": {
-                "geonames": "Abidjan",
-                "en": "Abidjan"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "06": {
-            "name": "18 Montagnes (R\u00e9gion des)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "16": {
-            "name": "Agn\u00e9bi (R\u00e9gion de l')",
-            "division": "region",
-            "parent": "CI"
-        },
-        "17": {
-            "name": "Bafing (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "09": {
-            "name": "Bas-Sassandra (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
         "10": {
             "name": "Dengu\u00e9l\u00e9 (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "18": {
-            "name": "Fromager (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "02": {
-            "name": "Haut-Sassandra (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "07": {
-            "name": "Lacs (R\u00e9gion des)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "01": {
-            "name": "Lagunes (R\u00e9gion des)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "12": {
-            "name": "Marahou\u00e9 (R\u00e9gion de la)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "19": {
-            "name": "Moyen-Cavally (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "05": {
-            "name": "Moyen-Como\u00e9 (R\u00e9gion du)",
+            "code": "10",
             "division": "region",
             "parent": "CI"
         },
         "11": {
             "name": "Nzi-Como\u00e9 (R\u00e9gion)",
+            "code": "11",
             "division": "region",
             "parent": "CI"
         },
-        "03": {
-            "name": "Savanes (R\u00e9gion des)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "15": {
-            "name": "Sud-Bandama (R\u00e9gion du)",
+        "12": {
+            "name": "Marahou\u00e9 (R\u00e9gion de la)",
+            "code": "12",
             "division": "region",
             "parent": "CI"
         },
         "13": {
             "name": "Sud-Como\u00e9 (R\u00e9gion du)",
-            "division": "region",
-            "parent": "CI"
-        },
-        "04": {
-            "name": "Vall\u00e9e du Bandama (R\u00e9gion de la)",
+            "code": "13",
             "division": "region",
             "parent": "CI"
         },
         "14": {
             "name": "Worodouqou (R\u00e9gion du)",
+            "code": "14",
             "division": "region",
             "parent": "CI"
         },
-        "08": {
-            "name": "Zanzan (R\u00e9gion du)",
+        "15": {
+            "name": "Sud-Bandama (R\u00e9gion du)",
+            "code": "15",
+            "division": "region",
+            "parent": "CI"
+        },
+        "16": {
+            "name": "Agn\u00e9bi (R\u00e9gion de l')",
+            "code": "16",
+            "division": "region",
+            "parent": "CI"
+        },
+        "17": {
+            "name": "Bafing (R\u00e9gion du)",
+            "code": "17",
+            "division": "region",
+            "parent": "CI"
+        },
+        "18": {
+            "name": "Fromager (R\u00e9gion du)",
+            "code": "18",
+            "division": "region",
+            "parent": "CI"
+        },
+        "19": {
+            "name": "Moyen-Cavally (R\u00e9gion du)",
+            "code": "19",
             "division": "region",
             "parent": "CI"
         }

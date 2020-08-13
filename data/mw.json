@@ -25,41 +25,21 @@
         "pt": "Malawi"
     },
     "ISO3166-2": {
-        "S": {
-            "name": "Southern Region, Malawi",
-            "code": "S",
-            "names": {
-                "geonames": "Southern Region",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Southern Region",
-                "de": "Southern Region",
-                "es": "Regi\u00f3n del Sur",
-                "fr": "R\u00e9gion Sud",
-                "it": "Regione Meridionale",
-                "zh": "\u5357\u90e8\u533a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        "BA": {
+            "name": "Balaka",
+            "code": "BA",
+            "division": "district",
+            "parent": "MW S",
+            "lat": -14.98053,
+            "lng": 34.95586000000003
         },
-        "N": {
-            "name": "Northern Region, Malawi",
-            "code": "N",
-            "names": {
-                "geonames": "Northern Region",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Northern Region",
-                "de": "Northern Region",
-                "es": "Regi\u00f3n del Norte",
-                "fr": "R\u00e9gion Nord",
-                "it": "Regione Settentrionale",
-                "zh": "\u5317\u90e8\u533a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        "BL": {
+            "name": "Blantyre",
+            "code": "BL",
+            "division": "district",
+            "parent": "MW S",
+            "lat": -15.7861111,
+            "lng": 35.00583329999995
         },
         "C": {
             "name": "Central Region, Malawi",
@@ -79,22 +59,9 @@
             "lat": null,
             "lng": null
         },
-        "BA": {
-            "name": "Balaka",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -14.98053,
-            "lng": 34.95586000000003
-        },
-        "BL": {
-            "name": "Blantyre",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.7861111,
-            "lng": 35.00583329999995
-        },
         "CK": {
             "name": "Chikwawa",
+            "code": "CK",
             "division": "district",
             "parent": "MW S",
             "lat": -16.035,
@@ -102,6 +69,7 @@
         },
         "CR": {
             "name": "Chiradzulu",
+            "code": "CR",
             "division": "district",
             "parent": "MW S",
             "lat": -15.6759485,
@@ -109,6 +77,7 @@
         },
         "CT": {
             "name": "Chitipa",
+            "code": "CT",
             "division": "district",
             "parent": "MW N",
             "lat": -9.7019444,
@@ -116,6 +85,7 @@
         },
         "DE": {
             "name": "Dedza",
+            "code": "DE",
             "division": "district",
             "parent": "MW C",
             "lat": -14.37823,
@@ -123,6 +93,7 @@
         },
         "DO": {
             "name": "Dowa",
+            "code": "DO",
             "division": "district",
             "parent": "MW C",
             "lat": -13.6514687,
@@ -130,6 +101,7 @@
         },
         "KR": {
             "name": "Karonga",
+            "code": "KR",
             "division": "district",
             "parent": "MW N",
             "lat": -9.9333333,
@@ -137,48 +109,55 @@
         },
         "KS": {
             "name": "Kasungu",
+            "code": "KS",
             "division": "district",
             "parent": "MW C",
             "lat": -13.0333333,
             "lng": 33.48333330000003
         },
-        "LK": {
-            "name": "Likoma",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -12.0584005,
-            "lng": 34.735403099999985
-        },
         "LI": {
             "name": "Lilongwe",
+            "code": "LI",
             "division": "district",
             "parent": "MW C",
             "lat": -13.9833333,
             "lng": 33.78333329999998
         },
-        "MH": {
-            "name": "Machinga",
+        "LK": {
+            "name": "Likoma",
+            "code": "LK",
             "division": "district",
-            "parent": "MW S",
-            "lat": -15.1699934,
-            "lng": 35.29997789999993
-        },
-        "MG": {
-            "name": "Mangochi",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -14.47755,
-            "lng": 35.26374099999998
+            "parent": "MW N",
+            "lat": -12.0584005,
+            "lng": 34.735403099999985
         },
         "MC": {
             "name": "Mchinji",
+            "code": "MC",
             "division": "district",
             "parent": "MW C",
             "lat": -13.79994,
             "lng": 32.88021100000003
         },
+        "MG": {
+            "name": "Mangochi",
+            "code": "MG",
+            "division": "district",
+            "parent": "MW S",
+            "lat": -14.47755,
+            "lng": 35.26374099999998
+        },
+        "MH": {
+            "name": "Machinga",
+            "code": "MH",
+            "division": "district",
+            "parent": "MW S",
+            "lat": -15.1699934,
+            "lng": 35.29997789999993
+        },
         "MU": {
             "name": "Mulanje",
+            "code": "MU",
             "division": "district",
             "parent": "MW S",
             "lat": -16.033333,
@@ -186,6 +165,7 @@
         },
         "MW": {
             "name": "Mwanza",
+            "code": "MW",
             "division": "district",
             "parent": "MW S",
             "lat": -15.5997929,
@@ -193,27 +173,57 @@
         },
         "MZ": {
             "name": "Mzimba",
+            "code": "MZ",
             "division": "district",
             "parent": "MW N",
             "lat": -11.9,
             "lng": 33.60000000000002
         },
-        "NE": {
-            "name": "Neno",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -15.559766,
-            "lng": 34.50436719999993
+        "N": {
+            "name": "Northern Region, Malawi",
+            "code": "N",
+            "names": {
+                "geonames": "Northern Region",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "Northern Region",
+                "de": "Northern Region",
+                "es": "Regi\u00f3n del Norte",
+                "fr": "R\u00e9gion Nord",
+                "it": "Regione Settentrionale",
+                "zh": "\u5317\u90e8\u533a"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
         },
         "NB": {
             "name": "Nkhata Bay",
+            "code": "NB",
             "division": "district",
             "parent": "MW N",
             "lat": -11.6074,
             "lng": 34.29363999999998
         },
+        "NE": {
+            "name": "Neno",
+            "code": "NE",
+            "division": "district",
+            "parent": "MW N",
+            "lat": -15.559766,
+            "lng": 34.50436719999993
+        },
+        "NI": {
+            "name": "Ntchisi",
+            "code": "NI",
+            "division": "district",
+            "parent": "MW C",
+            "lat": -13.3762517,
+            "lng": 33.865198400000054
+        },
         "NK": {
             "name": "Nkhotakota",
+            "code": "NK",
             "division": "district",
             "parent": "MW C",
             "lat": -12.92925,
@@ -221,6 +231,7 @@
         },
         "NS": {
             "name": "Nsanje",
+            "code": "NS",
             "division": "district",
             "parent": "MW S",
             "lat": -16.921221,
@@ -228,20 +239,15 @@
         },
         "NU": {
             "name": "Ntcheu",
+            "code": "NU",
             "division": "district",
             "parent": "MW C",
             "lat": -14.816667,
             "lng": 34.63333299999999
         },
-        "NI": {
-            "name": "Ntchisi",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.3762517,
-            "lng": 33.865198400000054
-        },
         "PH": {
             "name": "Phalombe",
+            "code": "PH",
             "division": "district",
             "parent": "MW S",
             "lat": -15.7633303,
@@ -249,13 +255,33 @@
         },
         "RU": {
             "name": "Rumphi",
+            "code": "RU",
             "division": "district",
             "parent": "MW N",
             "lat": -11.01995,
             "lng": 33.85741000000007
         },
+        "S": {
+            "name": "Southern Region, Malawi",
+            "code": "S",
+            "names": {
+                "geonames": "Southern Region",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
+                "en": "Southern Region",
+                "de": "Southern Region",
+                "es": "Regi\u00f3n del Sur",
+                "fr": "R\u00e9gion Sud",
+                "it": "Regione Meridionale",
+                "zh": "\u5357\u90e8\u533a"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
         "SA": {
             "name": "Salima",
+            "code": "SA",
             "division": "district",
             "parent": "MW C",
             "lat": -13.78074,
@@ -263,6 +289,7 @@
         },
         "TH": {
             "name": "Thyolo",
+            "code": "TH",
             "division": "district",
             "parent": "MW S",
             "lat": -16.069257,
@@ -270,6 +297,7 @@
         },
         "ZO": {
             "name": "Zomba",
+            "code": "ZO",
             "division": "district",
             "parent": "MW S",
             "lat": -15.3833333,

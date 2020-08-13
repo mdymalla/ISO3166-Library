@@ -24,35 +24,17 @@
         "pt": "Brunei"
     },
     "ISO3166-2": {
-        "TU": {
-            "name": "Tutong District",
-            "code": "TU",
+        "BE": {
+            "name": "Belait District",
+            "code": "BE",
             "names": {
-                "geonames": "Tutong",
-                "ru": "\u0422\u0443\u0442\u043e\u043d\u0433",
-                "en": "Tutong District",
-                "es": "Distrito de Tutong",
-                "fr": "Tutong",
-                "it": "Distretto di Tutong",
-                "zh": "\u90fd\u4e1c\u53bf"
-            },
-            "division": "district",
-            "parent": "BN",
-            "lat": 4.805784,
-            "lng": 114.64669800000001
-        },
-        "TE": {
-            "name": "Temburong District",
-            "code": "TE",
-            "names": {
-                "geonames": "Temburong",
-                "ru": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0433",
-                "en": "Temburong District",
-                "de": "Temburong",
-                "es": "Temburong",
-                "fr": "Temburong",
-                "it": "Distretto di Temburong",
-                "zh": "\u6de1\u5e03\u9686\u53bf"
+                "geonames": "Belait",
+                "ru": "\u0411\u0435\u043b\u0430\u0439\u0442",
+                "en": "Belait District",
+                "es": "Distrito de Belait",
+                "fr": "Belait",
+                "it": "Distretto di Belait",
+                "zh": "\u9a6c\u6765\u5955\u53bf"
             },
             "division": "district",
             "parent": "BN",
@@ -76,22 +58,40 @@
             "lat": 5.0333333,
             "lng": 115.06666670000004
         },
-        "BE": {
-            "name": "Belait District",
-            "code": "BE",
+        "TE": {
+            "name": "Temburong District",
+            "code": "TE",
             "names": {
-                "geonames": "Belait",
-                "ru": "\u0411\u0435\u043b\u0430\u0439\u0442",
-                "en": "Belait District",
-                "es": "Distrito de Belait",
-                "fr": "Belait",
-                "it": "Distretto di Belait",
-                "zh": "\u9a6c\u6765\u5955\u53bf"
+                "geonames": "Temburong",
+                "ru": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0433",
+                "en": "Temburong District",
+                "de": "Temburong",
+                "es": "Temburong",
+                "fr": "Temburong",
+                "it": "Distretto di Temburong",
+                "zh": "\u6de1\u5e03\u9686\u53bf"
             },
             "division": "district",
             "parent": "BN",
             "lat": null,
             "lng": null
+        },
+        "TU": {
+            "name": "Tutong District",
+            "code": "TU",
+            "names": {
+                "geonames": "Tutong",
+                "ru": "\u0422\u0443\u0442\u043e\u043d\u0433",
+                "en": "Tutong District",
+                "es": "Distrito de Tutong",
+                "fr": "Tutong",
+                "it": "Distretto di Tutong",
+                "zh": "\u90fd\u4e1c\u53bf"
+            },
+            "division": "district",
+            "parent": "BN",
+            "lat": 4.805784,
+            "lng": 114.64669800000001
         }
     }
 }

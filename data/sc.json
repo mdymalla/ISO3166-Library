@@ -25,160 +25,204 @@
         "pt": "Seicheles"
     },
     "ISO3166-2": {
-        "23": {
-            "name": "Takamaka, Seychelles",
-            "code": "23",
+        "01": {
+            "name": "Anse-aux-Pins",
+            "code": "01",
             "names": {
-                "geonames": "Takamaka",
-                "ru": "\u0422\u0430\u043a\u0430\u043c\u0430\u043a\u0430",
-                "en": "Takamaka",
-                "es": "Takamaka",
-                "fr": "Takamaka",
-                "it": "Takamaka",
-                "zh": "\u5854\u5361\u746a\u5361\u5340"
+                "geonames": "Anse-aux-Pins",
+                "ru": "\u0410\u043d\u0441-\u043e-\u041f\u0435\u043d",
+                "en": "Anse-aux-Pins",
+                "de": "Anse aux Pins",
+                "es": "Anse aux Pins",
+                "fr": "Anse aux Pins",
+                "zh": "\u5b89\u585e\u5967\u6f58\u5340"
+            },
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6903546,
+            "lng": 55.520571399999994
+        },
+        "02": {
+            "name": "Anse Boileau",
+            "code": "02",
+            "names": {
+                "geonames": "Anse Boileau",
+                "ru": "\u0410\u043d\u0441-\u0411\u0443\u0430\u043b\u043e",
+                "en": "Anse Boileau",
+                "de": "Anse Boileau",
+                "es": "Anse Boileau",
+                "fr": "Anse Boileau",
+                "zh": "\u5b89\u585e\u5e03\u74e6\u6d1b\u5340"
             },
             "division": "district",
             "parent": "SC",
             "lat": null,
             "lng": null
         },
-        "22": {
-            "name": "Saint Louis, Seychelles",
-            "code": "22",
+        "03": {
+            "name": "Anse Etoile",
+            "code": "03",
             "names": {
-                "geonames": "Saint Louis",
-                "ru": "\u0421\u0435\u043d-\u041b\u0443\u0438",
-                "en": "Saint Louis",
-                "es": "Saint Louis",
-                "fr": "Saint Louis",
-                "it": "Saint Louis",
-                "zh": "\u8056\u8def\u6613\u5340"
-            },
-            "division": "district",
-            "parent": "SC",
-            "lat": 38.6291267,
-            "lng": -90.212716
-        },
-        "21": {
-            "name": "Port Glaud",
-            "code": "21",
-            "names": {
-                "geonames": "Port Glaud",
-                "ru": "\u041f\u043e\u0440\u0442-\u0413\u043b\u043e\u0434",
-                "en": "Port Glaud",
-                "de": "Port Glaud",
-                "es": "Port Glaud",
-                "fr": "Port Glaud",
-                "it": "Port Glaud",
-                "zh": "\u6ce2\u7279\u683c\u52de\u5fb7\u5340"
+                "geonames": "Anse Etoile",
+                "ru": "\u0410\u043d\u0441-\u042d\u0442\u0443\u0430\u043b\u044c",
+                "en": "Anse Etoile",
+                "es": "Anse Etoile",
+                "fr": "Anse \u00c9toile",
+                "zh": "\u5b89\u585e\u827e\u6258\u74e6\u5340"
             },
             "division": "district",
             "parent": "SC",
             "lat": null,
             "lng": null
         },
-        "20": {
-            "name": "Pointe La Rue",
-            "code": "20",
+        "04": {
+            "name": "Au Cap",
+            "code": "04",
             "names": {
-                "geonames": "Pointe Larue",
-                "ru": "\u041f\u0443\u0430\u043d\u0442-\u041b\u0430-\u0420\u044e",
-                "en": "Pointe La Rue",
-                "es": "Pointe La Rue",
-                "fr": "Pointe La Rue",
-                "zh": "\u666e\u5b89\u7279\u62c9\u5112\u5340"
+                "geonames": "Au Cap",
+                "ru": "\u041e-\u041a\u0430\u043f",
+                "en": "Au Cap",
+                "es": "Au Cap",
+                "fr": "Au Cap",
+                "zh": "\u5967\u51f1\u666e\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": 45.0272315,
-            "lng": -0.17443969999999354
+            "lat": null,
+            "lng": null
         },
-        "19": {
-            "name": "Plaisance, Seychelles",
-            "code": "19",
+        "05": {
+            "name": "Anse Royale",
+            "code": "05",
             "names": {
-                "geonames": "Plaisance",
-                "ru": "\u041f\u043b\u0435\u0437\u0430\u043d\u0441",
-                "en": "Plaisance",
-                "es": "Plaisance",
-                "fr": "Plaisance",
-                "it": "Plaisance",
-                "zh": "\u666e\u840a\u6851\u65af\u5340"
+                "geonames": "Anse Royale",
+                "ru": "\u0410\u043d\u0441-\u0420\u0443\u0430\u0439\u0430\u043b\u044c",
+                "en": "Anse Royale",
+                "es": "Anse Royale",
+                "fr": "Anse Royale",
+                "zh": "\u5b89\u585e\u7f85\u4e9e\u840a\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -20.238074,
-            "lng": 57.459190000000035
+            "lat": -4.7333333,
+            "lng": 55.51666669999997
         },
-        "18": {
-            "name": "Mont Fleuri",
-            "code": "18",
+        "06": {
+            "name": "Baie Lazare",
+            "code": "06",
             "names": {
-                "geonames": "Mont Fleuri",
-                "ru": "\u041c\u043e\u043d \u0424\u043b\u0451\u0440\u0438",
-                "en": "Mont Fleuri",
-                "de": "Mont Fleuri",
-                "es": "Mont Fleuri",
-                "fr": "Mont Fleuri",
-                "it": "Mont Fleuri",
-                "zh": "\u8499\u5f17\u52d2\u5229\u5340"
+                "geonames": "Baie Lazare",
+                "ru": "\u0411\u0435-\u041b\u0430\u0437\u0430\u0440",
+                "en": "Baie Lazare",
+                "es": "Baie Lazare",
+                "fr": "Baie Lazare",
+                "zh": "\u8c9d\u62c9\u624e\u723e\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.6443326,
-            "lng": 55.469734700000004
+            "lat": -4.7531102,
+            "lng": 55.48138080000001
         },
-        "17": {
-            "name": "Mont Buxton",
-            "code": "17",
+        "07": {
+            "name": "Baie Sainte Anne",
+            "code": "07",
             "names": {
-                "geonames": "Mont Buxton",
-                "ru": "\u041c\u043e\u043d-\u0411\u0430\u043a\u0441\u0442\u043e\u043d",
-                "en": "Mont Buxton",
-                "es": "Mont Buxton",
-                "fr": "Mont Buxton",
-                "it": "Mont Buxton",
-                "zh": "\u8499\u5df4\u514b\u65af\u9813\u5340"
+                "geonames": "Baie Sainte Anne",
+                "ru": "\u0411\u0435-\u0421\u0435\u043d\u0442-\u0410\u043d\u043d",
+                "en": "Baie Sainte Anne",
+                "de": "Baie Sainte Anne",
+                "es": "Baie Sainte Anne",
+                "fr": "Baie Sainte-Anne",
+                "it": "Baie Sainte Anne",
+                "zh": "\u8c9d\u8056\u5b89\u90a3\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -27.4365945,
-            "lng": 152.98577090000003
+            "lat": -4.3152864,
+            "lng": 55.7467259
         },
-        "16": {
-            "name": "La Rivi\u00e8re Anglaise",
-            "code": "16",
+        "08": {
+            "name": "Beau Vallon, Seychelles",
+            "code": "08",
             "names": {
-                "geonames": "English River",
-                "ru": "\u041b\u0430-\u0420\u0438\u0432\u044c\u0435\u0440-\u0410\u043d\u0433\u043b\u0435\u0437",
-                "en": "La Rivi\u00e8re Anglaise",
-                "es": "La Riviere Anglaise",
-                "fr": "La Rivi\u00e8re Anglaise",
-                "it": "La Rivi\u00e8re Anglaise",
-                "zh": "\u82f1\u5409\u5229\u6cb3"
+                "geonames": "Beau Vallon",
+                "ru": "\u0411\u0435-\u0412\u0430\u043b\u043b\u043e\u043d",
+                "en": "Beau Vallon",
+                "de": "Beau Vallon",
+                "es": "Beau Vallon",
+                "fr": "Beau Vallon",
+                "zh": "\u535a\u74e6\u9686\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": 50.6317924,
-            "lng": -93.20287050000002
+            "lat": -4.6210967,
+            "lng": 55.42778020000003
         },
-        "15": {
-            "name": "La Digue",
-            "code": "15",
+        "09": {
+            "name": "Bel Air, Seychelles",
+            "code": "09",
             "names": {
-                "geonames": "Inner Islands",
-                "ru": "\u041b\u0430-\u0414\u0438\u0433",
-                "en": "La Digue",
-                "de": "La Digue",
-                "es": "La Digue",
-                "fr": "La Digue",
-                "it": "La Digue",
-                "zh": "\u62c9\u8fea\u683c\u5c9b"
+                "geonames": "Bel Air",
+                "ru": "\u0411\u0435\u043b\u044c-\u042d\u0440",
+                "en": "Bel Air",
+                "de": "Bel Air",
+                "es": "Bel Air",
+                "fr": "Bel Air",
+                "it": "Bel Air",
+                "zh": "\u8c9d\u723e\u827e\u723e\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.3590972,
-            "lng": 55.841242400000056
+            "lat": 33.3721937,
+            "lng": -80.09048630000001
+        },
+        "10": {
+            "name": "Bel Ombre, Seychelles",
+            "code": "10",
+            "names": {
+                "geonames": "Bel Ombre",
+                "ru": "\u0411\u0435\u043b\u044c-\u041e\u043c\u0431\u0440",
+                "en": "Bel Ombre",
+                "es": "Bel Ombre",
+                "fr": "Bel Ombre",
+                "zh": "\u8c9d\u723e\u7fc1\u5e03\u96f7\u5340"
+            },
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.6204838,
+            "lng": 55.41670720000002
+        },
+        "11": {
+            "name": "Cascade, Seychelles",
+            "code": "11",
+            "names": {
+                "geonames": "Cascade",
+                "ru": "\u041a\u0430\u0441\u043a\u0430\u0434",
+                "en": "Cascade",
+                "es": "Cascade",
+                "fr": "Cascade",
+                "zh": "\u5361\u65af\u5580\u5f97\u5340"
+            },
+            "division": "district",
+            "parent": "SC",
+            "lat": 35.2801589,
+            "lng": -81.82128499999999
+        },
+        "12": {
+            "name": "Glacis, Seychelles",
+            "code": "12",
+            "names": {
+                "geonames": "Glacis",
+                "ru": "\u0413\u043b\u0430\u0441\u0438",
+                "en": "Glacis",
+                "es": "Glacis",
+                "fr": "Glacis",
+                "zh": "\u683c\u62c9\u897f\u65af\u5340"
+            },
+            "division": "district",
+            "parent": "SC",
+            "lat": -4.4785838,
+            "lng": 55.205268899999965
         },
         "13": {
             "name": "Grand'Anse Mah\u00e9",
@@ -214,188 +258,160 @@
             "lat": -4.3205806,
             "lng": 55.749472999999966
         },
-        "12": {
-            "name": "Glacis, Seychelles",
-            "code": "12",
+        "15": {
+            "name": "La Digue",
+            "code": "15",
             "names": {
-                "geonames": "Glacis",
-                "ru": "\u0413\u043b\u0430\u0441\u0438",
-                "en": "Glacis",
-                "es": "Glacis",
-                "fr": "Glacis",
-                "zh": "\u683c\u62c9\u897f\u65af\u5340"
+                "geonames": "Inner Islands",
+                "ru": "\u041b\u0430-\u0414\u0438\u0433",
+                "en": "La Digue",
+                "de": "La Digue",
+                "es": "La Digue",
+                "fr": "La Digue",
+                "it": "La Digue",
+                "zh": "\u62c9\u8fea\u683c\u5c9b"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.4785838,
-            "lng": 55.205268899999965
+            "lat": -4.3590972,
+            "lng": 55.841242400000056
         },
-        "11": {
-            "name": "Cascade, Seychelles",
-            "code": "11",
+        "16": {
+            "name": "La Rivi\u00e8re Anglaise",
+            "code": "16",
             "names": {
-                "geonames": "Cascade",
-                "ru": "\u041a\u0430\u0441\u043a\u0430\u0434",
-                "en": "Cascade",
-                "es": "Cascade",
-                "fr": "Cascade",
-                "zh": "\u5361\u65af\u5580\u5f97\u5340"
+                "geonames": "English River",
+                "ru": "\u041b\u0430-\u0420\u0438\u0432\u044c\u0435\u0440-\u0410\u043d\u0433\u043b\u0435\u0437",
+                "en": "La Rivi\u00e8re Anglaise",
+                "es": "La Riviere Anglaise",
+                "fr": "La Rivi\u00e8re Anglaise",
+                "it": "La Rivi\u00e8re Anglaise",
+                "zh": "\u82f1\u5409\u5229\u6cb3"
             },
             "division": "district",
             "parent": "SC",
-            "lat": 35.2801589,
-            "lng": -81.82128499999999
+            "lat": 50.6317924,
+            "lng": -93.20287050000002
         },
-        "10": {
-            "name": "Bel Ombre, Seychelles",
-            "code": "10",
+        "17": {
+            "name": "Mont Buxton",
+            "code": "17",
             "names": {
-                "geonames": "Bel Ombre",
-                "ru": "\u0411\u0435\u043b\u044c-\u041e\u043c\u0431\u0440",
-                "en": "Bel Ombre",
-                "es": "Bel Ombre",
-                "fr": "Bel Ombre",
-                "zh": "\u8c9d\u723e\u7fc1\u5e03\u96f7\u5340"
+                "geonames": "Mont Buxton",
+                "ru": "\u041c\u043e\u043d-\u0411\u0430\u043a\u0441\u0442\u043e\u043d",
+                "en": "Mont Buxton",
+                "es": "Mont Buxton",
+                "fr": "Mont Buxton",
+                "it": "Mont Buxton",
+                "zh": "\u8499\u5df4\u514b\u65af\u9813\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.6204838,
-            "lng": 55.41670720000002
+            "lat": -27.4365945,
+            "lng": 152.98577090000003
         },
-        "09": {
-            "name": "Bel Air, Seychelles",
-            "code": "09",
+        "18": {
+            "name": "Mont Fleuri",
+            "code": "18",
             "names": {
-                "geonames": "Bel Air",
-                "ru": "\u0411\u0435\u043b\u044c-\u042d\u0440",
-                "en": "Bel Air",
-                "de": "Bel Air",
-                "es": "Bel Air",
-                "fr": "Bel Air",
-                "it": "Bel Air",
-                "zh": "\u8c9d\u723e\u827e\u723e\u5340"
+                "geonames": "Mont Fleuri",
+                "ru": "\u041c\u043e\u043d \u0424\u043b\u0451\u0440\u0438",
+                "en": "Mont Fleuri",
+                "de": "Mont Fleuri",
+                "es": "Mont Fleuri",
+                "fr": "Mont Fleuri",
+                "it": "Mont Fleuri",
+                "zh": "\u8499\u5f17\u52d2\u5229\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": 33.3721937,
-            "lng": -80.09048630000001
+            "lat": -4.6443326,
+            "lng": 55.469734700000004
         },
-        "08": {
-            "name": "Beau Vallon, Seychelles",
-            "code": "08",
+        "19": {
+            "name": "Plaisance, Seychelles",
+            "code": "19",
             "names": {
-                "geonames": "Beau Vallon",
-                "ru": "\u0411\u0435-\u0412\u0430\u043b\u043b\u043e\u043d",
-                "en": "Beau Vallon",
-                "de": "Beau Vallon",
-                "es": "Beau Vallon",
-                "fr": "Beau Vallon",
-                "zh": "\u535a\u74e6\u9686\u5340"
+                "geonames": "Plaisance",
+                "ru": "\u041f\u043b\u0435\u0437\u0430\u043d\u0441",
+                "en": "Plaisance",
+                "es": "Plaisance",
+                "fr": "Plaisance",
+                "it": "Plaisance",
+                "zh": "\u666e\u840a\u6851\u65af\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.6210967,
-            "lng": 55.42778020000003
+            "lat": -20.238074,
+            "lng": 57.459190000000035
         },
-        "07": {
-            "name": "Baie Sainte Anne",
-            "code": "07",
+        "20": {
+            "name": "Pointe La Rue",
+            "code": "20",
             "names": {
-                "geonames": "Baie Sainte Anne",
-                "ru": "\u0411\u0435-\u0421\u0435\u043d\u0442-\u0410\u043d\u043d",
-                "en": "Baie Sainte Anne",
-                "de": "Baie Sainte Anne",
-                "es": "Baie Sainte Anne",
-                "fr": "Baie Sainte-Anne",
-                "it": "Baie Sainte Anne",
-                "zh": "\u8c9d\u8056\u5b89\u90a3\u5340"
+                "geonames": "Pointe Larue",
+                "ru": "\u041f\u0443\u0430\u043d\u0442-\u041b\u0430-\u0420\u044e",
+                "en": "Pointe La Rue",
+                "es": "Pointe La Rue",
+                "fr": "Pointe La Rue",
+                "zh": "\u666e\u5b89\u7279\u62c9\u5112\u5340"
             },
             "division": "district",
             "parent": "SC",
-            "lat": -4.3152864,
-            "lng": 55.7467259
+            "lat": 45.0272315,
+            "lng": -0.17443969999999354
         },
-        "06": {
-            "name": "Baie Lazare",
-            "code": "06",
+        "21": {
+            "name": "Port Glaud",
+            "code": "21",
             "names": {
-                "geonames": "Baie Lazare",
-                "ru": "\u0411\u0435-\u041b\u0430\u0437\u0430\u0440",
-                "en": "Baie Lazare",
-                "es": "Baie Lazare",
-                "fr": "Baie Lazare",
-                "zh": "\u8c9d\u62c9\u624e\u723e\u5340"
-            },
-            "division": "district",
-            "parent": "SC",
-            "lat": -4.7531102,
-            "lng": 55.48138080000001
-        },
-        "05": {
-            "name": "Anse Royale",
-            "code": "05",
-            "names": {
-                "geonames": "Anse Royale",
-                "ru": "\u0410\u043d\u0441-\u0420\u0443\u0430\u0439\u0430\u043b\u044c",
-                "en": "Anse Royale",
-                "es": "Anse Royale",
-                "fr": "Anse Royale",
-                "zh": "\u5b89\u585e\u7f85\u4e9e\u840a\u5340"
-            },
-            "division": "district",
-            "parent": "SC",
-            "lat": -4.7333333,
-            "lng": 55.51666669999997
-        },
-        "03": {
-            "name": "Anse Etoile",
-            "code": "03",
-            "names": {
-                "geonames": "Anse Etoile",
-                "ru": "\u0410\u043d\u0441-\u042d\u0442\u0443\u0430\u043b\u044c",
-                "en": "Anse Etoile",
-                "es": "Anse Etoile",
-                "fr": "Anse \u00c9toile",
-                "zh": "\u5b89\u585e\u827e\u6258\u74e6\u5340"
+                "geonames": "Port Glaud",
+                "ru": "\u041f\u043e\u0440\u0442-\u0413\u043b\u043e\u0434",
+                "en": "Port Glaud",
+                "de": "Port Glaud",
+                "es": "Port Glaud",
+                "fr": "Port Glaud",
+                "it": "Port Glaud",
+                "zh": "\u6ce2\u7279\u683c\u52de\u5fb7\u5340"
             },
             "division": "district",
             "parent": "SC",
             "lat": null,
             "lng": null
         },
-        "02": {
-            "name": "Anse Boileau",
-            "code": "02",
+        "22": {
+            "name": "Saint Louis, Seychelles",
+            "code": "22",
             "names": {
-                "geonames": "Anse Boileau",
-                "ru": "\u0410\u043d\u0441-\u0411\u0443\u0430\u043b\u043e",
-                "en": "Anse Boileau",
-                "de": "Anse Boileau",
-                "es": "Anse Boileau",
-                "fr": "Anse Boileau",
-                "zh": "\u5b89\u585e\u5e03\u74e6\u6d1b\u5340"
+                "geonames": "Saint Louis",
+                "ru": "\u0421\u0435\u043d-\u041b\u0443\u0438",
+                "en": "Saint Louis",
+                "es": "Saint Louis",
+                "fr": "Saint Louis",
+                "it": "Saint Louis",
+                "zh": "\u8056\u8def\u6613\u5340"
+            },
+            "division": "district",
+            "parent": "SC",
+            "lat": 38.6291267,
+            "lng": -90.212716
+        },
+        "23": {
+            "name": "Takamaka, Seychelles",
+            "code": "23",
+            "names": {
+                "geonames": "Takamaka",
+                "ru": "\u0422\u0430\u043a\u0430\u043c\u0430\u043a\u0430",
+                "en": "Takamaka",
+                "es": "Takamaka",
+                "fr": "Takamaka",
+                "it": "Takamaka",
+                "zh": "\u5854\u5361\u746a\u5361\u5340"
             },
             "division": "district",
             "parent": "SC",
             "lat": null,
             "lng": null
-        },
-        "01": {
-            "name": "Anse-aux-Pins",
-            "code": "01",
-            "names": {
-                "geonames": "Anse-aux-Pins",
-                "ru": "\u0410\u043d\u0441-\u043e-\u041f\u0435\u043d",
-                "en": "Anse-aux-Pins",
-                "de": "Anse aux Pins",
-                "es": "Anse aux Pins",
-                "fr": "Anse aux Pins",
-                "zh": "\u5b89\u585e\u5967\u6f58\u5340"
-            },
-            "division": "district",
-            "parent": "SC",
-            "lat": -4.6903546,
-            "lng": 55.520571399999994
         },
         "24": {
             "name": "Les Mamelles",
@@ -425,22 +441,6 @@
                 "fr": "Roche Ca\u00efman",
                 "it": "Roche Caiman",
                 "zh": "\u7f85\u5207\u51f1\u66fc\u5340"
-            },
-            "division": "district",
-            "parent": "SC",
-            "lat": null,
-            "lng": null
-        },
-        "04": {
-            "name": "Au Cap",
-            "code": "04",
-            "names": {
-                "geonames": "Au Cap",
-                "ru": "\u041e-\u041a\u0430\u043f",
-                "en": "Au Cap",
-                "es": "Au Cap",
-                "fr": "Au Cap",
-                "zh": "\u5967\u51f1\u666e\u5340"
             },
             "division": "district",
             "parent": "SC",

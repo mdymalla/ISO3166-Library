@@ -24,6 +24,40 @@
         "pt": "Kuwait"
     },
     "ISO3166-2": {
+        "AH": {
+            "name": "Al Ahmadi Governorate",
+            "code": "AH",
+            "names": {
+                "geonames": "Al Ahmadi",
+                "ru": "\u042d\u043b\u044c-\u0410\u0445\u043c\u0430\u0434\u0438",
+                "en": "Al Ahmadi Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0645\u062f\u064a",
+                "es": "Ahmad\u00ed",
+                "fr": "Al Ahmadi",
+                "it": "Al-Ahmad",
+                "zh": "\u827e\u54c8\u8fc8\u8fea\u7701"
+            },
+            "division": "governorate",
+            "parent": "KW",
+            "lat": 29.09656,
+            "lng": 48.06816100000003
+        },
+        "FA": {
+            "name": "Al Farwaniyah Governorate",
+            "code": "FA",
+            "names": {
+                "geonames": "Al Farwaniyah",
+                "ru": "\u042d\u043b\u044c-\u0424\u0430\u0440\u0432\u0430\u043d\u0438\u044f",
+                "en": "Al Farwaniyah Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
+                "it": "Al-Farwaniyah",
+                "zh": "\u8cbb\u723e\u74e6\u5c3c\u8036\u7701"
+            },
+            "division": "governorate",
+            "parent": "KW",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
         "HA": {
             "name": "Hawalli Governorate",
             "code": "HA",
@@ -40,24 +74,6 @@
             "parent": "KW",
             "lat": null,
             "lng": null
-        },
-        "KU": {
-            "name": "Al Asimah Governorate",
-            "code": "KU",
-            "names": {
-                "geonames": "Al Asimah",
-                "ru": "\u042d\u043b\u044c-\u0410\u0441\u0438\u043c\u0430",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
-                "en": "Al Asimah Governorate",
-                "es": "Capital",
-                "fr": "Al Asimah",
-                "it": "Governatorato della Capitale",
-                "zh": "\u79d1\u5a01\u7279\u7701"
-            },
-            "division": "governorate",
-            "parent": "KW",
-            "lat": 29.3697222,
-            "lng": 47.97833330000003
         },
         "JA": {
             "name": "Al Jahra Governorate",
@@ -77,39 +93,23 @@
             "lat": 29.332001,
             "lng": 47.69554900000003
         },
-        "FA": {
-            "name": "Al Farwaniyah Governorate",
-            "code": "FA",
+        "KU": {
+            "name": "Al Asimah Governorate",
+            "code": "KU",
             "names": {
-                "geonames": "Al Farwaniyah",
-                "ru": "\u042d\u043b\u044c-\u0424\u0430\u0440\u0432\u0430\u043d\u0438\u044f",
-                "en": "Al Farwaniyah Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629",
-                "it": "Al-Farwaniyah",
-                "zh": "\u8cbb\u723e\u74e6\u5c3c\u8036\u7701"
+                "geonames": "Al Asimah",
+                "ru": "\u042d\u043b\u044c-\u0410\u0441\u0438\u043c\u0430",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+                "en": "Al Asimah Governorate",
+                "es": "Capital",
+                "fr": "Al Asimah",
+                "it": "Governatorato della Capitale",
+                "zh": "\u79d1\u5a01\u7279\u7701"
             },
             "division": "governorate",
             "parent": "KW",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
-        },
-        "AH": {
-            "name": "Al Ahmadi Governorate",
-            "code": "AH",
-            "names": {
-                "geonames": "Al Ahmadi",
-                "ru": "\u042d\u043b\u044c-\u0410\u0445\u043c\u0430\u0434\u0438",
-                "en": "Al Ahmadi Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0645\u062f\u064a",
-                "es": "Ahmad\u00ed",
-                "fr": "Al Ahmadi",
-                "it": "Al-Ahmad",
-                "zh": "\u827e\u54c8\u8fc8\u8fea\u7701"
-            },
-            "division": "governorate",
-            "parent": "KW",
-            "lat": 29.09656,
-            "lng": 48.06816100000003
+            "lat": 29.3697222,
+            "lng": 47.97833330000003
         },
         "MU": {
             "name": "Mubarak Al-Kabeer Governorate",

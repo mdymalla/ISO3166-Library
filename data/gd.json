@@ -24,53 +24,17 @@
         "pt": "Granada"
     },
     "ISO3166-2": {
-        "06": {
-            "name": "Saint Patrick",
-            "code": "06",
+        "01": {
+            "name": "Saint Andrew",
+            "code": "01",
             "names": {
-                "geonames": "Saint Patrick",
-                "en": "Saint Patrick"
+                "geonames": "Saint Andrew",
+                "en": "Saint Andrew"
             },
             "division": "parish",
             "parent": "GD",
-            "lat": 12.2166667,
-            "lng": -61.633333300000004
-        },
-        "05": {
-            "name": "Saint Mark",
-            "code": "05",
-            "names": {
-                "geonames": "Saint Mark",
-                "en": "Saint Mark"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.1979128,
-            "lng": -61.705680099999995
-        },
-        "04": {
-            "name": "Saint John",
-            "code": "04",
-            "names": {
-                "geonames": "Saint John",
-                "en": "Saint John"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.1633252,
-            "lng": -61.72794520000002
-        },
-        "03": {
-            "name": "Saint George",
-            "code": "03",
-            "names": {
-                "geonames": "Saint George",
-                "en": "Saint George"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.053532,
-            "lng": -61.749684
+            "lat": null,
+            "lng": null
         },
         "02": {
             "name": "Saint David",
@@ -84,17 +48,53 @@
             "lat": 12.038513,
             "lng": -61.66890799999999
         },
-        "01": {
-            "name": "Saint Andrew",
-            "code": "01",
+        "03": {
+            "name": "Saint George",
+            "code": "03",
             "names": {
-                "geonames": "Saint Andrew",
-                "en": "Saint Andrew"
+                "geonames": "Saint George",
+                "en": "Saint George"
             },
             "division": "parish",
             "parent": "GD",
-            "lat": null,
-            "lng": null
+            "lat": 12.053532,
+            "lng": -61.749684
+        },
+        "04": {
+            "name": "Saint John",
+            "code": "04",
+            "names": {
+                "geonames": "Saint John",
+                "en": "Saint John"
+            },
+            "division": "parish",
+            "parent": "GD",
+            "lat": 12.1633252,
+            "lng": -61.72794520000002
+        },
+        "05": {
+            "name": "Saint Mark",
+            "code": "05",
+            "names": {
+                "geonames": "Saint Mark",
+                "en": "Saint Mark"
+            },
+            "division": "parish",
+            "parent": "GD",
+            "lat": 12.1979128,
+            "lng": -61.705680099999995
+        },
+        "06": {
+            "name": "Saint Patrick",
+            "code": "06",
+            "names": {
+                "geonames": "Saint Patrick",
+                "en": "Saint Patrick"
+            },
+            "division": "parish",
+            "parent": "GD",
+            "lat": 12.2166667,
+            "lng": -61.633333300000004
         },
         "10": {
             "name": "Carriacou and Petite Martinique",

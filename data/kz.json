@@ -25,101 +25,6 @@
         "pt": "Cazaquist\u00e3o"
     },
     "ISO3166-2": {
-        "ZAP": {
-            "name": "Batys Qazaqstan oblysy",
-            "code": "ZAP",
-            "names": {
-                "geonames": "Batys Qazaqstan",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Batys Qazaqstan oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u063a\u0631\u0628\u064a",
-                "de": "Westkasachstan",
-                "es": "Provincia de Kazajist\u00e1n Occidental",
-                "fr": "Kazakhstan-Occidental",
-                "it": "Oblys del Kazakistan Occidentale",
-                "zh": "\u897f\u54c8\u85a9\u514b\u65af\u5766\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "MAN": {
-            "name": "Mangghysta\u016b oblysy",
-            "code": "MAN",
-            "names": {
-                "geonames": "Mangghystau",
-                "ru": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Mangghysta\u016b oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0645\u0627\u0646\u0643\u064a\u0633\u062a\u0627\u0648",
-                "de": "Mangghystau",
-                "es": "Provincia de Mangystau",
-                "fr": "Oblys de Manguistaou",
-                "it": "Oblys di Ma\u00f1\u011fystau",
-                "zh": "\u66fc\u683c\u65af\u5957\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "ATY": {
-            "name": "Atyra\u016b oblysy",
-            "code": "ATY",
-            "names": {
-                "geonames": "Atyrau",
-                "ru": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Atyra\u016b oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u062a\u064a\u064a\u0631\u0648",
-                "de": "Atyrau",
-                "es": "Provincia de Atyrau",
-                "fr": "Oblys d'Atyraou",
-                "it": "Oblys di Atyrau",
-                "zh": "\u963f\u7279\u52de\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": 43.2917965,
-            "lng": 76.98446769999998
-        },
-        "AKT": {
-            "name": "Aqt\u00f6be oblysy",
-            "code": "AKT",
-            "names": {
-                "geonames": "Aqtoebe",
-                "ru": "\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Aqt\u00f6be oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u0643\u062a\u0648\u0628\u064a",
-                "de": "Aqt\u00f6be",
-                "es": "Provincia de Aktobe",
-                "fr": "Oblys d'Aktioub\u00e9",
-                "it": "Oblys di Aqt\u00f6be",
-                "zh": "\u963f\u514b\u6258\u8c9d\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "VOS": {
-            "name": "Shyghys Qazaqstan oblysy",
-            "code": "VOS",
-            "names": {
-                "geonames": "East Kazakhstan",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Shyghys Qazaqstan oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a",
-                "de": "Ostkasachstan",
-                "es": "Provincia de Kazajist\u00e1n Oriental",
-                "fr": "Kazakhstan-Oriental",
-                "it": "Oblys del Kazakistan Orientale",
-                "zh": "\u6771\u54c8\u85a9\u514b\u65af\u5766\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
         "AKM": {
             "name": "Aqmola oblysy",
             "code": "AKM",
@@ -139,133 +44,19 @@
             "lat": null,
             "lng": null
         },
-        "SEV": {
-            "name": "Solt\u00fcstik Qazaqstan oblysy",
-            "code": "SEV",
+        "AKT": {
+            "name": "Aqt\u00f6be oblysy",
+            "code": "AKT",
             "names": {
-                "geonames": "Soltustik Qazaqstan",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Solt\u00fcstik Qazaqstan oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
-                "de": "Nordkasachstan",
-                "es": "Provincia de Kazajist\u00e1n Septentrional",
-                "fr": "Kazakhstan-Septentrional",
-                "it": "Oblys del Kazakistan Settentrionale",
-                "zh": "\u5317\u54c8\u85a9\u514b\u65af\u5766\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "PAV": {
-            "name": "Pavlodar oblysy",
-            "code": "PAV",
-            "names": {
-                "geonames": "Pavlodar",
-                "ru": "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Pavlodar oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0628\u0627\u0641\u0644\u0648\u062f\u0627\u0631",
-                "de": "Pawlodar",
-                "es": "Provincia de Pavlodar",
-                "fr": "Oblys de Pavlodar",
-                "it": "Oblys di Pavlodar",
-                "zh": "\u5df4\u752b\u6d1b\u9054\u723e\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "KZY": {
-            "name": "Qyzylorda oblysy",
-            "code": "KZY",
-            "names": {
-                "geonames": "Qyzylorda",
-                "ru": "\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Qyzylorda oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u064a\u0632\u064a\u0644\u0648\u0631\u062f\u0627",
-                "de": "Qysylorda",
-                "es": "Provincia de Kyzylorda",
-                "fr": "Oblys de Kyzylorda",
-                "it": "Oblys di Qyzylorda",
-                "zh": "\u514b\u5b5c\u52d2\u5967\u723e\u9054\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "KUS": {
-            "name": "Qostanay oblysy",
-            "code": "KUS",
-            "names": {
-                "geonames": "Qostanay",
-                "ru": "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Qostanay oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0648\u0633\u062a\u0646\u0627\u064a",
-                "de": "Qostanai",
-                "es": "Provincia de Kostanay",
-                "fr": "Oblys de Kostana\u00ef",
-                "it": "Oblys di Qostanay",
-                "zh": "\u5eab\u65af\u5854\u5948\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "KAR": {
-            "name": "Qaraghandy oblysy",
-            "code": "KAR",
-            "names": {
-                "geonames": "Qaraghandy",
-                "ru": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Qaraghandy oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0631\u0627\u063a\u0646\u062f\u064a",
-                "de": "Qaraghandy",
-                "es": "Provincia de Karagand\u00e1",
-                "fr": "Oblys de Karaganda",
-                "it": "Oblys di Qara\u011fand\u0131",
-                "zh": "\u5361\u62c9\u5e72\u9054\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "ZHA": {
-            "name": "Zhambyl oblysy",
-            "code": "ZHA",
-            "names": {
-                "geonames": "Zhambyl",
-                "ru": "\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Zhambyl oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u062c\u0627\u0645\u0628\u064a\u0644",
-                "de": "Schambyl",
-                "es": "Provincia de Zhambyl",
-                "fr": "Oblys de Djamboul",
-                "it": "Oblys di \u017dambyl",
-                "zh": "\u6c5f\u5e03\u723e\u5dde"
-            },
-            "division": "region",
-            "parent": "KZ",
-            "lat": null,
-            "lng": null
-        },
-        "YUZ": {
-            "name": "Ongt\u00fcstik Qazaqstan oblysy",
-            "code": "YUZ",
-            "names": {
-                "geonames": "Ongtustik Qazaqstan",
-                "ru": "\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Ongt\u00fcstik Qazaqstan oblysy",
-                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a",
-                "de": "S\u00fcdkasachstan",
-                "es": "Provincia de Kazajist\u00e1n Meridional",
-                "fr": "Kazakhstan-M\u00e9ridional",
-                "it": "Oblys del Kazakistan Meridionale",
-                "zh": "\u5357\u54c8\u85a9\u514b\u65af\u5766\u5dde"
+                "geonames": "Aqtoebe",
+                "ru": "\u0410\u043a\u0442\u044e\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Aqt\u00f6be oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u0643\u062a\u0648\u0628\u064a",
+                "de": "Aqt\u00f6be",
+                "es": "Provincia de Aktobe",
+                "fr": "Oblys d'Aktioub\u00e9",
+                "it": "Oblys di Aqt\u00f6be",
+                "zh": "\u963f\u514b\u6258\u8c9d\u5dde"
             },
             "division": "region",
             "parent": "KZ",
@@ -310,18 +101,6 @@
             "lat": 43.255058,
             "lng": 76.91262800000004
         },
-        "BAY": {
-            "name": "Bayqongyr",
-            "code": "BAY",
-            "names": {
-                "geonames": "Baikonur",
-                "en": "Bayqongyr"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
         "AST": {
             "name": "Astana",
             "code": "AST",
@@ -340,6 +119,227 @@
             "parent": "KZ",
             "lat": 51.1963431,
             "lng": 71.44111829999997
+        },
+        "ATY": {
+            "name": "Atyra\u016b oblysy",
+            "code": "ATY",
+            "names": {
+                "geonames": "Atyrau",
+                "ru": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Atyra\u016b oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0623\u062a\u064a\u064a\u0631\u0648",
+                "de": "Atyrau",
+                "es": "Provincia de Atyrau",
+                "fr": "Oblys d'Atyraou",
+                "it": "Oblys di Atyrau",
+                "zh": "\u963f\u7279\u52de\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": 43.2917965,
+            "lng": 76.98446769999998
+        },
+        "BAY": {
+            "name": "Bayqongyr",
+            "code": "BAY",
+            "names": {
+                "geonames": "Baikonur",
+                "en": "Bayqongyr"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KAR": {
+            "name": "Qaraghandy oblysy",
+            "code": "KAR",
+            "names": {
+                "geonames": "Qaraghandy",
+                "ru": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Qaraghandy oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0631\u0627\u063a\u0646\u062f\u064a",
+                "de": "Qaraghandy",
+                "es": "Provincia de Karagand\u00e1",
+                "fr": "Oblys de Karaganda",
+                "it": "Oblys di Qara\u011fand\u0131",
+                "zh": "\u5361\u62c9\u5e72\u9054\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "KUS": {
+            "name": "Qostanay oblysy",
+            "code": "KUS",
+            "names": {
+                "geonames": "Qostanay",
+                "ru": "\u041a\u043e\u0441\u0442\u0430\u043d\u0430\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Qostanay oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0648\u0633\u062a\u0646\u0627\u064a",
+                "de": "Qostanai",
+                "es": "Provincia de Kostanay",
+                "fr": "Oblys de Kostana\u00ef",
+                "it": "Oblys di Qostanay",
+                "zh": "\u5eab\u65af\u5854\u5948\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "KZY": {
+            "name": "Qyzylorda oblysy",
+            "code": "KZY",
+            "names": {
+                "geonames": "Qyzylorda",
+                "ru": "\u041a\u044b\u0437\u044b\u043b\u043e\u0440\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Qyzylorda oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u064a\u0632\u064a\u0644\u0648\u0631\u062f\u0627",
+                "de": "Qysylorda",
+                "es": "Provincia de Kyzylorda",
+                "fr": "Oblys de Kyzylorda",
+                "it": "Oblys di Qyzylorda",
+                "zh": "\u514b\u5b5c\u52d2\u5967\u723e\u9054\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "MAN": {
+            "name": "Mangghysta\u016b oblysy",
+            "code": "MAN",
+            "names": {
+                "geonames": "Mangghystau",
+                "ru": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Mangghysta\u016b oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0645\u0627\u0646\u0643\u064a\u0633\u062a\u0627\u0648",
+                "de": "Mangghystau",
+                "es": "Provincia de Mangystau",
+                "fr": "Oblys de Manguistaou",
+                "it": "Oblys di Ma\u00f1\u011fystau",
+                "zh": "\u66fc\u683c\u65af\u5957\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "PAV": {
+            "name": "Pavlodar oblysy",
+            "code": "PAV",
+            "names": {
+                "geonames": "Pavlodar",
+                "ru": "\u041f\u0430\u0432\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Pavlodar oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0628\u0627\u0641\u0644\u0648\u062f\u0627\u0631",
+                "de": "Pawlodar",
+                "es": "Provincia de Pavlodar",
+                "fr": "Oblys de Pavlodar",
+                "it": "Oblys di Pavlodar",
+                "zh": "\u5df4\u752b\u6d1b\u9054\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "SEV": {
+            "name": "Solt\u00fcstik Qazaqstan oblysy",
+            "code": "SEV",
+            "names": {
+                "geonames": "Soltustik Qazaqstan",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Solt\u00fcstik Qazaqstan oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
+                "de": "Nordkasachstan",
+                "es": "Provincia de Kazajist\u00e1n Septentrional",
+                "fr": "Kazakhstan-Septentrional",
+                "it": "Oblys del Kazakistan Settentrionale",
+                "zh": "\u5317\u54c8\u85a9\u514b\u65af\u5766\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "VOS": {
+            "name": "Shyghys Qazaqstan oblysy",
+            "code": "VOS",
+            "names": {
+                "geonames": "East Kazakhstan",
+                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Shyghys Qazaqstan oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a",
+                "de": "Ostkasachstan",
+                "es": "Provincia de Kazajist\u00e1n Oriental",
+                "fr": "Kazakhstan-Oriental",
+                "it": "Oblys del Kazakistan Orientale",
+                "zh": "\u6771\u54c8\u85a9\u514b\u65af\u5766\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "YUZ": {
+            "name": "Ongt\u00fcstik Qazaqstan oblysy",
+            "code": "YUZ",
+            "names": {
+                "geonames": "Ongtustik Qazaqstan",
+                "ru": "\u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Ongt\u00fcstik Qazaqstan oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a",
+                "de": "S\u00fcdkasachstan",
+                "es": "Provincia de Kazajist\u00e1n Meridional",
+                "fr": "Kazakhstan-M\u00e9ridional",
+                "it": "Oblys del Kazakistan Meridionale",
+                "zh": "\u5357\u54c8\u85a9\u514b\u65af\u5766\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "ZAP": {
+            "name": "Batys Qazaqstan oblysy",
+            "code": "ZAP",
+            "names": {
+                "geonames": "Batys Qazaqstan",
+                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Batys Qazaqstan oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0627\u0644\u063a\u0631\u0628\u064a",
+                "de": "Westkasachstan",
+                "es": "Provincia de Kazajist\u00e1n Occidental",
+                "fr": "Kazakhstan-Occidental",
+                "it": "Oblys del Kazakistan Occidentale",
+                "zh": "\u897f\u54c8\u85a9\u514b\u65af\u5766\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
+        },
+        "ZHA": {
+            "name": "Zhambyl oblysy",
+            "code": "ZHA",
+            "names": {
+                "geonames": "Zhambyl",
+                "ru": "\u0416\u0430\u043c\u0431\u044b\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Zhambyl oblysy",
+                "ar": "\u0623\u0648\u0628\u0644\u064a\u0633 \u062c\u0627\u0645\u0628\u064a\u0644",
+                "de": "Schambyl",
+                "es": "Provincia de Zhambyl",
+                "fr": "Oblys de Djamboul",
+                "it": "Oblys di \u017dambyl",
+                "zh": "\u6c5f\u5e03\u723e\u5dde"
+            },
+            "division": "region",
+            "parent": "KZ",
+            "lat": null,
+            "lng": null
         }
     }
 }

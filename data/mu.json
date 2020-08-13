@@ -42,149 +42,6 @@
             "lat": null,
             "lng": null
         },
-        "SA": {
-            "name": "Savanne District",
-            "code": "SA",
-            "names": {
-                "geonames": "Savanne",
-                "en": "Savanne District",
-                "de": "Savanne",
-                "es": "Distrito de Savanne",
-                "fr": "Savanne",
-                "it": "Savanne",
-                "ru": "\u0421\u0430\u0432\u0430\u043d",
-                "zh": "\u85a9\u51e1\u7d0d\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": null,
-            "lng": null
-        },
-        "RR": {
-            "name": "Rivi\u00e8re du Rempart District",
-            "code": "RR",
-            "names": {
-                "geonames": "Riviere du Rempart",
-                "ru": "\u0420\u0438\u0432\u044c\u0435\u0440-\u0434\u044e-\u0420\u0430\u043c\u043f\u0430\u0440",
-                "en": "Rivi\u00e8re du Rempart District",
-                "de": "Riviere du Rempart",
-                "es": "Distrito de Rivi\u00e8re du Rempart",
-                "fr": "Rivi\u00e8re du Rempart",
-                "it": "Rivi\u00e8re du Rempart",
-                "zh": "\u6717\u5e15\u6cb3\u5340"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "PL": {
-            "name": "Port Louis District",
-            "code": "PL",
-            "names": {
-                "geonames": "Port Louis",
-                "ru": "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438",
-                "de": "Port Louis",
-                "en": "Port Louis District",
-                "es": "Distrito de Port Louis",
-                "it": "Distretto di Port Louis",
-                "zh": "\u8def\u6613\u6e2f\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": -20.1756583,
-            "lng": 57.519310599999926
-        },
-        "PW": {
-            "name": "Plaines Wilhems District",
-            "code": "PW",
-            "names": {
-                "geonames": "Plaines Wilhems",
-                "ru": "\u041f\u043b\u0435\u043d-\u0412\u0438\u043b\u0435\u043c",
-                "en": "Plaines Wilhems District",
-                "de": "Plaines Wilhems",
-                "es": "Distrito de Plaines Wilhems",
-                "fr": "Plaines Wilhems",
-                "it": "Plaines Wilhems",
-                "zh": "\u5a01\u5ec9\u5e73\u539f\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": null,
-            "lng": null
-        },
-        "PA": {
-            "name": "Pamplemousses District",
-            "code": "PA",
-            "names": {
-                "geonames": "Pamplemousses",
-                "ru": "\u041f\u0430\u043c\u043f\u043b\u0435\u043c\u0443\u0441",
-                "en": "Pamplemousses District",
-                "de": "Pamplemousses",
-                "es": "Distrito de Pamplemousses",
-                "fr": "Pamplemousses",
-                "it": "Pamplemousses",
-                "zh": "\u9f90\u6ce2\u6155\u65af\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": -20.1094972,
-            "lng": 57.58158920000005
-        },
-        "MO": {
-            "name": "Moka District",
-            "code": "MO",
-            "names": {
-                "geonames": "Moka",
-                "ru": "\u041c\u043e\u043a\u0430",
-                "en": "Moka District",
-                "de": "Moka",
-                "es": "Distrito de Moka",
-                "fr": "Moka",
-                "it": "Distretto di Moka",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": -20.2166667,
-            "lng": 57.5
-        },
-        "GP": {
-            "name": "Grand Port District",
-            "code": "GP",
-            "names": {
-                "geonames": "Grand Port",
-                "ru": "\u0413\u0440\u0430\u043d\u0434-\u041f\u043e\u0440\u0442",
-                "en": "Grand Port District",
-                "de": "Grand Port",
-                "es": "Distrito de Grand Port",
-                "fr": "Grand Port",
-                "it": "Grand Port",
-                "zh": "\u5927\u6e2f\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": null,
-            "lng": null
-        },
-        "FL": {
-            "name": "Flacq District",
-            "code": "FL",
-            "names": {
-                "geonames": "Flacq",
-                "ru": "\u0424\u043b\u0430\u043a",
-                "en": "Flacq District",
-                "de": "Flacq",
-                "es": "Distrito de Flacq",
-                "fr": "Flacq",
-                "it": "Flacq",
-                "zh": "\u5f17\u62c9\u514b\u5340"
-            },
-            "division": "district",
-            "parent": "MU",
-            "lat": 27.6648274,
-            "lng": -81.51575350000002
-        },
         "BL": {
             "name": "Rivi\u00e8re Noire District",
             "code": "BL",
@@ -204,6 +61,14 @@
             "lat": -20.35,
             "lng": 57.36666700000001
         },
+        "BR": {
+            "name": "Beau Bassin-Rose Hill",
+            "code": "BR",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.2230305,
+            "lng": 57.46838300000002
+        },
         "CC": {
             "name": "St. Brandon",
             "code": "CC",
@@ -221,6 +86,137 @@
             "parent": "MU",
             "lat": null,
             "lng": null
+        },
+        "CU": {
+            "name": "Curepipe",
+            "code": "CU",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.3166667,
+            "lng": 57.51666669999997
+        },
+        "FL": {
+            "name": "Flacq District",
+            "code": "FL",
+            "names": {
+                "geonames": "Flacq",
+                "ru": "\u0424\u043b\u0430\u043a",
+                "en": "Flacq District",
+                "de": "Flacq",
+                "es": "Distrito de Flacq",
+                "fr": "Flacq",
+                "it": "Flacq",
+                "zh": "\u5f17\u62c9\u514b\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": 27.6648274,
+            "lng": -81.51575350000002
+        },
+        "GP": {
+            "name": "Grand Port District",
+            "code": "GP",
+            "names": {
+                "geonames": "Grand Port",
+                "ru": "\u0413\u0440\u0430\u043d\u0434-\u041f\u043e\u0440\u0442",
+                "en": "Grand Port District",
+                "de": "Grand Port",
+                "es": "Distrito de Grand Port",
+                "fr": "Grand Port",
+                "it": "Grand Port",
+                "zh": "\u5927\u6e2f\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": null,
+            "lng": null
+        },
+        "MO": {
+            "name": "Moka District",
+            "code": "MO",
+            "names": {
+                "geonames": "Moka",
+                "ru": "\u041c\u043e\u043a\u0430",
+                "en": "Moka District",
+                "de": "Moka",
+                "es": "Distrito de Moka",
+                "fr": "Moka",
+                "it": "Distretto di Moka",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.2166667,
+            "lng": 57.5
+        },
+        "PA": {
+            "name": "Pamplemousses District",
+            "code": "PA",
+            "names": {
+                "geonames": "Pamplemousses",
+                "ru": "\u041f\u0430\u043c\u043f\u043b\u0435\u043c\u0443\u0441",
+                "en": "Pamplemousses District",
+                "de": "Pamplemousses",
+                "es": "Distrito de Pamplemousses",
+                "fr": "Pamplemousses",
+                "it": "Pamplemousses",
+                "zh": "\u9f90\u6ce2\u6155\u65af\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.1094972,
+            "lng": 57.58158920000005
+        },
+        "PL": {
+            "name": "Port Louis District",
+            "code": "PL",
+            "names": {
+                "geonames": "Port Louis",
+                "ru": "\u041f\u043e\u0440\u0442-\u041b\u0443\u0438",
+                "de": "Port Louis",
+                "en": "Port Louis District",
+                "es": "Distrito de Port Louis",
+                "it": "Distretto di Port Louis",
+                "zh": "\u8def\u6613\u6e2f\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": -20.1756583,
+            "lng": 57.519310599999926
+        },
+        "PU": {
+            "name": "Port Louis",
+            "code": "PU",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.165279,
+            "lng": 57.496380000000045
+        },
+        "PW": {
+            "name": "Plaines Wilhems District",
+            "code": "PW",
+            "names": {
+                "geonames": "Plaines Wilhems",
+                "ru": "\u041f\u043b\u0435\u043d-\u0412\u0438\u043b\u0435\u043c",
+                "en": "Plaines Wilhems District",
+                "de": "Plaines Wilhems",
+                "es": "Distrito de Plaines Wilhems",
+                "fr": "Plaines Wilhems",
+                "it": "Plaines Wilhems",
+                "zh": "\u5a01\u5ec9\u5e73\u539f\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": null,
+            "lng": null
+        },
+        "QB": {
+            "name": "Quatre Bornes",
+            "code": "QB",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.26026,
+            "lng": 57.47100799999998
         },
         "RO": {
             "name": "Rodrigues",
@@ -240,47 +236,57 @@
             "lat": -19.7026025,
             "lng": 63.42721849999998
         },
-        "BR": {
-            "name": "Beau Bassin-Rose Hill",
-            "division": "city",
-            "parent": "MU",
-            "lat": -20.2230305,
-            "lng": 57.46838300000002
-        },
-        "CU": {
-            "name": "Curepipe",
-            "division": "city",
-            "parent": "MU",
-            "lat": -20.3166667,
-            "lng": 57.51666669999997
-        },
-        "PU": {
-            "name": "Port Louis",
-            "division": "city",
-            "parent": "MU",
-            "lat": -20.165279,
-            "lng": 57.496380000000045
-        },
-        "QB": {
-            "name": "Quatre Bornes",
-            "division": "city",
-            "parent": "MU",
-            "lat": -20.26026,
-            "lng": 57.47100799999998
-        },
-        "VP": {
-            "name": "Vacoas-Phoenix",
-            "division": "city",
-            "parent": "MU",
-            "lat": -20.299009,
-            "lng": 57.47967900000003
-        },
         "RP": {
             "name": "Rivi\u00e8re du Rempart",
+            "code": "RP",
             "division": "district",
             "parent": "MU",
             "lat": -20.108271,
             "lng": 57.68442900000002
+        },
+        "RR": {
+            "name": "Rivi\u00e8re du Rempart District",
+            "code": "RR",
+            "names": {
+                "geonames": "Riviere du Rempart",
+                "ru": "\u0420\u0438\u0432\u044c\u0435\u0440-\u0434\u044e-\u0420\u0430\u043c\u043f\u0430\u0440",
+                "en": "Rivi\u00e8re du Rempart District",
+                "de": "Riviere du Rempart",
+                "es": "Distrito de Rivi\u00e8re du Rempart",
+                "fr": "Rivi\u00e8re du Rempart",
+                "it": "Rivi\u00e8re du Rempart",
+                "zh": "\u6717\u5e15\u6cb3\u5340"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "SA": {
+            "name": "Savanne District",
+            "code": "SA",
+            "names": {
+                "geonames": "Savanne",
+                "en": "Savanne District",
+                "de": "Savanne",
+                "es": "Distrito de Savanne",
+                "fr": "Savanne",
+                "it": "Savanne",
+                "ru": "\u0421\u0430\u0432\u0430\u043d",
+                "zh": "\u85a9\u51e1\u7d0d\u5340"
+            },
+            "division": "district",
+            "parent": "MU",
+            "lat": null,
+            "lng": null
+        },
+        "VP": {
+            "name": "Vacoas-Phoenix",
+            "code": "VP",
+            "division": "city",
+            "parent": "MU",
+            "lat": -20.299009,
+            "lng": 57.47967900000003
         }
     }
 }

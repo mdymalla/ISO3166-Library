@@ -26,25 +26,6 @@
         "pt": "Chipre"
     },
     "ISO3166-2": {
-        "05": {
-            "name": "Paphos District",
-            "code": "05",
-            "names": {
-                "geonames": "Pafos",
-                "ru": "\u041f\u0430\u0444\u043e\u0441",
-                "en": "Paphos District",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0641\u0648\u0633",
-                "de": "Bezirk Paphos",
-                "es": "Distrito de Pafos",
-                "fr": "District de Paphos",
-                "it": "Distretto di Pafo",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "district",
-            "parent": "CY",
-            "lat": 34.7719536,
-            "lng": 32.430223100000035
-        },
         "01": {
             "name": "Nicosia District",
             "code": "01",
@@ -102,25 +83,6 @@
             "lat": 34.9166667,
             "lng": 33.633333300000004
         },
-        "06": {
-            "name": "Kyrenia District",
-            "code": "06",
-            "names": {
-                "geonames": "Keryneia",
-                "ru": "\u041a\u0438\u0440\u0435\u043d\u0438\u044f",
-                "en": "Kyrenia District",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u064a\u0631\u064a\u0646\u064a\u0627",
-                "de": "Bezirk Kyrenia",
-                "es": "Distrito de Kyrenia",
-                "fr": "District de Kyrenia",
-                "it": "Distretto di Kyrenia",
-                "zh": "\u51ef\u91cc\u5c3c\u4e9a\u533a"
-            },
-            "division": "district",
-            "parent": "CY",
-            "lat": null,
-            "lng": null
-        },
         "04": {
             "name": "Famagusta District",
             "code": "04",
@@ -134,6 +96,44 @@
                 "fr": "District de Famagouste",
                 "it": "Distretto di Famagosta",
                 "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": null,
+            "lng": null
+        },
+        "05": {
+            "name": "Paphos District",
+            "code": "05",
+            "names": {
+                "geonames": "Pafos",
+                "ru": "\u041f\u0430\u0444\u043e\u0441",
+                "en": "Paphos District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0641\u0648\u0633",
+                "de": "Bezirk Paphos",
+                "es": "Distrito de Pafos",
+                "fr": "District de Paphos",
+                "it": "Distretto di Pafo",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "district",
+            "parent": "CY",
+            "lat": 34.7719536,
+            "lng": 32.430223100000035
+        },
+        "06": {
+            "name": "Kyrenia District",
+            "code": "06",
+            "names": {
+                "geonames": "Keryneia",
+                "ru": "\u041a\u0438\u0440\u0435\u043d\u0438\u044f",
+                "en": "Kyrenia District",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0643\u064a\u0631\u064a\u0646\u064a\u0627",
+                "de": "Bezirk Kyrenia",
+                "es": "Distrito de Kyrenia",
+                "fr": "District de Kyrenia",
+                "it": "Distretto di Kyrenia",
+                "zh": "\u51ef\u91cc\u5c3c\u4e9a\u533a"
             },
             "division": "district",
             "parent": "CY",

@@ -24,62 +24,6 @@
         "pt": "Cuba"
     },
     "ISO3166-2": {
-        "05": {
-            "name": "Villa Clara Province",
-            "code": "05",
-            "names": {
-                "geonames": "Villa Clara",
-                "ru": "\u0412\u0438\u043b\u044c\u044f-\u041a\u043b\u0430\u0440\u0430",
-                "en": "Villa Clara Province",
-                "de": "Provinz Villa Clara",
-                "es": "Provincia de Villa Clara",
-                "fr": "Province de Villa Clara",
-                "it": "Provincia di Villa Clara",
-                "zh": "\u6bd4\u4e9a\u514b\u62c9\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 22.4138354,
-            "lng": -79.9664194
-        },
-        "13": {
-            "name": "Santiago de Cuba Province",
-            "code": "13",
-            "names": {
-                "geonames": "Santiago de Cuba",
-                "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0443\u0431\u0430",
-                "en": "Santiago de Cuba Province",
-                "ar": "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062f\u064a \u0643\u0648\u0628\u0627",
-                "de": "Provinz Santiago de Cuba",
-                "es": "Provincia de Santiago de Cuba",
-                "fr": "Province de Santiago de Cuba",
-                "it": "Provincia di Santiago di Cuba",
-                "zh": "\u5723\u5730\u4e9a\u54e5\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 20.0198333,
-            "lng": -75.8139167
-        },
-        "07": {
-            "name": "Sancti Sp\u00edritus Province",
-            "code": "07",
-            "names": {
-                "geonames": "Sancti Spiritus",
-                "ru": "\u0421\u0430\u043d\u043a\u0442\u0438-\u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441",
-                "en": "Sancti Sp\u00edritus Province",
-                "ar": "\u0633\u0627\u0646\u0643\u062a\u064a \u0633\u0628\u064a\u0631\u064a\u062a\u0648\u0633",
-                "de": "Provinz Sancti Sp\u00edritus",
-                "es": "Provincia de Sancti Sp\u00edritus",
-                "fr": "Province de Sancti Sp\u00edritus",
-                "it": "Provincia di Sancti Sp\u00edritus",
-                "zh": "\u5723\u65af\u76ae\u91cc\u56fe\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 21.9338889,
-            "lng": -79.44388889999999
-        },
         "01": {
             "name": "Pinar del R\u00edo Province",
             "code": "01",
@@ -98,117 +42,13 @@
             "lat": 22.42528,
             "lng": -83.6875
         },
-        "04": {
-            "name": "Matanzas Province",
-            "code": "04",
-            "names": {
-                "geonames": "Matanzas",
-                "ru": "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441",
-                "en": "Matanzas Province",
-                "ar": "\u0645\u0627\u062a\u0646\u0632\u0627\u0633",
-                "de": "Provinz Matanzas",
-                "es": "Provincia de Matanzas",
-                "fr": "Province de Matanzas",
-                "it": "Provincia di Matanzas",
-                "zh": "\u9a6c\u5766\u8428\u65af\u7701"
-            },
+        "02": {
+            "name": "La Habana",
+            "code": "02",
             "division": "province",
             "parent": "CU",
-            "lat": 23.050051,
-            "lng": -81.56503299999997
-        },
-        "10": {
-            "name": "Las Tunas Province",
-            "code": "10",
-            "names": {
-                "geonames": "Las Tunas",
-                "ru": "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441",
-                "en": "Las Tunas Province",
-                "de": "Provinz Las Tunas",
-                "es": "Provincia de Las Tunas",
-                "fr": "Province de Las Tunas",
-                "it": "Provincia di Las Tunas",
-                "zh": "\u62c9\u65af\u56fe\u7eb3\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 20.965799,
-            "lng": -76.95023300000003
-        },
-        "99": {
-            "name": "Isla de la Juventud",
-            "code": "99",
-            "names": {
-                "geonames": "Isla de la Juventud",
-                "ru": "\u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434",
-                "en": "Isla de la Juventud",
-                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0634\u0628\u0627\u0628",
-                "de": "Isla de la Juventud",
-                "es": "Isla de la Juventud",
-                "fr": "\u00cele de la Jeunesse",
-                "it": "Isola della Giovent\u00f9",
-                "zh": "\u9752\u5e74\u5c9b"
-            },
-            "division": "special municipality",
-            "parent": "CU",
-            "lat": 21.8863976,
-            "lng": -82.80732849999998
-        },
-        "11": {
-            "name": "Holgu\u00edn Province",
-            "code": "11",
-            "names": {
-                "geonames": "Holguin",
-                "ru": "\u041e\u043b\u044c\u0433\u0438\u043d",
-                "en": "Holgu\u00edn Province",
-                "de": "Provinz Holgu\u00edn",
-                "es": "Provincia de Holgu\u00edn",
-                "fr": "Province de Holgu\u00edn",
-                "it": "Provincia di Holgu\u00edn",
-                "zh": "\u5965\u5c14\u91d1\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 20.8886111,
-            "lng": -76.2572222
-        },
-        "14": {
-            "name": "Guant\u00e1namo Province",
-            "code": "14",
-            "names": {
-                "geonames": "Guantanamo",
-                "ru": "\u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e",
-                "en": "Guant\u00e1namo Province",
-                "ar": "\u063a\u0648\u0627\u0646\u062a\u0627\u0646\u0627\u0645\u0648",
-                "de": "Provinz Guant\u00e1namo",
-                "es": "Provincia de Guant\u00e1namo",
-                "fr": "Province de Guant\u00e1namo",
-                "it": "Provincia di Guant\u00e1namo",
-                "zh": "\u5173\u5854\u90a3\u6469\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 20.14303,
-            "lng": -75.20900699999999
-        },
-        "12": {
-            "name": "Granma Province",
-            "code": "12",
-            "names": {
-                "geonames": "Granma",
-                "ru": "\u0413\u0440\u0430\u043d\u043c\u0430",
-                "en": "Granma Province",
-                "ar": "\u063a\u0631\u0627\u0646\u0645\u0627",
-                "de": "Provinz Granma",
-                "es": "Provincia de Granma",
-                "fr": "Province de Granma",
-                "it": "Provincia di Granma",
-                "zh": "\u683c\u62c9\u739b\u7701"
-            },
-            "division": "province",
-            "parent": "CU",
-            "lat": 20.3830666,
-            "lng": -76.64736490000001
+            "lat": 23.1168,
+            "lng": -82.38855699999999
         },
         "03": {
             "name": "Havana",
@@ -229,6 +69,43 @@
             "lat": 23.1168,
             "lng": -82.38855699999999
         },
+        "04": {
+            "name": "Matanzas Province",
+            "code": "04",
+            "names": {
+                "geonames": "Matanzas",
+                "ru": "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441",
+                "en": "Matanzas Province",
+                "ar": "\u0645\u0627\u062a\u0646\u0632\u0627\u0633",
+                "de": "Provinz Matanzas",
+                "es": "Provincia de Matanzas",
+                "fr": "Province de Matanzas",
+                "it": "Provincia di Matanzas",
+                "zh": "\u9a6c\u5766\u8428\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 23.050051,
+            "lng": -81.56503299999997
+        },
+        "05": {
+            "name": "Villa Clara Province",
+            "code": "05",
+            "names": {
+                "geonames": "Villa Clara",
+                "ru": "\u0412\u0438\u043b\u044c\u044f-\u041a\u043b\u0430\u0440\u0430",
+                "en": "Villa Clara Province",
+                "de": "Provinz Villa Clara",
+                "es": "Provincia de Villa Clara",
+                "fr": "Province de Villa Clara",
+                "it": "Provincia di Villa Clara",
+                "zh": "\u6bd4\u4e9a\u514b\u62c9\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 22.4138354,
+            "lng": -79.9664194
+        },
         "06": {
             "name": "Cienfuegos Province",
             "code": "06",
@@ -247,6 +124,25 @@
             "parent": "CU",
             "lat": 22.149969,
             "lng": -80.44367999999997
+        },
+        "07": {
+            "name": "Sancti Sp\u00edritus Province",
+            "code": "07",
+            "names": {
+                "geonames": "Sancti Spiritus",
+                "ru": "\u0421\u0430\u043d\u043a\u0442\u0438-\u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441",
+                "en": "Sancti Sp\u00edritus Province",
+                "ar": "\u0633\u0627\u0646\u0643\u062a\u064a \u0633\u0628\u064a\u0631\u064a\u062a\u0648\u0633",
+                "de": "Provinz Sancti Sp\u00edritus",
+                "es": "Provincia de Sancti Sp\u00edritus",
+                "fr": "Province de Sancti Sp\u00edritus",
+                "it": "Provincia di Sancti Sp\u00edritus",
+                "zh": "\u5723\u65af\u76ae\u91cc\u56fe\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 21.9338889,
+            "lng": -79.44388889999999
         },
         "08": {
             "name": "Ciego de \u00c1vila Province",
@@ -309,12 +205,117 @@
             "lat": null,
             "lng": null
         },
-        "02": {
-            "name": "La Habana",
+        "10": {
+            "name": "Las Tunas Province",
+            "code": "10",
+            "names": {
+                "geonames": "Las Tunas",
+                "ru": "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441",
+                "en": "Las Tunas Province",
+                "de": "Provinz Las Tunas",
+                "es": "Provincia de Las Tunas",
+                "fr": "Province de Las Tunas",
+                "it": "Provincia di Las Tunas",
+                "zh": "\u62c9\u65af\u56fe\u7eb3\u65af\u7701"
+            },
             "division": "province",
             "parent": "CU",
-            "lat": 23.1168,
-            "lng": -82.38855699999999
+            "lat": 20.965799,
+            "lng": -76.95023300000003
+        },
+        "11": {
+            "name": "Holgu\u00edn Province",
+            "code": "11",
+            "names": {
+                "geonames": "Holguin",
+                "ru": "\u041e\u043b\u044c\u0433\u0438\u043d",
+                "en": "Holgu\u00edn Province",
+                "de": "Provinz Holgu\u00edn",
+                "es": "Provincia de Holgu\u00edn",
+                "fr": "Province de Holgu\u00edn",
+                "it": "Provincia di Holgu\u00edn",
+                "zh": "\u5965\u5c14\u91d1\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 20.8886111,
+            "lng": -76.2572222
+        },
+        "12": {
+            "name": "Granma Province",
+            "code": "12",
+            "names": {
+                "geonames": "Granma",
+                "ru": "\u0413\u0440\u0430\u043d\u043c\u0430",
+                "en": "Granma Province",
+                "ar": "\u063a\u0631\u0627\u0646\u0645\u0627",
+                "de": "Provinz Granma",
+                "es": "Provincia de Granma",
+                "fr": "Province de Granma",
+                "it": "Provincia di Granma",
+                "zh": "\u683c\u62c9\u739b\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 20.3830666,
+            "lng": -76.64736490000001
+        },
+        "13": {
+            "name": "Santiago de Cuba Province",
+            "code": "13",
+            "names": {
+                "geonames": "Santiago de Cuba",
+                "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0443\u0431\u0430",
+                "en": "Santiago de Cuba Province",
+                "ar": "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u062f\u064a \u0643\u0648\u0628\u0627",
+                "de": "Provinz Santiago de Cuba",
+                "es": "Provincia de Santiago de Cuba",
+                "fr": "Province de Santiago de Cuba",
+                "it": "Provincia di Santiago di Cuba",
+                "zh": "\u5723\u5730\u4e9a\u54e5\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 20.0198333,
+            "lng": -75.8139167
+        },
+        "14": {
+            "name": "Guant\u00e1namo Province",
+            "code": "14",
+            "names": {
+                "geonames": "Guantanamo",
+                "ru": "\u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e",
+                "en": "Guant\u00e1namo Province",
+                "ar": "\u063a\u0648\u0627\u0646\u062a\u0627\u0646\u0627\u0645\u0648",
+                "de": "Provinz Guant\u00e1namo",
+                "es": "Provincia de Guant\u00e1namo",
+                "fr": "Province de Guant\u00e1namo",
+                "it": "Provincia di Guant\u00e1namo",
+                "zh": "\u5173\u5854\u90a3\u6469\u7701"
+            },
+            "division": "province",
+            "parent": "CU",
+            "lat": 20.14303,
+            "lng": -75.20900699999999
+        },
+        "99": {
+            "name": "Isla de la Juventud",
+            "code": "99",
+            "names": {
+                "geonames": "Isla de la Juventud",
+                "ru": "\u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434",
+                "en": "Isla de la Juventud",
+                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0634\u0628\u0627\u0628",
+                "de": "Isla de la Juventud",
+                "es": "Isla de la Juventud",
+                "fr": "\u00cele de la Jeunesse",
+                "it": "Isola della Giovent\u00f9",
+                "zh": "\u9752\u5e74\u5c9b"
+            },
+            "division": "special municipality",
+            "parent": "CU",
+            "lat": 21.8863976,
+            "lng": -82.80732849999998
         }
     }
 }

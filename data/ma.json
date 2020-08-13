@@ -195,6 +195,482 @@
             "lat": null,
             "lng": null
         },
+        "AGD": {
+            "name": "Agadir-Ida-Outanane",
+            "code": "AGD",
+            "division": "prefecture",
+            "parent": "MA 13",
+            "lat": 30.4210469,
+            "lng": -9.604387299999985
+        },
+        "AOU": {
+            "name": "Aousserd",
+            "code": "AOU",
+            "division": "prefecture",
+            "parent": "MA 16"
+        },
+        "ASZ": {
+            "name": "Assa-Zag",
+            "code": "ASZ",
+            "division": "province",
+            "parent": "MA 14"
+        },
+        "AZI": {
+            "name": "Azilal",
+            "code": "AZI",
+            "division": "province",
+            "parent": "MA 12",
+            "lat": 31.9669444,
+            "lng": -6.569444400000066
+        },
+        "BEM": {
+            "name": "Beni Mellal",
+            "code": "BEM",
+            "division": "province",
+            "parent": "MA 12",
+            "lat": 32.3394444,
+            "lng": -6.3608332999999675
+        },
+        "BER": {
+            "name": "Berkane",
+            "code": "BER",
+            "division": "province",
+            "parent": "MA 04",
+            "lat": 34.9166667,
+            "lng": -2.3166667000000416
+        },
+        "BES": {
+            "name": "Ben Slimane",
+            "code": "BES",
+            "division": "province",
+            "parent": "MA 09",
+            "lat": 33.62328,
+            "lng": -7.120641999999975
+        },
+        "BOD": {
+            "name": "Boujdour (EH)",
+            "code": "BOD",
+            "division": "province",
+            "parent": "MA 15"
+        },
+        "BOM": {
+            "name": "Boulemane",
+            "code": "BOM",
+            "division": "province",
+            "parent": "MA 05",
+            "lat": 33.3625159,
+            "lng": -4.730339700000059
+        },
+        "CAS": {
+            "name": "Casablanca [Dar el Be\u00efda]",
+            "code": "CAS",
+            "division": "prefecture",
+            "parent": "MA 08",
+            "lat": 33.55611,
+            "lng": -7.661666999999966
+        },
+        "CHE": {
+            "name": "Chefchaouen",
+            "code": "CHE",
+            "division": "province",
+            "parent": "MA 01",
+            "lat": 35.1713889,
+            "lng": -5.269722199999933
+        },
+        "CHI": {
+            "name": "Chichaoua",
+            "code": "CHI",
+            "division": "province",
+            "parent": "MA 11",
+            "lat": 31.54377,
+            "lng": -8.76602600000001
+        },
+        "CHT": {
+            "name": "Chtouka-Ait Baha",
+            "code": "CHT",
+            "division": "province",
+            "parent": "MA 13"
+        },
+        "ERR": {
+            "name": "Errachidia",
+            "code": "ERR",
+            "division": "province",
+            "parent": "MA 06",
+            "lat": 31.9319444,
+            "lng": -4.42444439999997
+        },
+        "ESI": {
+            "name": "Essaouira",
+            "code": "ESI",
+            "division": "province",
+            "parent": "MA 11",
+            "lat": 31.5130556,
+            "lng": -9.769722199999933
+        },
+        "ESM": {
+            "name": "Es Smara (EH)",
+            "code": "ESM",
+            "division": "province",
+            "parent": "MA 14"
+        },
+        "FAH": {
+            "name": "Fahs-Beni Makada",
+            "code": "FAH",
+            "division": "prefecture",
+            "parent": "MA 01"
+        },
+        "FES": {
+            "name": "F\u00e8s-Dar-Dbibegh",
+            "code": "FES",
+            "division": "prefecture",
+            "parent": "MA 05"
+        },
+        "FIG": {
+            "name": "Figuig",
+            "code": "FIG",
+            "division": "province",
+            "parent": "MA 04",
+            "lat": 32.124722,
+            "lng": -1.226081000000022
+        },
+        "GUE": {
+            "name": "Guelmim",
+            "code": "GUE",
+            "division": "province",
+            "parent": "MA 14",
+            "lat": 28.979679,
+            "lng": -10.061519999999973
+        },
+        "HAJ": {
+            "name": "El Hajeb",
+            "code": "HAJ",
+            "division": "province",
+            "parent": "MA 06",
+            "lat": 33.698101,
+            "lng": -5.364786999999978
+        },
+        "HAO": {
+            "name": "Al Haouz",
+            "code": "HAO",
+            "division": "province",
+            "parent": "MA 11",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "HOC": {
+            "name": "Al Hoce\u00efma",
+            "code": "HOC",
+            "division": "province",
+            "parent": "MA 03",
+            "lat": 35.249299,
+            "lng": -3.93711200000007
+        },
+        "IFR": {
+            "name": "Ifrane",
+            "code": "IFR",
+            "division": "province",
+            "parent": "MA 06",
+            "lat": 33.5333333,
+            "lng": -5.116666699999996
+        },
+        "INE": {
+            "name": "Inezgane-Ait Melloul",
+            "code": "INE",
+            "division": "prefecture",
+            "parent": "MA 13",
+            "lat": 30.3616651,
+            "lng": -9.532109499999933
+        },
+        "JDI": {
+            "name": "El Jadida",
+            "code": "JDI",
+            "division": "province",
+            "parent": "MA 10",
+            "lat": 33.2333333,
+            "lng": -8.5
+        },
+        "JRA": {
+            "name": "Jrada",
+            "code": "JRA",
+            "division": "province",
+            "parent": "MA 04"
+        },
+        "KEN": {
+            "name": "K\u00e9nitra",
+            "code": "KEN",
+            "division": "province",
+            "parent": "MA 02",
+            "lat": 34.264061,
+            "lng": -6.578296000000023
+        },
+        "KES": {
+            "name": "Kelaat es Sraghna",
+            "code": "KES",
+            "division": "province",
+            "parent": "MA 11"
+        },
+        "KHE": {
+            "name": "Khemisaet",
+            "code": "KHE",
+            "division": "province",
+            "parent": "MA 07",
+            "lat": 33.8166667,
+            "lng": -6.066666700000042
+        },
+        "KHN": {
+            "name": "Khenifra",
+            "code": "KHN",
+            "division": "province",
+            "parent": "MA 06",
+            "lat": 32.9394444,
+            "lng": -5.667500000000018
+        },
+        "KHO": {
+            "name": "Khouribga",
+            "code": "KHO",
+            "division": "province",
+            "parent": "MA 09",
+            "lat": 32.8833333,
+            "lng": -6.899999999999977
+        },
+        "LAA": {
+            "name": "La\u00e2youne (EH)",
+            "code": "LAA",
+            "division": "province",
+            "parent": "MA 15",
+            "lat": 27.8357399,
+            "lng": -12.346387499999992
+        },
+        "LAR": {
+            "name": "Larache",
+            "code": "LAR",
+            "division": "province",
+            "parent": "MA 01",
+            "lat": 35.1833333,
+            "lng": -6.149999999999977
+        },
+        "MED": {
+            "name": "M\u00e9diouna",
+            "code": "MED",
+            "division": "province",
+            "parent": "MA 08",
+            "lat": 33.4519444,
+            "lng": -7.521111099999985
+        },
+        "MEK": {
+            "name": "Mekn\u00e8s",
+            "code": "MEK",
+            "division": "prefecture",
+            "parent": "MA 06",
+            "lat": 33.883335,
+            "lng": -5.519027999999935
+        },
+        "MMD": {
+            "name": "Marrakech-Medina",
+            "code": "MMD",
+            "division": "prefecture",
+            "parent": "MA 11",
+            "lat": 31.6208007,
+            "lng": -7.983809699999938
+        },
+        "MMN": {
+            "name": "Marrakech-Menara",
+            "code": "MMN",
+            "division": "prefecture",
+            "parent": "MA 11",
+            "lat": 31.6142404,
+            "lng": -8.02061040000001
+        },
+        "MOH": {
+            "name": "Mohammadia",
+            "code": "MOH",
+            "division": "prefecture",
+            "parent": "MA 08"
+        },
+        "MOU": {
+            "name": "Moulay Yacoub",
+            "code": "MOU",
+            "division": "province",
+            "parent": "MA 05",
+            "lat": 34.0710096,
+            "lng": -5.173186399999963
+        },
+        "NAD": {
+            "name": "Nador",
+            "code": "NAD",
+            "division": "province",
+            "parent": "MA 04",
+            "lat": 35.1666667,
+            "lng": -2.9333332999999584
+        },
+        "NOU": {
+            "name": "Nouaceur",
+            "code": "NOU",
+            "division": "province",
+            "parent": "MA 08"
+        },
+        "OUA": {
+            "name": "Ouarzazate",
+            "code": "OUA",
+            "division": "province",
+            "parent": "MA 13",
+            "lat": 30.91987,
+            "lng": -6.8935390000000325
+        },
+        "OUD": {
+            "name": "Oued ed Dahab (EH)",
+            "code": "OUD",
+            "division": "province",
+            "parent": "MA 16"
+        },
+        "OUJ": {
+            "name": "Oujda-Angad",
+            "code": "OUJ",
+            "division": "prefecture",
+            "parent": "MA 04",
+            "lat": 34.786111,
+            "lng": -1.9255560000000287
+        },
+        "RAB": {
+            "name": "Rabat",
+            "code": "RAB",
+            "division": "prefecture",
+            "parent": "MA 07",
+            "lat": 34.015049,
+            "lng": -6.832719999999995
+        },
+        "SAF": {
+            "name": "Safi",
+            "code": "SAF",
+            "division": "province",
+            "parent": "MA 10",
+            "lat": 32.310059,
+            "lng": -9.236617000000024
+        },
+        "SAL": {
+            "name": "Sal\u00e9",
+            "code": "SAL",
+            "division": "prefecture",
+            "parent": "MA 07",
+            "lat": 34.0333333,
+            "lng": -6.7999999999999545
+        },
+        "SEF": {
+            "name": "Sefrou",
+            "code": "SEF",
+            "division": "province",
+            "parent": "MA 05",
+            "lat": 33.835737,
+            "lng": -4.844277000000034
+        },
+        "SET": {
+            "name": "Settat",
+            "code": "SET",
+            "division": "province",
+            "parent": "MA 09",
+            "lat": 33,
+            "lng": -7.616666699999996
+        },
+        "SIK": {
+            "name": "Sidl Kacem",
+            "code": "SIK",
+            "division": "province",
+            "parent": "MA 02"
+        },
+        "SKH": {
+            "name": "Skhirate-T\u00e9mara",
+            "code": "SKH",
+            "division": "prefecture",
+            "parent": "MA 07"
+        },
+        "SYB": {
+            "name": "Sidi Youssef Ben Ali",
+            "code": "SYB",
+            "division": "prefecture",
+            "parent": "MA 11",
+            "lat": 31.6333333,
+            "lng": -8
+        },
+        "TAI": {
+            "name": "Taourirt",
+            "code": "TAI",
+            "division": "province",
+            "parent": "MA 04",
+            "lat": 34.416667,
+            "lng": -2.8999999999999773
+        },
+        "TAO": {
+            "name": "Taounate",
+            "code": "TAO",
+            "division": "province",
+            "parent": "MA 03",
+            "lat": 34.5358333,
+            "lng": -4.639999999999986
+        },
+        "TAR": {
+            "name": "Taroudant",
+            "code": "TAR",
+            "division": "province",
+            "parent": "MA 13",
+            "lat": 30.4669444,
+            "lng": -8.879999999999995
+        },
+        "TAT": {
+            "name": "Tata",
+            "code": "TAT",
+            "division": "province",
+            "parent": "MA 14",
+            "lat": 29.742941,
+            "lng": -7.972598999999946
+        },
+        "TAZ": {
+            "name": "Taza",
+            "code": "TAZ",
+            "division": "province",
+            "parent": "MA 03",
+            "lat": 34.2238889,
+            "lng": -4.0066666999999825
+        },
+        "TET": {
+            "name": "T\u00e9touan",
+            "code": "TET",
+            "division": "prefecture",
+            "parent": "MA 01",
+            "lat": 35.57621,
+            "lng": -5.368434999999977
+        },
+        "TIZ": {
+            "name": "Tiznit",
+            "code": "TIZ",
+            "division": "province",
+            "parent": "MA 13",
+            "lat": 29.707649,
+            "lng": -9.733338000000003
+        },
+        "TNG": {
+            "name": "Tanger-Assilah",
+            "code": "TNG",
+            "division": "prefecture",
+            "parent": "MA 01",
+            "lat": 35.7666667,
+            "lng": -5.7999999999999545
+        },
+        "TNT": {
+            "name": "Tan-Tan",
+            "code": "TNT",
+            "division": "province",
+            "parent": "MA 14",
+            "lat": 28.4387869,
+            "lng": -11.105125899999962
+        },
+        "ZAG": {
+            "name": "Zagora",
+            "code": "ZAG",
+            "division": "province",
+            "parent": "MA 13",
+            "lat": 30.3305556,
+            "lng": -5.8380555999999615
+        },
         "10": {
             "name": "Doukkala-Abda",
             "code": "10",
@@ -251,419 +727,6 @@
             "parent": null,
             "lat": null,
             "lng": null
-        },
-        "HAO": {
-            "name": "Al Haouz",
-            "division": "province",
-            "parent": "MA 11",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
-        },
-        "HOC": {
-            "name": "Al Hoce\u00efma",
-            "division": "province",
-            "parent": "MA 03",
-            "lat": 35.249299,
-            "lng": -3.93711200000007
-        },
-        "ASZ": {
-            "name": "Assa-Zag",
-            "division": "province",
-            "parent": "MA 14"
-        },
-        "AZI": {
-            "name": "Azilal",
-            "division": "province",
-            "parent": "MA 12",
-            "lat": 31.9669444,
-            "lng": -6.569444400000066
-        },
-        "BEM": {
-            "name": "Beni Mellal",
-            "division": "province",
-            "parent": "MA 12",
-            "lat": 32.3394444,
-            "lng": -6.3608332999999675
-        },
-        "BES": {
-            "name": "Ben Slimane",
-            "division": "province",
-            "parent": "MA 09",
-            "lat": 33.62328,
-            "lng": -7.120641999999975
-        },
-        "BER": {
-            "name": "Berkane",
-            "division": "province",
-            "parent": "MA 04",
-            "lat": 34.9166667,
-            "lng": -2.3166667000000416
-        },
-        "BOD": {
-            "name": "Boujdour (EH)",
-            "division": "province",
-            "parent": "MA 15"
-        },
-        "BOM": {
-            "name": "Boulemane",
-            "division": "province",
-            "parent": "MA 05",
-            "lat": 33.3625159,
-            "lng": -4.730339700000059
-        },
-        "CHE": {
-            "name": "Chefchaouen",
-            "division": "province",
-            "parent": "MA 01",
-            "lat": 35.1713889,
-            "lng": -5.269722199999933
-        },
-        "CHI": {
-            "name": "Chichaoua",
-            "division": "province",
-            "parent": "MA 11",
-            "lat": 31.54377,
-            "lng": -8.76602600000001
-        },
-        "CHT": {
-            "name": "Chtouka-Ait Baha",
-            "division": "province",
-            "parent": "MA 13"
-        },
-        "HAJ": {
-            "name": "El Hajeb",
-            "division": "province",
-            "parent": "MA 06",
-            "lat": 33.698101,
-            "lng": -5.364786999999978
-        },
-        "JDI": {
-            "name": "El Jadida",
-            "division": "province",
-            "parent": "MA 10",
-            "lat": 33.2333333,
-            "lng": -8.5
-        },
-        "ERR": {
-            "name": "Errachidia",
-            "division": "province",
-            "parent": "MA 06",
-            "lat": 31.9319444,
-            "lng": -4.42444439999997
-        },
-        "ESI": {
-            "name": "Essaouira",
-            "division": "province",
-            "parent": "MA 11",
-            "lat": 31.5130556,
-            "lng": -9.769722199999933
-        },
-        "ESM": {
-            "name": "Es Smara (EH)",
-            "division": "province",
-            "parent": "MA 14"
-        },
-        "FIG": {
-            "name": "Figuig",
-            "division": "province",
-            "parent": "MA 04",
-            "lat": 32.124722,
-            "lng": -1.226081000000022
-        },
-        "GUE": {
-            "name": "Guelmim",
-            "division": "province",
-            "parent": "MA 14",
-            "lat": 28.979679,
-            "lng": -10.061519999999973
-        },
-        "IFR": {
-            "name": "Ifrane",
-            "division": "province",
-            "parent": "MA 06",
-            "lat": 33.5333333,
-            "lng": -5.116666699999996
-        },
-        "JRA": {
-            "name": "Jrada",
-            "division": "province",
-            "parent": "MA 04"
-        },
-        "KES": {
-            "name": "Kelaat es Sraghna",
-            "division": "province",
-            "parent": "MA 11"
-        },
-        "KEN": {
-            "name": "K\u00e9nitra",
-            "division": "province",
-            "parent": "MA 02",
-            "lat": 34.264061,
-            "lng": -6.578296000000023
-        },
-        "KHE": {
-            "name": "Khemisaet",
-            "division": "province",
-            "parent": "MA 07",
-            "lat": 33.8166667,
-            "lng": -6.066666700000042
-        },
-        "KHN": {
-            "name": "Khenifra",
-            "division": "province",
-            "parent": "MA 06",
-            "lat": 32.9394444,
-            "lng": -5.667500000000018
-        },
-        "KHO": {
-            "name": "Khouribga",
-            "division": "province",
-            "parent": "MA 09",
-            "lat": 32.8833333,
-            "lng": -6.899999999999977
-        },
-        "LAA": {
-            "name": "La\u00e2youne (EH)",
-            "division": "province",
-            "parent": "MA 15",
-            "lat": 27.8357399,
-            "lng": -12.346387499999992
-        },
-        "LAP": {
-            "name": "Larache",
-            "division": "province",
-            "parent": "MA 01",
-            "lat": 35.1833333,
-            "lng": -6.149999999999977
-        },
-        "MED": {
-            "name": "M\u00e9diouna",
-            "division": "province",
-            "parent": "MA 08",
-            "lat": 33.4519444,
-            "lng": -7.521111099999985
-        },
-        "MOU": {
-            "name": "Moulay Yacoub",
-            "division": "province",
-            "parent": "MA 05",
-            "lat": 34.0710096,
-            "lng": -5.173186399999963
-        },
-        "NAD": {
-            "name": "Nador",
-            "division": "province",
-            "parent": "MA 04",
-            "lat": 35.1666667,
-            "lng": -2.9333332999999584
-        },
-        "NOU": {
-            "name": "Nouaceur",
-            "division": "province",
-            "parent": "MA 08"
-        },
-        "OUA": {
-            "name": "Ouarzazate",
-            "division": "province",
-            "parent": "MA 13",
-            "lat": 30.91987,
-            "lng": -6.8935390000000325
-        },
-        "OUD": {
-            "name": "Oued ed Dahab (EH)",
-            "division": "province",
-            "parent": "MA 16"
-        },
-        "SAF": {
-            "name": "Safi",
-            "division": "province",
-            "parent": "MA 10",
-            "lat": 32.310059,
-            "lng": -9.236617000000024
-        },
-        "SEF": {
-            "name": "Sefrou",
-            "division": "province",
-            "parent": "MA 05",
-            "lat": 33.835737,
-            "lng": -4.844277000000034
-        },
-        "SET": {
-            "name": "Settat",
-            "division": "province",
-            "parent": "MA 09",
-            "lat": 33,
-            "lng": -7.616666699999996
-        },
-        "SIK": {
-            "name": "Sidl Kacem",
-            "division": "province",
-            "parent": "MA 02"
-        },
-        "TNT": {
-            "name": "Tan-Tan",
-            "division": "province",
-            "parent": "MA 14",
-            "lat": 28.4387869,
-            "lng": -11.105125899999962
-        },
-        "TAO": {
-            "name": "Taounate",
-            "division": "province",
-            "parent": "MA 03",
-            "lat": 34.5358333,
-            "lng": -4.639999999999986
-        },
-        "TAI": {
-            "name": "Taourirt",
-            "division": "province",
-            "parent": "MA 04",
-            "lat": 34.416667,
-            "lng": -2.8999999999999773
-        },
-        "TAR": {
-            "name": "Taroudant",
-            "division": "province",
-            "parent": "MA 13",
-            "lat": 30.4669444,
-            "lng": -8.879999999999995
-        },
-        "TAT": {
-            "name": "Tata",
-            "division": "province",
-            "parent": "MA 14",
-            "lat": 29.742941,
-            "lng": -7.972598999999946
-        },
-        "TAZ": {
-            "name": "Taza",
-            "division": "province",
-            "parent": "MA 03",
-            "lat": 34.2238889,
-            "lng": -4.0066666999999825
-        },
-        "TIZ": {
-            "name": "Tiznit",
-            "division": "province",
-            "parent": "MA 13",
-            "lat": 29.707649,
-            "lng": -9.733338000000003
-        },
-        "ZAG": {
-            "name": "Zagora",
-            "division": "province",
-            "parent": "MA 13",
-            "lat": 30.3305556,
-            "lng": -5.8380555999999615
-        },
-        "AGD": {
-            "name": "Agadir-Ida-Outanane",
-            "division": "prefecture",
-            "parent": "MA 13",
-            "lat": 30.4210469,
-            "lng": -9.604387299999985
-        },
-        "AOU": {
-            "name": "Aousserd",
-            "division": "prefecture",
-            "parent": "MA 16"
-        },
-        "CAS": {
-            "name": "Casablanca [Dar el Be\u00efda]",
-            "division": "prefecture",
-            "parent": "MA 08",
-            "lat": 33.55611,
-            "lng": -7.661666999999966
-        },
-        "FAH": {
-            "name": "Fahs-Beni Makada",
-            "division": "prefecture",
-            "parent": "MA 01"
-        },
-        "FES": {
-            "name": "F\u00e8s-Dar-Dbibegh",
-            "division": "prefecture",
-            "parent": "MA 05"
-        },
-        "INE": {
-            "name": "Inezgane-Ait Melloul",
-            "division": "prefecture",
-            "parent": "MA 13",
-            "lat": 30.3616651,
-            "lng": -9.532109499999933
-        },
-        "MMD": {
-            "name": "Marrakech-Medina",
-            "division": "prefecture",
-            "parent": "MA 11",
-            "lat": 31.6208007,
-            "lng": -7.983809699999938
-        },
-        "MMN": {
-            "name": "Marrakech-Menara",
-            "division": "prefecture",
-            "parent": "MA 11",
-            "lat": 31.6142404,
-            "lng": -8.02061040000001
-        },
-        "MEK": {
-            "name": "Mekn\u00e8s",
-            "division": "prefecture",
-            "parent": "MA 06",
-            "lat": 33.883335,
-            "lng": -5.519027999999935
-        },
-        "MOH": {
-            "name": "Mohammadia",
-            "division": "prefecture",
-            "parent": "MA 08"
-        },
-        "OUJ": {
-            "name": "Oujda-Angad",
-            "division": "prefecture",
-            "parent": "MA 04",
-            "lat": 34.786111,
-            "lng": -1.9255560000000287
-        },
-        "RAB": {
-            "name": "Rabat",
-            "division": "prefecture",
-            "parent": "MA 07",
-            "lat": 34.015049,
-            "lng": -6.832719999999995
-        },
-        "SAL": {
-            "name": "Sal\u00e9",
-            "division": "prefecture",
-            "parent": "MA 07",
-            "lat": 34.0333333,
-            "lng": -6.7999999999999545
-        },
-        "SYB": {
-            "name": "Sidi Youssef Ben Ali",
-            "division": "prefecture",
-            "parent": "MA 11",
-            "lat": 31.6333333,
-            "lng": -8
-        },
-        "SKH": {
-            "name": "Skhirate-T\u00e9mara",
-            "division": "prefecture",
-            "parent": "MA 07"
-        },
-        "TNG": {
-            "name": "Tanger-Assilah",
-            "division": "prefecture",
-            "parent": "MA 01",
-            "lat": 35.7666667,
-            "lng": -5.7999999999999545
-        },
-        "TET": {
-            "name": "T\u00e9touan",
-            "division": "prefecture",
-            "parent": "MA 01",
-            "lat": 35.57621,
-            "lng": -5.368434999999977
         }
     }
 }

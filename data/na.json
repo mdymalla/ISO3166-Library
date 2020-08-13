@@ -43,25 +43,6 @@
             "lat": 36.778261,
             "lng": -119.41793239999998
         },
-        "KH": {
-            "name": "Khomas Region",
-            "code": "KH",
-            "names": {
-                "geonames": "Khomas",
-                "ru": "\u041a\u0445\u043e\u043c\u0430\u0441",
-                "en": "Khomas Region",
-                "ar": "\u0625\u0642\u0644\u064a\u0645 \u062e\u0648\u0645\u0627\u0633",
-                "de": "Khomas",
-                "es": "Khomas",
-                "fr": "Khomas",
-                "it": "Regione di Khomas",
-                "zh": "\u970d\u99ac\u65af\u5340"
-            },
-            "division": "region",
-            "parent": "NA",
-            "lat": -22.535498,
-            "lng": 16.747544999999946
-        },
         "ER": {
             "name": "Erongo Region",
             "code": "ER",
@@ -117,6 +98,37 @@
             "lat": null,
             "lng": null
         },
+        "KE": {
+            "name": "Kavango East",
+            "code": "KE",
+            "names": {
+                "geonames": "Kavango East",
+                "en": "Kavango East"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "KH": {
+            "name": "Khomas Region",
+            "code": "KH",
+            "names": {
+                "geonames": "Khomas",
+                "ru": "\u041a\u0445\u043e\u043c\u0430\u0441",
+                "en": "Khomas Region",
+                "ar": "\u0625\u0642\u0644\u064a\u0645 \u062e\u0648\u0645\u0627\u0633",
+                "de": "Khomas",
+                "es": "Khomas",
+                "fr": "Khomas",
+                "it": "Regione di Khomas",
+                "zh": "\u970d\u99ac\u65af\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": -22.535498,
+            "lng": 16.747544999999946
+        },
         "KU": {
             "name": "Kunene Region",
             "code": "KU",
@@ -136,18 +148,30 @@
             "lat": null,
             "lng": null
         },
-        "OW": {
-            "name": "Ohangwena Region",
-            "code": "OW",
+        "KW": {
+            "name": "Kavango West",
+            "code": "KW",
             "names": {
-                "geonames": "Ohangwena",
-                "ru": "\u041e\u0445\u0430\u043d\u0433\u0432\u0435\u043d\u0430",
-                "en": "Ohangwena Region",
-                "de": "Ohangwena",
-                "es": "Ohangwena",
-                "fr": "Ohangwena",
-                "it": "Regione di Ohangwena",
-                "zh": "\u5967\u6f22\u572d\u7d0d\u5340"
+                "geonames": "Kavango West",
+                "en": "Kavango West"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "OD": {
+            "name": "Otjozondjupa Region",
+            "code": "OD",
+            "names": {
+                "geonames": "Otjozondjupa",
+                "ru": "\u041e\u0447\u043e\u0441\u043e\u043d\u0434\u044c\u044e\u043f\u0430",
+                "en": "Otjozondjupa Region",
+                "de": "Otjozondjupa",
+                "es": "Otjozondjupa",
+                "fr": "Otjozondjupa",
+                "it": "Regione di Otjozondjupa",
+                "zh": "\u5967\u55ac\u5b97\u6731\u5e15\u5340"
             },
             "division": "region",
             "parent": "NA",
@@ -172,23 +196,11 @@
             "lat": -21.8466651,
             "lng": 19.188004699999965
         },
-        "OS": {
-            "name": "Omusati Region",
-            "code": "OS",
-            "names": {
-                "geonames": "Omusati",
-                "ru": "\u041e\u043c\u0443\u0441\u0430\u0442\u0438",
-                "en": "Omusati Region",
-                "de": "Omusati",
-                "es": "Omusati",
-                "fr": "Omusati",
-                "it": "Regione di Omusati",
-                "zh": "\u5967\u7a46\u85a9\u8482\u5340"
-            },
+        "OK": {
+            "name": "Okavango",
+            "code": "OK",
             "division": "region",
-            "parent": "NA",
-            "lat": null,
-            "lng": null
+            "parent": "NA"
         },
         "ON": {
             "name": "Oshana Region",
@@ -202,6 +214,24 @@
                 "fr": "Oshana",
                 "it": "Regione dell'Oshana",
                 "zh": "\u5967\u6c99\u7d0d\u5340"
+            },
+            "division": "region",
+            "parent": "NA",
+            "lat": null,
+            "lng": null
+        },
+        "OS": {
+            "name": "Omusati Region",
+            "code": "OS",
+            "names": {
+                "geonames": "Omusati",
+                "ru": "\u041e\u043c\u0443\u0441\u0430\u0442\u0438",
+                "en": "Omusati Region",
+                "de": "Omusati",
+                "es": "Omusati",
+                "fr": "Omusati",
+                "it": "Regione di Omusati",
+                "zh": "\u5967\u7a46\u85a9\u8482\u5340"
             },
             "division": "region",
             "parent": "NA",
@@ -226,52 +256,23 @@
             "lat": null,
             "lng": null
         },
-        "OD": {
-            "name": "Otjozondjupa Region",
-            "code": "OD",
+        "OW": {
+            "name": "Ohangwena Region",
+            "code": "OW",
             "names": {
-                "geonames": "Otjozondjupa",
-                "ru": "\u041e\u0447\u043e\u0441\u043e\u043d\u0434\u044c\u044e\u043f\u0430",
-                "en": "Otjozondjupa Region",
-                "de": "Otjozondjupa",
-                "es": "Otjozondjupa",
-                "fr": "Otjozondjupa",
-                "it": "Regione di Otjozondjupa",
-                "zh": "\u5967\u55ac\u5b97\u6731\u5e15\u5340"
+                "geonames": "Ohangwena",
+                "ru": "\u041e\u0445\u0430\u043d\u0433\u0432\u0435\u043d\u0430",
+                "en": "Ohangwena Region",
+                "de": "Ohangwena",
+                "es": "Ohangwena",
+                "fr": "Ohangwena",
+                "it": "Regione di Ohangwena",
+                "zh": "\u5967\u6f22\u572d\u7d0d\u5340"
             },
             "division": "region",
             "parent": "NA",
             "lat": null,
             "lng": null
-        },
-        "KE": {
-            "name": "Kavango East",
-            "code": "KE",
-            "names": {
-                "geonames": "Kavango East",
-                "en": "Kavango East"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "KW": {
-            "name": "Kavango West",
-            "code": "KW",
-            "names": {
-                "geonames": "Kavango West",
-                "en": "Kavango West"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "OK": {
-            "name": "Okavango",
-            "division": "region",
-            "parent": "NA"
         }
     }
 }

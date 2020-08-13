@@ -24,51 +24,19 @@
         "pt": "Maldivas"
     },
     "ISO3166-2": {
-        "04": {
-            "name": "Vaavu Atoll",
-            "code": "04",
+        "00": {
+            "name": "Alif Dhaal Atoll",
+            "code": "00",
             "names": {
-                "geonames": "Vaavu Atholhu",
-                "ru": "\u0412\u0430\u0430\u0432\u0443",
-                "en": "Vaavu Atoll",
-                "es": "Atol\u00f3n Vaavu",
-                "fr": "Vaavu",
-                "it": "Atollo Vaavu"
+                "geonames": "Southern Ari Atoll",
+                "ru": "\u0410\u043b\u0438\u0444-\u0414\u0445\u0430\u0430\u043b",
+                "en": "Alif Dhaal Atoll",
+                "es": "Atol\u00f3n Alif Dhaal",
+                "fr": "Alif Dhaal",
+                "it": "Atollo Alif Dhaal"
             },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": 55.8848095,
-            "lng": 12.936958799999957
-        },
-        "08": {
-            "name": "Thaa Atoll",
-            "code": "08",
-            "names": {
-                "geonames": "Thaa Atholhu",
-                "ru": "\u0422\u0445\u0430\u0430",
-                "en": "Thaa Atoll",
-                "es": "Atol\u00f3n Thaa",
-                "fr": "Atoll Kolhumadulu",
-                "it": "Atollo Thaa"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": 2.2055985,
-            "lng": 73.14261299999998
-        },
-        "24": {
-            "name": "Shaviyani Atoll",
-            "code": "24",
-            "names": {
-                "geonames": "Shaviyani Atholhu",
-                "ru": "\u0428\u0430\u0432\u0438\u0439\u0430\u043d\u0438",
-                "en": "Shaviyani Atoll",
-                "es": "Atol\u00f3n Shaviyani",
-                "fr": "Shaviyani",
-                "it": "Atollo Shaviyani"
-            },
-            "division": "atoll",
-            "parent": "MV",
+            "division": null,
+            "parent": null,
             "lat": null,
             "lng": null
         },
@@ -90,69 +58,21 @@
             "lat": -0.6932558,
             "lng": 73.15616569999997
         },
-        "13": {
-            "name": "Raa Atoll",
-            "code": "13",
+        "02": {
+            "name": "Alif Alif Atoll",
+            "code": "02",
             "names": {
-                "geonames": "Raa Atoll",
-                "ru": "\u0420\u0430\u0430",
-                "en": "Raa Atoll",
-                "de": "Raa",
-                "es": "Atol\u00f3n Raa",
-                "fr": "Raa",
-                "it": "Atollo Raa"
+                "geonames": "Northern Ari Atoll",
+                "ru": "\u0410\u043b\u0438\u0444-\u0410\u043b\u0438\u0444",
+                "en": "Alif Alif Atoll",
+                "es": "Atol\u00f3n Alif Alif",
+                "fr": "Alif Alif",
+                "it": "Atollo Alif Alif"
             },
             "division": "atoll",
             "parent": "MV",
-            "lat": -22.7186759,
-            "lng": -42.829285700000014
-        },
-        "25": {
-            "name": "Noonu Atoll",
-            "code": "25",
-            "names": {
-                "geonames": "Noonu Atoll",
-                "ru": "\u041d\u0443\u043d\u0443",
-                "en": "Noonu Atoll",
-                "es": "Atol\u00f3n Noonu",
-                "fr": "Noonu",
-                "it": "Atollo Noonu"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": 5.662222,
-            "lng": 73.2750618
-        },
-        "29": {
-            "name": "Gnaviyani Atoll",
-            "code": "29",
-            "names": {
-                "geonames": "Gnyaviyani Atoll",
-                "ru": "\u0413\u043d\u0430\u0432\u0438\u0439\u0430\u043d\u0438",
-                "en": "Gnaviyani Atoll",
-                "es": "Atol\u00f3n Gnaviyani",
-                "it": "Atollo Gnaviyani"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": null,
-            "lng": null
-        },
-        "12": {
-            "name": "Meemu Atoll",
-            "code": "12",
-            "names": {
-                "geonames": "Meemu Atholhu",
-                "ru": "\u041c\u0435\u0435\u043c\u0443",
-                "en": "Meemu Atoll",
-                "es": "Atol\u00f3n Meemu",
-                "fr": "Atoll Mulaku",
-                "it": "Atollo Meemu"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": 40.6482052,
-            "lng": 35.818781599999966
+            "lat": 3.9333333,
+            "lng": 72.71666670000002
         },
         "03": {
             "name": "Lhaviyani Atoll",
@@ -171,6 +91,22 @@
             "lat": 5.4449003,
             "lng": 73.3648829
         },
+        "04": {
+            "name": "Vaavu Atoll",
+            "code": "04",
+            "names": {
+                "geonames": "Vaavu Atholhu",
+                "ru": "\u0412\u0430\u0430\u0432\u0443",
+                "en": "Vaavu Atoll",
+                "es": "Atol\u00f3n Vaavu",
+                "fr": "Vaavu",
+                "it": "Atollo Vaavu"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": 55.8848095,
+            "lng": 12.936958799999957
+        },
         "05": {
             "name": "Laamu Atoll",
             "code": "05",
@@ -181,39 +117,6 @@
                 "es": "Atol\u00f3n Laamu",
                 "fr": "Atoll Hadhdhunmathi",
                 "it": "Atollo Laamu"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": null,
-            "lng": null
-        },
-        "26": {
-            "name": "Kaafu Atoll",
-            "code": "26",
-            "names": {
-                "geonames": "Kaafu Atoll",
-                "ru": "\u041a\u0430\u0430\u0444\u0443",
-                "en": "Kaafu Atoll",
-                "de": "Kaafu",
-                "es": "Atol\u00f3n Kaafu",
-                "fr": "Kaafu",
-                "it": "Atollo Kaafu"
-            },
-            "division": "atoll",
-            "parent": "MV",
-            "lat": 4.9588188,
-            "lng": 73.46350419999999
-        },
-        "23": {
-            "name": "Haa Dhaalu Atoll",
-            "code": "23",
-            "names": {
-                "geonames": "Haa Dhaalu Atholhu",
-                "ru": "\u0425\u0430\u0430-\u0414\u0445\u0430\u0430\u043b\u0443",
-                "en": "Haa Dhaalu Atoll",
-                "es": "Atol\u00f3n Haa Dhaalu",
-                "fr": "Haa Dhaalu",
-                "it": "Atollo Haa Dhaalu"
             },
             "division": "atoll",
             "parent": "MV",
@@ -237,37 +140,62 @@
             "lat": 4.174639,
             "lng": 73.50310089999994
         },
-        "28": {
-            "name": "Gaafu Dhaalu Atoll",
-            "code": "28",
+        "08": {
+            "name": "Thaa Atoll",
+            "code": "08",
             "names": {
-                "geonames": "Gaafu Dhaalu Atholhu",
-                "ru": "\u0413\u0430\u0430\u0444\u0443-\u0414\u0445\u0430\u0430\u043b\u0443",
-                "en": "Gaafu Dhaalu Atoll",
-                "es": "Atol\u00f3n Gaafu Dhaalu",
-                "fr": "Gaafu Dhaalu",
-                "it": "Atollo Gaafu Dhaalu"
+                "geonames": "Thaa Atholhu",
+                "ru": "\u0422\u0445\u0430\u0430",
+                "en": "Thaa Atoll",
+                "es": "Atol\u00f3n Thaa",
+                "fr": "Atoll Kolhumadulu",
+                "it": "Atollo Thaa"
             },
             "division": "atoll",
             "parent": "MV",
-            "lat": null,
-            "lng": null
+            "lat": 2.2055985,
+            "lng": 73.14261299999998
         },
-        "27": {
-            "name": "Gaafu Alif Atoll",
-            "code": "27",
+        "MLE": {
+            "name": "Male",
+            "code": "MLE",
+            "division": "city",
+            "parent": "MV",
+            "lat": 4.175,
+            "lng": 73.50888889999999
+        },
+        "12": {
+            "name": "Meemu Atoll",
+            "code": "12",
             "names": {
-                "geonames": "Gaafu Alifu Atholhu",
-                "ru": "\u0413\u0430\u0430\u0444\u0443-\u0410\u043b\u0438\u0444",
-                "en": "Gaafu Alif Atoll",
-                "es": "Atol\u00f3n Gaafu Alif",
-                "fr": "Gaafu Alif",
-                "it": "Atollo Gaafu Alif"
+                "geonames": "Meemu Atholhu",
+                "ru": "\u041c\u0435\u0435\u043c\u0443",
+                "en": "Meemu Atoll",
+                "es": "Atol\u00f3n Meemu",
+                "fr": "Atoll Mulaku",
+                "it": "Atollo Meemu"
             },
             "division": "atoll",
             "parent": "MV",
-            "lat": null,
-            "lng": null
+            "lat": 40.6482052,
+            "lng": 35.818781599999966
+        },
+        "13": {
+            "name": "Raa Atoll",
+            "code": "13",
+            "names": {
+                "geonames": "Raa Atoll",
+                "ru": "\u0420\u0430\u0430",
+                "en": "Raa Atoll",
+                "de": "Raa",
+                "es": "Atol\u00f3n Raa",
+                "fr": "Raa",
+                "it": "Atollo Raa"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": -22.7186759,
+            "lng": -42.829285700000014
         },
         "14": {
             "name": "Faafu Atoll",
@@ -320,44 +248,117 @@
             "lat": 5.0232416,
             "lng": 72.83937689999993
         },
-        "02": {
-            "name": "Alif Alif Atoll",
-            "code": "02",
+        "23": {
+            "name": "Haa Dhaalu Atoll",
+            "code": "23",
             "names": {
-                "geonames": "Northern Ari Atoll",
-                "ru": "\u0410\u043b\u0438\u0444-\u0410\u043b\u0438\u0444",
-                "en": "Alif Alif Atoll",
-                "es": "Atol\u00f3n Alif Alif",
-                "fr": "Alif Alif",
-                "it": "Atollo Alif Alif"
+                "geonames": "Haa Dhaalu Atholhu",
+                "ru": "\u0425\u0430\u0430-\u0414\u0445\u0430\u0430\u043b\u0443",
+                "en": "Haa Dhaalu Atoll",
+                "es": "Atol\u00f3n Haa Dhaalu",
+                "fr": "Haa Dhaalu",
+                "it": "Atollo Haa Dhaalu"
             },
             "division": "atoll",
             "parent": "MV",
-            "lat": 3.9333333,
-            "lng": 72.71666670000002
-        },
-        "00": {
-            "name": "Alif Dhaal Atoll",
-            "code": "00",
-            "names": {
-                "geonames": "Southern Ari Atoll",
-                "ru": "\u0410\u043b\u0438\u0444-\u0414\u0445\u0430\u0430\u043b",
-                "en": "Alif Dhaal Atoll",
-                "es": "Atol\u00f3n Alif Dhaal",
-                "fr": "Alif Dhaal",
-                "it": "Atollo Alif Dhaal"
-            },
-            "division": null,
-            "parent": null,
             "lat": null,
             "lng": null
         },
-        "MLE": {
-            "name": "Male",
-            "division": "city",
+        "24": {
+            "name": "Shaviyani Atoll",
+            "code": "24",
+            "names": {
+                "geonames": "Shaviyani Atholhu",
+                "ru": "\u0428\u0430\u0432\u0438\u0439\u0430\u043d\u0438",
+                "en": "Shaviyani Atoll",
+                "es": "Atol\u00f3n Shaviyani",
+                "fr": "Shaviyani",
+                "it": "Atollo Shaviyani"
+            },
+            "division": "atoll",
             "parent": "MV",
-            "lat": 4.175,
-            "lng": 73.50888889999999
+            "lat": null,
+            "lng": null
+        },
+        "25": {
+            "name": "Noonu Atoll",
+            "code": "25",
+            "names": {
+                "geonames": "Noonu Atoll",
+                "ru": "\u041d\u0443\u043d\u0443",
+                "en": "Noonu Atoll",
+                "es": "Atol\u00f3n Noonu",
+                "fr": "Noonu",
+                "it": "Atollo Noonu"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": 5.662222,
+            "lng": 73.2750618
+        },
+        "26": {
+            "name": "Kaafu Atoll",
+            "code": "26",
+            "names": {
+                "geonames": "Kaafu Atoll",
+                "ru": "\u041a\u0430\u0430\u0444\u0443",
+                "en": "Kaafu Atoll",
+                "de": "Kaafu",
+                "es": "Atol\u00f3n Kaafu",
+                "fr": "Kaafu",
+                "it": "Atollo Kaafu"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": 4.9588188,
+            "lng": 73.46350419999999
+        },
+        "27": {
+            "name": "Gaafu Alif Atoll",
+            "code": "27",
+            "names": {
+                "geonames": "Gaafu Alifu Atholhu",
+                "ru": "\u0413\u0430\u0430\u0444\u0443-\u0410\u043b\u0438\u0444",
+                "en": "Gaafu Alif Atoll",
+                "es": "Atol\u00f3n Gaafu Alif",
+                "fr": "Gaafu Alif",
+                "it": "Atollo Gaafu Alif"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": null,
+            "lng": null
+        },
+        "28": {
+            "name": "Gaafu Dhaalu Atoll",
+            "code": "28",
+            "names": {
+                "geonames": "Gaafu Dhaalu Atholhu",
+                "ru": "\u0413\u0430\u0430\u0444\u0443-\u0414\u0445\u0430\u0430\u043b\u0443",
+                "en": "Gaafu Dhaalu Atoll",
+                "es": "Atol\u00f3n Gaafu Dhaalu",
+                "fr": "Gaafu Dhaalu",
+                "it": "Atollo Gaafu Dhaalu"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": null,
+            "lng": null
+        },
+        "29": {
+            "name": "Gnaviyani Atoll",
+            "code": "29",
+            "names": {
+                "geonames": "Gnyaviyani Atoll",
+                "ru": "\u0413\u043d\u0430\u0432\u0438\u0439\u0430\u043d\u0438",
+                "en": "Gnaviyani Atoll",
+                "es": "Atol\u00f3n Gnaviyani",
+                "it": "Atollo Gnaviyani"
+            },
+            "division": "atoll",
+            "parent": "MV",
+            "lat": null,
+            "lng": null
         }
     }
 }

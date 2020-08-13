@@ -45,24 +45,6 @@
             "lat": null,
             "lng": null
         },
-        "DU": {
-            "name": "Debub Region",
-            "code": "DU",
-            "names": {
-                "geonames": "Debub",
-                "ru": "\u0414\u044d\u0431\u0443\u0431",
-                "en": "Debub Region",
-                "de": "Debub",
-                "es": "Debub",
-                "fr": "Debub",
-                "it": "Regione del Sud",
-                "zh": "\u5357\u90e8\u5340"
-            },
-            "division": "province",
-            "parent": "ER",
-            "lat": null,
-            "lng": null
-        },
         "DK": {
             "name": "Southern Red Sea Region",
             "code": "DK",
@@ -75,6 +57,24 @@
                 "fr": "Debub-Keih-Bahri",
                 "it": "Regione del Mar Rosso Meridionale",
                 "zh": "\u5357\u7d05\u6d77\u5340"
+            },
+            "division": "province",
+            "parent": "ER",
+            "lat": null,
+            "lng": null
+        },
+        "DU": {
+            "name": "Debub Region",
+            "code": "DU",
+            "names": {
+                "geonames": "Debub",
+                "ru": "\u0414\u044d\u0431\u0443\u0431",
+                "en": "Debub Region",
+                "de": "Debub",
+                "es": "Debub",
+                "fr": "Debub",
+                "it": "Regione del Sud",
+                "zh": "\u5357\u90e8\u5340"
             },
             "division": "province",
             "parent": "ER",

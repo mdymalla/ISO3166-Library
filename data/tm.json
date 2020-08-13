@@ -25,25 +25,6 @@
         "pt": "Turquemenist\u00e3o"
     },
     "ISO3166-2": {
-        "B": {
-            "name": "Balkan Province",
-            "code": "B",
-            "names": {
-                "geonames": "Balkan",
-                "ru": "\u0411\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
-                "en": "Balkan Province",
-                "ar": "\u0628\u0644\u0642\u0627\u0646",
-                "de": "Balkan wela\u00fdaty",
-                "es": "Provincia de Balkan",
-                "fr": "Balkan",
-                "it": "Provincia di Balkan",
-                "zh": "\u5df4\u723e\u574e\u5dde"
-            },
-            "division": "region",
-            "parent": "TM",
-            "lat": 40.9468884,
-            "lng": 54.495243200000004
-        },
         "A": {
             "name": "Ahal Province",
             "code": "A",
@@ -62,24 +43,24 @@
             "lat": 38.8375215,
             "lng": 59.10417580000001
         },
-        "S": {
-            "name": "Ashgabat",
-            "code": "S",
+        "B": {
+            "name": "Balkan Province",
+            "code": "B",
             "names": {
-                "geonames": "Ashgabat",
-                "ru": "\u0410\u0448\u0445\u0430\u0431\u0430\u0434",
-                "en": "Ashgabat",
-                "ar": "\u0639\u0634\u0642 \u0622\u0628\u0627\u062f",
-                "de": "A\u015fgabat",
-                "es": "Asjabad",
-                "fr": "Achgabat",
-                "it": "A\u015fgabat",
-                "zh": "\u963f\u4ec0\u54c8\u5df4\u5fb7"
+                "geonames": "Balkan",
+                "ru": "\u0411\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Balkan Province",
+                "ar": "\u0628\u0644\u0642\u0627\u0646",
+                "de": "Balkan wela\u00fdaty",
+                "es": "Provincia de Balkan",
+                "fr": "Balkan",
+                "it": "Provincia di Balkan",
+                "zh": "\u5df4\u723e\u574e\u5dde"
             },
-            "division": "city",
+            "division": "region",
             "parent": "TM",
-            "lat": 37.950197,
-            "lng": 58.380223
+            "lat": 40.9468884,
+            "lng": 54.495243200000004
         },
         "D": {
             "name": "Da\u015foguz Province",
@@ -100,6 +81,24 @@
             "lat": 41.834461,
             "lng": 59.95732099999998
         },
+        "L": {
+            "name": "Lebap Province",
+            "code": "L",
+            "names": {
+                "geonames": "Lebap",
+                "ru": "\u041b\u0435\u0431\u0430\u043f\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
+                "en": "Lebap Province",
+                "de": "Lebap wela\u00fdaty",
+                "es": "Provincia de Lebap",
+                "fr": "Lebap",
+                "it": "Provincia di Lebap",
+                "zh": "\u5217\u5df4\u666e\u5dde"
+            },
+            "division": "region",
+            "parent": "TM",
+            "lat": 38.1272462,
+            "lng": 64.71624150000002
+        },
         "M": {
             "name": "Mary Province",
             "code": "M",
@@ -118,23 +117,24 @@
             "lat": 37.6,
             "lng": 61.83333330000005
         },
-        "L": {
-            "name": "Lebap Province",
-            "code": "L",
+        "S": {
+            "name": "Ashgabat",
+            "code": "S",
             "names": {
-                "geonames": "Lebap",
-                "ru": "\u041b\u0435\u0431\u0430\u043f\u0441\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442",
-                "en": "Lebap Province",
-                "de": "Lebap wela\u00fdaty",
-                "es": "Provincia de Lebap",
-                "fr": "Lebap",
-                "it": "Provincia di Lebap",
-                "zh": "\u5217\u5df4\u666e\u5dde"
+                "geonames": "Ashgabat",
+                "ru": "\u0410\u0448\u0445\u0430\u0431\u0430\u0434",
+                "en": "Ashgabat",
+                "ar": "\u0639\u0634\u0642 \u0622\u0628\u0627\u062f",
+                "de": "A\u015fgabat",
+                "es": "Asjabad",
+                "fr": "Achgabat",
+                "it": "A\u015fgabat",
+                "zh": "\u963f\u4ec0\u54c8\u5df4\u5fb7"
             },
-            "division": "region",
+            "division": "city",
             "parent": "TM",
-            "lat": 38.1272462,
-            "lng": 64.71624150000002
+            "lat": 37.950197,
+            "lng": 58.380223
         }
     }
 }

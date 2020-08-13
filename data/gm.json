@@ -24,86 +24,6 @@
         "pt": "G\u00e2mbia"
     },
     "ISO3166-2": {
-        "W": {
-            "name": "Western",
-            "code": "W",
-            "names": {
-                "geonames": "Western",
-                "en": "Western"
-            },
-            "division": "division",
-            "parent": "GM",
-            "lat": 13.2229202,
-            "lng": -16.581978899999967
-        },
-        "U": {
-            "name": "Upper River Division",
-            "code": "U",
-            "names": {
-                "geonames": "Upper River",
-                "ru": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0420\u0435\u043a\u0430",
-                "en": "Upper River Division",
-                "de": "Upper River Region",
-                "es": "Divisi\u00f3n Upper River",
-                "it": "Divisione dell'Upper River",
-                "zh": "\u4e0a\u6cb3\u5340"
-            },
-            "division": "division",
-            "parent": "GM",
-            "lat": 13.4257366,
-            "lng": -14.007234799999992
-        },
-        "N": {
-            "name": "North Bank Division",
-            "code": "N",
-            "names": {
-                "geonames": "North Bank",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433",
-                "en": "North Bank Division",
-                "de": "North Bank Region",
-                "es": "Divisi\u00f3n North Bank",
-                "it": "Divisione del North Bank",
-                "zh": "\u5317\u5cb8\u5340"
-            },
-            "division": "division",
-            "parent": "GM",
-            "lat": 13.5285436,
-            "lng": -16.016997100000026
-        },
-        "M": {
-            "name": "Central River Division",
-            "code": "M",
-            "names": {
-                "geonames": "Central River",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0420\u0435\u043a\u0430",
-                "en": "Central River Division",
-                "de": "Central River Region",
-                "es": "Divisi\u00f3n Central River",
-                "it": "Divisione del Central River",
-                "zh": "\u4e2d\u6cb3\u5340"
-            },
-            "division": "division",
-            "parent": "GM",
-            "lat": 13.5994469,
-            "lng": -14.892166800000041
-        },
-        "L": {
-            "name": "Lower River Division",
-            "code": "L",
-            "names": {
-                "geonames": "Lower River",
-                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0420\u0435\u043a\u0430",
-                "en": "Lower River Division",
-                "de": "Lower River Region",
-                "es": "Divisi\u00f3n Lower River",
-                "it": "Divisione del Lower River",
-                "zh": "\u4e0b\u6cb3\u5340"
-            },
-            "division": "division",
-            "parent": "GM",
-            "lat": 13.3553306,
-            "lng": -15.922990000000027
-        },
         "B": {
             "name": "Banjul",
             "code": "B",
@@ -122,6 +42,86 @@
             "parent": "GM",
             "lat": 13.4530556,
             "lng": -16.577499999999986
+        },
+        "L": {
+            "name": "Lower River Division",
+            "code": "L",
+            "names": {
+                "geonames": "Lower River",
+                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0420\u0435\u043a\u0430",
+                "en": "Lower River Division",
+                "de": "Lower River Region",
+                "es": "Divisi\u00f3n Lower River",
+                "it": "Divisione del Lower River",
+                "zh": "\u4e0b\u6cb3\u5340"
+            },
+            "division": "division",
+            "parent": "GM",
+            "lat": 13.3553306,
+            "lng": -15.922990000000027
+        },
+        "M": {
+            "name": "Central River Division",
+            "code": "M",
+            "names": {
+                "geonames": "Central River",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0420\u0435\u043a\u0430",
+                "en": "Central River Division",
+                "de": "Central River Region",
+                "es": "Divisi\u00f3n Central River",
+                "it": "Divisione del Central River",
+                "zh": "\u4e2d\u6cb3\u5340"
+            },
+            "division": "division",
+            "parent": "GM",
+            "lat": 13.5994469,
+            "lng": -14.892166800000041
+        },
+        "N": {
+            "name": "North Bank Division",
+            "code": "N",
+            "names": {
+                "geonames": "North Bank",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433",
+                "en": "North Bank Division",
+                "de": "North Bank Region",
+                "es": "Divisi\u00f3n North Bank",
+                "it": "Divisione del North Bank",
+                "zh": "\u5317\u5cb8\u5340"
+            },
+            "division": "division",
+            "parent": "GM",
+            "lat": 13.5285436,
+            "lng": -16.016997100000026
+        },
+        "U": {
+            "name": "Upper River Division",
+            "code": "U",
+            "names": {
+                "geonames": "Upper River",
+                "ru": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0420\u0435\u043a\u0430",
+                "en": "Upper River Division",
+                "de": "Upper River Region",
+                "es": "Divisi\u00f3n Upper River",
+                "it": "Divisione dell'Upper River",
+                "zh": "\u4e0a\u6cb3\u5340"
+            },
+            "division": "division",
+            "parent": "GM",
+            "lat": 13.4257366,
+            "lng": -14.007234799999992
+        },
+        "W": {
+            "name": "Western",
+            "code": "W",
+            "names": {
+                "geonames": "Western",
+                "en": "Western"
+            },
+            "division": "division",
+            "parent": "GM",
+            "lat": 13.2229202,
+            "lng": -16.581978899999967
         }
     }
 }

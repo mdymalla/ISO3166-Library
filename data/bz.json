@@ -25,77 +25,17 @@
         "pt": "Belize"
     },
     "ISO3166-2": {
-        "TOL": {
-            "name": "Toledo District",
-            "code": "TOL",
+        "BZ": {
+            "name": "Belize",
+            "code": "BZ",
             "names": {
-                "geonames": "Toledo",
-                "ru": "\u0422\u043e\u043b\u0435\u0434\u043e",
-                "en": "Toledo District",
-                "de": "Toledo District",
-                "es": "Distrito de Toledo",
-                "fr": "District de Toledo",
-                "it": "Distretto di Toledo",
-                "zh": "\u6258\u840a\u591a\u5340"
+                "geonames": "Belize",
+                "en": "Belize"
             },
             "division": "district",
             "parent": "BZ",
-            "lat": 16.1335101,
-            "lng": -88.81609530000003
-        },
-        "SC": {
-            "name": "Stann Creek District",
-            "code": "SC",
-            "names": {
-                "geonames": "Stann Creek",
-                "ru": "\u0421\u0442\u0430\u043d\u043d-\u041a\u0440\u0438\u043a",
-                "en": "Stann Creek District",
-                "de": "Stann Creek District",
-                "es": "Distrito de Stann Creek",
-                "fr": "District de Stann Creek",
-                "it": "Distretto di Stann Creek",
-                "zh": "\u65af\u5766\u514b\u91cc\u514b\u5340"
-            },
-            "division": "district",
-            "parent": "BZ",
-            "lat": 16.8116631,
+            "lat": 17.5677679,
             "lng": -88.40160409999999
-        },
-        "OW": {
-            "name": "Orange Walk District",
-            "code": "OW",
-            "names": {
-                "geonames": "Orange Walk",
-                "ru": "\u041e\u0440\u0438\u043d\u0434\u0436-\u0423\u043e\u043b\u043a",
-                "en": "Orange Walk District",
-                "de": "Orange Walk District",
-                "es": "Distrito de Orange Walk",
-                "fr": "District d'Orange Walk",
-                "it": "Distretto di Orange Walk",
-                "zh": "\u6a58\u5712\u5340"
-            },
-            "division": "district",
-            "parent": "BZ",
-            "lat": 18.083349,
-            "lng": -88.556671
-        },
-        "CZL": {
-            "name": "Corozal District",
-            "code": "CZL",
-            "names": {
-                "geonames": "Corozal",
-                "ru": "\u041a\u043e\u0440\u043e\u0441\u0430\u043b\u044c",
-                "en": "Corozal District",
-                "de": "Corozal District",
-                "es": "Distrito de Corozal",
-                "fr": "District de Corozal",
-                "it": "Distretto di Corozal",
-                "zh": "\u79d1\u7f85\u85a9\u723e\u5340"
-            },
-            "division": "district",
-            "parent": "BZ",
-            "lat": 18.39785,
-            "lng": -88.388443
         },
         "CY": {
             "name": "Cayo District",
@@ -115,17 +55,77 @@
             "lat": 17.0984445,
             "lng": -88.94138650000002
         },
-        "BZ": {
-            "name": "Belize",
-            "code": "BZ",
+        "CZL": {
+            "name": "Corozal District",
+            "code": "CZL",
             "names": {
-                "geonames": "Belize",
-                "en": "Belize"
+                "geonames": "Corozal",
+                "ru": "\u041a\u043e\u0440\u043e\u0441\u0430\u043b\u044c",
+                "en": "Corozal District",
+                "de": "Corozal District",
+                "es": "Distrito de Corozal",
+                "fr": "District de Corozal",
+                "it": "Distretto di Corozal",
+                "zh": "\u79d1\u7f85\u85a9\u723e\u5340"
             },
             "division": "district",
             "parent": "BZ",
-            "lat": 17.5677679,
+            "lat": 18.39785,
+            "lng": -88.388443
+        },
+        "OW": {
+            "name": "Orange Walk District",
+            "code": "OW",
+            "names": {
+                "geonames": "Orange Walk",
+                "ru": "\u041e\u0440\u0438\u043d\u0434\u0436-\u0423\u043e\u043b\u043a",
+                "en": "Orange Walk District",
+                "de": "Orange Walk District",
+                "es": "Distrito de Orange Walk",
+                "fr": "District d'Orange Walk",
+                "it": "Distretto di Orange Walk",
+                "zh": "\u6a58\u5712\u5340"
+            },
+            "division": "district",
+            "parent": "BZ",
+            "lat": 18.083349,
+            "lng": -88.556671
+        },
+        "SC": {
+            "name": "Stann Creek District",
+            "code": "SC",
+            "names": {
+                "geonames": "Stann Creek",
+                "ru": "\u0421\u0442\u0430\u043d\u043d-\u041a\u0440\u0438\u043a",
+                "en": "Stann Creek District",
+                "de": "Stann Creek District",
+                "es": "Distrito de Stann Creek",
+                "fr": "District de Stann Creek",
+                "it": "Distretto di Stann Creek",
+                "zh": "\u65af\u5766\u514b\u91cc\u514b\u5340"
+            },
+            "division": "district",
+            "parent": "BZ",
+            "lat": 16.8116631,
             "lng": -88.40160409999999
+        },
+        "TOL": {
+            "name": "Toledo District",
+            "code": "TOL",
+            "names": {
+                "geonames": "Toledo",
+                "ru": "\u0422\u043e\u043b\u0435\u0434\u043e",
+                "en": "Toledo District",
+                "de": "Toledo District",
+                "es": "Distrito de Toledo",
+                "fr": "District de Toledo",
+                "it": "Distretto di Toledo",
+                "zh": "\u6258\u840a\u591a\u5340"
+            },
+            "division": "district",
+            "parent": "BZ",
+            "lat": 16.1335101,
+            "lng": -88.81609530000003
         }
     }
 }

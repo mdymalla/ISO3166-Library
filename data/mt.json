@@ -205,6 +205,41 @@
             "lat": 30.527739,
             "lng": -99.85257590000003
         },
+        "11": {
+            "name": "Gudja",
+            "code": "11",
+            "names": {
+                "geonames": "Il-Gudja",
+                "ru": "\u0413\u0443\u0434\u044c\u044f",
+                "en": "Gudja",
+                "de": "Gudja",
+                "es": "Gudja",
+                "fr": "Gudja",
+                "it": "Gudia"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8512182,
+            "lng": 14.502057100000002
+        },
+        "12": {
+            "name": "G\u017cira",
+            "code": "12",
+            "names": {
+                "geonames": "Il-Gzira",
+                "ru": "\u0413\u0437\u0438\u0440\u0430",
+                "en": "G\u017cira",
+                "de": "G\u017cira",
+                "es": "G\u017cira",
+                "fr": "G\u017cira",
+                "it": "Gezira",
+                "zh": "\u683c\u9f4a\u62c9"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.9037636,
+            "lng": 14.502175999999963
+        },
         "13": {
             "name": "G\u0127ajnsielem",
             "code": "13",
@@ -290,41 +325,6 @@
             "lat": 35.8479444,
             "lng": 14.5189838
         },
-        "11": {
-            "name": "Gudja",
-            "code": "11",
-            "names": {
-                "geonames": "Il-Gudja",
-                "ru": "\u0413\u0443\u0434\u044c\u044f",
-                "en": "Gudja",
-                "de": "Gudja",
-                "es": "Gudja",
-                "fr": "Gudja",
-                "it": "Gudia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8512182,
-            "lng": 14.502057100000002
-        },
-        "12": {
-            "name": "G\u017cira",
-            "code": "12",
-            "names": {
-                "geonames": "Il-Gzira",
-                "ru": "\u0413\u0437\u0438\u0440\u0430",
-                "en": "G\u017cira",
-                "de": "G\u017cira",
-                "es": "G\u017cira",
-                "fr": "G\u017cira",
-                "it": "Gezira",
-                "zh": "\u683c\u9f4a\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9037636,
-            "lng": 14.502175999999963
-        },
         "18": {
             "name": "\u0126amrun",
             "code": "18",
@@ -359,96 +359,6 @@
             "parent": "MT",
             "lat": 35.8504373,
             "lng": 14.512087500000007
-        },
-        "29": {
-            "name": "Mdina",
-            "code": "29",
-            "names": {
-                "geonames": "L-Imdina",
-                "ru": "\u041c\u0434\u0438\u043d\u0430",
-                "en": "Mdina",
-                "ar": "\u0645\u062f\u064a\u0646\u0629",
-                "de": "Mdina",
-                "es": "Mdina",
-                "fr": "Mdina",
-                "it": "Medina",
-                "zh": "\u59c6\u8fea\u7eb3"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8568657,
-            "lng": 14.438607400000024
-        },
-        "31": {
-            "name": "M\u0121arr",
-            "code": "31",
-            "names": {
-                "geonames": "L-Imgarr",
-                "ru": "\u041c\u0434\u0436\u0430\u0440\u0440",
-                "en": "M\u0121arr",
-                "ar": "\u0645\u063a\u0627\u0631",
-                "de": "M\u0121arr",
-                "es": "M\u0121arr",
-                "fr": "M\u0121arr",
-                "it": "Mugiarro"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9194694,
-            "lng": 14.366321599999992
-        },
-        "33": {
-            "name": "Mqabba",
-            "code": "33",
-            "names": {
-                "geonames": "L-Imqabba",
-                "ru": "\u041c\u043a\u0430\u0431\u0431\u0430",
-                "en": "Mqabba",
-                "de": "Mqabba",
-                "es": "Mqabba",
-                "fr": "Mqabba",
-                "it": "Micabba"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8472885,
-            "lng": 14.453591299999971
-        },
-        "34": {
-            "name": "Msida",
-            "code": "34",
-            "names": {
-                "geonames": "L-Imsida",
-                "ru": "\u041c\u0441\u0438\u0434\u0430",
-                "en": "Msida",
-                "de": "Msida",
-                "es": "Msida",
-                "fr": "Msida",
-                "it": "Msida",
-                "zh": "\u59c6\u897f\u9054"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8997993,
-            "lng": 14.486613900000066
-        },
-        "35": {
-            "name": "Imtarfa",
-            "code": "35",
-            "names": {
-                "geonames": "L-Imtarfa",
-                "ru": "\u041c\u0442\u0430\u0440\u0444\u0430",
-                "en": "Imtarfa",
-                "ar": "\u0627\u0644\u0645\u0637\u0631\u0641\u0629",
-                "de": "Mtarfa",
-                "es": "Mtarfa",
-                "fr": "Mtarfa",
-                "it": "Marfa"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8907135,
-            "lng": 14.397900199999981
         },
         "20": {
             "name": "Senglea",
@@ -608,6 +518,25 @@
             "lat": 35.8514918,
             "lng": 14.531830899999932
         },
+        "29": {
+            "name": "Mdina",
+            "code": "29",
+            "names": {
+                "geonames": "L-Imdina",
+                "ru": "\u041c\u0434\u0438\u043d\u0430",
+                "en": "Mdina",
+                "ar": "\u0645\u062f\u064a\u0646\u0629",
+                "de": "Mdina",
+                "es": "Mdina",
+                "fr": "Mdina",
+                "it": "Medina",
+                "zh": "\u59c6\u8fea\u7eb3"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8568657,
+            "lng": 14.438607400000024
+        },
         "30": {
             "name": "Mellie\u0127a",
             "code": "30",
@@ -627,6 +556,24 @@
             "lat": 35.9554241,
             "lng": 14.365363000000002
         },
+        "31": {
+            "name": "M\u0121arr",
+            "code": "31",
+            "names": {
+                "geonames": "L-Imgarr",
+                "ru": "\u041c\u0434\u0436\u0430\u0440\u0440",
+                "en": "M\u0121arr",
+                "ar": "\u0645\u063a\u0627\u0631",
+                "de": "M\u0121arr",
+                "es": "M\u0121arr",
+                "fr": "M\u0121arr",
+                "it": "Mugiarro"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.9194694,
+            "lng": 14.366321599999992
+        },
         "32": {
             "name": "Mosta",
             "code": "32",
@@ -644,6 +591,59 @@
             "parent": "MT",
             "lat": 35.909817,
             "lng": 14.425944999999956
+        },
+        "33": {
+            "name": "Mqabba",
+            "code": "33",
+            "names": {
+                "geonames": "L-Imqabba",
+                "ru": "\u041c\u043a\u0430\u0431\u0431\u0430",
+                "en": "Mqabba",
+                "de": "Mqabba",
+                "es": "Mqabba",
+                "fr": "Mqabba",
+                "it": "Micabba"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8472885,
+            "lng": 14.453591299999971
+        },
+        "34": {
+            "name": "Msida",
+            "code": "34",
+            "names": {
+                "geonames": "L-Imsida",
+                "ru": "\u041c\u0441\u0438\u0434\u0430",
+                "en": "Msida",
+                "de": "Msida",
+                "es": "Msida",
+                "fr": "Msida",
+                "it": "Msida",
+                "zh": "\u59c6\u897f\u9054"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8997993,
+            "lng": 14.486613900000066
+        },
+        "35": {
+            "name": "Imtarfa",
+            "code": "35",
+            "names": {
+                "geonames": "L-Imtarfa",
+                "ru": "\u041c\u0442\u0430\u0440\u0444\u0430",
+                "en": "Imtarfa",
+                "ar": "\u0627\u0644\u0645\u0637\u0631\u0641\u0629",
+                "de": "Mtarfa",
+                "es": "Mtarfa",
+                "fr": "Mtarfa",
+                "it": "Marfa"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8907135,
+            "lng": 14.397900199999981
         },
         "36": {
             "name": "Munxar",
@@ -801,6 +801,18 @@
             "lat": 35.8493543,
             "lng": 14.438388799999984
         },
+        "45": {
+            "name": "mt",
+            "code": "45",
+            "names": {
+                "geonames": "Victoria",
+                "en": "mt"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 36.0462147,
+            "lng": 14.239461399999982
+        },
         "46": {
             "name": "Rabat, Malta",
             "code": "46",
@@ -819,18 +831,6 @@
             "lat": 35.8816023,
             "lng": 14.449039800000037
         },
-        "45": {
-            "name": "mt",
-            "code": "45",
-            "names": {
-                "geonames": "Victoria",
-                "en": "mt"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0462147,
-            "lng": 14.239461399999982
-        },
         "47": {
             "name": "\u0126al Safi, Malta",
             "code": "47",
@@ -845,19 +845,6 @@
             "parent": "MT",
             "lat": 35.8449903,
             "lng": 14.50046969999994
-        },
-        "49": {
-            "name": "Saint John",
-            "code": "49",
-            "names": {
-                "geonames": "Saint John",
-                "ru": "\u0421\u0430\u043d-\u0414\u0436\u0443\u0430\u043d\u043d",
-                "en": "Saint John"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8864233,
-            "lng": 14.486503299999981
         },
         "48": {
             "name": "St. Julian's",
@@ -877,6 +864,19 @@
             "lat": 35.8873749,
             "lng": 14.517129000000068
         },
+        "49": {
+            "name": "Saint John",
+            "code": "49",
+            "names": {
+                "geonames": "Saint John",
+                "ru": "\u0421\u0430\u043d-\u0414\u0436\u0443\u0430\u043d\u043d",
+                "en": "Saint John"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8864233,
+            "lng": 14.486503299999981
+        },
         "50": {
             "name": "Saint Lawrence",
             "code": "50",
@@ -889,23 +889,6 @@
             "parent": "MT",
             "lat": 35.8861207,
             "lng": 14.518174499999986
-        },
-        "53": {
-            "name": "Santa Lu\u010bija, Malta",
-            "code": "53",
-            "names": {
-                "geonames": "Saint Lucia",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0447\u0438\u044f",
-                "de": "Santa Lu\u010bija",
-                "en": "Santa Lu\u010bija",
-                "es": "Santa Lu\u010bija",
-                "fr": "Santa Lu\u010bija",
-                "it": "Santa Lucia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8532564,
-            "lng": 14.53298129999996
         },
         "51": {
             "name": "St. Paul's Bay",
@@ -925,6 +908,40 @@
             "lat": 35.953041,
             "lng": 14.380867200000012
         },
+        "52": {
+            "name": "Sannat",
+            "code": "52",
+            "names": {
+                "geonames": "Sannat",
+                "ru": "\u0421\u0430\u043d\u043d\u0430\u0442",
+                "en": "Sannat",
+                "de": "Sannat",
+                "es": "Sannat",
+                "fr": "Sannat",
+                "it": "Sannat"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 36.0290762,
+            "lng": 14.243961600000034
+        },
+        "53": {
+            "name": "Santa Lu\u010bija, Malta",
+            "code": "53",
+            "names": {
+                "geonames": "Saint Lucia",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0447\u0438\u044f",
+                "de": "Santa Lu\u010bija",
+                "en": "Santa Lu\u010bija",
+                "es": "Santa Lu\u010bija",
+                "fr": "Santa Lu\u010bija",
+                "it": "Santa Lucia"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8532564,
+            "lng": 14.53298129999996
+        },
         "54": {
             "name": "Santa Venera",
             "code": "54",
@@ -942,23 +959,6 @@
             "parent": "MT",
             "lat": 35.8766873,
             "lng": 14.439033900000027
-        },
-        "52": {
-            "name": "Sannat",
-            "code": "52",
-            "names": {
-                "geonames": "Sannat",
-                "ru": "\u0421\u0430\u043d\u043d\u0430\u0442",
-                "en": "Sannat",
-                "de": "Sannat",
-                "es": "Sannat",
-                "fr": "Sannat",
-                "it": "Sannat"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0290762,
-            "lng": 14.243961600000034
         },
         "55": {
             "name": "Si\u0121\u0121iewi",
@@ -1049,6 +1049,25 @@
             "lat": 35.8691548,
             "lng": 14.50859730000002
         },
+        "60": {
+            "name": "Valletta",
+            "code": "60",
+            "names": {
+                "geonames": "Il-Belt Valletta",
+                "ru": "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430",
+                "en": "Valletta",
+                "ar": "\u0641\u0627\u0644\u064a\u062a\u0627",
+                "de": "Valletta",
+                "es": "La Valeta",
+                "fr": "La Valette",
+                "it": "La Valletta",
+                "zh": "\u74e6\u83b1\u5854"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8735785,
+            "lng": 14.503099399999996
+        },
         "61": {
             "name": "Xag\u0127ra",
             "code": "61",
@@ -1119,6 +1138,19 @@
             "lat": 35.8762631,
             "lng": 14.535899200000017
         },
+        "65": {
+            "name": "Iz-Zebbug",
+            "code": "65",
+            "names": {
+                "geonames": "Iz-Zebbug",
+                "ru": "\u0417\u0435\u0431\u0431\u0443\u0434\u0436",
+                "en": "Iz-Zebbug"
+            },
+            "division": "local council",
+            "parent": "MT",
+            "lat": 35.8747928,
+            "lng": 14.444065300000034
+        },
         "66": {
             "name": "\u017bebbu\u0121, Malta",
             "code": "66",
@@ -1136,19 +1168,6 @@
             "parent": "MT",
             "lat": 35.8749122,
             "lng": 14.477849900000024
-        },
-        "65": {
-            "name": "Iz-Zebbug",
-            "code": "65",
-            "names": {
-                "geonames": "Iz-Zebbug",
-                "ru": "\u0417\u0435\u0431\u0431\u0443\u0434\u0436",
-                "en": "Iz-Zebbug"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8747928,
-            "lng": 14.444065300000034
         },
         "67": {
             "name": "\u017bejtun",
@@ -1185,25 +1204,6 @@
             "parent": "MT",
             "lat": 35.8398639,
             "lng": 14.47093080000002
-        },
-        "60": {
-            "name": "Valletta",
-            "code": "60",
-            "names": {
-                "geonames": "Il-Belt Valletta",
-                "ru": "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430",
-                "en": "Valletta",
-                "ar": "\u0641\u0627\u0644\u064a\u062a\u0627",
-                "de": "Valletta",
-                "es": "La Valeta",
-                "fr": "La Valette",
-                "it": "La Valletta",
-                "zh": "\u74e6\u83b1\u5854"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8735785,
-            "lng": 14.503099399999996
         }
     }
 }

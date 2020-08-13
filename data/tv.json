@@ -24,36 +24,6 @@
         "pt": "Tuvalu"
     },
     "ISO3166-2": {
-        "NIU": {
-            "name": "Nui",
-            "code": "NIU",
-            "names": {
-                "geonames": "Nui",
-                "en": "Nui"
-            },
-            "division": "island council",
-            "parent": "TV",
-            "lat": -7.2666667,
-            "lng": 177.16666669999995
-        },
-        "NMA": {
-            "name": "Nanumea",
-            "code": "NMA",
-            "names": {
-                "geonames": "Nanumea",
-                "ru": "\u041d\u0430\u043d\u0443\u043c\u0435\u0430",
-                "en": "Nanumea",
-                "de": "Nanumea-Atoll",
-                "es": "Nanumea",
-                "fr": "Nanumea",
-                "it": "Nanumea",
-                "zh": "\u7d0d\u52aa\u6885\u963f\u74b0\u7901"
-            },
-            "division": "island council",
-            "parent": "TV",
-            "lat": null,
-            "lng": null
-        },
         "FUN": {
             "name": "Funafuti",
             "code": "FUN",
@@ -91,42 +61,6 @@
             "lat": -6.1064014,
             "lng": 177.33887670000001
         },
-        "NMG": {
-            "name": "Nanumanga",
-            "code": "NMG",
-            "names": {
-                "geonames": "Nanumanga",
-                "ru": "\u041d\u0430\u043d\u0443\u043c\u0430\u043d\u0433\u0430",
-                "en": "Nanumanga",
-                "de": "Nanumanga",
-                "es": "Nanumanga",
-                "fr": "Nanumaga",
-                "it": "Nanumaga",
-                "zh": "\u7eb3\u52aa\u66fc\u52a0\u5c9b"
-            },
-            "division": "island council",
-            "parent": "TV",
-            "lat": null,
-            "lng": null
-        },
-        "VAI": {
-            "name": "Vaitupu",
-            "code": "VAI",
-            "names": {
-                "geonames": "Vaitupu",
-                "ru": "\u0412\u0430\u0438\u0442\u0443\u043f\u0443",
-                "en": "Vaitupu",
-                "de": "Vaitupu",
-                "es": "Vaitupu",
-                "fr": "Vaitupu",
-                "it": "Vaitupu",
-                "zh": "\u5a53\u4f0a\u6258\u6ce2"
-            },
-            "division": "island council",
-            "parent": "TV",
-            "lat": -7.4916303,
-            "lng": 178.68079109999996
-        },
         "NKF": {
             "name": "Nukufetau",
             "code": "NKF",
@@ -162,6 +96,72 @@
             "parent": "TV",
             "lat": null,
             "lng": null
+        },
+        "NMA": {
+            "name": "Nanumea",
+            "code": "NMA",
+            "names": {
+                "geonames": "Nanumea",
+                "ru": "\u041d\u0430\u043d\u0443\u043c\u0435\u0430",
+                "en": "Nanumea",
+                "de": "Nanumea-Atoll",
+                "es": "Nanumea",
+                "fr": "Nanumea",
+                "it": "Nanumea",
+                "zh": "\u7d0d\u52aa\u6885\u963f\u74b0\u7901"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        },
+        "NMG": {
+            "name": "Nanumanga",
+            "code": "NMG",
+            "names": {
+                "geonames": "Nanumanga",
+                "ru": "\u041d\u0430\u043d\u0443\u043c\u0430\u043d\u0433\u0430",
+                "en": "Nanumanga",
+                "de": "Nanumanga",
+                "es": "Nanumanga",
+                "fr": "Nanumaga",
+                "it": "Nanumaga",
+                "zh": "\u7eb3\u52aa\u66fc\u52a0\u5c9b"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": null,
+            "lng": null
+        },
+        "NUI": {
+            "name": "Nui",
+            "code": "NUI",
+            "names": {
+                "geonames": "Nui",
+                "en": "Nui"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.2666667,
+            "lng": 177.16666669999995
+        },
+        "VAI": {
+            "name": "Vaitupu",
+            "code": "VAI",
+            "names": {
+                "geonames": "Vaitupu",
+                "ru": "\u0412\u0430\u0438\u0442\u0443\u043f\u0443",
+                "en": "Vaitupu",
+                "de": "Vaitupu",
+                "es": "Vaitupu",
+                "fr": "Vaitupu",
+                "it": "Vaitupu",
+                "zh": "\u5a53\u4f0a\u6258\u6ce2"
+            },
+            "division": "island council",
+            "parent": "TV",
+            "lat": -7.4916303,
+            "lng": 178.68079109999996
         }
     }
 }

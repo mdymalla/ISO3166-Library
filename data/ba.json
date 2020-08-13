@@ -26,6 +26,64 @@
         "pt": "B\u00f3snia e Herzegovina"
     },
     "ISO3166-2": {
+        "01": {
+            "name": "Unsko-sanski kanton",
+            "code": "01",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "02": {
+            "name": "Posavski kanton",
+            "code": "02",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "03": {
+            "name": "Tuzlanski kanton",
+            "code": "03",
+            "division": "canton",
+            "parent": "BA-BIH",
+            "lat": 44.458721,
+            "lng": 18.724666999999954
+        },
+        "04": {
+            "name": "Zeni\u010dko-dobojski kanton",
+            "code": "04",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "05": {
+            "name": "Bosansko-podrinjski kanton",
+            "code": "05",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "06": {
+            "name": "Srednjobosanski kanton",
+            "code": "06",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "07": {
+            "name": "Hercegova\u010dko-neretvanski kanton",
+            "code": "07",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "08": {
+            "name": "Zapadnohercegova\u010dki kanton",
+            "code": "08",
+            "division": "canton",
+            "parent": "BA-BIH"
+        },
+        "09": {
+            "name": "Kanton Sarajevo",
+            "code": "09",
+            "division": "canton",
+            "parent": "BA-BIH",
+            "lat": 43.824444,
+            "lng": 18.331388999999945
+        },
         "BIH": {
             "name": "Federation of Bosnia and Herzegovina",
             "code": "BIH",
@@ -39,25 +97,6 @@
                 "fr": "F\u00e9d\u00e9ration de Bosnie-et-Herz\u00e9govine",
                 "it": "Federazione di Bosnia ed Erzegovina",
                 "zh": "\u6ce2\u58eb\u5c3c\u4e9e\u8207\u8d6b\u585e\u54e5\u7dad\u7d0d\u806f\u90a6"
-            },
-            "division": "entity",
-            "parent": "BA",
-            "lat": null,
-            "lng": null
-        },
-        "SRP": {
-            "name": "Republika Srpska",
-            "code": "SRP",
-            "names": {
-                "geonames": "Srspka",
-                "ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0441\u043a\u0430\u044f",
-                "en": "Republika Srpska",
-                "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0635\u0631\u0628 \u0627\u0644\u0628\u0648\u0633\u0646\u0629",
-                "de": "Republika Srpska",
-                "es": "Rep\u00fablica Srpska",
-                "fr": "R\u00e9publique serbe de Bosnie",
-                "it": "Repubblica Serba di Bosnia ed Erzegovina",
-                "zh": "\u585e\u65cf\u5171\u548c\u570b"
             },
             "division": "entity",
             "parent": "BA",
@@ -82,61 +121,32 @@
             "lat": 44.87,
             "lng": 18.809999999999945
         },
-        "05": {
-            "name": "Bosansko-podrinjski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
-        },
-        "07": {
-            "name": "Hercegova\u010dko-neretvanski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
+        "SRP": {
+            "name": "Republika Srpska",
+            "code": "SRP",
+            "names": {
+                "geonames": "Srspka",
+                "ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0441\u043a\u0430\u044f",
+                "en": "Republika Srpska",
+                "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0635\u0631\u0628 \u0627\u0644\u0628\u0648\u0633\u0646\u0629",
+                "de": "Republika Srpska",
+                "es": "Rep\u00fablica Srpska",
+                "fr": "R\u00e9publique serbe de Bosnie",
+                "it": "Repubblica Serba di Bosnia ed Erzegovina",
+                "zh": "\u585e\u65cf\u5171\u548c\u570b"
+            },
+            "division": "entity",
+            "parent": "BA",
+            "lat": null,
+            "lng": null
         },
         "10": {
             "name": "Kanton br. 10 (Livanjski kanton)",
+            "code": "10",
             "division": "canton",
             "parent": "BA-BIH",
             "lat": 23.129163,
             "lng": 113.26443500000005
-        },
-        "09": {
-            "name": "Kanton Sarajevo",
-            "division": "canton",
-            "parent": "BA-BIH",
-            "lat": 43.824444,
-            "lng": 18.331388999999945
-        },
-        "02": {
-            "name": "Posavski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
-        },
-        "06": {
-            "name": "Srednjobosanski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
-        },
-        "03": {
-            "name": "Tuzlanski kanton",
-            "division": "canton",
-            "parent": "BA-BIH",
-            "lat": 44.458721,
-            "lng": 18.724666999999954
-        },
-        "01": {
-            "name": "Unsko-sanski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
-        },
-        "08": {
-            "name": "Zapadnohercegova\u010dki kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
-        },
-        "04": {
-            "name": "Zeni\u010dko-dobojski kanton",
-            "division": "canton",
-            "parent": "BA-BIH"
         }
     }
 }

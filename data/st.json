@@ -24,23 +24,6 @@
         "pt": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
     },
     "ISO3166-2": {
-        "S": {
-            "name": "S\u00e3o Tom\u00e9 Province",
-            "code": "S",
-            "names": {
-                "geonames": "Sao Tome Island",
-                "ru": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0435 \u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438",
-                "en": "S\u00e3o Tom\u00e9 Province",
-                "es": "Organizaci\u00f3n territorial de Santo Tom\u00e9 y Pr\u00edncipe",
-                "fr": "Subdivisions de Sao Tom\u00e9-et-Principe",
-                "it": "Suddivisioni di S\u00e3o Tom\u00e9 e Pr\u00edncipe",
-                "zh": "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4\u884c\u653f\u533a\u5212"
-            },
-            "division": "municipality",
-            "parent": "ST",
-            "lat": 0.336767,
-            "lng": 6.7277990000000045
-        },
         "P": {
             "name": "Pr\u00edncipe Province",
             "code": "P",
@@ -57,6 +40,23 @@
             "parent": "ST",
             "lat": 1.6139381,
             "lng": 7.405692799999997
+        },
+        "S": {
+            "name": "S\u00e3o Tom\u00e9 Province",
+            "code": "S",
+            "names": {
+                "geonames": "Sao Tome Island",
+                "ru": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0435 \u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438",
+                "en": "S\u00e3o Tom\u00e9 Province",
+                "es": "Organizaci\u00f3n territorial de Santo Tom\u00e9 y Pr\u00edncipe",
+                "fr": "Subdivisions de Sao Tom\u00e9-et-Principe",
+                "it": "Suddivisioni di S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+                "zh": "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4\u884c\u653f\u533a\u5212"
+            },
+            "division": "municipality",
+            "parent": "ST",
+            "lat": 0.336767,
+            "lng": 6.7277990000000045
         }
     }
 }

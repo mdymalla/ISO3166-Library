@@ -24,255 +24,23 @@
         "pt": "Bulg\u00e1ria"
     },
     "ISO3166-2": {
-        "17": {
-            "name": "Razgrad Province",
-            "code": "17",
+        "01": {
+            "name": "Blagoevgrad Province",
+            "code": "01",
             "names": {
-                "geonames": "Razgrad",
-                "ru": "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Razgrad Province",
-                "de": "Oblast Rasgrad",
-                "es": "Provincia de Razgrad",
-                "fr": "Razgrad",
-                "it": "Regione di Razgrad",
-                "zh": "\u62c9\u5179\u683c\u52d2\u5dde"
+                "geonames": "Blagoevgrad",
+                "ru": "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Blagoevgrad Province",
+                "de": "Oblast Blagoewgrad",
+                "es": "Provincia de Blagoevgrad",
+                "fr": "Blagoevgrad",
+                "it": "Regione di Blagoevgrad",
+                "zh": "\u5e03\u62c9\u683c\u8036\u592b\u683c\u52d2\u5dde"
             },
             "division": "region",
             "parent": "BG",
-            "lat": 43.525002,
-            "lng": 26.523126899999966
-        },
-        "12": {
-            "name": "Montana Province",
-            "code": "12",
-            "names": {
-                "geonames": "Montana",
-                "ru": "\u041c\u043e\u043d\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Montana Province",
-                "de": "Oblast Montana",
-                "es": "Provincia de Montana",
-                "fr": "Montana",
-                "it": "Regione di Montana",
-                "zh": "\u8499\u5854\u7d0d\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.4085848,
-            "lng": 23.225697399999945
-        },
-        "06": {
-            "name": "Vratsa Province",
-            "code": "06",
-            "names": {
-                "geonames": "Vratsa",
-                "ru": "\u0412\u0440\u0430\u0447\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Vratsa Province",
-                "de": "Oblast Wraza",
-                "es": "Provincia de Vratsa",
-                "fr": "Vratsa",
-                "it": "Regione di Vraca",
-                "zh": "\u5f17\u62c9\u5bdf\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.2038499,
-            "lng": 23.548784699999942
-        },
-        "03": {
-            "name": "Varna Province",
-            "code": "03",
-            "names": {
-                "geonames": "Varna",
-                "ru": "\u0412\u0430\u0440\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Varna Province",
-                "de": "Oblast Warna",
-                "es": "Provincia de Varna",
-                "fr": "Varna",
-                "it": "Regione di Varna",
-                "zh": "\u74e6\u723e\u7d0d\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.2166452,
-            "lng": 27.911805800000025
-        },
-        "08": {
-            "name": "Dobrich Province",
-            "code": "08",
-            "names": {
-                "geonames": "Dobrich",
-                "ru": "\u0414\u043e\u0431\u0440\u0438\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Dobrich Province",
-                "de": "Oblast Dobritsch",
-                "es": "Provincia de Dobrich",
-                "fr": "Dobritch",
-                "it": "Regione di Dobri\u010d",
-                "zh": "\u591a\u5e03\u91cc\u5947\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.5690224,
-            "lng": 27.827242399999932
-        },
-        "23": {
-            "name": "Sofia Province",
-            "code": "23",
-            "names": {
-                "geonames": "Sofia",
-                "ru": "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Sofia Province",
-                "de": "Oblast Sofia",
-                "es": "Provincia de Sof\u00eda",
-                "fr": "Sofia",
-                "it": "Regione di Sofia",
-                "zh": "\u7d22\u83f2\u4e9e\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 42.6169416,
-            "lng": 23.372608000000014
-        },
-        "18": {
-            "name": "Ruse Province",
-            "code": "18",
-            "names": {
-                "geonames": "Ruse",
-                "ru": "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Ruse Province",
-                "de": "Oblast Russe",
-                "es": "Provincia de Ruse",
-                "fr": "Rouss\u00e9",
-                "it": "Regione di Ruse",
-                "zh": "\u9b6f\u585e\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.8493782,
-            "lng": 25.95425339999997
-        },
-        "16": {
-            "name": "Plovdiv Province",
-            "code": "16",
-            "names": {
-                "geonames": "Plovdiv",
-                "ru": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Plovdiv Province",
-                "de": "Oblast Plowdiw",
-                "es": "Provincia de Plovdiv",
-                "fr": "Plovdiv",
-                "it": "Regione di Plovdiv",
-                "zh": "\u666e\u7f85\u592b\u8fea\u592b\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 42.1438409,
-            "lng": 24.749561500000027
-        },
-        "15": {
-            "name": "Pleven Province",
-            "code": "15",
-            "names": {
-                "geonames": "Pleven",
-                "ru": "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Pleven Province",
-                "de": "Oblast Plewen",
-                "es": "Provincia de Pleven",
-                "fr": "Pleven",
-                "it": "Regione di Pleven",
-                "zh": "\u666e\u5217\u6587\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.4082397,
-            "lng": 24.620304900000065
-        },
-        "14": {
-            "name": "Pernik Province",
-            "code": "14",
-            "names": {
-                "geonames": "Pernik",
-                "ru": "\u041f\u0435\u0440\u043d\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Pernik Province",
-                "de": "Oblast Pernik",
-                "es": "Provincia de Pernik",
-                "fr": "Pernik",
-                "it": "Regione di Pernik",
-                "zh": "\u4f69\u723e\u5c3c\u514b\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 42.6127807,
-            "lng": 23.046091199999978
-        },
-        "13": {
-            "name": "Pazardzhik Province",
-            "code": "13",
-            "names": {
-                "geonames": "Pazardzhik",
-                "ru": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Pazardzhik Province",
-                "de": "Oblast Pasardschik",
-                "es": "Provincia de Pazardzhik",
-                "fr": "Pazardjik",
-                "it": "Regione di Pazard\u017eik",
-                "zh": "\u5e15\u624e\u723e\u5409\u514b\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 42.1913161,
-            "lng": 24.332133099999965
-        },
-        "11": {
-            "name": "Lovech Province",
-            "code": "11",
-            "names": {
-                "geonames": "Lovech",
-                "ru": "\u041b\u043e\u0432\u0435\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Lovech Province",
-                "de": "Oblast Lowetsch",
-                "es": "Provincia de Lovech",
-                "fr": "Lovetch",
-                "it": "Regione di Love\u010d",
-                "zh": "\u6d1b\u7dad\u5947\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 43.1348381,
-            "lng": 24.717262300000016
-        },
-        "26": {
-            "name": "Haskovo Province",
-            "code": "26",
-            "names": {
-                "geonames": "Khaskovo",
-                "ru": "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Haskovo Province",
-                "de": "Oblast Chaskowo",
-                "es": "Provincia de Haskovo",
-                "fr": "Khaskovo",
-                "it": "Regione di Haskovo",
-                "zh": "\u54c8\u65af\u79d1\u6c83\u5dde"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 41.9312769,
-            "lng": 25.557212899999968
-        },
-        "22": {
-            "name": "Sofia",
-            "code": "22",
-            "names": {
-                "geonames": "Sofia-Capital",
-                "ru": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0421\u043e\u0444\u0438\u044f",
-                "en": "Sofia",
-                "de": "Oblast Sofia-Stadt",
-                "es": "Provincia de Sof\u00eda-Ciudad",
-                "fr": "Sofia-ville"
-            },
-            "division": "region",
-            "parent": "BG",
-            "lat": 42.6976262,
-            "lng": 23.322283900000002
+            "lat": 42.0224879,
+            "lng": 23.09474069999999
         },
         "02": {
             "name": "Burgas Province",
@@ -292,23 +60,77 @@
             "lat": 42.4976779,
             "lng": 27.47002539999994
         },
-        "01": {
-            "name": "Blagoevgrad Province",
-            "code": "01",
+        "03": {
+            "name": "Varna Province",
+            "code": "03",
             "names": {
-                "geonames": "Blagoevgrad",
-                "ru": "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Blagoevgrad Province",
-                "de": "Oblast Blagoewgrad",
-                "es": "Provincia de Blagoevgrad",
-                "fr": "Blagoevgrad",
-                "it": "Regione di Blagoevgrad",
-                "zh": "\u5e03\u62c9\u683c\u8036\u592b\u683c\u52d2\u5dde"
+                "geonames": "Varna",
+                "ru": "\u0412\u0430\u0440\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Varna Province",
+                "de": "Oblast Warna",
+                "es": "Provincia de Varna",
+                "fr": "Varna",
+                "it": "Regione di Varna",
+                "zh": "\u74e6\u723e\u7d0d\u5dde"
             },
             "division": "region",
             "parent": "BG",
-            "lat": 42.0224879,
-            "lng": 23.09474069999999
+            "lat": 43.2166452,
+            "lng": 27.911805800000025
+        },
+        "04": {
+            "name": "Veliko Tarnovo Province",
+            "code": "04",
+            "names": {
+                "geonames": "Veliko Turnovo",
+                "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u044b\u0440\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Veliko Tarnovo Province",
+                "de": "Oblast Weliko Tarnowo",
+                "es": "Provincia de Veliko Tarnovo",
+                "fr": "Veliko Tarnovo",
+                "it": "Regione di Veliko T\u0103rnovo",
+                "zh": "\u5927\u7279\u723e\u8afe\u6c83\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.0785562,
+            "lng": 25.627157399999987
+        },
+        "05": {
+            "name": "Vidin Province",
+            "code": "05",
+            "names": {
+                "geonames": "Vidin",
+                "ru": "\u0412\u0438\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Vidin Province",
+                "de": "Oblast Widin",
+                "es": "Provincia de Vidin",
+                "fr": "Vidin",
+                "it": "Regione di Vidin",
+                "zh": "\u7dad\u4e01\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.9933323,
+            "lng": 22.875761399999988
+        },
+        "06": {
+            "name": "Vratsa Province",
+            "code": "06",
+            "names": {
+                "geonames": "Vratsa",
+                "ru": "\u0412\u0440\u0430\u0447\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Vratsa Province",
+                "de": "Oblast Wraza",
+                "es": "Provincia de Vratsa",
+                "fr": "Vratsa",
+                "it": "Regione di Vraca",
+                "zh": "\u5f17\u62c9\u5bdf\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.2038499,
+            "lng": 23.548784699999942
         },
         "07": {
             "name": "Gabrovo Province",
@@ -327,6 +149,24 @@
             "parent": "BG",
             "lat": 42.8742242,
             "lng": 25.318937499999947
+        },
+        "08": {
+            "name": "Dobrich Province",
+            "code": "08",
+            "names": {
+                "geonames": "Dobrich",
+                "ru": "\u0414\u043e\u0431\u0440\u0438\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Dobrich Province",
+                "de": "Oblast Dobritsch",
+                "es": "Provincia de Dobrich",
+                "fr": "Dobritch",
+                "it": "Regione di Dobri\u010d",
+                "zh": "\u591a\u5e03\u91cc\u5947\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.5690224,
+            "lng": 27.827242399999932
         },
         "09": {
             "name": "Kardzhali Province",
@@ -364,23 +204,149 @@
             "lat": 42.281243,
             "lng": 22.688237500000014
         },
-        "27": {
-            "name": "Shumen Province",
-            "code": "27",
+        "11": {
+            "name": "Lovech Province",
+            "code": "11",
             "names": {
-                "geonames": "Shumen",
-                "ru": "\u0428\u0443\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Shumen Province",
-                "de": "Oblast Schumen",
-                "es": "Provincia de Shumen",
-                "fr": "Choumen",
-                "it": "Regione di \u0160umen",
-                "zh": "\u8212\u9580\u5dde"
+                "geonames": "Lovech",
+                "ru": "\u041b\u043e\u0432\u0435\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Lovech Province",
+                "de": "Oblast Lowetsch",
+                "es": "Provincia de Lovech",
+                "fr": "Lovetch",
+                "it": "Regione di Love\u010d",
+                "zh": "\u6d1b\u7dad\u5947\u5dde"
             },
             "division": "region",
             "parent": "BG",
-            "lat": 43.2706037,
-            "lng": 26.923377200000004
+            "lat": 43.1348381,
+            "lng": 24.717262300000016
+        },
+        "12": {
+            "name": "Montana Province",
+            "code": "12",
+            "names": {
+                "geonames": "Montana",
+                "ru": "\u041c\u043e\u043d\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Montana Province",
+                "de": "Oblast Montana",
+                "es": "Provincia de Montana",
+                "fr": "Montana",
+                "it": "Regione di Montana",
+                "zh": "\u8499\u5854\u7d0d\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.4085848,
+            "lng": 23.225697399999945
+        },
+        "13": {
+            "name": "Pazardzhik Province",
+            "code": "13",
+            "names": {
+                "geonames": "Pazardzhik",
+                "ru": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Pazardzhik Province",
+                "de": "Oblast Pasardschik",
+                "es": "Provincia de Pazardzhik",
+                "fr": "Pazardjik",
+                "it": "Regione di Pazard\u017eik",
+                "zh": "\u5e15\u624e\u723e\u5409\u514b\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.1913161,
+            "lng": 24.332133099999965
+        },
+        "14": {
+            "name": "Pernik Province",
+            "code": "14",
+            "names": {
+                "geonames": "Pernik",
+                "ru": "\u041f\u0435\u0440\u043d\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Pernik Province",
+                "de": "Oblast Pernik",
+                "es": "Provincia de Pernik",
+                "fr": "Pernik",
+                "it": "Regione di Pernik",
+                "zh": "\u4f69\u723e\u5c3c\u514b\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6127807,
+            "lng": 23.046091199999978
+        },
+        "15": {
+            "name": "Pleven Province",
+            "code": "15",
+            "names": {
+                "geonames": "Pleven",
+                "ru": "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Pleven Province",
+                "de": "Oblast Plewen",
+                "es": "Provincia de Pleven",
+                "fr": "Pleven",
+                "it": "Regione di Pleven",
+                "zh": "\u666e\u5217\u6587\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.4082397,
+            "lng": 24.620304900000065
+        },
+        "16": {
+            "name": "Plovdiv Province",
+            "code": "16",
+            "names": {
+                "geonames": "Plovdiv",
+                "ru": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Plovdiv Province",
+                "de": "Oblast Plowdiw",
+                "es": "Provincia de Plovdiv",
+                "fr": "Plovdiv",
+                "it": "Regione di Plovdiv",
+                "zh": "\u666e\u7f85\u592b\u8fea\u592b\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.1438409,
+            "lng": 24.749561500000027
+        },
+        "17": {
+            "name": "Razgrad Province",
+            "code": "17",
+            "names": {
+                "geonames": "Razgrad",
+                "ru": "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Razgrad Province",
+                "de": "Oblast Rasgrad",
+                "es": "Provincia de Razgrad",
+                "fr": "Razgrad",
+                "it": "Regione di Razgrad",
+                "zh": "\u62c9\u5179\u683c\u52d2\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.525002,
+            "lng": 26.523126899999966
+        },
+        "18": {
+            "name": "Ruse Province",
+            "code": "18",
+            "names": {
+                "geonames": "Ruse",
+                "ru": "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Ruse Province",
+                "de": "Oblast Russe",
+                "es": "Provincia de Ruse",
+                "fr": "Rouss\u00e9",
+                "it": "Regione di Ruse",
+                "zh": "\u9b6f\u585e\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 43.8493782,
+            "lng": 25.95425339999997
         },
         "19": {
             "name": "Silistra Province",
@@ -436,6 +402,40 @@
             "lat": 41.5746569,
             "lng": 24.710780099999965
         },
+        "22": {
+            "name": "Sofia",
+            "code": "22",
+            "names": {
+                "geonames": "Sofia-Capital",
+                "ru": "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0421\u043e\u0444\u0438\u044f",
+                "en": "Sofia",
+                "de": "Oblast Sofia-Stadt",
+                "es": "Provincia de Sof\u00eda-Ciudad",
+                "fr": "Sofia-ville"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6976262,
+            "lng": 23.322283900000002
+        },
+        "23": {
+            "name": "Sofia Province",
+            "code": "23",
+            "names": {
+                "geonames": "Sofia",
+                "ru": "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Sofia Province",
+                "de": "Oblast Sofia",
+                "es": "Provincia de Sof\u00eda",
+                "fr": "Sofia",
+                "it": "Regione di Sofia",
+                "zh": "\u7d22\u83f2\u4e9e\u5dde"
+            },
+            "division": "region",
+            "parent": "BG",
+            "lat": 42.6169416,
+            "lng": 23.372608000000014
+        },
         "24": {
             "name": "Stara Zagora Province",
             "code": "24",
@@ -472,41 +472,41 @@
             "lat": 43.247125,
             "lng": 26.57281869999997
         },
-        "04": {
-            "name": "Veliko Tarnovo Province",
-            "code": "04",
+        "26": {
+            "name": "Haskovo Province",
+            "code": "26",
             "names": {
-                "geonames": "Veliko Turnovo",
-                "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u044b\u0440\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Veliko Tarnovo Province",
-                "de": "Oblast Weliko Tarnowo",
-                "es": "Provincia de Veliko Tarnovo",
-                "fr": "Veliko Tarnovo",
-                "it": "Regione di Veliko T\u0103rnovo",
-                "zh": "\u5927\u7279\u723e\u8afe\u6c83\u5dde"
+                "geonames": "Khaskovo",
+                "ru": "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Haskovo Province",
+                "de": "Oblast Chaskowo",
+                "es": "Provincia de Haskovo",
+                "fr": "Khaskovo",
+                "it": "Regione di Haskovo",
+                "zh": "\u54c8\u65af\u79d1\u6c83\u5dde"
             },
             "division": "region",
             "parent": "BG",
-            "lat": 43.0785562,
-            "lng": 25.627157399999987
+            "lat": 41.9312769,
+            "lng": 25.557212899999968
         },
-        "05": {
-            "name": "Vidin Province",
-            "code": "05",
+        "27": {
+            "name": "Shumen Province",
+            "code": "27",
             "names": {
-                "geonames": "Vidin",
-                "ru": "\u0412\u0438\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Vidin Province",
-                "de": "Oblast Widin",
-                "es": "Provincia de Vidin",
-                "fr": "Vidin",
-                "it": "Regione di Vidin",
-                "zh": "\u7dad\u4e01\u5dde"
+                "geonames": "Shumen",
+                "ru": "\u0428\u0443\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Shumen Province",
+                "de": "Oblast Schumen",
+                "es": "Provincia de Shumen",
+                "fr": "Choumen",
+                "it": "Regione di \u0160umen",
+                "zh": "\u8212\u9580\u5dde"
             },
             "division": "region",
             "parent": "BG",
-            "lat": 43.9933323,
-            "lng": 22.875761399999988
+            "lat": 43.2706037,
+            "lng": 26.923377200000004
         },
         "28": {
             "name": "Yambol Province",

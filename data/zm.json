@@ -36,67 +36,29 @@
             "lat": null,
             "lng": null
         },
-        "07": {
-            "name": "Southern",
-            "code": "07",
+        "02": {
+            "name": "Central",
+            "code": "02",
             "names": {
-                "geonames": "Southern",
-                "en": "Southern"
+                "geonames": "Central",
+                "en": "Central"
             },
             "division": "province",
             "parent": "ZM",
-            "lat": -17.8446645,
-            "lng": 25.86983209999994
+            "lat": -12.8240144,
+            "lng": 28.228057799999988
         },
-        "06": {
-            "name": "Northwestern Province, Zambia",
-            "code": "06",
+        "03": {
+            "name": "Eastern",
+            "code": "03",
             "names": {
-                "geonames": "North-Western",
-                "en": "Northwestern Province",
-                "ar": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u060c \u0632\u0627\u0645\u0628\u064a\u0627",
-                "de": "Nordwestprovinz",
-                "es": "Provincia del Noroeste",
-                "fr": "Province Nord-Occidentale",
-                "it": "Provincia Nord-Occidentale",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
-                "zh": "\u897f\u5317\u7701"
+                "geonames": "Eastern",
+                "en": "Eastern"
             },
             "division": "province",
             "parent": "ZM",
             "lat": null,
             "lng": null
-        },
-        "05": {
-            "name": "Northern",
-            "code": "05",
-            "names": {
-                "geonames": "Northern",
-                "en": "Northern"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": null,
-            "lng": null
-        },
-        "09": {
-            "name": "Lusaka Province",
-            "code": "09",
-            "names": {
-                "geonames": "Lusaka",
-                "ru": "\u041b\u0443\u0441\u0430\u043a\u0430",
-                "en": "Lusaka Province",
-                "ar": "\u0644\u0648\u0633\u0627\u0643\u0627",
-                "de": "Lusaka",
-                "es": "Provincia de Lusaka",
-                "fr": "Province de Lusaka",
-                "it": "Provincia di Lusaka",
-                "zh": "\u5362\u8428\u5361\u7701"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -15.408193,
-            "lng": 28.287166999999954
         },
         "04": {
             "name": "Luapula Province",
@@ -117,17 +79,48 @@
             "lat": -9.766667,
             "lng": 28.883332999999993
         },
-        "03": {
-            "name": "Eastern",
-            "code": "03",
+        "05": {
+            "name": "Northern",
+            "code": "05",
             "names": {
-                "geonames": "Eastern",
-                "en": "Eastern"
+                "geonames": "Northern",
+                "en": "Northern"
             },
             "division": "province",
             "parent": "ZM",
             "lat": null,
             "lng": null
+        },
+        "06": {
+            "name": "Northwestern Province, Zambia",
+            "code": "06",
+            "names": {
+                "geonames": "North-Western",
+                "en": "Northwestern Province",
+                "ar": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u060c \u0632\u0627\u0645\u0628\u064a\u0627",
+                "de": "Nordwestprovinz",
+                "es": "Provincia del Noroeste",
+                "fr": "Province Nord-Occidentale",
+                "it": "Provincia Nord-Occidentale",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+                "zh": "\u897f\u5317\u7701"
+            },
+            "division": "province",
+            "parent": "ZM",
+            "lat": null,
+            "lng": null
+        },
+        "07": {
+            "name": "Southern",
+            "code": "07",
+            "names": {
+                "geonames": "Southern",
+                "en": "Southern"
+            },
+            "division": "province",
+            "parent": "ZM",
+            "lat": -17.8446645,
+            "lng": 25.86983209999994
         },
         "08": {
             "name": "Copperbelt Province",
@@ -148,17 +141,24 @@
             "lat": -12.970351,
             "lng": 28.650541299999986
         },
-        "02": {
-            "name": "Central",
-            "code": "02",
+        "09": {
+            "name": "Lusaka Province",
+            "code": "09",
             "names": {
-                "geonames": "Central",
-                "en": "Central"
+                "geonames": "Lusaka",
+                "ru": "\u041b\u0443\u0441\u0430\u043a\u0430",
+                "en": "Lusaka Province",
+                "ar": "\u0644\u0648\u0633\u0627\u0643\u0627",
+                "de": "Lusaka",
+                "es": "Provincia de Lusaka",
+                "fr": "Province de Lusaka",
+                "it": "Provincia di Lusaka",
+                "zh": "\u5362\u8428\u5361\u7701"
             },
             "division": "province",
             "parent": "ZM",
-            "lat": -12.8240144,
-            "lng": 28.228057799999988
+            "lat": -15.408193,
+            "lng": 28.287166999999954
         },
         "10": {
             "name": "Muchinga",

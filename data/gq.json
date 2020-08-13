@@ -79,6 +79,12 @@
             "lat": null,
             "lng": null
         },
+        "C": {
+            "name": "Regi\u00f3n Continental",
+            "code": "C",
+            "division": "province",
+            "parent": "GQ"
+        },
         "CS": {
             "name": "Centro Sur Province",
             "code": "CS",
@@ -96,6 +102,12 @@
             "parent": "GQ",
             "lat": null,
             "lng": null
+        },
+        "I": {
+            "name": "Regi\u00f3n Insular",
+            "code": "I",
+            "division": "province",
+            "parent": "GQ"
         },
         "KN": {
             "name": "Ki\u00e9-Ntem Province",
@@ -150,16 +162,6 @@
             "parent": "GQ",
             "lat": null,
             "lng": null
-        },
-        "C": {
-            "name": "Regi\u00f3n Continental",
-            "division": "province",
-            "parent": "GQ"
-        },
-        "I": {
-            "name": "Regi\u00f3n Insular",
-            "division": "province",
-            "parent": "GQ"
         }
     }
 }

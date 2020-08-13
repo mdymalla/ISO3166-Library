@@ -24,114 +24,6 @@
         "pt": "Mong\u00f3lia"
     },
     "ISO3166-2": {
-        "046": {
-            "name": "Uvs Province",
-            "code": "046",
-            "names": {
-                "geonames": "Uvs",
-                "ru": "\u0423\u0432\u0441",
-                "en": "Uvs Province",
-                "de": "Uws-Aimag",
-                "es": "Uvs",
-                "fr": "Uvs",
-                "it": "Provincia dell'Uvs",
-                "zh": "\u4e4c\u5e03\u82cf\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 48.9906268,
-            "lng": 89.99350370000002
-        },
-        "043": {
-            "name": "Khovd Province",
-            "code": "043",
-            "names": {
-                "geonames": "Hovd",
-                "ru": "\u0425\u043e\u0432\u0434",
-                "en": "Khovd Province",
-                "de": "Chowd-Aimag",
-                "es": "Hovd",
-                "fr": "Hovd",
-                "it": "Provincia di Hovd",
-                "zh": "\u79d1\u5e03\u591a\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 48.0047,
-            "lng": 91.63613099999998
-        },
-        "065": {
-            "name": "Govi-Altai Province",
-            "code": "065",
-            "names": {
-                "geonames": "Govi-Altay",
-                "ru": "\u0413\u043e\u0432\u044c-\u0410\u043b\u0442\u0430\u0439",
-                "en": "Govi-Altai Province",
-                "de": "Gobi-Altai-Aimag",
-                "es": "Govi-Altay",
-                "fr": "Gobi-Alta\u00ef",
-                "it": "Provincia del Gov'-Altaj",
-                "zh": "\u6208\u58c1\u963f\u5c14\u6cf0\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 46.3727778,
-            "lng": 96.2572222
-        },
-        "057": {
-            "name": "Zavkhan Province",
-            "code": "057",
-            "names": {
-                "geonames": "Dzabkhan",
-                "ru": "\u0417\u0430\u0432\u0445\u0430\u043d",
-                "en": "Zavkhan Province",
-                "de": "Dsawchan-Aimag",
-                "es": "Zavhan",
-                "fr": "Zavhan",
-                "it": "Provincia del Zavhan",
-                "zh": "\u624e\u5e03\u6c57\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": null,
-            "lng": null
-        },
-        "071": {
-            "name": "Bayan-\u00d6lgii Province",
-            "code": "071",
-            "names": {
-                "geonames": "Bayan-Olgiy",
-                "ru": "\u0411\u0430\u044f\u043d-\u0423\u043b\u0433\u0438\u0439",
-                "en": "Bayan-\u00d6lgii Province",
-                "de": "Bajan-\u00d6lgii-Aimag",
-                "es": "Bayan-\u00d6lgiy",
-                "fr": "Bayan-\u00d6lgiy",
-                "it": "Provincia del Bajan-\u00d4lgij",
-                "zh": "\u5df4\u5f66\u4e4c\u5217\u76d6\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 48.9683333,
-            "lng": 89.96861109999998
-        },
-        "069": {
-            "name": "Bayankhongor Province",
-            "code": "069",
-            "names": {
-                "geonames": "Bayanhongor",
-                "ru": "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440",
-                "en": "Bayankhongor Province",
-                "de": "Bajanchongor-Aimag",
-                "es": "Bayanhongor",
-                "fr": "Bayanhongor",
-                "it": "Provincia di Bajanhongor",
-                "zh": "\u5df4\u5f66\u6d2a\u6208\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 46.1916667,
-            "lng": 100.71777780000002
-        },
         "1": {
             "name": "Ulan Bator",
             "code": "1",
@@ -151,113 +43,41 @@
             "lat": 47.921378,
             "lng": 106.90553999999997
         },
-        "047": {
-            "name": "T\u00f6v Province",
-            "code": "047",
+        "035": {
+            "name": "Orkhon Province",
+            "code": "035",
             "names": {
-                "geonames": "Central Aimak",
-                "ru": "\u0422\u0443\u0432\u0435",
-                "en": "T\u00f6v Province",
-                "de": "T\u00f6w-Aimag",
-                "es": "T\u00f6v",
-                "fr": "T\u00f6v",
-                "it": "Provincia del T\u00f4v",
-                "zh": "\u4e2d\u592e\u7701"
+                "geonames": "Orhon",
+                "ru": "\u041e\u0440\u0445\u043e\u043d",
+                "en": "Orkhon Province",
+                "de": "Orchon-Aimag",
+                "es": "Orhon",
+                "fr": "Orhon",
+                "it": "Provincia dell'Orhon",
+                "zh": "\u9102\u5c14\u6d51\u7701"
             },
-            "division": "province",
+            "division": "municipality",
             "parent": "MN",
             "lat": null,
             "lng": null
         },
-        "051": {
-            "name": "S\u00fckhbaatar Province",
-            "code": "051",
+        "037": {
+            "name": "Darkhan-Uul Province",
+            "code": "037",
             "names": {
-                "geonames": "Suhbaatar",
-                "ru": "\u0421\u0443\u0445\u044d-\u0411\u0430\u0442\u043e\u0440",
-                "en": "S\u00fckhbaatar Province",
-                "de": "S\u00fcchbaatar-Aimag",
-                "es": "S\u00fchbaatar",
-                "fr": "S\u00fchbaatar",
-                "it": "Provincia di S\u00f9hbaatar",
-                "zh": "\u82cf\u8d6b\u5df4\u6258\u5c14\u7701"
+                "geonames": "Darhan Uul",
+                "ru": "\u0414\u0430\u0440\u0445\u0430\u043d-\u0423\u0443\u043b",
+                "en": "Darkhan-Uul Province",
+                "de": "Darchan-Uul-Aimag",
+                "es": "Darhan-Uul",
+                "fr": "Darhan-Uul",
+                "it": "Provincia di Darhan-Uul",
+                "zh": "\u8fbe\u5c14\u6c57\u4e4c\u52d2\u7701"
             },
-            "division": "province",
+            "division": "municipality",
             "parent": "MN",
-            "lat": 46.887696,
-            "lng": 113.40535239999997
-        },
-        "049": {
-            "name": "Selenge Province",
-            "code": "049",
-            "names": {
-                "geonames": "Selenge",
-                "ru": "\u0421\u044d\u043b\u044d\u043d\u0433\u044d",
-                "en": "Selenge Province",
-                "de": "Selenge-Aimag",
-                "es": "Selenge",
-                "fr": "Selenge",
-                "it": "Provincia del S\u0117l\u0117ng\u0117",
-                "zh": "\u8272\u695e\u683c\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 50.2345827,
-            "lng": 106.20351430000005
-        },
-        "055": {
-            "name": "\u00d6v\u00f6rkhangai Province",
-            "code": "055",
-            "names": {
-                "geonames": "OEvoerhangay",
-                "ru": "\u0423\u0432\u0435\u0440\u0445\u0430\u043d\u0433\u0430\u0439",
-                "en": "\u00d6v\u00f6rkhangai Province",
-                "de": "\u00d6w\u00f6rchangai-Aimag",
-                "es": "\u00d6v\u00f6rhangay",
-                "fr": "\u00d6v\u00f6rhangay",
-                "it": "Provincia del \u00d4v\u00f4rhangaj",
-                "zh": "\u524d\u676d\u7231\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": null,
-            "lng": null
-        },
-        "053": {
-            "name": "\u00d6mn\u00f6govi Province",
-            "code": "053",
-            "names": {
-                "geonames": "OEmnoegovi",
-                "ru": "\u0423\u043c\u043d\u0435\u0433\u043e\u0432\u044c",
-                "en": "\u00d6mn\u00f6govi Province",
-                "de": "\u00d6mn\u00f6-Gobi-Aimag",
-                "es": "\u00d6mn\u00f6govi",
-                "fr": "\u00d6mn\u00f6govi",
-                "it": "Provincia dell'\u00d4mn\u00f4gov'",
-                "zh": "\u5357\u6208\u58c1\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": null,
-            "lng": null
-        },
-        "041": {
-            "name": "Kh\u00f6vsg\u00f6l Province",
-            "code": "041",
-            "names": {
-                "geonames": "Hovsgol",
-                "ru": "\u0425\u0443\u0432\u0441\u0433\u0435\u043b",
-                "en": "Kh\u00f6vsg\u00f6l Province",
-                "de": "Ch\u00f6wsg\u00f6l-Aimag",
-                "es": "H\u00f6vsg\u00f6l",
-                "fr": "H\u00f6vsg\u00f6l",
-                "it": "Provincia del H\u00f4vsg\u00f4l",
-                "zh": "\u5e93\u82cf\u53e4\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": null,
-            "lng": null
+            "lat": 49.0495592,
+            "lng": 105.3893137
         },
         "039": {
             "name": "Khentii Province",
@@ -277,6 +97,168 @@
             "lat": 48.094311,
             "lng": 109.80410000000006
         },
+        "041": {
+            "name": "Kh\u00f6vsg\u00f6l Province",
+            "code": "041",
+            "names": {
+                "geonames": "Hovsgol",
+                "ru": "\u0425\u0443\u0432\u0441\u0433\u0435\u043b",
+                "en": "Kh\u00f6vsg\u00f6l Province",
+                "de": "Ch\u00f6wsg\u00f6l-Aimag",
+                "es": "H\u00f6vsg\u00f6l",
+                "fr": "H\u00f6vsg\u00f6l",
+                "it": "Provincia del H\u00f4vsg\u00f4l",
+                "zh": "\u5e93\u82cf\u53e4\u5c14\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": null,
+            "lng": null
+        },
+        "043": {
+            "name": "Khovd Province",
+            "code": "043",
+            "names": {
+                "geonames": "Hovd",
+                "ru": "\u0425\u043e\u0432\u0434",
+                "en": "Khovd Province",
+                "de": "Chowd-Aimag",
+                "es": "Hovd",
+                "fr": "Hovd",
+                "it": "Provincia di Hovd",
+                "zh": "\u79d1\u5e03\u591a\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 48.0047,
+            "lng": 91.63613099999998
+        },
+        "046": {
+            "name": "Uvs Province",
+            "code": "046",
+            "names": {
+                "geonames": "Uvs",
+                "ru": "\u0423\u0432\u0441",
+                "en": "Uvs Province",
+                "de": "Uws-Aimag",
+                "es": "Uvs",
+                "fr": "Uvs",
+                "it": "Provincia dell'Uvs",
+                "zh": "\u4e4c\u5e03\u82cf\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 48.9906268,
+            "lng": 89.99350370000002
+        },
+        "047": {
+            "name": "T\u00f6v Province",
+            "code": "047",
+            "names": {
+                "geonames": "Central Aimak",
+                "ru": "\u0422\u0443\u0432\u0435",
+                "en": "T\u00f6v Province",
+                "de": "T\u00f6w-Aimag",
+                "es": "T\u00f6v",
+                "fr": "T\u00f6v",
+                "it": "Provincia del T\u00f4v",
+                "zh": "\u4e2d\u592e\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": null,
+            "lng": null
+        },
+        "049": {
+            "name": "Selenge Province",
+            "code": "049",
+            "names": {
+                "geonames": "Selenge",
+                "ru": "\u0421\u044d\u043b\u044d\u043d\u0433\u044d",
+                "en": "Selenge Province",
+                "de": "Selenge-Aimag",
+                "es": "Selenge",
+                "fr": "Selenge",
+                "it": "Provincia del S\u0117l\u0117ng\u0117",
+                "zh": "\u8272\u695e\u683c\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 50.2345827,
+            "lng": 106.20351430000005
+        },
+        "051": {
+            "name": "S\u00fckhbaatar Province",
+            "code": "051",
+            "names": {
+                "geonames": "Suhbaatar",
+                "ru": "\u0421\u0443\u0445\u044d-\u0411\u0430\u0442\u043e\u0440",
+                "en": "S\u00fckhbaatar Province",
+                "de": "S\u00fcchbaatar-Aimag",
+                "es": "S\u00fchbaatar",
+                "fr": "S\u00fchbaatar",
+                "it": "Provincia di S\u00f9hbaatar",
+                "zh": "\u82cf\u8d6b\u5df4\u6258\u5c14\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 46.887696,
+            "lng": 113.40535239999997
+        },
+        "053": {
+            "name": "\u00d6mn\u00f6govi Province",
+            "code": "053",
+            "names": {
+                "geonames": "OEmnoegovi",
+                "ru": "\u0423\u043c\u043d\u0435\u0433\u043e\u0432\u044c",
+                "en": "\u00d6mn\u00f6govi Province",
+                "de": "\u00d6mn\u00f6-Gobi-Aimag",
+                "es": "\u00d6mn\u00f6govi",
+                "fr": "\u00d6mn\u00f6govi",
+                "it": "Provincia dell'\u00d4mn\u00f4gov'",
+                "zh": "\u5357\u6208\u58c1\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": null,
+            "lng": null
+        },
+        "055": {
+            "name": "\u00d6v\u00f6rkhangai Province",
+            "code": "055",
+            "names": {
+                "geonames": "OEvoerhangay",
+                "ru": "\u0423\u0432\u0435\u0440\u0445\u0430\u043d\u0433\u0430\u0439",
+                "en": "\u00d6v\u00f6rkhangai Province",
+                "de": "\u00d6w\u00f6rchangai-Aimag",
+                "es": "\u00d6v\u00f6rhangay",
+                "fr": "\u00d6v\u00f6rhangay",
+                "it": "Provincia del \u00d4v\u00f4rhangaj",
+                "zh": "\u524d\u676d\u7231\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": null,
+            "lng": null
+        },
+        "057": {
+            "name": "Zavkhan Province",
+            "code": "057",
+            "names": {
+                "geonames": "Dzabkhan",
+                "ru": "\u0417\u0430\u0432\u0445\u0430\u043d",
+                "en": "Zavkhan Province",
+                "de": "Dsawchan-Aimag",
+                "es": "Zavhan",
+                "fr": "Zavhan",
+                "it": "Provincia del Zavhan",
+                "zh": "\u624e\u5e03\u6c57\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": null,
+            "lng": null
+        },
         "059": {
             "name": "Dundgovi Province",
             "code": "059",
@@ -289,24 +271,6 @@
                 "fr": "Dundgovi",
                 "it": "Provincia del Dundgov'",
                 "zh": "\u4e2d\u6208\u58c1\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": null,
-            "lng": null
-        },
-        "063": {
-            "name": "Dornogovi Province",
-            "code": "063",
-            "names": {
-                "geonames": "East Gobi Aymag",
-                "ru": "\u0414\u043e\u0440\u043d\u043e\u0433\u043e\u0432\u044c",
-                "en": "Dornogovi Province",
-                "de": "Dorno-Gobi-Aimag",
-                "es": "Dornogovi",
-                "fr": "Dornogovi",
-                "it": "Provincia del Dornogov'",
-                "zh": "\u4e1c\u6208\u58c1\u7701"
             },
             "division": "province",
             "parent": "MN",
@@ -331,59 +295,23 @@
             "lat": 48.0677702,
             "lng": 114.5260763
         },
-        "067": {
-            "name": "Bulgan Province",
-            "code": "067",
+        "063": {
+            "name": "Dornogovi Province",
+            "code": "063",
             "names": {
-                "geonames": "Bulgan",
-                "ru": "\u0411\u0443\u043b\u0433\u0430\u043d",
-                "en": "Bulgan Province",
-                "de": "Bulgan-Aimag",
-                "es": "Bulgan",
-                "fr": "Bulgan",
-                "it": "Provincia di Bulgan",
-                "zh": "\u5e03\u5c14\u5e72\u7701"
-            },
-            "division": "province",
-            "parent": "MN",
-            "lat": 48.8119444,
-            "lng": 103.53361110000003
-        },
-        "073": {
-            "name": "Arkhangai Province",
-            "code": "073",
-            "names": {
-                "geonames": "Arhangay",
-                "ru": "\u0410\u0440\u0445\u0430\u043d\u0433\u0430\u0439",
-                "en": "Arkhangai Province",
-                "de": "Archangai-Aimag",
-                "es": "Arhangay",
-                "fr": "Arhangay",
-                "it": "Provincia dell'Arhangaj",
-                "zh": "\u540e\u676d\u7231\u7701"
+                "geonames": "East Gobi Aymag",
+                "ru": "\u0414\u043e\u0440\u043d\u043e\u0433\u043e\u0432\u044c",
+                "en": "Dornogovi Province",
+                "de": "Dorno-Gobi-Aimag",
+                "es": "Dornogovi",
+                "fr": "Dornogovi",
+                "it": "Provincia del Dornogov'",
+                "zh": "\u4e1c\u6208\u58c1\u7701"
             },
             "division": "province",
             "parent": "MN",
             "lat": null,
             "lng": null
-        },
-        "037": {
-            "name": "Darkhan-Uul Province",
-            "code": "037",
-            "names": {
-                "geonames": "Darhan Uul",
-                "ru": "\u0414\u0430\u0440\u0445\u0430\u043d-\u0423\u0443\u043b",
-                "en": "Darkhan-Uul Province",
-                "de": "Darchan-Uul-Aimag",
-                "es": "Darhan-Uul",
-                "fr": "Darhan-Uul",
-                "it": "Provincia di Darhan-Uul",
-                "zh": "\u8fbe\u5c14\u6c57\u4e4c\u52d2\u7701"
-            },
-            "division": "municipality",
-            "parent": "MN",
-            "lat": 49.0495592,
-            "lng": 105.3893137
         },
         "064": {
             "name": "Govis\u00fcmber Province",
@@ -403,20 +331,92 @@
             "lat": null,
             "lng": null
         },
-        "035": {
-            "name": "Orkhon Province",
-            "code": "035",
+        "065": {
+            "name": "Govi-Altai Province",
+            "code": "065",
             "names": {
-                "geonames": "Orhon",
-                "ru": "\u041e\u0440\u0445\u043e\u043d",
-                "en": "Orkhon Province",
-                "de": "Orchon-Aimag",
-                "es": "Orhon",
-                "fr": "Orhon",
-                "it": "Provincia dell'Orhon",
-                "zh": "\u9102\u5c14\u6d51\u7701"
+                "geonames": "Govi-Altay",
+                "ru": "\u0413\u043e\u0432\u044c-\u0410\u043b\u0442\u0430\u0439",
+                "en": "Govi-Altai Province",
+                "de": "Gobi-Altai-Aimag",
+                "es": "Govi-Altay",
+                "fr": "Gobi-Alta\u00ef",
+                "it": "Provincia del Gov'-Altaj",
+                "zh": "\u6208\u58c1\u963f\u5c14\u6cf0\u7701"
             },
-            "division": "municipality",
+            "division": "province",
+            "parent": "MN",
+            "lat": 46.3727778,
+            "lng": 96.2572222
+        },
+        "067": {
+            "name": "Bulgan Province",
+            "code": "067",
+            "names": {
+                "geonames": "Bulgan",
+                "ru": "\u0411\u0443\u043b\u0433\u0430\u043d",
+                "en": "Bulgan Province",
+                "de": "Bulgan-Aimag",
+                "es": "Bulgan",
+                "fr": "Bulgan",
+                "it": "Provincia di Bulgan",
+                "zh": "\u5e03\u5c14\u5e72\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 48.8119444,
+            "lng": 103.53361110000003
+        },
+        "069": {
+            "name": "Bayankhongor Province",
+            "code": "069",
+            "names": {
+                "geonames": "Bayanhongor",
+                "ru": "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440",
+                "en": "Bayankhongor Province",
+                "de": "Bajanchongor-Aimag",
+                "es": "Bayanhongor",
+                "fr": "Bayanhongor",
+                "it": "Provincia di Bajanhongor",
+                "zh": "\u5df4\u5f66\u6d2a\u6208\u5c14\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 46.1916667,
+            "lng": 100.71777780000002
+        },
+        "071": {
+            "name": "Bayan-\u00d6lgii Province",
+            "code": "071",
+            "names": {
+                "geonames": "Bayan-Olgiy",
+                "ru": "\u0411\u0430\u044f\u043d-\u0423\u043b\u0433\u0438\u0439",
+                "en": "Bayan-\u00d6lgii Province",
+                "de": "Bajan-\u00d6lgii-Aimag",
+                "es": "Bayan-\u00d6lgiy",
+                "fr": "Bayan-\u00d6lgiy",
+                "it": "Provincia del Bajan-\u00d4lgij",
+                "zh": "\u5df4\u5f66\u4e4c\u5217\u76d6\u7701"
+            },
+            "division": "province",
+            "parent": "MN",
+            "lat": 48.9683333,
+            "lng": 89.96861109999998
+        },
+        "073": {
+            "name": "Arkhangai Province",
+            "code": "073",
+            "names": {
+                "geonames": "Arhangay",
+                "ru": "\u0410\u0440\u0445\u0430\u043d\u0433\u0430\u0439",
+                "en": "Arkhangai Province",
+                "de": "Archangai-Aimag",
+                "es": "Arhangay",
+                "fr": "Arhangay",
+                "it": "Provincia dell'Arhangaj",
+                "zh": "\u540e\u676d\u7231\u7701"
+            },
+            "division": "province",
             "parent": "MN",
             "lat": null,
             "lng": null

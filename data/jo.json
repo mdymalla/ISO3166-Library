@@ -24,77 +24,23 @@
         "pt": "Jord\u00e2nia"
     },
     "ISO3166-2": {
-        "MN": {
-            "name": "Ma'an Governorate",
-            "code": "MN",
+        "AJ": {
+            "name": "Ajloun Governorate",
+            "code": "AJ",
             "names": {
-                "geonames": "Ma'an",
-                "ru": "\u041c\u0430\u0430\u043d",
-                "en": "Ma'an Governorate",
-                "ar": "\u0645\u0639\u0627\u0646",
-                "es": "Gobernaci\u00f3n de Ma'an",
-                "fr": "Gouvernorat de Ma'an",
-                "it": "Governatorato di Ma'an",
-                "zh": "\u99ac\u5b89\u7701"
+                "geonames": "Ajlun",
+                "ru": "\u0410\u0434\u0436\u043b\u0443\u043d",
+                "en": "Ajloun Governorate",
+                "ar": "\u0639\u062c\u0644\u0648\u0646",
+                "es": "Gobernaci\u00f3n de Ajlun",
+                "fr": "Gouvernorat d'Ajlun",
+                "it": "Governatorato di Ajlun",
+                "zh": "\u963f\u5091\u9686\u7701"
             },
             "division": "governorate",
             "parent": "JO",
-            "lat": 46.729553,
-            "lng": -94.68589980000002
-        },
-        "IR": {
-            "name": "Irbid Governorate",
-            "code": "IR",
-            "names": {
-                "geonames": "Irbid",
-                "ru": "\u0418\u0440\u0431\u0438\u0434",
-                "en": "Irbid Governorate",
-                "ar": "\u0625\u0631\u0628\u062f",
-                "es": "Gobernaci\u00f3n de Irbid",
-                "fr": "Gouvernorat d'Irbid",
-                "it": "Governatorato di Irbid",
-                "zh": "\u4f0a\u723e\u6bd4\u5fb7\u7701"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "AZ": {
-            "name": "Zarqa Governorate",
-            "code": "AZ",
-            "names": {
-                "geonames": "Zarqa",
-                "ru": "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430",
-                "en": "Zarqa Governorate",
-                "ar": "\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
-                "es": "Gobernaci\u00f3n de Zark\u00e1",
-                "fr": "Gouvernorat de Zarqa",
-                "it": "Governatorato di al-Zarqa",
-                "zh": "\u624e\u723e\u5361\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 31.6936545,
-            "lng": 37.040033900000026
-        },
-        "AT": {
-            "name": "Tafilah Governorate",
-            "code": "AT",
-            "names": {
-                "geonames": "Tafielah",
-                "ru": "\u042d\u0442-\u0422\u0430\u0444\u0438\u043b\u0430",
-                "en": "Tafilah Governorate",
-                "ar": "\u0627\u0644\u0637\u0641\u064a\u0644\u0629",
-                "es": "Gobernaci\u00f3n de Tafila",
-                "fr": "Gouvernorat de Tafilah",
-                "it": "Governatorato di al-Tafila",
-                "zh": "\u5854\u83f2\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 30.8782508,
-            "lng": 35.65328479999994
+            "lat": 32.3352502,
+            "lng": 35.696998399999984
         },
         "AM": {
             "name": "Amman Governorate",
@@ -115,96 +61,6 @@
             "lat": 31.949381,
             "lng": 35.93291099999999
         },
-        "MA": {
-            "name": "Mafraq Governorate",
-            "code": "MA",
-            "names": {
-                "geonames": "Mafraq",
-                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a",
-                "en": "Mafraq Governorate",
-                "ar": "\u0627\u0644\u0645\u0641\u0631\u0642",
-                "es": "Gobernaci\u00f3n de Mafraq",
-                "fr": "Gouvernorat de Mafraq",
-                "it": "Governatorato di Mafraq",
-                "zh": "\u99ac\u5f17\u62c9\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.3616821,
-            "lng": 36.21933620000004
-        },
-        "KA": {
-            "name": "Karak Governorate",
-            "code": "KA",
-            "names": {
-                "geonames": "Karak",
-                "ru": "\u042d\u043b\u044c-\u041a\u0430\u0440\u0430\u043a",
-                "en": "Karak Governorate",
-                "ar": "\u0627\u0644\u0643\u0631\u0643",
-                "es": "Gobernaci\u00f3n de Karak",
-                "fr": "Gouvernorat de Karak",
-                "it": "Governatorato di al-Karak",
-                "zh": "\u5361\u62c9\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 31.1648059,
-            "lng": 35.76188239999999
-        },
-        "BA": {
-            "name": "Balqa Governorate",
-            "code": "BA",
-            "names": {
-                "geonames": "Balqa",
-                "ru": "\u042d\u043b\u044c-\u0411\u0430\u043b\u043a\u0430",
-                "en": "Balqa Governorate",
-                "ar": "\u0627\u0644\u0628\u0644\u0642\u0627\u0621",
-                "es": "Gobernaci\u00f3n de Balqa'",
-                "fr": "Gouvernorat de Balqa",
-                "it": "Governatorato di Balqa",
-                "zh": "\u62dc\u52d2\u52a0\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.1666667,
-            "lng": 35.616666699999996
-        },
-        "AJ": {
-            "name": "Ajloun Governorate",
-            "code": "AJ",
-            "names": {
-                "geonames": "Ajlun",
-                "ru": "\u0410\u0434\u0436\u043b\u0443\u043d",
-                "en": "Ajloun Governorate",
-                "ar": "\u0639\u062c\u0644\u0648\u0646",
-                "es": "Gobernaci\u00f3n de Ajlun",
-                "fr": "Gouvernorat d'Ajlun",
-                "it": "Governatorato di Ajlun",
-                "zh": "\u963f\u5091\u9686\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.3352502,
-            "lng": 35.696998399999984
-        },
-        "JA": {
-            "name": "Jerash Governorate",
-            "code": "JA",
-            "names": {
-                "geonames": "Jerash",
-                "ru": "\u0414\u0436\u0430\u0440\u0430\u0448",
-                "en": "Jerash Governorate",
-                "ar": "\u062c\u0631\u0634",
-                "es": "Gobernaci\u00f3n de Gerasa",
-                "fr": "Gouvernorat de Jerash",
-                "it": "Governatorato di Jerash",
-                "zh": "\u5091\u62c9\u4ec0\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.2769016,
-            "lng": 35.90555019999999
-        },
         "AQ": {
             "name": "Aqaba Governorate",
             "code": "AQ",
@@ -224,6 +80,140 @@
             "lat": 32.3182314,
             "lng": -86.90229799999997
         },
+        "AT": {
+            "name": "Tafilah Governorate",
+            "code": "AT",
+            "names": {
+                "geonames": "Tafielah",
+                "ru": "\u042d\u0442-\u0422\u0430\u0444\u0438\u043b\u0430",
+                "en": "Tafilah Governorate",
+                "ar": "\u0627\u0644\u0637\u0641\u064a\u0644\u0629",
+                "es": "Gobernaci\u00f3n de Tafila",
+                "fr": "Gouvernorat de Tafilah",
+                "it": "Governatorato di al-Tafila",
+                "zh": "\u5854\u83f2\u62c9\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 30.8782508,
+            "lng": 35.65328479999994
+        },
+        "AZ": {
+            "name": "Zarqa Governorate",
+            "code": "AZ",
+            "names": {
+                "geonames": "Zarqa",
+                "ru": "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430",
+                "en": "Zarqa Governorate",
+                "ar": "\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
+                "es": "Gobernaci\u00f3n de Zark\u00e1",
+                "fr": "Gouvernorat de Zarqa",
+                "it": "Governatorato di al-Zarqa",
+                "zh": "\u624e\u723e\u5361\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 31.6936545,
+            "lng": 37.040033900000026
+        },
+        "BA": {
+            "name": "Balqa Governorate",
+            "code": "BA",
+            "names": {
+                "geonames": "Balqa",
+                "ru": "\u042d\u043b\u044c-\u0411\u0430\u043b\u043a\u0430",
+                "en": "Balqa Governorate",
+                "ar": "\u0627\u0644\u0628\u0644\u0642\u0627\u0621",
+                "es": "Gobernaci\u00f3n de Balqa'",
+                "fr": "Gouvernorat de Balqa",
+                "it": "Governatorato di Balqa",
+                "zh": "\u62dc\u52d2\u52a0\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 32.1666667,
+            "lng": 35.616666699999996
+        },
+        "IR": {
+            "name": "Irbid Governorate",
+            "code": "IR",
+            "names": {
+                "geonames": "Irbid",
+                "ru": "\u0418\u0440\u0431\u0438\u0434",
+                "en": "Irbid Governorate",
+                "ar": "\u0625\u0631\u0628\u062f",
+                "es": "Gobernaci\u00f3n de Irbid",
+                "fr": "Gouvernorat d'Irbid",
+                "it": "Governatorato di Irbid",
+                "zh": "\u4f0a\u723e\u6bd4\u5fb7\u7701"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "JA": {
+            "name": "Jerash Governorate",
+            "code": "JA",
+            "names": {
+                "geonames": "Jerash",
+                "ru": "\u0414\u0436\u0430\u0440\u0430\u0448",
+                "en": "Jerash Governorate",
+                "ar": "\u062c\u0631\u0634",
+                "es": "Gobernaci\u00f3n de Gerasa",
+                "fr": "Gouvernorat de Jerash",
+                "it": "Governatorato di Jerash",
+                "zh": "\u5091\u62c9\u4ec0\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 32.2769016,
+            "lng": 35.90555019999999
+        },
+        "JR": {
+            "name": "Irbid",
+            "code": "JR",
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 32.5454418,
+            "lng": 35.85715319999997
+        },
+        "KA": {
+            "name": "Karak Governorate",
+            "code": "KA",
+            "names": {
+                "geonames": "Karak",
+                "ru": "\u042d\u043b\u044c-\u041a\u0430\u0440\u0430\u043a",
+                "en": "Karak Governorate",
+                "ar": "\u0627\u0644\u0643\u0631\u0643",
+                "es": "Gobernaci\u00f3n de Karak",
+                "fr": "Gouvernorat de Karak",
+                "it": "Governatorato di al-Karak",
+                "zh": "\u5361\u62c9\u514b\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 31.1648059,
+            "lng": 35.76188239999999
+        },
+        "MA": {
+            "name": "Mafraq Governorate",
+            "code": "MA",
+            "names": {
+                "geonames": "Mafraq",
+                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a",
+                "en": "Mafraq Governorate",
+                "ar": "\u0627\u0644\u0645\u0641\u0631\u0642",
+                "es": "Gobernaci\u00f3n de Mafraq",
+                "fr": "Gouvernorat de Mafraq",
+                "it": "Governatorato di Mafraq",
+                "zh": "\u99ac\u5f17\u62c9\u514b\u7701"
+            },
+            "division": "governorate",
+            "parent": "JO",
+            "lat": 32.3616821,
+            "lng": 36.21933620000004
+        },
         "MD": {
             "name": "Madaba Governorate",
             "code": "MD",
@@ -242,12 +232,23 @@
             "lat": 39.0457549,
             "lng": -76.6412712
         },
-        "JR": {
-            "name": "Irbid",
+        "MN": {
+            "name": "Ma'an Governorate",
+            "code": "MN",
+            "names": {
+                "geonames": "Ma'an",
+                "ru": "\u041c\u0430\u0430\u043d",
+                "en": "Ma'an Governorate",
+                "ar": "\u0645\u0639\u0627\u0646",
+                "es": "Gobernaci\u00f3n de Ma'an",
+                "fr": "Gouvernorat de Ma'an",
+                "it": "Governatorato di Ma'an",
+                "zh": "\u99ac\u5b89\u7701"
+            },
             "division": "governorate",
             "parent": "JO",
-            "lat": 32.5454418,
-            "lng": 35.85715319999997
+            "lat": 46.729553,
+            "lng": -94.68589980000002
         }
     }
 }

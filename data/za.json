@@ -33,37 +33,6 @@
         "pt": "\u00c1frica do Sul"
     },
     "ISO3166-2": {
-        "FS": {
-            "name": "Free State",
-            "code": "FS",
-            "names": {
-                "geonames": "Orange Free State",
-                "ru": "\u0424\u0440\u0438-\u0421\u0442\u0435\u0439\u0442",
-                "en": "Free State",
-                "ar": "\u0641\u0631\u064a \u0633\u062a\u064a\u062a",
-                "de": "Freistaat",
-                "es": "Provincia del Estado Libre",
-                "fr": "\u00c9tat-Libre",
-                "it": "Free State",
-                "zh": "\u81ea\u7531\u90a6\u7701"
-            },
-            "division": "province",
-            "parent": "ZA",
-            "lat": -28.4541105,
-            "lng": 26.796784900000034
-        },
-        "ZN": {
-            "name": "KwaZulu-Natal",
-            "code": "ZN",
-            "names": {
-                "geonames": "KwaZulu-Natal",
-                "en": "KwaZulu-Natal"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
         "EC": {
             "name": "Eastern Cape",
             "code": "EC",
@@ -83,6 +52,25 @@
             "lat": -32.2968402,
             "lng": 26.419389000000024
         },
+        "FS": {
+            "name": "Free State",
+            "code": "FS",
+            "names": {
+                "geonames": "Orange Free State",
+                "ru": "\u0424\u0440\u0438-\u0421\u0442\u0435\u0439\u0442",
+                "en": "Free State",
+                "ar": "\u0641\u0631\u064a \u0633\u062a\u064a\u062a",
+                "de": "Freistaat",
+                "es": "Provincia del Estado Libre",
+                "fr": "\u00c9tat-Libre",
+                "it": "Free State",
+                "zh": "\u81ea\u7531\u90a6\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -28.4541105,
+            "lng": 26.796784900000034
+        },
         "GT": {
             "name": "Gauteng",
             "code": "GT",
@@ -101,6 +89,25 @@
             "parent": "ZA",
             "lat": null,
             "lng": null
+        },
+        "LP": {
+            "name": "Limpopo",
+            "code": "LP",
+            "names": {
+                "geonames": "Limpopo",
+                "ru": "\u041b\u0438\u043c\u043f\u043e\u043f\u043e",
+                "en": "Limpopo",
+                "ar": "\u0644\u064a\u0645\u0628\u0648\u0628\u0648",
+                "de": "Limpopo",
+                "es": "Provincia de Limpopo",
+                "fr": "Limpopo",
+                "it": "Provincia del Limpopo",
+                "zh": "\u6797\u6ce2\u6ce2\u7701"
+            },
+            "division": "province",
+            "parent": "ZA",
+            "lat": -23.6547983,
+            "lng": 32.17460499999993
         },
         "MP": {
             "name": "Mpumalanga",
@@ -140,24 +147,11 @@
             "lat": -29.0466808,
             "lng": 21.85685860000001
         },
-        "LP": {
-            "name": "Limpopo",
-            "code": "LP",
-            "names": {
-                "geonames": "Limpopo",
-                "ru": "\u041b\u0438\u043c\u043f\u043e\u043f\u043e",
-                "en": "Limpopo",
-                "ar": "\u0644\u064a\u0645\u0628\u0648\u0628\u0648",
-                "de": "Limpopo",
-                "es": "Provincia de Limpopo",
-                "fr": "Limpopo",
-                "it": "Provincia del Limpopo",
-                "zh": "\u6797\u6ce2\u6ce2\u7701"
-            },
+        "NL": {
+            "name": "Kwazulu-Natal",
+            "code": "NL",
             "division": "province",
-            "parent": "ZA",
-            "lat": -23.6547983,
-            "lng": 32.17460499999993
+            "parent": "ZA"
         },
         "NW": {
             "name": "North West",
@@ -197,10 +191,17 @@
             "lat": -33.2277918,
             "lng": 21.85685860000001
         },
-        "NL": {
-            "name": "Kwazulu-Natal",
-            "division": "province",
-            "parent": "ZA"
+        "ZN": {
+            "name": "KwaZulu-Natal",
+            "code": "ZN",
+            "names": {
+                "geonames": "KwaZulu-Natal",
+                "en": "KwaZulu-Natal"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
         }
     }
 }

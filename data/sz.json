@@ -25,43 +25,24 @@
         "pt": "Suazil\u00e2ndia"
     },
     "ISO3166-2": {
-        "SH": {
-            "name": "Shiselweni District",
-            "code": "SH",
+        "HH": {
+            "name": "Hhohho District",
+            "code": "HH",
             "names": {
-                "geonames": "Shiselweni",
-                "ru": "\u0428\u0438\u0441\u0435\u043b\u0432\u0435\u043d\u0438",
-                "en": "Shiselweni District",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0632\u0644\u0648\u064a\u0646\u064a",
-                "de": "Shiselweni",
-                "es": "Shishelweni",
-                "fr": "Shiselweni",
-                "it": "Distretto di Shiselweni",
-                "zh": "\u5e0c\u585e\u5362\u97e6\u5c3c"
+                "geonames": "Hhohho",
+                "ru": "\u0425\u043e\u0445\u043e",
+                "en": "Hhohho District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u0647\u0648",
+                "de": "Hhohho",
+                "es": "Hhohho",
+                "fr": "Hhohho",
+                "it": "Distretto di Hhohho",
+                "zh": "\u970d\u970d"
             },
             "division": "district",
             "parent": "SZ",
-            "lat": -27.1636836,
-            "lng": 31.09083290000001
-        },
-        "MA": {
-            "name": "Manzini District",
-            "code": "MA",
-            "names": {
-                "geonames": "Manzini",
-                "ru": "\u041c\u0430\u043d\u0437\u0438\u043d\u0438",
-                "en": "Manzini District",
-                "de": "Manzini",
-                "es": "Manzini",
-                "fr": "Manzini",
-                "it": "Manzini",
-                "zh": "\u66fc\u9f50\u5c3c",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646\u0632\u064a\u0646\u064a"
-            },
-            "division": "district",
-            "parent": "SZ",
-            "lat": -26.49502,
-            "lng": 31.387710999999967
+            "lat": null,
+            "lng": null
         },
         "LU": {
             "name": "Lubombo District",
@@ -82,24 +63,43 @@
             "lat": null,
             "lng": null
         },
-        "HH": {
-            "name": "Hhohho District",
-            "code": "HH",
+        "MA": {
+            "name": "Manzini District",
+            "code": "MA",
             "names": {
-                "geonames": "Hhohho",
-                "ru": "\u0425\u043e\u0445\u043e",
-                "en": "Hhohho District",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u0647\u0648",
-                "de": "Hhohho",
-                "es": "Hhohho",
-                "fr": "Hhohho",
-                "it": "Distretto di Hhohho",
-                "zh": "\u970d\u970d"
+                "geonames": "Manzini",
+                "ru": "\u041c\u0430\u043d\u0437\u0438\u043d\u0438",
+                "en": "Manzini District",
+                "de": "Manzini",
+                "es": "Manzini",
+                "fr": "Manzini",
+                "it": "Manzini",
+                "zh": "\u66fc\u9f50\u5c3c",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0646\u0632\u064a\u0646\u064a"
             },
             "division": "district",
             "parent": "SZ",
-            "lat": null,
-            "lng": null
+            "lat": -26.49502,
+            "lng": 31.387710999999967
+        },
+        "SH": {
+            "name": "Shiselweni District",
+            "code": "SH",
+            "names": {
+                "geonames": "Shiselweni",
+                "ru": "\u0428\u0438\u0441\u0435\u043b\u0432\u0435\u043d\u0438",
+                "en": "Shiselweni District",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0632\u0644\u0648\u064a\u0646\u064a",
+                "de": "Shiselweni",
+                "es": "Shishelweni",
+                "fr": "Shiselweni",
+                "it": "Distretto di Shiselweni",
+                "zh": "\u5e0c\u585e\u5362\u97e6\u5c3c"
+            },
+            "division": "district",
+            "parent": "SZ",
+            "lat": -27.1636836,
+            "lng": 31.09083290000001
         }
     }
 }

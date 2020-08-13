@@ -26,6 +26,14 @@
         "pt": "Ruanda"
     },
     "ISO3166-2": {
+        "01": {
+            "name": "Ville de Kigali",
+            "code": "01",
+            "division": "town council",
+            "parent": "RW",
+            "lat": -1.950106,
+            "lng": 30.058768999999984
+        },
         "02": {
             "name": "Eastern Province",
             "code": "02",
@@ -37,18 +45,6 @@
             "parent": "RW",
             "lat": 45.0551597,
             "lng": -81.30940550000003
-        },
-        "12": {
-            "name": "Kigali",
-            "code": "12",
-            "names": {
-                "geonames": "Kigali",
-                "en": "Kigali"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
         },
         "03": {
             "name": "Northern Province",
@@ -86,12 +82,17 @@
             "lat": -1.9584304,
             "lng": 30.105795299999954
         },
-        "01": {
-            "name": "Ville de Kigali",
-            "division": "town council",
-            "parent": "RW",
-            "lat": -1.950106,
-            "lng": 30.058768999999984
+        "12": {
+            "name": "Kigali",
+            "code": "12",
+            "names": {
+                "geonames": "Kigali",
+                "en": "Kigali"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
         }
     }
 }

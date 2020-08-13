@@ -60,18 +60,6 @@
             "lat": 23.4643073,
             "lng": 120.39614860000006
         },
-        "HSZ": {
-            "name": "Hsinchu",
-            "code": "HSZ",
-            "names": {
-                "geonames": "Hsinchu",
-                "en": "Hsinchu"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": null,
-            "lng": null
-        },
         "HSQ": {
             "name": "Hsinchu",
             "code": "HSQ",
@@ -83,6 +71,18 @@
             "parent": "TW",
             "lat": 24.816668,
             "lng": 120.93333400000006
+        },
+        "HSZ": {
+            "name": "Hsinchu",
+            "code": "HSZ",
+            "names": {
+                "geonames": "Hsinchu",
+                "en": "Hsinchu"
+            },
+            "division": "municipality",
+            "parent": "TW",
+            "lat": null,
+            "lng": null
         },
         "HUA": {
             "name": "Hualien",
@@ -96,17 +96,17 @@
             "lat": 23.9910732,
             "lng": 121.61119489999999
         },
-        "KHH": {
-            "name": "Kaohsiung",
-            "code": "KHH",
+        "ILA": {
+            "name": "Yilan",
+            "code": "ILA",
             "names": {
-                "geonames": "Kaohsiung",
-                "en": "Kaohsiung"
+                "geonames": "Yilan",
+                "en": "Yilan"
             },
-            "division": "special municipality",
+            "division": "district",
             "parent": "TW",
-            "lat": 23.0108714,
-            "lng": 120.66600440000002
+            "lat": null,
+            "lng": null
         },
         "KEE": {
             "name": "Keelung",
@@ -119,6 +119,24 @@
             "parent": "TW",
             "lat": 25.1089809,
             "lng": 121.70814540000003
+        },
+        "KHH": {
+            "name": "Kaohsiung",
+            "code": "KHH",
+            "names": {
+                "geonames": "Kaohsiung",
+                "en": "Kaohsiung"
+            },
+            "division": "special municipality",
+            "parent": "TW",
+            "lat": 23.0108714,
+            "lng": 120.66600440000002
+        },
+        "KHQ": {
+            "name": "Kaohsiung",
+            "code": "KHQ",
+            "division": "district",
+            "parent": "TW"
         },
         "KIN": {
             "name": "Kinmen",
@@ -204,17 +222,17 @@
             "lat": 22.6558442,
             "lng": 120.47032579999996
         },
-        "TXG": {
-            "name": "Taichung",
-            "code": "TXG",
+        "TAO": {
+            "name": "Taoyuan",
+            "code": "TAO",
             "names": {
-                "geonames": "Taichung",
-                "en": "Taichung"
+                "geonames": "Taoyuan",
+                "en": "Taoyuan"
             },
-            "division": "municipality",
+            "division": "district",
             "parent": "TW",
-            "lat": 24.2332076,
-            "lng": 120.94173679999994
+            "lat": 24.9934099,
+            "lng": 121.29696739999997
         },
         "TNN": {
             "name": "Tainan",
@@ -228,6 +246,12 @@
             "lat": 23.1416985,
             "lng": 120.25127279999992
         },
+        "TNQ": {
+            "name": "Tainan",
+            "code": "TNQ",
+            "division": "district",
+            "parent": "TW"
+        },
         "TPE": {
             "name": "Taipei",
             "code": "TPE",
@@ -239,6 +263,14 @@
             "parent": "TW",
             "lat": 25.091075,
             "lng": 121.55983449999997
+        },
+        "TPQ": {
+            "name": "Taipei",
+            "code": "TPQ",
+            "division": "district",
+            "parent": "TW",
+            "lat": 25.065494,
+            "lng": 121.4256345
         },
         "TTT": {
             "name": "Taitung",
@@ -252,29 +284,25 @@
             "lat": 22.7546009,
             "lng": 121.11375440000006
         },
-        "TAO": {
-            "name": "Taoyuan",
-            "code": "TAO",
+        "TXG": {
+            "name": "Taichung",
+            "code": "TXG",
             "names": {
-                "geonames": "Taoyuan",
-                "en": "Taoyuan"
+                "geonames": "Taichung",
+                "en": "Taichung"
             },
-            "division": "district",
+            "division": "municipality",
             "parent": "TW",
-            "lat": 24.9934099,
-            "lng": 121.29696739999997
+            "lat": 24.2332076,
+            "lng": 120.94173679999994
         },
-        "ILA": {
-            "name": "Yilan",
-            "code": "ILA",
-            "names": {
-                "geonames": "Yilan",
-                "en": "Yilan"
-            },
+        "TXQ": {
+            "name": "Taichung",
+            "code": "TXQ",
             "division": "district",
             "parent": "TW",
-            "lat": null,
-            "lng": null
+            "lat": 24.2332076,
+            "lng": 120.94173679999994
         },
         "YUN": {
             "name": "Yunlin",
@@ -287,30 +315,6 @@
             "parent": "TW",
             "lat": 23.6111111,
             "lng": 120.73083329999997
-        },
-        "KHQ": {
-            "name": "Kaohsiung",
-            "division": "district",
-            "parent": "TW"
-        },
-        "TXQ": {
-            "name": "Taichung",
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.2332076,
-            "lng": 120.94173679999994
-        },
-        "TNQ": {
-            "name": "Tainan",
-            "division": "district",
-            "parent": "TW"
-        },
-        "TPQ": {
-            "name": "Taipei",
-            "division": "district",
-            "parent": "TW",
-            "lat": 25.065494,
-            "lng": 121.4256345
         }
     }
 }

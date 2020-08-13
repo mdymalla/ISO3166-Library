@@ -24,149 +24,41 @@
         "pt": "But\u00e3o"
     },
     "ISO3166-2": {
-        "33": {
-            "name": "Bumthang District",
-            "code": "33",
+        "GA": {
+            "name": "Gasa District",
+            "code": "GA",
             "names": {
-                "geonames": "Bumthang",
-                "ru": "\u0411\u0443\u043c\u0442\u0430\u043d\u0433",
-                "en": "Bumthang District",
-                "de": "Bumthang",
-                "es": "Distrito de Bumthang",
-                "fr": "Bumthang",
-                "it": "Distretto di Bumthang",
-                "zh": "\u5e03\u59c6\u5510\u5b97"
+                "geonames": "Gasa",
+                "ru": "\u0413\u0430\u0441\u0430",
+                "en": "Gasa District",
+                "de": "Gasa",
+                "es": "Distrito de Gasa",
+                "fr": "Gasa",
+                "it": "Distretto di Gasa",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
             },
             "division": "district",
             "parent": "BT",
-            "lat": 27.4610149,
-            "lng": 90.80507579999994
+            "lat": 27.8982746,
+            "lng": 89.73095339999998
         },
-        "12": {
-            "name": "Chukha District",
-            "code": "12",
+        "TY": {
+            "name": "Trashiyangtse District",
+            "code": "TY",
             "names": {
-                "geonames": "Chukha",
-                "ru": "\u0427\u0443\u043a\u0445\u0430",
-                "en": "Chukha District",
-                "de": "Chukha",
-                "es": "Distrito de Chukha",
-                "fr": "Chukha",
-                "it": "Distretto di Chukha",
-                "zh": "\u695a\u5361\u5b97"
+                "geonames": "Trashi Yangste",
+                "ru": "\u0422\u0440\u0430\u0448\u0438\u044f\u043d\u0433\u0446\u0435",
+                "en": "Trashiyangtse District",
+                "de": "Trashiyangtse",
+                "es": "Distrito de Trashiyangste",
+                "fr": "Trashiyangtse",
+                "it": "Distretto di Trashiyangtse",
+                "zh": "\u5854\u5e0c\u592e\u5947\u5b97"
             },
             "division": "district",
             "parent": "BT",
-            "lat": 27.0522919,
-            "lng": 89.57569869999998
-        },
-        "22": {
-            "name": "Dagana District",
-            "code": "22",
-            "names": {
-                "geonames": "Dagana",
-                "ru": "\u0414\u0430\u0433\u0430\u043d\u0430",
-                "en": "Dagana District",
-                "de": "Dagana",
-                "es": "Distrito de Dagana",
-                "fr": "Dagana",
-                "it": "Distretto di Dagana",
-                "zh": "\u8fbe\u52a0\u7eb3\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.0970034,
-            "lng": 89.87389869999993
-        },
-        "21": {
-            "name": "Tsirang District",
-            "code": "21",
-            "names": {
-                "geonames": "Chirang",
-                "ru": "\u0426\u0438\u0440\u0430\u043d\u0433",
-                "en": "Tsirang District",
-                "de": "Tsirang",
-                "es": "Distrito de Tsirang",
-                "fr": "Tsirang",
-                "it": "Distretto di Tsirang",
-                "zh": "\u5947\u6717\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.0742281,
-            "lng": 90.075917
-        },
-        "31": {
-            "name": "Sarpang District",
-            "code": "31",
-            "names": {
-                "geonames": "Geylegphug",
-                "ru": "\u0421\u0430\u0440\u043f\u0430\u043d\u0433",
-                "en": "Sarpang District",
-                "de": "Sarpang",
-                "es": "Distrito de Sarpang",
-                "fr": "Sarpang",
-                "it": "Distretto di Sarpang",
-                "zh": "\u76d6\u83b1\u666e\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 26.8666667,
-            "lng": 90.26666669999997
-        },
-        "13": {
-            "name": "Haa District",
-            "code": "13",
-            "names": {
-                "geonames": "Haa",
-                "ru": "\u0425\u0430\u0430",
-                "en": "Haa District",
-                "de": "Haa",
-                "es": "Distrito de Haa",
-                "fr": "Haa",
-                "it": "Distretto di Haa",
-                "zh": "\u54c8\u963f\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.386227,
-            "lng": 89.27760169999999
-        },
-        "44": {
-            "name": "Lhuntse District",
-            "code": "44",
-            "names": {
-                "geonames": "Lhuntse",
-                "ru": "\u041b\u0445\u0443\u043d\u0446\u0435",
-                "en": "Lhuntse District",
-                "de": "Lhuntse",
-                "es": "Distrito de Lhuntse",
-                "fr": "Lhuntse",
-                "it": "Distretto di Lhuntse",
-                "zh": "\u4f26\u5947\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.659055,
-            "lng": 91.1761004
-        },
-        "42": {
-            "name": "Mongar District",
-            "code": "42",
-            "names": {
-                "geonames": "Mongar",
-                "ru": "\u041c\u043e\u043d\u0433\u0430\u0440",
-                "en": "Mongar District",
-                "de": "Mongar",
-                "es": "Distrito de Mongar",
-                "fr": "Mongar",
-                "it": "Distretto di Mongar",
-                "zh": "\u8499\u52a0\u5c14\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.275,
-            "lng": 91.24000000000001
+            "lat": null,
+            "lng": null
         },
         "11": {
             "name": "Paro District",
@@ -186,41 +78,41 @@
             "lat": 27.4333333,
             "lng": 89.41666669999995
         },
-        "43": {
-            "name": "Pemagatshel District",
-            "code": "43",
+        "12": {
+            "name": "Chukha District",
+            "code": "12",
             "names": {
-                "geonames": "Pemagatshel",
-                "ru": "\u041f\u0435\u043c\u0430\u0433\u0430\u0446\u0435\u043b",
-                "en": "Pemagatshel District",
-                "de": "Pemagatshel",
-                "es": "Distrito de Pemagatshel",
-                "fr": "Pemagatshel",
-                "it": "Distretto di Pemagatshel",
-                "zh": "\u4f69\u9a6c\u52a0\u7b56\u5c14\u5b97"
+                "geonames": "Chukha",
+                "ru": "\u0427\u0443\u043a\u0445\u0430",
+                "en": "Chukha District",
+                "de": "Chukha",
+                "es": "Distrito de Chukha",
+                "fr": "Chukha",
+                "it": "Distretto di Chukha",
+                "zh": "\u695a\u5361\u5b97"
             },
             "division": "district",
             "parent": "BT",
-            "lat": null,
-            "lng": null
+            "lat": 27.0522919,
+            "lng": 89.57569869999998
         },
-        "23": {
-            "name": "Punakha District",
-            "code": "23",
+        "13": {
+            "name": "Haa District",
+            "code": "13",
             "names": {
-                "geonames": "Punakha",
-                "ru": "\u041f\u0443\u043d\u0430\u043a\u0445\u0430",
-                "en": "Punakha District",
-                "de": "Punakha",
-                "es": "Distrito de Punakha",
-                "fr": "Punakha",
-                "it": "Distretto di Punakha",
-                "zh": "\u666e\u90a3\u5361\u5b97"
+                "geonames": "Haa",
+                "ru": "\u0425\u0430\u0430",
+                "en": "Haa District",
+                "de": "Haa",
+                "es": "Distrito de Haa",
+                "fr": "Haa",
+                "it": "Distretto di Haa",
+                "zh": "\u54c8\u963f\u5b97"
             },
             "division": "district",
             "parent": "BT",
-            "lat": 27.5920869,
-            "lng": 89.87974589999999
+            "lat": 27.386227,
+            "lng": 89.27760169999999
         },
         "14": {
             "name": "Samtse District",
@@ -240,23 +132,149 @@
             "lat": 53.1613781,
             "lng": 6.394201000000066
         },
-        "45": {
-            "name": "Samdrup Jongkhar District",
-            "code": "45",
+        "15": {
+            "name": "Thimphu District",
+            "code": "15",
             "names": {
-                "geonames": "Samdrup Jongkhar",
-                "ru": "\u0421\u0430\u043c\u0434\u0440\u0443\u043f-\u0414\u0436\u043e\u043d\u0433\u0445\u0430\u0440",
-                "en": "Samdrup Jongkhar District",
-                "de": "Samdrup Jongkhar",
-                "es": "Distrito de Samdrup Jongkhar",
-                "fr": "Samdrup Jongkhar",
-                "it": "Distretto di Samdrup Jongkhar",
-                "zh": "\u8428\u59c6\u5fb7\u9c81\u743c\u5361\u5c14\u5b97"
+                "geonames": "Thimphu",
+                "ru": "\u0422\u0445\u0438\u043c\u043f\u0445\u0443",
+                "en": "Thimphu District",
+                "de": "Thimphu",
+                "es": "Distrito de Timbu",
+                "fr": "Thimphou",
+                "it": "Distretto di Thimphu",
+                "zh": "\u5ef7\u5e03\u5b97"
             },
             "division": "district",
             "parent": "BT",
-            "lat": 26.8015096,
-            "lng": 91.55840020000005
+            "lat": 27.4666667,
+            "lng": 89.64166669999997
+        },
+        "21": {
+            "name": "Tsirang District",
+            "code": "21",
+            "names": {
+                "geonames": "Chirang",
+                "ru": "\u0426\u0438\u0440\u0430\u043d\u0433",
+                "en": "Tsirang District",
+                "de": "Tsirang",
+                "es": "Distrito de Tsirang",
+                "fr": "Tsirang",
+                "it": "Distretto di Tsirang",
+                "zh": "\u5947\u6717\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.0742281,
+            "lng": 90.075917
+        },
+        "22": {
+            "name": "Dagana District",
+            "code": "22",
+            "names": {
+                "geonames": "Dagana",
+                "ru": "\u0414\u0430\u0433\u0430\u043d\u0430",
+                "en": "Dagana District",
+                "de": "Dagana",
+                "es": "Distrito de Dagana",
+                "fr": "Dagana",
+                "it": "Distretto di Dagana",
+                "zh": "\u8fbe\u52a0\u7eb3\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.0970034,
+            "lng": 89.87389869999993
+        },
+        "23": {
+            "name": "Punakha District",
+            "code": "23",
+            "names": {
+                "geonames": "Punakha",
+                "ru": "\u041f\u0443\u043d\u0430\u043a\u0445\u0430",
+                "en": "Punakha District",
+                "de": "Punakha",
+                "es": "Distrito de Punakha",
+                "fr": "Punakha",
+                "it": "Distretto di Punakha",
+                "zh": "\u666e\u90a3\u5361\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.5920869,
+            "lng": 89.87974589999999
+        },
+        "24": {
+            "name": "Wangdue Phodrang District",
+            "code": "24",
+            "names": {
+                "geonames": "Wangdi Phodrang",
+                "ru": "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433",
+                "en": "Wangdue Phodrang District",
+                "de": "Wangdue Phodrang",
+                "es": "Distrito de Wangdue Phodrang",
+                "fr": "Wangdue Phodrang",
+                "it": "Distretto di Wangdue Phodrang",
+                "zh": "\u65fa\u675c\u6ce2\u5fb7\u6717\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.4879018,
+            "lng": 89.89961960000005
+        },
+        "31": {
+            "name": "Sarpang District",
+            "code": "31",
+            "names": {
+                "geonames": "Geylegphug",
+                "ru": "\u0421\u0430\u0440\u043f\u0430\u043d\u0433",
+                "en": "Sarpang District",
+                "de": "Sarpang",
+                "es": "Distrito de Sarpang",
+                "fr": "Sarpang",
+                "it": "Distretto di Sarpang",
+                "zh": "\u76d6\u83b1\u666e\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 26.8666667,
+            "lng": 90.26666669999997
+        },
+        "32": {
+            "name": "Trongsa District",
+            "code": "32",
+            "names": {
+                "geonames": "Tongsa",
+                "ru": "\u0422\u0440\u043e\u043d\u0433\u0441\u0430",
+                "en": "Trongsa District",
+                "de": "Trongsa",
+                "es": "Distrito de Trongsa",
+                "fr": "Trongsa",
+                "it": "Distretto di Trongsa",
+                "zh": "\u901a\u8428\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.5002269,
+            "lng": 90.50806339999997
+        },
+        "33": {
+            "name": "Bumthang District",
+            "code": "33",
+            "names": {
+                "geonames": "Bumthang",
+                "ru": "\u0411\u0443\u043c\u0442\u0430\u043d\u0433",
+                "en": "Bumthang District",
+                "de": "Bumthang",
+                "es": "Distrito de Bumthang",
+                "fr": "Bumthang",
+                "it": "Distretto di Bumthang",
+                "zh": "\u5e03\u59c6\u5510\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.4610149,
+            "lng": 90.80507579999994
         },
         "34": {
             "name": "Zhemgang District",
@@ -294,95 +312,77 @@
             "lat": 27.3325014,
             "lng": 91.5523435
         },
-        "15": {
-            "name": "Thimphu District",
-            "code": "15",
+        "42": {
+            "name": "Mongar District",
+            "code": "42",
             "names": {
-                "geonames": "Thimphu",
-                "ru": "\u0422\u0445\u0438\u043c\u043f\u0445\u0443",
-                "en": "Thimphu District",
-                "de": "Thimphu",
-                "es": "Distrito de Timbu",
-                "fr": "Thimphou",
-                "it": "Distretto di Thimphu",
-                "zh": "\u5ef7\u5e03\u5b97"
+                "geonames": "Mongar",
+                "ru": "\u041c\u043e\u043d\u0433\u0430\u0440",
+                "en": "Mongar District",
+                "de": "Mongar",
+                "es": "Distrito de Mongar",
+                "fr": "Mongar",
+                "it": "Distretto di Mongar",
+                "zh": "\u8499\u52a0\u5c14\u5b97"
             },
             "division": "district",
             "parent": "BT",
-            "lat": 27.4666667,
-            "lng": 89.64166669999997
+            "lat": 27.275,
+            "lng": 91.24000000000001
         },
-        "32": {
-            "name": "Trongsa District",
-            "code": "32",
+        "43": {
+            "name": "Pemagatshel District",
+            "code": "43",
             "names": {
-                "geonames": "Tongsa",
-                "ru": "\u0422\u0440\u043e\u043d\u0433\u0441\u0430",
-                "en": "Trongsa District",
-                "de": "Trongsa",
-                "es": "Distrito de Trongsa",
-                "fr": "Trongsa",
-                "it": "Distretto di Trongsa",
-                "zh": "\u901a\u8428\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.5002269,
-            "lng": 90.50806339999997
-        },
-        "24": {
-            "name": "Wangdue Phodrang District",
-            "code": "24",
-            "names": {
-                "geonames": "Wangdi Phodrang",
-                "ru": "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433",
-                "en": "Wangdue Phodrang District",
-                "de": "Wangdue Phodrang",
-                "es": "Distrito de Wangdue Phodrang",
-                "fr": "Wangdue Phodrang",
-                "it": "Distretto di Wangdue Phodrang",
-                "zh": "\u65fa\u675c\u6ce2\u5fb7\u6717\u5b97"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.4879018,
-            "lng": 89.89961960000005
-        },
-        "GA": {
-            "name": "Gasa District",
-            "code": "GA",
-            "names": {
-                "geonames": "Gasa",
-                "ru": "\u0413\u0430\u0441\u0430",
-                "en": "Gasa District",
-                "de": "Gasa",
-                "es": "Distrito de Gasa",
-                "fr": "Gasa",
-                "it": "Distretto di Gasa",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "district",
-            "parent": "BT",
-            "lat": 27.8982746,
-            "lng": 89.73095339999998
-        },
-        "TY": {
-            "name": "Trashiyangtse District",
-            "code": "TY",
-            "names": {
-                "geonames": "Trashi Yangste",
-                "ru": "\u0422\u0440\u0430\u0448\u0438\u044f\u043d\u0433\u0446\u0435",
-                "en": "Trashiyangtse District",
-                "de": "Trashiyangtse",
-                "es": "Distrito de Trashiyangste",
-                "fr": "Trashiyangtse",
-                "it": "Distretto di Trashiyangtse",
-                "zh": "\u5854\u5e0c\u592e\u5947\u5b97"
+                "geonames": "Pemagatshel",
+                "ru": "\u041f\u0435\u043c\u0430\u0433\u0430\u0446\u0435\u043b",
+                "en": "Pemagatshel District",
+                "de": "Pemagatshel",
+                "es": "Distrito de Pemagatshel",
+                "fr": "Pemagatshel",
+                "it": "Distretto di Pemagatshel",
+                "zh": "\u4f69\u9a6c\u52a0\u7b56\u5c14\u5b97"
             },
             "division": "district",
             "parent": "BT",
             "lat": null,
             "lng": null
+        },
+        "44": {
+            "name": "Lhuntse District",
+            "code": "44",
+            "names": {
+                "geonames": "Lhuntse",
+                "ru": "\u041b\u0445\u0443\u043d\u0446\u0435",
+                "en": "Lhuntse District",
+                "de": "Lhuntse",
+                "es": "Distrito de Lhuntse",
+                "fr": "Lhuntse",
+                "it": "Distretto di Lhuntse",
+                "zh": "\u4f26\u5947\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 27.659055,
+            "lng": 91.1761004
+        },
+        "45": {
+            "name": "Samdrup Jongkhar District",
+            "code": "45",
+            "names": {
+                "geonames": "Samdrup Jongkhar",
+                "ru": "\u0421\u0430\u043c\u0434\u0440\u0443\u043f-\u0414\u0436\u043e\u043d\u0433\u0445\u0430\u0440",
+                "en": "Samdrup Jongkhar District",
+                "de": "Samdrup Jongkhar",
+                "es": "Distrito de Samdrup Jongkhar",
+                "fr": "Samdrup Jongkhar",
+                "it": "Distretto di Samdrup Jongkhar",
+                "zh": "\u8428\u59c6\u5fb7\u9c81\u743c\u5361\u5c14\u5b97"
+            },
+            "division": "district",
+            "parent": "BT",
+            "lat": 26.8015096,
+            "lng": 91.55840020000005
         }
     }
 }

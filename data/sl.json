@@ -24,6 +24,42 @@
         "pt": "Serra Leoa"
     },
     "ISO3166-2": {
+        "E": {
+            "name": "Eastern Province",
+            "code": "E",
+            "names": {
+                "geonames": "Eastern Province",
+                "en": "Eastern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 8.2473775,
+            "lng": -10.890309900000034
+        },
+        "N": {
+            "name": "Northern Province",
+            "code": "N",
+            "names": {
+                "geonames": "Northern Province",
+                "en": "Northern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 9.3500888,
+            "lng": -11.70682940000006
+        },
+        "S": {
+            "name": "Southern Province",
+            "code": "S",
+            "names": {
+                "geonames": "Southern Province",
+                "en": "Southern Province"
+            },
+            "division": "province",
+            "parent": "SL",
+            "lat": 7.7906625,
+            "lng": -11.889172099999996
+        },
         "W": {
             "name": "Western Area",
             "code": "W",
@@ -40,42 +76,6 @@
             "parent": "SL",
             "lat": 8.484146,
             "lng": -13.228669999999966
-        },
-        "S": {
-            "name": "Southern Province",
-            "code": "S",
-            "names": {
-                "geonames": "Southern Province",
-                "en": "Southern Province"
-            },
-            "division": "province",
-            "parent": "SL",
-            "lat": 7.7906625,
-            "lng": -11.889172099999996
-        },
-        "N": {
-            "name": "Northern Province",
-            "code": "N",
-            "names": {
-                "geonames": "Northern Province",
-                "en": "Northern Province"
-            },
-            "division": "province",
-            "parent": "SL",
-            "lat": 9.3500888,
-            "lng": -11.70682940000006
-        },
-        "E": {
-            "name": "Eastern Province",
-            "code": "E",
-            "names": {
-                "geonames": "Eastern Province",
-                "en": "Eastern Province"
-            },
-            "division": "province",
-            "parent": "SL",
-            "lat": 8.2473775,
-            "lng": -10.890309900000034
         }
     }
 }

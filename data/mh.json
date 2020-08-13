@@ -37,24 +37,6 @@
             "lat": null,
             "lng": null
         },
-        "ALL": {
-            "name": "Ailinglaplap Atoll",
-            "code": "ALL",
-            "names": {
-                "geonames": "Ailinglaplap Atoll",
-                "ru": "\u0410\u0438\u043b\u0438\u043d\u0433\u043b\u0430\u043f\u0430\u043b\u0430\u043f",
-                "en": "Ailinglaplap Atoll",
-                "de": "Ailinglapalap",
-                "es": "Ailinglaplap",
-                "fr": "Ailinglaplap",
-                "it": "Ailinglaplap",
-                "zh": "\u57c3\u6797\u62c9\u666e\u62c9\u666e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
-        },
         "ALK": {
             "name": "Ailuk Atoll",
             "code": "ALK",
@@ -70,6 +52,24 @@
             },
             "division": "municipality",
             "parent": "MH-T",
+            "lat": null,
+            "lng": null
+        },
+        "ALL": {
+            "name": "Ailinglaplap Atoll",
+            "code": "ALL",
+            "names": {
+                "geonames": "Ailinglaplap Atoll",
+                "ru": "\u0410\u0438\u043b\u0438\u043d\u0433\u043b\u0430\u043f\u0430\u043b\u0430\u043f",
+                "en": "Ailinglaplap Atoll",
+                "de": "Ailinglapalap",
+                "es": "Ailinglaplap",
+                "fr": "Ailinglaplap",
+                "it": "Ailinglaplap",
+                "zh": "\u57c3\u6797\u62c9\u666e\u62c9\u666e\u74b0\u7901"
+            },
+            "division": "municipality",
+            "parent": "MH-L",
             "lat": null,
             "lng": null
         },
@@ -144,6 +144,24 @@
             "lat": null,
             "lng": null
         },
+        "JAB": {
+            "name": "Jabat Island",
+            "code": "JAB",
+            "names": {
+                "geonames": "Jabat Island",
+                "ru": "\u0414\u0436\u0430\u0431\u0430\u0442",
+                "en": "Jabat Island",
+                "de": "Jabwot",
+                "es": "Jabat",
+                "fr": "Jabat",
+                "it": "Jabat",
+                "zh": "\u8cc8\u666e\u5766\u5cf6"
+            },
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": null,
+            "lng": null
+        },
         "JAL": {
             "name": "Jaluit Atoll",
             "code": "JAL",
@@ -156,6 +174,24 @@
                 "fr": "Jaluit",
                 "it": "Jaluit",
                 "zh": "\u8cc8\u76e7\u4f0a\u7279\u74b0\u7901"
+            },
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": null,
+            "lng": null
+        },
+        "KIL": {
+            "name": "Kili Island",
+            "code": "KIL",
+            "names": {
+                "geonames": "Kili Island",
+                "ru": "\u041a\u0438\u043b\u0438",
+                "en": "Kili Island",
+                "de": "Kili-Insel",
+                "es": "Kili",
+                "fr": "Kili",
+                "it": "Kili",
+                "zh": "\u5409\u5229\u5cf6"
             },
             "division": "municipality",
             "parent": "MH-L",
@@ -180,6 +216,14 @@
             "lat": 8.7239267,
             "lng": 167.73601540000004
         },
+        "L": {
+            "name": "Ralik chain",
+            "code": "L",
+            "division": "chains (of islands)",
+            "parent": "MH",
+            "lat": 8,
+            "lng": 167
+        },
         "LAE": {
             "name": "Lae Atoll",
             "code": "LAE",
@@ -196,6 +240,24 @@
             "parent": "MH-L",
             "lat": 8.925121,
             "lng": 166.26951199999996
+        },
+        "LIB": {
+            "name": "Lib Island",
+            "code": "LIB",
+            "names": {
+                "geonames": "Lib Island",
+                "ru": "\u041b\u0438\u0431",
+                "en": "Lib Island",
+                "de": "Lib",
+                "es": "Lib",
+                "fr": "Lib",
+                "it": "Lib",
+                "zh": "\u91cc\u5e03\u5cf6"
+            },
+            "division": "municipality",
+            "parent": "MH-L",
+            "lat": null,
+            "lng": null
         },
         "LIK": {
             "name": "Likiep Atoll",
@@ -246,6 +308,24 @@
                 "fr": "Maloelap",
                 "it": "Maloelap",
                 "zh": "\u99ac\u6d1b\u57c3\u62c9\u666e\u74b0\u7901"
+            },
+            "division": "municipality",
+            "parent": "MH-T",
+            "lat": null,
+            "lng": null
+        },
+        "MEJ": {
+            "name": "Mejit Island",
+            "code": "MEJ",
+            "names": {
+                "geonames": "Mejit Island",
+                "ru": "\u041c\u0435\u0434\u0436\u0438\u0442",
+                "en": "Mejit Island",
+                "de": "Mejit",
+                "es": "Mejit",
+                "fr": "Mejit",
+                "it": "Mejit",
+                "zh": "\u6885\u5409\u7279\u5cf6"
             },
             "division": "municipality",
             "parent": "MH-T",
@@ -323,6 +403,14 @@
             "lat": null,
             "lng": null
         },
+        "T": {
+            "name": "Ratak chain",
+            "code": "T",
+            "division": "chains (of islands)",
+            "parent": "MH",
+            "lat": 9,
+            "lng": 171
+        },
         "UJA": {
             "name": "Ujae Atoll",
             "code": "UJA",
@@ -395,94 +483,9 @@
             "lat": null,
             "lng": null
         },
-        "JAB": {
-            "name": "Jabat Island",
-            "code": "JAB",
-            "names": {
-                "geonames": "Jabat Island",
-                "ru": "\u0414\u0436\u0430\u0431\u0430\u0442",
-                "en": "Jabat Island",
-                "de": "Jabwot",
-                "es": "Jabat",
-                "fr": "Jabat",
-                "it": "Jabat",
-                "zh": "\u8cc8\u666e\u5766\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
-        },
-        "KIL": {
-            "name": "Kili Island",
-            "code": "KIL",
-            "names": {
-                "geonames": "Kili Island",
-                "ru": "\u041a\u0438\u043b\u0438",
-                "en": "Kili Island",
-                "de": "Kili-Insel",
-                "es": "Kili",
-                "fr": "Kili",
-                "it": "Kili",
-                "zh": "\u5409\u5229\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
-        },
-        "LIB": {
-            "name": "Lib Island",
-            "code": "LIB",
-            "names": {
-                "geonames": "Lib Island",
-                "ru": "\u041b\u0438\u0431",
-                "en": "Lib Island",
-                "de": "Lib",
-                "es": "Lib",
-                "fr": "Lib",
-                "it": "Lib",
-                "zh": "\u91cc\u5e03\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
-        },
-        "MEJ": {
-            "name": "Mejit Island",
-            "code": "MEJ",
-            "names": {
-                "geonames": "Mejit Island",
-                "ru": "\u041c\u0435\u0434\u0436\u0438\u0442",
-                "en": "Mejit Island",
-                "de": "Mejit",
-                "es": "Mejit",
-                "fr": "Mejit",
-                "it": "Mejit",
-                "zh": "\u6885\u5409\u7279\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
-        },
-        "L": {
-            "name": "Ralik chain",
-            "division": "chains (of islands)",
-            "parent": "MH",
-            "lat": 8,
-            "lng": 167
-        },
-        "T": {
-            "name": "Ratak chain",
-            "division": "chains (of islands)",
-            "parent": "MH",
-            "lat": 9,
-            "lng": 171
-        },
         "WTN": {
             "name": "Wotho",
+            "code": "WTN",
             "division": "municipality",
             "parent": "MH-L"
         }

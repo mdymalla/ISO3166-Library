@@ -24,78 +24,6 @@
         "pt": "Palau"
     },
     "ISO3166-2": {
-        "224": {
-            "name": "Ngatpang",
-            "code": "224",
-            "names": {
-                "geonames": "Ngatpang",
-                "ru": "\u041d\u0433\u0430\u0442\u043f\u0430\u043d\u0433",
-                "en": "Ngatpang",
-                "de": "Ngatpang",
-                "es": "Ngatpang",
-                "fr": "Ngatpang",
-                "it": "Ngatpang",
-                "zh": "\u96c5\u9f90"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
-        },
-        "370": {
-            "name": "Sonsorol",
-            "code": "370",
-            "names": {
-                "geonames": "Sonsorol",
-                "ru": "\u0421\u043e\u043d\u0441\u043e\u0440\u043e\u043b",
-                "en": "Sonsorol",
-                "de": "Sonsorol",
-                "es": "Sonsoral",
-                "fr": "Sonsorol",
-                "it": "Sonsorol",
-                "zh": "\u677e\u7d22\u7f85\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
-        },
-        "100": {
-            "name": "Kayangel",
-            "code": "100",
-            "names": {
-                "geonames": "Kayangel",
-                "ru": "\u041a\u0430\u044f\u043d\u0433\u0435\u043b",
-                "en": "Kayangel",
-                "de": "Kayangel",
-                "es": "Kayangel",
-                "fr": "Kayangel",
-                "it": "Kayangel",
-                "zh": "\u5361\u63da\u57c3\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
-        },
-        "050": {
-            "name": "Hatohobei",
-            "code": "050",
-            "names": {
-                "geonames": "Hatohobei",
-                "ru": "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0438",
-                "en": "Hatohobei",
-                "de": "Hatohobei",
-                "es": "Hatohobei",
-                "fr": "Hatohobei",
-                "it": "Hatohobei",
-                "zh": "\u54c8\u6258\u535a\u6d77\u4f0a\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
-        },
         "002": {
             "name": "Aimeliik",
             "code": "002",
@@ -149,6 +77,42 @@
             "parent": "PW",
             "lat": 6.905018,
             "lng": 134.12957099999994
+        },
+        "050": {
+            "name": "Hatohobei",
+            "code": "050",
+            "names": {
+                "geonames": "Hatohobei",
+                "ru": "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0438",
+                "en": "Hatohobei",
+                "de": "Hatohobei",
+                "es": "Hatohobei",
+                "fr": "Hatohobei",
+                "it": "Hatohobei",
+                "zh": "\u54c8\u6258\u535a\u6d77\u4f0a\u5dde"
+            },
+            "division": "state",
+            "parent": "PW",
+            "lat": null,
+            "lng": null
+        },
+        "100": {
+            "name": "Kayangel",
+            "code": "100",
+            "names": {
+                "geonames": "Kayangel",
+                "ru": "\u041a\u0430\u044f\u043d\u0433\u0435\u043b",
+                "en": "Kayangel",
+                "de": "Kayangel",
+                "es": "Kayangel",
+                "fr": "Kayangel",
+                "it": "Kayangel",
+                "zh": "\u5361\u63da\u57c3\u723e"
+            },
+            "division": "state",
+            "parent": "PW",
+            "lat": null,
+            "lng": null
         },
         "150": {
             "name": "Koror",
@@ -204,24 +168,6 @@
             "lat": 48.0335154,
             "lng": -65.22816599999999
         },
-        "226": {
-            "name": "Ngchesar",
-            "code": "226",
-            "names": {
-                "geonames": "Ngchesar",
-                "ru": "\u041d\u0433\u0445\u0435\u0441\u0430\u0440",
-                "en": "Ngchesar",
-                "de": "Ngchesar",
-                "es": "Ngchesar",
-                "fr": "Ngchesar",
-                "it": "Ngchesar",
-                "zh": "\u6069\u5207\u85a9\u723e\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.4675,
-            "lng": 134.60722220000002
-        },
         "218": {
             "name": "Ngarchelong",
             "code": "218",
@@ -257,6 +203,42 @@
             "parent": "PW",
             "lat": null,
             "lng": null
+        },
+        "224": {
+            "name": "Ngatpang",
+            "code": "224",
+            "names": {
+                "geonames": "Ngatpang",
+                "ru": "\u041d\u0433\u0430\u0442\u043f\u0430\u043d\u0433",
+                "en": "Ngatpang",
+                "de": "Ngatpang",
+                "es": "Ngatpang",
+                "fr": "Ngatpang",
+                "it": "Ngatpang",
+                "zh": "\u96c5\u9f90"
+            },
+            "division": "state",
+            "parent": "PW",
+            "lat": null,
+            "lng": null
+        },
+        "226": {
+            "name": "Ngchesar",
+            "code": "226",
+            "names": {
+                "geonames": "Ngchesar",
+                "ru": "\u041d\u0433\u0445\u0435\u0441\u0430\u0440",
+                "en": "Ngchesar",
+                "de": "Ngchesar",
+                "es": "Ngchesar",
+                "fr": "Ngchesar",
+                "it": "Ngchesar",
+                "zh": "\u6069\u5207\u85a9\u723e\u5dde"
+            },
+            "division": "state",
+            "parent": "PW",
+            "lat": 7.4675,
+            "lng": 134.60722220000002
         },
         "227": {
             "name": "Ngeremlengui",
@@ -310,6 +292,24 @@
             "parent": "PW",
             "lat": 7.0091636,
             "lng": 134.2508537
+        },
+        "370": {
+            "name": "Sonsorol",
+            "code": "370",
+            "names": {
+                "geonames": "Sonsorol",
+                "ru": "\u0421\u043e\u043d\u0441\u043e\u0440\u043e\u043b",
+                "en": "Sonsorol",
+                "de": "Sonsorol",
+                "es": "Sonsoral",
+                "fr": "Sonsorol",
+                "it": "Sonsorol",
+                "zh": "\u677e\u7d22\u7f85\u723e"
+            },
+            "division": "state",
+            "parent": "PW",
+            "lat": null,
+            "lng": null
         }
     }
 }

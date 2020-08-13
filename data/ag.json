@@ -24,73 +24,22 @@
         "pt": "Ant\u00edgua e Barbuda"
     },
     "ISO3166-2": {
-        "08": {
-            "name": "Saint Philip Parish, Antigua and Barbuda",
-            "code": "08",
+        "03": {
+            "name": "Saint George Parish, Antigua and Barbuda",
+            "code": "03",
             "names": {
-                "geonames": "Saint Philip",
-                "ru": "\u0421\u0435\u043d\u0442-\u0424\u0438\u043b\u0438\u043f",
-                "en": "Saint Philip Parish",
-                "es": "Parroquia de Saint Philip",
-                "fr": "Saint-Philip",
-                "it": "Saint Philip",
-                "zh": "\u8056\u83f2\u5229\u666e\u5340"
+                "geonames": "Saint George",
+                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436",
+                "en": "Saint George Parish",
+                "es": "Parroquia de Saint George",
+                "fr": "Saint-George",
+                "it": "Saint George",
+                "zh": "\u8056\u55ac\u6cbb\u5340"
             },
             "division": "parish",
             "parent": "AG",
-            "lat": null,
-            "lng": null
-        },
-        "07": {
-            "name": "Saint Peter Parish, Antigua and Barbuda",
-            "code": "07",
-            "names": {
-                "geonames": "Saint Peter",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0438\u0442\u0435\u0440",
-                "en": "Saint Peter Parish",
-                "es": "Parroquia de Saint Peter",
-                "fr": "Saint-Peter",
-                "it": "Saint Peter",
-                "zh": "\u8056\u5f7c\u5f97\u5340"
-            },
-            "division": "parish",
-            "parent": "AG",
-            "lat": 47.63356,
-            "lng": -56.23132900000002
-        },
-        "06": {
-            "name": "Saint Paul Parish, Antigua and Barbuda",
-            "code": "06",
-            "names": {
-                "geonames": "Saint Paul",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b",
-                "en": "Saint Paul Parish",
-                "es": "Parroquia de Saint Paul",
-                "fr": "Saint-Paul",
-                "it": "Saint Paul",
-                "zh": "\u8056\u4fdd\u7f85\u5340"
-            },
-            "division": "parish",
-            "parent": "AG",
-            "lat": 30.2705828,
-            "lng": -91.1018752
-        },
-        "05": {
-            "name": "Saint Mary Parish, Antigua and Barbuda",
-            "code": "05",
-            "names": {
-                "geonames": "Saint Mary",
-                "ru": "\u0421\u0435\u043d\u0442-\u041c\u044d\u0440\u0438",
-                "en": "Saint Mary Parish",
-                "es": "Parroquia de Saint Mary",
-                "fr": "Saint-Mary",
-                "it": "Saint Mary",
-                "zh": "\u8056\u746a\u9e97\u5340"
-            },
-            "division": "parish",
-            "parent": "AG",
-            "lat": 17.1208691,
-            "lng": -61.8420893
+            "lat": 17.1265542,
+            "lng": -61.847537699999975
         },
         "04": {
             "name": "Saint John Parish, Antigua and Barbuda",
@@ -109,40 +58,73 @@
             "lat": 17.117528,
             "lng": -61.845556999999985
         },
-        "03": {
-            "name": "Saint George Parish, Antigua and Barbuda",
-            "code": "03",
+        "05": {
+            "name": "Saint Mary Parish, Antigua and Barbuda",
+            "code": "05",
             "names": {
-                "geonames": "Saint George",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436",
-                "en": "Saint George Parish",
-                "es": "Parroquia de Saint George",
-                "fr": "Saint-George",
-                "it": "Saint George",
-                "zh": "\u8056\u55ac\u6cbb\u5340"
+                "geonames": "Saint Mary",
+                "ru": "\u0421\u0435\u043d\u0442-\u041c\u044d\u0440\u0438",
+                "en": "Saint Mary Parish",
+                "es": "Parroquia de Saint Mary",
+                "fr": "Saint-Mary",
+                "it": "Saint Mary",
+                "zh": "\u8056\u746a\u9e97\u5340"
             },
             "division": "parish",
             "parent": "AG",
-            "lat": 17.1265542,
-            "lng": -61.847537699999975
+            "lat": 17.1208691,
+            "lng": -61.8420893
         },
-        "11": {
-            "name": "Redonda",
-            "code": "11",
+        "06": {
+            "name": "Saint Paul Parish, Antigua and Barbuda",
+            "code": "06",
             "names": {
-                "geonames": "Redonda",
-                "ru": "\u0420\u0435\u0434\u043e\u043d\u0434\u0430",
-                "en": "Redonda",
-                "de": "Redonda",
-                "es": "Isla Redonda",
-                "fr": "Redonda",
-                "it": "Redonda",
-                "zh": "\u96f7\u6771\u9054\u5cf6"
+                "geonames": "Saint Paul",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b",
+                "en": "Saint Paul Parish",
+                "es": "Parroquia de Saint Paul",
+                "fr": "Saint-Paul",
+                "it": "Saint Paul",
+                "zh": "\u8056\u4fdd\u7f85\u5340"
             },
-            "division": "dependency",
+            "division": "parish",
             "parent": "AG",
-            "lat": 16.938416,
-            "lng": -62.34551479999999
+            "lat": 30.2705828,
+            "lng": -91.1018752
+        },
+        "07": {
+            "name": "Saint Peter Parish, Antigua and Barbuda",
+            "code": "07",
+            "names": {
+                "geonames": "Saint Peter",
+                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0438\u0442\u0435\u0440",
+                "en": "Saint Peter Parish",
+                "es": "Parroquia de Saint Peter",
+                "fr": "Saint-Peter",
+                "it": "Saint Peter",
+                "zh": "\u8056\u5f7c\u5f97\u5340"
+            },
+            "division": "parish",
+            "parent": "AG",
+            "lat": 47.63356,
+            "lng": -56.23132900000002
+        },
+        "08": {
+            "name": "Saint Philip Parish, Antigua and Barbuda",
+            "code": "08",
+            "names": {
+                "geonames": "Saint Philip",
+                "ru": "\u0421\u0435\u043d\u0442-\u0424\u0438\u043b\u0438\u043f",
+                "en": "Saint Philip Parish",
+                "es": "Parroquia de Saint Philip",
+                "fr": "Saint-Philip",
+                "it": "Saint Philip",
+                "zh": "\u8056\u83f2\u5229\u666e\u5340"
+            },
+            "division": "parish",
+            "parent": "AG",
+            "lat": null,
+            "lng": null
         },
         "10": {
             "name": "Barbuda",
@@ -161,6 +143,24 @@
             "parent": "AG",
             "lat": 17.626798,
             "lng": -61.77072880000003
+        },
+        "11": {
+            "name": "Redonda",
+            "code": "11",
+            "names": {
+                "geonames": "Redonda",
+                "ru": "\u0420\u0435\u0434\u043e\u043d\u0434\u0430",
+                "en": "Redonda",
+                "de": "Redonda",
+                "es": "Isla Redonda",
+                "fr": "Redonda",
+                "it": "Redonda",
+                "zh": "\u96f7\u6771\u9054\u5cf6"
+            },
+            "division": "dependency",
+            "parent": "AG",
+            "lat": 16.938416,
+            "lng": -62.34551479999999
         }
     }
 }

@@ -24,23 +24,167 @@
         "pt": "Timor-Leste"
     },
     "ISO3166-2": {
-        "VI": {
-            "name": "Viqueque District",
-            "code": "VI",
+        "AL": {
+            "name": "Aileu District",
+            "code": "AL",
             "names": {
-                "geonames": "Viqueque",
-                "ru": "\u0412\u0438\u043a\u0435\u043a\u0435",
-                "en": "Viqueque District",
-                "de": "Viqueque",
-                "es": "Viqueque",
-                "fr": "Viqueque",
-                "it": "Distretto di Viqueque",
-                "zh": "\u7dad\u514b\u514b\u7e23"
+                "geonames": "Aileu",
+                "ru": "\u0410\u0439\u043b\u0435\u0443",
+                "en": "Aileu District",
+                "de": "Aileu",
+                "es": "Aileu",
+                "fr": "Aileu",
+                "it": "Distretto di Aileu",
+                "zh": "\u963f\u4f0a\u840a\u70cf\u7e23"
             },
             "division": "district",
             "parent": "TL",
-            "lat": -8.8597918,
-            "lng": 126.36335159999999
+            "lat": -8.716667,
+            "lng": 125.56666700000005
+        },
+        "AN": {
+            "name": "Ainaro District",
+            "code": "AN",
+            "names": {
+                "geonames": "Ainaro",
+                "ru": "\u0410\u0439\u043d\u0430\u0440\u0443",
+                "en": "Ainaro District",
+                "de": "Ainaro",
+                "es": "Ainaro",
+                "fr": "Ainaro",
+                "it": "Distretto di Ainaro",
+                "zh": "\u963f\u4f0a\u7d0d\u7f85\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -9,
+            "lng": 125.5
+        },
+        "BA": {
+            "name": "Baucau District",
+            "code": "BA",
+            "names": {
+                "geonames": "Baucau",
+                "ru": "\u0411\u0430\u0443\u043a\u0430\u0443",
+                "en": "Baucau District",
+                "de": "Baucau",
+                "es": "Baucau",
+                "fr": "Baucau",
+                "it": "Distretto di Baucau",
+                "zh": "\u5305\u8003\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -8.4666667,
+            "lng": 126.45000000000005
+        },
+        "BO": {
+            "name": "Bobonaro District",
+            "code": "BO",
+            "names": {
+                "geonames": "Bobonaro",
+                "ru": "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443",
+                "en": "Bobonaro District",
+                "de": "Bobonaro",
+                "es": "Bobonaro",
+                "fr": "Bobonaro",
+                "it": "Distretto di Bobonaro",
+                "zh": "\u535a\u535a\u7d0d\u7f85\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -9.0319444,
+            "lng": 125.32500000000005
+        },
+        "CO": {
+            "name": "Cova Lima District",
+            "code": "CO",
+            "names": {
+                "geonames": "Cova Lima",
+                "ru": "\u041a\u043e\u0432\u0430-\u041b\u0438\u043c\u0430",
+                "en": "Cova Lima District",
+                "de": "Cova Lima",
+                "es": "Cova-Lima",
+                "fr": "Cova Lima",
+                "it": "Cova Lima",
+                "zh": "\u79d1\u74e6\u5229\u99ac\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": null,
+            "lng": null
+        },
+        "DI": {
+            "name": "Dili District",
+            "code": "DI",
+            "names": {
+                "geonames": "Dili",
+                "ru": "\u0414\u0438\u043b\u0438",
+                "en": "Dili District",
+                "de": "Dili",
+                "es": "Dili",
+                "fr": "Dili",
+                "it": "Distretto di Dili",
+                "zh": "\u5e1d\u529b\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -8.558458,
+            "lng": 125.57815099999993
+        },
+        "ER": {
+            "name": "Ermera District",
+            "code": "ER",
+            "names": {
+                "geonames": "Ermera",
+                "ru": "\u042d\u0440\u043c\u0435\u0440\u0430",
+                "en": "Ermera District",
+                "de": "Ermera",
+                "es": "Ermera",
+                "fr": "Ermera",
+                "it": "Ermera",
+                "zh": "\u57c3\u723e\u6885\u62c9\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -8.75,
+            "lng": 125.39999999999998
+        },
+        "LA": {
+            "name": "Laut\u00e9m District",
+            "code": "LA",
+            "names": {
+                "geonames": "Lautem",
+                "ru": "\u041b\u0430\u0443\u0442\u0435\u043d",
+                "en": "Laut\u00e9m District",
+                "de": "Laut\u00e9m",
+                "es": "Lautem",
+                "fr": "Laut\u00e9m",
+                "it": "Distretto di Laut\u00e9m",
+                "zh": "\u52de\u6ed5\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": -8.3642307,
+            "lng": 126.90438449999999
+        },
+        "LI": {
+            "name": "Liqui\u00e7\u00e1 District",
+            "code": "LI",
+            "names": {
+                "geonames": "Liquica",
+                "ru": "\u041b\u0438\u043a\u0438\u0441\u0430",
+                "en": "Liqui\u00e7\u00e1 District",
+                "de": "Liqui\u00e7\u00e1",
+                "es": "Liqui\u00e7\u00e1",
+                "fr": "Liqui\u00e7\u00e1",
+                "it": "Distretto di Liqui\u00e7\u00e1",
+                "zh": "\u5229\u9035\u85a9\u7e23"
+            },
+            "division": "district",
+            "parent": "TL",
+            "lat": null,
+            "lng": null
         },
         "MF": {
             "name": "Manufahi District",
@@ -78,132 +222,6 @@
             "lat": -8.5166667,
             "lng": 126.01666669999997
         },
-        "LI": {
-            "name": "Liqui\u00e7\u00e1 District",
-            "code": "LI",
-            "names": {
-                "geonames": "Liquica",
-                "ru": "\u041b\u0438\u043a\u0438\u0441\u0430",
-                "en": "Liqui\u00e7\u00e1 District",
-                "de": "Liqui\u00e7\u00e1",
-                "es": "Liqui\u00e7\u00e1",
-                "fr": "Liqui\u00e7\u00e1",
-                "it": "Distretto di Liqui\u00e7\u00e1",
-                "zh": "\u5229\u9035\u85a9\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": null,
-            "lng": null
-        },
-        "LA": {
-            "name": "Laut\u00e9m District",
-            "code": "LA",
-            "names": {
-                "geonames": "Lautem",
-                "ru": "\u041b\u0430\u0443\u0442\u0435\u043d",
-                "en": "Laut\u00e9m District",
-                "de": "Laut\u00e9m",
-                "es": "Lautem",
-                "fr": "Laut\u00e9m",
-                "it": "Distretto di Laut\u00e9m",
-                "zh": "\u52de\u6ed5\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.3642307,
-            "lng": 126.90438449999999
-        },
-        "CO": {
-            "name": "Cova Lima District",
-            "code": "CO",
-            "names": {
-                "geonames": "Cova Lima",
-                "ru": "\u041a\u043e\u0432\u0430-\u041b\u0438\u043c\u0430",
-                "en": "Cova Lima District",
-                "de": "Cova Lima",
-                "es": "Cova-Lima",
-                "fr": "Cova Lima",
-                "it": "Cova Lima",
-                "zh": "\u79d1\u74e6\u5229\u99ac\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": null,
-            "lng": null
-        },
-        "ER": {
-            "name": "Ermera District",
-            "code": "ER",
-            "names": {
-                "geonames": "Ermera",
-                "ru": "\u042d\u0440\u043c\u0435\u0440\u0430",
-                "en": "Ermera District",
-                "de": "Ermera",
-                "es": "Ermera",
-                "fr": "Ermera",
-                "it": "Ermera",
-                "zh": "\u57c3\u723e\u6885\u62c9\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.75,
-            "lng": 125.39999999999998
-        },
-        "DI": {
-            "name": "Dili District",
-            "code": "DI",
-            "names": {
-                "geonames": "Dili",
-                "ru": "\u0414\u0438\u043b\u0438",
-                "en": "Dili District",
-                "de": "Dili",
-                "es": "Dili",
-                "fr": "Dili",
-                "it": "Distretto di Dili",
-                "zh": "\u5e1d\u529b\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.558458,
-            "lng": 125.57815099999993
-        },
-        "BO": {
-            "name": "Bobonaro District",
-            "code": "BO",
-            "names": {
-                "geonames": "Bobonaro",
-                "ru": "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443",
-                "en": "Bobonaro District",
-                "de": "Bobonaro",
-                "es": "Bobonaro",
-                "fr": "Bobonaro",
-                "it": "Distretto di Bobonaro",
-                "zh": "\u535a\u535a\u7d0d\u7f85\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -9.0319444,
-            "lng": 125.32500000000005
-        },
-        "BA": {
-            "name": "Baucau District",
-            "code": "BA",
-            "names": {
-                "geonames": "Baucau",
-                "ru": "\u0411\u0430\u0443\u043a\u0430\u0443",
-                "en": "Baucau District",
-                "de": "Baucau",
-                "es": "Baucau",
-                "fr": "Baucau",
-                "it": "Distretto di Baucau",
-                "zh": "\u5305\u8003\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.4666667,
-            "lng": 126.45000000000005
-        },
         "OE": {
             "name": "Oecusse District",
             "code": "OE",
@@ -222,41 +240,23 @@
             "lat": -9.2019861,
             "lng": 124.35601700000007
         },
-        "AN": {
-            "name": "Ainaro District",
-            "code": "AN",
+        "VI": {
+            "name": "Viqueque District",
+            "code": "VI",
             "names": {
-                "geonames": "Ainaro",
-                "ru": "\u0410\u0439\u043d\u0430\u0440\u0443",
-                "en": "Ainaro District",
-                "de": "Ainaro",
-                "es": "Ainaro",
-                "fr": "Ainaro",
-                "it": "Distretto di Ainaro",
-                "zh": "\u963f\u4f0a\u7d0d\u7f85\u7e23"
+                "geonames": "Viqueque",
+                "ru": "\u0412\u0438\u043a\u0435\u043a\u0435",
+                "en": "Viqueque District",
+                "de": "Viqueque",
+                "es": "Viqueque",
+                "fr": "Viqueque",
+                "it": "Distretto di Viqueque",
+                "zh": "\u7dad\u514b\u514b\u7e23"
             },
             "division": "district",
             "parent": "TL",
-            "lat": -9,
-            "lng": 125.5
-        },
-        "AL": {
-            "name": "Aileu District",
-            "code": "AL",
-            "names": {
-                "geonames": "Aileu",
-                "ru": "\u0410\u0439\u043b\u0435\u0443",
-                "en": "Aileu District",
-                "de": "Aileu",
-                "es": "Aileu",
-                "fr": "Aileu",
-                "it": "Distretto di Aileu",
-                "zh": "\u963f\u4f0a\u840a\u70cf\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.716667,
-            "lng": 125.56666700000005
+            "lat": -8.8597918,
+            "lng": 126.36335159999999
         }
     }
 }

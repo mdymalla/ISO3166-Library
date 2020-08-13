@@ -20,3 +20,6 @@ https://github.com/annexare/Countries/blob/master/data/countries.json
 
 ## ISO3166-1 Country code count
 https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+
+## ISO3166-2
+https://api.github.com/repos/sokil/php-isocodes/contents/databases/iso_3166-2.json

@@ -24,196 +24,6 @@
         "pt": "Pa\u00edses Baixos"
     },
     "ISO3166-2": {
-        "ZH": {
-            "name": "South Holland",
-            "code": "ZH",
-            "names": {
-                "geonames": "South Holland",
-                "ru": "\u042e\u0436\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "South Holland",
-                "ar": "\u062c\u0646\u0648\u0628 \u0647\u0648\u0644\u0646\u062f\u0627",
-                "de": "Provinz S\u00fcdholland",
-                "es": "Holanda Meridional",
-                "fr": "Hollande-M\u00e9ridionale",
-                "it": "Olanda Meridionale",
-                "zh": "\u5357\u8377\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.9053885,
-            "lng": 4.403839500000004
-        },
-        "ZE": {
-            "name": "Zeeland",
-            "code": "ZE",
-            "names": {
-                "geonames": "Zeeland",
-                "en": "Zeeland",
-                "ar": "\u0632\u064a\u0644\u0646\u062f",
-                "de": "Provinz Zeeland",
-                "es": "Zelanda",
-                "fr": "Z\u00e9lande",
-                "it": "Zelanda",
-                "ru": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
-                "zh": "\u6cfd\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.4940309,
-            "lng": 3.849681499999974
-        },
-        "UT": {
-            "name": "Utrecht",
-            "code": "UT",
-            "names": {
-                "geonames": "Utrecht",
-                "ru": "\u0423\u0442\u0440\u0435\u0445\u0442",
-                "en": "Utrecht",
-                "ar": "\u0623\u0648\u062a\u0631\u062e\u062a",
-                "de": "Utrecht",
-                "es": "Utrecht",
-                "fr": "Utrecht",
-                "it": "Utrecht",
-                "zh": "\u4e4c\u5f97\u52d2\u652f"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.0901422,
-            "lng": 5.109664899999984
-        },
-        "OV": {
-            "name": "Overijssel",
-            "code": "OV",
-            "names": {
-                "geonames": "Overijssel",
-                "ru": "\u041e\u0432\u0435\u0440\u044d\u0439\u0441\u0441\u0435\u043b",
-                "en": "Overijssel",
-                "ar": "\u0623\u0648\u0641\u0631\u0627\u064a\u0633\u0644",
-                "de": "Provinz Overijssel",
-                "es": "Overijssel",
-                "fr": "Overijssel",
-                "it": "Overijssel",
-                "zh": "\u4e0a\u827e\u745f\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.4387814,
-            "lng": 6.501641100000029
-        },
-        "NH": {
-            "name": "North Holland",
-            "code": "NH",
-            "names": {
-                "geonames": "North Holland",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "North Holland",
-                "ar": "\u0634\u0645\u0627\u0644-\u0647\u0648\u0644\u0646\u062f\u0627",
-                "de": "Provinz Nordholland",
-                "es": "Holanda Septentrional",
-                "fr": "Hollande-Septentrionale",
-                "it": "Olanda Settentrionale",
-                "zh": "\u5317\u8377\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.3910158,
-            "lng": 4.911270899999977
-        },
-        "NB": {
-            "name": "North Brabant",
-            "code": "NB",
-            "names": {
-                "geonames": "North Brabant",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0440\u0430\u0431\u0430\u043d\u0442",
-                "en": "North Brabant",
-                "ar": "\u0634\u0645\u0627\u0644 \u0628\u0631\u0627\u0628\u0646\u062a",
-                "de": "Provinz Nordbrabant",
-                "es": "Brabante Septentrional",
-                "fr": "Brabant-Septentrional",
-                "it": "Brabante Settentrionale",
-                "zh": "\u5317\u5e03\u62c9\u73ed\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.4826537,
-            "lng": 5.232168699999988
-        },
-        "LI": {
-            "name": "Limburg",
-            "code": "LI",
-            "names": {
-                "geonames": "Limburg",
-                "en": "Limburg",
-                "ar": "\u0644\u064a\u0645\u0628\u0648\u0631\u062e",
-                "de": "Provinz Limburg",
-                "es": "Limburgo",
-                "fr": "Province de Limbourg",
-                "it": "Limburgo",
-                "ru": "\u041b\u0438\u043c\u0431\u0443\u0440\u0433",
-                "zh": "\u6797\u5821\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 50.9738973,
-            "lng": 5.341967699999941
-        },
-        "GR": {
-            "name": "Groningen",
-            "code": "GR",
-            "names": {
-                "geonames": "Groningen",
-                "ru": "\u0413\u0440\u043e\u043d\u0438\u043d\u0433\u0435\u043d",
-                "en": "Groningen",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0631\u0648\u0646\u064a\u0646\u063a\u0646",
-                "de": "Provinz Groningen",
-                "es": "Provincia de Groninga",
-                "fr": "Groningue",
-                "it": "Groninga",
-                "zh": "\u683c\u7f57\u5b81\u6839\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 53.2193835,
-            "lng": 6.566501799999969
-        },
-        "GE": {
-            "name": "Gelderland",
-            "code": "GE",
-            "names": {
-                "geonames": "Gelderland",
-                "ru": "\u0413\u0435\u043b\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
-                "en": "Gelderland",
-                "ar": "\u062e\u064a\u0644\u062f\u0631\u0644\u0646\u062f",
-                "de": "Provinz Gelderland",
-                "es": "G\u00fceldres",
-                "fr": "Gueldre",
-                "it": "Gheldria",
-                "zh": "\u6d77\u5c14\u5fb7\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.045155,
-            "lng": 5.871823400000039
-        },
-        "FR": {
-            "name": "Friesland",
-            "code": "FR",
-            "names": {
-                "geonames": "Friesland",
-                "ru": "\u0424\u0440\u0438\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "Friesland",
-                "ar": "\u0641\u0631\u0627\u064a\u0632\u0644\u0627\u0646\u062f",
-                "de": "Provinz Friesland",
-                "es": "Frisia",
-                "fr": "Frise",
-                "it": "Frisia",
-                "zh": "\u5f17\u91cc\u65af\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 53.1641642,
-            "lng": 5.781754200000023
-        },
         "DR": {
             "name": "Drenthe",
             "code": "DR",
@@ -251,6 +61,196 @@
             "parent": "NL",
             "lat": 52.5279781,
             "lng": 5.595350800000006
+        },
+        "FR": {
+            "name": "Friesland",
+            "code": "FR",
+            "names": {
+                "geonames": "Friesland",
+                "ru": "\u0424\u0440\u0438\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+                "en": "Friesland",
+                "ar": "\u0641\u0631\u0627\u064a\u0632\u0644\u0627\u0646\u062f",
+                "de": "Provinz Friesland",
+                "es": "Frisia",
+                "fr": "Frise",
+                "it": "Frisia",
+                "zh": "\u5f17\u91cc\u65af\u5170\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 53.1641642,
+            "lng": 5.781754200000023
+        },
+        "GE": {
+            "name": "Gelderland",
+            "code": "GE",
+            "names": {
+                "geonames": "Gelderland",
+                "ru": "\u0413\u0435\u043b\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+                "en": "Gelderland",
+                "ar": "\u062e\u064a\u0644\u062f\u0631\u0644\u0646\u062f",
+                "de": "Provinz Gelderland",
+                "es": "G\u00fceldres",
+                "fr": "Gueldre",
+                "it": "Gheldria",
+                "zh": "\u6d77\u5c14\u5fb7\u5170\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.045155,
+            "lng": 5.871823400000039
+        },
+        "GR": {
+            "name": "Groningen",
+            "code": "GR",
+            "names": {
+                "geonames": "Groningen",
+                "ru": "\u0413\u0440\u043e\u043d\u0438\u043d\u0433\u0435\u043d",
+                "en": "Groningen",
+                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0631\u0648\u0646\u064a\u0646\u063a\u0646",
+                "de": "Provinz Groningen",
+                "es": "Provincia de Groninga",
+                "fr": "Groningue",
+                "it": "Groninga",
+                "zh": "\u683c\u7f57\u5b81\u6839\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 53.2193835,
+            "lng": 6.566501799999969
+        },
+        "LI": {
+            "name": "Limburg",
+            "code": "LI",
+            "names": {
+                "geonames": "Limburg",
+                "en": "Limburg",
+                "ar": "\u0644\u064a\u0645\u0628\u0648\u0631\u062e",
+                "de": "Provinz Limburg",
+                "es": "Limburgo",
+                "fr": "Province de Limbourg",
+                "it": "Limburgo",
+                "ru": "\u041b\u0438\u043c\u0431\u0443\u0440\u0433",
+                "zh": "\u6797\u5821\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 50.9738973,
+            "lng": 5.341967699999941
+        },
+        "NB": {
+            "name": "North Brabant",
+            "code": "NB",
+            "names": {
+                "geonames": "North Brabant",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0440\u0430\u0431\u0430\u043d\u0442",
+                "en": "North Brabant",
+                "ar": "\u0634\u0645\u0627\u0644 \u0628\u0631\u0627\u0628\u0646\u062a",
+                "de": "Provinz Nordbrabant",
+                "es": "Brabante Septentrional",
+                "fr": "Brabant-Septentrional",
+                "it": "Brabante Settentrionale",
+                "zh": "\u5317\u5e03\u62c9\u73ed\u7279\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.4826537,
+            "lng": 5.232168699999988
+        },
+        "NH": {
+            "name": "North Holland",
+            "code": "NH",
+            "names": {
+                "geonames": "North Holland",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
+                "en": "North Holland",
+                "ar": "\u0634\u0645\u0627\u0644-\u0647\u0648\u0644\u0646\u062f\u0627",
+                "de": "Provinz Nordholland",
+                "es": "Holanda Septentrional",
+                "fr": "Hollande-Septentrionale",
+                "it": "Olanda Settentrionale",
+                "zh": "\u5317\u8377\u5170\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.3910158,
+            "lng": 4.911270899999977
+        },
+        "OV": {
+            "name": "Overijssel",
+            "code": "OV",
+            "names": {
+                "geonames": "Overijssel",
+                "ru": "\u041e\u0432\u0435\u0440\u044d\u0439\u0441\u0441\u0435\u043b",
+                "en": "Overijssel",
+                "ar": "\u0623\u0648\u0641\u0631\u0627\u064a\u0633\u0644",
+                "de": "Provinz Overijssel",
+                "es": "Overijssel",
+                "fr": "Overijssel",
+                "it": "Overijssel",
+                "zh": "\u4e0a\u827e\u745f\u5c14\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.4387814,
+            "lng": 6.501641100000029
+        },
+        "UT": {
+            "name": "Utrecht",
+            "code": "UT",
+            "names": {
+                "geonames": "Utrecht",
+                "ru": "\u0423\u0442\u0440\u0435\u0445\u0442",
+                "en": "Utrecht",
+                "ar": "\u0623\u0648\u062a\u0631\u062e\u062a",
+                "de": "Utrecht",
+                "es": "Utrecht",
+                "fr": "Utrecht",
+                "it": "Utrecht",
+                "zh": "\u4e4c\u5f97\u52d2\u652f"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 52.0901422,
+            "lng": 5.109664899999984
+        },
+        "ZE": {
+            "name": "Zeeland",
+            "code": "ZE",
+            "names": {
+                "geonames": "Zeeland",
+                "en": "Zeeland",
+                "ar": "\u0632\u064a\u0644\u0646\u062f",
+                "de": "Provinz Zeeland",
+                "es": "Zelanda",
+                "fr": "Z\u00e9lande",
+                "it": "Zelanda",
+                "ru": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+                "zh": "\u6cfd\u5170\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.4940309,
+            "lng": 3.849681499999974
+        },
+        "ZH": {
+            "name": "South Holland",
+            "code": "ZH",
+            "names": {
+                "geonames": "South Holland",
+                "ru": "\u042e\u0436\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
+                "en": "South Holland",
+                "ar": "\u062c\u0646\u0648\u0628 \u0647\u0648\u0644\u0646\u062f\u0627",
+                "de": "Provinz S\u00fcdholland",
+                "es": "Holanda Meridional",
+                "fr": "Hollande-M\u00e9ridionale",
+                "it": "Olanda Meridionale",
+                "zh": "\u5357\u8377\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "NL",
+            "lat": 51.9053885,
+            "lng": 4.403839500000004
         }
     }
 }

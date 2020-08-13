@@ -52,6 +52,19 @@
             "lat": 37.9628693,
             "lng": 23.67798210000001
         },
+        "03": {
+            "name": "North West",
+            "code": "03",
+            "names": {
+                "geonames": "North West",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0439",
+                "en": "North West"
+            },
+            "division": "district",
+            "parent": "SG",
+            "lat": 37.9629654,
+            "lng": 23.67802419999998
+        },
         "04": {
             "name": "South East",
             "code": "04",
@@ -76,19 +89,6 @@
             "parent": "SG",
             "lat": 51.1627581,
             "lng": 6.996535600000016
-        },
-        "03": {
-            "name": "North West",
-            "code": "03",
-            "names": {
-                "geonames": "North West",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0439",
-                "en": "North West"
-            },
-            "division": "district",
-            "parent": "SG",
-            "lat": 37.9629654,
-            "lng": 23.67802419999998
         }
     }
 }

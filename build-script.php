@@ -84,6 +84,7 @@ foreach ($codes as $code) {
 
         if (!isset($decoded['ISO3166-2'][$region_code]['name'])) {
             $decoded['ISO3166-2'][$region_code]['name'] = $code['name'];
+            $decoded['ISO3166-2'][$region_code]['code'] = $region_code;
         }
 
         $decoded['ISO3166-2'][$region_code]['division'] = $code['division'];
@@ -94,6 +95,11 @@ foreach ($codes as $code) {
             $decoded['ISO3166-2'][$region_code]['lng'] = $code['lng'];
         }
 
+        // sort ISO3166-2 array - will cut search time
+        // what if code is numeric?
+        if (is_array($decoded['ISO3166-2'])) {
+            ksort($decoded['ISO3166-2']);
+        }
         file_put_contents($path, json_encode($decoded, JSON_PRETTY_PRINT));
     }
 }
@@ -146,17 +152,67 @@ foreach ($countries as $key => $value) {
         file_put_contents($path, json_encode($decoded, JSON_PRETTY_PRINT));
     }
 }
-echo "Flags added\n\n";
+echo "ISO3166-1: Country flags added\n\n";
+
+// ISO3166-2: Extra source - check if anything is different or missing
+// Source should fix a few old codes
+$response = $client->request('GET', 'https://api.github.com/repos/sokil/php-isocodes/contents/databases/iso_3166-2.json', [
+    'headers' => [ 'Accept' => 'application/vnd.github.v3+json' ]
+]);
+
+$body = $response->getBody();
+$data = json_decode($body, true);
+$countries = json_decode(file_get_contents($data["download_url"]), true);
+
+foreach ($countries as $country) {
+    foreach ($country as $region) {
+        $country_code = substr($region["code"], 0, 2);
+        $region_code = substr($region["code"], 3);
+
+        $file_name = strtolower($country_code);
+        $path = './data/'.$file_name.'.json';
+
+        if (file_exists($path)) {
+            $existing_contents = file_get_contents($path);
+            $decoded = json_decode($existing_contents, true);
+
+            // Check if any code does not exist in data already
+            if (!array_key_exists($region_code, $decoded['ISO3166-2'])) {
+                foreach ($decoded['ISO3166-2'] as $key => $value) {
+                    // If name matches and existing name it must have an different/outdated code
+                    // Change deprecated code to new one and replace old key
+                    if (in_array($region['name'], $value)) {
+                        echo "*\n";
+                        echo "** Changing region code on ".$value['name'];
+                        echo " - from ".$value['code']." to ".$region_code."\n";
+
+                        $decoded['ISO3166-2'][$value['code']]['code'] = $region_code;
+                        $decoded['ISO3166-2'][$region_code] = $decoded['ISO3166-2'][$value['code']];
+                        unset($decoded['ISO3166-2'][$key]);
+
+                        if (is_array($decoded['ISO3166-2'])) {
+                            ksort($decoded['ISO3166-2']);
+                        }
+
+                        file_put_contents($path, json_encode($decoded, JSON_PRETTY_PRINT));
+                    } else {
+                        print_r($region);
+                    }
+                }
+            }
+        }
+    }
+}
 
 // Number of countries check
-$official_count = 249;
-$path = './data/';
-$files = count(glob($path.'*'));
-echo "Official ISO3166-1 Country code count: ".$official_count."\n";
-echo "Count of files by Country code: ".$files."\n";
-if ($official_count !== $files) {
-    $missing = $official_count - $files;
-    echo "Missing Countries: ".$missing."\n\n";
-} else {
-    echo "Data contains all official countries\n\n";
-}
+//$official_count = 249;
+//$path = './data/';
+//$files = count(glob($path.'*'));
+//echo "Official ISO3166-1 Country code count: ".$official_count."\n";
+//echo "Count of files by Country code: ".$files."\n";
+//if ($official_count !== $files) {
+//    $missing = $official_count - $files;
+//    echo "Missing Countries: ".$missing."\n\n";
+//} else {
+//    echo "Data contains all official countries\n\n";
+//}

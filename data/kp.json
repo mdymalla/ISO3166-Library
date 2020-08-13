@@ -80,19 +80,19 @@
             "lat": null,
             "lng": null
         },
-        "07": {
-            "name": "Kangwon Province",
-            "code": "07",
+        "04": {
+            "name": "Chagang Province",
+            "code": "04",
             "names": {
-                "geonames": "Kangwon-do",
-                "ru": "\u041a\u0430\u043d\u0432\u043e\u043d\u0434\u043e",
-                "en": "Kangwon Province",
-                "de": "Kangw\u014fn-do",
-                "es": "Kangwon-do",
-                "fr": "Kangwon",
-                "it": "Kangwon",
-                "kr": "\uac15\uc6d0\ub3c4",
-                "zh": "\u6c5f\u539f\u9053"
+                "geonames": "Chagang-do",
+                "ru": "\u0427\u0430\u0433\u0430\u043d\u0434\u043e",
+                "en": "Chagang Province",
+                "de": "Chagang-do",
+                "es": "Chagang",
+                "fr": "Jagang",
+                "it": "Chagang",
+                "kr": "\uc790\uac15\ub3c4",
+                "zh": "\u6148\u6c5f\u9053"
             },
             "division": "province",
             "parent": "KP",
@@ -137,6 +137,25 @@
             "lat": null,
             "lng": null
         },
+        "07": {
+            "name": "Kangwon Province",
+            "code": "07",
+            "names": {
+                "geonames": "Kangwon-do",
+                "ru": "\u041a\u0430\u043d\u0432\u043e\u043d\u0434\u043e",
+                "en": "Kangwon Province",
+                "de": "Kangw\u014fn-do",
+                "es": "Kangwon-do",
+                "fr": "Kangwon",
+                "it": "Kangwon",
+                "kr": "\uac15\uc6d0\ub3c4",
+                "zh": "\u6c5f\u539f\u9053"
+            },
+            "division": "province",
+            "parent": "KP",
+            "lat": null,
+            "lng": null
+        },
         "08": {
             "name": "South Hamgyong Province",
             "code": "08",
@@ -150,25 +169,6 @@
                 "it": "Sud Hamgyong",
                 "kr": "\ud568\uacbd\ubd81\ub3c4",
                 "zh": "\u54b8\u955c\u5357\u9053"
-            },
-            "division": "province",
-            "parent": "KP",
-            "lat": null,
-            "lng": null
-        },
-        "10": {
-            "name": "Ryanggang Province",
-            "code": "10",
-            "names": {
-                "geonames": "Yanggang-do",
-                "ru": "\u042f\u043d\u0433\u0430\u043d\u0434\u043e",
-                "en": "Ryanggang Province",
-                "de": "Ryanggang-do",
-                "es": "Ryanggang",
-                "fr": "Ryanggang",
-                "it": "Ryanggang",
-                "kr": "\ub7c9\uac15\ub3c4",
-                "zh": "\u4e24\u6c5f\u9053"
             },
             "division": "province",
             "parent": "KP",
@@ -194,19 +194,19 @@
             "lat": null,
             "lng": null
         },
-        "04": {
-            "name": "Chagang Province",
-            "code": "04",
+        "10": {
+            "name": "Ryanggang Province",
+            "code": "10",
             "names": {
-                "geonames": "Chagang-do",
-                "ru": "\u0427\u0430\u0433\u0430\u043d\u0434\u043e",
-                "en": "Chagang Province",
-                "de": "Chagang-do",
-                "es": "Chagang",
-                "fr": "Jagang",
-                "it": "Chagang",
-                "kr": "\uc790\uac15\ub3c4",
-                "zh": "\u6148\u6c5f\u9053"
+                "geonames": "Yanggang-do",
+                "ru": "\u042f\u043d\u0433\u0430\u043d\u0434\u043e",
+                "en": "Ryanggang Province",
+                "de": "Ryanggang-do",
+                "es": "Ryanggang",
+                "fr": "Ryanggang",
+                "it": "Ryanggang",
+                "kr": "\ub7c9\uac15\ub3c4",
+                "zh": "\u4e24\u6c5f\u9053"
             },
             "division": "province",
             "parent": "KP",

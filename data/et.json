@@ -176,6 +176,25 @@
             "lat": null,
             "lng": null
         },
+        "SN": {
+            "name": "Southern Nations, Nationalities, and Peoples' Region",
+            "code": "SN",
+            "names": {
+                "geonames": "SNNPR",
+                "ru": "\u0420\u0435\u0433\u0438\u043e\u043d \u042e\u0436\u043d\u044b\u0445 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439",
+                "en": "Southern Nations",
+                "ar": "\u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+                "de": "Region der s\u00fcdlichen Nationen",
+                "es": "Naciones",
+                "fr": "R\u00e9gion des nations",
+                "it": "Regione delle Nazioni",
+                "zh": "\u5357\u65b9\u5404\u65cf\u5dde"
+            },
+            "division": "state",
+            "parent": "ET",
+            "lat": null,
+            "lng": null
+        },
         "SO": {
             "name": "Somali Region",
             "code": "SO",
@@ -207,25 +226,6 @@
                 "fr": "Tigray",
                 "it": "Regione dei Tigr\u00e8",
                 "zh": "\u63d0\u683c\u91cc\u5dde"
-            },
-            "division": "state",
-            "parent": "ET",
-            "lat": null,
-            "lng": null
-        },
-        "SN": {
-            "name": "Southern Nations, Nationalities, and Peoples' Region",
-            "code": "SN",
-            "names": {
-                "geonames": "SNNPR",
-                "ru": "\u0420\u0435\u0433\u0438\u043e\u043d \u042e\u0436\u043d\u044b\u0445 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439",
-                "en": "Southern Nations",
-                "ar": "\u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
-                "de": "Region der s\u00fcdlichen Nationen",
-                "es": "Naciones",
-                "fr": "R\u00e9gion des nations",
-                "it": "Regione delle Nazioni",
-                "zh": "\u5357\u65b9\u5404\u65cf\u5dde"
             },
             "division": "state",
             "parent": "ET",

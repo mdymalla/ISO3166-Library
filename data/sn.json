@@ -24,169 +24,6 @@
         "pt": "Senegal"
     },
     "ISO3166-2": {
-        "ZG": {
-            "name": "Ziguinchor Region",
-            "code": "ZG",
-            "names": {
-                "geonames": "Ziguinchor",
-                "ru": "\u0417\u0438\u0433\u0438\u043d\u0448\u043e\u0440",
-                "en": "Ziguinchor Region",
-                "ar": "\u0632\u064a\u0646\u063a\u0634\u0648\u0631",
-                "de": "Region Ziguinchor",
-                "es": "Regi\u00f3n de Ziguinchor",
-                "fr": "Ziguinchor",
-                "it": "Regione di Ziguinchor",
-                "zh": "\u6d4e\u91d1\u7ecd\u5c14\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.57994,
-            "lng": -16.283951000000002
-        },
-        "TH": {
-            "name": "Thi\u00e8s Region",
-            "code": "TH",
-            "names": {
-                "geonames": "Thies",
-                "ru": "\u0422\u0438\u0435\u0441",
-                "en": "Thi\u00e8s Region",
-                "de": "Region Thi\u00e8s",
-                "es": "Regi\u00f3n de Thi\u00e8s",
-                "fr": "Thi\u00e8s",
-                "it": "Regione di Thi\u00e8s",
-                "zh": "\u6377\u65af\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.8047,
-            "lng": -16.92433900000003
-        },
-        "TC": {
-            "name": "Tambacounda Region",
-            "code": "TC",
-            "names": {
-                "geonames": "Tambacounda",
-                "ru": "\u0422\u0430\u043c\u0431\u0430\u043a\u0443\u043d\u0434\u0430",
-                "en": "Tambacounda Region",
-                "de": "Region Tambacounda",
-                "es": "Regi\u00f3n de Tambacounda",
-                "fr": "Tambacounda",
-                "it": "Regione di Tambacounda",
-                "zh": "\u5766\u5df4\u6606\u9054\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 13.7688889,
-            "lng": -13.66722219999997
-        },
-        "SL": {
-            "name": "Saint-Louis Region",
-            "code": "SL",
-            "names": {
-                "geonames": "Saint-Louis",
-                "en": "Saint-Louis Region",
-                "de": "Region Saint-Louis",
-                "es": "Regi\u00f3n de Saint-Louis",
-                "fr": "Saint-Louis",
-                "it": "Regione di Saint-Louis",
-                "ru": "\u0421\u0435\u043d-\u041b\u0443\u0438",
-                "zh": "\u8056\u8def\u6613\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 16.02463,
-            "lng": -16.489530999999943
-        },
-        "MT": {
-            "name": "Matam Region",
-            "code": "MT",
-            "names": {
-                "geonames": "Matam",
-                "ru": "\u041c\u0430\u0442\u0430\u043c",
-                "en": "Matam Region",
-                "de": "Region Matam",
-                "es": "Regi\u00f3n de Matam",
-                "fr": "Matam",
-                "it": "Regione di Matam",
-                "zh": "\u99ac\u5854\u59c6\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 15.66322,
-            "lng": -13.260960000000068
-        },
-        "LG": {
-            "name": "Louga Region",
-            "code": "LG",
-            "names": {
-                "geonames": "Louga",
-                "ru": "\u041b\u0443\u0433\u0430",
-                "en": "Louga Region",
-                "de": "Region Louga",
-                "es": "Regi\u00f3n de Louga",
-                "fr": "Louga",
-                "it": "Regione di Louga",
-                "zh": "\u76e7\u52a0\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 15.61468,
-            "lng": -16.245568999999932
-        },
-        "KD": {
-            "name": "Kolda Region",
-            "code": "KD",
-            "names": {
-                "geonames": "Kolda",
-                "ru": "\u041a\u043e\u043b\u0434\u0430",
-                "en": "Kolda Region",
-                "de": "Region Kolda",
-                "es": "Regi\u00f3n de Kolda",
-                "fr": "Kolda",
-                "it": "Regione di Kolda",
-                "zh": "\u79d1\u723e\u9054\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.89952,
-            "lng": -14.94426999999996
-        },
-        "KL": {
-            "name": "Kaolack Region",
-            "code": "KL",
-            "names": {
-                "geonames": "Kaolack",
-                "ru": "\u041a\u0430\u043e\u043b\u0430\u043a",
-                "en": "Kaolack Region",
-                "de": "Region Kaolack",
-                "es": "Regi\u00f3n de Kaolack",
-                "fr": "Kaolack",
-                "it": "Regione di Kaolack",
-                "zh": "\u8003\u62c9\u514b\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.14322,
-            "lng": -16.096090000000004
-        },
-        "FK": {
-            "name": "Fatick Region",
-            "code": "FK",
-            "names": {
-                "geonames": "Fatick",
-                "ru": "\u0424\u0430\u0442\u0438\u043a",
-                "en": "Fatick Region",
-                "de": "Region Fatick",
-                "es": "Regi\u00f3n de Fatick",
-                "fr": "Fatick",
-                "it": "Regione di Fatick",
-                "zh": "\u6cd5\u8482\u514b\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.3390167,
-            "lng": -16.411142499999983
-        },
         "DB": {
             "name": "Diourbel Region",
             "code": "DB",
@@ -223,6 +60,24 @@
             "lat": 14.75,
             "lng": -17.33333330000005
         },
+        "FK": {
+            "name": "Fatick Region",
+            "code": "FK",
+            "names": {
+                "geonames": "Fatick",
+                "ru": "\u0424\u0430\u0442\u0438\u043a",
+                "en": "Fatick Region",
+                "de": "Region Fatick",
+                "es": "Regi\u00f3n de Fatick",
+                "fr": "Fatick",
+                "it": "Regione di Fatick",
+                "zh": "\u6cd5\u8482\u514b\u533a"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 14.3390167,
+            "lng": -16.411142499999983
+        },
         "KA": {
             "name": "Kaffrine Region",
             "code": "KA",
@@ -240,6 +95,24 @@
             "parent": "SN",
             "lat": 14.10686,
             "lng": -15.551979999999958
+        },
+        "KD": {
+            "name": "Kolda Region",
+            "code": "KD",
+            "names": {
+                "geonames": "Kolda",
+                "ru": "\u041a\u043e\u043b\u0434\u0430",
+                "en": "Kolda Region",
+                "de": "Region Kolda",
+                "es": "Regi\u00f3n de Kolda",
+                "fr": "Kolda",
+                "it": "Regione di Kolda",
+                "zh": "\u79d1\u723e\u9054\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 12.89952,
+            "lng": -14.94426999999996
         },
         "KE": {
             "name": "K\u00e9dougou Region",
@@ -259,6 +132,60 @@
             "lat": 12.55438,
             "lng": -12.17322999999999
         },
+        "KL": {
+            "name": "Kaolack Region",
+            "code": "KL",
+            "names": {
+                "geonames": "Kaolack",
+                "ru": "\u041a\u0430\u043e\u043b\u0430\u043a",
+                "en": "Kaolack Region",
+                "de": "Region Kaolack",
+                "es": "Regi\u00f3n de Kaolack",
+                "fr": "Kaolack",
+                "it": "Regione di Kaolack",
+                "zh": "\u8003\u62c9\u514b\u533a"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 14.14322,
+            "lng": -16.096090000000004
+        },
+        "LG": {
+            "name": "Louga Region",
+            "code": "LG",
+            "names": {
+                "geonames": "Louga",
+                "ru": "\u041b\u0443\u0433\u0430",
+                "en": "Louga Region",
+                "de": "Region Louga",
+                "es": "Regi\u00f3n de Louga",
+                "fr": "Louga",
+                "it": "Regione di Louga",
+                "zh": "\u76e7\u52a0\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 15.61468,
+            "lng": -16.245568999999932
+        },
+        "MT": {
+            "name": "Matam Region",
+            "code": "MT",
+            "names": {
+                "geonames": "Matam",
+                "ru": "\u041c\u0430\u0442\u0430\u043c",
+                "en": "Matam Region",
+                "de": "Region Matam",
+                "es": "Regi\u00f3n de Matam",
+                "fr": "Matam",
+                "it": "Regione di Matam",
+                "zh": "\u99ac\u5854\u59c6\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 15.66322,
+            "lng": -13.260960000000068
+        },
         "SE": {
             "name": "S\u00e9dhiou Region",
             "code": "SE",
@@ -276,6 +203,79 @@
             "parent": "SN",
             "lat": 12.704604,
             "lng": -15.556230400000004
+        },
+        "SL": {
+            "name": "Saint-Louis Region",
+            "code": "SL",
+            "names": {
+                "geonames": "Saint-Louis",
+                "en": "Saint-Louis Region",
+                "de": "Region Saint-Louis",
+                "es": "Regi\u00f3n de Saint-Louis",
+                "fr": "Saint-Louis",
+                "it": "Regione di Saint-Louis",
+                "ru": "\u0421\u0435\u043d-\u041b\u0443\u0438",
+                "zh": "\u8056\u8def\u6613\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 16.02463,
+            "lng": -16.489530999999943
+        },
+        "TC": {
+            "name": "Tambacounda Region",
+            "code": "TC",
+            "names": {
+                "geonames": "Tambacounda",
+                "ru": "\u0422\u0430\u043c\u0431\u0430\u043a\u0443\u043d\u0434\u0430",
+                "en": "Tambacounda Region",
+                "de": "Region Tambacounda",
+                "es": "Regi\u00f3n de Tambacounda",
+                "fr": "Tambacounda",
+                "it": "Regione di Tambacounda",
+                "zh": "\u5766\u5df4\u6606\u9054\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 13.7688889,
+            "lng": -13.66722219999997
+        },
+        "TH": {
+            "name": "Thi\u00e8s Region",
+            "code": "TH",
+            "names": {
+                "geonames": "Thies",
+                "ru": "\u0422\u0438\u0435\u0441",
+                "en": "Thi\u00e8s Region",
+                "de": "Region Thi\u00e8s",
+                "es": "Regi\u00f3n de Thi\u00e8s",
+                "fr": "Thi\u00e8s",
+                "it": "Regione di Thi\u00e8s",
+                "zh": "\u6377\u65af\u5340"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 14.8047,
+            "lng": -16.92433900000003
+        },
+        "ZG": {
+            "name": "Ziguinchor Region",
+            "code": "ZG",
+            "names": {
+                "geonames": "Ziguinchor",
+                "ru": "\u0417\u0438\u0433\u0438\u043d\u0448\u043e\u0440",
+                "en": "Ziguinchor Region",
+                "ar": "\u0632\u064a\u0646\u063a\u0634\u0648\u0631",
+                "de": "Region Ziguinchor",
+                "es": "Regi\u00f3n de Ziguinchor",
+                "fr": "Ziguinchor",
+                "it": "Regione di Ziguinchor",
+                "zh": "\u6d4e\u91d1\u7ecd\u5c14\u533a"
+            },
+            "division": "region",
+            "parent": "SN",
+            "lat": 12.57994,
+            "lng": -16.283951000000002
         }
     }
 }

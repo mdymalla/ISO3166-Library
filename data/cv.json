@@ -24,147 +24,6 @@
         "pt": "Cabo Verde"
     },
     "ISO3166-2": {
-        "TA": {
-            "name": "Tarrafal, Cape Verde",
-            "code": "TA",
-            "names": {
-                "geonames": "Tarrafal",
-                "ru": "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b",
-                "en": "Tarrafal",
-                "fr": "Tarrafal",
-                "it": "Tarrafal",
-                "zh": "\u5854\u62c9\u6cd5\u723e",
-                "de": "Tarrafal",
-                "es": "Tarrafal"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": 15.275,
-            "lng": -23.75416670000004
-        },
-        "SV": {
-            "name": "S\u00e3o Vicente, Cape Verde",
-            "code": "SV",
-            "names": {
-                "geonames": "Sao Vicente",
-                "ru": "\u0421\u0430\u043d-\u0412\u0438\u0441\u0435\u043d\u0442\u0435",
-                "en": "S\u00e3o Vicente",
-                "de": "S\u00e3o Vicente",
-                "es": "S\u00e3o Vicente",
-                "fr": "S\u00e3o Vicente",
-                "it": "Contea di S\u00e3o Vicente",
-                "zh": "\u8056\u7dad\u68ee\u7279\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV B",
-            "lat": null,
-            "lng": null
-        },
-        "CA": {
-            "name": "Santa Catarina",
-            "code": "CA",
-            "names": {
-                "geonames": "Santa Catarina",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u0421\u0430\u043d\u0442\u044c\u044f\u0433\u0443",
-                "en": "Santa Catarina"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": 34.4499206,
-            "lng": -118.48212739999997
-        },
-        "SL": {
-            "name": "Sal, Cape Verde",
-            "code": "SL",
-            "names": {
-                "geonames": "Sal",
-                "ru": "\u0421\u0430\u043b",
-                "en": "Sal",
-                "ar": "\u0633\u0627\u0644\u060c \u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062e\u0636\u0631",
-                "de": "Sal",
-                "es": "Isla de Sal",
-                "fr": "Sal",
-                "it": "Ilha do Sal",
-                "zh": "\u85a9\u723e\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": null,
-            "lng": null
-        },
-        "RG": {
-            "name": "Ribeira Grande, Cape Verde",
-            "code": "RG",
-            "names": {
-                "geonames": "Ribeira Grande",
-                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0413\u0440\u0430\u043d\u0434\u0435",
-                "en": "Ribeira Grande",
-                "de": "Ribeira Grande",
-                "es": "Ribeira Grande",
-                "fr": "Ribeira Grande",
-                "it": "Contea di Ribeira Grande",
-                "zh": "\u5927\u91cc\u8c9d\u62c9\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV B",
-            "lat": 17.1833333,
-            "lng": -25.06666670000004
-        },
-        "PR": {
-            "name": "Praia, Cape Verde",
-            "code": "PR",
-            "names": {
-                "geonames": "Praia",
-                "ru": "\u041f\u0440\u0430\u044f",
-                "en": "Praia",
-                "ar": "\u0628\u0631\u0627\u064a\u0627",
-                "de": "Praia",
-                "es": "Praia",
-                "fr": "Praia",
-                "it": "Praia",
-                "zh": "\u57f9\u4e9e"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": 14.930464,
-            "lng": -23.51266899999996
-        },
-        "PA": {
-            "name": "Paul, Cape Verde",
-            "code": "PA",
-            "names": {
-                "geonames": "Paul",
-                "ru": "\u041f\u0430\u0443\u043b",
-                "en": "Paul",
-                "de": "Paul",
-                "es": "Paul",
-                "fr": "Paul",
-                "it": "Contea di Paul",
-                "zh": "\u4fdd\u723e\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV B",
-            "lat": 17.1475761,
-            "lng": -25.015458999999964
-        },
-        "MA": {
-            "name": "Maio, Cape Verde",
-            "code": "MA",
-            "names": {
-                "geonames": "Maio",
-                "ru": "\u041c\u0430\u044e",
-                "en": "Maio",
-                "de": "Maio",
-                "es": "Maio",
-                "fr": "Maio",
-                "it": "Maio",
-                "zh": "\u99ac\u7d04\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": -4.4561817,
-            "lng": -43.88742780000001
-        },
         "BR": {
             "name": "Brava, Cape Verde",
             "code": "BR",
@@ -202,6 +61,67 @@
             "lat": -16.5870557,
             "lng": -49.34221880000001
         },
+        "CA": {
+            "name": "Santa Catarina",
+            "code": "CA",
+            "names": {
+                "geonames": "Santa Catarina",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u0421\u0430\u043d\u0442\u044c\u044f\u0433\u0443",
+                "en": "Santa Catarina"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 34.4499206,
+            "lng": -118.48212739999997
+        },
+        "CF": {
+            "name": "Santa Catarina do Fogo, Cape Verde",
+            "code": "CF",
+            "names": {
+                "geonames": "Santa Catarina do Fogo",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u0424\u043e\u0433\u0443",
+                "en": "Santa Catarina do Fogo",
+                "es": "Santa Catarina do Fogo",
+                "fr": "Santa Catarina do Fogo",
+                "it": "Contea di Santa Catarina do Fogo",
+                "zh": "\u798f\u6208\u8056\u5361\u5854\u7433\u5a1c\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": null,
+            "lng": null
+        },
+        "CR": {
+            "name": "Santa Cruz",
+            "code": "CR",
+            "names": {
+                "geonames": "Santa Cruz",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437",
+                "en": "Santa Cruz"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.1331287,
+            "lng": -23.557969800000023
+        },
+        "MA": {
+            "name": "Maio, Cape Verde",
+            "code": "MA",
+            "names": {
+                "geonames": "Maio",
+                "ru": "\u041c\u0430\u044e",
+                "en": "Maio",
+                "de": "Maio",
+                "es": "Maio",
+                "fr": "Maio",
+                "it": "Maio",
+                "zh": "\u99ac\u7d04\u5cf6"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": -4.4561817,
+            "lng": -43.88742780000001
+        },
         "MO": {
             "name": "Mosteiros, Cape Verde",
             "code": "MO",
@@ -220,18 +140,113 @@
             "lat": 15.0333333,
             "lng": -24.325000000000045
         },
-        "CR": {
-            "name": "Santa Cruz",
-            "code": "CR",
+        "PA": {
+            "name": "Paul, Cape Verde",
+            "code": "PA",
             "names": {
-                "geonames": "Santa Cruz",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437",
-                "en": "Santa Cruz"
+                "geonames": "Paul",
+                "ru": "\u041f\u0430\u0443\u043b",
+                "en": "Paul",
+                "de": "Paul",
+                "es": "Paul",
+                "fr": "Paul",
+                "it": "Contea di Paul",
+                "zh": "\u4fdd\u723e\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.1475761,
+            "lng": -25.015458999999964
+        },
+        "PN": {
+            "name": "Porto Novo, Cape Verde",
+            "code": "PN",
+            "names": {
+                "geonames": "Porto Novo",
+                "ru": "\u041f\u043e\u0440\u0442\u0443-\u041d\u043e\u0432\u0443",
+                "en": "Porto Novo",
+                "de": "Porto Novo",
+                "es": "Porto Novo",
+                "fr": "Porto Novo",
+                "it": "Porto Novo",
+                "zh": "\u6ce2\u591a\u8afe\u4f0f\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.026408,
+            "lng": -25.063447999999994
+        },
+        "PR": {
+            "name": "Praia, Cape Verde",
+            "code": "PR",
+            "names": {
+                "geonames": "Praia",
+                "ru": "\u041f\u0440\u0430\u044f",
+                "en": "Praia",
+                "ar": "\u0628\u0631\u0627\u064a\u0627",
+                "de": "Praia",
+                "es": "Praia",
+                "fr": "Praia",
+                "it": "Praia",
+                "zh": "\u57f9\u4e9e"
             },
             "division": "municipality",
             "parent": "CV S",
-            "lat": 15.1331287,
-            "lng": -23.557969800000023
+            "lat": 14.930464,
+            "lng": -23.51266899999996
+        },
+        "RB": {
+            "name": "Ribeira Brava, Cape Verde",
+            "code": "RB",
+            "names": {
+                "geonames": "Ribeira Brava",
+                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0411\u0440\u0430\u0432\u0430",
+                "en": "Ribeira Brava",
+                "es": "Ribeira Brava",
+                "fr": "Ribeira Brava",
+                "it": "Contea di Ribeira Brava",
+                "zh": "\u91cc\u8c9d\u62c9\u5e03\u62c9\u74e6\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 16.613441,
+            "lng": -24.295889999999986
+        },
+        "RG": {
+            "name": "Ribeira Grande, Cape Verde",
+            "code": "RG",
+            "names": {
+                "geonames": "Ribeira Grande",
+                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0413\u0440\u0430\u043d\u0434\u0435",
+                "en": "Ribeira Grande",
+                "de": "Ribeira Grande",
+                "es": "Ribeira Grande",
+                "fr": "Ribeira Grande",
+                "it": "Contea di Ribeira Grande",
+                "zh": "\u5927\u91cc\u8c9d\u62c9\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": 17.1833333,
+            "lng": -25.06666670000004
+        },
+        "RS": {
+            "name": "Ribeira Grande de Santiago, Cape Verde",
+            "code": "RS",
+            "names": {
+                "geonames": "Ribeira Grande de Santiago",
+                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0413\u0440\u0430\u043d\u0434\u0435-\u0434\u0435-\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e",
+                "en": "Ribeira Grande de Santiago",
+                "de": "Ribeira Grande de Santiago",
+                "es": "Ribeira Grande de Santiago",
+                "fr": "Ribeira Grande de Santiago",
+                "it": "Contea di Ribeira Grande de Santiago",
+                "zh": "\u8056\u5730\u4e9e\u54e5\u5927\u91cc\u8c9d\u62c9\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": null,
+            "lng": null
         },
         "SD": {
             "name": "S\u00e3o Domingos, Cape Verde",
@@ -265,6 +280,25 @@
             "lat": 14.8958333,
             "lng": -24.49583329999996
         },
+        "SL": {
+            "name": "Sal, Cape Verde",
+            "code": "SL",
+            "names": {
+                "geonames": "Sal",
+                "ru": "\u0421\u0430\u043b",
+                "en": "Sal",
+                "ar": "\u0633\u0627\u0644\u060c \u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062e\u0636\u0631",
+                "de": "Sal",
+                "es": "Isla de Sal",
+                "fr": "Sal",
+                "it": "Ilha do Sal",
+                "zh": "\u85a9\u723e\u5cf6"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": null,
+            "lng": null
+        },
         "SM": {
             "name": "S\u00e3o Miguel, Cape Verde",
             "code": "SM",
@@ -282,55 +316,19 @@
             "lat": null,
             "lng": null
         },
-        "PN": {
-            "name": "Porto Novo, Cape Verde",
-            "code": "PN",
+        "SO": {
+            "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os, Cape Verde",
+            "code": "SO",
             "names": {
-                "geonames": "Porto Novo",
-                "ru": "\u041f\u043e\u0440\u0442\u0443-\u041d\u043e\u0432\u0443",
-                "en": "Porto Novo",
-                "de": "Porto Novo",
-                "es": "Porto Novo",
-                "fr": "Porto Novo",
-                "it": "Porto Novo",
-                "zh": "\u6ce2\u591a\u8afe\u4f0f\u7e23"
+                "geonames": "Sao Lourenco dos Orgaos",
+                "ru": "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u0443 \u0434\u0443\u0448 \u041e\u0440\u0433\u0430\u0443\u0448",
+                "en": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+                "fr": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+                "it": "Contea di S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+                "zh": "\u8056\u6d1b\u502b\u7d22\u7e23"
             },
-            "division": "municipality",
-            "parent": "CV B",
-            "lat": 17.026408,
-            "lng": -25.063447999999994
-        },
-        "RB": {
-            "name": "Ribeira Brava, Cape Verde",
-            "code": "RB",
-            "names": {
-                "geonames": "Ribeira Brava",
-                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0411\u0440\u0430\u0432\u0430",
-                "en": "Ribeira Brava",
-                "es": "Ribeira Brava",
-                "fr": "Ribeira Brava",
-                "it": "Contea di Ribeira Brava",
-                "zh": "\u91cc\u8c9d\u62c9\u5e03\u62c9\u74e6\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV B",
-            "lat": 16.613441,
-            "lng": -24.295889999999986
-        },
-        "CF": {
-            "name": "Santa Catarina do Fogo, Cape Verde",
-            "code": "CF",
-            "names": {
-                "geonames": "Santa Catarina do Fogo",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u0424\u043e\u0433\u0443",
-                "en": "Santa Catarina do Fogo",
-                "es": "Santa Catarina do Fogo",
-                "fr": "Santa Catarina do Fogo",
-                "it": "Contea di Santa Catarina do Fogo",
-                "zh": "\u798f\u6208\u8056\u5361\u5854\u7433\u5a1c\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV S",
+            "division": null,
+            "parent": null,
             "lat": null,
             "lng": null
         },
@@ -350,6 +348,42 @@
             "lat": 15.0833333,
             "lng": -23.633333300000004
         },
+        "SV": {
+            "name": "S\u00e3o Vicente, Cape Verde",
+            "code": "SV",
+            "names": {
+                "geonames": "Sao Vicente",
+                "ru": "\u0421\u0430\u043d-\u0412\u0438\u0441\u0435\u043d\u0442\u0435",
+                "en": "S\u00e3o Vicente",
+                "de": "S\u00e3o Vicente",
+                "es": "S\u00e3o Vicente",
+                "fr": "S\u00e3o Vicente",
+                "it": "Contea di S\u00e3o Vicente",
+                "zh": "\u8056\u7dad\u68ee\u7279\u7e23"
+            },
+            "division": "municipality",
+            "parent": "CV B",
+            "lat": null,
+            "lng": null
+        },
+        "TA": {
+            "name": "Tarrafal, Cape Verde",
+            "code": "TA",
+            "names": {
+                "geonames": "Tarrafal",
+                "ru": "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b",
+                "en": "Tarrafal",
+                "fr": "Tarrafal",
+                "it": "Tarrafal",
+                "zh": "\u5854\u62c9\u6cd5\u723e",
+                "de": "Tarrafal",
+                "es": "Tarrafal"
+            },
+            "division": "municipality",
+            "parent": "CV S",
+            "lat": 15.275,
+            "lng": -23.75416670000004
+        },
         "TS": {
             "name": "Tarrafal de S\u00e3o Nicolau, Cape Verde",
             "code": "TS",
@@ -367,40 +401,6 @@
             "parent": "CV S",
             "lat": 16.5666667,
             "lng": -24.358333300000027
-        },
-        "SO": {
-            "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os, Cape Verde",
-            "code": "SO",
-            "names": {
-                "geonames": "Sao Lourenco dos Orgaos",
-                "ru": "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u0443 \u0434\u0443\u0448 \u041e\u0440\u0433\u0430\u0443\u0448",
-                "en": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
-                "fr": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
-                "it": "Contea di S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
-                "zh": "\u8056\u6d1b\u502b\u7d22\u7e23"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "RS": {
-            "name": "Ribeira Grande de Santiago, Cape Verde",
-            "code": "RS",
-            "names": {
-                "geonames": "Ribeira Grande de Santiago",
-                "ru": "\u0420\u0438\u0431\u0435\u0439\u0440\u0430-\u0413\u0440\u0430\u043d\u0434\u0435-\u0434\u0435-\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e",
-                "en": "Ribeira Grande de Santiago",
-                "de": "Ribeira Grande de Santiago",
-                "es": "Ribeira Grande de Santiago",
-                "fr": "Ribeira Grande de Santiago",
-                "it": "Contea di Ribeira Grande de Santiago",
-                "zh": "\u8056\u5730\u4e9e\u54e5\u5927\u91cc\u8c9d\u62c9\u7e23"
-            },
-            "division": "municipality",
-            "parent": "CV S",
-            "lat": null,
-            "lng": null
         }
     }
 }

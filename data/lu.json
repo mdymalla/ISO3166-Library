@@ -26,66 +26,127 @@
         "pt": "Luxemburgo"
     },
     "ISO3166-2": {
-        "WI": {
-            "name": "Wiltz",
-            "code": "WI",
+        "CA": {
+            "name": "Capellen",
+            "code": "CA",
             "names": {
-                "geonames": "Wiltz",
-                "en": "Wiltz",
-                "de": "Kanton Wiltz",
-                "es": "Cant\u00f3n de Wiltz",
-                "fr": "Canton de Wiltz",
-                "it": "Cantone di Wiltz"
+                "geonames": "Capellen",
+                "en": "Capellen",
+                "de": "Kanton Capellen",
+                "es": "Cant\u00f3n de Capellen",
+                "fr": "Canton de Capellen",
+                "it": "Cantone di Capellen"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "VD": {
-            "name": "Vianden",
-            "code": "VD",
+        "CL": {
+            "name": "Clervaux",
+            "code": "CL",
             "names": {
-                "geonames": "Vianden",
-                "en": "Vianden",
-                "de": "Kanton Vianden",
-                "es": "Cant\u00f3n de Vianden",
-                "fr": "Canton de Vianden",
-                "it": "Cantone di Vianden"
+                "geonames": "Clervaux",
+                "en": "Clervaux"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "RM": {
-            "name": "Remich",
-            "code": "RM",
+        "D": {
+            "name": "Diekirch",
+            "code": "D",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.8692938,
+            "lng": 6.1581098999999995
+        },
+        "DI": {
+            "name": "Diekirch",
+            "code": "DI",
             "names": {
-                "geonames": "Remich",
-                "en": "Remich",
-                "de": "Kanton Remich",
-                "es": "Cant\u00f3n de Remich",
-                "fr": "Canton de Remich",
-                "it": "Cantone di Remich",
-                "ru": "\u0420\u0435\u043c\u0438\u0445"
+                "geonames": "Diekirch",
+                "en": "Diekirch",
+                "de": "Kanton Diekirch",
+                "es": "Cant\u00f3n de Diekirch",
+                "fr": "Canton de Diekirch",
+                "it": "Cantone di Diekirch",
+                "ru": "\u0414\u0438\u043a\u0438\u0440\u0445",
+                "zh": "Chinese"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "RD": {
-            "name": "Redange",
-            "code": "RD",
+        "EC": {
+            "name": "Echternach",
+            "code": "EC",
             "names": {
-                "geonames": "Redange",
-                "en": "Redange",
-                "de": "Kanton Redingen",
-                "es": "Cant\u00f3n de Redange",
-                "fr": "Canton de Redange",
-                "it": "Cantone di Redange",
-                "ru": "\u0420\u0435\u0434\u0430\u043d\u0436"
+                "geonames": "Echternach",
+                "en": "Echternach",
+                "de": "Kanton Echternach",
+                "es": "Cant\u00f3n de Echternach",
+                "fr": "Canton d'Echternach",
+                "it": "Cantone di Echternach"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "ES": {
+            "name": "Esch-sur-Alzette",
+            "code": "ES",
+            "names": {
+                "geonames": "Esch-sur-Alzette",
+                "en": "Esch-sur-Alzette"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "G": {
+            "name": "Grevenmacher",
+            "code": "G",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.679084,
+            "lng": 6.441624300000058
+        },
+        "GR": {
+            "name": "Grevenmacher",
+            "code": "GR",
+            "names": {
+                "geonames": "Grevenmacher",
+                "en": "Grevenmacher",
+                "de": "Kanton Grevenmacher",
+                "es": "Cant\u00f3n de Grevenmacher",
+                "fr": "Canton de Grevenmacher",
+                "it": "Cantone di Grevenmacher",
+                "ru": "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
+        "L": {
+            "name": "Luxembourg",
+            "code": "L",
+            "division": "district",
+            "parent": "LU",
+            "lat": 49.6100036,
+            "lng": 6.129595999999992
+        },
+        "LU": {
+            "name": "Luxembourg",
+            "code": "LU",
+            "names": {
+                "geonames": "Luxembourg",
+                "en": "Luxembourg"
             },
             "division": null,
             "parent": null,
@@ -109,129 +170,71 @@
             "lat": null,
             "lng": null
         },
-        "LU": {
-            "name": "Luxembourg",
-            "code": "LU",
+        "RD": {
+            "name": "Redange",
+            "code": "RD",
             "names": {
-                "geonames": "Luxembourg",
-                "en": "Luxembourg"
+                "geonames": "Redange",
+                "en": "Redange",
+                "de": "Kanton Redingen",
+                "es": "Cant\u00f3n de Redange",
+                "fr": "Canton de Redange",
+                "it": "Cantone di Redange",
+                "ru": "\u0420\u0435\u0434\u0430\u043d\u0436"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "GR": {
-            "name": "Grevenmacher",
-            "code": "GR",
+        "RM": {
+            "name": "Remich",
+            "code": "RM",
             "names": {
-                "geonames": "Grevenmacher",
-                "en": "Grevenmacher",
-                "de": "Kanton Grevenmacher",
-                "es": "Cant\u00f3n de Grevenmacher",
-                "fr": "Canton de Grevenmacher",
-                "it": "Cantone di Grevenmacher",
-                "ru": "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+                "geonames": "Remich",
+                "en": "Remich",
+                "de": "Kanton Remich",
+                "es": "Cant\u00f3n de Remich",
+                "fr": "Canton de Remich",
+                "it": "Cantone di Remich",
+                "ru": "\u0420\u0435\u043c\u0438\u0445"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "ES": {
-            "name": "Esch-sur-Alzette",
-            "code": "ES",
+        "VD": {
+            "name": "Vianden",
+            "code": "VD",
             "names": {
-                "geonames": "Esch-sur-Alzette",
-                "en": "Esch-sur-Alzette"
+                "geonames": "Vianden",
+                "en": "Vianden",
+                "de": "Kanton Vianden",
+                "es": "Cant\u00f3n de Vianden",
+                "fr": "Canton de Vianden",
+                "it": "Cantone di Vianden"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
         },
-        "EC": {
-            "name": "Echternach",
-            "code": "EC",
+        "WI": {
+            "name": "Wiltz",
+            "code": "WI",
             "names": {
-                "geonames": "Echternach",
-                "en": "Echternach",
-                "de": "Kanton Echternach",
-                "es": "Cant\u00f3n de Echternach",
-                "fr": "Canton d'Echternach",
-                "it": "Cantone di Echternach"
+                "geonames": "Wiltz",
+                "en": "Wiltz",
+                "de": "Kanton Wiltz",
+                "es": "Cant\u00f3n de Wiltz",
+                "fr": "Canton de Wiltz",
+                "it": "Cantone di Wiltz"
             },
             "division": null,
             "parent": null,
             "lat": null,
             "lng": null
-        },
-        "DI": {
-            "name": "Diekirch",
-            "code": "DI",
-            "names": {
-                "geonames": "Diekirch",
-                "en": "Diekirch",
-                "de": "Kanton Diekirch",
-                "es": "Cant\u00f3n de Diekirch",
-                "fr": "Canton de Diekirch",
-                "it": "Cantone di Diekirch",
-                "ru": "\u0414\u0438\u043a\u0438\u0440\u0445",
-                "zh": "Chinese"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "CL": {
-            "name": "Clervaux",
-            "code": "CL",
-            "names": {
-                "geonames": "Clervaux",
-                "en": "Clervaux"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "CA": {
-            "name": "Capellen",
-            "code": "CA",
-            "names": {
-                "geonames": "Capellen",
-                "en": "Capellen",
-                "de": "Kanton Capellen",
-                "es": "Cant\u00f3n de Capellen",
-                "fr": "Canton de Capellen",
-                "it": "Cantone di Capellen"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "D": {
-            "name": "Diekirch",
-            "division": "district",
-            "parent": "LU",
-            "lat": 49.8692938,
-            "lng": 6.1581098999999995
-        },
-        "G": {
-            "name": "Grevenmacher",
-            "division": "district",
-            "parent": "LU",
-            "lat": 49.679084,
-            "lng": 6.441624300000058
-        },
-        "L": {
-            "name": "Luxembourg",
-            "division": "district",
-            "parent": "LU",
-            "lat": 49.6100036,
-            "lng": 6.129595999999992
         }
     }
 }

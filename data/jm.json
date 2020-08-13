@@ -24,23 +24,97 @@
         "pt": "Jamaica"
     },
     "ISO3166-2": {
-        "10": {
-            "name": "Westmoreland Parish",
-            "code": "10",
+        "01": {
+            "name": "Kingston Parish",
+            "code": "01",
             "names": {
-                "geonames": "Westmoreland",
-                "ru": "\u0423\u044d\u0441\u0442\u043c\u043e\u0440\u043b\u0435\u043d\u0434",
-                "en": "Westmoreland Parish",
-                "de": "Westmoreland Parish",
-                "es": "Parroquia de Westmoreland",
-                "fr": "Paroisse de Westmoreland",
-                "it": "Parrocchia di Westmoreland",
-                "zh": "\u5a01\u65af\u7279\u6469\u862d\u5340"
+                "geonames": "Kingston",
+                "ru": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d",
+                "en": "Kingston Parish",
+                "de": "Kingston Parish",
+                "es": "Parroquia de Kingston",
+                "fr": "Paroisse de Kingston",
+                "it": "Parrocchia di Kingston",
+                "zh": "\u91d1\u65af\u6566\u5340"
             },
             "division": "parish",
             "parent": "JM",
-            "lat": 30.181071,
-            "lng": -95.59546599999999
+            "lat": 17.9675315,
+            "lng": -76.77116260000003
+        },
+        "02": {
+            "name": "St. Andrew",
+            "code": "02",
+            "names": {
+                "geonames": "St. Andrew",
+                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u0434\u0440\u0443",
+                "en": "St. Andrew"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 17.992702,
+            "lng": -76.81010430000003
+        },
+        "03": {
+            "name": "St. Thomas",
+            "code": "03",
+            "names": {
+                "geonames": "St. Thomas",
+                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441",
+                "en": "St. Thomas"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 17.9805489,
+            "lng": -76.87689060000002
+        },
+        "04": {
+            "name": "Portland Parish",
+            "code": "04",
+            "names": {
+                "geonames": "Portland",
+                "ru": "\u041f\u043e\u0440\u0442\u043b\u0435\u043d\u0434",
+                "en": "Portland Parish",
+                "de": "Portland Parish",
+                "es": "Parroquia de Portland",
+                "fr": "Paroisse de Portland",
+                "it": "Parrocchia di Portland",
+                "zh": "\u6ce2\u7279\u862d\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 17.9751092,
+            "lng": -76.77019559999997
+        },
+        "05": {
+            "name": "St. Mary",
+            "code": "05",
+            "names": {
+                "geonames": "St. Mary",
+                "en": "St. Mary"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 18.26687,
+            "lng": -76.88641139999999
+        },
+        "06": {
+            "name": "Saint Ann Parish",
+            "code": "06",
+            "names": {
+                "geonames": "St Ann",
+                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d",
+                "en": "Saint Ann Parish",
+                "de": "Saint Ann Parish",
+                "es": "Parroquia de Saint Ann",
+                "fr": "Paroisse de Saint Ann",
+                "it": "Parrocchia di Saint Ann",
+                "zh": "\u8056\u5b89\u5a1c\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 51.5335309,
+            "lng": 0.07964409999999589
         },
         "07": {
             "name": "Trelawny Parish",
@@ -61,31 +135,6 @@
             "lat": 18.4937466,
             "lng": -77.65361430000002
         },
-        "03": {
-            "name": "St. Thomas",
-            "code": "03",
-            "names": {
-                "geonames": "St. Thomas",
-                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441",
-                "en": "St. Thomas"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9805489,
-            "lng": -76.87689060000002
-        },
-        "05": {
-            "name": "St. Mary",
-            "code": "05",
-            "names": {
-                "geonames": "St. Mary",
-                "en": "St. Mary"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 18.26687,
-            "lng": -76.88641139999999
-        },
         "08": {
             "name": "Saint James Parish, Jamaica",
             "code": "08",
@@ -103,126 +152,6 @@
             "parent": "JM",
             "lat": 18.4753556,
             "lng": -77.92286039999999
-        },
-        "11": {
-            "name": "Saint Elizabeth Parish",
-            "code": "11",
-            "names": {
-                "geonames": "St. Elizabeth",
-                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442",
-                "en": "Saint Elizabeth Parish",
-                "de": "Saint Elizabeth Parish",
-                "es": "Parroquia de Saint Elizabeth",
-                "fr": "Paroisse de Saint Elizabeth",
-                "it": "Parrocchia di Saint Elizabeth",
-                "zh": "\u8056\u4f0a\u9e97\u838e\u767d\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 53.468759,
-            "lng": -113.45165299999996
-        },
-        "14": {
-            "name": "Saint Catherine Parish",
-            "code": "14",
-            "names": {
-                "geonames": "Saint Catherine",
-                "ru": "\u0421\u0435\u043d\u0442-\u041a\u0430\u0442\u0435\u0440\u0438\u043d",
-                "en": "Saint Catherine Parish",
-                "de": "Saint Catherine Parish",
-                "es": "Parroquia de Saint Catherine",
-                "fr": "Paroisse de Sainte-Catherine",
-                "it": "Parrocchia di Saint Catherine",
-                "zh": "\u8056\u51f1\u745f\u7433\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9791011,
-            "lng": -76.88603369999998
-        },
-        "06": {
-            "name": "Saint Ann Parish",
-            "code": "06",
-            "names": {
-                "geonames": "St Ann",
-                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d",
-                "en": "Saint Ann Parish",
-                "de": "Saint Ann Parish",
-                "es": "Parroquia de Saint Ann",
-                "fr": "Paroisse de Saint Ann",
-                "it": "Parrocchia di Saint Ann",
-                "zh": "\u8056\u5b89\u5a1c\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 51.5335309,
-            "lng": 0.07964409999999589
-        },
-        "02": {
-            "name": "St. Andrew",
-            "code": "02",
-            "names": {
-                "geonames": "St. Andrew",
-                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u0434\u0440\u0443",
-                "en": "St. Andrew"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.992702,
-            "lng": -76.81010430000003
-        },
-        "04": {
-            "name": "Portland Parish",
-            "code": "04",
-            "names": {
-                "geonames": "Portland",
-                "ru": "\u041f\u043e\u0440\u0442\u043b\u0435\u043d\u0434",
-                "en": "Portland Parish",
-                "de": "Portland Parish",
-                "es": "Parroquia de Portland",
-                "fr": "Paroisse de Portland",
-                "it": "Parrocchia di Portland",
-                "zh": "\u6ce2\u7279\u862d\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9751092,
-            "lng": -76.77019559999997
-        },
-        "12": {
-            "name": "Manchester Parish",
-            "code": "12",
-            "names": {
-                "geonames": "Manchester",
-                "en": "Manchester Parish",
-                "de": "Manchester Parish",
-                "es": "Parroquia de Manchester",
-                "fr": "Paroisse de Manchester",
-                "it": "Parrocchia di Manchester",
-                "zh": "\u66fc\u5fb9\u65af\u7279\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9728756,
-            "lng": -77.2686496
-        },
-        "01": {
-            "name": "Kingston Parish",
-            "code": "01",
-            "names": {
-                "geonames": "Kingston",
-                "ru": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d",
-                "en": "Kingston Parish",
-                "de": "Kingston Parish",
-                "es": "Parroquia de Kingston",
-                "fr": "Paroisse de Kingston",
-                "it": "Parrocchia di Kingston",
-                "zh": "\u91d1\u65af\u6566\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9675315,
-            "lng": -76.77116260000003
         },
         "09": {
             "name": "Hanover Parish",
@@ -242,6 +171,59 @@
             "lat": 17.9699234,
             "lng": -76.7886145
         },
+        "10": {
+            "name": "Westmoreland Parish",
+            "code": "10",
+            "names": {
+                "geonames": "Westmoreland",
+                "ru": "\u0423\u044d\u0441\u0442\u043c\u043e\u0440\u043b\u0435\u043d\u0434",
+                "en": "Westmoreland Parish",
+                "de": "Westmoreland Parish",
+                "es": "Parroquia de Westmoreland",
+                "fr": "Paroisse de Westmoreland",
+                "it": "Parrocchia di Westmoreland",
+                "zh": "\u5a01\u65af\u7279\u6469\u862d\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 30.181071,
+            "lng": -95.59546599999999
+        },
+        "11": {
+            "name": "Saint Elizabeth Parish",
+            "code": "11",
+            "names": {
+                "geonames": "St. Elizabeth",
+                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442",
+                "en": "Saint Elizabeth Parish",
+                "de": "Saint Elizabeth Parish",
+                "es": "Parroquia de Saint Elizabeth",
+                "fr": "Paroisse de Saint Elizabeth",
+                "it": "Parrocchia di Saint Elizabeth",
+                "zh": "\u8056\u4f0a\u9e97\u838e\u767d\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 53.468759,
+            "lng": -113.45165299999996
+        },
+        "12": {
+            "name": "Manchester Parish",
+            "code": "12",
+            "names": {
+                "geonames": "Manchester",
+                "en": "Manchester Parish",
+                "de": "Manchester Parish",
+                "es": "Parroquia de Manchester",
+                "fr": "Paroisse de Manchester",
+                "it": "Parrocchia di Manchester",
+                "zh": "\u66fc\u5fb9\u65af\u7279\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 17.9728756,
+            "lng": -77.2686496
+        },
         "13": {
             "name": "Clarendon Parish, Jamaica",
             "code": "13",
@@ -259,6 +241,24 @@
             "parent": "JM",
             "lat": 17.9808262,
             "lng": -76.87579820000002
+        },
+        "14": {
+            "name": "Saint Catherine Parish",
+            "code": "14",
+            "names": {
+                "geonames": "Saint Catherine",
+                "ru": "\u0421\u0435\u043d\u0442-\u041a\u0430\u0442\u0435\u0440\u0438\u043d",
+                "en": "Saint Catherine Parish",
+                "de": "Saint Catherine Parish",
+                "es": "Parroquia de Saint Catherine",
+                "fr": "Paroisse de Sainte-Catherine",
+                "it": "Parrocchia di Saint Catherine",
+                "zh": "\u8056\u51f1\u745f\u7433\u5340"
+            },
+            "division": "parish",
+            "parent": "JM",
+            "lat": 17.9791011,
+            "lng": -76.88603369999998
         }
     }
 }

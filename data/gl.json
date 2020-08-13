@@ -24,23 +24,6 @@
         "pt": "Gronel\u00e2ndia"
     },
     "ISO3166-2": {
-        "QA": {
-            "name": "Qaasuitsup Kommunia",
-            "code": "QA",
-            "names": {
-                "geonames": "Qaasuitsup",
-                "ru": "\u041a\u0430\u0430\u0441\u0443\u0438\u0442\u0441\u0443\u043f",
-                "en": "Qaasuitsup Kommunia",
-                "de": "Qaasuitsup Kommunia",
-                "es": "Qaasuitsup",
-                "fr": "Qaasuitsup",
-                "it": "Qaasuitsup"
-            },
-            "division": "municipality",
-            "parent": "GH",
-            "lat": null,
-            "lng": null
-        },
         "KU": {
             "name": "Kommune Kujalleq",
             "code": "KU",
@@ -53,6 +36,23 @@
                 "fr": "Kujalleq",
                 "it": "Kujalleq",
                 "zh": "\u5e93\u96c5\u96f7\u54e5"
+            },
+            "division": "municipality",
+            "parent": "GH",
+            "lat": null,
+            "lng": null
+        },
+        "QA": {
+            "name": "Qaasuitsup Kommunia",
+            "code": "QA",
+            "names": {
+                "geonames": "Qaasuitsup",
+                "ru": "\u041a\u0430\u0430\u0441\u0443\u0438\u0442\u0441\u0443\u043f",
+                "en": "Qaasuitsup Kommunia",
+                "de": "Qaasuitsup Kommunia",
+                "es": "Qaasuitsup",
+                "fr": "Qaasuitsup",
+                "it": "Qaasuitsup"
             },
             "division": "municipality",
             "parent": "GH",

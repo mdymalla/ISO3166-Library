@@ -101,24 +101,24 @@
             "lat": 46.5653163,
             "lng": -66.4619164
         },
-        "NT": {
-            "name": "Northwest Territories",
-            "code": "NT",
+        "NL": {
+            "name": "Newfoundland and Labrador",
+            "code": "NL",
             "names": {
-                "geonames": "Northwest Territories",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438",
-                "en": "Northwest Territories",
-                "ar": "\u0627\u0644\u0623\u0642\u0627\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Nordwest-Territorien",
-                "es": "Territorios del Noroeste",
-                "fr": "Territoires du Nord-Ouest",
-                "it": "Territori del Nord-Ovest",
-                "zh": "\u897f\u5317\u5730\u533a"
+                "geonames": "Newfoundland and Labrador",
+                "ru": "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0438 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440",
+                "en": "Newfoundland and Labrador",
+                "ar": "\u0646\u064a\u0648\u0641\u0627\u0648\u0646\u062f\u0644\u0627\u0646\u062f \u0648\u0627\u0644\u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631",
+                "de": "Neufundland und Labrador",
+                "es": "Terranova y Labrador",
+                "fr": "Terre-Neuve-et-Labrador",
+                "it": "Terranova e Labrador",
+                "zh": "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
             },
-            "division": "territory",
+            "division": "province",
             "parent": "CA",
-            "lat": 64.8255441,
-            "lng": -124.84573339999997
+            "lat": 53.1355091,
+            "lng": -57.66043639999998
         },
         "NS": {
             "name": "Nova Scotia",
@@ -138,6 +138,25 @@
             "parent": "CA",
             "lat": 44.5534208,
             "lng": -63.41154540000002
+        },
+        "NT": {
+            "name": "Northwest Territories",
+            "code": "NT",
+            "names": {
+                "geonames": "Northwest Territories",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438",
+                "en": "Northwest Territories",
+                "ar": "\u0627\u0644\u0623\u0642\u0627\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+                "de": "Nordwest-Territorien",
+                "es": "Territorios del Noroeste",
+                "fr": "Territoires du Nord-Ouest",
+                "it": "Territori del Nord-Ovest",
+                "zh": "\u897f\u5317\u5730\u533a"
+            },
+            "division": "territory",
+            "parent": "CA",
+            "lat": 64.8255441,
+            "lng": -124.84573339999997
         },
         "NU": {
             "name": "Nunavut",
@@ -252,25 +271,6 @@
             "parent": "CA",
             "lat": 64.2823274,
             "lng": -135
-        },
-        "NL": {
-            "name": "Newfoundland and Labrador",
-            "code": "NL",
-            "names": {
-                "geonames": "Newfoundland and Labrador",
-                "ru": "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0438 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440",
-                "en": "Newfoundland and Labrador",
-                "ar": "\u0646\u064a\u0648\u0641\u0627\u0648\u0646\u062f\u0644\u0627\u0646\u062f \u0648\u0627\u0644\u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631",
-                "de": "Neufundland und Labrador",
-                "es": "Terranova y Labrador",
-                "fr": "Terre-Neuve-et-Labrador",
-                "it": "Terranova e Labrador",
-                "zh": "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 53.1355091,
-            "lng": -57.66043639999998
         }
     }
 }

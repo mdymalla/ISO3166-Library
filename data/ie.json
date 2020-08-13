@@ -44,6 +44,78 @@
             "lat": 51.8978719,
             "lng": -8.471087399999988
         },
+        "CE": {
+            "name": "Clare",
+            "code": "CE",
+            "division": "county",
+            "parent": "IE-M",
+            "lat": 52.7844592,
+            "lng": -9.080747599999995
+        },
+        "CN": {
+            "name": "Cavan",
+            "code": "CN",
+            "division": "county",
+            "parent": "IE-U",
+            "lat": 53.9942097,
+            "lng": -7.360895700000015
+        },
+        "CW": {
+            "name": "Carlow",
+            "code": "CW",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 52.835975,
+            "lng": -6.9245495999999775
+        },
+        "D": {
+            "name": "Dublin",
+            "code": "D",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.344104,
+            "lng": -6.267493699999932
+        },
+        "DL": {
+            "name": "Donegal",
+            "code": "DL",
+            "division": "county",
+            "parent": "IE-U",
+            "lat": 54.654487,
+            "lng": -8.110714099999996
+        },
+        "G": {
+            "name": "Galway",
+            "code": "G",
+            "division": "county",
+            "parent": "IE-C",
+            "lat": 53.2737969,
+            "lng": -9.051779899999929
+        },
+        "KE": {
+            "name": "Kildare",
+            "code": "KE",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.1598293,
+            "lng": -6.908997499999941
+        },
+        "KK": {
+            "name": "Kilkenny",
+            "code": "KK",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 52.6537541,
+            "lng": -7.247983299999987
+        },
+        "KY": {
+            "name": "Kerry",
+            "code": "KY",
+            "division": "county",
+            "parent": "IE-M",
+            "lat": 52.1813736,
+            "lng": -9.536761899999988
+        },
         "L": {
             "name": "Leinster",
             "code": "L",
@@ -62,6 +134,46 @@
             "parent": "IE",
             "lat": 53.0136689,
             "lng": -6.976001999999994
+        },
+        "LD": {
+            "name": "Longford",
+            "code": "LD",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.7258242,
+            "lng": -7.798735099999931
+        },
+        "LH": {
+            "name": "Louth",
+            "code": "LH",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.9523666,
+            "lng": -6.539012599999978
+        },
+        "LK": {
+            "name": "Limerick",
+            "code": "LK",
+            "division": "county",
+            "parent": "IE-M",
+            "lat": 52.6638571,
+            "lng": -8.626772599999981
+        },
+        "LM": {
+            "name": "Leitrim",
+            "code": "LM",
+            "division": "county",
+            "parent": "IE-C",
+            "lat": 53.9893255,
+            "lng": -8.062922000000071
+        },
+        "LS": {
+            "name": "Laois",
+            "code": "LS",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.0326359,
+            "lng": -7.300586299999964
         },
         "M": {
             "name": "Munster",
@@ -82,6 +194,62 @@
             "lat": 52.2217725,
             "lng": -8.556663800000024
         },
+        "MH": {
+            "name": "Meath",
+            "code": "MH",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.4011687,
+            "lng": -6.664395799999966
+        },
+        "MN": {
+            "name": "Monaghan",
+            "code": "MN",
+            "division": "county",
+            "parent": "IE-U",
+            "lat": 54.2485304,
+            "lng": -6.969159900000022
+        },
+        "MO": {
+            "name": "Mayo",
+            "code": "MO",
+            "division": "county",
+            "parent": "IE-C",
+            "lat": 53.7600582,
+            "lng": -9.117707099999961
+        },
+        "OY": {
+            "name": "Offaly",
+            "code": "OY",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 53.2771489,
+            "lng": -7.492387199999939
+        },
+        "RN": {
+            "name": "Roscommon",
+            "code": "RN",
+            "division": "county",
+            "parent": "IE-C",
+            "lat": 53.6279798,
+            "lng": -8.188634999999977
+        },
+        "SO": {
+            "name": "Sligo",
+            "code": "SO",
+            "division": "county",
+            "parent": "IE-C",
+            "lat": 54.2706069,
+            "lng": -8.471527899999955
+        },
+        "TA": {
+            "name": "Tipperary",
+            "code": "TA",
+            "division": "county",
+            "parent": "IE-M",
+            "lat": 52.4748756,
+            "lng": -8.157204099999944
+        },
         "U": {
             "name": "Ulster",
             "code": "U",
@@ -101,155 +269,9 @@
             "lat": 54.7824296,
             "lng": -8.05066899999997
         },
-        "CW": {
-            "name": "Carlow",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.835975,
-            "lng": -6.9245495999999775
-        },
-        "CN": {
-            "name": "Cavan",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 53.9942097,
-            "lng": -7.360895700000015
-        },
-        "CE": {
-            "name": "Clare",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.7844592,
-            "lng": -9.080747599999995
-        },
-        "DL": {
-            "name": "Donegal",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 54.654487,
-            "lng": -8.110714099999996
-        },
-        "D": {
-            "name": "Dublin",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.344104,
-            "lng": -6.267493699999932
-        },
-        "G": {
-            "name": "Galway",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.2737969,
-            "lng": -9.051779899999929
-        },
-        "KY": {
-            "name": "Kerry",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.1813736,
-            "lng": -9.536761899999988
-        },
-        "KE": {
-            "name": "Kildare",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.1598293,
-            "lng": -6.908997499999941
-        },
-        "KK": {
-            "name": "Kilkenny",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.6537541,
-            "lng": -7.247983299999987
-        },
-        "LS": {
-            "name": "Laois",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.0326359,
-            "lng": -7.300586299999964
-        },
-        "LM": {
-            "name": "Leitrim",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.9893255,
-            "lng": -8.062922000000071
-        },
-        "LK": {
-            "name": "Limerick",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.6638571,
-            "lng": -8.626772599999981
-        },
-        "LD": {
-            "name": "Longford",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.7258242,
-            "lng": -7.798735099999931
-        },
-        "LH": {
-            "name": "Louth",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.9523666,
-            "lng": -6.539012599999978
-        },
-        "MO": {
-            "name": "Mayo",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.7600582,
-            "lng": -9.117707099999961
-        },
-        "MH": {
-            "name": "Meath",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.4011687,
-            "lng": -6.664395799999966
-        },
-        "MN": {
-            "name": "Monaghan",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 54.2485304,
-            "lng": -6.969159900000022
-        },
-        "OY": {
-            "name": "Offaly",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.2771489,
-            "lng": -7.492387199999939
-        },
-        "RN": {
-            "name": "Roscommon",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.6279798,
-            "lng": -8.188634999999977
-        },
-        "SO": {
-            "name": "Sligo",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 54.2706069,
-            "lng": -8.471527899999955
-        },
-        "TA": {
-            "name": "Tipperary",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.4748756,
-            "lng": -8.157204099999944
-        },
         "WD": {
             "name": "Waterford",
+            "code": "WD",
             "division": "county",
             "parent": "IE-M",
             "lat": 52.2567868,
@@ -257,24 +279,27 @@
         },
         "WH": {
             "name": "Westmeath",
+            "code": "WH",
             "division": "county",
             "parent": "IE-L",
             "lat": 53.5346788,
             "lng": -7.349305400000048
         },
-        "WX": {
-            "name": "Wexford",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.3391609,
-            "lng": -6.460124700000051
-        },
         "WW": {
             "name": "Wicklow",
+            "code": "WW",
             "division": "county",
             "parent": "IE-L",
             "lat": 52.9792384,
             "lng": -6.042251699999952
+        },
+        "WX": {
+            "name": "Wexford",
+            "code": "WX",
+            "division": "county",
+            "parent": "IE-L",
+            "lat": 52.3391609,
+            "lng": -6.460124700000051
         }
     }
 }

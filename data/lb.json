@@ -25,43 +25,18 @@
         "pt": "L\u00edbano"
     },
     "ISO3166-2": {
-        "JL": {
-            "name": "Mount Lebanon Governorate",
-            "code": "JL",
+        "AK": {
+            "name": "Aakk\u00e2r",
+            "code": "AK",
             "names": {
-                "geonames": "Mont-Liban",
-                "ru": "\u0413\u043e\u0440\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
-                "en": "Mount Lebanon Governorate",
-                "ar": "\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
-                "de": "Gouvernement Libanonberg",
-                "es": "Gobernaci\u00f3n del Monte L\u00edbano",
-                "fr": "Gouvernorat du Mont-Liban",
-                "it": "Governatorato del Monte Libano",
-                "zh": "\u9ece\u5df4\u5ae9\u5c71\u7701"
+                "geonames": "Aakkar",
+                "ru": "\u0410\u043a\u043a\u0430\u0440",
+                "en": "Aakk\u00e2r"
             },
             "division": "governorate",
             "parent": "LB",
             "lat": null,
             "lng": null
-        },
-        "BA": {
-            "name": "Beirut Governorate",
-            "code": "BA",
-            "names": {
-                "geonames": "Beyrouth",
-                "ru": "\u0411\u0435\u0439\u0440\u0443\u0442",
-                "en": "Beirut Governorate",
-                "ar": "\u0628\u064a\u0631\u0648\u062a",
-                "de": "Gouvernement Beirut",
-                "es": "Gobernaci\u00f3n de Beirut",
-                "fr": "Gouvernorat de Beyrouth",
-                "it": "Governatorato di Beirut",
-                "zh": "\u8d1d\u9c81\u7279\u7701"
-            },
-            "division": "governorate",
-            "parent": "LB",
-            "lat": 33.8886289,
-            "lng": 35.49547940000002
         },
         "AS": {
             "name": "North Governorate",
@@ -82,24 +57,37 @@
             "lat": 34.3247222,
             "lng": 36.00027780000005
         },
-        "JA": {
-            "name": "South Governorate",
-            "code": "JA",
+        "BA": {
+            "name": "Beirut Governorate",
+            "code": "BA",
             "names": {
-                "geonames": "South Governorate",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
-                "en": "South Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
-                "de": "Gouvernement S\u00fcd-Libanon",
-                "es": "L\u00edbano-Sur",
-                "fr": "Gouvernorat du Sud-Liban",
-                "it": "Governatorato del Sud Libano",
-                "zh": "\u5357\u90e8\u7701"
+                "geonames": "Beyrouth",
+                "ru": "\u0411\u0435\u0439\u0440\u0443\u0442",
+                "en": "Beirut Governorate",
+                "ar": "\u0628\u064a\u0631\u0648\u062a",
+                "de": "Gouvernement Beirut",
+                "es": "Gobernaci\u00f3n de Beirut",
+                "fr": "Gouvernorat de Beyrouth",
+                "it": "Governatorato di Beirut",
+                "zh": "\u8d1d\u9c81\u7279\u7701"
             },
             "division": "governorate",
             "parent": "LB",
-            "lat": 33.1977778,
-            "lng": 35.343888900000024
+            "lat": 33.8886289,
+            "lng": 35.49547940000002
+        },
+        "BH": {
+            "name": "Baalbek-Hermel",
+            "code": "BH",
+            "names": {
+                "geonames": "Baalbek-Hermel",
+                "ru": "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a",
+                "en": "Baalbek-Hermel"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 34.0046889,
+            "lng": 36.211040000000025
         },
         "BI": {
             "name": "Beqaa Governorate",
@@ -120,6 +108,44 @@
             "lat": 34.3583333,
             "lng": 36.24472220000007
         },
+        "JA": {
+            "name": "South Governorate",
+            "code": "JA",
+            "names": {
+                "geonames": "South Governorate",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
+                "en": "South Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+                "de": "Gouvernement S\u00fcd-Libanon",
+                "es": "L\u00edbano-Sur",
+                "fr": "Gouvernorat du Sud-Liban",
+                "it": "Governatorato del Sud Libano",
+                "zh": "\u5357\u90e8\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": 33.1977778,
+            "lng": 35.343888900000024
+        },
+        "JL": {
+            "name": "Mount Lebanon Governorate",
+            "code": "JL",
+            "names": {
+                "geonames": "Mont-Liban",
+                "ru": "\u0413\u043e\u0440\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d",
+                "en": "Mount Lebanon Governorate",
+                "ar": "\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+                "de": "Gouvernement Libanonberg",
+                "es": "Gobernaci\u00f3n del Monte L\u00edbano",
+                "fr": "Gouvernorat du Mont-Liban",
+                "it": "Governatorato del Monte Libano",
+                "zh": "\u9ece\u5df4\u5ae9\u5c71\u7701"
+            },
+            "division": "governorate",
+            "parent": "LB",
+            "lat": null,
+            "lng": null
+        },
         "NA": {
             "name": "Nabatieh Governorate",
             "code": "NA",
@@ -138,32 +164,6 @@
             "parent": "LB",
             "lat": 33.4319444,
             "lng": 35.684999999999945
-        },
-        "AK": {
-            "name": "Aakk\u00e2r",
-            "code": "AK",
-            "names": {
-                "geonames": "Aakkar",
-                "ru": "\u0410\u043a\u043a\u0430\u0440",
-                "en": "Aakk\u00e2r"
-            },
-            "division": "governorate",
-            "parent": "LB",
-            "lat": null,
-            "lng": null
-        },
-        "BH": {
-            "name": "Baalbek-Hermel",
-            "code": "BH",
-            "names": {
-                "geonames": "Baalbek-Hermel",
-                "ru": "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a",
-                "en": "Baalbek-Hermel"
-            },
-            "division": "governorate",
-            "parent": "LB",
-            "lat": 34.0046889,
-            "lng": 36.211040000000025
         }
     }
 }

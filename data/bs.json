@@ -24,217 +24,11 @@
         "pt": "Bahamas"
     },
     "ISO3166-2": {
-        "SS": {
-            "name": "San Salvador Island",
-            "code": "SS",
-            "names": {
-                "geonames": "San Salvador",
-                "ru": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
-                "en": "San Salvador Island",
-                "de": "San Salvador",
-                "es": "San Salvador",
-                "fr": "San Salvador",
-                "it": "San Salvador",
-                "zh": "\u5723\u8428\u5c14\u74e6\u591a\u5c9b"
-            },
+        "AC": {
+            "name": "Acklins Islands",
+            "code": "AC",
             "division": "district",
-            "parent": "BS",
-            "lat": 24.0775546,
-            "lng": -74.47600879999999
-        },
-        "RI": {
-            "name": "Ragged Island",
-            "code": "RI",
-            "names": {
-                "geonames": "Ragged Island",
-                "ru": "\u0420\u044d\u0433\u0433\u0438\u0434-\u0410\u0439\u043b\u0435\u043d\u0434",
-                "en": "Ragged Island",
-                "de": "Ragged Island",
-                "es": "Isla Ragged",
-                "fr": "Ragged Island",
-                "it": "Ragged Island",
-                "zh": "\u62c9\u5409\u5fb7\u5c9b"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 22.1908067,
-            "lng": -75.73424160000002
-        },
-        "BY": {
-            "name": "Berry Islands",
-            "code": "BY",
-            "names": {
-                "geonames": "Berry Islands",
-                "ru": "\u0411\u0435\u0440\u0440\u0438",
-                "en": "Berry Islands",
-                "de": "Berry Islands",
-                "es": "Islas Berry",
-                "fr": "\u00celes Berry",
-                "it": "Berry Islands"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 25.7236234,
-            "lng": -77.83101039999997
-        },
-        "NP": {
-            "name": "New Providence",
-            "code": "NP",
-            "names": {
-                "geonames": "New Providence",
-                "en": "New Providence",
-                "ar": "\u0628\u0631\u0648\u0641\u064a\u062f\u0627\u0646\u0633 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
-                "de": "New Providence",
-                "es": "Nueva Providencia",
-                "fr": "New Providence",
-                "it": "New Providence",
-                "ru": "\u041d\u044c\u044e-\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441",
-                "zh": "\u65b0\u666e\u7f57\u7ef4\u767b\u65af\u5c9b"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "MG": {
-            "name": "Mayaguana",
-            "code": "MG",
-            "names": {
-                "geonames": "Mayaguana",
-                "ru": "\u041c\u0430\u044f\u0433\u0443\u0430\u043d\u0430",
-                "en": "Mayaguana",
-                "de": "Mayaguana",
-                "es": "Mayaguana",
-                "fr": "Mayaguana",
-                "it": "Mayaguana",
-                "zh": "\u99ac\u4e9e\u74dc\u7d0d\u5cf6"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 22.4017714,
-            "lng": -73.06413959999998
-        },
-        "LI": {
-            "name": "Long Island, Bahamas",
-            "code": "LI",
-            "names": {
-                "geonames": "Long Island",
-                "ru": "\u041b\u043e\u043d\u0433-\u0410\u0439\u043b\u0435\u043d\u0434",
-                "en": "Long Island",
-                "de": "Long Island",
-                "es": "Isla Larga",
-                "fr": "Long Island",
-                "it": "Long Island",
-                "zh": "\u9577\u5cf6"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 23.1764239,
-            "lng": -75.09615489999999
-        },
-        "IN": {
-            "name": "Inagua",
-            "code": "IN",
-            "names": {
-                "geonames": "Inagua",
-                "ru": "\u0418\u043d\u0430\u0433\u0443\u0430",
-                "en": "Inagua",
-                "de": "Inagua",
-                "es": "Inagua",
-                "fr": "Inagua",
-                "it": "Great Inagua"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 21.0656066,
-            "lng": -73.32370800000001
-        },
-        "HI": {
-            "name": "Harbour Island, Bahamas",
-            "code": "HI",
-            "names": {
-                "geonames": "Harbour Island",
-                "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0430\u0440\u0431\u043e\u0440",
-                "en": "Harbour Island",
-                "es": "Isla Harbour",
-                "fr": "Harbour Island",
-                "it": "Harbour Island",
-                "zh": "\u54c8\u52c3\u5c9b"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 25.4985244,
-            "lng": -76.63260700000001
-        },
-        "FP": {
-            "name": "Freeport, Bahamas",
-            "code": "FP",
-            "names": {
-                "geonames": "Freeport",
-                "ru": "\u0424\u0440\u0438\u043f\u043e\u0440\u0442",
-                "en": "Freeport",
-                "ar": "\u0641\u0631\u064a\u0628\u0648\u0631\u062a",
-                "de": "Freeport",
-                "es": "Freeport",
-                "fr": "Freeport",
-                "it": "Freeport"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 26.5237004,
-            "lng": -78.63987370000001
-        },
-        "EX": {
-            "name": "Exuma",
-            "code": "EX",
-            "names": {
-                "geonames": "Exuma",
-                "ru": "\u042d\u043a\u0441\u0443\u043c\u0430",
-                "en": "Exuma",
-                "de": "Exuma",
-                "es": "Exuma",
-                "fr": "\u00celes Exumas",
-                "it": "Exuma"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 23.5333333,
-            "lng": -75.83333329999999
-        },
-        "CI": {
-            "name": "Cat Island, Bahamas",
-            "code": "CI",
-            "names": {
-                "geonames": "Cat Island",
-                "ru": "\u041a\u044d\u0442",
-                "en": "Cat Island",
-                "de": "Cat Island",
-                "es": "Isla Cat",
-                "fr": "\u00cele Cat",
-                "it": "Cat",
-                "zh": "\u5361\u7279\u5cf6"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 24.3153102,
-            "lng": -75.45777750000002
-        },
-        "BI": {
-            "name": "Bimini",
-            "code": "BI",
-            "names": {
-                "geonames": "Bimini",
-                "ru": "\u0411\u0438\u043c\u0438\u043d\u0438",
-                "en": "Bimini",
-                "de": "Bimini",
-                "es": "Bimini",
-                "fr": "\u00celes Bimini",
-                "it": "Bimini"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": null,
-            "lng": null
+            "parent": "BS"
         },
         "AK": {
             "name": "Acklins",
@@ -254,6 +48,23 @@
             "lat": null,
             "lng": null
         },
+        "BI": {
+            "name": "Bimini",
+            "code": "BI",
+            "names": {
+                "geonames": "Bimini",
+                "ru": "\u0411\u0438\u043c\u0438\u043d\u0438",
+                "en": "Bimini",
+                "de": "Bimini",
+                "es": "Bimini",
+                "fr": "\u00celes Bimini",
+                "it": "Bimini"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": null,
+            "lng": null
+        },
         "BP": {
             "name": "Black Point, Bahamas",
             "code": "BP",
@@ -269,6 +80,75 @@
             "parent": "BS",
             "lat": 24.081843,
             "lng": -76.39646700000003
+        },
+        "BY": {
+            "name": "Berry Islands",
+            "code": "BY",
+            "names": {
+                "geonames": "Berry Islands",
+                "ru": "\u0411\u0435\u0440\u0440\u0438",
+                "en": "Berry Islands",
+                "de": "Berry Islands",
+                "es": "Islas Berry",
+                "fr": "\u00celes Berry",
+                "it": "Berry Islands"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.7236234,
+            "lng": -77.83101039999997
+        },
+        "CE": {
+            "name": "Central Eleuthera",
+            "code": "CE",
+            "names": {
+                "geonames": "Central Eleuthera",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430",
+                "en": "Central Eleuthera",
+                "es": "Central Eleuthera",
+                "fr": "Central Eleuthera",
+                "it": "Central Eleuthera"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": null,
+            "lng": null
+        },
+        "CI": {
+            "name": "Cat Island, Bahamas",
+            "code": "CI",
+            "names": {
+                "geonames": "Cat Island",
+                "ru": "\u041a\u044d\u0442",
+                "en": "Cat Island",
+                "de": "Cat Island",
+                "es": "Isla Cat",
+                "fr": "\u00cele Cat",
+                "it": "Cat",
+                "zh": "\u5361\u7279\u5cf6"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.3153102,
+            "lng": -75.45777750000002
+        },
+        "CK": {
+            "name": "Crooked Island, Bahamas",
+            "code": "CK",
+            "names": {
+                "geonames": "Crooked Island and Long Cay",
+                "ru": "\u041a\u0440\u0443\u043a\u0435\u0434-\u0410\u0439\u043b\u0435\u043d\u0434",
+                "en": "Crooked Island",
+                "de": "Crooked Island",
+                "es": "Isla de Crooked",
+                "fr": "Crooked Island",
+                "it": "Crooked Island",
+                "zh": "\u514b\u9b6f\u514b\u5fb7\u5cf6"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": null,
+            "lng": null
         },
         "CO": {
             "name": "Central Abaco",
@@ -302,40 +182,6 @@
             "lat": null,
             "lng": null
         },
-        "CE": {
-            "name": "Central Eleuthera",
-            "code": "CE",
-            "names": {
-                "geonames": "Central Eleuthera",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430",
-                "en": "Central Eleuthera",
-                "es": "Central Eleuthera",
-                "fr": "Central Eleuthera",
-                "it": "Central Eleuthera"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": null,
-            "lng": null
-        },
-        "CK": {
-            "name": "Crooked Island, Bahamas",
-            "code": "CK",
-            "names": {
-                "geonames": "Crooked Island and Long Cay",
-                "ru": "\u041a\u0440\u0443\u043a\u0435\u0434-\u0410\u0439\u043b\u0435\u043d\u0434",
-                "en": "Crooked Island",
-                "de": "Crooked Island",
-                "es": "Isla de Crooked",
-                "fr": "Crooked Island",
-                "it": "Crooked Island",
-                "zh": "\u514b\u9b6f\u514b\u5fb7\u5cf6"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": null,
-            "lng": null
-        },
         "EG": {
             "name": "East Grand Bahama",
             "code": "EG",
@@ -352,6 +198,41 @@
             "lat": 26.659447,
             "lng": -78.52064999999999
         },
+        "EX": {
+            "name": "Exuma",
+            "code": "EX",
+            "names": {
+                "geonames": "Exuma",
+                "ru": "\u042d\u043a\u0441\u0443\u043c\u0430",
+                "en": "Exuma",
+                "de": "Exuma",
+                "es": "Exuma",
+                "fr": "\u00celes Exumas",
+                "it": "Exuma"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 23.5333333,
+            "lng": -75.83333329999999
+        },
+        "FP": {
+            "name": "Freeport, Bahamas",
+            "code": "FP",
+            "names": {
+                "geonames": "Freeport",
+                "ru": "\u0424\u0440\u0438\u043f\u043e\u0440\u0442",
+                "en": "Freeport",
+                "ar": "\u0641\u0631\u064a\u0628\u0648\u0631\u062a",
+                "de": "Freeport",
+                "es": "Freeport",
+                "fr": "Freeport",
+                "it": "Freeport"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.5237004,
+            "lng": -78.63987370000001
+        },
         "GC": {
             "name": "Grand Cay",
             "code": "GC",
@@ -366,6 +247,29 @@
             "parent": "BS",
             "lat": 27.2166667,
             "lng": -78.33333329999999
+        },
+        "GT": {
+            "name": "Green Turtle Cay",
+            "code": "GT",
+            "division": "district",
+            "parent": "BS"
+        },
+        "HI": {
+            "name": "Harbour Island, Bahamas",
+            "code": "HI",
+            "names": {
+                "geonames": "Harbour Island",
+                "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0430\u0440\u0431\u043e\u0440",
+                "en": "Harbour Island",
+                "es": "Isla Harbour",
+                "fr": "Harbour Island",
+                "it": "Harbour Island",
+                "zh": "\u54c8\u52c3\u5c9b"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.4985244,
+            "lng": -76.63260700000001
         },
         "HT": {
             "name": "Hope Town",
@@ -383,6 +287,41 @@
             "lat": 26.539421,
             "lng": -76.95884000000001
         },
+        "IN": {
+            "name": "Inagua",
+            "code": "IN",
+            "names": {
+                "geonames": "Inagua",
+                "ru": "\u0418\u043d\u0430\u0433\u0443\u0430",
+                "en": "Inagua",
+                "de": "Inagua",
+                "es": "Inagua",
+                "fr": "Inagua",
+                "it": "Great Inagua"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 21.0656066,
+            "lng": -73.32370800000001
+        },
+        "LI": {
+            "name": "Long Island, Bahamas",
+            "code": "LI",
+            "names": {
+                "geonames": "Long Island",
+                "ru": "\u041b\u043e\u043d\u0433-\u0410\u0439\u043b\u0435\u043d\u0434",
+                "en": "Long Island",
+                "de": "Long Island",
+                "es": "Isla Larga",
+                "fr": "Long Island",
+                "it": "Long Island",
+                "zh": "\u9577\u5cf6"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 23.1764239,
+            "lng": -75.09615489999999
+        },
         "MC": {
             "name": "Mangrove Cay",
             "code": "MC",
@@ -398,6 +337,24 @@
             "parent": "BS",
             "lat": 24.2,
             "lng": -77.75
+        },
+        "MG": {
+            "name": "Mayaguana",
+            "code": "MG",
+            "names": {
+                "geonames": "Mayaguana",
+                "ru": "\u041c\u0430\u044f\u0433\u0443\u0430\u043d\u0430",
+                "en": "Mayaguana",
+                "de": "Mayaguana",
+                "es": "Mayaguana",
+                "fr": "Mayaguana",
+                "it": "Mayaguana",
+                "zh": "\u99ac\u4e9e\u74dc\u7d0d\u5cf6"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 22.4017714,
+            "lng": -73.06413959999998
         },
         "MI": {
             "name": "Moore's Island",
@@ -415,6 +372,22 @@
             "lat": 26.304823,
             "lng": -77.55620999999996
         },
+        "NE": {
+            "name": "North Eleuthera",
+            "code": "NE",
+            "names": {
+                "geonames": "North Eleuthera",
+                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430",
+                "en": "North Eleuthera",
+                "es": "Eleuthera Norte",
+                "fr": "North Eleuthera",
+                "it": "North Eleuthera"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 25.475268,
+            "lng": -76.68258100000003
+        },
         "NO": {
             "name": "North Abaco",
             "code": "NO",
@@ -431,6 +404,25 @@
             "lat": 26.2879826,
             "lng": -77.17152279999999
         },
+        "NP": {
+            "name": "New Providence",
+            "code": "NP",
+            "names": {
+                "geonames": "New Providence",
+                "en": "New Providence",
+                "ar": "\u0628\u0631\u0648\u0641\u064a\u062f\u0627\u0646\u0633 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+                "de": "New Providence",
+                "es": "Nueva Providencia",
+                "fr": "New Providence",
+                "it": "New Providence",
+                "ru": "\u041d\u044c\u044e-\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441",
+                "zh": "\u65b0\u666e\u7f57\u7ef4\u767b\u65af\u5c9b"
+            },
+            "division": null,
+            "parent": null,
+            "lat": null,
+            "lng": null
+        },
         "NS": {
             "name": "North Andros",
             "code": "NS",
@@ -446,22 +438,6 @@
             "parent": "BS",
             "lat": 24.7063805,
             "lng": -78.0195387
-        },
-        "NE": {
-            "name": "North Eleuthera",
-            "code": "NE",
-            "names": {
-                "geonames": "North Eleuthera",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430",
-                "en": "North Eleuthera",
-                "es": "Eleuthera Norte",
-                "fr": "North Eleuthera",
-                "it": "North Eleuthera"
-            },
-            "division": "district",
-            "parent": "BS",
-            "lat": 25.475268,
-            "lng": -76.68258100000003
         },
         "RC": {
             "name": "Rum Cay",
@@ -480,20 +456,23 @@
             "lat": 23.6854676,
             "lng": -74.8390162
         },
-        "SO": {
-            "name": "South Abaco",
-            "code": "SO",
+        "RI": {
+            "name": "Ragged Island",
+            "code": "RI",
             "names": {
-                "geonames": "South Abaco",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0410\u0431\u0430\u043a\u043e",
-                "en": "South Abaco",
-                "fr": "South Abaco",
-                "it": "South Abaco"
+                "geonames": "Ragged Island",
+                "ru": "\u0420\u044d\u0433\u0433\u0438\u0434-\u0410\u0439\u043b\u0435\u043d\u0434",
+                "en": "Ragged Island",
+                "de": "Ragged Island",
+                "es": "Isla Ragged",
+                "fr": "Ragged Island",
+                "it": "Ragged Island",
+                "zh": "\u62c9\u5409\u5fb7\u5c9b"
             },
             "division": "district",
             "parent": "BS",
-            "lat": 26.2879826,
-            "lng": -77.17152279999999
+            "lat": 22.1908067,
+            "lng": -75.73424160000002
         },
         "SA": {
             "name": "South Andros",
@@ -527,6 +506,39 @@
             "lat": 24.895249,
             "lng": -76.17638599999998
         },
+        "SO": {
+            "name": "South Abaco",
+            "code": "SO",
+            "names": {
+                "geonames": "South Abaco",
+                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0410\u0431\u0430\u043a\u043e",
+                "en": "South Abaco",
+                "fr": "South Abaco",
+                "it": "South Abaco"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 26.2879826,
+            "lng": -77.17152279999999
+        },
+        "SS": {
+            "name": "San Salvador Island",
+            "code": "SS",
+            "names": {
+                "geonames": "San Salvador",
+                "ru": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+                "en": "San Salvador Island",
+                "de": "San Salvador",
+                "es": "San Salvador",
+                "fr": "San Salvador",
+                "it": "San Salvador",
+                "zh": "\u5723\u8428\u5c14\u74e6\u591a\u5c9b"
+            },
+            "division": "district",
+            "parent": "BS",
+            "lat": 24.0775546,
+            "lng": -74.47600879999999
+        },
         "SW": {
             "name": "Spanish Wells",
             "code": "SW",
@@ -558,16 +570,6 @@
             "parent": "BS",
             "lat": 26.659447,
             "lng": -78.52064999999999
-        },
-        "AC": {
-            "name": "Acklins Islands",
-            "division": "district",
-            "parent": "BS"
-        },
-        "GT": {
-            "name": "Green Turtle Cay",
-            "division": "district",
-            "parent": "BS"
         }
     }
 }

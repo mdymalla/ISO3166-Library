@@ -24,326 +24,52 @@
         "pt": "Maced\u00f3nia do Norte"
     },
     "ISO3166-2": {
-        "10": {
-            "name": "Valandovo Municipality",
-            "code": "10",
+        "": {
+            "name": "Grad Skopje",
+            "code": "",
             "names": {
-                "geonames": "Valandovo",
-                "ru": "\u0412\u0430\u043b\u0430\u043d\u0434\u043e\u0432\u043e",
-                "en": "Valandovo Municipality",
-                "es": "Municipalidad de Valandovo",
-                "fr": "Valandovo",
-                "it": "Valandovo",
-                "zh": "\u74e6\u862d\u591a\u6c83\u5340"
+                "geonames": "Grad Skopje",
+                "en": "Grad Skopje"
             },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.3169444,
-            "lng": 22.561111100000062
-        },
-        "66": {
-            "name": "Resen",
-            "code": "66",
-            "names": {
-                "geonames": "Resen",
-                "ru": "\u0420\u0435\u0441\u0435\u043d",
-                "en": "Resen",
-                "es": "Municipalidad de Resen",
-                "fr": "Resen",
-                "it": "Resen",
-                "zh": "\u96f7\u68ee\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.0888889,
-            "lng": 21.012222199999997
-        },
-        "43": {
-            "name": "Kratovo Municipality",
-            "code": "43",
-            "names": {
-                "geonames": "Kratovo",
-                "ru": "\u041a\u0440\u0430\u0442\u043e\u0432\u043e",
-                "en": "Kratovo Municipality",
-                "fr": "Kratovo",
-                "it": "Kratovo",
-                "zh": "\u514b\u62c9\u6258\u6c83\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 42.0812466,
-            "lng": 22.174318599999992
-        },
-        "60": {
-            "name": "Municipality of Peh\u010devo",
-            "code": "60",
-            "names": {
-                "geonames": "Pehcevo",
-                "ru": "\u041f\u0435\u0445\u0447\u0435\u0432\u043e",
-                "en": "Municipality of Peh\u010devo",
-                "es": "Municipalidad de Peh\u010devo",
-                "fr": "Pehtchevo",
-                "it": "Peh\u010devo",
-                "zh": "\u4f69\u8d6b\u5207\u6c83\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.7377691,
-            "lng": 22.892546100000004
-        },
-        "56": {
-            "name": "Novo Selo Municipality",
-            "code": "56",
-            "names": {
-                "geonames": "Novo Selo",
-                "ru": "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e",
-                "en": "Novo Selo Municipality",
-                "de": "Op\u0161tina Novo Selo",
-                "es": "Municipalidad de Novo Selo",
-                "fr": "Novo Selo",
-                "it": "Novo Selo",
-                "zh": "\u8afe\u6c83\u585e\u6d1b\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4117903,
-            "lng": 22.879069999999956
-        },
-        "07": {
-            "name": "Bosilovo Municipality",
-            "code": "07",
-            "names": {
-                "geonames": "Bosilovo",
-                "ru": "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e",
-                "en": "Bosilovo Municipality",
-                "es": "Municipalidad de Bosilovo",
-                "fr": "Bosilovo",
-                "it": "Bosilovo",
-                "zh": "\u535a\u897f\u6d1b\u6c83\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4389865,
-            "lng": 22.731599500000016
-        },
-        "11": {
-            "name": "Vasilevo Municipality",
-            "code": "11",
-            "names": {
-                "geonames": "Vasilevo",
-                "ru": "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e",
-                "en": "Vasilevo Municipality",
-                "es": "Municipalidad de Vasilevo",
-                "fr": "Vasilevo",
-                "it": "Vasilevo",
-                "zh": "\u74e6\u897f\u5217\u6c83\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4758333,
-            "lng": 22.641666699999973
-        },
-        "26": {
-            "name": "Dojran Municipality",
-            "code": "26",
-            "names": {
-                "geonames": "Dojran",
-                "ru": "\u0414\u043e\u0439\u0440\u0430\u043d",
-                "en": "Dojran Municipality",
-                "es": "Municipalidad de Dojran",
-                "it": "Dojran",
-                "zh": "\u591a\u4f0a\u5170\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.2208734,
-            "lng": 22.702166199999965
-        },
-        "05": {
-            "name": "Bogdanci Municipality",
-            "code": "05",
-            "names": {
-                "geonames": "Bogdanci",
-                "ru": "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438",
-                "en": "Bogdanci Municipality",
-                "es": "Municipalidad de Bogdanci",
-                "it": "Bogdanci",
-                "zh": "\u535a\u683c\u4e39\u5947\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.2030556,
-            "lng": 22.57555560000003
-        },
-        "41": {
-            "name": "Kon\u010de Municipality",
-            "code": "41",
-            "names": {
-                "geonames": "Konce",
-                "ru": "\u041a\u043e\u043d\u0447\u0435",
-                "en": "Kon\u010de Municipality",
-                "es": "Municipalidad de Kon\u010de",
-                "fr": "Kontch\u00e9",
-                "it": "Kon\u010de",
-                "zh": "\u5b54\u5207\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4965779,
-            "lng": 22.382952599999953
-        },
-        "51": {
-            "name": "Makedonska Kamenica Municipality",
-            "code": "51",
-            "names": {
-                "geonames": "Makedonska Kamenica",
-                "ru": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430",
-                "en": "Makedonska Kamenica Municipality",
-                "es": "Municipalidad de Makedonska Kamenica",
-                "fr": "Makedonska Kamenitsa",
-                "it": "Makedonska Kamenica",
-                "zh": "\u99ac\u5176\u9813\u5361\u6885\u5c3c\u5bdf\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 42.0197222,
-            "lng": 22.59166670000002
-        },
-        "33": {
-            "name": "Zrnovci Municipality",
-            "code": "33",
-            "names": {
-                "geonames": "Zrnovci",
-                "ru": "\u0417\u0440\u043d\u043e\u0432\u0446\u0438",
-                "en": "Zrnovci Municipality",
-                "es": "Municipalidad de Zrnovci",
-                "fr": "Zrnovtsi",
-                "it": "Zrnovci",
-                "zh": "\u5179\u5c14\u8bfa\u592b\u9f50\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.8541667,
-            "lng": 22.444166699999982
-        },
-        "37": {
-            "name": "Karbinci Municipality",
-            "code": "37",
-            "names": {
-                "geonames": "Karbinci",
-                "ru": "\u041a\u0430\u0440\u0431\u0438\u043d\u0446\u0438",
-                "en": "Karbinci Municipality",
-                "de": "Op\u0161tina Karbinci",
-                "es": "Municipalidad de Karbinci",
-                "fr": "Karbintsi",
-                "it": "Karbinci",
-                "zh": "\u5361\u5c14\u5bbe\u5947\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.8166667,
-            "lng": 22.237499999999955
-        },
-        "24": {
-            "name": "Demir Kapija Municipality",
-            "code": "24",
-            "names": {
-                "geonames": "Demir Kapija",
-                "ru": "\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u044f",
-                "en": "Demir Kapija Municipality",
-                "it": "Demir Kapija",
-                "zh": "\u5fb7\u7c73\u5c14\u5361\u76ae\u96c5\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4051233,
-            "lng": 22.24138229999994
-        },
-        "67": {
-            "name": "Rosoman Municipality",
-            "code": "67",
-            "names": {
-                "geonames": "Rosoman",
-                "ru": "\u0420\u043e\u0441\u043e\u043c\u0430\u043d",
-                "en": "Rosoman Municipality",
-                "es": "Municipalidad de Rosoman",
-                "fr": "Rosoman",
-                "it": "Rosoman",
-                "zh": "\u7f85\u7d22\u66fc\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.52,
-            "lng": 21.950000000000045
-        },
-        "20": {
-            "name": "Gradsko Municipality",
-            "code": "20",
-            "names": {
-                "geonames": "Gradsko",
-                "ru": "\u0413\u0440\u0430\u0434\u0441\u043a\u043e",
-                "en": "Gradsko Municipality",
-                "es": "Municipalidad de Gradsko",
-                "fr": "Gradsko",
-                "it": "Gradsko",
-                "zh": "\u683c\u62c9\u8332\u79d1\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.566667,
-            "lng": 21.950000000000045
-        },
-        "49": {
-            "name": "Lozovo Municipality",
-            "code": "49",
-            "names": {
-                "geonames": "Lozovo",
-                "ru": "\u041b\u043e\u0437\u043e\u0432\u043e",
-                "en": "Lozovo Municipality",
-                "es": "Municipalidad de Lozovo",
-                "fr": "Lozovo",
-                "it": "Lozovo",
-                "zh": "\u6d1b\u4f50\u6c83\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.7838889,
-            "lng": 21.90555560000007
-        },
-        "81": {
-            "name": "Municipality of \u010ce\u0161inovo-Oble\u0161evo",
-            "code": "81",
-            "names": {
-                "geonames": "Cesinovo-Oblesevo",
-                "ru": "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e",
-                "en": "Municipality of \u010ce\u0161inovo-Oble\u0161evo",
-                "de": "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo",
-                "es": "Municipalidad de \u010ce\u0161inovo-Oble\u0161evo",
-                "fr": "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo",
-                "it": "\u010ce\u0161inovo-Oble\u0161evo",
-                "zh": "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
+            "division": null,
+            "parent": null,
             "lat": null,
             "lng": null
         },
-        "55": {
-            "name": "Novaci Municipality",
-            "code": "55",
+        "01": {
+            "name": "Aerodrom Municipality",
+            "code": "01",
             "names": {
-                "geonames": "Novaci",
-                "ru": "\u041d\u043e\u0432\u0430\u0446\u0438",
-                "en": "Novaci Municipality",
-                "es": "Municipalidad de Novaci",
-                "fr": "Novatsi",
-                "it": "Novaci",
-                "zh": "\u8afe\u74e6\u6fdf\u5340"
+                "geonames": "Aerodrom",
+                "ru": "\u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c",
+                "de": "Op\u0161tina Aerodrom",
+                "en": "Aerodrom Municipality",
+                "es": "Municipalidad de Aerodrom",
+                "fr": "Aerodrom",
+                "it": "Aerodrom",
+                "zh": "\u827e\u7f57\u5fb7\u9686\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.048776,
-            "lng": 21.465374999999995
+            "lat": 41.9833333,
+            "lng": 21.46666670000002
+        },
+        "02": {
+            "name": "Municipality of Ara\u010dinovo",
+            "code": "02",
+            "names": {
+                "geonames": "Aracinovo",
+                "ru": "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e",
+                "en": "Municipality of Ara\u010dinovo",
+                "es": "Municipalidad de Ara\u010dinovo",
+                "fr": "Aratchinovo",
+                "it": "Ara\u010dinovo",
+                "zh": "\u963f\u62c9\u5951\u8bfa\u6c83\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 42.0263889,
+            "lng": 21.561666699999932
         },
         "03": {
             "name": "Berovo Municipality",
@@ -377,39 +103,21 @@
             "lat": 41.032799,
             "lng": 21.34028999999998
         },
-        "53": {
-            "name": "Mogila Municipality",
-            "code": "53",
+        "05": {
+            "name": "Bogdanci Municipality",
+            "code": "05",
             "names": {
-                "geonames": "Mogila",
-                "ru": "\u041c\u043e\u0433\u0438\u043b\u0430",
-                "en": "Mogila Municipality",
-                "es": "Municipalidad de Mogila",
-                "fr": "Mogila",
-                "it": "Mogila",
-                "zh": "\u83ab\u5409\u62c9\u5340"
+                "geonames": "Bogdanci",
+                "ru": "\u0411\u043e\u0433\u0434\u0430\u043d\u0446\u0438",
+                "en": "Bogdanci Municipality",
+                "es": "Municipalidad de Bogdanci",
+                "it": "Bogdanci",
+                "zh": "\u535a\u683c\u4e39\u5947\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.1080556,
-            "lng": 21.37833330000001
-        },
-        "02": {
-            "name": "Municipality of Ara\u010dinovo",
-            "code": "02",
-            "names": {
-                "geonames": "Aracinovo",
-                "ru": "\u0410\u0440\u0430\u0447\u0438\u043d\u043e\u0432\u043e",
-                "en": "Municipality of Ara\u010dinovo",
-                "es": "Municipalidad de Ara\u010dinovo",
-                "fr": "Aratchinovo",
-                "it": "Ara\u010dinovo",
-                "zh": "\u963f\u62c9\u5951\u8bfa\u6c83\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 42.0263889,
-            "lng": 21.561666699999932
+            "lat": 41.2030556,
+            "lng": 22.57555560000003
         },
         "06": {
             "name": "Bogovinje Municipality",
@@ -425,6 +133,23 @@
             "parent": "MK",
             "lat": 41.927242,
             "lng": 20.905821999999944
+        },
+        "07": {
+            "name": "Bosilovo Municipality",
+            "code": "07",
+            "names": {
+                "geonames": "Bosilovo",
+                "ru": "\u0411\u043e\u0441\u0438\u043b\u043e\u0432\u043e",
+                "en": "Bosilovo Municipality",
+                "es": "Municipalidad de Bosilovo",
+                "fr": "Bosilovo",
+                "it": "Bosilovo",
+                "zh": "\u535a\u897f\u6d1b\u6c83\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.4389865,
+            "lng": 22.731599500000016
         },
         "08": {
             "name": "Brvenica Municipality",
@@ -443,177 +168,135 @@
             "lat": 41.9666667,
             "lng": 20.983333300000027
         },
-        "79": {
-            "name": "Cair",
-            "code": "79",
+        "09": {
+            "name": "Butel",
+            "code": "09",
             "names": {
-                "geonames": "Cair",
-                "ru": "\u0427\u0430\u0438\u0440",
-                "en": "Cair"
+                "geonames": "Butel",
+                "ru": "\u0411\u0443\u0442\u0435\u043b",
+                "en": "Butel"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 42.0153516,
-            "lng": 21.445972799999936
+            "lat": 43.2090129,
+            "lng": -79.86729550000001
         },
-        "80": {
-            "name": "\u010ca\u0161ka Municipality",
-            "code": "80",
+        "10": {
+            "name": "Valandovo Municipality",
+            "code": "10",
             "names": {
-                "geonames": "Caska Municipality",
-                "ru": "\u0427\u0430\u0448\u043a\u0430",
-                "en": "\u010ca\u0161ka Municipality",
-                "es": "Municipalidad de \u010ca\u0161ka",
-                "fr": "Tchachka",
-                "it": "\u010ca\u0161ka",
-                "zh": "\u67e5\u4ec0\u5361\u533a"
+                "geonames": "Valandovo",
+                "ru": "\u0412\u0430\u043b\u0430\u043d\u0434\u043e\u0432\u043e",
+                "en": "Valandovo Municipality",
+                "es": "Municipalidad de Valandovo",
+                "fr": "Valandovo",
+                "it": "Valandovo",
+                "zh": "\u74e6\u862d\u591a\u6c83\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.647438,
-            "lng": 21.69141149999996
+            "lat": 41.3169444,
+            "lng": 22.561111100000062
         },
-        "77": {
-            "name": "Centar",
-            "code": "77",
+        "11": {
+            "name": "Vasilevo Municipality",
+            "code": "11",
             "names": {
-                "geonames": "Centar",
-                "en": "Centar"
+                "geonames": "Vasilevo",
+                "ru": "\u0412\u0430\u0441\u0438\u043b\u0435\u0432\u043e",
+                "en": "Vasilevo Municipality",
+                "es": "Municipalidad de Vasilevo",
+                "fr": "Vasilevo",
+                "it": "Vasilevo",
+                "zh": "\u74e6\u897f\u5217\u6c83\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.9698934,
-            "lng": 21.421626699999933
+            "lat": 41.4758333,
+            "lng": 22.641666699999973
         },
-        "78": {
-            "name": "Centar \u017dupa Municipality",
-            "code": "78",
+        "12": {
+            "name": "Vev\u010dani Municipality",
+            "code": "12",
             "names": {
-                "geonames": "Centar Zupa",
-                "ru": "\u0426\u0435\u043d\u0442\u0430\u0440",
-                "en": "Centar \u017dupa Municipality",
-                "es": "Municipalidad de Centar \u017dupa",
-                "fr": "Tsentar Joupa",
-                "it": "Centar \u017dupa",
-                "zh": "\u8f9b\u5854\u5c14\u7956\u5e15\u533a"
+                "geonames": "Vevcani",
+                "ru": "\u0412\u0435\u0432\u0447\u0430\u043d\u0438",
+                "en": "Vev\u010dani Municipality",
+                "es": "Municipalidad de Vev\u010dani",
+                "fr": "Vevtchani",
+                "it": "Vev\u010dani",
+                "zh": "\u7dad\u592b\u67e5\u5c3c\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.4785278,
-            "lng": 20.560279300000047
+            "lat": 41.2402778,
+            "lng": 20.59305560000007
         },
-        "82": {
-            "name": "Municipality of \u010cu\u010der-Sandevo",
-            "code": "82",
+        "13": {
+            "name": "Veles Municipality",
+            "code": "13",
             "names": {
-                "geonames": "Cucer-Sandevo",
-                "ru": "\u0427\u0443\u0447\u0435\u0440 \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
-                "en": "Municipality of \u010cu\u010der-Sandevo",
-                "es": "Municipalidad de \u010cu\u010der-Sandevo",
-                "fr": "Tchoutcher Sandevo",
-                "it": "\u010cu\u010der-Sandevo",
-                "zh": "\u695a\u585e\u5c14\u6851\u5fb7\u6c83\u533a"
+                "geonames": "Veles",
+                "ru": "\u0412\u0435\u043b\u0435\u0441",
+                "en": "Veles Municipality",
+                "es": "Municipalidad de Veles",
+                "it": "Veles",
+                "zh": "\u97cb\u840a\u65af\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 42.0974773,
-            "lng": 21.387717899999984
+            "lat": 41.73,
+            "lng": 21.779999999999973
         },
-        "21": {
-            "name": "Debar Municipality",
-            "code": "21",
+        "14": {
+            "name": "Vinica Municipality, Macedonia",
+            "code": "14",
             "names": {
-                "geonames": "Debar",
-                "en": "Debar Municipality",
-                "de": "Op\u0161tina Debar",
-                "es": "Municipalidad de Debar",
-                "it": "Debar",
-                "ru": "\u0414\u0435\u0431\u0430\u0440",
-                "zh": "\u5fb7\u5df4\u5c14\u533a"
+                "geonames": "Vinica",
+                "ru": "\u0412\u0438\u043d\u0438\u0446\u0430",
+                "en": "Vinica Municipality",
+                "es": "Municipalidad de Vinica",
+                "zh": "\u7ef4\u5c3c\u5bdf\u533a",
+                "it": "Vinica"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.5166667,
-            "lng": 20.53333329999998
+            "lat": 41.88649,
+            "lng": 22.507820000000038
         },
-        "23": {
-            "name": "Municipality of Del\u010devo",
-            "code": "23",
+        "15": {
+            "name": "Vrane\u0161tica Municipality",
+            "code": "15",
             "names": {
-                "geonames": "Delcevo",
-                "ru": "\u0414\u0435\u043b\u0447\u0435\u0432\u043e",
-                "en": "Municipality of Del\u010devo",
-                "de": "Op\u0161tina Del\u010devo",
-                "es": "Municipalidad de Del\u010devo",
-                "it": "Del\u010devo",
-                "zh": "\u5fb7\u5c14\u585e\u6c83\u533a"
+                "geonames": "Vranestica",
+                "ru": "\u0412\u0440\u0430\u043d\u0435\u0448\u0442\u0438\u0446\u0430",
+                "en": "Vrane\u0161tica Municipality",
+                "es": "Municipalidad de Vrane\u0161tica",
+                "fr": "Vranechtitsa",
+                "it": "Vrane\u0161tica",
+                "zh": "\u5f17\u62c9\u5167\u4ec0\u8482\u5bdf\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.9666667,
-            "lng": 22.766666699999973
+            "lat": 41.4453257,
+            "lng": 21.025921700000026
         },
-        "25": {
-            "name": "Demir Hisar Municipality",
-            "code": "25",
+        "16": {
+            "name": "Municipality of Vrap\u010di\u0161te",
+            "code": "16",
             "names": {
-                "geonames": "Demir Hisar",
-                "ru": "\u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440",
-                "en": "Demir Hisar Municipality",
-                "es": "Municipalidad de Demir Hisar",
-                "it": "Demir Hisar",
-                "zh": "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
+                "geonames": "Vrapciste",
+                "ru": "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435",
+                "en": "Municipality of Vrap\u010di\u0161te",
+                "es": "Municipalidad de Vrap\u010di\u0161te",
+                "fr": "Vraptchicht\u00e9",
+                "it": "Vrap\u010di\u0161te",
+                "zh": "\u5f17\u62c9\u666e\u5951\u4ec0\u6cf0\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.2213604,
-            "lng": 21.202528700000016
-        },
-        "27": {
-            "name": "Dolneni Municipality",
-            "code": "27",
-            "names": {
-                "geonames": "Dolneni",
-                "ru": "\u0414\u043e\u043b\u043d\u0435\u043d\u0438",
-                "en": "Dolneni Municipality",
-                "es": "Municipalidad de Dolneni",
-                "fr": "Dolneni",
-                "it": "Dolneni",
-                "zh": "\u591a\u5c14\u6d85\u5c3c\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.4252778,
-            "lng": 21.454444500000022
-        },
-        "29": {
-            "name": "Opstina Gjorce Petrov",
-            "code": "29",
-            "names": {
-                "geonames": "Opstina Gjorce Petrov",
-                "ru": "\u0413\u0451\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432",
-                "en": "Opstina Gjorce Petrov"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 42.0065434,
-            "lng": 21.342650700000036
-        },
-        "28": {
-            "name": "Drugovo Municipality",
-            "code": "28",
-            "names": {
-                "geonames": "Drugovo",
-                "ru": "\u0414\u0440\u0443\u0433\u043e\u0432\u043e",
-                "en": "Drugovo Municipality",
-                "es": "Municipalidad de Drugovo",
-                "it": "Drugovo",
-                "zh": "\u5fb7\u9b6f\u6208\u6c83\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.487738,
-            "lng": 20.93219899999997
+            "lat": 41.8333333,
+            "lng": 20.883333300000004
         },
         "17": {
             "name": "Gazi Baba",
@@ -660,6 +343,235 @@
             "lat": 41.800911,
             "lng": 20.914169000000015
         },
+        "20": {
+            "name": "Gradsko Municipality",
+            "code": "20",
+            "names": {
+                "geonames": "Gradsko",
+                "ru": "\u0413\u0440\u0430\u0434\u0441\u043a\u043e",
+                "en": "Gradsko Municipality",
+                "es": "Municipalidad de Gradsko",
+                "fr": "Gradsko",
+                "it": "Gradsko",
+                "zh": "\u683c\u62c9\u8332\u79d1\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.566667,
+            "lng": 21.950000000000045
+        },
+        "21": {
+            "name": "Debar Municipality",
+            "code": "21",
+            "names": {
+                "geonames": "Debar",
+                "en": "Debar Municipality",
+                "de": "Op\u0161tina Debar",
+                "es": "Municipalidad de Debar",
+                "it": "Debar",
+                "ru": "\u0414\u0435\u0431\u0430\u0440",
+                "zh": "\u5fb7\u5df4\u5c14\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.5166667,
+            "lng": 20.53333329999998
+        },
+        "22": {
+            "name": "Debarca Municipality",
+            "code": "22",
+            "names": {
+                "geonames": "Debarca",
+                "ru": "\u0414\u0435\u0431\u0430\u0440\u0446\u0430",
+                "en": "Debarca Municipality",
+                "de": "Op\u0161tina Debarca",
+                "es": "Municipalidad de Debarca",
+                "fr": "Debartsa",
+                "it": "Debarca",
+                "zh": "\u5fb7\u5df4\u5c14\u67e5\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.9984317,
+            "lng": 21.417931700000054
+        },
+        "23": {
+            "name": "Municipality of Del\u010devo",
+            "code": "23",
+            "names": {
+                "geonames": "Delcevo",
+                "ru": "\u0414\u0435\u043b\u0447\u0435\u0432\u043e",
+                "en": "Municipality of Del\u010devo",
+                "de": "Op\u0161tina Del\u010devo",
+                "es": "Municipalidad de Del\u010devo",
+                "it": "Del\u010devo",
+                "zh": "\u5fb7\u5c14\u585e\u6c83\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.9666667,
+            "lng": 22.766666699999973
+        },
+        "24": {
+            "name": "Demir Kapija Municipality",
+            "code": "24",
+            "names": {
+                "geonames": "Demir Kapija",
+                "ru": "\u0414\u0435\u043c\u0438\u0440 \u041a\u0430\u043f\u0438\u044f",
+                "en": "Demir Kapija Municipality",
+                "it": "Demir Kapija",
+                "zh": "\u5fb7\u7c73\u5c14\u5361\u76ae\u96c5\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.4051233,
+            "lng": 22.24138229999994
+        },
+        "25": {
+            "name": "Demir Hisar Municipality",
+            "code": "25",
+            "names": {
+                "geonames": "Demir Hisar",
+                "ru": "\u0414\u0435\u043c\u0438\u0440 \u0425\u0438\u0441\u0430\u0440",
+                "en": "Demir Hisar Municipality",
+                "es": "Municipalidad de Demir Hisar",
+                "it": "Demir Hisar",
+                "zh": "\u5fb7\u7c73\u5c14\u5e0c\u8428\u5c14\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.2213604,
+            "lng": 21.202528700000016
+        },
+        "26": {
+            "name": "Dojran Municipality",
+            "code": "26",
+            "names": {
+                "geonames": "Dojran",
+                "ru": "\u0414\u043e\u0439\u0440\u0430\u043d",
+                "en": "Dojran Municipality",
+                "es": "Municipalidad de Dojran",
+                "it": "Dojran",
+                "zh": "\u591a\u4f0a\u5170\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.2208734,
+            "lng": 22.702166199999965
+        },
+        "27": {
+            "name": "Dolneni Municipality",
+            "code": "27",
+            "names": {
+                "geonames": "Dolneni",
+                "ru": "\u0414\u043e\u043b\u043d\u0435\u043d\u0438",
+                "en": "Dolneni Municipality",
+                "es": "Municipalidad de Dolneni",
+                "fr": "Dolneni",
+                "it": "Dolneni",
+                "zh": "\u591a\u5c14\u6d85\u5c3c\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.4252778,
+            "lng": 21.454444500000022
+        },
+        "28": {
+            "name": "Drugovo Municipality",
+            "code": "28",
+            "names": {
+                "geonames": "Drugovo",
+                "ru": "\u0414\u0440\u0443\u0433\u043e\u0432\u043e",
+                "en": "Drugovo Municipality",
+                "es": "Municipalidad de Drugovo",
+                "it": "Drugovo",
+                "zh": "\u5fb7\u9b6f\u6208\u6c83\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.487738,
+            "lng": 20.93219899999997
+        },
+        "29": {
+            "name": "Opstina Gjorce Petrov",
+            "code": "29",
+            "names": {
+                "geonames": "Opstina Gjorce Petrov",
+                "ru": "\u0413\u0451\u0440\u0447\u0435 \u041f\u0435\u0442\u0440\u043e\u0432",
+                "en": "Opstina Gjorce Petrov"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 42.0065434,
+            "lng": 21.342650700000036
+        },
+        "30": {
+            "name": "Municipality of \u017delino",
+            "code": "30",
+            "names": {
+                "geonames": "Zelino",
+                "ru": "\u0416\u0435\u043b\u0438\u043d\u043e",
+                "en": "Municipality of \u017delino",
+                "es": "Municipalidad de \u017delino",
+                "fr": "Jelino",
+                "it": "\u017delino",
+                "zh": "\u71b1\u5229\u8afe\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.9833333,
+            "lng": 21.06666670000004
+        },
+        "31": {
+            "name": "Zajas Municipality",
+            "code": "31",
+            "names": {
+                "geonames": "Zajas",
+                "ru": "\u0417\u0430\u044f\u0441",
+                "en": "Zajas Municipality",
+                "es": "Municipalidad de Zajas",
+                "fr": "Za\u00efas",
+                "it": "Zajas",
+                "zh": "\u624e\u4e9e\u65af\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.6,
+            "lng": 20.93333329999996
+        },
+        "32": {
+            "name": "Zelenikovo Municipality",
+            "code": "32",
+            "names": {
+                "geonames": "Zelenikovo",
+                "ru": "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e",
+                "en": "Zelenikovo Municipality",
+                "fr": "Zelenikovo",
+                "it": "Zelenikovo",
+                "zh": "\u6fa4\u502b\u5c3c\u79d1\u6c83\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.8831336,
+            "lng": 21.5893102
+        },
+        "33": {
+            "name": "Zrnovci Municipality",
+            "code": "33",
+            "names": {
+                "geonames": "Zrnovci",
+                "ru": "\u0417\u0440\u043d\u043e\u0432\u0446\u0438",
+                "en": "Zrnovci Municipality",
+                "es": "Municipalidad de Zrnovci",
+                "fr": "Zrnovtsi",
+                "it": "Zrnovci",
+                "zh": "\u5179\u5c14\u8bfa\u592b\u9f50\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.8541667,
+            "lng": 22.444166699999982
+        },
         "34": {
             "name": "Ilinden Municipality",
             "code": "34",
@@ -694,19 +606,6 @@
             "lat": 42.0794217,
             "lng": 21.117762699999957
         },
-        "38": {
-            "name": "Karpos",
-            "code": "38",
-            "names": {
-                "geonames": "Karpos",
-                "ru": "\u041a\u0430\u0440\u043f\u043e\u0448",
-                "en": "Karpos"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.0274824,
-            "lng": 21.343911599999956
-        },
         "36": {
             "name": "Kavadarci Municipality",
             "code": "36",
@@ -722,6 +621,50 @@
             "parent": "MK",
             "lat": 41.437111,
             "lng": 22.00526000000002
+        },
+        "37": {
+            "name": "Karbinci Municipality",
+            "code": "37",
+            "names": {
+                "geonames": "Karbinci",
+                "ru": "\u041a\u0430\u0440\u0431\u0438\u043d\u0446\u0438",
+                "en": "Karbinci Municipality",
+                "de": "Op\u0161tina Karbinci",
+                "es": "Municipalidad de Karbinci",
+                "fr": "Karbintsi",
+                "it": "Karbinci",
+                "zh": "\u5361\u5c14\u5bbe\u5947\u533a"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.8166667,
+            "lng": 22.237499999999955
+        },
+        "38": {
+            "name": "Karpos",
+            "code": "38",
+            "names": {
+                "geonames": "Karpos",
+                "ru": "\u041a\u0430\u0440\u043f\u043e\u0448",
+                "en": "Karpos"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.0274824,
+            "lng": 21.343911599999956
+        },
+        "39": {
+            "name": "Kisela Voda",
+            "code": "39",
+            "names": {
+                "geonames": "Kisela Voda",
+                "ru": "\u041a\u0438\u0441\u0435\u043b\u0430 \u0412\u043e\u0434\u0430",
+                "en": "Kisela Voda"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.981536,
+            "lng": 21.441476899999998
         },
         "40": {
             "name": "Ki\u010devo Municipality",
@@ -739,18 +682,22 @@
             "lat": 41.5177778,
             "lng": 20.965555600000016
         },
-        "39": {
-            "name": "Kisela Voda",
-            "code": "39",
+        "41": {
+            "name": "Kon\u010de Municipality",
+            "code": "41",
             "names": {
-                "geonames": "Kisela Voda",
-                "ru": "\u041a\u0438\u0441\u0435\u043b\u0430 \u0412\u043e\u0434\u0430",
-                "en": "Kisela Voda"
+                "geonames": "Konce",
+                "ru": "\u041a\u043e\u043d\u0447\u0435",
+                "en": "Kon\u010de Municipality",
+                "es": "Municipalidad de Kon\u010de",
+                "fr": "Kontch\u00e9",
+                "it": "Kon\u010de",
+                "zh": "\u5b54\u5207\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.981536,
-            "lng": 21.441476899999998
+            "lat": 41.4965779,
+            "lng": 22.382952599999953
         },
         "42": {
             "name": "Municipality of Ko\u010dani",
@@ -767,6 +714,22 @@
             "parent": "MK",
             "lat": 41.9166667,
             "lng": 22.41666669999995
+        },
+        "43": {
+            "name": "Kratovo Municipality",
+            "code": "43",
+            "names": {
+                "geonames": "Kratovo",
+                "ru": "\u041a\u0440\u0430\u0442\u043e\u0432\u043e",
+                "en": "Kratovo Municipality",
+                "fr": "Kratovo",
+                "it": "Kratovo",
+                "zh": "\u514b\u62c9\u6258\u6c83\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 42.0812466,
+            "lng": 22.174318599999992
         },
         "44": {
             "name": "Kriva Palanka Municipality",
@@ -850,6 +813,58 @@
             "lat": 42.1561352,
             "lng": 21.587074400000006
         },
+        "49": {
+            "name": "Lozovo Municipality",
+            "code": "49",
+            "names": {
+                "geonames": "Lozovo",
+                "ru": "\u041b\u043e\u0437\u043e\u0432\u043e",
+                "en": "Lozovo Municipality",
+                "es": "Municipalidad de Lozovo",
+                "fr": "Lozovo",
+                "it": "Lozovo",
+                "zh": "\u6d1b\u4f50\u6c83\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.7838889,
+            "lng": 21.90555560000007
+        },
+        "50": {
+            "name": "Municipality of Mavrovo and Rostu\u0161a",
+            "code": "50",
+            "names": {
+                "geonames": "Mavrovo and Rostusa",
+                "ru": "\u041c\u0430\u0432\u0440\u043e\u0432\u043e \u0438 \u0420\u043e\u0441\u0442\u0443\u0448\u0430",
+                "en": "Municipality of Mavrovo and Rostu\u0161a",
+                "de": "Op\u0161tina Mavrovo und Rostu\u0161a",
+                "es": "Municipalidad de Mavrovo y Rostu\u0161a",
+                "fr": "Mavrovo et Rostoucha",
+                "it": "Mavrovo e Rostu\u0161a",
+                "zh": "\u99ac\u592b\u7f85\u6c83\u548c\u7f85\u65af\u5716\u6c99\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": null,
+            "lng": null
+        },
+        "51": {
+            "name": "Makedonska Kamenica Municipality",
+            "code": "51",
+            "names": {
+                "geonames": "Makedonska Kamenica",
+                "ru": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430 \u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430",
+                "en": "Makedonska Kamenica Municipality",
+                "es": "Municipalidad de Makedonska Kamenica",
+                "fr": "Makedonska Kamenitsa",
+                "it": "Makedonska Kamenica",
+                "zh": "\u99ac\u5176\u9813\u5361\u6885\u5c3c\u5bdf\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 42.0197222,
+            "lng": 22.59166670000002
+        },
         "52": {
             "name": "Makedonski Brod Municipality",
             "code": "52",
@@ -866,6 +881,23 @@
             "lat": 41.5124006,
             "lng": 21.215942499999983
         },
+        "53": {
+            "name": "Mogila Municipality",
+            "code": "53",
+            "names": {
+                "geonames": "Mogila",
+                "ru": "\u041c\u043e\u0433\u0438\u043b\u0430",
+                "en": "Mogila Municipality",
+                "es": "Municipalidad de Mogila",
+                "fr": "Mogila",
+                "it": "Mogila",
+                "zh": "\u83ab\u5409\u62c9\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.1080556,
+            "lng": 21.37833330000001
+        },
         "54": {
             "name": "Negotino Municipality",
             "code": "54",
@@ -880,6 +912,54 @@
             "parent": "MK",
             "lat": 41.49205,
             "lng": 22.09353999999996
+        },
+        "55": {
+            "name": "Novaci Municipality",
+            "code": "55",
+            "names": {
+                "geonames": "Novaci",
+                "ru": "\u041d\u043e\u0432\u0430\u0446\u0438",
+                "en": "Novaci Municipality",
+                "es": "Municipalidad de Novaci",
+                "fr": "Novatsi",
+                "it": "Novaci",
+                "zh": "\u8afe\u74e6\u6fdf\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.048776,
+            "lng": 21.465374999999995
+        },
+        "56": {
+            "name": "Novo Selo Municipality",
+            "code": "56",
+            "names": {
+                "geonames": "Novo Selo",
+                "ru": "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e",
+                "en": "Novo Selo Municipality",
+                "de": "Op\u0161tina Novo Selo",
+                "es": "Municipalidad de Novo Selo",
+                "fr": "Novo Selo",
+                "it": "Novo Selo",
+                "zh": "\u8afe\u6c83\u585e\u6d1b\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.4117903,
+            "lng": 22.879069999999956
+        },
+        "57": {
+            "name": "Oslomej",
+            "code": "57",
+            "names": {
+                "geonames": "Oslomej",
+                "ru": "\u041e\u0441\u043b\u043e\u043c\u0435\u0439",
+                "en": "Oslomej"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.5765727,
+            "lng": 20.99797890000002
         },
         "58": {
             "name": "Ohrid Municipality",
@@ -897,19 +977,6 @@
             "lat": 41.1169444,
             "lng": 20.80166669999994
         },
-        "57": {
-            "name": "Oslomej",
-            "code": "57",
-            "names": {
-                "geonames": "Oslomej",
-                "ru": "\u041e\u0441\u043b\u043e\u043c\u0435\u0439",
-                "en": "Oslomej"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.5765727,
-            "lng": 20.99797890000002
-        },
         "59": {
             "name": "Petrovec Municipality",
             "code": "59",
@@ -926,6 +993,23 @@
             "parent": "MK",
             "lat": 41.9388889,
             "lng": 21.61500000000001
+        },
+        "60": {
+            "name": "Municipality of Peh\u010devo",
+            "code": "60",
+            "names": {
+                "geonames": "Pehcevo",
+                "ru": "\u041f\u0435\u0445\u0447\u0435\u0432\u043e",
+                "en": "Municipality of Peh\u010devo",
+                "es": "Municipalidad de Peh\u010devo",
+                "fr": "Pehtchevo",
+                "it": "Peh\u010devo",
+                "zh": "\u4f69\u8d6b\u5207\u6c83\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.7377691,
+            "lng": 22.892546100000004
         },
         "61": {
             "name": "Plasnica Municipality",
@@ -1009,23 +1093,39 @@
             "lat": 42.1695387,
             "lng": 22.11619500000006
         },
-        "50": {
-            "name": "Municipality of Mavrovo and Rostu\u0161a",
-            "code": "50",
+        "66": {
+            "name": "Resen",
+            "code": "66",
             "names": {
-                "geonames": "Mavrovo and Rostusa",
-                "ru": "\u041c\u0430\u0432\u0440\u043e\u0432\u043e \u0438 \u0420\u043e\u0441\u0442\u0443\u0448\u0430",
-                "en": "Municipality of Mavrovo and Rostu\u0161a",
-                "de": "Op\u0161tina Mavrovo und Rostu\u0161a",
-                "es": "Municipalidad de Mavrovo y Rostu\u0161a",
-                "fr": "Mavrovo et Rostoucha",
-                "it": "Mavrovo e Rostu\u0161a",
-                "zh": "\u99ac\u592b\u7f85\u6c83\u548c\u7f85\u65af\u5716\u6c99\u5340"
+                "geonames": "Resen",
+                "ru": "\u0420\u0435\u0441\u0435\u043d",
+                "en": "Resen",
+                "es": "Municipalidad de Resen",
+                "fr": "Resen",
+                "it": "Resen",
+                "zh": "\u96f7\u68ee\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": null,
-            "lng": null
+            "lat": 41.0888889,
+            "lng": 21.012222199999997
+        },
+        "67": {
+            "name": "Rosoman Municipality",
+            "code": "67",
+            "names": {
+                "geonames": "Rosoman",
+                "ru": "\u0420\u043e\u0441\u043e\u043c\u0430\u043d",
+                "en": "Rosoman Municipality",
+                "es": "Municipalidad de Rosoman",
+                "fr": "Rosoman",
+                "it": "Rosoman",
+                "zh": "\u7f85\u7d22\u66fc\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.52,
+            "lng": 21.950000000000045
         },
         "68": {
             "name": "Saraj",
@@ -1039,6 +1139,23 @@
             "parent": "MK",
             "lat": 41.9994052,
             "lng": 21.324745000000007
+        },
+        "69": {
+            "name": "Sveti Nikole Municipality",
+            "code": "69",
+            "names": {
+                "geonames": "Sveti Nikole",
+                "ru": "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0435",
+                "en": "Sveti Nikole Municipality",
+                "es": "Municipalidad de Sveti Nikole",
+                "fr": "Sveti Nikol\u00e9",
+                "it": "Sveti Nikole",
+                "zh": "\u8056\u5c3c\u53e4\u840a\u5340"
+            },
+            "division": "municipality",
+            "parent": "MK",
+            "lat": 41.8666667,
+            "lng": 21.950000000000045
         },
         "70": {
             "name": "Municipality of Sopi\u0161te",
@@ -1073,22 +1190,6 @@
             "parent": "MK",
             "lat": 42.2,
             "lng": 21.829999999999927
-        },
-        "83": {
-            "name": "Municipality of \u0160tip",
-            "code": "83",
-            "names": {
-                "geonames": "Stip",
-                "ru": "\u0428\u0442\u0438\u043f",
-                "en": "Municipality of \u0160tip",
-                "es": "Municipalidad de \u0160tip",
-                "it": "\u0160tip",
-                "zh": "\u4ec0\u63d0\u666e\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.75,
-            "lng": 22.200000000000045
         },
         "72": {
             "name": "Struga Municipality",
@@ -1141,36 +1242,6 @@
             "lat": 41.9166667,
             "lng": 21.53333329999998
         },
-        "84": {
-            "name": "Suto Orizari",
-            "code": "84",
-            "names": {
-                "geonames": "Suto Orizari",
-                "ru": "\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438",
-                "en": "Suto Orizari"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": null,
-            "lng": null
-        },
-        "69": {
-            "name": "Sveti Nikole Municipality",
-            "code": "69",
-            "names": {
-                "geonames": "Sveti Nikole",
-                "ru": "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0435",
-                "en": "Sveti Nikole Municipality",
-                "es": "Municipalidad de Sveti Nikole",
-                "fr": "Sveti Nikol\u00e9",
-                "it": "Sveti Nikole",
-                "zh": "\u8056\u5c3c\u53e4\u840a\u5340"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.8666667,
-            "lng": 21.950000000000045
-        },
         "75": {
             "name": "Tearce Municipality",
             "code": "75",
@@ -1203,197 +1274,126 @@
             "lat": 42.00864,
             "lng": 20.974158999999986
         },
-        "13": {
-            "name": "Veles Municipality",
-            "code": "13",
+        "77": {
+            "name": "Centar",
+            "code": "77",
             "names": {
-                "geonames": "Veles",
-                "ru": "\u0412\u0435\u043b\u0435\u0441",
-                "en": "Veles Municipality",
-                "es": "Municipalidad de Veles",
-                "it": "Veles",
-                "zh": "\u97cb\u840a\u65af\u5340"
+                "geonames": "Centar",
+                "en": "Centar"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.73,
-            "lng": 21.779999999999973
+            "lat": 41.9698934,
+            "lng": 21.421626699999933
         },
-        "12": {
-            "name": "Vev\u010dani Municipality",
-            "code": "12",
+        "78": {
+            "name": "Centar \u017dupa Municipality",
+            "code": "78",
             "names": {
-                "geonames": "Vevcani",
-                "ru": "\u0412\u0435\u0432\u0447\u0430\u043d\u0438",
-                "en": "Vev\u010dani Municipality",
-                "es": "Municipalidad de Vev\u010dani",
-                "fr": "Vevtchani",
-                "it": "Vev\u010dani",
-                "zh": "\u7dad\u592b\u67e5\u5c3c\u5340"
+                "geonames": "Centar Zupa",
+                "ru": "\u0426\u0435\u043d\u0442\u0430\u0440",
+                "en": "Centar \u017dupa Municipality",
+                "es": "Municipalidad de Centar \u017dupa",
+                "fr": "Tsentar Joupa",
+                "it": "Centar \u017dupa",
+                "zh": "\u8f9b\u5854\u5c14\u7956\u5e15\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.2402778,
-            "lng": 20.59305560000007
+            "lat": 41.4785278,
+            "lng": 20.560279300000047
         },
-        "14": {
-            "name": "Vinica Municipality, Macedonia",
-            "code": "14",
+        "79": {
+            "name": "Cair",
+            "code": "79",
             "names": {
-                "geonames": "Vinica",
-                "ru": "\u0412\u0438\u043d\u0438\u0446\u0430",
-                "en": "Vinica Municipality",
-                "es": "Municipalidad de Vinica",
-                "zh": "\u7ef4\u5c3c\u5bdf\u533a",
-                "it": "Vinica"
+                "geonames": "Cair",
+                "ru": "\u0427\u0430\u0438\u0440",
+                "en": "Cair"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.88649,
-            "lng": 22.507820000000038
+            "lat": 42.0153516,
+            "lng": 21.445972799999936
         },
-        "15": {
-            "name": "Vrane\u0161tica Municipality",
-            "code": "15",
+        "80": {
+            "name": "\u010ca\u0161ka Municipality",
+            "code": "80",
             "names": {
-                "geonames": "Vranestica",
-                "ru": "\u0412\u0440\u0430\u043d\u0435\u0448\u0442\u0438\u0446\u0430",
-                "en": "Vrane\u0161tica Municipality",
-                "es": "Municipalidad de Vrane\u0161tica",
-                "fr": "Vranechtitsa",
-                "it": "Vrane\u0161tica",
-                "zh": "\u5f17\u62c9\u5167\u4ec0\u8482\u5bdf\u5340"
+                "geonames": "Caska Municipality",
+                "ru": "\u0427\u0430\u0448\u043a\u0430",
+                "en": "\u010ca\u0161ka Municipality",
+                "es": "Municipalidad de \u010ca\u0161ka",
+                "fr": "Tchachka",
+                "it": "\u010ca\u0161ka",
+                "zh": "\u67e5\u4ec0\u5361\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.4453257,
-            "lng": 21.025921700000026
+            "lat": 41.647438,
+            "lng": 21.69141149999996
         },
-        "16": {
-            "name": "Municipality of Vrap\u010di\u0161te",
-            "code": "16",
+        "81": {
+            "name": "Municipality of \u010ce\u0161inovo-Oble\u0161evo",
+            "code": "81",
             "names": {
-                "geonames": "Vrapciste",
-                "ru": "\u0412\u0440\u0430\u043f\u0447\u0438\u0448\u0442\u0435",
-                "en": "Municipality of Vrap\u010di\u0161te",
-                "es": "Municipalidad de Vrap\u010di\u0161te",
-                "fr": "Vraptchicht\u00e9",
-                "it": "Vrap\u010di\u0161te",
-                "zh": "\u5f17\u62c9\u666e\u5951\u4ec0\u6cf0\u5340"
+                "geonames": "Cesinovo-Oblesevo",
+                "ru": "\u0427\u0435\u0448\u0438\u043d\u043e\u0432\u043e-\u041e\u0431\u043b\u0435\u0448\u0435\u0432\u043e",
+                "en": "Municipality of \u010ce\u0161inovo-Oble\u0161evo",
+                "de": "Op\u0161tina \u010ce\u0161inovo-Oble\u0161evo",
+                "es": "Municipalidad de \u010ce\u0161inovo-Oble\u0161evo",
+                "fr": "Tch\u00e9chinovo-Obl\u00e9ch\u00e9vo",
+                "it": "\u010ce\u0161inovo-Oble\u0161evo",
+                "zh": "\u5207\u5e0c\u8bfa\u6c83-\u5965\u5e03\u83b1\u820d\u6c83\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.8333333,
-            "lng": 20.883333300000004
+            "lat": null,
+            "lng": null
         },
-        "31": {
-            "name": "Zajas Municipality",
-            "code": "31",
+        "82": {
+            "name": "Municipality of \u010cu\u010der-Sandevo",
+            "code": "82",
             "names": {
-                "geonames": "Zajas",
-                "ru": "\u0417\u0430\u044f\u0441",
-                "en": "Zajas Municipality",
-                "es": "Municipalidad de Zajas",
-                "fr": "Za\u00efas",
-                "it": "Zajas",
-                "zh": "\u624e\u4e9e\u65af\u5340"
+                "geonames": "Cucer-Sandevo",
+                "ru": "\u0427\u0443\u0447\u0435\u0440 \u0421\u0430\u043d\u0434\u0435\u0432\u043e",
+                "en": "Municipality of \u010cu\u010der-Sandevo",
+                "es": "Municipalidad de \u010cu\u010der-Sandevo",
+                "fr": "Tchoutcher Sandevo",
+                "it": "\u010cu\u010der-Sandevo",
+                "zh": "\u695a\u585e\u5c14\u6851\u5fb7\u6c83\u533a"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.6,
-            "lng": 20.93333329999996
+            "lat": 42.0974773,
+            "lng": 21.387717899999984
         },
-        "32": {
-            "name": "Zelenikovo Municipality",
-            "code": "32",
+        "83": {
+            "name": "Municipality of \u0160tip",
+            "code": "83",
             "names": {
-                "geonames": "Zelenikovo",
-                "ru": "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e",
-                "en": "Zelenikovo Municipality",
-                "fr": "Zelenikovo",
-                "it": "Zelenikovo",
-                "zh": "\u6fa4\u502b\u5c3c\u79d1\u6c83\u5340"
+                "geonames": "Stip",
+                "ru": "\u0428\u0442\u0438\u043f",
+                "en": "Municipality of \u0160tip",
+                "es": "Municipalidad de \u0160tip",
+                "it": "\u0160tip",
+                "zh": "\u4ec0\u63d0\u666e\u5340"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.8831336,
-            "lng": 21.5893102
+            "lat": 41.75,
+            "lng": 22.200000000000045
         },
-        "30": {
-            "name": "Municipality of \u017delino",
-            "code": "30",
+        "84": {
+            "name": "Suto Orizari",
+            "code": "84",
             "names": {
-                "geonames": "Zelino",
-                "ru": "\u0416\u0435\u043b\u0438\u043d\u043e",
-                "en": "Municipality of \u017delino",
-                "es": "Municipalidad de \u017delino",
-                "fr": "Jelino",
-                "it": "\u017delino",
-                "zh": "\u71b1\u5229\u8afe\u5340"
+                "geonames": "Suto Orizari",
+                "ru": "\u0428\u0443\u0442\u043e \u041e\u0440\u0438\u0437\u0430\u0440\u0438",
+                "en": "Suto Orizari"
             },
             "division": "municipality",
             "parent": "MK",
-            "lat": 41.9833333,
-            "lng": 21.06666670000004
-        },
-        "01": {
-            "name": "Aerodrom Municipality",
-            "code": "01",
-            "names": {
-                "geonames": "Aerodrom",
-                "ru": "\u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c",
-                "de": "Op\u0161tina Aerodrom",
-                "en": "Aerodrom Municipality",
-                "es": "Municipalidad de Aerodrom",
-                "fr": "Aerodrom",
-                "it": "Aerodrom",
-                "zh": "\u827e\u7f57\u5fb7\u9686\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.9833333,
-            "lng": 21.46666670000002
-        },
-        "09": {
-            "name": "Butel",
-            "code": "09",
-            "names": {
-                "geonames": "Butel",
-                "ru": "\u0411\u0443\u0442\u0435\u043b",
-                "en": "Butel"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 43.2090129,
-            "lng": -79.86729550000001
-        },
-        "22": {
-            "name": "Debarca Municipality",
-            "code": "22",
-            "names": {
-                "geonames": "Debarca",
-                "ru": "\u0414\u0435\u0431\u0430\u0440\u0446\u0430",
-                "en": "Debarca Municipality",
-                "de": "Op\u0161tina Debarca",
-                "es": "Municipalidad de Debarca",
-                "fr": "Debartsa",
-                "it": "Debarca",
-                "zh": "\u5fb7\u5df4\u5c14\u67e5\u533a"
-            },
-            "division": "municipality",
-            "parent": "MK",
-            "lat": 41.9984317,
-            "lng": 21.417931700000054
-        },
-        "": {
-            "name": "Grad Skopje",
-            "code": "",
-            "names": {
-                "geonames": "Grad Skopje",
-                "en": "Grad Skopje"
-            },
-            "division": null,
-            "parent": null,
             "lat": null,
             "lng": null
         }

@@ -25,42 +25,6 @@
         "pt": "Dinamarca"
     },
     "ISO3166-2": {
-        "84": {
-            "name": "Capital Region of Denmark",
-            "code": "84",
-            "names": {
-                "geonames": "Capital Region",
-                "ru": "\u0425\u043e\u0432\u0435\u0434\u0441\u0442\u0430\u0434\u0435\u043d",
-                "en": "Capital Region of Denmark",
-                "de": "Region Hovedstaden",
-                "es": "Regi\u00f3n Capital",
-                "fr": "Hovedstaden",
-                "it": "Hovedstaden",
-                "zh": "\u9996\u90fd\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "DK",
-            "lat": 56.0884002,
-            "lng": 12.66010540000002
-        },
-        "82": {
-            "name": "Central Denmark Region",
-            "code": "82",
-            "names": {
-                "geonames": "Central Jutland",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "Central Denmark Region",
-                "de": "Region Midtjylland",
-                "es": "Jutlandia Central",
-                "fr": "Jutland central",
-                "it": "Jutland centrale",
-                "zh": "\u4e2d\u65e5\u5fb7\u5170\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "DK",
-            "lat": 56.165273,
-            "lng": 10.121378899999968
-        },
         "81": {
             "name": "North Denmark Region",
             "code": "81",
@@ -80,23 +44,23 @@
             "lat": 56.8307416,
             "lng": 9.493052799999987
         },
-        "85": {
-            "name": "Region Zealand",
-            "code": "85",
+        "82": {
+            "name": "Central Denmark Region",
+            "code": "82",
             "names": {
-                "geonames": "Zealand",
-                "ru": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "Region Zealand",
-                "de": "Region Sj\u00e6lland",
-                "es": "Regi\u00f3n de Selandia",
-                "fr": "Sj\u00e6lland",
-                "it": "Selandia",
-                "zh": "\u897f\u5170\u5927\u533a"
+                "geonames": "Central Jutland",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
+                "en": "Central Denmark Region",
+                "de": "Region Midtjylland",
+                "es": "Jutlandia Central",
+                "fr": "Jutland central",
+                "it": "Jutland centrale",
+                "zh": "\u4e2d\u65e5\u5fb7\u5170\u5927\u533a"
             },
             "division": "region",
             "parent": "DK",
-            "lat": 55.4632518,
-            "lng": 11.721497900000031
+            "lat": 56.165273,
+            "lng": 10.121378899999968
         },
         "83": {
             "name": "Region of Southern Denmark",
@@ -115,6 +79,42 @@
             "parent": "DK",
             "lat": 55.7051253,
             "lng": 9.533218799999986
+        },
+        "84": {
+            "name": "Capital Region of Denmark",
+            "code": "84",
+            "names": {
+                "geonames": "Capital Region",
+                "ru": "\u0425\u043e\u0432\u0435\u0434\u0441\u0442\u0430\u0434\u0435\u043d",
+                "en": "Capital Region of Denmark",
+                "de": "Region Hovedstaden",
+                "es": "Regi\u00f3n Capital",
+                "fr": "Hovedstaden",
+                "it": "Hovedstaden",
+                "zh": "\u9996\u90fd\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "DK",
+            "lat": 56.0884002,
+            "lng": 12.66010540000002
+        },
+        "85": {
+            "name": "Region Zealand",
+            "code": "85",
+            "names": {
+                "geonames": "Zealand",
+                "ru": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+                "en": "Region Zealand",
+                "de": "Region Sj\u00e6lland",
+                "es": "Regi\u00f3n de Selandia",
+                "fr": "Sj\u00e6lland",
+                "it": "Selandia",
+                "zh": "\u897f\u5170\u5927\u533a"
+            },
+            "division": "region",
+            "parent": "DK",
+            "lat": 55.4632518,
+            "lng": 11.721497900000031
         }
     }
 }

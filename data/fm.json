@@ -24,20 +24,23 @@
         "pt": "Estados Federados da Micron\u00e9sia"
     },
     "ISO3166-2": {
-        "YAP": {
-            "name": "Yap State",
-            "code": "YAP",
+        "KSA": {
+            "name": "Kosrae",
+            "code": "KSA",
             "names": {
-                "geonames": "Yap",
-                "ru": "\u042f\u043f",
-                "en": "Yap State",
-                "de": "Yap",
-                "fr": "Yap"
+                "geonames": "Kosrae",
+                "ru": "\u041a\u0443\u0441\u0430\u0438\u0435",
+                "en": "Kosrae",
+                "de": "Kosrae",
+                "es": "Kosrae",
+                "fr": "Kosrae",
+                "it": "Kosrae",
+                "zh": "\u79d1\u65af\u96f7"
             },
             "division": "state",
             "parent": "FM",
-            "lat": 8.671649,
-            "lng": 142.84393350000005
+            "lat": 5.3535849,
+            "lng": 162.95553310000003
         },
         "PNI": {
             "name": "Pohnpei State",
@@ -58,24 +61,6 @@
             "lat": 6.982228,
             "lng": 158.20369099999994
         },
-        "KSA": {
-            "name": "Kosrae",
-            "code": "KSA",
-            "names": {
-                "geonames": "Kosrae",
-                "ru": "\u041a\u0443\u0441\u0430\u0438\u0435",
-                "en": "Kosrae",
-                "de": "Kosrae",
-                "es": "Kosrae",
-                "fr": "Kosrae",
-                "it": "Kosrae",
-                "zh": "\u79d1\u65af\u96f7"
-            },
-            "division": "state",
-            "parent": "FM",
-            "lat": 5.3535849,
-            "lng": 162.95553310000003
-        },
         "TRK": {
             "name": "Chuuk State",
             "code": "TRK",
@@ -93,6 +78,21 @@
             "parent": "FM",
             "lat": null,
             "lng": null
+        },
+        "YAP": {
+            "name": "Yap State",
+            "code": "YAP",
+            "names": {
+                "geonames": "Yap",
+                "ru": "\u042f\u043f",
+                "en": "Yap State",
+                "de": "Yap",
+                "fr": "Yap"
+            },
+            "division": "state",
+            "parent": "FM",
+            "lat": 8.671649,
+            "lng": 142.84393350000005
         }
     }
 }

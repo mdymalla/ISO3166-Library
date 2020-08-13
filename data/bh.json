@@ -24,6 +24,32 @@
         "pt": "Bahrein"
     },
     "ISO3166-2": {
+        "13": {
+            "name": "Capital Governorate, Bahrain",
+            "code": "13",
+            "names": {
+                "geonames": "Manama",
+                "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f",
+                "en": "Capital Governorate",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+                "es": "Capital",
+                "fr": "Gouvernorat de la capitale",
+                "it": "Governatorato della Capitale",
+                "zh": "\u9996\u90fd\u7701"
+            },
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 26.2074507,
+            "lng": 50.53843470000004
+        },
+        "14": {
+            "name": "Al Jan\u016bb\u012byah",
+            "code": "14",
+            "division": "governorate",
+            "parent": "BH",
+            "lat": 36.8218211,
+            "lng": 10.1858072
+        },
         "15": {
             "name": "Muharraq Governorate",
             "code": "15",
@@ -42,23 +68,13 @@
             "lat": 26.25,
             "lng": 50.616666699999996
         },
-        "13": {
-            "name": "Capital Governorate, Bahrain",
-            "code": "13",
-            "names": {
-                "geonames": "Manama",
-                "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f",
-                "en": "Capital Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
-                "es": "Capital",
-                "fr": "Gouvernorat de la capitale",
-                "it": "Governatorato della Capitale",
-                "zh": "\u9996\u90fd\u7701"
-            },
+        "16": {
+            "name": "Al Wus\u0163\u00e1",
+            "code": "16",
             "division": "governorate",
             "parent": "BH",
-            "lat": 26.2074507,
-            "lng": 50.53843470000004
+            "lat": 24.6098375,
+            "lng": 46.63363149999998
         },
         "17": {
             "name": "Northern Governorate",
@@ -88,20 +104,6 @@
             "parent": null,
             "lat": null,
             "lng": null
-        },
-        "14": {
-            "name": "Al Jan\u016bb\u012byah",
-            "division": "governorate",
-            "parent": "BH",
-            "lat": 36.8218211,
-            "lng": 10.1858072
-        },
-        "16": {
-            "name": "Al Wus\u0163\u00e1",
-            "division": "governorate",
-            "parent": "BH",
-            "lat": 24.6098375,
-            "lng": 46.63363149999998
         }
     }
 }

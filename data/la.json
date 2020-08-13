@@ -24,234 +24,6 @@
         "pt": "Laos"
     },
     "ISO3166-2": {
-        "XI": {
-            "name": "Xiangkhouang Province",
-            "code": "XI",
-            "names": {
-                "geonames": "Xiangkhoang",
-                "ru": "\u0421\u0438\u0430\u043d\u0433\u043a\u0445\u0443\u0430\u043d\u0433",
-                "en": "Xiangkhouang Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0632\u064a\u0627\u0646\u063a\u0647\u0648\u0627\u0646\u063a",
-                "de": "Provinz Xieng Khouang",
-                "es": "Provincia de Xiangkhoang",
-                "fr": "Province de Xieng Khouang",
-                "it": "Provincia di Xiangkhoang",
-                "zh": "\u5ddd\u5739\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 19.2612279,
-            "lng": 104.13571139999999
-        },
-        "XA": {
-            "name": "Sainyabuli Province",
-            "code": "XA",
-            "names": {
-                "geonames": "Xiagnabouli",
-                "ru": "\u0421\u0430\u0439\u043d\u044f\u0431\u0443\u043b\u0438",
-                "en": "Sainyabuli Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u064a\u0630\u064a\u0628\u0648\u0644\u064a",
-                "de": "Provinz Sainyabuli",
-                "es": "Provincia de Sainyabuli",
-                "fr": "Province de Sayaboury",
-                "it": "Provincia di Xaignabouli",
-                "zh": "\u6c99\u8036\u6b66\u91cc\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 19.2557363,
-            "lng": 101.71252279999999
-        },
-        "VI": {
-            "name": "Vientiane Province",
-            "code": "VI",
-            "names": {
-                "geonames": "Vientiane",
-                "ru": "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u064a\u0646\u062a\u064a\u0627\u0646",
-                "de": "Provinz Vientiane",
-                "en": "Vientiane Province",
-                "es": "Provincia de Vienti\u00e1n",
-                "fr": "Province de Vientiane",
-                "it": "Provincia di Vientiane",
-                "zh": "\u4e07\u8c61\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 17.962769,
-            "lng": 102.61442899999997
-        },
-        "SV": {
-            "name": "Savannakhet Province",
-            "code": "SV",
-            "names": {
-                "geonames": "Savannahkhet",
-                "ru": "\u0421\u0430\u0432\u0430\u043d\u043d\u0430\u043a\u0445\u0435\u0442",
-                "en": "Savannakhet Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0641\u0627\u0646\u0627\u0643\u064a\u062a",
-                "de": "Provinz Savannakhet",
-                "es": "Provincia de Savannakhet",
-                "fr": "Province de Savannakhet",
-                "it": "Provincia di Savannakhet",
-                "zh": "\u6c99\u6e7e\u62ff\u5409\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 16.560659,
-            "lng": 104.74700200000007
-        },
-        "SL": {
-            "name": "Salavan Province",
-            "code": "SL",
-            "names": {
-                "geonames": "Salavan",
-                "ru": "\u0421\u0430\u0440\u0430\u0432\u0430\u043d",
-                "en": "Salavan Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0644\u0627\u0641\u0627\u0646",
-                "de": "Provinz Salavan",
-                "es": "Provincia de Salavan",
-                "fr": "Province de Saravane",
-                "it": "Provincia di Salavan",
-                "zh": "\u6c99\u62c9\u6e7e\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 15.7166667,
-            "lng": 106.41666669999995
-        },
-        "PH": {
-            "name": "Phongsaly Province",
-            "code": "PH",
-            "names": {
-                "geonames": "Phongsali",
-                "ru": "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0438",
-                "en": "Phongsaly Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0648\u0646\u063a \u0633\u0627\u0644\u064a",
-                "de": "Provinz Phongsali",
-                "es": "Provincia de Phongsali",
-                "fr": "Province de Phongsaly",
-                "it": "Provincia di Phongsali",
-                "zh": "\u4e30\u6c99\u91cc\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 21.6833333,
-            "lng": 102.10000000000002
-        },
-        "OU": {
-            "name": "Oudomxay Province",
-            "code": "OU",
-            "names": {
-                "geonames": "Oudomxai",
-                "ru": "\u0423\u0434\u043e\u043c\u0441\u0430\u0439",
-                "en": "Oudomxay Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0648\u062f\u0648\u0645\u0643\u0633\u0627\u064a",
-                "de": "Provinz Oudomxay",
-                "es": "Provincia de Oudomxay",
-                "fr": "Province d'Oudomxay",
-                "it": "Provincia di Oudomxay",
-                "zh": "\u4e4c\u591a\u59c6\u585e\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 20.4166667,
-            "lng": 102.14999999999998
-        },
-        "LP": {
-            "name": "Luang Prabang Province",
-            "code": "LP",
-            "names": {
-                "geonames": "Louangphabang",
-                "ru": "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433",
-                "en": "Luang Prabang Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0627\u0646\u063a \u0628\u0631\u0627\u0628\u0627\u0646\u063a",
-                "de": "Provinz Luang Prabang",
-                "es": "Provincia de Luang Prabang",
-                "fr": "Province de Luang Prabang",
-                "it": "Provincia di Luang Prabang",
-                "zh": "\u7405\u52c3\u62c9\u90a6\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 19.8841,
-            "lng": 102.14160200000003
-        },
-        "LM": {
-            "name": "Luang Namtha Province",
-            "code": "LM",
-            "names": {
-                "geonames": "Loungnamtha",
-                "ru": "\u041b\u0443\u0430\u043d\u0433\u043d\u0430\u043c\u0442\u0445\u0430",
-                "en": "Luang Namtha Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0627\u0646\u063a \u0646\u0627\u0645\u062b\u0627",
-                "de": "Provinz Luang Namtha",
-                "es": "Provincia de Luang Namtha",
-                "fr": "Province de Luang Namtha",
-                "it": "Provincia di Luang Namtha",
-                "zh": "\u7405\u5357\u5854\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 20.95,
-            "lng": 101.39999999999998
-        },
-        "KH": {
-            "name": "Khammouane Province",
-            "code": "KH",
-            "names": {
-                "geonames": "Khammouan",
-                "ru": "\u041a\u0445\u0430\u043c\u043c\u0443\u0430\u043d",
-                "en": "Khammouane Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0627\u0645\u0648\u0627\u0646\u064a",
-                "de": "Provinz Khammuan",
-                "es": "Provincia de Khammouan",
-                "fr": "Province de Khammouane",
-                "it": "Provincia di Khammouan",
-                "zh": "\u7518\u8499\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": null,
-            "lng": null
-        },
-        "HO": {
-            "name": "Houaphanh Province",
-            "code": "HO",
-            "names": {
-                "geonames": "Houaphan",
-                "ru": "\u0425\u0443\u0430\u043f\u0445\u0430\u043d",
-                "en": "Houaphanh Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u0627 \u0641\u0627\u0646",
-                "de": "Provinz Houaphan",
-                "es": "Provincia de Houaphan",
-                "fr": "Province de Houaphan",
-                "it": "Provincia di Houaphan",
-                "zh": "\u534e\u6f58\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 20.7769444,
-            "lng": 104.06527779999999
-        },
-        "CH": {
-            "name": "Champasak Province",
-            "code": "CH",
-            "names": {
-                "geonames": "Champasak",
-                "ru": "\u0422\u044f\u043c\u043f\u0430\u0441\u0430\u043a",
-                "en": "Champasak Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0634\u0627\u0645\u0628\u0627\u0633\u0627\u0643",
-                "de": "Provinz Champasak",
-                "es": "Provincia de Champasak",
-                "fr": "Province de Champassak",
-                "it": "Provincia di Champasak",
-                "zh": "\u5360\u5df4\u585e\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": null,
-            "lng": null
-        },
         "AT": {
             "name": "Attapeu Province",
             "code": "AT",
@@ -269,25 +41,6 @@
             "parent": "LA",
             "lat": null,
             "lng": null
-        },
-        "XE": {
-            "name": "Sekong Province",
-            "code": "XE",
-            "names": {
-                "geonames": "Xekong",
-                "ru": "\u0421\u0435\u043a\u043e\u043d\u0433",
-                "en": "Sekong Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0643\u0648\u0646\u063a",
-                "de": "Provinz Sekong",
-                "es": "Provincia de Sekong",
-                "fr": "Province de S\u00e9kong",
-                "it": "Provincia di Xekong",
-                "zh": "\u585e\u516c\u7701"
-            },
-            "division": "province",
-            "parent": "LA",
-            "lat": 15.5767446,
-            "lng": 107.00670309999998
         },
         "BK": {
             "name": "Bokeo Province",
@@ -327,6 +80,196 @@
             "lat": null,
             "lng": null
         },
+        "CH": {
+            "name": "Champasak Province",
+            "code": "CH",
+            "names": {
+                "geonames": "Champasak",
+                "ru": "\u0422\u044f\u043c\u043f\u0430\u0441\u0430\u043a",
+                "en": "Champasak Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0634\u0627\u0645\u0628\u0627\u0633\u0627\u0643",
+                "de": "Provinz Champasak",
+                "es": "Provincia de Champasak",
+                "fr": "Province de Champassak",
+                "it": "Provincia di Champasak",
+                "zh": "\u5360\u5df4\u585e\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": null,
+            "lng": null
+        },
+        "HO": {
+            "name": "Houaphanh Province",
+            "code": "HO",
+            "names": {
+                "geonames": "Houaphan",
+                "ru": "\u0425\u0443\u0430\u043f\u0445\u0430\u043d",
+                "en": "Houaphanh Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u0627 \u0641\u0627\u0646",
+                "de": "Provinz Houaphan",
+                "es": "Provincia de Houaphan",
+                "fr": "Province de Houaphan",
+                "it": "Provincia di Houaphan",
+                "zh": "\u534e\u6f58\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.7769444,
+            "lng": 104.06527779999999
+        },
+        "KH": {
+            "name": "Khammouane Province",
+            "code": "KH",
+            "names": {
+                "geonames": "Khammouan",
+                "ru": "\u041a\u0445\u0430\u043c\u043c\u0443\u0430\u043d",
+                "en": "Khammouane Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0627\u0645\u0648\u0627\u0646\u064a",
+                "de": "Provinz Khammuan",
+                "es": "Provincia de Khammouan",
+                "fr": "Province de Khammouane",
+                "it": "Provincia di Khammouan",
+                "zh": "\u7518\u8499\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": null,
+            "lng": null
+        },
+        "LM": {
+            "name": "Luang Namtha Province",
+            "code": "LM",
+            "names": {
+                "geonames": "Loungnamtha",
+                "ru": "\u041b\u0443\u0430\u043d\u0433\u043d\u0430\u043c\u0442\u0445\u0430",
+                "en": "Luang Namtha Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0627\u0646\u063a \u0646\u0627\u0645\u062b\u0627",
+                "de": "Provinz Luang Namtha",
+                "es": "Provincia de Luang Namtha",
+                "fr": "Province de Luang Namtha",
+                "it": "Provincia di Luang Namtha",
+                "zh": "\u7405\u5357\u5854\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.95,
+            "lng": 101.39999999999998
+        },
+        "LP": {
+            "name": "Luang Prabang Province",
+            "code": "LP",
+            "names": {
+                "geonames": "Louangphabang",
+                "ru": "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433",
+                "en": "Luang Prabang Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0627\u0646\u063a \u0628\u0631\u0627\u0628\u0627\u0646\u063a",
+                "de": "Provinz Luang Prabang",
+                "es": "Provincia de Luang Prabang",
+                "fr": "Province de Luang Prabang",
+                "it": "Provincia di Luang Prabang",
+                "zh": "\u7405\u52c3\u62c9\u90a6\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.8841,
+            "lng": 102.14160200000003
+        },
+        "OU": {
+            "name": "Oudomxay Province",
+            "code": "OU",
+            "names": {
+                "geonames": "Oudomxai",
+                "ru": "\u0423\u0434\u043e\u043c\u0441\u0430\u0439",
+                "en": "Oudomxay Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0648\u062f\u0648\u0645\u0643\u0633\u0627\u064a",
+                "de": "Provinz Oudomxay",
+                "es": "Provincia de Oudomxay",
+                "fr": "Province d'Oudomxay",
+                "it": "Provincia di Oudomxay",
+                "zh": "\u4e4c\u591a\u59c6\u585e\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 20.4166667,
+            "lng": 102.14999999999998
+        },
+        "PH": {
+            "name": "Phongsaly Province",
+            "code": "PH",
+            "names": {
+                "geonames": "Phongsali",
+                "ru": "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0438",
+                "en": "Phongsaly Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0648\u0646\u063a \u0633\u0627\u0644\u064a",
+                "de": "Provinz Phongsali",
+                "es": "Provincia de Phongsali",
+                "fr": "Province de Phongsaly",
+                "it": "Provincia di Phongsali",
+                "zh": "\u4e30\u6c99\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 21.6833333,
+            "lng": 102.10000000000002
+        },
+        "SL": {
+            "name": "Salavan Province",
+            "code": "SL",
+            "names": {
+                "geonames": "Salavan",
+                "ru": "\u0421\u0430\u0440\u0430\u0432\u0430\u043d",
+                "en": "Salavan Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0644\u0627\u0641\u0627\u0646",
+                "de": "Provinz Salavan",
+                "es": "Provincia de Salavan",
+                "fr": "Province de Saravane",
+                "it": "Provincia di Salavan",
+                "zh": "\u6c99\u62c9\u6e7e\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 15.7166667,
+            "lng": 106.41666669999995
+        },
+        "SV": {
+            "name": "Savannakhet Province",
+            "code": "SV",
+            "names": {
+                "geonames": "Savannahkhet",
+                "ru": "\u0421\u0430\u0432\u0430\u043d\u043d\u0430\u043a\u0445\u0435\u0442",
+                "en": "Savannakhet Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0641\u0627\u0646\u0627\u0643\u064a\u062a",
+                "de": "Provinz Savannakhet",
+                "es": "Provincia de Savannakhet",
+                "fr": "Province de Savannakhet",
+                "it": "Provincia di Savannakhet",
+                "zh": "\u6c99\u6e7e\u62ff\u5409\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 16.560659,
+            "lng": 104.74700200000007
+        },
+        "VI": {
+            "name": "Vientiane Province",
+            "code": "VI",
+            "names": {
+                "geonames": "Vientiane",
+                "ru": "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u064a\u0646\u062a\u064a\u0627\u0646",
+                "de": "Provinz Vientiane",
+                "en": "Vientiane Province",
+                "es": "Provincia de Vienti\u00e1n",
+                "fr": "Province de Vientiane",
+                "it": "Provincia di Vientiane",
+                "zh": "\u4e07\u8c61\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 17.962769,
+            "lng": 102.61442899999997
+        },
         "VT": {
             "name": "Vientiane Prefecture",
             "code": "VT",
@@ -345,6 +288,69 @@
             "lat": 17.962769,
             "lng": 102.61442899999997
         },
+        "XA": {
+            "name": "Sainyabuli Province",
+            "code": "XA",
+            "names": {
+                "geonames": "Xiagnabouli",
+                "ru": "\u0421\u0430\u0439\u043d\u044f\u0431\u0443\u043b\u0438",
+                "en": "Sainyabuli Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u064a\u0630\u064a\u0628\u0648\u0644\u064a",
+                "de": "Provinz Sainyabuli",
+                "es": "Provincia de Sainyabuli",
+                "fr": "Province de Sayaboury",
+                "it": "Provincia di Xaignabouli",
+                "zh": "\u6c99\u8036\u6b66\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.2557363,
+            "lng": 101.71252279999999
+        },
+        "XE": {
+            "name": "Sekong Province",
+            "code": "XE",
+            "names": {
+                "geonames": "Xekong",
+                "ru": "\u0421\u0435\u043a\u043e\u043d\u0433",
+                "en": "Sekong Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0643\u0648\u0646\u063a",
+                "de": "Provinz Sekong",
+                "es": "Provincia de Sekong",
+                "fr": "Province de S\u00e9kong",
+                "it": "Provincia di Xekong",
+                "zh": "\u585e\u516c\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 15.5767446,
+            "lng": 107.00670309999998
+        },
+        "XI": {
+            "name": "Xiangkhouang Province",
+            "code": "XI",
+            "names": {
+                "geonames": "Xiangkhoang",
+                "ru": "\u0421\u0438\u0430\u043d\u0433\u043a\u0445\u0443\u0430\u043d\u0433",
+                "en": "Xiangkhouang Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0632\u064a\u0627\u0646\u063a\u0647\u0648\u0627\u0646\u063a",
+                "de": "Provinz Xieng Khouang",
+                "es": "Provincia de Xiangkhoang",
+                "fr": "Province de Xieng Khouang",
+                "it": "Provincia di Xiangkhoang",
+                "zh": "\u5ddd\u5739\u7701"
+            },
+            "division": "province",
+            "parent": "LA",
+            "lat": 19.2612279,
+            "lng": 104.13571139999999
+        },
+        "XN": {
+            "name": "Xias\u00f4mboun",
+            "code": "XN",
+            "division": "special zone",
+            "parent": "LA"
+        },
         "XS": {
             "name": "Xais\u00f4mboun",
             "code": "XS",
@@ -356,11 +362,6 @@
             "parent": null,
             "lat": null,
             "lng": null
-        },
-        "XN": {
-            "name": "Xias\u00f4mboun",
-            "division": "special zone",
-            "parent": "LA"
         }
     }
 }

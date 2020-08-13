@@ -25,6 +25,37 @@
         "pt": "Paquist\u00e3o"
     },
     "ISO3166-2": {
+        "BA": {
+            "name": "Balochistan, Pakistan",
+            "code": "BA",
+            "names": {
+                "geonames": "Balochistan",
+                "ru": "\u0411\u0435\u043b\u0443\u0434\u0436\u0438\u0441\u0442\u0430\u043d",
+                "en": "Balochistan",
+                "ar": "\u0628\u0644\u0648\u0634\u0633\u062a\u0627\u0646",
+                "de": "Belutschistan",
+                "es": "Baluchist\u00e1n",
+                "fr": "Baloutchistan",
+                "it": "Belucistan",
+                "zh": "\u4ffe\u8def\u652f\u7701"
+            },
+            "division": "province",
+            "parent": "PK",
+            "lat": 30.1656721,
+            "lng": 66.99061010000003
+        },
+        "GB": {
+            "name": "Gilgit-Baltistan",
+            "code": "GB",
+            "names": {
+                "geonames": "Gilgit-Baltistan",
+                "en": "Gilgit-Baltistan"
+            },
+            "division": "area",
+            "parent": "PK",
+            "lat": 35.294869,
+            "lng": 75.63121320000005
+        },
         "IS": {
             "name": "Islamabad Capital Territory",
             "code": "IS",
@@ -42,36 +73,23 @@
             "lat": 33.718151,
             "lng": 73.06054700000004
         },
-        "SD": {
-            "name": "Sindh",
-            "code": "SD",
+        "JK": {
+            "name": "Azad Kashmir",
+            "code": "JK",
             "names": {
-                "geonames": "Sindh",
-                "ru": "\u0421\u0438\u043d\u0434",
-                "en": "Sindh",
-                "ar": "\u0627\u0644\u0633\u0646\u062f",
-                "de": "Sindh",
-                "es": "Sind",
-                "fr": "Sind",
-                "it": "Sindh",
-                "zh": "\u4fe1\u5fb7\u7701"
+                "geonames": "Azad Kashmir",
+                "ru": "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440",
+                "en": "Azad Kashmir",
+                "de": "Asad Kaschmir",
+                "es": "Azad Cachemira",
+                "fr": "Azad Cachemire",
+                "it": "Azad Kashmir",
+                "zh": "\u81ea\u7531\u514b\u4ec0\u7c73\u723e"
             },
-            "division": "province",
+            "division": "area",
             "parent": "PK",
-            "lat": 24.8276911,
-            "lng": 67.0742583
-        },
-        "PB": {
-            "name": "Punjab",
-            "code": "PB",
-            "names": {
-                "geonames": "Punjab",
-                "en": "Punjab"
-            },
-            "division": "province",
-            "parent": "PK",
-            "lat": 31.1471305,
-            "lng": 75.34121789999995
+            "lat": 34.1490875,
+            "lng": 76.82596519999993
         },
         "KP": {
             "name": "Khyber Pakhtunkhwa",
@@ -92,17 +110,44 @@
             "lat": null,
             "lng": null
         },
-        "NA": {
-            "name": "Gilgit-Baltistan",
-            "code": "NA",
-            "names": {
-                "geonames": "Gilgit-Baltistan",
-                "en": "Gilgit-Baltistan"
-            },
-            "division": "area",
+        "NW": {
+            "name": "North-West Frontier",
+            "code": "NW",
+            "division": "province",
             "parent": "PK",
-            "lat": 35.294869,
-            "lng": 75.63121320000005
+            "lat": 34.9526205,
+            "lng": 72.33111299999996
+        },
+        "PB": {
+            "name": "Punjab",
+            "code": "PB",
+            "names": {
+                "geonames": "Punjab",
+                "en": "Punjab"
+            },
+            "division": "province",
+            "parent": "PK",
+            "lat": 31.1471305,
+            "lng": 75.34121789999995
+        },
+        "SD": {
+            "name": "Sindh",
+            "code": "SD",
+            "names": {
+                "geonames": "Sindh",
+                "ru": "\u0421\u0438\u043d\u0434",
+                "en": "Sindh",
+                "ar": "\u0627\u0644\u0633\u0646\u062f",
+                "de": "Sindh",
+                "es": "Sind",
+                "fr": "Sind",
+                "it": "Sindh",
+                "zh": "\u4fe1\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "PK",
+            "lat": 24.8276911,
+            "lng": 67.0742583
         },
         "TA": {
             "name": "Federally Administered Tribal Areas",
@@ -122,50 +167,6 @@
             "parent": "PK",
             "lat": null,
             "lng": null
-        },
-        "BA": {
-            "name": "Balochistan, Pakistan",
-            "code": "BA",
-            "names": {
-                "geonames": "Balochistan",
-                "ru": "\u0411\u0435\u043b\u0443\u0434\u0436\u0438\u0441\u0442\u0430\u043d",
-                "en": "Balochistan",
-                "ar": "\u0628\u0644\u0648\u0634\u0633\u062a\u0627\u0646",
-                "de": "Belutschistan",
-                "es": "Baluchist\u00e1n",
-                "fr": "Baloutchistan",
-                "it": "Belucistan",
-                "zh": "\u4ffe\u8def\u652f\u7701"
-            },
-            "division": "province",
-            "parent": "PK",
-            "lat": 30.1656721,
-            "lng": 66.99061010000003
-        },
-        "JK": {
-            "name": "Azad Kashmir",
-            "code": "JK",
-            "names": {
-                "geonames": "Azad Kashmir",
-                "ru": "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440",
-                "en": "Azad Kashmir",
-                "de": "Asad Kaschmir",
-                "es": "Azad Cachemira",
-                "fr": "Azad Cachemire",
-                "it": "Azad Kashmir",
-                "zh": "\u81ea\u7531\u514b\u4ec0\u7c73\u723e"
-            },
-            "division": "area",
-            "parent": "PK",
-            "lat": 34.1490875,
-            "lng": 76.82596519999993
-        },
-        "NW": {
-            "name": "North-West Frontier",
-            "division": "province",
-            "parent": "PK",
-            "lat": 34.9526205,
-            "lng": 72.33111299999996
         }
     }
 }

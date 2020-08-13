@@ -27,61 +27,6 @@
         "pt": "Vanuatu"
     },
     "ISO3166-2": {
-        "TAE": {
-            "name": "Tafea Province",
-            "code": "TAE",
-            "names": {
-                "geonames": "Tafea",
-                "ru": "\u0422\u0430\u0444\u0435\u0430",
-                "en": "Tafea Province",
-                "de": "Tafea",
-                "es": "Tafea",
-                "fr": "Taf\u00e9a",
-                "it": "Tafea",
-                "zh": "\u5854\u83f2\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "VU",
-            "lat": null,
-            "lng": null
-        },
-        "SAM": {
-            "name": "Sanma Province",
-            "code": "SAM",
-            "names": {
-                "geonames": "Sanma",
-                "ru": "\u0421\u0430\u043d\u043c\u0430",
-                "en": "Sanma Province",
-                "ar": "\u0633\u0627\u0646\u0645\u0627",
-                "de": "Sanma",
-                "es": "Sanma",
-                "fr": "Sanma",
-                "it": "Sanma",
-                "zh": "\u6851\u9a6c\u7701"
-            },
-            "division": "province",
-            "parent": "VU",
-            "lat": null,
-            "lng": null
-        },
-        "TOB": {
-            "name": "Torba Province",
-            "code": "TOB",
-            "names": {
-                "geonames": "Torba",
-                "ru": "\u0422\u043e\u0440\u0431\u0430",
-                "en": "Torba Province",
-                "de": "Torba",
-                "es": "Torba",
-                "fr": "Torba",
-                "it": "Torba",
-                "zh": "\u6258\u5c14\u5df4\u7701"
-            },
-            "division": "province",
-            "parent": "VU",
-            "lat": null,
-            "lng": null
-        },
         "MAP": {
             "name": "Malampa Province",
             "code": "MAP",
@@ -119,6 +64,25 @@
             "lat": null,
             "lng": null
         },
+        "SAM": {
+            "name": "Sanma Province",
+            "code": "SAM",
+            "names": {
+                "geonames": "Sanma",
+                "ru": "\u0421\u0430\u043d\u043c\u0430",
+                "en": "Sanma Province",
+                "ar": "\u0633\u0627\u0646\u0645\u0627",
+                "de": "Sanma",
+                "es": "Sanma",
+                "fr": "Sanma",
+                "it": "Sanma",
+                "zh": "\u6851\u9a6c\u7701"
+            },
+            "division": "province",
+            "parent": "VU",
+            "lat": null,
+            "lng": null
+        },
         "SEE": {
             "name": "Shefa Province",
             "code": "SEE",
@@ -132,6 +96,42 @@
                 "fr": "Sh\u00e9fa",
                 "it": "Shefa",
                 "zh": "\u8c22\u6cd5\u7701"
+            },
+            "division": "province",
+            "parent": "VU",
+            "lat": null,
+            "lng": null
+        },
+        "TAE": {
+            "name": "Tafea Province",
+            "code": "TAE",
+            "names": {
+                "geonames": "Tafea",
+                "ru": "\u0422\u0430\u0444\u0435\u0430",
+                "en": "Tafea Province",
+                "de": "Tafea",
+                "es": "Tafea",
+                "fr": "Taf\u00e9a",
+                "it": "Tafea",
+                "zh": "\u5854\u83f2\u4e9a\u7701"
+            },
+            "division": "province",
+            "parent": "VU",
+            "lat": null,
+            "lng": null
+        },
+        "TOB": {
+            "name": "Torba Province",
+            "code": "TOB",
+            "names": {
+                "geonames": "Torba",
+                "ru": "\u0422\u043e\u0440\u0431\u0430",
+                "en": "Torba Province",
+                "de": "Torba",
+                "es": "Torba",
+                "fr": "Torba",
+                "it": "Torba",
+                "zh": "\u6258\u5c14\u5df4\u7701"
             },
             "division": "province",
             "parent": "VU",

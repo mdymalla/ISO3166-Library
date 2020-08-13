@@ -24,70 +24,6 @@
         "pt": "Catar"
     },
     "ISO3166-2": {
-        "MS": {
-            "name": "Madinat ash Shamal",
-            "code": "MS",
-            "names": {
-                "geonames": "Madinat ash Shamal",
-                "ru": "\u0410\u0448-\u0428\u0430\u043c\u0430\u043b\u044c",
-                "en": "Madinat ash Shamal",
-                "ar": "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
-                "de": "Asch-Schamal",
-                "fr": "Ash Shamal",
-                "it": "Madinat ash Shamal"
-            },
-            "division": "municipality",
-            "parent": "QA",
-            "lat": 26.1135434,
-            "lng": 51.22392089999994
-        },
-        "KH": {
-            "name": "Al Khor",
-            "code": "KH",
-            "names": {
-                "geonames": "Al Khawr",
-                "ru": "\u0410\u043b\u044c-\u0425\u043e\u0440",
-                "en": "Al Khor",
-                "ar": "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u064a\u0631\u0629",
-                "es": "Jor",
-                "fr": "Al Khawr",
-                "it": "Al Khawr"
-            },
-            "division": "municipality",
-            "parent": "QA",
-            "lat": 25.683875,
-            "lng": 51.50171599999999
-        },
-        "US": {
-            "name": "Umm Salal",
-            "code": "US",
-            "names": {
-                "geonames": "Baladiyat Umm Salal",
-                "ru": "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c",
-                "en": "Umm Salal",
-                "ar": "\u0628\u0644\u062f\u064a\u0629 \u0623\u0645 \u0635\u0644\u0627\u0644",
-                "es": "Umm Salal",
-                "fr": "Umm Salal",
-                "it": "Umm Salal"
-            },
-            "division": "municipality",
-            "parent": "QA",
-            "lat": null,
-            "lng": null
-        },
-        "RA": {
-            "name": "Ar Rayy\u0101n",
-            "code": "RA",
-            "names": {
-                "geonames": "Baladiyat ar Rayyan",
-                "ru": "\u0410\u0440-\u0420\u0430\u0439\u044f\u043d",
-                "en": "Ar Rayy\u0101n"
-            },
-            "division": "municipality",
-            "parent": "QA",
-            "lat": 25.301347,
-            "lng": 51.42966799999999
-        },
         "DA": {
             "name": "Doha",
             "code": "DA",
@@ -106,6 +42,92 @@
             "parent": "QA",
             "lat": 25.3521436,
             "lng": 51.49398529999996
+        },
+        "GH": {
+            "name": "Al Ghuwayriyah",
+            "code": "GH",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "JB": {
+            "name": "Jariyan al Batnah",
+            "code": "JB",
+            "division": "municipality",
+            "parent": "QA"
+        },
+        "JU": {
+            "name": "Al Jumayliyah",
+            "code": "JU",
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 32.3182314,
+            "lng": -86.90229799999997
+        },
+        "KH": {
+            "name": "Al Khor",
+            "code": "KH",
+            "names": {
+                "geonames": "Al Khawr",
+                "ru": "\u0410\u043b\u044c-\u0425\u043e\u0440",
+                "en": "Al Khor",
+                "ar": "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u064a\u0631\u0629",
+                "es": "Jor",
+                "fr": "Al Khawr",
+                "it": "Al Khawr"
+            },
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.683875,
+            "lng": 51.50171599999999
+        },
+        "MS": {
+            "name": "Madinat ash Shamal",
+            "code": "MS",
+            "names": {
+                "geonames": "Madinat ash Shamal",
+                "ru": "\u0410\u0448-\u0428\u0430\u043c\u0430\u043b\u044c",
+                "en": "Madinat ash Shamal",
+                "ar": "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+                "de": "Asch-Schamal",
+                "fr": "Ash Shamal",
+                "it": "Madinat ash Shamal"
+            },
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 26.1135434,
+            "lng": 51.22392089999994
+        },
+        "RA": {
+            "name": "Ar Rayy\u0101n",
+            "code": "RA",
+            "names": {
+                "geonames": "Baladiyat ar Rayyan",
+                "ru": "\u0410\u0440-\u0420\u0430\u0439\u044f\u043d",
+                "en": "Ar Rayy\u0101n"
+            },
+            "division": "municipality",
+            "parent": "QA",
+            "lat": 25.301347,
+            "lng": 51.42966799999999
+        },
+        "US": {
+            "name": "Umm Salal",
+            "code": "US",
+            "names": {
+                "geonames": "Baladiyat Umm Salal",
+                "ru": "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c",
+                "en": "Umm Salal",
+                "ar": "\u0628\u0644\u062f\u064a\u0629 \u0623\u0645 \u0635\u0644\u0627\u0644",
+                "es": "Umm Salal",
+                "fr": "Umm Salal",
+                "it": "Umm Salal"
+            },
+            "division": "municipality",
+            "parent": "QA",
+            "lat": null,
+            "lng": null
         },
         "WA": {
             "name": "Al Wakrah",
@@ -140,25 +162,6 @@
             "parent": null,
             "lat": null,
             "lng": null
-        },
-        "GH": {
-            "name": "Al Ghuwayriyah",
-            "division": "municipality",
-            "parent": "QA",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
-        },
-        "JU": {
-            "name": "Al Jumayliyah",
-            "division": "municipality",
-            "parent": "QA",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
-        },
-        "JB": {
-            "name": "Jariyan al Batnah",
-            "division": "municipality",
-            "parent": "QA"
         }
     }
 }

@@ -24,336 +24,6 @@
         "pt": "Equador"
     },
     "ISO3166-2": {
-        "Z": {
-            "name": "Zamora-Chinchipe Province",
-            "code": "Z",
-            "names": {
-                "geonames": "Zamora-Chinchipe",
-                "ru": "\u0421\u0430\u043c\u043e\u0440\u0430-\u0427\u0438\u043d\u0447\u0438\u043f\u0435",
-                "en": "Zamora-Chinchipe Province",
-                "de": "Provinz Zamora Chinchipe",
-                "es": "Provincia de Zamora Chinchipe",
-                "fr": "Zamora-Chinchipe",
-                "it": "Provincia di Zamora-Chinchipe",
-                "zh": "\u8428\u83ab\u62c9-\u94a6\u5947\u4f69\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -4.1535434,
-            "lng": -78.83826440000001
-        },
-        "T": {
-            "name": "Tungurahua Province",
-            "code": "T",
-            "names": {
-                "geonames": "Tungurahua",
-                "ru": "\u0422\u0443\u043d\u0433\u0443\u0440\u0430\u0443\u0430",
-                "en": "Tungurahua Province",
-                "de": "Provinz Tungurahua",
-                "es": "Provincia de Tungurahua",
-                "fr": "Tungurahua",
-                "it": "Provincia del Tungurahua",
-                "zh": "\u901a\u53e4\u62c9\u74e6\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -1.2635284,
-            "lng": -78.56608519999997
-        },
-        "P": {
-            "name": "Pichincha Province",
-            "code": "P",
-            "names": {
-                "geonames": "Pichincha",
-                "ru": "\u041f\u0438\u0447\u0438\u043d\u0447\u0430",
-                "en": "Pichincha Province",
-                "de": "Provinz Pichincha",
-                "es": "Provincia de Pichincha",
-                "fr": "Province de Pichincha",
-                "it": "Provincia del Pichincha",
-                "zh": "\u76ae\u6b3d\u67e5\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -0.146671,
-            "lng": -78.83826440000001
-        },
-        "Y": {
-            "name": "Pastaza Province",
-            "code": "Y",
-            "names": {
-                "geonames": "Pastaza",
-                "ru": "\u041f\u0430\u0441\u0442\u0430\u0441\u0430",
-                "en": "Pastaza Province",
-                "de": "Provinz Pastaza",
-                "es": "Provincia de Pastaza",
-                "fr": "Pastaza",
-                "it": "Provincia del Pastaza",
-                "zh": "\u5e15\u65af\u5854\u85a9\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -1.6332034,
-            "lng": -77.01038499999999
-        },
-        "N": {
-            "name": "Napo Province",
-            "code": "N",
-            "names": {
-                "geonames": "Napo",
-                "ru": "\u041d\u0430\u043f\u043e",
-                "en": "Napo Province",
-                "de": "Provinz Napo",
-                "es": "Provincia de Napo",
-                "fr": "Napo",
-                "it": "Provincia del Napo",
-                "zh": "\u7eb3\u6ce2\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -0.7340072,
-            "lng": -77.01038499999999
-        },
-        "S": {
-            "name": "Morona-Santiago Province",
-            "code": "S",
-            "names": {
-                "geonames": "Morona-Santiago",
-                "ru": "\u041c\u043e\u0440\u043e\u043d\u0430-\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e",
-                "en": "Morona-Santiago Province",
-                "de": "Provinz Morona Santiago",
-                "es": "Provincia de Morona Santiago",
-                "fr": "Morona-Santiago",
-                "it": "Provincia di Morona-Santiago",
-                "zh": "\u83ab\u7f57\u7eb3-\u5723\u5730\u4e9a\u54e5\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -2.5628216,
-            "lng": -78.1108279
-        },
-        "M": {
-            "name": "Manab\u00ed Province",
-            "code": "M",
-            "names": {
-                "geonames": "Manabi",
-                "ru": "\u041c\u0430\u043d\u0430\u0431\u0438",
-                "en": "Manab\u00ed Province",
-                "de": "Provinz Manab\u00ed",
-                "es": "Provincia de Manab\u00ed",
-                "fr": "Manab\u00ed",
-                "it": "Provincia di Manab\u00ed",
-                "zh": "\u9a6c\u7eb3\u6bd4\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -0.7416532,
-            "lng": -79.91927020000003
-        },
-        "R": {
-            "name": "Los Rios",
-            "code": "R",
-            "names": {
-                "geonames": "Los Rios",
-                "en": "Los Rios"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -1.4191719,
-            "lng": -79.47038850000001
-        },
-        "L": {
-            "name": "Loja Province",
-            "code": "L",
-            "names": {
-                "geonames": "Loja",
-                "ru": "\u041b\u043e\u0445\u0430",
-                "en": "Loja Province",
-                "de": "Provinz Loja",
-                "es": "Provincia de Loja",
-                "fr": "Province de Loja",
-                "it": "Provincia di Loja",
-                "zh": "\u6d1b\u54c8\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -3.990138,
-            "lng": -79.20445999999998
-        },
-        "I": {
-            "name": "Imbabura Province",
-            "code": "I",
-            "names": {
-                "geonames": "Imbabura",
-                "ru": "\u0418\u043c\u0431\u0430\u0431\u0443\u0440\u0430",
-                "en": "Imbabura Province",
-                "de": "Provinz Imbabura",
-                "es": "Provincia de Imbabura",
-                "fr": "Imbabura",
-                "it": "Provincia dell'Imbabura",
-                "zh": "\u56e0\u5df4\u5e03\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": 0.367159,
-            "lng": -78.38422270000001
-        },
-        "G": {
-            "name": "Guayas Province",
-            "code": "G",
-            "names": {
-                "geonames": "Guayas",
-                "ru": "\u0413\u0443\u0430\u044f\u0441",
-                "en": "Guayas Province",
-                "de": "Provinz Guayas",
-                "es": "Provincia del Guayas",
-                "fr": "Province du Guayas",
-                "it": "Provincia del Guayas",
-                "zh": "\u74dc\u4e9a\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -0.9821485,
-            "lng": -79.5715485
-        },
-        "W": {
-            "name": "Gal\u00e1pagos Province",
-            "code": "W",
-            "names": {
-                "geonames": "Galapagos",
-                "ru": "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u043e\u0441",
-                "en": "Gal\u00e1pagos Province",
-                "de": "Provinz Gal\u00e1pagos",
-                "es": "Provincia de Gal\u00e1pagos",
-                "fr": "Province de Gal\u00e1pagos",
-                "it": "Provincia delle Gal\u00e1pagos",
-                "zh": "\u52a0\u62c9\u5e15\u6208\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -2.2135934,
-            "lng": -79.93006309999998
-        },
-        "E": {
-            "name": "Esmeraldas Province",
-            "code": "E",
-            "names": {
-                "geonames": "Esmeraldas",
-                "ru": "\u042d\u0441\u043c\u0435\u0440\u0430\u043b\u044c\u0434\u0430\u0441",
-                "en": "Esmeraldas Province",
-                "de": "Provinz Esmeraldas",
-                "es": "Provincia de Esmeraldas",
-                "fr": "Esmeraldas",
-                "it": "Provincia di Esmeraldas",
-                "zh": "\u57c3\u65af\u6885\u62c9\u8fbe\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": 0.9374137,
-            "lng": -79.66706729999999
-        },
-        "O": {
-            "name": "El Oro Province",
-            "code": "O",
-            "names": {
-                "geonames": "El Oro",
-                "ru": "\u042d\u043b\u044c-\u041e\u0440\u043e",
-                "en": "El Oro Province",
-                "de": "Provinz El Oro",
-                "es": "Provincia de El Oro",
-                "fr": "El Oro",
-                "it": "Provincia di El Oro",
-                "zh": "\u57c3\u723e\u5967\u7f85\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -3.4454787,
-            "lng": -79.82967429999997
-        },
-        "X": {
-            "name": "Cotopaxi Province",
-            "code": "X",
-            "names": {
-                "geonames": "Cotopaxi",
-                "ru": "\u041a\u043e\u0442\u043e\u043f\u0430\u0445\u0438",
-                "en": "Cotopaxi Province",
-                "de": "Provinz Cotopaxi",
-                "es": "Provincia de Cotopaxi",
-                "fr": "Cotopaxi",
-                "it": "Provincia del Cotopaxi",
-                "zh": "\u79d1\u6258\u5e15\u5e0c\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -0.8139667,
-            "lng": -78.92882420000001
-        },
-        "H": {
-            "name": "Chimborazo Province",
-            "code": "H",
-            "names": {
-                "geonames": "Chimborazo",
-                "ru": "\u0427\u0438\u043c\u0431\u043e\u0440\u0430\u0441\u043e",
-                "en": "Chimborazo Province",
-                "de": "Provinz Chimborazo",
-                "es": "Provincia de Chimborazo",
-                "fr": "Chimborazo",
-                "it": "Provincia del Chimborazo",
-                "zh": "\u94a6\u535a\u62c9\u7d22\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -2.0268289,
-            "lng": -78.74762079999999
-        },
-        "C": {
-            "name": "Carchi Province",
-            "code": "C",
-            "names": {
-                "geonames": "Carchi",
-                "ru": "\u041a\u0430\u0440\u0447\u0438",
-                "en": "Carchi Province",
-                "de": "Provinz Carchi",
-                "es": "Provincia de Carchi",
-                "fr": "Carchi",
-                "it": "Provincia del Carchi",
-                "zh": "\u5361\u5c14\u5947\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": 0.6625532,
-            "lng": -78.0195387
-        },
-        "F": {
-            "name": "Ca\u00f1ar Province",
-            "code": "F",
-            "names": {
-                "geonames": "Canar",
-                "ru": "\u041a\u0430\u043d\u044c\u044f\u0440",
-                "en": "Ca\u00f1ar Province",
-                "de": "Provinz Ca\u00f1ar",
-                "es": "Provincia de Ca\u00f1ar",
-                "fr": "Ca\u00f1ar",
-                "it": "Provincia di Ca\u00f1ar",
-                "zh": "\u5361\u5c3c\u4e9e\u723e\u7701"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -2.482619,
-            "lng": -78.97972099999998
-        },
-        "B": {
-            "name": "Bolivar",
-            "code": "B",
-            "names": {
-                "geonames": "Bolivar",
-                "en": "Bolivar"
-            },
-            "division": "province",
-            "parent": "EC",
-            "lat": -1.5696244,
-            "lng": -79.10969009999997
-        },
         "A": {
             "name": "Azuay Province",
             "code": "A",
@@ -373,23 +43,35 @@
             "lat": -2.9633245,
             "lng": -79.10969009999997
         },
-        "U": {
-            "name": "Sucumb\u00edos Province",
-            "code": "U",
+        "B": {
+            "name": "Bolivar",
+            "code": "B",
             "names": {
-                "geonames": "Sucumbios",
-                "ru": "\u0421\u0443\u043a\u0443\u043c\u0431\u0438\u043e\u0441",
-                "en": "Sucumb\u00edos Province",
-                "de": "Provinz Sucumb\u00edos",
-                "es": "Provincia de Sucumb\u00edos",
-                "fr": "Sucumb\u00edos",
-                "it": "Provincia di Sucumb\u00edos",
-                "zh": "\u82cf\u6606\u6bd4\u5965\u65af\u7701"
+                "geonames": "Bolivar",
+                "en": "Bolivar"
             },
             "division": "province",
             "parent": "EC",
-            "lat": -0.1452276,
-            "lng": -76.27108329999999
+            "lat": -1.5696244,
+            "lng": -79.10969009999997
+        },
+        "C": {
+            "name": "Carchi Province",
+            "code": "C",
+            "names": {
+                "geonames": "Carchi",
+                "ru": "\u041a\u0430\u0440\u0447\u0438",
+                "en": "Carchi Province",
+                "de": "Provinz Carchi",
+                "es": "Provincia de Carchi",
+                "fr": "Carchi",
+                "it": "Provincia del Carchi",
+                "zh": "\u5361\u5c14\u5947\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": 0.6625532,
+            "lng": -78.0195387
         },
         "D": {
             "name": "Orellana Province",
@@ -408,6 +90,216 @@
             "parent": "EC",
             "lat": -0.3081485,
             "lng": -78.54217419999998
+        },
+        "E": {
+            "name": "Esmeraldas Province",
+            "code": "E",
+            "names": {
+                "geonames": "Esmeraldas",
+                "ru": "\u042d\u0441\u043c\u0435\u0440\u0430\u043b\u044c\u0434\u0430\u0441",
+                "en": "Esmeraldas Province",
+                "de": "Provinz Esmeraldas",
+                "es": "Provincia de Esmeraldas",
+                "fr": "Esmeraldas",
+                "it": "Provincia di Esmeraldas",
+                "zh": "\u57c3\u65af\u6885\u62c9\u8fbe\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": 0.9374137,
+            "lng": -79.66706729999999
+        },
+        "F": {
+            "name": "Ca\u00f1ar Province",
+            "code": "F",
+            "names": {
+                "geonames": "Canar",
+                "ru": "\u041a\u0430\u043d\u044c\u044f\u0440",
+                "en": "Ca\u00f1ar Province",
+                "de": "Provinz Ca\u00f1ar",
+                "es": "Provincia de Ca\u00f1ar",
+                "fr": "Ca\u00f1ar",
+                "it": "Provincia di Ca\u00f1ar",
+                "zh": "\u5361\u5c3c\u4e9e\u723e\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -2.482619,
+            "lng": -78.97972099999998
+        },
+        "G": {
+            "name": "Guayas Province",
+            "code": "G",
+            "names": {
+                "geonames": "Guayas",
+                "ru": "\u0413\u0443\u0430\u044f\u0441",
+                "en": "Guayas Province",
+                "de": "Provinz Guayas",
+                "es": "Provincia del Guayas",
+                "fr": "Province du Guayas",
+                "it": "Provincia del Guayas",
+                "zh": "\u74dc\u4e9a\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.9821485,
+            "lng": -79.5715485
+        },
+        "H": {
+            "name": "Chimborazo Province",
+            "code": "H",
+            "names": {
+                "geonames": "Chimborazo",
+                "ru": "\u0427\u0438\u043c\u0431\u043e\u0440\u0430\u0441\u043e",
+                "en": "Chimborazo Province",
+                "de": "Provinz Chimborazo",
+                "es": "Provincia de Chimborazo",
+                "fr": "Chimborazo",
+                "it": "Provincia del Chimborazo",
+                "zh": "\u94a6\u535a\u62c9\u7d22\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -2.0268289,
+            "lng": -78.74762079999999
+        },
+        "I": {
+            "name": "Imbabura Province",
+            "code": "I",
+            "names": {
+                "geonames": "Imbabura",
+                "ru": "\u0418\u043c\u0431\u0430\u0431\u0443\u0440\u0430",
+                "en": "Imbabura Province",
+                "de": "Provinz Imbabura",
+                "es": "Provincia de Imbabura",
+                "fr": "Imbabura",
+                "it": "Provincia dell'Imbabura",
+                "zh": "\u56e0\u5df4\u5e03\u62c9\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": 0.367159,
+            "lng": -78.38422270000001
+        },
+        "L": {
+            "name": "Loja Province",
+            "code": "L",
+            "names": {
+                "geonames": "Loja",
+                "ru": "\u041b\u043e\u0445\u0430",
+                "en": "Loja Province",
+                "de": "Provinz Loja",
+                "es": "Provincia de Loja",
+                "fr": "Province de Loja",
+                "it": "Provincia di Loja",
+                "zh": "\u6d1b\u54c8\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -3.990138,
+            "lng": -79.20445999999998
+        },
+        "M": {
+            "name": "Manab\u00ed Province",
+            "code": "M",
+            "names": {
+                "geonames": "Manabi",
+                "ru": "\u041c\u0430\u043d\u0430\u0431\u0438",
+                "en": "Manab\u00ed Province",
+                "de": "Provinz Manab\u00ed",
+                "es": "Provincia de Manab\u00ed",
+                "fr": "Manab\u00ed",
+                "it": "Provincia di Manab\u00ed",
+                "zh": "\u9a6c\u7eb3\u6bd4\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.7416532,
+            "lng": -79.91927020000003
+        },
+        "N": {
+            "name": "Napo Province",
+            "code": "N",
+            "names": {
+                "geonames": "Napo",
+                "ru": "\u041d\u0430\u043f\u043e",
+                "en": "Napo Province",
+                "de": "Provinz Napo",
+                "es": "Provincia de Napo",
+                "fr": "Napo",
+                "it": "Provincia del Napo",
+                "zh": "\u7eb3\u6ce2\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.7340072,
+            "lng": -77.01038499999999
+        },
+        "O": {
+            "name": "El Oro Province",
+            "code": "O",
+            "names": {
+                "geonames": "El Oro",
+                "ru": "\u042d\u043b\u044c-\u041e\u0440\u043e",
+                "en": "El Oro Province",
+                "de": "Provinz El Oro",
+                "es": "Provincia de El Oro",
+                "fr": "El Oro",
+                "it": "Provincia di El Oro",
+                "zh": "\u57c3\u723e\u5967\u7f85\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -3.4454787,
+            "lng": -79.82967429999997
+        },
+        "P": {
+            "name": "Pichincha Province",
+            "code": "P",
+            "names": {
+                "geonames": "Pichincha",
+                "ru": "\u041f\u0438\u0447\u0438\u043d\u0447\u0430",
+                "en": "Pichincha Province",
+                "de": "Provinz Pichincha",
+                "es": "Provincia de Pichincha",
+                "fr": "Province de Pichincha",
+                "it": "Provincia del Pichincha",
+                "zh": "\u76ae\u6b3d\u67e5\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.146671,
+            "lng": -78.83826440000001
+        },
+        "R": {
+            "name": "Los Rios",
+            "code": "R",
+            "names": {
+                "geonames": "Los Rios",
+                "en": "Los Rios"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -1.4191719,
+            "lng": -79.47038850000001
+        },
+        "S": {
+            "name": "Morona-Santiago Province",
+            "code": "S",
+            "names": {
+                "geonames": "Morona-Santiago",
+                "ru": "\u041c\u043e\u0440\u043e\u043d\u0430-\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e",
+                "en": "Morona-Santiago Province",
+                "de": "Provinz Morona Santiago",
+                "es": "Provincia de Morona Santiago",
+                "fr": "Morona-Santiago",
+                "it": "Provincia di Morona-Santiago",
+                "zh": "\u83ab\u7f57\u7eb3-\u5723\u5730\u4e9a\u54e5\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -2.5628216,
+            "lng": -78.1108279
         },
         "SD": {
             "name": "Santo Domingo de los Ts\u00e1chilas Province",
@@ -444,6 +336,114 @@
             "parent": "EC",
             "lat": -2.2267,
             "lng": -80.85829999999999
+        },
+        "T": {
+            "name": "Tungurahua Province",
+            "code": "T",
+            "names": {
+                "geonames": "Tungurahua",
+                "ru": "\u0422\u0443\u043d\u0433\u0443\u0440\u0430\u0443\u0430",
+                "en": "Tungurahua Province",
+                "de": "Provinz Tungurahua",
+                "es": "Provincia de Tungurahua",
+                "fr": "Tungurahua",
+                "it": "Provincia del Tungurahua",
+                "zh": "\u901a\u53e4\u62c9\u74e6\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -1.2635284,
+            "lng": -78.56608519999997
+        },
+        "U": {
+            "name": "Sucumb\u00edos Province",
+            "code": "U",
+            "names": {
+                "geonames": "Sucumbios",
+                "ru": "\u0421\u0443\u043a\u0443\u043c\u0431\u0438\u043e\u0441",
+                "en": "Sucumb\u00edos Province",
+                "de": "Provinz Sucumb\u00edos",
+                "es": "Provincia de Sucumb\u00edos",
+                "fr": "Sucumb\u00edos",
+                "it": "Provincia di Sucumb\u00edos",
+                "zh": "\u82cf\u6606\u6bd4\u5965\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.1452276,
+            "lng": -76.27108329999999
+        },
+        "W": {
+            "name": "Gal\u00e1pagos Province",
+            "code": "W",
+            "names": {
+                "geonames": "Galapagos",
+                "ru": "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u043e\u0441",
+                "en": "Gal\u00e1pagos Province",
+                "de": "Provinz Gal\u00e1pagos",
+                "es": "Provincia de Gal\u00e1pagos",
+                "fr": "Province de Gal\u00e1pagos",
+                "it": "Provincia delle Gal\u00e1pagos",
+                "zh": "\u52a0\u62c9\u5e15\u6208\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -2.2135934,
+            "lng": -79.93006309999998
+        },
+        "X": {
+            "name": "Cotopaxi Province",
+            "code": "X",
+            "names": {
+                "geonames": "Cotopaxi",
+                "ru": "\u041a\u043e\u0442\u043e\u043f\u0430\u0445\u0438",
+                "en": "Cotopaxi Province",
+                "de": "Provinz Cotopaxi",
+                "es": "Provincia de Cotopaxi",
+                "fr": "Cotopaxi",
+                "it": "Provincia del Cotopaxi",
+                "zh": "\u79d1\u6258\u5e15\u5e0c\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -0.8139667,
+            "lng": -78.92882420000001
+        },
+        "Y": {
+            "name": "Pastaza Province",
+            "code": "Y",
+            "names": {
+                "geonames": "Pastaza",
+                "ru": "\u041f\u0430\u0441\u0442\u0430\u0441\u0430",
+                "en": "Pastaza Province",
+                "de": "Provinz Pastaza",
+                "es": "Provincia de Pastaza",
+                "fr": "Pastaza",
+                "it": "Provincia del Pastaza",
+                "zh": "\u5e15\u65af\u5854\u85a9\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -1.6332034,
+            "lng": -77.01038499999999
+        },
+        "Z": {
+            "name": "Zamora-Chinchipe Province",
+            "code": "Z",
+            "names": {
+                "geonames": "Zamora-Chinchipe",
+                "ru": "\u0421\u0430\u043c\u043e\u0440\u0430-\u0427\u0438\u043d\u0447\u0438\u043f\u0435",
+                "en": "Zamora-Chinchipe Province",
+                "de": "Provinz Zamora Chinchipe",
+                "es": "Provincia de Zamora Chinchipe",
+                "fr": "Zamora-Chinchipe",
+                "it": "Provincia di Zamora-Chinchipe",
+                "zh": "\u8428\u83ab\u62c9-\u94a6\u5947\u4f69\u7701"
+            },
+            "division": "province",
+            "parent": "EC",
+            "lat": -4.1535434,
+            "lng": -78.83826440000001
         }
     }
 }

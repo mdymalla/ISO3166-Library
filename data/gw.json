@@ -24,93 +24,23 @@
         "pt": "Guin\u00e9-Bissau"
     },
     "ISO3166-2": {
-        "TO": {
-            "name": "Tombali Region",
-            "code": "TO",
+        "BA": {
+            "name": "Bafat\u00e1 Region",
+            "code": "BA",
             "names": {
-                "geonames": "Tombali",
-                "ru": "\u0422\u043e\u043c\u0431\u0430\u043b\u0430",
-                "en": "Tombali Region",
-                "es": "Regi\u00f3n de Tombali",
-                "fr": "Tombali",
-                "it": "Regione di Tombali",
-                "zh": "\u901a\u5df4\u5229\u5340"
-            },
-            "division": "region",
-            "parent": "GW-S",
-            "lat": 30.089237,
-            "lng": -95.6355522
-        },
-        "QU": {
-            "name": "Quinara Region",
-            "code": "QU",
-            "names": {
-                "geonames": "Quinara",
-                "ru": "\u041a\u0438\u043d\u0430\u0440\u0430",
-                "en": "Quinara Region",
-                "es": "Regi\u00f3n de Quinara",
-                "fr": "Quinara",
-                "it": "Regione di Quinara",
-                "zh": "\u57fa\u7d0d\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "GW-S",
-            "lat": null,
-            "lng": null
-        },
-        "OI": {
-            "name": "Oio Region",
-            "code": "OI",
-            "names": {
-                "geonames": "Oio",
-                "ru": "\u041e\u0439\u043e",
-                "en": "Oio Region",
-                "de": "Oio",
-                "es": "Regi\u00f3n de Oio",
-                "fr": "Oio",
-                "it": "Regione di Oio",
-                "zh": "\u5967\u7d04\u5340"
-            },
-            "division": "region",
-            "parent": "GW-N",
-            "lat": null,
-            "lng": null
-        },
-        "GA": {
-            "name": "Gab\u00fa Region",
-            "code": "GA",
-            "names": {
-                "geonames": "Gabu",
-                "ru": "\u0413\u0430\u0431\u0443",
-                "en": "Gab\u00fa Region",
-                "de": "Gab\u00fa",
-                "es": "Regi\u00f3n de Gab\u00fa",
-                "fr": "Gabu",
-                "it": "Regione di Gab\u00fa",
-                "zh": "\u52a0\u5e03\u5340"
+                "geonames": "Bafata",
+                "ru": "\u0411\u0430\u0444\u0430\u0442\u0430",
+                "en": "Bafat\u00e1 Region",
+                "de": "Bafat\u00e1",
+                "es": "Regi\u00f3n de Bafat\u00e1",
+                "fr": "Bafat\u00e1",
+                "it": "Regione di Bafat\u00e1",
+                "zh": "\u5df4\u6cd5\u5854\u5340"
             },
             "division": "region",
             "parent": "GW-L",
-            "lat": 12.2798098,
-            "lng": -14.227967199999966
-        },
-        "CA": {
-            "name": "Cacheu Region",
-            "code": "CA",
-            "names": {
-                "geonames": "Cacheu",
-                "ru": "\u041a\u0430\u0448\u0435\u0443",
-                "en": "Cacheu Region",
-                "de": "Cacheu",
-                "es": "Regi\u00f3n de Cacheu",
-                "fr": "Cacheu",
-                "it": "Regione di Cacheu",
-                "zh": "\u5361\u8b1d\u70cf\u5340"
-            },
-            "division": "region",
-            "parent": "GW-N",
-            "lat": 12.26898,
-            "lng": -16.165110000000027
+            "lat": 12.1719444,
+            "lng": -14.657500000000027
         },
         "BL": {
             "name": "Bolama Region",
@@ -129,6 +59,23 @@
             "parent": "GW-S",
             "lat": 11.578601,
             "lng": -15.485022999999956
+        },
+        "BM": {
+            "name": "Biombo Region",
+            "code": "BM",
+            "names": {
+                "geonames": "Biombo",
+                "ru": "\u0411\u0438\u043e\u043c\u0431\u043e",
+                "en": "Biombo Region",
+                "es": "Regi\u00f3n de Biombo",
+                "fr": "Biombo",
+                "it": "Regione di Biombo",
+                "zh": "\u6bd4\u7fc1\u535a\u5340"
+            },
+            "division": "region",
+            "parent": "GW-N",
+            "lat": null,
+            "lng": null
         },
         "BS": {
             "name": "Bissau",
@@ -149,57 +96,113 @@
             "lat": 11.86398,
             "lng": -15.598209999999995
         },
-        "BM": {
-            "name": "Biombo Region",
-            "code": "BM",
+        "CA": {
+            "name": "Cacheu Region",
+            "code": "CA",
             "names": {
-                "geonames": "Biombo",
-                "ru": "\u0411\u0438\u043e\u043c\u0431\u043e",
-                "en": "Biombo Region",
-                "es": "Regi\u00f3n de Biombo",
-                "fr": "Biombo",
-                "it": "Regione di Biombo",
-                "zh": "\u6bd4\u7fc1\u535a\u5340"
+                "geonames": "Cacheu",
+                "ru": "\u041a\u0430\u0448\u0435\u0443",
+                "en": "Cacheu Region",
+                "de": "Cacheu",
+                "es": "Regi\u00f3n de Cacheu",
+                "fr": "Cacheu",
+                "it": "Regione di Cacheu",
+                "zh": "\u5361\u8b1d\u70cf\u5340"
+            },
+            "division": "region",
+            "parent": "GW-N",
+            "lat": 12.26898,
+            "lng": -16.165110000000027
+        },
+        "GA": {
+            "name": "Gab\u00fa Region",
+            "code": "GA",
+            "names": {
+                "geonames": "Gabu",
+                "ru": "\u0413\u0430\u0431\u0443",
+                "en": "Gab\u00fa Region",
+                "de": "Gab\u00fa",
+                "es": "Regi\u00f3n de Gab\u00fa",
+                "fr": "Gabu",
+                "it": "Regione di Gab\u00fa",
+                "zh": "\u52a0\u5e03\u5340"
+            },
+            "division": "region",
+            "parent": "GW-L",
+            "lat": 12.2798098,
+            "lng": -14.227967199999966
+        },
+        "L": {
+            "name": "Leste",
+            "code": "L",
+            "division": "province",
+            "parent": "GW"
+        },
+        "N": {
+            "name": "Norte",
+            "code": "N",
+            "division": "province",
+            "parent": "GW"
+        },
+        "OI": {
+            "name": "Oio Region",
+            "code": "OI",
+            "names": {
+                "geonames": "Oio",
+                "ru": "\u041e\u0439\u043e",
+                "en": "Oio Region",
+                "de": "Oio",
+                "es": "Regi\u00f3n de Oio",
+                "fr": "Oio",
+                "it": "Regione di Oio",
+                "zh": "\u5967\u7d04\u5340"
             },
             "division": "region",
             "parent": "GW-N",
             "lat": null,
             "lng": null
         },
-        "BA": {
-            "name": "Bafat\u00e1 Region",
-            "code": "BA",
+        "QU": {
+            "name": "Quinara Region",
+            "code": "QU",
             "names": {
-                "geonames": "Bafata",
-                "ru": "\u0411\u0430\u0444\u0430\u0442\u0430",
-                "en": "Bafat\u00e1 Region",
-                "de": "Bafat\u00e1",
-                "es": "Regi\u00f3n de Bafat\u00e1",
-                "fr": "Bafat\u00e1",
-                "it": "Regione di Bafat\u00e1",
-                "zh": "\u5df4\u6cd5\u5854\u5340"
+                "geonames": "Quinara",
+                "ru": "\u041a\u0438\u043d\u0430\u0440\u0430",
+                "en": "Quinara Region",
+                "es": "Regi\u00f3n de Quinara",
+                "fr": "Quinara",
+                "it": "Regione di Quinara",
+                "zh": "\u57fa\u7d0d\u62c9\u5340"
             },
             "division": "region",
-            "parent": "GW-L",
-            "lat": 12.1719444,
-            "lng": -14.657500000000027
-        },
-        "L": {
-            "name": "Leste",
-            "division": "province",
-            "parent": "GW"
-        },
-        "N": {
-            "name": "Norte",
-            "division": "province",
-            "parent": "GW"
+            "parent": "GW-S",
+            "lat": null,
+            "lng": null
         },
         "S": {
             "name": "Sul",
+            "code": "S",
             "division": "province",
             "parent": "GW",
             "lat": 12.1527778,
             "lng": -16.448055599999975
+        },
+        "TO": {
+            "name": "Tombali Region",
+            "code": "TO",
+            "names": {
+                "geonames": "Tombali",
+                "ru": "\u0422\u043e\u043c\u0431\u0430\u043b\u0430",
+                "en": "Tombali Region",
+                "es": "Regi\u00f3n de Tombali",
+                "fr": "Tombali",
+                "it": "Regione di Tombali",
+                "zh": "\u901a\u5df4\u5229\u5340"
+            },
+            "division": "region",
+            "parent": "GW-S",
+            "lat": 30.089237,
+            "lng": -95.6355522
         }
     }
 }

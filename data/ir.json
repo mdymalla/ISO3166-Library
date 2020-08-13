@@ -24,367 +24,6 @@
         "pt": "Ir\u00e3o"
     },
     "ISO3166-2": {
-        "07": {
-            "name": "Tehran Province",
-            "code": "07",
-            "names": {
-                "geonames": "Tehran",
-                "ru": "\u0422\u0435\u0433\u0435\u0440\u0430\u043d",
-                "en": "Tehran Province",
-                "ar": "\u0637\u0647\u0631\u0627\u0646",
-                "de": "Teheran",
-                "es": "Provincia de Teher\u00e1n",
-                "fr": "Province de T\u00e9h\u00e9ran",
-                "it": "Regione di Teheran",
-                "zh": "\u5fb7\u9ed1\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 35.6961111,
-            "lng": 51.4230556
-        },
-        "11": {
-            "name": "Zanjan Province",
-            "code": "11",
-            "names": {
-                "geonames": "Zanjan",
-                "ru": "\u0417\u0435\u043d\u0434\u0436\u0430\u043d",
-                "en": "Zanjan Province",
-                "ar": "\u0632\u0646\u062c\u0627\u0646",
-                "de": "Zandschan",
-                "es": "Provincia de Zany\u00e1n",
-                "fr": "Province de Zanjan",
-                "it": "Regione di Zanjan",
-                "zh": "\u8d0a\u8a79\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 36.67094,
-            "lng": 48.48511099999996
-        },
-        "25": {
-            "name": "Yazd Province",
-            "code": "25",
-            "names": {
-                "geonames": "Yazd",
-                "ru": "\u0419\u0435\u0437\u0434",
-                "en": "Yazd Province",
-                "ar": "\u064a\u0632\u062f",
-                "de": "Yazd",
-                "es": "Provincia de Yazd",
-                "fr": "Province de Yazd",
-                "it": "Regione di Yazd",
-                "zh": "\u4e9e\u8332\u5fb7\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 31.89661,
-            "lng": 54.36068
-        },
-        "12": {
-            "name": "Semnan Province",
-            "code": "12",
-            "names": {
-                "geonames": "Semnan",
-                "ru": "\u0421\u0435\u043c\u043d\u0430\u043d",
-                "en": "Semnan Province",
-                "ar": "\u0633\u0645\u0646\u0627\u0646",
-                "de": "Semnan",
-                "es": "Provincia de Semn\u00e1n",
-                "fr": "Province de Semnan",
-                "it": "Regione di Semnan",
-                "zh": "\u585e\u59c6\u5357\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 35.572269,
-            "lng": 53.39604899999995
-        },
-        "21": {
-            "name": "Mazandaran Province",
-            "code": "21",
-            "names": {
-                "geonames": "Mazandaran",
-                "ru": "\u041c\u0430\u0437\u0435\u043d\u0434\u0435\u0440\u0430\u043d",
-                "en": "Mazandaran Province",
-                "ar": "\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646",
-                "de": "M\u0101zandar\u0101n",
-                "es": "Mazandar\u00e1n",
-                "fr": "Mazand\u00e9ran",
-                "it": "Mazandaran",
-                "zh": "\u99ac\u8d0a\u5fb7\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 35.7004956,
-            "lng": 51.44292459999997
-        },
-        "22": {
-            "name": "Markazi Province",
-            "code": "22",
-            "names": {
-                "geonames": "Markazi",
-                "en": "Markazi Province",
-                "ar": "\u0645\u0631\u0643\u0632\u064a",
-                "de": "Markazi",
-                "es": "Markaz\u00ed",
-                "fr": "Markazi",
-                "it": "Regione di Markazi",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0441\u0442\u0430\u043d",
-                "zh": "\u4e2d\u592e\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 34.0853148,
-            "lng": 49.68379260000006
-        },
-        "20": {
-            "name": "Lorestan Province",
-            "code": "20",
-            "names": {
-                "geonames": "Lorestan",
-                "ru": "\u041b\u0443\u0440\u0435\u0441\u0442\u0430\u043d",
-                "en": "Lorestan Province",
-                "ar": "\u0644\u0631\u0633\u062a\u0627\u0646",
-                "de": "Lorestan",
-                "es": "Lorest\u00e1n",
-                "fr": "Lorestan",
-                "it": "Lorestan",
-                "zh": "\u6d1b\u96f7\u65af\u5766\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 35.6787812,
-            "lng": 51.47250770000005
-        },
-        "16": {
-            "name": "Kurdistan Province",
-            "code": "16",
-            "names": {
-                "geonames": "Kordestan",
-                "ru": "\u041a\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043d",
-                "en": "Kurdistan Province",
-                "ar": "\u0643\u0631\u062f\u0633\u062a\u0627\u0646",
-                "de": "Kordest\u0101n",
-                "es": "Provincia de Kurdist\u00e1n",
-                "fr": "Province iranienne du Kurdistan",
-                "it": "Regione del Kurdistan",
-                "zh": "\u5eab\u723e\u5fb7\u65af\u5766\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 36.6911368,
-            "lng": 45.14279940000006
-        },
-        "18": {
-            "name": "Kohgiluyeh and Boyer-Ahmad Province",
-            "code": "18",
-            "names": {
-                "geonames": "Kohgiluyeh va Buyer Ahmad",
-                "ru": "\u041a\u043e\u0445\u0433\u0438\u043b\u0443\u0439\u0435 \u0438 \u0411\u043e\u0439\u0435\u0440\u0430\u0445\u043c\u0435\u0434",
-                "en": "Kohgiluyeh and Boyer-Ahmad Province",
-                "ar": "\u0643\u0647\u0643\u06cc\u0644\u0648\u06cc\u0647 \u0648\u0628\u0648\u06cc\u0631 \u0623\u062d\u0645\u062f",
-                "de": "Kohgiluyeh und Boyer Ahmad",
-                "es": "Kohkiluyeh y Buyer Ahmad",
-                "fr": "Kohkiluyeh et Buyer Ahmad",
-                "it": "Regione di Kohgiluyeh e Buyer Ahmad",
-                "zh": "\u79d1\u5409\u76e7\u8036\uff0d\u535a\u97cb\u827e\u54c8\u9081\u5fb7\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": null,
-            "lng": null
-        },
-        "10": {
-            "name": "Khuzestan Province",
-            "code": "10",
-            "names": {
-                "geonames": "Khuzestan",
-                "ru": "\u0425\u0443\u0437\u0435\u0441\u0442\u0430\u043d",
-                "en": "Khuzestan Province",
-                "ar": "\u062e\u0648\u0632\u0633\u062a\u0627\u0646",
-                "de": "Chuzestan",
-                "es": "Juzest\u00e1n",
-                "fr": "Khouzistan",
-                "it": "Kh\u016bzest\u0101n",
-                "zh": "\u80e1\u9f4a\u65af\u5766\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 31.307476,
-            "lng": 48.691878299999985
-        },
-        "17": {
-            "name": "Kermanshah Province",
-            "code": "17",
-            "names": {
-                "geonames": "Kermanshah",
-                "ru": "\u041a\u0435\u0440\u043c\u0430\u043d\u0448\u0430\u0445",
-                "en": "Kermanshah Province",
-                "ar": "\u0643\u0631\u0645\u0627\u0646\u0634\u0627\u0647",
-                "de": "Kerm\u0101nsch\u0101h",
-                "es": "Provincia de Kermanshah",
-                "fr": "Province de Kermanshah",
-                "it": "Regione di Kermanshah",
-                "zh": "\u514b\u723e\u66fc\u6c99\u6c57\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 34.308159,
-            "lng": 47.057320000000004
-        },
-        "15": {
-            "name": "Kerman Province",
-            "code": "15",
-            "names": {
-                "geonames": "Kerman",
-                "ru": "\u041a\u0435\u0440\u043c\u0430\u043d",
-                "en": "Kerman Province",
-                "ar": "\u0643\u0631\u0645\u0627\u0646",
-                "de": "Kerman",
-                "es": "Provincia de Kerm\u00e1n",
-                "fr": "Province de Kerman",
-                "it": "Regione di Kerman",
-                "zh": "\u514b\u723e\u66fc\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 30.28027,
-            "lng": 57.06701999999996
-        },
-        "05": {
-            "name": "Ilam Province",
-            "code": "05",
-            "names": {
-                "geonames": "Ilam",
-                "ru": "\u0418\u043b\u0430\u043c",
-                "en": "Ilam Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u064a\u0644\u0627\u0645",
-                "de": "Ilam",
-                "es": "Provincia de Ilam",
-                "fr": "Province d'Ilam",
-                "it": "Regione di Ilam",
-                "zh": "\u4f0a\u62c9\u59c6\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 28.9856079,
-            "lng": 50.82795420000002
-        },
-        "23": {
-            "name": "Hormozgan Province",
-            "code": "23",
-            "names": {
-                "geonames": "Hormozgan",
-                "ru": "\u0425\u043e\u0440\u043c\u043e\u0437\u0433\u0430\u043d",
-                "en": "Hormozgan Province",
-                "ar": "\u0647\u0631\u0645\u0632\u063a\u0627\u0646",
-                "de": "Hormozgan",
-                "es": "Hormozg\u00e1n",
-                "fr": "Hormozgan",
-                "it": "Hormozgan",
-                "zh": "\u970d\u723e\u6728\u8332\u7518\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 26.5460362,
-            "lng": 54.000699499999996
-        },
-        "24": {
-            "name": "Hamadan Province",
-            "code": "24",
-            "names": {
-                "geonames": "Hamadan",
-                "ru": "\u0425\u0430\u043c\u0430\u0434\u0430\u043d",
-                "en": "Hamadan Province",
-                "ar": "\u0647\u0645\u062f\u0627\u0646",
-                "de": "Hamadan",
-                "es": "Provincia de Hamad\u00e1n",
-                "fr": "Province de Hamedan",
-                "it": "Regione di Hamadan",
-                "zh": "\u54c8\u99ac\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 34.8065,
-            "lng": 48.51624719999995
-        },
-        "19": {
-            "name": "Gilan Province",
-            "code": "19",
-            "names": {
-                "geonames": "Gilan",
-                "ru": "\u0413\u0438\u043b\u044f\u043d",
-                "en": "Gilan Province",
-                "ar": "\u063a\u06cc\u0644\u0627\u0646",
-                "de": "Gilan",
-                "es": "Gil\u00e1n",
-                "fr": "Gilan",
-                "it": "Regione di Gilan",
-                "zh": "\u5409\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 35.7609874,
-            "lng": 51.46467889999997
-        },
-        "14": {
-            "name": "Fars Province",
-            "code": "14",
-            "names": {
-                "geonames": "Fars",
-                "ru": "\u0424\u0430\u0440\u0441",
-                "en": "Fars Province",
-                "ar": "\u0641\u0627\u0631\u0633",
-                "de": "Fars",
-                "es": "Fars",
-                "fr": "Fars",
-                "it": "Fars",
-                "zh": "\u6cd5\u723e\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 29.6014553,
-            "lng": 52.460393299999964
-        },
-        "08": {
-            "name": "Chaharmahal and Bakhtiari Province",
-            "code": "08",
-            "names": {
-                "geonames": "Chaharmahal and Bakhtiari",
-                "ru": "\u0427\u0435\u0445\u0430\u0440\u043c\u0435\u0445\u0430\u043b\u044c \u0438 \u0411\u0430\u0445\u0442\u0438\u0430\u0440\u0438\u044f",
-                "en": "Chaharmahal and Bakhtiari Province",
-                "ar": "\u062a\u0634\u0647\u0627\u0631\u0645\u062d\u0627\u0644 \u0648\u0628\u062e\u062a\u06cc\u0627\u0631\u064a",
-                "de": "Tschah\u0101r Mah\u0101l und Bachtiy\u0101r\u012b",
-                "es": "Chahar Mahal y Bajtiar\u00ed",
-                "fr": "Chahar Mahaal et Bakhtiari",
-                "it": "Regione di Chahar Mahal e Bakhtiari",
-                "zh": "\u6070\u54c8\u99ac\u54c8\u52d2\uff0d\u5df4\u8d6b\u8482\u4e9e\u91cc\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": null,
-            "lng": null
-        },
-        "06": {
-            "name": "Bushehr Province",
-            "code": "06",
-            "names": {
-                "geonames": "Bushehr",
-                "ru": "\u0411\u0443\u0448\u0438\u0440",
-                "en": "Bushehr Province",
-                "ar": "\u0628\u0648\u0634\u0647\u0631",
-                "de": "Buschehr",
-                "es": "Provincia de Bushehr",
-                "fr": "Province de Bouchehr",
-                "it": "Regione di Bushehr",
-                "zh": "\u5e03\u4ec0\u723e\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 28.922041,
-            "lng": 50.833091999999965
-        },
         "01": {
             "name": "East Azerbaijan Province",
             "code": "01",
@@ -461,6 +100,405 @@
             "lat": 36.2520863,
             "lng": 50.001075300000025
         },
+        "05": {
+            "name": "Ilam Province",
+            "code": "05",
+            "names": {
+                "geonames": "Ilam",
+                "ru": "\u0418\u043b\u0430\u043c",
+                "en": "Ilam Province",
+                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0625\u064a\u0644\u0627\u0645",
+                "de": "Ilam",
+                "es": "Provincia de Ilam",
+                "fr": "Province d'Ilam",
+                "it": "Regione di Ilam",
+                "zh": "\u4f0a\u62c9\u59c6\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 28.9856079,
+            "lng": 50.82795420000002
+        },
+        "06": {
+            "name": "Bushehr Province",
+            "code": "06",
+            "names": {
+                "geonames": "Bushehr",
+                "ru": "\u0411\u0443\u0448\u0438\u0440",
+                "en": "Bushehr Province",
+                "ar": "\u0628\u0648\u0634\u0647\u0631",
+                "de": "Buschehr",
+                "es": "Provincia de Bushehr",
+                "fr": "Province de Bouchehr",
+                "it": "Regione di Bushehr",
+                "zh": "\u5e03\u4ec0\u723e\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 28.922041,
+            "lng": 50.833091999999965
+        },
+        "07": {
+            "name": "Tehran Province",
+            "code": "07",
+            "names": {
+                "geonames": "Tehran",
+                "ru": "\u0422\u0435\u0433\u0435\u0440\u0430\u043d",
+                "en": "Tehran Province",
+                "ar": "\u0637\u0647\u0631\u0627\u0646",
+                "de": "Teheran",
+                "es": "Provincia de Teher\u00e1n",
+                "fr": "Province de T\u00e9h\u00e9ran",
+                "it": "Regione di Teheran",
+                "zh": "\u5fb7\u9ed1\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.6961111,
+            "lng": 51.4230556
+        },
+        "08": {
+            "name": "Chaharmahal and Bakhtiari Province",
+            "code": "08",
+            "names": {
+                "geonames": "Chaharmahal and Bakhtiari",
+                "ru": "\u0427\u0435\u0445\u0430\u0440\u043c\u0435\u0445\u0430\u043b\u044c \u0438 \u0411\u0430\u0445\u0442\u0438\u0430\u0440\u0438\u044f",
+                "en": "Chaharmahal and Bakhtiari Province",
+                "ar": "\u062a\u0634\u0647\u0627\u0631\u0645\u062d\u0627\u0644 \u0648\u0628\u062e\u062a\u06cc\u0627\u0631\u064a",
+                "de": "Tschah\u0101r Mah\u0101l und Bachtiy\u0101r\u012b",
+                "es": "Chahar Mahal y Bajtiar\u00ed",
+                "fr": "Chahar Mahaal et Bakhtiari",
+                "it": "Regione di Chahar Mahal e Bakhtiari",
+                "zh": "\u6070\u54c8\u99ac\u54c8\u52d2\uff0d\u5df4\u8d6b\u8482\u4e9e\u91cc\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": null,
+            "lng": null
+        },
+        "10": {
+            "name": "Khuzestan Province",
+            "code": "10",
+            "names": {
+                "geonames": "Khuzestan",
+                "ru": "\u0425\u0443\u0437\u0435\u0441\u0442\u0430\u043d",
+                "en": "Khuzestan Province",
+                "ar": "\u062e\u0648\u0632\u0633\u062a\u0627\u0646",
+                "de": "Chuzestan",
+                "es": "Juzest\u00e1n",
+                "fr": "Khouzistan",
+                "it": "Kh\u016bzest\u0101n",
+                "zh": "\u80e1\u9f4a\u65af\u5766\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 31.307476,
+            "lng": 48.691878299999985
+        },
+        "11": {
+            "name": "Zanjan Province",
+            "code": "11",
+            "names": {
+                "geonames": "Zanjan",
+                "ru": "\u0417\u0435\u043d\u0434\u0436\u0430\u043d",
+                "en": "Zanjan Province",
+                "ar": "\u0632\u0646\u062c\u0627\u0646",
+                "de": "Zandschan",
+                "es": "Provincia de Zany\u00e1n",
+                "fr": "Province de Zanjan",
+                "it": "Regione di Zanjan",
+                "zh": "\u8d0a\u8a79\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.67094,
+            "lng": 48.48511099999996
+        },
+        "12": {
+            "name": "Semnan Province",
+            "code": "12",
+            "names": {
+                "geonames": "Semnan",
+                "ru": "\u0421\u0435\u043c\u043d\u0430\u043d",
+                "en": "Semnan Province",
+                "ar": "\u0633\u0645\u0646\u0627\u0646",
+                "de": "Semnan",
+                "es": "Provincia de Semn\u00e1n",
+                "fr": "Province de Semnan",
+                "it": "Regione di Semnan",
+                "zh": "\u585e\u59c6\u5357\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.572269,
+            "lng": 53.39604899999995
+        },
+        "13": {
+            "name": "Sistan and Baluchestan Province",
+            "code": "13",
+            "names": {
+                "geonames": "Sistan and Baluchestan",
+                "ru": "\u0421\u0438\u0441\u0442\u0430\u043d \u0438 \u0411\u0435\u043b\u0443\u0434\u0436\u0438\u0441\u0442\u0430\u043d",
+                "en": "Sistan and Baluchestan Province",
+                "ar": "\u0633\u064a\u0633\u062a\u0627\u0646 \u0648\u0628\u0644\u0648\u062a\u0634\u0633\u062a\u0627\u0646",
+                "de": "Sistan und Belutschistan",
+                "es": "Sist\u00e1n y Baluchist\u00e1n",
+                "fr": "Seistan-o-Balouchestan",
+                "it": "Sistan e Baluchistan",
+                "zh": "\u932b\u65af\u5766\uff0d\u4ffe\u8def\u652f\u65af\u5766\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 29.5114056,
+            "lng": 60.855973800000015
+        },
+        "14": {
+            "name": "Fars Province",
+            "code": "14",
+            "names": {
+                "geonames": "Fars",
+                "ru": "\u0424\u0430\u0440\u0441",
+                "en": "Fars Province",
+                "ar": "\u0641\u0627\u0631\u0633",
+                "de": "Fars",
+                "es": "Fars",
+                "fr": "Fars",
+                "it": "Fars",
+                "zh": "\u6cd5\u723e\u65af\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 29.6014553,
+            "lng": 52.460393299999964
+        },
+        "15": {
+            "name": "Kerman Province",
+            "code": "15",
+            "names": {
+                "geonames": "Kerman",
+                "ru": "\u041a\u0435\u0440\u043c\u0430\u043d",
+                "en": "Kerman Province",
+                "ar": "\u0643\u0631\u0645\u0627\u0646",
+                "de": "Kerman",
+                "es": "Provincia de Kerm\u00e1n",
+                "fr": "Province de Kerman",
+                "it": "Regione di Kerman",
+                "zh": "\u514b\u723e\u66fc\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 30.28027,
+            "lng": 57.06701999999996
+        },
+        "16": {
+            "name": "Kurdistan Province",
+            "code": "16",
+            "names": {
+                "geonames": "Kordestan",
+                "ru": "\u041a\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043d",
+                "en": "Kurdistan Province",
+                "ar": "\u0643\u0631\u062f\u0633\u062a\u0627\u0646",
+                "de": "Kordest\u0101n",
+                "es": "Provincia de Kurdist\u00e1n",
+                "fr": "Province iranienne du Kurdistan",
+                "it": "Regione del Kurdistan",
+                "zh": "\u5eab\u723e\u5fb7\u65af\u5766\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 36.6911368,
+            "lng": 45.14279940000006
+        },
+        "17": {
+            "name": "Kermanshah Province",
+            "code": "17",
+            "names": {
+                "geonames": "Kermanshah",
+                "ru": "\u041a\u0435\u0440\u043c\u0430\u043d\u0448\u0430\u0445",
+                "en": "Kermanshah Province",
+                "ar": "\u0643\u0631\u0645\u0627\u0646\u0634\u0627\u0647",
+                "de": "Kerm\u0101nsch\u0101h",
+                "es": "Provincia de Kermanshah",
+                "fr": "Province de Kermanshah",
+                "it": "Regione di Kermanshah",
+                "zh": "\u514b\u723e\u66fc\u6c99\u6c57\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.308159,
+            "lng": 47.057320000000004
+        },
+        "18": {
+            "name": "Kohgiluyeh and Boyer-Ahmad Province",
+            "code": "18",
+            "names": {
+                "geonames": "Kohgiluyeh va Buyer Ahmad",
+                "ru": "\u041a\u043e\u0445\u0433\u0438\u043b\u0443\u0439\u0435 \u0438 \u0411\u043e\u0439\u0435\u0440\u0430\u0445\u043c\u0435\u0434",
+                "en": "Kohgiluyeh and Boyer-Ahmad Province",
+                "ar": "\u0643\u0647\u0643\u06cc\u0644\u0648\u06cc\u0647 \u0648\u0628\u0648\u06cc\u0631 \u0623\u062d\u0645\u062f",
+                "de": "Kohgiluyeh und Boyer Ahmad",
+                "es": "Kohkiluyeh y Buyer Ahmad",
+                "fr": "Kohkiluyeh et Buyer Ahmad",
+                "it": "Regione di Kohgiluyeh e Buyer Ahmad",
+                "zh": "\u79d1\u5409\u76e7\u8036\uff0d\u535a\u97cb\u827e\u54c8\u9081\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": null,
+            "lng": null
+        },
+        "19": {
+            "name": "Gilan Province",
+            "code": "19",
+            "names": {
+                "geonames": "Gilan",
+                "ru": "\u0413\u0438\u043b\u044f\u043d",
+                "en": "Gilan Province",
+                "ar": "\u063a\u06cc\u0644\u0627\u0646",
+                "de": "Gilan",
+                "es": "Gil\u00e1n",
+                "fr": "Gilan",
+                "it": "Regione di Gilan",
+                "zh": "\u5409\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.7609874,
+            "lng": 51.46467889999997
+        },
+        "20": {
+            "name": "Lorestan Province",
+            "code": "20",
+            "names": {
+                "geonames": "Lorestan",
+                "ru": "\u041b\u0443\u0440\u0435\u0441\u0442\u0430\u043d",
+                "en": "Lorestan Province",
+                "ar": "\u0644\u0631\u0633\u062a\u0627\u0646",
+                "de": "Lorestan",
+                "es": "Lorest\u00e1n",
+                "fr": "Lorestan",
+                "it": "Lorestan",
+                "zh": "\u6d1b\u96f7\u65af\u5766\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.6787812,
+            "lng": 51.47250770000005
+        },
+        "21": {
+            "name": "Mazandaran Province",
+            "code": "21",
+            "names": {
+                "geonames": "Mazandaran",
+                "ru": "\u041c\u0430\u0437\u0435\u043d\u0434\u0435\u0440\u0430\u043d",
+                "en": "Mazandaran Province",
+                "ar": "\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646",
+                "de": "M\u0101zandar\u0101n",
+                "es": "Mazandar\u00e1n",
+                "fr": "Mazand\u00e9ran",
+                "it": "Mazandaran",
+                "zh": "\u99ac\u8d0a\u5fb7\u862d\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 35.7004956,
+            "lng": 51.44292459999997
+        },
+        "22": {
+            "name": "Markazi Province",
+            "code": "22",
+            "names": {
+                "geonames": "Markazi",
+                "en": "Markazi Province",
+                "ar": "\u0645\u0631\u0643\u0632\u064a",
+                "de": "Markazi",
+                "es": "Markaz\u00ed",
+                "fr": "Markazi",
+                "it": "Regione di Markazi",
+                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0441\u0442\u0430\u043d",
+                "zh": "\u4e2d\u592e\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.0853148,
+            "lng": 49.68379260000006
+        },
+        "23": {
+            "name": "Hormozgan Province",
+            "code": "23",
+            "names": {
+                "geonames": "Hormozgan",
+                "ru": "\u0425\u043e\u0440\u043c\u043e\u0437\u0433\u0430\u043d",
+                "en": "Hormozgan Province",
+                "ar": "\u0647\u0631\u0645\u0632\u063a\u0627\u0646",
+                "de": "Hormozgan",
+                "es": "Hormozg\u00e1n",
+                "fr": "Hormozgan",
+                "it": "Hormozgan",
+                "zh": "\u970d\u723e\u6728\u8332\u7518\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 26.5460362,
+            "lng": 54.000699499999996
+        },
+        "24": {
+            "name": "Hamadan Province",
+            "code": "24",
+            "names": {
+                "geonames": "Hamadan",
+                "ru": "\u0425\u0430\u043c\u0430\u0434\u0430\u043d",
+                "en": "Hamadan Province",
+                "ar": "\u0647\u0645\u062f\u0627\u0646",
+                "de": "Hamadan",
+                "es": "Provincia de Hamad\u00e1n",
+                "fr": "Province de Hamedan",
+                "it": "Regione di Hamadan",
+                "zh": "\u54c8\u99ac\u4e39\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.8065,
+            "lng": 48.51624719999995
+        },
+        "25": {
+            "name": "Yazd Province",
+            "code": "25",
+            "names": {
+                "geonames": "Yazd",
+                "ru": "\u0419\u0435\u0437\u0434",
+                "en": "Yazd Province",
+                "ar": "\u064a\u0632\u062f",
+                "de": "Yazd",
+                "es": "Provincia de Yazd",
+                "fr": "Province de Yazd",
+                "it": "Regione di Yazd",
+                "zh": "\u4e9e\u8332\u5fb7\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 31.89661,
+            "lng": 54.36068
+        },
+        "26": {
+            "name": "Qom Province",
+            "code": "26",
+            "names": {
+                "geonames": "Qom",
+                "ru": "\u041a\u0443\u043c",
+                "en": "Qom Province",
+                "ar": "\u0642\u0645",
+                "de": "Ghom",
+                "es": "Provincia de Qom",
+                "fr": "Province de Qom",
+                "it": "Regione di Qom",
+                "zh": "\u5eab\u59c6\u7701"
+            },
+            "division": "province",
+            "parent": "IR",
+            "lat": 34.643711,
+            "lng": 50.89063999999996
+        },
         "27": {
             "name": "Golestan Province",
             "code": "27",
@@ -498,44 +536,6 @@
             "parent": "IR",
             "lat": 36.266819,
             "lng": 50.00381100000004
-        },
-        "26": {
-            "name": "Qom Province",
-            "code": "26",
-            "names": {
-                "geonames": "Qom",
-                "ru": "\u041a\u0443\u043c",
-                "en": "Qom Province",
-                "ar": "\u0642\u0645",
-                "de": "Ghom",
-                "es": "Provincia de Qom",
-                "fr": "Province de Qom",
-                "it": "Regione di Qom",
-                "zh": "\u5eab\u59c6\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 34.643711,
-            "lng": 50.89063999999996
-        },
-        "13": {
-            "name": "Sistan and Baluchestan Province",
-            "code": "13",
-            "names": {
-                "geonames": "Sistan and Baluchestan",
-                "ru": "\u0421\u0438\u0441\u0442\u0430\u043d \u0438 \u0411\u0435\u043b\u0443\u0434\u0436\u0438\u0441\u0442\u0430\u043d",
-                "en": "Sistan and Baluchestan Province",
-                "ar": "\u0633\u064a\u0633\u062a\u0627\u0646 \u0648\u0628\u0644\u0648\u062a\u0634\u0633\u062a\u0627\u0646",
-                "de": "Sistan und Belutschistan",
-                "es": "Sist\u00e1n y Baluchist\u00e1n",
-                "fr": "Seistan-o-Balouchestan",
-                "it": "Sistan e Baluchistan",
-                "zh": "\u932b\u65af\u5766\uff0d\u4ffe\u8def\u652f\u65af\u5766\u7701"
-            },
-            "division": "province",
-            "parent": "IR",
-            "lat": 29.5114056,
-            "lng": 60.855973800000015
         },
         "29": {
             "name": "South Khorasan Province",

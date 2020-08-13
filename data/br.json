@@ -24,157 +24,24 @@
         "pt": "Brasil"
     },
     "ISO3166-2": {
-        "RN": {
-            "name": "Rio Grande do Norte",
-            "code": "RN",
+        "AC": {
+            "name": "Acre",
+            "code": "AC",
             "names": {
-                "geonames": "Rio Grande do Norte",
-                "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438",
-                "en": "Rio Grande do Norte",
-                "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0646\u0648\u0631\u062a\u064a",
-                "de": "Rio Grande do Norte",
-                "es": "R\u00edo Grande del Norte",
-                "fr": "Rio Grande do Norte",
-                "it": "Rio Grande do Norte",
-                "zh": "\u5317\u91cc\u7ea6\u683c\u6717\u5fb7"
+                "geonames": "Acre",
+                "ru": "\u0410\u043a\u0440\u0438",
+                "en": "Acre",
+                "ar": "\u0623\u0643\u0631\u064a",
+                "de": "Acre",
+                "es": "Acre",
+                "fr": "Acre",
+                "it": "Acre",
+                "zh": "\u963f\u514b\u91cc\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -5.4025803,
-            "lng": -36.95410700000002
-        },
-        "PI": {
-            "name": "Piau\u00ed",
-            "code": "PI",
-            "names": {
-                "geonames": "Piaui",
-                "ru": "\u041f\u0438\u0430\u0443\u0438",
-                "en": "Piau\u00ed",
-                "ar": "\u0628\u064a\u0627\u0648\u064a",
-                "de": "Piau\u00ed",
-                "es": "Piau\u00ed",
-                "fr": "Piau\u00ed",
-                "it": "Piau\u00ed",
-                "zh": "\u76ae\u5967\u4f0a\u5dde"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -8.3229488,
-            "lng": -43.174716200000034
-        },
-        "PE": {
-            "name": "Pernambuco",
-            "code": "PE",
-            "names": {
-                "geonames": "Pernambuco",
-                "ru": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
-                "en": "Pernambuco",
-                "ar": "\u0628\u064a\u0631\u0646\u0627\u0645\u0628\u0648\u0643\u0648",
-                "de": "Pernambuco",
-                "es": "Pernambuco",
-                "fr": "Pernambouc",
-                "it": "Pernambuco",
-                "zh": "\u4f2f\u5357\u5e03\u54e5"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -8.8137173,
-            "lng": -36.95410700000002
-        },
-        "PB": {
-            "name": "Para\u00edba",
-            "code": "PB",
-            "names": {
-                "geonames": "Paraiba",
-                "ru": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
-                "en": "Para\u00edba",
-                "ar": "\u0628\u0627\u0631\u0627\u064a\u0628\u0627",
-                "de": "Para\u00edba",
-                "es": "Para\u00edba",
-                "fr": "Para\u00edba",
-                "it": "Para\u00edba",
-                "zh": "\u5e15\u62c9\u4f0a\u5df4"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -7.2399609,
-            "lng": -36.781950499999994
-        },
-        "PA": {
-            "name": "Par\u00e1",
-            "code": "PA",
-            "names": {
-                "geonames": "Para",
-                "ru": "\u041f\u0430\u0440\u0430",
-                "en": "Par\u00e1",
-                "ar": "\u0628\u0627\u0631\u0627",
-                "de": "Par\u00e1",
-                "es": "Par\u00e1",
-                "fr": "Par\u00e1",
-                "it": "Par\u00e1",
-                "zh": "\u5e15\u62c9"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -6.207102,
-            "lng": -52.7027956
-        },
-        "MA": {
-            "name": "Maranh\u00e3o",
-            "code": "MA",
-            "names": {
-                "geonames": "Maranhao",
-                "ru": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
-                "en": "Maranh\u00e3o",
-                "ar": "\u0645\u0627\u0631\u0627\u0646\u0647\u0627\u0648",
-                "de": "Maranh\u00e3o",
-                "es": "Maranh\u00e3o",
-                "fr": "Maranh\u00e3o",
-                "it": "Maranh\u00e3o",
-                "zh": "\u9a6c\u62c9\u5c3c\u6602\u5dde"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -2.516667,
-            "lng": -44.266666999999984
-        },
-        "CE": {
-            "name": "Cear\u00e1",
-            "code": "CE",
-            "names": {
-                "geonames": "Ceara",
-                "ru": "\u0421\u0435\u0430\u0440\u0430",
-                "en": "Cear\u00e1",
-                "ar": "\u0633\u064a\u0627\u0631\u0627",
-                "de": "Cear\u00e1",
-                "es": "Cear\u00e1",
-                "fr": "Cear\u00e1",
-                "it": "Cear\u00e1",
-                "zh": "\u585e\u963f\u814a"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": -5.4983977,
-            "lng": -39.32062410000003
-        },
-        "AP": {
-            "name": "Amap\u00e1",
-            "code": "AP",
-            "names": {
-                "geonames": "Amapa",
-                "ru": "\u0410\u043c\u0430\u043f\u0430",
-                "en": "Amap\u00e1",
-                "ar": "\u0623\u0645\u0627\u0628\u0627",
-                "de": "Amap\u00e1",
-                "es": "Amap\u00e1",
-                "fr": "Amap\u00e1",
-                "it": "Amap\u00e1",
-                "zh": "\u963f\u99ac\u5e15\u5dde"
-            },
-            "division": "state",
-            "parent": "BR",
-            "lat": 2.0510817,
-            "lng": -50.794464500000004
+            "lat": -9.0237964,
+            "lng": -70.81199530000004
         },
         "AL": {
             "name": "Alagoas",
@@ -195,119 +62,165 @@
             "lat": -9.5713058,
             "lng": -36.781950499999994
         },
-        "SE": {
-            "name": "Sergipe",
-            "code": "SE",
+        "AM": {
+            "name": "Amazonas",
+            "code": "AM",
             "names": {
-                "geonames": "Sergipe",
-                "ru": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
-                "en": "Sergipe",
-                "ar": "\u0633\u064a\u0631\u062c\u064a\u0628\u064a",
-                "de": "Sergipe",
-                "es": "Sergipe",
-                "fr": "Sergipe",
-                "it": "Sergipe",
-                "zh": "\u585e\u5c14\u5e0c\u57f9\u5dde"
+                "geonames": "Amazonas",
+                "ru": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+                "en": "Amazonas",
+                "ar": "\u0627\u0644\u0623\u0645\u0627\u0632\u0648\u0646",
+                "de": "Amazonas",
+                "es": "Amazonas",
+                "fr": "Amazonas",
+                "it": "Amazonas",
+                "zh": "\u4e9a\u9a6c\u5b59\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -10.6738878,
-            "lng": -37.46813959999997
+            "lat": -3.4168427,
+            "lng": -65.85606459999997
         },
-        "SP": {
-            "name": "S\u00e3o Paulo",
-            "code": "SP",
+        "AP": {
+            "name": "Amap\u00e1",
+            "code": "AP",
             "names": {
-                "geonames": "Sao Paulo",
-                "ru": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
-                "en": "S\u00e3o Paulo",
-                "ar": "\u0633\u0627\u0648 \u0628\u0627\u0648\u0644\u0648",
-                "de": "S\u00e3o Paulo",
-                "es": "S\u00e3o Paulo",
-                "fr": "S\u00e3o Paulo",
-                "it": "San Paolo",
-                "zh": "\u8056\u4fdd\u7f85"
+                "geonames": "Amapa",
+                "ru": "\u0410\u043c\u0430\u043f\u0430",
+                "en": "Amap\u00e1",
+                "ar": "\u0623\u0645\u0627\u0628\u0627",
+                "de": "Amap\u00e1",
+                "es": "Amap\u00e1",
+                "fr": "Amap\u00e1",
+                "it": "Amap\u00e1",
+                "zh": "\u963f\u99ac\u5e15\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -23.5489433,
-            "lng": -46.6388182
+            "lat": 2.0510817,
+            "lng": -50.794464500000004
         },
-        "SC": {
-            "name": "Santa Catarina",
-            "code": "SC",
+        "BA": {
+            "name": "Bahia",
+            "code": "BA",
             "names": {
-                "geonames": "Santa Catarina",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
-                "en": "Santa Catarina",
-                "ar": "\u0633\u0627\u0646\u062a\u0627 \u0643\u0627\u062a\u0627\u0631\u064a\u0646\u0627",
-                "de": "Santa Catarina",
-                "es": "Santa Catarina",
-                "fr": "Santa Catarina",
-                "it": "Santa Catarina",
-                "zh": "\u5723\u5361\u5854\u7433\u5a1c\u5dde"
+                "geonames": "Bahia",
+                "ru": "\u0411\u0430\u0438\u044f",
+                "en": "Bahia",
+                "ar": "\u0628\u0627\u0647\u064a\u0627",
+                "de": "Bahia",
+                "es": "Bah\u00eda",
+                "fr": "Bahia",
+                "it": "Bahia",
+                "zh": "\u5df4\u4f0a\u4e9e\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -27.8404676,
-            "lng": -50.34689320000001
+            "lat": -11.4098737,
+            "lng": -41.28085770000001
         },
-        "RS": {
-            "name": "Rio Grande do Sul",
-            "code": "RS",
+        "CE": {
+            "name": "Cear\u00e1",
+            "code": "CE",
             "names": {
-                "geonames": "Rio Grande do Sul",
-                "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
-                "en": "Rio Grande do Sul",
-                "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0633\u0648\u0644",
-                "de": "Rio Grande do Sul",
-                "es": "R\u00edo Grande del Sur",
-                "fr": "Rio Grande do Sul",
-                "it": "Rio Grande do Sul",
-                "zh": "\u5357\u91cc\u5965\u683c\u5170\u5fb7\u5dde"
+                "geonames": "Ceara",
+                "ru": "\u0421\u0435\u0430\u0440\u0430",
+                "en": "Cear\u00e1",
+                "ar": "\u0633\u064a\u0627\u0631\u0627",
+                "de": "Cear\u00e1",
+                "es": "Cear\u00e1",
+                "fr": "Cear\u00e1",
+                "it": "Cear\u00e1",
+                "zh": "\u585e\u963f\u814a"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -29.534505,
-            "lng": -53.39060740000002
+            "lat": -5.4983977,
+            "lng": -39.32062410000003
         },
-        "RJ": {
-            "name": "Rio de Janeiro",
-            "code": "RJ",
+        "DF": {
+            "name": "Federal District",
+            "code": "DF",
             "names": {
-                "geonames": "Rio de Janeiro",
-                "ru": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
-                "en": "Rio de Janeiro",
-                "ar": "\u0631\u064a\u0648 \u062f\u064a \u062c\u0627\u0646\u064a\u0631\u0648",
-                "de": "Rio de Janeiro",
-                "es": "Estado de R\u00edo de Janeiro",
-                "fr": "\u00c9tat de Rio de Janeiro",
-                "it": "Rio de Janeiro",
-                "zh": "\u91cc\u7d04\u71b1\u5167\u76e7\u5dde"
+                "geonames": "Federal District",
+                "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                "en": "Federal District",
+                "ar": "\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0641\u062f\u0631\u0627\u0644\u064a \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a",
+                "de": "Distrito Federal do Brasil",
+                "es": "Distrito Federal",
+                "fr": "District f\u00e9d\u00e9ral",
+                "it": "Distretto Federale",
+                "zh": "\u806f\u90a6\u5340"
             },
-            "division": "state",
+            "division": "federal district",
             "parent": "BR",
-            "lat": -22.9035393,
-            "lng": -43.20958689999998
+            "lat": -15.826691,
+            "lng": -47.9218204
         },
-        "PR": {
-            "name": "Paran\u00e1",
-            "code": "PR",
+        "ES": {
+            "name": "Esp\u00edrito Santo",
+            "code": "ES",
             "names": {
-                "geonames": "Parana",
-                "ru": "\u041f\u0430\u0440\u0430\u043d\u0430",
-                "en": "Paran\u00e1",
-                "ar": "\u0628\u0627\u0631\u0627\u0646\u0627",
-                "de": "Paran\u00e1",
-                "es": "Estado de Paran\u00e1",
-                "fr": "Paran\u00e1",
-                "it": "Paran\u00e1",
-                "zh": "\u5df4\u62c9\u90a3\u5dde"
+                "geonames": "Espirito Santo",
+                "ru": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
+                "en": "Esp\u00edrito Santo",
+                "ar": "\u0625\u0633\u0628\u064a\u0631\u064a\u062a\u0648 \u0633\u0627\u0646\u062a\u0648",
+                "de": "Esp\u00edrito Santo",
+                "es": "Esp\u00edrito Santo",
+                "fr": "Esp\u00edrito Santo",
+                "it": "Esp\u00edrito Santo",
+                "zh": "\u5723\u57c3\u65af\u76ae\u91cc\u56fe\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -25.2520888,
-            "lng": -52.02154150000001
+            "lat": -19.1834229,
+            "lng": -40.3088626
+        },
+        "FN": {
+            "name": "Fernando de Noronha",
+            "code": "FN",
+            "division": "state",
+            "parent": "BR",
+            "lat": -3.8403645,
+            "lng": -32.411306800000034
+        },
+        "GO": {
+            "name": "Goi\u00e1s",
+            "code": "GO",
+            "names": {
+                "geonames": "Goias",
+                "ru": "\u0413\u043e\u044f\u0441",
+                "en": "Goi\u00e1s",
+                "ar": "\u063a\u0648\u064a\u0627\u0633",
+                "de": "Goi\u00e1s",
+                "es": "Goi\u00e1s",
+                "fr": "Goi\u00e1s",
+                "it": "Goi\u00e1s",
+                "zh": "\u6208\u4e9a\u65af"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -15.9224663,
+            "lng": -50.13790240000003
+        },
+        "MA": {
+            "name": "Maranh\u00e3o",
+            "code": "MA",
+            "names": {
+                "geonames": "Maranhao",
+                "ru": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+                "en": "Maranh\u00e3o",
+                "ar": "\u0645\u0627\u0631\u0627\u0646\u0647\u0627\u0648",
+                "de": "Maranh\u00e3o",
+                "es": "Maranh\u00e3o",
+                "fr": "Maranh\u00e3o",
+                "it": "Maranh\u00e3o",
+                "zh": "\u9a6c\u62c9\u5c3c\u6602\u5dde"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -2.516667,
+            "lng": -44.266666999999984
         },
         "MG": {
             "name": "Minas Gerais",
@@ -366,157 +279,138 @@
             "lat": -15.580472,
             "lng": -56.04590310000003
         },
-        "GO": {
-            "name": "Goi\u00e1s",
-            "code": "GO",
+        "PA": {
+            "name": "Par\u00e1",
+            "code": "PA",
             "names": {
-                "geonames": "Goias",
-                "ru": "\u0413\u043e\u044f\u0441",
-                "en": "Goi\u00e1s",
-                "ar": "\u063a\u0648\u064a\u0627\u0633",
-                "de": "Goi\u00e1s",
-                "es": "Goi\u00e1s",
-                "fr": "Goi\u00e1s",
-                "it": "Goi\u00e1s",
-                "zh": "\u6208\u4e9a\u65af"
+                "geonames": "Para",
+                "ru": "\u041f\u0430\u0440\u0430",
+                "en": "Par\u00e1",
+                "ar": "\u0628\u0627\u0631\u0627",
+                "de": "Par\u00e1",
+                "es": "Par\u00e1",
+                "fr": "Par\u00e1",
+                "it": "Par\u00e1",
+                "zh": "\u5e15\u62c9"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -15.9224663,
-            "lng": -50.13790240000003
+            "lat": -6.207102,
+            "lng": -52.7027956
         },
-        "DF": {
-            "name": "Federal District",
-            "code": "DF",
+        "PB": {
+            "name": "Para\u00edba",
+            "code": "PB",
             "names": {
-                "geonames": "Federal District",
-                "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
-                "en": "Federal District",
-                "ar": "\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0641\u062f\u0631\u0627\u0644\u064a \u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644\u064a",
-                "de": "Distrito Federal do Brasil",
-                "es": "Distrito Federal",
-                "fr": "District f\u00e9d\u00e9ral",
-                "it": "Distretto Federale",
-                "zh": "\u806f\u90a6\u5340"
-            },
-            "division": "federal district",
-            "parent": "BR",
-            "lat": -15.826691,
-            "lng": -47.9218204
-        },
-        "ES": {
-            "name": "Esp\u00edrito Santo",
-            "code": "ES",
-            "names": {
-                "geonames": "Espirito Santo",
-                "ru": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
-                "en": "Esp\u00edrito Santo",
-                "ar": "\u0625\u0633\u0628\u064a\u0631\u064a\u062a\u0648 \u0633\u0627\u0646\u062a\u0648",
-                "de": "Esp\u00edrito Santo",
-                "es": "Esp\u00edrito Santo",
-                "fr": "Esp\u00edrito Santo",
-                "it": "Esp\u00edrito Santo",
-                "zh": "\u5723\u57c3\u65af\u76ae\u91cc\u56fe\u5dde"
+                "geonames": "Paraiba",
+                "ru": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+                "en": "Para\u00edba",
+                "ar": "\u0628\u0627\u0631\u0627\u064a\u0628\u0627",
+                "de": "Para\u00edba",
+                "es": "Para\u00edba",
+                "fr": "Para\u00edba",
+                "it": "Para\u00edba",
+                "zh": "\u5e15\u62c9\u4f0a\u5df4"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -19.1834229,
-            "lng": -40.3088626
+            "lat": -7.2399609,
+            "lng": -36.781950499999994
         },
-        "BA": {
-            "name": "Bahia",
-            "code": "BA",
+        "PE": {
+            "name": "Pernambuco",
+            "code": "PE",
             "names": {
-                "geonames": "Bahia",
-                "ru": "\u0411\u0430\u0438\u044f",
-                "en": "Bahia",
-                "ar": "\u0628\u0627\u0647\u064a\u0627",
-                "de": "Bahia",
-                "es": "Bah\u00eda",
-                "fr": "Bahia",
-                "it": "Bahia",
-                "zh": "\u5df4\u4f0a\u4e9e\u5dde"
+                "geonames": "Pernambuco",
+                "ru": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+                "en": "Pernambuco",
+                "ar": "\u0628\u064a\u0631\u0646\u0627\u0645\u0628\u0648\u0643\u0648",
+                "de": "Pernambuco",
+                "es": "Pernambuco",
+                "fr": "Pernambouc",
+                "it": "Pernambuco",
+                "zh": "\u4f2f\u5357\u5e03\u54e5"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -11.4098737,
-            "lng": -41.28085770000001
+            "lat": -8.8137173,
+            "lng": -36.95410700000002
         },
-        "TO": {
-            "name": "Tocantins",
-            "code": "TO",
+        "PI": {
+            "name": "Piau\u00ed",
+            "code": "PI",
             "names": {
-                "geonames": "Tocantins",
-                "ru": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
-                "en": "Tocantins",
-                "ar": "\u062a\u0648\u0643\u0627\u0646\u062a\u064a\u0646\u0633",
-                "de": "Tocantins",
-                "es": "Tocantins",
-                "fr": "Tocantins",
-                "it": "Tocantins",
-                "zh": "\u6258\u574e\u5ef7\u65af"
+                "geonames": "Piaui",
+                "ru": "\u041f\u0438\u0430\u0443\u0438",
+                "en": "Piau\u00ed",
+                "ar": "\u0628\u064a\u0627\u0648\u064a",
+                "de": "Piau\u00ed",
+                "es": "Piau\u00ed",
+                "fr": "Piau\u00ed",
+                "it": "Piau\u00ed",
+                "zh": "\u76ae\u5967\u4f0a\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -11.4098737,
-            "lng": -48.71914229999999
+            "lat": -8.3229488,
+            "lng": -43.174716200000034
         },
-        "RR": {
-            "name": "Roraima",
-            "code": "RR",
+        "PR": {
+            "name": "Paran\u00e1",
+            "code": "PR",
             "names": {
-                "geonames": "Roraima",
-                "ru": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
-                "en": "Roraima",
-                "ar": "\u0631\u0648\u0631\u0627\u064a\u0645\u0627",
-                "de": "Roraima",
-                "es": "Roraima",
-                "fr": "Roraima",
-                "it": "Roraima",
-                "zh": "\u7f85\u8cf4\u99ac\u5dde"
+                "geonames": "Parana",
+                "ru": "\u041f\u0430\u0440\u0430\u043d\u0430",
+                "en": "Paran\u00e1",
+                "ar": "\u0628\u0627\u0631\u0627\u0646\u0627",
+                "de": "Paran\u00e1",
+                "es": "Estado de Paran\u00e1",
+                "fr": "Paran\u00e1",
+                "it": "Paran\u00e1",
+                "zh": "\u5df4\u62c9\u90a3\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": 2.7375971,
-            "lng": -62.075099799999975
+            "lat": -25.2520888,
+            "lng": -52.02154150000001
         },
-        "AM": {
-            "name": "Amazonas",
-            "code": "AM",
+        "RJ": {
+            "name": "Rio de Janeiro",
+            "code": "RJ",
             "names": {
-                "geonames": "Amazonas",
-                "ru": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
-                "en": "Amazonas",
-                "ar": "\u0627\u0644\u0623\u0645\u0627\u0632\u0648\u0646",
-                "de": "Amazonas",
-                "es": "Amazonas",
-                "fr": "Amazonas",
-                "it": "Amazonas",
-                "zh": "\u4e9a\u9a6c\u5b59\u5dde"
+                "geonames": "Rio de Janeiro",
+                "ru": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+                "en": "Rio de Janeiro",
+                "ar": "\u0631\u064a\u0648 \u062f\u064a \u062c\u0627\u0646\u064a\u0631\u0648",
+                "de": "Rio de Janeiro",
+                "es": "Estado de R\u00edo de Janeiro",
+                "fr": "\u00c9tat de Rio de Janeiro",
+                "it": "Rio de Janeiro",
+                "zh": "\u91cc\u7d04\u71b1\u5167\u76e7\u5dde"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -3.4168427,
-            "lng": -65.85606459999997
+            "lat": -22.9035393,
+            "lng": -43.20958689999998
         },
-        "AC": {
-            "name": "Acre",
-            "code": "AC",
+        "RN": {
+            "name": "Rio Grande do Norte",
+            "code": "RN",
             "names": {
-                "geonames": "Acre",
-                "ru": "\u0410\u043a\u0440\u0438",
-                "en": "Acre",
-                "ar": "\u0623\u0643\u0631\u064a",
-                "de": "Acre",
-                "es": "Acre",
-                "fr": "Acre",
-                "it": "Acre",
-                "zh": "\u963f\u514b\u91cc\u5dde"
+                "geonames": "Rio Grande do Norte",
+                "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438",
+                "en": "Rio Grande do Norte",
+                "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0646\u0648\u0631\u062a\u064a",
+                "de": "Rio Grande do Norte",
+                "es": "R\u00edo Grande del Norte",
+                "fr": "Rio Grande do Norte",
+                "it": "Rio Grande do Norte",
+                "zh": "\u5317\u91cc\u7ea6\u683c\u6717\u5fb7"
             },
             "division": "state",
             "parent": "BR",
-            "lat": -9.0237964,
-            "lng": -70.81199530000004
+            "lat": -5.4025803,
+            "lng": -36.95410700000002
         },
         "RO": {
             "name": "Rond\u00f4nia",
@@ -537,12 +431,119 @@
             "lat": -10.88771,
             "lng": -61.947361
         },
-        "FN": {
-            "name": "Fernando de Noronha",
+        "RR": {
+            "name": "Roraima",
+            "code": "RR",
+            "names": {
+                "geonames": "Roraima",
+                "ru": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
+                "en": "Roraima",
+                "ar": "\u0631\u0648\u0631\u0627\u064a\u0645\u0627",
+                "de": "Roraima",
+                "es": "Roraima",
+                "fr": "Roraima",
+                "it": "Roraima",
+                "zh": "\u7f85\u8cf4\u99ac\u5dde"
+            },
             "division": "state",
             "parent": "BR",
-            "lat": -3.8403645,
-            "lng": -32.411306800000034
+            "lat": 2.7375971,
+            "lng": -62.075099799999975
+        },
+        "RS": {
+            "name": "Rio Grande do Sul",
+            "code": "RS",
+            "names": {
+                "geonames": "Rio Grande do Sul",
+                "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
+                "en": "Rio Grande do Sul",
+                "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0633\u0648\u0644",
+                "de": "Rio Grande do Sul",
+                "es": "R\u00edo Grande del Sur",
+                "fr": "Rio Grande do Sul",
+                "it": "Rio Grande do Sul",
+                "zh": "\u5357\u91cc\u5965\u683c\u5170\u5fb7\u5dde"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -29.534505,
+            "lng": -53.39060740000002
+        },
+        "SC": {
+            "name": "Santa Catarina",
+            "code": "SC",
+            "names": {
+                "geonames": "Santa Catarina",
+                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+                "en": "Santa Catarina",
+                "ar": "\u0633\u0627\u0646\u062a\u0627 \u0643\u0627\u062a\u0627\u0631\u064a\u0646\u0627",
+                "de": "Santa Catarina",
+                "es": "Santa Catarina",
+                "fr": "Santa Catarina",
+                "it": "Santa Catarina",
+                "zh": "\u5723\u5361\u5854\u7433\u5a1c\u5dde"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -27.8404676,
+            "lng": -50.34689320000001
+        },
+        "SE": {
+            "name": "Sergipe",
+            "code": "SE",
+            "names": {
+                "geonames": "Sergipe",
+                "ru": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
+                "en": "Sergipe",
+                "ar": "\u0633\u064a\u0631\u062c\u064a\u0628\u064a",
+                "de": "Sergipe",
+                "es": "Sergipe",
+                "fr": "Sergipe",
+                "it": "Sergipe",
+                "zh": "\u585e\u5c14\u5e0c\u57f9\u5dde"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -10.6738878,
+            "lng": -37.46813959999997
+        },
+        "SP": {
+            "name": "S\u00e3o Paulo",
+            "code": "SP",
+            "names": {
+                "geonames": "Sao Paulo",
+                "ru": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+                "en": "S\u00e3o Paulo",
+                "ar": "\u0633\u0627\u0648 \u0628\u0627\u0648\u0644\u0648",
+                "de": "S\u00e3o Paulo",
+                "es": "S\u00e3o Paulo",
+                "fr": "S\u00e3o Paulo",
+                "it": "San Paolo",
+                "zh": "\u8056\u4fdd\u7f85"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -23.5489433,
+            "lng": -46.6388182
+        },
+        "TO": {
+            "name": "Tocantins",
+            "code": "TO",
+            "names": {
+                "geonames": "Tocantins",
+                "ru": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+                "en": "Tocantins",
+                "ar": "\u062a\u0648\u0643\u0627\u0646\u062a\u064a\u0646\u0633",
+                "de": "Tocantins",
+                "es": "Tocantins",
+                "fr": "Tocantins",
+                "it": "Tocantins",
+                "zh": "\u6258\u574e\u5ef7\u65af"
+            },
+            "division": "state",
+            "parent": "BR",
+            "lat": -11.4098737,
+            "lng": -48.71914229999999
         }
     }
 }

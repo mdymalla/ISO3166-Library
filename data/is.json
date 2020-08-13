@@ -23,80 +23,16 @@
         "ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
         "pt": "Isl\u00e2ndia"
     },
-    "ISO3166-2": {
-        "5": {
-            "name": "Northwestern Region",
-            "code": "5",
-            "names": {
-                "geonames": "Northwest",
-                "ru": "\u041d\u043e\u0440\u0434\u0443\u0440\u043b\u0430\u043d\u0434 \u0412\u0435\u0441\u0442\u0440\u0430",
-                "en": "Northwestern Region",
-                "de": "Nor\u00f0urland vestra",
-                "es": "Nor\u00f0urland Vestra",
-                "fr": "Nor\u00f0urland vestra",
-                "it": "Nor\u00f0urland vestra",
-                "zh": "\u897f\u5317\u5340"
-            },
-            "division": "region",
+    "ISO3166-2": [
+        {
+            "name": "Reykjav\u00edk",
+            "code": "0",
+            "division": "city",
             "parent": "IS",
-            "lat": 68.5063478,
-            "lng": 16.446494700000017
+            "lat": 64.1288941,
+            "lng": -21.93898360000003
         },
-        "6": {
-            "name": "Northeastern Region",
-            "code": "6",
-            "names": {
-                "geonames": "Northeast",
-                "ru": "\u041d\u043e\u0440\u0434\u044e\u0440\u043b\u0430\u043d\u0434-\u042d\u0439\u0441\u0442\u0440\u0430",
-                "en": "Northeastern Region",
-                "de": "Nor\u00f0urland eystra",
-                "es": "Nor\u00f0urland Eystra",
-                "fr": "Nor\u00f0urland eystra",
-                "it": "Nor\u00f0urland eystra",
-                "zh": "\u6771\u5317\u5340"
-            },
-            "division": "region",
-            "parent": "IS",
-            "lat": null,
-            "lng": null
-        },
-        "7": {
-            "name": "Eastern Region",
-            "code": "7",
-            "names": {
-                "geonames": "East",
-                "ru": "\u042d\u0439\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434",
-                "en": "Eastern Region",
-                "de": "Austurland",
-                "es": "Austurland",
-                "fr": "Austurland",
-                "it": "Austurland",
-                "zh": "\u6771\u90e8\u5340"
-            },
-            "division": "region",
-            "parent": "IS",
-            "lat": null,
-            "lng": null
-        },
-        "8": {
-            "name": "Southern Region",
-            "code": "8",
-            "names": {
-                "geonames": "South",
-                "ru": "\u0421\u044e\u0434\u044e\u0440\u043b\u0430\u043d\u0434",
-                "en": "Southern Region",
-                "de": "Su\u00f0urland",
-                "es": "Su\u00f0urland",
-                "fr": "Su\u00f0urland",
-                "it": "Su\u00f0urland",
-                "zh": "\u5357\u90e8\u5340"
-            },
-            "division": "region",
-            "parent": "IS",
-            "lat": null,
-            "lng": null
-        },
-        "1": {
+        {
             "name": "Capital Region",
             "code": "1",
             "names": {
@@ -114,7 +50,7 @@
             "lat": 64.0656126,
             "lng": -21.58098940000002
         },
-        "2": {
+        {
             "name": "Southern Peninsula",
             "code": "2",
             "names": {
@@ -132,7 +68,7 @@
             "lat": null,
             "lng": null
         },
-        "3": {
+        {
             "name": "Western Region",
             "code": "3",
             "names": {
@@ -150,7 +86,7 @@
             "lat": 64.738395,
             "lng": -21.683904600000005
         },
-        "4": {
+        {
             "name": "Westfjords",
             "code": "4",
             "names": {
@@ -168,12 +104,77 @@
             "lat": null,
             "lng": null
         },
-        "0": {
-            "name": "Reykjav\u00edk",
-            "division": "city",
+        {
+            "name": "Northwestern Region",
+            "code": "5",
+            "names": {
+                "geonames": "Northwest",
+                "ru": "\u041d\u043e\u0440\u0434\u0443\u0440\u043b\u0430\u043d\u0434 \u0412\u0435\u0441\u0442\u0440\u0430",
+                "en": "Northwestern Region",
+                "de": "Nor\u00f0urland vestra",
+                "es": "Nor\u00f0urland Vestra",
+                "fr": "Nor\u00f0urland vestra",
+                "it": "Nor\u00f0urland vestra",
+                "zh": "\u897f\u5317\u5340"
+            },
+            "division": "region",
             "parent": "IS",
-            "lat": 64.1288941,
-            "lng": -21.93898360000003
+            "lat": 68.5063478,
+            "lng": 16.446494700000017
+        },
+        {
+            "name": "Northeastern Region",
+            "code": "6",
+            "names": {
+                "geonames": "Northeast",
+                "ru": "\u041d\u043e\u0440\u0434\u044e\u0440\u043b\u0430\u043d\u0434-\u042d\u0439\u0441\u0442\u0440\u0430",
+                "en": "Northeastern Region",
+                "de": "Nor\u00f0urland eystra",
+                "es": "Nor\u00f0urland Eystra",
+                "fr": "Nor\u00f0urland eystra",
+                "it": "Nor\u00f0urland eystra",
+                "zh": "\u6771\u5317\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "name": "Eastern Region",
+            "code": "7",
+            "names": {
+                "geonames": "East",
+                "ru": "\u042d\u0439\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434",
+                "en": "Eastern Region",
+                "de": "Austurland",
+                "es": "Austurland",
+                "fr": "Austurland",
+                "it": "Austurland",
+                "zh": "\u6771\u90e8\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "name": "Southern Region",
+            "code": "8",
+            "names": {
+                "geonames": "South",
+                "ru": "\u0421\u044e\u0434\u044e\u0440\u043b\u0430\u043d\u0434",
+                "en": "Southern Region",
+                "de": "Su\u00f0urland",
+                "es": "Su\u00f0urland",
+                "fr": "Su\u00f0urland",
+                "it": "Su\u00f0urland",
+                "zh": "\u5357\u90e8\u5340"
+            },
+            "division": "region",
+            "parent": "IS",
+            "lat": null,
+            "lng": null
         }
-    }
+    ]
 }

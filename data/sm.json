@@ -24,62 +24,6 @@
         "pt": "San Marino"
     },
     "ISO3166-2": {
-        "09": {
-            "name": "Serravalle",
-            "code": "09",
-            "names": {
-                "geonames": "Serravalle",
-                "ru": "\u0421\u0435\u0440\u0440\u0430\u0432\u0430\u043b\u043b\u0435",
-                "en": "Serravalle",
-                "ar": "\u0633\u064a\u0631\u0627\u0641\u0627\u0644\u0644\u064a",
-                "de": "Serravalle",
-                "es": "Serravalle",
-                "fr": "Serravalle",
-                "it": "Serravalle",
-                "zh": "\u585e\u62c9\u74e6\u83b1"
-            },
-            "division": "municipalities",
-            "parent": "SM",
-            "lat": 43.9694637,
-            "lng": 12.47835669999995
-        },
-        "02": {
-            "name": "Chiesanuova",
-            "code": "02",
-            "names": {
-                "geonames": "Chiesanuova",
-                "ru": "\u041a\u044c\u0435\u0437\u0430\u043d\u0443\u043e\u0432\u0430",
-                "en": "Chiesanuova",
-                "de": "Chiesanuova",
-                "es": "Chiesanuova",
-                "fr": "Chiesanuova",
-                "it": "Chiesanuova",
-                "zh": "\u57fa\u57c3\u8428\u52aa\u6b27\u74e6"
-            },
-            "division": "municipalities",
-            "parent": "SM",
-            "lat": 43.9045492,
-            "lng": 12.420399800000041
-        },
-        "07": {
-            "name": "City of San Marino",
-            "code": "07",
-            "names": {
-                "geonames": "San Marino",
-                "ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
-                "en": "City of San Marino",
-                "ar": "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648",
-                "de": "San Marino",
-                "es": "San Marino",
-                "fr": "Saint-Marin",
-                "it": "San Marino",
-                "zh": "\u5723\u9a6c\u529b\u8bfa"
-            },
-            "division": "municipalities",
-            "parent": "SM",
-            "lat": 43.9321564,
-            "lng": 12.448625600000014
-        },
         "01": {
             "name": "Acquaviva",
             "code": "01",
@@ -98,23 +42,23 @@
             "lat": 43.9449913,
             "lng": 12.41843879999999
         },
-        "06": {
-            "name": "Borgo Maggiore",
-            "code": "06",
+        "02": {
+            "name": "Chiesanuova",
+            "code": "02",
             "names": {
-                "geonames": "Borgo Maggiore",
-                "ru": "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435",
-                "en": "Borgo Maggiore",
-                "de": "Borgo Maggiore",
-                "es": "Borgo Maggiore",
-                "fr": "Borgo Maggiore",
-                "it": "Borgo Maggiore",
-                "zh": "\u535a\u5c14\u6208\u00b7\u9a6c\u5409\u6b27\u96f7"
+                "geonames": "Chiesanuova",
+                "ru": "\u041a\u044c\u0435\u0437\u0430\u043d\u0443\u043e\u0432\u0430",
+                "en": "Chiesanuova",
+                "de": "Chiesanuova",
+                "es": "Chiesanuova",
+                "fr": "Chiesanuova",
+                "it": "Chiesanuova",
+                "zh": "\u57fa\u57c3\u8428\u52aa\u6b27\u74e6"
             },
             "division": "municipalities",
             "parent": "SM",
-            "lat": 43.9432577,
-            "lng": 12.445969500000047
+            "lat": 43.9045492,
+            "lng": 12.420399800000041
         },
         "03": {
             "name": "Domagnano",
@@ -170,6 +114,43 @@
             "lat": 43.9117945,
             "lng": 12.456731799999943
         },
+        "06": {
+            "name": "Borgo Maggiore",
+            "code": "06",
+            "names": {
+                "geonames": "Borgo Maggiore",
+                "ru": "\u0411\u043e\u0440\u0433\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435",
+                "en": "Borgo Maggiore",
+                "de": "Borgo Maggiore",
+                "es": "Borgo Maggiore",
+                "fr": "Borgo Maggiore",
+                "it": "Borgo Maggiore",
+                "zh": "\u535a\u5c14\u6208\u00b7\u9a6c\u5409\u6b27\u96f7"
+            },
+            "division": "municipalities",
+            "parent": "SM",
+            "lat": 43.9432577,
+            "lng": 12.445969500000047
+        },
+        "07": {
+            "name": "City of San Marino",
+            "code": "07",
+            "names": {
+                "geonames": "San Marino",
+                "ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+                "en": "City of San Marino",
+                "ar": "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648",
+                "de": "San Marino",
+                "es": "San Marino",
+                "fr": "Saint-Marin",
+                "it": "San Marino",
+                "zh": "\u5723\u9a6c\u529b\u8bfa"
+            },
+            "division": "municipalities",
+            "parent": "SM",
+            "lat": 43.9321564,
+            "lng": 12.448625600000014
+        },
         "08": {
             "name": "Montegiardino",
             "code": "08",
@@ -187,6 +168,25 @@
             "parent": "SM",
             "lat": 43.9095656,
             "lng": 12.481951699999968
+        },
+        "09": {
+            "name": "Serravalle",
+            "code": "09",
+            "names": {
+                "geonames": "Serravalle",
+                "ru": "\u0421\u0435\u0440\u0440\u0430\u0432\u0430\u043b\u043b\u0435",
+                "en": "Serravalle",
+                "ar": "\u0633\u064a\u0631\u0627\u0641\u0627\u0644\u0644\u064a",
+                "de": "Serravalle",
+                "es": "Serravalle",
+                "fr": "Serravalle",
+                "it": "Serravalle",
+                "zh": "\u585e\u62c9\u74e6\u83b1"
+            },
+            "division": "municipalities",
+            "parent": "SM",
+            "lat": 43.9694637,
+            "lng": 12.47835669999995
         }
     }
 }

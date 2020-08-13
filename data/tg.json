@@ -24,54 +24,6 @@
         "pt": "Togo"
     },
     "ISO3166-2": {
-        "S": {
-            "name": "Savanes Region, Togo",
-            "code": "S",
-            "names": {
-                "geonames": "Savanes",
-                "ru": "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0421\u0430\u0432\u0430\u043d\u043d",
-                "en": "Savanes Region",
-                "de": "Region Savanes",
-                "es": "Sabana",
-                "fr": "R\u00e9gion des Savanes",
-                "it": "Regione delle Savane",
-                "zh": "\u8349\u539f\u5340"
-            },
-            "division": "region",
-            "parent": "TG",
-            "lat": null,
-            "lng": null
-        },
-        "P": {
-            "name": "Plateaux",
-            "code": "P",
-            "names": {
-                "geonames": "Plateaux",
-                "en": "Plateaux"
-            },
-            "division": "region",
-            "parent": "TG",
-            "lat": null,
-            "lng": null
-        },
-        "M": {
-            "name": "Maritime Region",
-            "code": "M",
-            "names": {
-                "geonames": "Maritime",
-                "ru": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Maritime Region",
-                "de": "Region Maritime",
-                "es": "Mar\u00edtima",
-                "fr": "R\u00e9gion maritime",
-                "it": "Regione Marittima",
-                "zh": "\u6ff1\u6d77\u5340"
-            },
-            "division": "region",
-            "parent": "TG",
-            "lat": 42.8538251,
-            "lng": -73.90766009999999
-        },
         "C": {
             "name": "Centrale",
             "code": "C",
@@ -102,6 +54,54 @@
             "parent": "TG",
             "lat": 9.5488889,
             "lng": 1.1905556000000388
+        },
+        "M": {
+            "name": "Maritime Region",
+            "code": "M",
+            "names": {
+                "geonames": "Maritime",
+                "ru": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                "en": "Maritime Region",
+                "de": "Region Maritime",
+                "es": "Mar\u00edtima",
+                "fr": "R\u00e9gion maritime",
+                "it": "Regione Marittima",
+                "zh": "\u6ff1\u6d77\u5340"
+            },
+            "division": "region",
+            "parent": "TG",
+            "lat": 42.8538251,
+            "lng": -73.90766009999999
+        },
+        "P": {
+            "name": "Plateaux",
+            "code": "P",
+            "names": {
+                "geonames": "Plateaux",
+                "en": "Plateaux"
+            },
+            "division": "region",
+            "parent": "TG",
+            "lat": null,
+            "lng": null
+        },
+        "S": {
+            "name": "Savanes Region, Togo",
+            "code": "S",
+            "names": {
+                "geonames": "Savanes",
+                "ru": "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0421\u0430\u0432\u0430\u043d\u043d",
+                "en": "Savanes Region",
+                "de": "Region Savanes",
+                "es": "Sabana",
+                "fr": "R\u00e9gion des Savanes",
+                "it": "Regione delle Savane",
+                "zh": "\u8349\u539f\u5340"
+            },
+            "division": "region",
+            "parent": "TG",
+            "lat": null,
+            "lng": null
         }
     }
 }

@@ -24,138 +24,24 @@
         "pt": "\u00c1ustria"
     },
     "ISO3166-2": {
-        "9": {
-            "name": "Vienna",
-            "code": "9",
+        "1": {
+            "name": "Burgenland",
+            "code": "1",
             "names": {
-                "geonames": "Vienna",
-                "ru": "\u0412\u0435\u043d\u0430",
-                "en": "Vienna",
-                "ar": "\u0641\u064a\u064a\u0646\u0627",
-                "de": "Wien",
-                "es": "Viena",
-                "fr": "Vienne",
-                "it": "Vienna",
-                "zh": "\u7dad\u4e5f\u7d0d"
+                "geonames": "Burgenland",
+                "ru": "\u0411\u0443\u0440\u0433\u0435\u043d\u043b\u0430\u043d\u0434",
+                "en": "Burgenland",
+                "ar": "\u0628\u0648\u0631\u063a\u0646\u0644\u0627\u0646\u062f",
+                "de": "Burgenland",
+                "es": "Burgenland",
+                "fr": "Burgenland",
+                "it": "Burgenland",
+                "zh": "\u5e03\u5c14\u6839\u5170\u5dde"
             },
             "division": "state",
             "parent": "AT",
-            "lat": 48.2081743,
-            "lng": 16.37381890000006
-        },
-        "8": {
-            "name": "Vorarlberg",
-            "code": "8",
-            "names": {
-                "geonames": "Vorarlberg",
-                "ru": "\u0424\u043e\u0440\u0430\u0440\u043b\u044c\u0431\u0435\u0440\u0433",
-                "en": "Vorarlberg",
-                "ar": "\u0641\u0648\u0631\u0622\u0631\u0644\u0628\u0631\u063a",
-                "de": "Vorarlberg",
-                "es": "Vorarlberg",
-                "fr": "Vorarlberg",
-                "it": "Vorarlberg",
-                "zh": "\u798f\u62c9\u5c14\u8d1d\u683c\u5dde"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 47.3953844,
-            "lng": 9.730524400000036
-        },
-        "7": {
-            "name": "Tyrol",
-            "code": "7",
-            "names": {
-                "geonames": "Tyrol",
-                "ru": "\u0422\u0438\u0440\u043e\u043b\u044c",
-                "en": "Tyrol",
-                "ar": "\u062a\u064a\u0631\u0648\u0644",
-                "de": "Tirol",
-                "es": "Tirol",
-                "fr": "Tyrol",
-                "it": "Tirolo",
-                "zh": "\u8482\u7f57\u5c14\u5dde"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 47.7029582,
-            "lng": 15.536009400000012
-        },
-        "6": {
-            "name": "Styria",
-            "code": "6",
-            "names": {
-                "geonames": "Styria",
-                "ru": "\u0428\u0442\u0438\u0440\u0438\u044f",
-                "en": "Styria",
-                "ar": "\u0634\u062a\u0627\u064a\u0631\u0645\u0627\u0631\u0643",
-                "de": "Steiermark",
-                "es": "Estiria",
-                "fr": "Styrie",
-                "it": "Stiria",
-                "zh": "\u65bd\u6cf0\u723e\u99ac\u514b\u5dde"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 46.6886937,
-            "lng": 15.080303500000014
-        },
-        "5": {
-            "name": "Salzburg",
-            "code": "5",
-            "names": {
-                "geonames": "Salzburg",
-                "ru": "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433",
-                "en": "Salzburg",
-                "ar": "\u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a",
-                "de": "Land Salzburg",
-                "es": "Salzburgo",
-                "fr": "Salzbourg",
-                "it": "Salisburghese",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 47.80949,
-            "lng": 13.055010000000038
-        },
-        "4": {
-            "name": "Upper Austria",
-            "code": "4",
-            "names": {
-                "geonames": "Upper Austria",
-                "ru": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f",
-                "en": "Upper Austria",
-                "ar": "\u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0639\u0644\u064a\u0627",
-                "de": "Ober\u00f6sterreich",
-                "es": "Alta Austria",
-                "fr": "Haute-Autriche",
-                "it": "Alta Austria",
-                "zh": "\u4e0a\u5967\u5730\u5229"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 48.307958,
-            "lng": 14.300149000000033
-        },
-        "3": {
-            "name": "Lower Austria",
-            "code": "3",
-            "names": {
-                "geonames": "Lower Austria",
-                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f",
-                "en": "Lower Austria",
-                "ar": "\u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
-                "de": "Nieder\u00f6sterreich",
-                "es": "Baja Austria",
-                "fr": "Basse-Autriche",
-                "it": "Bassa Austria",
-                "zh": "\u4e0b\u5967\u5730\u5229\u5dde"
-            },
-            "division": "state",
-            "parent": "AT",
-            "lat": 48.189578,
-            "lng": 16.39998879999996
+            "lat": 47.905737,
+            "lng": 17.18447219999996
         },
         "2": {
             "name": "K\u00e4rnten",
@@ -176,24 +62,138 @@
             "lat": 46.62794,
             "lng": 14.308989999999994
         },
-        "1": {
-            "name": "Burgenland",
-            "code": "1",
+        "3": {
+            "name": "Lower Austria",
+            "code": "3",
             "names": {
-                "geonames": "Burgenland",
-                "ru": "\u0411\u0443\u0440\u0433\u0435\u043d\u043b\u0430\u043d\u0434",
-                "en": "Burgenland",
-                "ar": "\u0628\u0648\u0631\u063a\u0646\u0644\u0627\u0646\u062f",
-                "de": "Burgenland",
-                "es": "Burgenland",
-                "fr": "Burgenland",
-                "it": "Burgenland",
-                "zh": "\u5e03\u5c14\u6839\u5170\u5dde"
+                "geonames": "Lower Austria",
+                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+                "en": "Lower Austria",
+                "ar": "\u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
+                "de": "Nieder\u00f6sterreich",
+                "es": "Baja Austria",
+                "fr": "Basse-Autriche",
+                "it": "Bassa Austria",
+                "zh": "\u4e0b\u5967\u5730\u5229\u5dde"
             },
             "division": "state",
             "parent": "AT",
-            "lat": 47.905737,
-            "lng": 17.18447219999996
+            "lat": 48.189578,
+            "lng": 16.39998879999996
+        },
+        "4": {
+            "name": "Upper Austria",
+            "code": "4",
+            "names": {
+                "geonames": "Upper Austria",
+                "ru": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+                "en": "Upper Austria",
+                "ar": "\u0627\u0644\u0646\u0645\u0633\u0627 \u0627\u0644\u0639\u0644\u064a\u0627",
+                "de": "Ober\u00f6sterreich",
+                "es": "Alta Austria",
+                "fr": "Haute-Autriche",
+                "it": "Alta Austria",
+                "zh": "\u4e0a\u5967\u5730\u5229"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 48.307958,
+            "lng": 14.300149000000033
+        },
+        "5": {
+            "name": "Salzburg",
+            "code": "5",
+            "names": {
+                "geonames": "Salzburg",
+                "ru": "\u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433",
+                "en": "Salzburg",
+                "ar": "\u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a",
+                "de": "Land Salzburg",
+                "es": "Salzburgo",
+                "fr": "Salzbourg",
+                "it": "Salisburghese",
+                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.80949,
+            "lng": 13.055010000000038
+        },
+        "6": {
+            "name": "Styria",
+            "code": "6",
+            "names": {
+                "geonames": "Styria",
+                "ru": "\u0428\u0442\u0438\u0440\u0438\u044f",
+                "en": "Styria",
+                "ar": "\u0634\u062a\u0627\u064a\u0631\u0645\u0627\u0631\u0643",
+                "de": "Steiermark",
+                "es": "Estiria",
+                "fr": "Styrie",
+                "it": "Stiria",
+                "zh": "\u65bd\u6cf0\u723e\u99ac\u514b\u5dde"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 46.6886937,
+            "lng": 15.080303500000014
+        },
+        "7": {
+            "name": "Tyrol",
+            "code": "7",
+            "names": {
+                "geonames": "Tyrol",
+                "ru": "\u0422\u0438\u0440\u043e\u043b\u044c",
+                "en": "Tyrol",
+                "ar": "\u062a\u064a\u0631\u0648\u0644",
+                "de": "Tirol",
+                "es": "Tirol",
+                "fr": "Tyrol",
+                "it": "Tirolo",
+                "zh": "\u8482\u7f57\u5c14\u5dde"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.7029582,
+            "lng": 15.536009400000012
+        },
+        "8": {
+            "name": "Vorarlberg",
+            "code": "8",
+            "names": {
+                "geonames": "Vorarlberg",
+                "ru": "\u0424\u043e\u0440\u0430\u0440\u043b\u044c\u0431\u0435\u0440\u0433",
+                "en": "Vorarlberg",
+                "ar": "\u0641\u0648\u0631\u0622\u0631\u0644\u0628\u0631\u063a",
+                "de": "Vorarlberg",
+                "es": "Vorarlberg",
+                "fr": "Vorarlberg",
+                "it": "Vorarlberg",
+                "zh": "\u798f\u62c9\u5c14\u8d1d\u683c\u5dde"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 47.3953844,
+            "lng": 9.730524400000036
+        },
+        "9": {
+            "name": "Vienna",
+            "code": "9",
+            "names": {
+                "geonames": "Vienna",
+                "ru": "\u0412\u0435\u043d\u0430",
+                "en": "Vienna",
+                "ar": "\u0641\u064a\u064a\u0646\u0627",
+                "de": "Wien",
+                "es": "Viena",
+                "fr": "Vienne",
+                "it": "Vienna",
+                "zh": "\u7dad\u4e5f\u7d0d"
+            },
+            "division": "state",
+            "parent": "AT",
+            "lat": 48.2081743,
+            "lng": 16.37381890000006
         }
     }
 }
