@@ -204,15 +204,3 @@ foreach ($countries as $country) {
     }
 }
 
-// Number of countries check
-//$official_count = 249;
-//$path = './data/';
-//$files = count(glob($path.'*'));
-//echo "Official ISO3166-1 Country code count: ".$official_count."\n";
-//echo "Count of files by Country code: ".$files."\n";
-//if ($official_count !== $files) {
-//    $missing = $official_count - $files;
-//    echo "Missing Countries: ".$missing."\n\n";
-//} else {
-//    echo "Data contains all official countries\n\n";
-//}
