@@ -1,315 +1,212 @@
 {
     "alpha-2": "PW",
     "alpha-3": "PLW",
-    "numeric": 585,
-    "capital": "Ngerulmud",
-    "currency": "USD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\uddfc",
+    "numeric": "585",
     "names": {
-        "geonames": "Palau",
         "en": "Palau",
-        "ar": "\u0628\u0627\u0644\u0627\u0648",
-        "de": "Palau",
-        "es": "Palaos",
         "fr": "Palaos",
-        "it": "Palau",
-        "ru": "\u041f\u0430\u043b\u0430\u0443",
-        "zh": "\u5e1b\u7409",
-        "he": "\u05e4\u05dc\u05d0\u05d5",
-        "hi": "\u092a\u0932\u093e\u0909",
+        "ur": "\u067e\u0644\u0627\u0624",
+        "rn": "Palawu",
+        "lv": "Palau",
+        "hy": "\u054a\u0561\u056c\u0561\u0578\u0582",
+        "sq": "Palau",
+        "jv": "Palau",
+        "or": "\u0b2a\u0b3e\u0b32\u0b3e\u0b09",
+        "mg": "Palao",
+        "no": "Palau",
+        "zh": "\u5e15\u52b3",
+        "tr": "Palau",
+        "bs": "Palau",
         "ja": "\u30d1\u30e9\u30aa",
-        "pt": "Palau"
+        "th": "\u0e1b\u0e32\u0e40\u0e25\u0e32",
+        "he": "\u05e4\u05dc\u05d0\u05d5",
+        "kk": "\u041f\u0430\u043b\u0430\u0443",
+        "mo": "Palau",
+        "ff": "Palawu",
+        "ca": "Palau",
+        "ar": "\u0628\u0627\u0644\u0627\u0648",
+        "eu": "Palau",
+        "ps": "\u067e\u0644\u0627\u0624",
+        "kn": "\u0caa\u0cb2\u0cbe\u0cb5\u0cc1",
+        "si": "\u0db4\u0dbd\u0dcf\u0dc0\u0dd4",
+        "km": "\u1795\u17c5\u17a1\u17bc",
+        "ne": "\u092a\u0932\u093e\u0909",
+        "fi": "Palau",
+        "hi": "\u092a\u0932\u093e\u090a",
+        "rm": "Palau",
+        "vi": "Palau",
+        "gl": "Palau",
+        "ig": "Palau",
+        "mr": "\u092a\u0932\u093e\u090a",
+        "es": "Palaos",
+        "be": "\u041f\u0430\u043b\u0430\u0443",
+        "lg": "Palawu",
+        "az": "\u041f\u0430\u043b\u0430\u0443",
+        "ce": "\u041f\u0430\u043b\u0430\u0443",
+        "mk": "\u041f\u0430\u043b\u0430\u0443",
+        "zu": "i-Palau",
+        "it": "Palau",
+        "ko": "\ud314\ub77c\uc6b0",
+        "lo": "\u0e9b\u0eb2\u0ea5\u0eb2\u0ea7",
+        "lt": "Palau",
+        "dz": "\u0f54\u0f0b\u0f63\u0f60\u0f74",
+        "ln": "Palau",
+        "hr": "Palau",
+        "ks": "\u067e\u064e\u0644\u0627\u0648",
+        "sv": "Palau",
+        "pl": "Palau",
+        "nb": "Palau",
+        "sh": "Palau",
+        "lu": "Palau",
+        "nl": "Palau",
+        "ky": "\u041f\u0430\u043b\u0430\u0443",
+        "bn": "\u09aa\u09be\u09b2\u09be\u0989",
+        "sd": "\u067e\u0644\u0627\u0626\u0648",
+        "fa": "\u067e\u0627\u0644\u0627\u0626\u0648",
+        "gd": "Palabh",
+        "cs": "Palau",
+        "tk": "Palau",
+        "eo": "Bela\u016do",
+        "mt": "Palau",
+        "sr": "Palau",
+        "wo": "Palaw",
+        "el": "\u03a0\u03b1\u03bb\u03ac\u03bf\u03c5",
+        "sn": "Palau",
+        "pt": "Palau",
+        "is": "Pal\u00e1",
+        "ta": "\u0baa\u0bbe\u0bb2\u0bcb",
+        "br": "Palau",
+        "hu": "Palau",
+        "et": "Belau",
+        "ku": "Palau",
+        "sk": "Palau",
+        "sw": "Palau",
+        "te": "\u0c2a\u0c3e\u0c32\u0c3e\u0c35\u0c4d",
+        "ro": "Palau",
+        "ki": "Palau",
+        "ak": "Palau",
+        "tg": "\u041f\u0430\u043b\u0430\u0443",
+        "ml": "\u0d2a\u0d32\u0d3e\u0d35\u0d41",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Paalu",
+        "de": "Palau",
+        "as": "\u09aa\u09be\u09b2\u09be\u0989",
+        "am": "\u1353\u120b\u12cd",
+        "se": "Palau",
+        "ti": "\u1353\u120b\u12cd",
+        "ru": "\u041f\u0430\u043b\u0430\u0443",
+        "ga": "Oile\u00e1in Palau",
+        "bg": "\u041f\u0430\u043b\u0430\u0443",
+        "my": "\u1015\u101c\u102c\u1021\u102d\u102f",
+        "fy": "Palau",
+        "bm": "Palawu",
+        "gu": "\u0aaa\u0ab2\u0abe\u0a89",
+        "uz": "\u041f\u0430\u043b\u0430\u0443",
+        "cy": "Palau",
+        "ug": "\u067e\u0627\u0644\u0627\u0626\u06c7",
+        "nn": "Palau",
+        "uk": "\u041f\u0430\u043b\u0430\u0443",
+        "qu": "Palaos",
+        "tl": "Palau",
+        "ms": "Palau",
+        "so": "Balaaw",
+        "da": "Palau",
+        "tt": "\u041f\u0430\u043b\u0430\u0443",
+        "af": "Palau",
+        "ha": "Palau",
+        "iw": "\u05e4\u05dc\u05d0\u05d5",
+        "ee": "Palau nutome",
+        "in": "Palau",
+        "to": "Palau",
+        "sl": "Palau",
+        "sg": "Palau",
+        "lb": "Palau",
+        "fo": "Palau",
+        "mn": "\u041f\u0430\u043b\u0430\u0443",
+        "id": "Palau",
+        "pa": "\u0a2a\u0a32\u0a3e\u0a09",
+        "ka": "\u10de\u10d0\u10da\u10d0\u10e3",
+        "nd": "Palau"
     },
-    "ISO3166-2": {
-        "002": {
-            "name": "Aimeliik",
-            "code": "002",
-            "names": {
-                "geonames": "Aimeliik",
-                "ru": "\u0410\u0438\u043c\u0435\u043b\u0438\u0438\u043a",
-                "en": "Aimeliik",
-                "de": "Aimeliik",
-                "es": "Aimeliik",
-                "fr": "Aimeliik",
-                "it": "Aimeliik",
-                "zh": "\u827e\u6885\u5229\u514b\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "PW-002",
+            "names": "Aimeliik",
+            "type": "State"
         },
-        "004": {
-            "name": "Airai",
-            "code": "004",
-            "names": {
-                "geonames": "Airai",
-                "ru": "\u0410\u0438\u0440\u0430\u0438",
-                "en": "Airai",
-                "de": "Airai",
-                "es": "Airai",
-                "fr": "Airai",
-                "it": "Airai",
-                "zh": "\u827e\u62c9\u4f0a\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.3575,
-            "lng": 134.55777779999994
+        {
+            "code": "PW-004",
+            "names": "Airai",
+            "type": "State"
         },
-        "010": {
-            "name": "Angaur",
-            "code": "010",
-            "names": {
-                "geonames": "Angaur",
-                "ru": "\u0410\u043d\u0433\u0430\u0443\u0440",
-                "en": "Angaur",
-                "de": "Angaur",
-                "es": "Angaur",
-                "fr": "Angaur",
-                "it": "Angaur",
-                "zh": "\u5b89\u52a0\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 6.905018,
-            "lng": 134.12957099999994
+        {
+            "code": "PW-010",
+            "names": "Angaur",
+            "type": "State"
         },
-        "050": {
-            "name": "Hatohobei",
-            "code": "050",
-            "names": {
-                "geonames": "Hatohobei",
-                "ru": "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0438",
-                "en": "Hatohobei",
-                "de": "Hatohobei",
-                "es": "Hatohobei",
-                "fr": "Hatohobei",
-                "it": "Hatohobei",
-                "zh": "\u54c8\u6258\u535a\u6d77\u4f0a\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-050",
+            "names": "Hatobohei",
+            "type": "State"
         },
-        "100": {
-            "name": "Kayangel",
-            "code": "100",
-            "names": {
-                "geonames": "Kayangel",
-                "ru": "\u041a\u0430\u044f\u043d\u0433\u0435\u043b",
-                "en": "Kayangel",
-                "de": "Kayangel",
-                "es": "Kayangel",
-                "fr": "Kayangel",
-                "it": "Kayangel",
-                "zh": "\u5361\u63da\u57c3\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-100",
+            "names": "Kayangel",
+            "type": "State"
         },
-        "150": {
-            "name": "Koror",
-            "code": "150",
-            "names": {
-                "geonames": "Koror",
-                "ru": "\u041a\u043e\u0440\u043e\u0440",
-                "en": "Koror",
-                "ar": "\u0643\u0648\u0631\u0648\u0631",
-                "de": "Koror",
-                "es": "Koror",
-                "fr": "Koror",
-                "it": "Koror",
-                "zh": "\u79d1\u7f85\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.342241,
-            "lng": 134.47920399999998
+        {
+            "code": "PW-150",
+            "names": "Koror",
+            "type": "State"
         },
-        "212": {
-            "name": "Melekeok",
-            "code": "212",
-            "names": {
-                "geonames": "Melekeok",
-                "ru": "\u041c\u0435\u043b\u0435\u043a\u0435\u043e\u043a",
-                "en": "Melekeok",
-                "de": "Melekeok",
-                "es": "Melekeok",
-                "fr": "Melekeok",
-                "it": "Melekeok"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.500795,
-            "lng": 134.61870799999997
+        {
+            "code": "PW-212",
+            "names": "Melekeok",
+            "type": "State"
         },
-        "214": {
-            "name": "Ngaraard",
-            "code": "214",
-            "names": {
-                "geonames": "Ngaraard",
-                "ru": "\u041d\u0433\u0430\u0440\u0430\u0430\u0440\u0434",
-                "en": "Ngaraard",
-                "de": "Ngaraard",
-                "es": "Ngaraard",
-                "fr": "Ngaraard",
-                "it": "Ngaraard",
-                "zh": "\u96c5\u62c9\u723e\u5fb7\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 48.0335154,
-            "lng": -65.22816599999999
+        {
+            "code": "PW-214",
+            "names": "Ngaraard",
+            "type": "State"
         },
-        "218": {
-            "name": "Ngarchelong",
-            "code": "218",
-            "names": {
-                "geonames": "Ngarchelong",
-                "ru": "\u041d\u0433\u0430\u0440\u0445\u0435\u043b\u043e\u043d\u0433",
-                "en": "Ngarchelong",
-                "de": "Ngarchelong",
-                "es": "Ngarchelong",
-                "fr": "Ngarchelong",
-                "it": "Ngarchelong",
-                "zh": "\u96c5\u5207\u9686\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-218",
+            "names": "Ngarchelong",
+            "type": "State"
         },
-        "222": {
-            "name": "Ngardmau",
-            "code": "222",
-            "names": {
-                "geonames": "Ngardmau",
-                "ru": "\u041d\u0433\u0430\u0440\u0434\u043c\u0430\u0443",
-                "en": "Ngardmau",
-                "de": "Ngardmau",
-                "es": "Ngardmau",
-                "fr": "Ngardmau",
-                "it": "Ngardmau",
-                "zh": "\u96c5\u5fb7\u99ac\u70cf\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-222",
+            "names": "Ngardmau",
+            "type": "State"
         },
-        "224": {
-            "name": "Ngatpang",
-            "code": "224",
-            "names": {
-                "geonames": "Ngatpang",
-                "ru": "\u041d\u0433\u0430\u0442\u043f\u0430\u043d\u0433",
-                "en": "Ngatpang",
-                "de": "Ngatpang",
-                "es": "Ngatpang",
-                "fr": "Ngatpang",
-                "it": "Ngatpang",
-                "zh": "\u96c5\u9f90"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-224",
+            "names": "Ngatpang",
+            "type": "State"
         },
-        "226": {
-            "name": "Ngchesar",
-            "code": "226",
-            "names": {
-                "geonames": "Ngchesar",
-                "ru": "\u041d\u0433\u0445\u0435\u0441\u0430\u0440",
-                "en": "Ngchesar",
-                "de": "Ngchesar",
-                "es": "Ngchesar",
-                "fr": "Ngchesar",
-                "it": "Ngchesar",
-                "zh": "\u6069\u5207\u85a9\u723e\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.4675,
-            "lng": 134.60722220000002
+        {
+            "code": "PW-226",
+            "names": "Ngchesar",
+            "type": "State"
         },
-        "227": {
-            "name": "Ngeremlengui",
-            "code": "227",
-            "names": {
-                "geonames": "Ngaremlengui",
-                "ru": "\u041d\u0433\u0430\u0440\u0435\u043c\u043b\u0435\u043d\u0433\u0443\u0438",
-                "en": "Ngeremlengui",
-                "de": "Ngaremlengui",
-                "es": "Ngeremlengui",
-                "fr": "Ngaremlengui",
-                "it": "Ngaremlengui",
-                "zh": "\u57c3\u96f7\u59c6\u502b\u7dad\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-227",
+            "names": "Ngeremlengui",
+            "type": "State"
         },
-        "228": {
-            "name": "Ngiwal",
-            "code": "228",
-            "names": {
-                "geonames": "Ngiwal",
-                "ru": "\u041d\u0433\u0438\u0432\u0430\u043b",
-                "en": "Ngiwal",
-                "de": "Ngiwal",
-                "es": "Ngiwal",
-                "fr": "Ngiwal",
-                "it": "Ngiwal"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-228",
+            "names": "Ngiwal",
+            "type": "State"
         },
-        "350": {
-            "name": "Peleliu",
-            "code": "350",
-            "names": {
-                "geonames": "Peleliu",
-                "ru": "\u041f\u0435\u043b\u0435\u043b\u0438\u0443",
-                "en": "Peleliu",
-                "de": "Peleliu",
-                "es": "Peleliu",
-                "fr": "Peleliu",
-                "it": "Peleliu",
-                "zh": "\u8c9d\u91cc\u7409\u5dde"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": 7.0091636,
-            "lng": 134.2508537
+        {
+            "code": "PW-350",
+            "names": "Peleliu",
+            "type": "State"
         },
-        "370": {
-            "name": "Sonsorol",
-            "code": "370",
-            "names": {
-                "geonames": "Sonsorol",
-                "ru": "\u0421\u043e\u043d\u0441\u043e\u0440\u043e\u043b",
-                "en": "Sonsorol",
-                "de": "Sonsorol",
-                "es": "Sonsoral",
-                "fr": "Sonsorol",
-                "it": "Sonsorol",
-                "zh": "\u677e\u7d22\u7f85\u723e"
-            },
-            "division": "state",
-            "parent": "PW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PW-370",
+            "names": "Sonsorol",
+            "type": "State"
         }
-    }
+    ]
 }

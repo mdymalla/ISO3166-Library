@@ -1,326 +1,214 @@
 {
     "alpha-2": "PL",
     "alpha-3": "POL",
-    "numeric": 616,
-    "capital": "Warsaw",
-    "currency": "PLN",
-    "languages": [
-        "pl"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\uddf1",
+    "numeric": "616",
     "names": {
-        "geonames": "Poland",
         "en": "Poland",
-        "ar": "\u0628\u0648\u0644\u0646\u062f\u0627",
-        "de": "Polen",
-        "es": "Polonia",
         "fr": "Pologne",
-        "it": "Polonia",
-        "ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "ur": "\u067e\u0648\u0644\u06cc\u0646\u0688",
+        "rn": "Polonye",
+        "lv": "Polija",
+        "hy": "\u053c\u0565\u0570\u0561\u057d\u057f\u0561\u0576",
+        "sq": "Poloni",
+        "jv": "Polen",
+        "or": "\u0b2a\u0b4b\u0b32\u0b3e\u0b23\u0b4d\u0b21",
+        "mg": "P\u00f4l\u00f4na",
+        "no": "Polen",
         "zh": "\u6ce2\u5170",
-        "he": "\u05e4\u05d5\u05dc\u05d9\u05df",
-        "hi": "\u092a\u094b\u0932\u0948\u0902\u0921",
+        "tr": "Polonya",
+        "bs": "Poljska",
         "ja": "\u30dd\u30fc\u30e9\u30f3\u30c9",
-        "pt": "Pol\u00f3nia"
+        "th": "\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "he": "\u05e4\u05d5\u05dc\u05d9\u05df",
+        "fa": "\u0644\u0647\u0633\u062a\u0627\u0646",
+        "kk": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "mo": "Polonia",
+        "ff": "\ud83a\udd06\ud83a\udd2e\ud83a\udd24\ud83a\udd22\ud83a\udd32\ud83a\udd23",
+        "ca": "Pol\u00f2nia",
+        "ar": "\u0628\u0648\u0644\u0646\u062f\u0627",
+        "eu": "Polonia",
+        "ps": "\u067e\u0648\u0644\u0646\u0689",
+        "kn": "\u0caa\u0ccb\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd",
+        "si": "\u0db4\u0ddd\u0dbd\u0db1\u0dca\u0dad\u0dba",
+        "km": "\u1794\u17c9\u17bc\u17a1\u17bc\u1789",
+        "ne": "\u092a\u094b\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "fi": "Puola",
+        "hi": "\u092a\u094b\u0932\u0948\u0902\u0921",
+        "rm": "Pologna",
+        "vi": "Ba Lan",
+        "gl": "Polonia",
+        "ig": "Poland",
+        "mr": "\u092a\u094b\u0932\u0902\u0921",
+        "es": "Polonia",
+        "be": "\u041f\u043e\u043b\u044c\u0448\u0447\u0430",
+        "lg": "Polandi",
+        "pt": "Pol\u00f4nia",
+        "az": "\u041f\u043e\u043b\u0448\u0430",
+        "ce": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "mk": "\u041f\u043e\u043b\u0441\u043a\u0430",
+        "zu": "i-Poland",
+        "it": "Polonia",
+        "ko": "\ud3f4\ub780\ub4dc",
+        "lo": "\u0ec2\u0e9b\u0ec1\u0ea5\u0e99",
+        "lt": "Lenkija",
+        "dz": "\u0f54\u0f7c\u0f0b\u0f63\u0f7a\u0f53\u0f4c",
+        "ln": "Poloni",
+        "hr": "Poljska",
+        "ks": "\u067e\u0648\u0644\u06cc\u0646\u0691",
+        "sv": "Polen",
+        "pl": "Polska",
+        "nb": "Polen",
+        "sh": "Poljska",
+        "lu": "Mpoloni",
+        "nl": "Polen",
+        "ky": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "bn": "\u09aa\u09cb\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "sd": "\u067e\u0648\u0644\u064a\u0646\u068a",
+        "gd": "A\u2019 Ph\u00f2lainn",
+        "cs": "Polsko",
+        "tk": "Pol\u015fa",
+        "eo": "Pollando",
+        "mt": "il-Polonja",
+        "sr": "Poljska",
+        "wo": "Polo\u00f1",
+        "el": "\u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1",
+        "sn": "Poland",
+        "yi": "\u05e4\u05bc\u05d5\u05d9\u05dc\u05df",
+        "is": "P\u00f3lland",
+        "ta": "\u0baa\u0bcb\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1",
+        "br": "Polonia",
+        "hu": "Lengyelorsz\u00e1g",
+        "et": "Poola",
+        "ku": "Polonya",
+        "sk": "Po\u013esko",
+        "sw": "Polandi",
+        "te": "\u0c2a\u0c4b\u0c32\u0c3e\u0c02\u0c21\u0c4d",
+        "ro": "Polonia",
+        "ki": "Polandi",
+        "ak": "Poland",
+        "tg": "\u041b\u0430\u04b3\u0438\u0441\u0442\u043e\u043d",
+        "ml": "\u0d2a\u0d4b\u0d33\u0d23\u0d4d\u0d1f\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Polandi",
+        "de": "Polen",
+        "as": "\u09aa\u09cb\u09b2\u09c7\u09a3\u09cd\u09a1",
+        "am": "\u1356\u120b\u1295\u12f5",
+        "se": "Polen",
+        "ia": "Polonia",
+        "ti": "\u1356\u120b\u1295\u12f5",
+        "ru": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "ga": "an Pholainn",
+        "bg": "\u041f\u043e\u043b\u0448\u0430",
+        "my": "\u1015\u102d\u102f\u101c\u1014\u103a",
+        "fy": "Polen",
+        "bm": "Polo\u0272i",
+        "gu": "\u0aaa\u0acb\u0ab2\u0ac7\u0a82\u0aa1",
+        "uz": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "cy": "Gwlad Pwyl",
+        "ug": "\u067e\u0648\u0644\u0634\u0627",
+        "nn": "Polen",
+        "uk": "\u041f\u043e\u043b\u044c\u0449\u0430",
+        "qu": "Polonia",
+        "tl": "Poland",
+        "ms": "Poland",
+        "so": "Booland",
+        "da": "Polen",
+        "tt": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "af": "Pole",
+        "ha": "Polan",
+        "iw": "\u05e4\u05d5\u05dc\u05d9\u05df",
+        "ee": "Poland nutome",
+        "in": "Polandia",
+        "to": "Polani",
+        "sl": "Poljska",
+        "sg": "P\u00f6l\u00f4ni",
+        "lb": "Polen",
+        "fo": "P\u00f3lland",
+        "mn": "\u041f\u043e\u043b\u044c\u0448",
+        "id": "Polandia",
+        "pa": "\u0a2a\u0a4b\u0a32\u0a48\u0a02\u0a21",
+        "ka": "\u10de\u10dd\u10da\u10dd\u10dc\u10d4\u10d7\u10d8",
+        "nd": "Pholandi"
     },
-    "ISO3166-2": {
-        "DS": {
-            "name": "Lower Silesian Voivodeship",
-            "code": "DS",
-            "names": {
-                "geonames": "Lower Silesia",
-                "ru": "\u041d\u0438\u0436\u043d\u0435\u0441\u0438\u043b\u0435\u0437\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Lower Silesian Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0644\u0632\u064a\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
-                "de": "Woiwodschaft Niederschlesien",
-                "es": "Voivodato de Baja Silesia",
-                "fr": "Vo\u00efvodie de Basse-Sil\u00e9sie",
-                "it": "Voivodato della Bassa Slesia",
-                "zh": "\u4e0b\u897f\u91cc\u897f\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 51.1339861,
-            "lng": 16.884196100000054
+    "3166-2": [
+        {
+            "code": "PL-DS",
+            "names": "Dolno\u015bl\u0105skie",
+            "type": "Province"
         },
-        "KP": {
-            "name": "Kuyavian-Pomeranian Voivodeship",
-            "code": "KP",
-            "names": {
-                "geonames": "Kujawsko-Pomorskie",
-                "ru": "\u041a\u0443\u044f\u0432\u0441\u043a\u043e-\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Kuyavian-Pomeranian Voivodeship",
-                "de": "Woiwodschaft Kujawien-Pommern",
-                "es": "Voivodato de Cuyavia y Pomerania",
-                "fr": "Vo\u00efvodie de Cou\u00efavie-Pom\u00e9ranie",
-                "it": "Voivodato della Cuiavia-Pomerania",
-                "zh": "\u5eab\u4e9e\u7dad-\u6ce2\u7f8e\u62c9\u5c3c\u4e9e\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 53.1648363,
-            "lng": 18.483422399999995
+        {
+            "code": "PL-KP",
+            "names": "Kujawsko-pomorskie",
+            "type": "Province"
         },
-        "LB": {
-            "name": "Lubusz Voivodeship",
-            "code": "LB",
-            "names": {
-                "geonames": "Lubusz",
-                "ru": "\u041b\u044e\u0431\u0443\u0448\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Lubusz Voivodeship",
-                "de": "Woiwodschaft Lebus",
-                "es": "Voivodato de Lubusz",
-                "fr": "Vo\u00efvodie de Lubusz",
-                "it": "Voivodato di Lubusz",
-                "zh": "\u76e7\u5e03\u65af\u5361\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 52.2274612,
-            "lng": 15.255910299999982
+        {
+            "code": "PL-LB",
+            "names": "Lubuskie",
+            "type": "Province"
         },
-        "LD": {
-            "name": "\u0141\u00f3d\u017a Voivodeship",
-            "code": "LD",
-            "names": {
-                "geonames": "Lodz Voivodeship",
-                "ru": "\u041b\u043e\u0434\u0437\u0438\u043d\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "\u0141\u00f3d\u017a Voivodeship",
-                "de": "Woiwodschaft \u0141\u00f3d\u017a",
-                "es": "Voivodato de \u0141\u00f3d\u017a",
-                "fr": "Vo\u00efvodie de \u0141\u00f3d\u017a",
-                "it": "Voivodato di \u0141\u00f3d\u017a",
-                "zh": "\u7f57\u5179\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 51.4634771,
-            "lng": 19.17269740000006
+        {
+            "code": "PL-LD",
+            "names": "\u0141\u00f3dzkie",
+            "type": "Province"
         },
-        "LU": {
-            "name": "Lublin Voivodeship",
-            "code": "LU",
-            "names": {
-                "geonames": "Lublin",
-                "ru": "\u041b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Lublin Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0628\u0644\u064a\u0646",
-                "de": "Woiwodschaft Lublin",
-                "es": "Voivodato de Lublin",
-                "fr": "Vo\u00efvodie de Lublin",
-                "it": "Voivodato di Lublino",
-                "zh": "\u5362\u5e03\u6797\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 51.2493519,
-            "lng": 23.101139200000034
+        {
+            "code": "PL-LU",
+            "names": "Lubelskie",
+            "type": "Province"
         },
-        "MA": {
-            "name": "Lesser Poland Voivodeship",
-            "code": "MA",
-            "names": {
-                "geonames": "Lesser Poland Voivodeship",
-                "ru": "\u041c\u0430\u043b\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Lesser Poland Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0644\u0646\u062f\u0627 \u0627\u0644\u0635\u063a\u0631\u0649",
-                "de": "Woiwodschaft Kleinpolen",
-                "es": "Voivodato de Peque\u00f1a Polonia",
-                "fr": "Vo\u00efvodie de Petite-Pologne",
-                "it": "Voivodato della Piccola Polonia",
-                "zh": "\u5c0f\u6ce2\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 49.7225306,
-            "lng": 20.250335899999982
+        {
+            "code": "PL-MA",
+            "names": "Ma\u0142opolskie",
+            "type": "Province"
         },
-        "MZ": {
-            "name": "Masovian Voivodeship",
-            "code": "MZ",
-            "names": {
-                "geonames": "Mazovia",
-                "ru": "\u041c\u0430\u0437\u043e\u0432\u0435\u0446\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Masovian Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0632\u0648\u0641\u064a\u0627",
-                "de": "Woiwodschaft Masowien",
-                "es": "Voivodato de Mazovia",
-                "fr": "Vo\u00efvodie de Mazovie",
-                "it": "Voivodato della Masovia",
-                "zh": "\u99ac\u4f50\u592b\u820d\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 52.5373228,
-            "lng": 21.07682879999993
+        {
+            "code": "PL-MZ",
+            "names": "Mazowieckie",
+            "type": "Province"
         },
-        "OP": {
-            "name": "Opole Voivodeship",
-            "code": "OP",
-            "names": {
-                "geonames": "Opole Voivodeship",
-                "ru": "\u041e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Opole Voivodeship",
-                "de": "Woiwodschaft Oppeln",
-                "es": "Voivodato de Opole",
-                "fr": "Vo\u00efvodie d'Opole",
-                "it": "Voivodato di Opole",
-                "zh": "\u5967\u6ce2\u840a\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 50.8003761,
-            "lng": 17.937989000000016
+        {
+            "code": "PL-OP",
+            "names": "Opolskie",
+            "type": "Province"
         },
-        "PD": {
-            "name": "Podlaskie Voivodeship",
-            "code": "PD",
-            "names": {
-                "geonames": "Podlasie",
-                "ru": "\u041f\u043e\u0434\u043b\u044f\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Podlaskie Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u062f\u0644\u0633\u0643\u064a",
-                "de": "Woiwodschaft Podlachien",
-                "es": "Voivodato de Podlaquia",
-                "fr": "Vo\u00efvodie de Podlachie",
-                "it": "Voivodato della Podlachia",
-                "zh": "\u6ce2\u5fb7\u62c9\u8b1d\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 53.0697159,
-            "lng": 22.967463899999984
+        {
+            "code": "PL-PD",
+            "names": "Podlaskie",
+            "type": "Province"
         },
-        "PK": {
-            "name": "Podkarpackie Voivodeship",
-            "code": "PK",
-            "names": {
-                "geonames": "Subcarpathian Voivodeship",
-                "ru": "\u041f\u043e\u0434\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Podkarpackie Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u0628\u0643\u0627\u0631\u0628\u0627\u062a\u064a\u0627",
-                "de": "Woiwodschaft Karpatenvorland",
-                "es": "Voivodato de Subcarpacia",
-                "fr": "Vo\u00efvodie des Basses-Carpates",
-                "it": "Voivodato della Precarpazia",
-                "zh": "\u5580\u5c14\u5df4\u9621\u5c71\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 50.0574749,
-            "lng": 22.089569100000062
+        {
+            "code": "PL-PK",
+            "names": "Podkarpackie",
+            "type": "Province"
         },
-        "PM": {
-            "name": "Pomeranian Voivodeship",
-            "code": "PM",
-            "names": {
-                "geonames": "Pomerania",
-                "ru": "\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Pomeranian Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0645\u0631\u0633\u0643\u064a",
-                "de": "Woiwodschaft Pommern",
-                "es": "Voivodato de Pomerania",
-                "fr": "Vo\u00efvodie de Pom\u00e9ranie",
-                "it": "Voivodato della Pomerania",
-                "zh": "\u6ff1\u6d77\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 54.2944252,
-            "lng": 18.153116400000044
+        {
+            "code": "PL-PM",
+            "names": "Pomorskie",
+            "type": "Province"
         },
-        "SK": {
-            "name": "Skierniewice Voivodeship",
-            "code": "SK",
-            "names": {
-                "geonames": "Swietokrzyskie",
-                "ru": "\u0421\u0432\u0435\u043d\u0442\u043e\u043a\u0448\u0438\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Skierniewice Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0641\u064a\u0646\u062a\u0648\u0643\u0634\u064a\u0633\u0643\u064a",
-                "de": "Woiwodschaft Heiligkreuz",
-                "es": "Voivodato de Santa Cruz",
-                "fr": "Vo\u00efvodie de Sainte-Croix",
-                "it": "Voivodato della Santacroce",
-                "zh": "\u8056\u5341\u5b57\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 50.6261041,
-            "lng": 20.94062789999998
+        {
+            "code": "PL-SK",
+            "names": "\u015awi\u0119tokrzyskie",
+            "type": "Province"
         },
-        "SL": {
-            "name": "S\u0142upsk Voivodeship",
-            "code": "SL",
-            "names": {
-                "geonames": "Silesia",
-                "ru": "\u0421\u0438\u043b\u0435\u0437\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "S\u0142upsk Voivodeship",
-                "de": "Woiwodschaft Schlesien",
-                "es": "Voivodato de Silesia",
-                "fr": "Vo\u00efvodie de Sil\u00e9sie",
-                "it": "Voivodato della Slesia",
-                "zh": "\u897f\u91cc\u897f\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 50.2558286,
-            "lng": 18.855570400000033
+        {
+            "code": "PL-SL",
+            "names": "\u015al\u0105skie",
+            "type": "Province"
         },
-        "WN": {
-            "name": "Warmian-Masurian Voivodeship",
-            "code": "WN",
-            "names": {
-                "geonames": "Warmia-Masuria",
-                "ru": "\u0412\u0430\u0440\u043c\u0438\u043d\u044c\u0441\u043a\u043e-\u041c\u0430\u0437\u0443\u0440\u0441\u043a\u043e\u0435",
-                "en": "Warmian-Masurian Voivodeship",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0627\u0631\u0645\u064a\u0646\u0633\u0643\u0648-\u0645\u0627\u0632\u0648\u0631\u0633\u0643\u064a",
-                "de": "Woiwodschaft Ermland-Masuren",
-                "es": "Voivodato de Varmia y Masuria",
-                "fr": "Vo\u00efvodie de Varmie-Mazurie",
-                "it": "Voivodato della Varmia-Masuria",
-                "zh": "\u74e6\u723e\u7c73\u4e9e-\u99ac\u7956\u91cc\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 53.8671117,
-            "lng": 20.70278600000006
+        {
+            "code": "PL-WN",
+            "names": "Warmi\u0144sko-mazurskie",
+            "type": "Province"
         },
-        "WP": {
-            "name": "Greater Poland Voivodeship",
-            "code": "WP",
-            "names": {
-                "geonames": "Greater Poland",
-                "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "Greater Poland Voivodeship",
-                "ar": "\u0628\u0648\u0644\u0646\u062f\u0627 \u0627\u0644\u0643\u0628\u0631\u0649",
-                "de": "Woiwodschaft Gro\u00dfpolen",
-                "es": "Voivodato de Gran Polonia",
-                "fr": "Vo\u00efvodie de Grande-Pologne",
-                "it": "Voivodato della Grande Polonia",
-                "zh": "\u5927\u6ce2\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 52.279986,
-            "lng": 17.35229389999995
+        {
+            "code": "PL-WP",
+            "names": "Wielkopolskie",
+            "type": "Province"
         },
-        "ZP": {
-            "name": "West Pomeranian Voivodeship",
-            "code": "ZP",
-            "names": {
-                "geonames": "West Pomerania",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u043e\u0435 \u0432\u043e\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
-                "en": "West Pomeranian Voivodeship",
-                "de": "Woiwodschaft Westpommern",
-                "es": "Voivodato de Pomerania Occidental",
-                "fr": "Vo\u00efvodie de Pom\u00e9ranie occidentale",
-                "it": "Voivodato della Pomerania Occidentale",
-                "zh": "\u897f\u6ce2\u7f8e\u62c9\u5c3c\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "PL",
-            "lat": 53.1032411,
-            "lng": 14.91375579999999
+        {
+            "code": "PL-ZP",
+            "names": "Zachodniopomorskie",
+            "type": "Province"
         }
-    }
+    ]
 }

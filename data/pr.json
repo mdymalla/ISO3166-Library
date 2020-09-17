@@ -1,965 +1,132 @@
 {
     "alpha-2": "PR",
     "alpha-3": "PRI",
-    "numeric": 630,
-    "capital": "San Juan",
-    "currency": "USD",
-    "languages": [
-        "es",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\uddf7",
+    "numeric": "630",
     "names": {
-        "geonames": "Puerto Rico",
         "en": "Puerto Rico",
-        "ar": "\u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648",
-        "de": "Puerto Rico",
-        "es": "Puerto Rico",
         "fr": "Porto Rico",
-        "it": "Porto Rico",
-        "ru": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "ur": "\u067e\u06cc\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
+        "rn": "Puwetoriko",
+        "lv": "Puertoriko",
+        "hy": "\u054a\u0578\u0582\u0565\u0580\u057f\u0578 \u054c\u056b\u056f\u0578",
+        "sq": "Porto-Riko",
+        "jv": "Pu\u00e8rto Riko",
+        "or": "\u0b2a\u0b41\u0b0f\u0b30\u0b4d\u0b24\u0b4d\u0b24\u0b4b \u0b30\u0b3f\u0b15\u0b4b",
+        "mg": "P\u00f4rt\u00f4 Rik\u00f4",
+        "no": "Puerto Rico",
         "zh": "\u6ce2\u591a\u9ece\u5404",
-        "he": "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05e8\u05d9\u05e7\u05d5",
-        "hi": "\u092a\u094b\u0930\u094d\u091f\u094b \u0930\u0940\u0915\u094b",
+        "tr": "Porto Riko",
+        "bs": "Porto Riko",
         "ja": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
-        "pt": "Porto Rico"
+        "th": "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e23\u0e34\u0e42\u0e01",
+        "he": "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05e8\u05d9\u05e7\u05d5",
+        "kk": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "mo": "Puerto Rico",
+        "ff": "Porto Rikoo",
+        "ca": "Puerto Rico",
+        "ar": "\u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648",
+        "eu": "Puerto Rico",
+        "ps": "\u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648",
+        "kn": "\u0caa\u0ccd\u0caf\u0cc2\u0cb0\u0ccd\u0c9f\u0ccb \u0cb0\u0cbf\u0c95\u0cca",
+        "si": "\u0db4\u0dd4\u0dc0\u0dbb\u0dca\u0da7\u0ddd \u0dbb\u0dd2\u0d9a\u0ddd",
+        "km": "\u1796\u17d0\u179a\u178f\u17bc\u179a\u17b8\u1780\u17bc",
+        "ne": "\u092a\u0941\u090f\u0930\u094d\u091f\u094b \u0930\u093f\u0915\u094b",
+        "fi": "Puerto Rico",
+        "hi": "\u092a\u094b\u0930\u094d\u091f\u094b \u0930\u093f\u0915\u094b",
+        "rm": "Puerto Rico",
+        "vi": "Puerto Rico",
+        "gl": "Porto Rico",
+        "ig": "Puerto Rico",
+        "mr": "\u092a\u094d\u092f\u0941\u090f\u0930\u094d\u0924\u094b \u0930\u093f\u0915\u094b",
+        "es": "Puerto Rico",
+        "be": "\u041f\u0443\u044d\u0440\u0442\u0430-\u0420\u044b\u043a\u0430",
+        "lg": "Potoriko",
+        "az": "\u041f\u0443\u0435\u0440\u0442\u043e \u0420\u0438\u043a\u043e",
+        "ce": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "mk": "\u041f\u043e\u0440\u0442\u043e\u0440\u0438\u043a\u043e",
+        "zu": "i-Puerto Rico",
+        "it": "Portorico",
+        "ko": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54",
+        "lo": "\u0ec0\u0e9e\u0eb7\u0ead\u0ec2\u0e95 \u0ea3\u0eb4\u0ec2\u0e81",
+        "lt": "Puerto Rikas",
+        "dz": "\u0f54\u0f74\u0f0b\u0f60\u0f7a\u0f62\u0f0b\u0f4a\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f41\u0f7c",
+        "ln": "P\u0254toriko",
+        "hr": "Portoriko",
+        "sw": "Puetoriko",
+        "ks": "\u067e\u0654\u0631\u0679\u0648 \u0631\u0650\u06a9\u0648",
+        "sv": "Puerto Rico",
+        "pl": "Portoryko",
+        "nb": "Puerto Rico",
+        "sh": "Portoriko",
+        "lu": "Mpotoriku",
+        "nl": "Puerto Rico",
+        "ky": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "bn": "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b0\u09bf\u0995\u09cb",
+        "sd": "\u067e\u064a\u0648\u0626\u0631\u067d\u0648 \u0631\u064a\u06aa\u0648",
+        "fa": "\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648",
+        "gd": "Porto R\u00ecceo",
+        "cs": "Portoriko",
+        "tk": "Puerto-Riko",
+        "eo": "Puerto-Riko",
+        "mt": "Puerto Rico",
+        "sr": "Portoriko",
+        "wo": "Porto Riko",
+        "el": "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u03a1\u03af\u03ba\u03bf",
+        "sn": "Puerto Rico",
+        "pt": "Porto Rico",
+        "yi": "\u05e4\u05bc\u05d0\u05e8\u05d8\u05d0\u05be\u05e8\u05d9\u05e7\u05d0",
+        "is": "P\u00faert\u00f3 R\u00edk\u00f3",
+        "ta": "\u0baa\u0bbf\u0baf\u0bc2\u0bb0\u0bcd\u0b9f\u0bcb \u0bb0\u0bbf\u0b95\u0bcb",
+        "br": "Puerto Rico",
+        "hu": "Puerto Rico",
+        "et": "Puerto Rico",
+        "ku": "Porto R\u00eeko",
+        "sk": "Portoriko",
+        "te": "\u0c2a\u0c4d\u0c2f\u0c42\u0c30\u0c4d\u0c1f\u0c4b \u0c30\u0c3f\u0c15\u0c4b",
+        "ro": "Puerto Rico",
+        "ki": "Pwetoriko",
+        "ak": "Pu\u025bto Riko",
+        "tg": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "ml": "\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4b \u0d31\u0d3f\u0d15\u0d4d\u0d15\u0d4b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de P\u0254to Riko",
+        "de": "Puerto Rico",
+        "as": "\u09aa\u09c1\u09f1\u09c7\u09f0\u09cd\u099f\u09cb \u09f0\u09bf\u0995\u09cb",
+        "am": "\u1356\u122d\u1273 \u122a\u12ae",
+        "se": "Puerto Rico",
+        "ti": "\u1356\u122d\u1273 \u122a\u12ae",
+        "ru": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "ga": "P\u00f3rt\u00f3 R\u00edce",
+        "bg": "\u041f\u0443\u0435\u0440\u0442\u043e \u0420\u0438\u043a\u043e",
+        "my": "\u1015\u1031\u102b\u103a\u1010\u102d\u102f\u101b\u102e\u1000\u102d\u102f",
+        "fy": "Puerto Rico",
+        "bm": "P\u0254rotoriko",
+        "gu": "\u0aaa\u0acd\u0aaf\u0ac1\u0a85\u0ab0\u0acd\u0a9f\u0acb \u0ab0\u0abf\u0a95\u0acb",
+        "uz": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "cy": "Puerto Rico",
+        "ug": "\u067e\u06c7\u0626\u06d0\u0631\u062a\u0648 \u0631\u0649\u0643\u0648",
+        "nn": "Puerto Rico",
+        "uk": "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0456\u043a\u043e",
+        "qu": "Puerto Rico",
+        "tl": "Puerto Rico",
+        "ms": "Puerto Rico",
+        "so": "Bueerto Riiko",
+        "da": "Puerto Rico",
+        "tt": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "af": "Puerto Rico",
+        "ha": "Porto Riko",
+        "iw": "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05e8\u05d9\u05e7\u05d5",
+        "ee": "Puerto Riko nutome",
+        "in": "Puerto Riko",
+        "to": "Pu\u0113to Liko",
+        "sl": "Portoriko",
+        "sg": "Porto R\u00eeko",
+        "lb": "Puerto Rico",
+        "fo": "Puerto Riko",
+        "mn": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "id": "Puerto Riko",
+        "pa": "\u0a2a\u0a3f\u0a0a\u0a30\u0a1f\u0a4b \u0a30\u0a3f\u0a15\u0a4b",
+        "ka": "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10e0\u10d8\u10d9\u10dd",
+        "nd": "Puerto Rico"
     },
-    "ISO3166-2": {
-        "001": {
-            "name": "Adjuntas",
-            "code": "001",
-            "names": {
-                "geonames": "Adjuntas",
-                "en": "Adjuntas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "003": {
-            "name": "Aguada",
-            "code": "003",
-            "names": {
-                "geonames": "Aguada",
-                "en": "Aguada"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "005": {
-            "name": "Aguadilla",
-            "code": "005",
-            "names": {
-                "geonames": "Aguadilla",
-                "en": "Aguadilla"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "007": {
-            "name": "Aguas Buenas",
-            "code": "007",
-            "names": {
-                "geonames": "Aguas Buenas",
-                "en": "Aguas Buenas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "009": {
-            "name": "Aibonito",
-            "code": "009",
-            "names": {
-                "geonames": "Aibonito",
-                "en": "Aibonito"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "011": {
-            "name": "Anasco",
-            "code": "011",
-            "names": {
-                "geonames": "Anasco",
-                "en": "Anasco"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "013": {
-            "name": "Arecibo",
-            "code": "013",
-            "names": {
-                "geonames": "Arecibo",
-                "en": "Arecibo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "015": {
-            "name": "Arroyo",
-            "code": "015",
-            "names": {
-                "geonames": "Arroyo",
-                "en": "Arroyo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "017": {
-            "name": "Barceloneta",
-            "code": "017",
-            "names": {
-                "geonames": "Barceloneta",
-                "en": "Barceloneta"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "019": {
-            "name": "Barranquitas",
-            "code": "019",
-            "names": {
-                "geonames": "Barranquitas",
-                "en": "Barranquitas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "": {
-            "name": "Bayamon",
-            "code": "",
-            "names": {
-                "geonames": "Bayamon",
-                "en": "Bayamon"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "023": {
-            "name": "Cabo Rojo",
-            "code": "023",
-            "names": {
-                "geonames": "Cabo Rojo",
-                "en": "Cabo Rojo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "025": {
-            "name": "Caguas",
-            "code": "025",
-            "names": {
-                "geonames": "Caguas",
-                "en": "Caguas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "027": {
-            "name": "Camuy",
-            "code": "027",
-            "names": {
-                "geonames": "Camuy",
-                "en": "Camuy"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "029": {
-            "name": "Canovanas",
-            "code": "029",
-            "names": {
-                "geonames": "Canovanas",
-                "en": "Canovanas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "031": {
-            "name": "Carolina",
-            "code": "031",
-            "names": {
-                "geonames": "Carolina",
-                "en": "Carolina"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "033": {
-            "name": "Catano",
-            "code": "033",
-            "names": {
-                "geonames": "Catano",
-                "en": "Catano"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "035": {
-            "name": "Cayey",
-            "code": "035",
-            "names": {
-                "geonames": "Cayey",
-                "en": "Cayey"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "037": {
-            "name": "Ceiba",
-            "code": "037",
-            "names": {
-                "geonames": "Ceiba",
-                "en": "Ceiba"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "039": {
-            "name": "Ciales",
-            "code": "039",
-            "names": {
-                "geonames": "Ciales",
-                "en": "Ciales"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "041": {
-            "name": "Cidra",
-            "code": "041",
-            "names": {
-                "geonames": "Cidra",
-                "en": "Cidra"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "043": {
-            "name": "Coamo",
-            "code": "043",
-            "names": {
-                "geonames": "Coamo",
-                "en": "Coamo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "045": {
-            "name": "Comerio",
-            "code": "045",
-            "names": {
-                "geonames": "Comerio",
-                "en": "Comerio"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "047": {
-            "name": "Corozal",
-            "code": "047",
-            "names": {
-                "geonames": "Corozal",
-                "en": "Corozal"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "049": {
-            "name": "Culebra",
-            "code": "049",
-            "names": {
-                "geonames": "Culebra",
-                "en": "Culebra"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "051": {
-            "name": "Dorado",
-            "code": "051",
-            "names": {
-                "geonames": "Dorado",
-                "en": "Dorado"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "053": {
-            "name": "Fajardo",
-            "code": "053",
-            "names": {
-                "geonames": "Fajardo",
-                "en": "Fajardo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "054": {
-            "name": "Florida",
-            "code": "054",
-            "names": {
-                "geonames": "Florida",
-                "en": "Florida"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "055": {
-            "name": "Guanica",
-            "code": "055",
-            "names": {
-                "geonames": "Guanica",
-                "en": "Guanica"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "057": {
-            "name": "Guayama",
-            "code": "057",
-            "names": {
-                "geonames": "Guayama",
-                "en": "Guayama"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "059": {
-            "name": "Guayanilla",
-            "code": "059",
-            "names": {
-                "geonames": "Guayanilla",
-                "en": "Guayanilla"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "061": {
-            "name": "Guaynabo",
-            "code": "061",
-            "names": {
-                "geonames": "Guaynabo",
-                "en": "Guaynabo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "063": {
-            "name": "Gurabo",
-            "code": "063",
-            "names": {
-                "geonames": "Gurabo",
-                "en": "Gurabo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "065": {
-            "name": "Hatillo",
-            "code": "065",
-            "names": {
-                "geonames": "Hatillo",
-                "en": "Hatillo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "067": {
-            "name": "Hormigueros",
-            "code": "067",
-            "names": {
-                "geonames": "Hormigueros",
-                "en": "Hormigueros"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "069": {
-            "name": "Humacao",
-            "code": "069",
-            "names": {
-                "geonames": "Humacao",
-                "en": "Humacao"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "071": {
-            "name": "Isabela",
-            "code": "071",
-            "names": {
-                "geonames": "Isabela",
-                "en": "Isabela"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "073": {
-            "name": "Municipio de Jayuya",
-            "code": "073",
-            "names": {
-                "geonames": "Municipio de Jayuya",
-                "en": "Municipio de Jayuya"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "075": {
-            "name": "Juana Diaz",
-            "code": "075",
-            "names": {
-                "geonames": "Juana Diaz",
-                "en": "Juana Diaz"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "077": {
-            "name": "Municipio de Juncos",
-            "code": "077",
-            "names": {
-                "geonames": "Municipio de Juncos",
-                "en": "Municipio de Juncos"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "079": {
-            "name": "Lajas",
-            "code": "079",
-            "names": {
-                "geonames": "Lajas",
-                "en": "Lajas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "081": {
-            "name": "Lares",
-            "code": "081",
-            "names": {
-                "geonames": "Lares",
-                "en": "Lares"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "083": {
-            "name": "Las Marias",
-            "code": "083",
-            "names": {
-                "geonames": "Las Marias",
-                "en": "Las Marias"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "085": {
-            "name": "Las Piedras",
-            "code": "085",
-            "names": {
-                "geonames": "Las Piedras",
-                "en": "Las Piedras"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "087": {
-            "name": "Loiza",
-            "code": "087",
-            "names": {
-                "geonames": "Loiza",
-                "en": "Loiza"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "089": {
-            "name": "Luquillo",
-            "code": "089",
-            "names": {
-                "geonames": "Luquillo",
-                "en": "Luquillo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "091": {
-            "name": "Manati",
-            "code": "091",
-            "names": {
-                "geonames": "Manati",
-                "en": "Manati"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "093": {
-            "name": "Maricao",
-            "code": "093",
-            "names": {
-                "geonames": "Maricao",
-                "en": "Maricao"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "095": {
-            "name": "Maunabo",
-            "code": "095",
-            "names": {
-                "geonames": "Maunabo",
-                "en": "Maunabo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "097": {
-            "name": "Mayaguez",
-            "code": "097",
-            "names": {
-                "geonames": "Mayaguez",
-                "en": "Mayaguez"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "099": {
-            "name": "Moca",
-            "code": "099",
-            "names": {
-                "geonames": "Moca",
-                "en": "Moca"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "101": {
-            "name": "Morovis",
-            "code": "101",
-            "names": {
-                "geonames": "Morovis",
-                "en": "Morovis"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "103": {
-            "name": "Naguabo",
-            "code": "103",
-            "names": {
-                "geonames": "Naguabo",
-                "en": "Naguabo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "105": {
-            "name": "Naranjito",
-            "code": "105",
-            "names": {
-                "geonames": "Naranjito",
-                "en": "Naranjito"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "107": {
-            "name": "Orocovis",
-            "code": "107",
-            "names": {
-                "geonames": "Orocovis",
-                "en": "Orocovis"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "109": {
-            "name": "Patillas",
-            "code": "109",
-            "names": {
-                "geonames": "Patillas",
-                "en": "Patillas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "111": {
-            "name": "Penuelas",
-            "code": "111",
-            "names": {
-                "geonames": "Penuelas",
-                "en": "Penuelas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "113": {
-            "name": "Ponce",
-            "code": "113",
-            "names": {
-                "geonames": "Ponce",
-                "en": "Ponce"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "117": {
-            "name": "Rincon",
-            "code": "117",
-            "names": {
-                "geonames": "Rincon",
-                "en": "Rincon"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "115": {
-            "name": "Quebradillas",
-            "code": "115",
-            "names": {
-                "geonames": "Quebradillas",
-                "en": "Quebradillas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "119": {
-            "name": "Rio Grande",
-            "code": "119",
-            "names": {
-                "geonames": "Rio Grande",
-                "en": "Rio Grande"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "121": {
-            "name": "Sabana Grande",
-            "code": "121",
-            "names": {
-                "geonames": "Sabana Grande",
-                "en": "Sabana Grande"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "123": {
-            "name": "Salinas",
-            "code": "123",
-            "names": {
-                "geonames": "Salinas",
-                "en": "Salinas"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "125": {
-            "name": "San German",
-            "code": "125",
-            "names": {
-                "geonames": "San German",
-                "en": "San German"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "127": {
-            "name": "San Juan",
-            "code": "127",
-            "names": {
-                "geonames": "San Juan",
-                "en": "San Juan"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "129": {
-            "name": "San Lorenzo",
-            "code": "129",
-            "names": {
-                "geonames": "San Lorenzo",
-                "en": "San Lorenzo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "131": {
-            "name": "San Sebastian",
-            "code": "131",
-            "names": {
-                "geonames": "San Sebastian",
-                "en": "San Sebastian"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "133": {
-            "name": "Santa Isabel Municipio",
-            "code": "133",
-            "names": {
-                "geonames": "Santa Isabel Municipio",
-                "en": "Santa Isabel Municipio"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "135": {
-            "name": "Toa Alta",
-            "code": "135",
-            "names": {
-                "geonames": "Toa Alta",
-                "en": "Toa Alta"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "137": {
-            "name": "Toa Baja",
-            "code": "137",
-            "names": {
-                "geonames": "Toa Baja",
-                "en": "Toa Baja"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "139": {
-            "name": "Trujillo Alto",
-            "code": "139",
-            "names": {
-                "geonames": "Trujillo Alto",
-                "en": "Trujillo Alto"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "141": {
-            "name": "Utuado",
-            "code": "141",
-            "names": {
-                "geonames": "Utuado",
-                "en": "Utuado"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "143": {
-            "name": "Vega Alta",
-            "code": "143",
-            "names": {
-                "geonames": "Vega Alta",
-                "en": "Vega Alta"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "145": {
-            "name": "Vega Baja",
-            "code": "145",
-            "names": {
-                "geonames": "Vega Baja",
-                "en": "Vega Baja"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "149": {
-            "name": "Villalba",
-            "code": "149",
-            "names": {
-                "geonames": "Villalba",
-                "en": "Villalba"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "151": {
-            "name": "Yabucoa",
-            "code": "151",
-            "names": {
-                "geonames": "Yabucoa",
-                "en": "Yabucoa"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "153": {
-            "name": "Yauco",
-            "code": "153",
-            "names": {
-                "geonames": "Yauco",
-                "en": "Yauco"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "147": {
-            "name": "Vieques",
-            "code": "147",
-            "names": {
-                "geonames": "Vieques",
-                "en": "Vieques"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        }
-    }
+    "3166-2": []
 }

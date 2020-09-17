@@ -1,1209 +1,474 @@
 {
     "alpha-2": "MT",
     "alpha-3": "MLT",
-    "numeric": 470,
-    "capital": "Valletta",
-    "currency": "EUR",
-    "languages": [
-        "mt",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf2\ud83c\uddf9",
+    "numeric": "470",
     "names": {
-        "geonames": "Malta",
         "en": "Malta",
-        "ar": "\u0645\u0627\u0644\u0637\u0627",
-        "de": "Malta",
-        "es": "Malta",
         "fr": "Malte",
-        "it": "Malta",
-        "ru": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "ur": "\u0645\u0627\u0644\u0679\u0627",
+        "rn": "Malita",
+        "lv": "Malta",
+        "hy": "\u0544\u0561\u056c\u0569\u0561",
+        "sq": "Malt\u00eb",
+        "jv": "Malta",
+        "or": "\u0b2e\u0b3e\u0b32\u0b4d\u0b1f\u0b3e",
+        "mg": "Malta",
+        "no": "Malta",
         "zh": "\u9a6c\u8033\u4ed6",
-        "he": "\u05de\u05dc\u05d8\u05d4",
-        "hi": "\u092e\u093e\u0932\u094d\u091f\u093e",
+        "tr": "Malta",
+        "bs": "Malta",
         "ja": "\u30de\u30eb\u30bf",
-        "pt": "Malta"
+        "th": "\u0e21\u0e2d\u0e25\u0e15\u0e32",
+        "he": "\u05de\u05dc\u05d8\u05d4",
+        "fa": "\u0645\u0627\u0644\u062a",
+        "kk": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "mo": "Malta",
+        "ff": "Malte",
+        "ca": "Malta",
+        "ar": "\u0645\u0627\u0644\u0637\u0627",
+        "eu": "Malta",
+        "ps": "\u0645\u0627\u0644\u067c\u0627",
+        "kn": "\u0cae\u0cbe\u0cb2\u0ccd\u0c9f\u0cbe",
+        "si": "\u0db8\u0ddd\u0dbd\u0dca\u0da7\u0dcf\u0dc0",
+        "km": "\u1798\u17c9\u17b6\u179b\u17cb\u178f\u17cd",
+        "ne": "\u092e\u093e\u0932\u094d\u091f\u093e",
+        "fi": "Malta",
+        "hi": "\u092e\u093e\u0932\u094d\u091f\u093e",
+        "rm": "Malta",
+        "vi": "Malta",
+        "gl": "Malta",
+        "ig": "Malta",
+        "mr": "\u092e\u093e\u0932\u094d\u091f\u093e",
+        "es": "Malta",
+        "be": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "lg": "Malita",
+        "az": "\u041c\u0430\u043b\u0442\u0430",
+        "ce": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "mk": "\u041c\u0430\u043b\u0442\u0430",
+        "zu": "i-Malta",
+        "it": "Malta",
+        "ko": "\ubab0\ud0c0",
+        "lo": "\u0ea1\u0ead\u0e99\u0e97\u0eb2",
+        "lt": "Malta",
+        "dz": "\u0f58\u0f71\u0f63\u0f0b\u0f4a",
+        "ln": "Malit\u025b",
+        "hr": "Malta",
+        "ks": "\u0645\u0627\u0644\u0679\u0627",
+        "sv": "Malta",
+        "pl": "Malta",
+        "nb": "Malta",
+        "sh": "Malta",
+        "lu": "Malite",
+        "nl": "Malta",
+        "ky": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "bn": "\u09ae\u09be\u09b2\u09cd\u099f\u09be",
+        "sd": "\u0645\u0627\u0644\u067d\u0627",
+        "gd": "Malta",
+        "cs": "Malta",
+        "tk": "Malta",
+        "eo": "Malto",
+        "mt": "Malta",
+        "sr": "Malta",
+        "wo": "Malt",
+        "el": "\u039c\u03ac\u03bb\u03c4\u03b1",
+        "sn": "Malta",
+        "pt": "Malta",
+        "yi": "\u05de\u05d0\u05b7\u05dc\u05d8\u05d0\u05b7",
+        "is": "Malta",
+        "ta": "\u0bae\u0bbe\u0bb2\u0bcd\u0b9f\u0bbe",
+        "br": "Malta",
+        "hu": "M\u00e1lta",
+        "et": "Malta",
+        "ku": "Malta",
+        "sk": "Malta",
+        "sw": "Malta",
+        "te": "\u0c2e\u0c3e\u0c32\u0c4d\u0c1f\u0c3e",
+        "ro": "Malta",
+        "ki": "Malta",
+        "ak": "M\u0254lta",
+        "tg": "\u041c\u0430\u043b\u0442\u0430",
+        "ml": "\u0d2e\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Malata",
+        "de": "Malta",
+        "as": "\u09ae\u09be\u09b2\u09cd\u099f\u09be",
+        "am": "\u121b\u120d\u1273",
+        "se": "M\u00e1lta",
+        "ia": "Malta",
+        "ti": "\u121b\u120d\u1273",
+        "ru": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "ga": "M\u00e1lta",
+        "bg": "\u041c\u0430\u043b\u0442\u0430",
+        "my": "\u1019\u1031\u102c\u101c\u103a\u1010\u102c",
+        "fy": "Malta",
+        "bm": "Malti",
+        "gu": "\u0aae\u0abe\u0ab2\u0acd\u0a9f\u0abe",
+        "uz": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "cy": "Malta",
+        "ug": "\u0645\u0627\u0644\u062a\u0627",
+        "nn": "Malta",
+        "uk": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "qu": "Malta",
+        "tl": "Malta",
+        "ms": "Malta",
+        "so": "Maalta",
+        "da": "Malta",
+        "tt": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "af": "Malta",
+        "ha": "Malta",
+        "iw": "\u05de\u05dc\u05d8\u05d4",
+        "ee": "Malta nutome",
+        "in": "Malta",
+        "to": "Malita",
+        "sl": "Malta",
+        "sg": "M\u00e2lta",
+        "lb": "Malta",
+        "fo": "Malta",
+        "mn": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "id": "Malta",
+        "pa": "\u0a2e\u0a3e\u0a32\u0a1f\u0a3e",
+        "ka": "\u10db\u10d0\u10da\u10e2\u10d0",
+        "nd": "Malta"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Attard",
-            "code": "01",
-            "names": {
-                "geonames": "Attard",
-                "ru": "\u0410\u0442\u0442\u0430\u0440\u0434",
-                "en": "Attard",
-                "ar": "\u0639\u0637\u0627\u0631",
-                "de": "Attard",
-                "es": "Attard",
-                "fr": "\u0126'Attard",
-                "it": "Attard",
-                "zh": "\u963f\u5854\u723e\u5fb7"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8879888,
-            "lng": 14.442607800000019
-        },
-        "02": {
-            "name": "Balzan",
-            "code": "02",
-            "names": {
-                "geonames": "Balzan",
-                "ru": "\u0411\u0430\u043b\u044c\u0446\u0430\u043d",
-                "en": "Balzan",
-                "de": "Balzan",
-                "es": "Balzan",
-                "fr": "\u0126al Balzan",
-                "it": "Balzan"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8731516,
-            "lng": 14.439720699999953
-        },
-        "03": {
-            "name": "Birgu",
-            "code": "03",
-            "names": {
-                "geonames": "Il-Birgu",
-                "ru": "\u0411\u0438\u0440\u0433\u0443",
-                "en": "Birgu",
-                "ar": "\u0628\u064a\u0631\u062c\u0648",
-                "de": "Vittoriosa",
-                "es": "Birgu",
-                "fr": "Birgu",
-                "it": "Vittoriosa",
-                "zh": "\u6bd4\u5c14\u53e4"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8888398,
-            "lng": 14.520091500000035
-        },
-        "04": {
-            "name": "Birkirkara",
-            "code": "04",
-            "names": {
-                "geonames": "Birkirkara",
-                "ru": "\u0411\u0438\u0440\u043a\u0438\u0440\u043a\u0430\u0440\u0430",
-                "en": "Birkirkara",
-                "ar": "\u0628\u064a\u0631\u0643\u064a\u0631\u0643\u0627\u0631\u0627",
-                "de": "Birkirkara",
-                "es": "Birkirkara",
-                "fr": "Birkirkara",
-                "it": "Birchircara",
-                "zh": "\u6bd4\u723e\u57fa\u5361\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8950606,
-            "lng": 14.463049899999987
-        },
-        "05": {
-            "name": "Bir\u017cebbu\u0121a",
-            "code": "05",
-            "names": {
-                "geonames": "Birzebbuga",
-                "ru": "\u0411\u0438\u0440\u0437\u0435\u0431\u0431\u0443\u0434\u0436\u0430",
-                "en": "Bir\u017cebbu\u0121a",
-                "de": "Bir\u017cebbu\u0121a",
-                "es": "Bir\u017cebbu\u0121a",
-                "fr": "Bir\u017cebbu\u0121a",
-                "it": "Birzebbugia",
-                "zh": "\u6bd4\u5c14\u6cfd\u5e03\u8d3e"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8304915,
-            "lng": 14.530126999999993
-        },
-        "06": {
-            "name": "Cospicua",
-            "code": "06",
-            "names": {
-                "geonames": "Bormla",
-                "ru": "\u0411\u043e\u0440\u043c\u043b\u0430",
-                "en": "Cospicua",
-                "ar": "\u0643\u0648\u0633\u0628\u064a\u0643\u0648",
-                "de": "Cospicua",
-                "es": "Bormla",
-                "fr": "Bormla",
-                "it": "Cospicua",
-                "zh": "\u79d1\u65af\u76ae\u5938"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8743537,
-            "lng": 14.522833999999989
-        },
-        "07": {
-            "name": "Dingli",
-            "code": "07",
-            "names": {
-                "geonames": "Dingli",
-                "ru": "\u0414\u0438\u043d\u0433\u043b\u0438",
-                "en": "Dingli",
-                "de": "Dingli",
-                "es": "Dingli",
-                "fr": "\u0126ad-Dingli",
-                "it": "Dingli"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8563889,
-            "lng": 14.383055600000034
-        },
-        "08": {
-            "name": "Fgura",
-            "code": "08",
-            "names": {
-                "geonames": "Il-Fgura",
-                "ru": "\u0424\u0433\u0443\u0440\u0430",
-                "en": "Fgura",
-                "de": "Fgura",
-                "es": "Fgura",
-                "fr": "Fgura",
-                "it": "Figura",
-                "zh": "\u5f17\u53e4\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8730542,
-            "lng": 14.520880199999965
-        },
-        "09": {
-            "name": "Floriana",
-            "code": "09",
-            "names": {
-                "geonames": "Il-Furjana",
-                "ru": "\u0424\u043b\u043e\u0440\u0438\u0430\u043d\u0430",
-                "en": "Floriana",
-                "de": "Floriana",
-                "es": "Floriana",
-                "fr": "Floriana",
-                "it": "Floriana"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9040895,
-            "lng": 14.488814999999931
-        },
-        "10": {
-            "name": "Fontana, Gozo",
-            "code": "10",
-            "names": {
-                "geonames": "Il-Fontana",
-                "ru": "\u0424\u043e\u043d\u0442\u0430\u043d\u0430",
-                "en": "Fontana",
-                "de": "Fontana",
-                "es": "Fontana",
-                "fr": "Fontana",
-                "it": "Fontana"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 30.527739,
-            "lng": -99.85257590000003
-        },
-        "11": {
-            "name": "Gudja",
-            "code": "11",
-            "names": {
-                "geonames": "Il-Gudja",
-                "ru": "\u0413\u0443\u0434\u044c\u044f",
-                "en": "Gudja",
-                "de": "Gudja",
-                "es": "Gudja",
-                "fr": "Gudja",
-                "it": "Gudia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8512182,
-            "lng": 14.502057100000002
-        },
-        "12": {
-            "name": "G\u017cira",
-            "code": "12",
-            "names": {
-                "geonames": "Il-Gzira",
-                "ru": "\u0413\u0437\u0438\u0440\u0430",
-                "en": "G\u017cira",
-                "de": "G\u017cira",
-                "es": "G\u017cira",
-                "fr": "G\u017cira",
-                "it": "Gezira",
-                "zh": "\u683c\u9f4a\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9037636,
-            "lng": 14.502175999999963
-        },
-        "13": {
-            "name": "G\u0127ajnsielem",
-            "code": "13",
-            "names": {
-                "geonames": "Ghajnsielem",
-                "ru": "\u0410\u0439\u043d\u0441\u0438\u043b\u0435\u043c",
-                "en": "G\u0127ajnsielem",
-                "de": "G\u0127ajnsielem",
-                "es": "G\u0127ajnsielem",
-                "fr": "G\u0127ajnsielem",
-                "it": "G\u0127ajnsielem"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0265491,
-            "lng": 14.289838700000018
-        },
-        "14": {
-            "name": "G\u0127arb",
-            "code": "14",
-            "names": {
-                "geonames": "L-Gharb",
-                "ru": "\u0410\u0440\u0431",
-                "en": "G\u0127arb",
-                "de": "G\u0127arb",
-                "es": "G\u0127arb",
-                "fr": "G\u0127arb",
-                "it": "Garbo"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.060097,
-            "lng": 14.208884000000012
-        },
-        "15": {
-            "name": "G\u0127arg\u0127ur",
-            "code": "15",
-            "names": {
-                "geonames": "Hal Gharghur",
-                "ru": "\u0413\u0430\u0440\u0433\u0443\u0440",
-                "en": "G\u0127arg\u0127ur",
-                "de": "G\u0127arg\u0127ur",
-                "es": "G\u0127arg\u0127ur",
-                "fr": "G\u0127arg\u0127ur",
-                "it": "Gargur"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9239442,
-            "lng": 14.45175560000007
-        },
-        "16": {
-            "name": "G\u0127asri",
-            "code": "16",
-            "names": {
-                "geonames": "L-Ghasri",
-                "ru": "\u0410\u0441\u0440\u0438",
-                "en": "G\u0127asri",
-                "de": "G\u0127asri",
-                "es": "G\u0127asri",
-                "fr": "G\u0127asri",
-                "it": "G\u0127asri"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0795327,
-            "lng": 14.22965529999999
-        },
-        "17": {
-            "name": "G\u0127axaq",
-            "code": "17",
-            "names": {
-                "geonames": "Hal Ghaxaq",
-                "ru": "\u0410\u0448\u0430\u043a",
-                "en": "G\u0127axaq",
-                "de": "G\u0127axaq",
-                "es": "G\u0127axaq",
-                "fr": "G\u0127axaq",
-                "it": "Asciac"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8479444,
-            "lng": 14.5189838
-        },
-        "18": {
-            "name": "\u0126amrun",
-            "code": "18",
-            "names": {
-                "geonames": "Il-Hamrun",
-                "ru": "\u0425\u0430\u043c\u0440\u0443\u043d",
-                "en": "\u0126amrun",
-                "de": "\u0126amrun",
-                "es": "\u0126amrun",
-                "fr": "\u0126amrun",
-                "it": "\u0126amrun",
-                "zh": "\u54c8\u59c6\u502b"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8884784,
-            "lng": 14.488611600000013
-        },
-        "19": {
-            "name": "Iklin",
-            "code": "19",
-            "names": {
-                "geonames": "L-Iklin",
-                "ru": "\u0418\u043a\u043b\u0438\u043d",
-                "en": "Iklin",
-                "de": "Iklin",
-                "es": "Iklin",
-                "fr": "Iklin",
-                "it": "L'Iclin"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8504373,
-            "lng": 14.512087500000007
-        },
-        "20": {
-            "name": "Senglea",
-            "code": "20",
-            "names": {
-                "geonames": "L-Isla",
-                "ru": "\u0421\u0435\u043d\u0433\u043b\u0435\u0430",
-                "en": "Senglea",
-                "ar": "\u0633\u0646\u062c\u0644\u064a\u0627",
-                "de": "Senglea",
-                "es": "Senglea",
-                "fr": "Isla",
-                "it": "Senglea",
-                "zh": "\u68ee\u683c\u840a\u963f"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8877284,
-            "lng": 14.515975799999978
-        },
-        "21": {
-            "name": "Kalkara",
-            "code": "21",
-            "names": {
-                "geonames": "Il-Kalkara",
-                "ru": "\u041a\u0430\u043b\u044c\u043a\u0430\u0440\u0430",
-                "en": "Kalkara",
-                "de": "Kalkara",
-                "es": "Kalkara",
-                "fr": "Kalkara",
-                "it": "Calcara"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0261756,
-            "lng": 14.235067299999969
-        },
-        "22": {
-            "name": "Ker\u010bem",
-            "code": "22",
-            "names": {
-                "geonames": "Ta' Kercem",
-                "ru": "\u041a\u0435\u0440\u0447\u0435\u043c",
-                "en": "Ker\u010bem",
-                "de": "Ker\u010bem",
-                "es": "Ker\u010bem",
-                "fr": "Ker\u010bem",
-                "it": "Ker\u010bem"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.042495,
-            "lng": 14.230332599999997
-        },
-        "23": {
-            "name": "\u0126al Kirkop",
-            "code": "23",
-            "names": {
-                "geonames": "Kirkop",
-                "ru": "\u041a\u0438\u0440\u043a\u043e\u043f",
-                "en": "\u0126al Kirkop",
-                "de": "Kirkop",
-                "es": "Kirkop",
-                "fr": "Kirkop",
-                "it": "Chircop"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8420134,
-            "lng": 14.485034199999973
-        },
-        "24": {
-            "name": "Lija",
-            "code": "24",
-            "names": {
-                "geonames": "Lija",
-                "ru": "\u041b\u0438\u044f",
-                "en": "Lija",
-                "de": "Lija",
-                "es": "Lija",
-                "fr": "\u0126al Lija",
-                "it": "Lia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.901996,
-            "lng": 14.448781999999937
-        },
-        "25": {
-            "name": "Luqa",
-            "code": "25",
-            "names": {
-                "geonames": "Luqa",
-                "ru": "\u041b\u0443\u043a\u0430",
-                "en": "Luqa",
-                "de": "Luqa",
-                "es": "Luqa",
-                "fr": "Luqa",
-                "it": "Luca",
-                "zh": "\u76e7\u52a0"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.849777,
-            "lng": 14.495401000000015
-        },
-        "26": {
-            "name": "Marsa, Malta",
-            "code": "26",
-            "names": {
-                "geonames": "Il-Marsa",
-                "ru": "\u041c\u0430\u0440\u0441\u0430",
-                "en": "Marsa",
-                "de": "Marsa",
-                "es": "Marsa",
-                "fr": "Marsa",
-                "it": "Marsa",
-                "zh": "\u99ac\u723e\u85a9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8812303,
-            "lng": 14.49145539999995
-        },
-        "27": {
-            "name": "Marsaskala",
-            "code": "27",
-            "names": {
-                "geonames": "Marsaskala",
-                "ru": "\u041c\u0430\u0440\u0441\u0430\u0441\u043a\u0430\u043b\u0430",
-                "en": "Marsaskala",
-                "de": "Marsaskala",
-                "es": "Marsaskala",
-                "fr": "Marsaskala",
-                "it": "Marsascala",
-                "zh": "\u99ac\u723e\u85a9\u65af\u5361\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8658707,
-            "lng": 14.564163199999939
-        },
-        "28": {
-            "name": "Marsaxlokk",
-            "code": "28",
-            "names": {
-                "geonames": "Marsaxlokk",
-                "ru": "\u041c\u0430\u0440\u0441\u0430\u0448\u043b\u043e\u043a\u043a",
-                "en": "Marsaxlokk",
-                "de": "Marsaxlokk",
-                "es": "Marsaxlokk",
-                "fr": "Marsaxlokk",
-                "it": "Marsa Scirocco"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8514918,
-            "lng": 14.531830899999932
-        },
-        "29": {
-            "name": "Mdina",
-            "code": "29",
-            "names": {
-                "geonames": "L-Imdina",
-                "ru": "\u041c\u0434\u0438\u043d\u0430",
-                "en": "Mdina",
-                "ar": "\u0645\u062f\u064a\u0646\u0629",
-                "de": "Mdina",
-                "es": "Mdina",
-                "fr": "Mdina",
-                "it": "Medina",
-                "zh": "\u59c6\u8fea\u7eb3"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8568657,
-            "lng": 14.438607400000024
-        },
-        "30": {
-            "name": "Mellie\u0127a",
-            "code": "30",
-            "names": {
-                "geonames": "Il-Mellieha",
-                "ru": "\u041c\u0435\u043b\u043b\u0438\u0435\u0445\u0430",
-                "en": "Mellie\u0127a",
-                "ar": "\u0645\u0644\u064a\u062d\u0629",
-                "de": "Mellie\u0127a",
-                "es": "Mellie\u0127a",
-                "fr": "Mellie\u0127a",
-                "it": "Mellie\u0127a",
-                "zh": "\u6885\u5229\u54c8"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9554241,
-            "lng": 14.365363000000002
-        },
-        "31": {
-            "name": "M\u0121arr",
-            "code": "31",
-            "names": {
-                "geonames": "L-Imgarr",
-                "ru": "\u041c\u0434\u0436\u0430\u0440\u0440",
-                "en": "M\u0121arr",
-                "ar": "\u0645\u063a\u0627\u0631",
-                "de": "M\u0121arr",
-                "es": "M\u0121arr",
-                "fr": "M\u0121arr",
-                "it": "Mugiarro"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9194694,
-            "lng": 14.366321599999992
-        },
-        "32": {
-            "name": "Mosta",
-            "code": "32",
-            "names": {
-                "geonames": "Il-Mosta",
-                "ru": "\u041c\u043e\u0441\u0442\u0430",
-                "en": "Mosta",
-                "de": "Mosta",
-                "es": "Mosta",
-                "fr": "Mosta",
-                "it": "Musta",
-                "zh": "\u83ab\u65af\u5854"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.909817,
-            "lng": 14.425944999999956
-        },
-        "33": {
-            "name": "Mqabba",
-            "code": "33",
-            "names": {
-                "geonames": "L-Imqabba",
-                "ru": "\u041c\u043a\u0430\u0431\u0431\u0430",
-                "en": "Mqabba",
-                "de": "Mqabba",
-                "es": "Mqabba",
-                "fr": "Mqabba",
-                "it": "Micabba"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8472885,
-            "lng": 14.453591299999971
-        },
-        "34": {
-            "name": "Msida",
-            "code": "34",
-            "names": {
-                "geonames": "L-Imsida",
-                "ru": "\u041c\u0441\u0438\u0434\u0430",
-                "en": "Msida",
-                "de": "Msida",
-                "es": "Msida",
-                "fr": "Msida",
-                "it": "Msida",
-                "zh": "\u59c6\u897f\u9054"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8997993,
-            "lng": 14.486613900000066
-        },
-        "35": {
-            "name": "Imtarfa",
-            "code": "35",
-            "names": {
-                "geonames": "L-Imtarfa",
-                "ru": "\u041c\u0442\u0430\u0440\u0444\u0430",
-                "en": "Imtarfa",
-                "ar": "\u0627\u0644\u0645\u0637\u0631\u0641\u0629",
-                "de": "Mtarfa",
-                "es": "Mtarfa",
-                "fr": "Mtarfa",
-                "it": "Marfa"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8907135,
-            "lng": 14.397900199999981
-        },
-        "36": {
-            "name": "Munxar",
-            "code": "36",
-            "names": {
-                "geonames": "Il-Munxar",
-                "ru": "\u041c\u0443\u043d\u0448\u0430\u0440",
-                "en": "Munxar",
-                "de": "Munxar",
-                "es": "Munxar",
-                "fr": "Munxar",
-                "it": "Monsciar"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0324853,
-            "lng": 14.232669499999929
-        },
-        "37": {
-            "name": "Nadur",
-            "code": "37",
-            "names": {
-                "geonames": "In-Nadur",
-                "ru": "\u041d\u0430\u0434\u0443\u0440",
-                "en": "Nadur",
-                "de": "Nadur",
-                "es": "Nadur",
-                "fr": "Nadur",
-                "it": "Nadur"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0377433,
-            "lng": 14.294253600000047
-        },
-        "38": {
-            "name": "Naxxar",
-            "code": "38",
-            "names": {
-                "geonames": "In-Naxxar",
-                "ru": "\u041d\u0430\u0448\u0448\u0430\u0440",
-                "en": "Naxxar",
-                "de": "Naxxar",
-                "es": "Naxxar",
-                "fr": "Naxxar",
-                "it": "Nasciaro",
-                "zh": "\u7d0d\u6c99\u723e"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9252778,
-            "lng": 14.440000000000055
-        },
-        "39": {
-            "name": "Paola, Malta",
-            "code": "39",
-            "names": {
-                "geonames": "Paola",
-                "ru": "\u041f\u0430\u043e\u043b\u0430",
-                "en": "Paola",
-                "de": "Paola",
-                "es": "Paola",
-                "fr": "Paola",
-                "it": "Paola",
-                "zh": "\u4fdd\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 40.2457051,
-            "lng": 16.46396189999996
-        },
-        "40": {
-            "name": "Pembroke, Malta",
-            "code": "40",
-            "names": {
-                "geonames": "Pembroke",
-                "ru": "\u041f\u0435\u043c\u0431\u0440\u043e\u043a\u0435",
-                "en": "Pembroke",
-                "de": "Pembroke",
-                "es": "Pembroke",
-                "fr": "Pembroke",
-                "it": "Pembroke"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 45.6298153,
-            "lng": -76.88135879999999
-        },
-        "41": {
-            "name": "Piet\u00e0, Malta",
-            "code": "41",
-            "names": {
-                "geonames": "Tal-Pieta",
-                "en": "Piet\u00e0",
-                "de": "Piet\u00e0",
-                "es": "Piet\u00e0",
-                "fr": "Piet\u00e0",
-                "it": "Piet\u00e0",
-                "ru": "\u041f\u044c\u0435\u0442\u0430"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 40.7423001,
-            "lng": 16.244173899999964
-        },
-        "42": {
-            "name": "Qala, Malta",
-            "code": "42",
-            "names": {
-                "geonames": "Il-Qala",
-                "ru": "\u041a\u0430\u043b\u0430",
-                "en": "Qala",
-                "de": "Qala",
-                "es": "Qala",
-                "fr": "Qala",
-                "it": "La Cala"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0325,
-            "lng": 14.33583329999999
-        },
-        "43": {
-            "name": "Qormi",
-            "code": "43",
-            "names": {
-                "geonames": "Qormi",
-                "ru": "\u041a\u043e\u0440\u043c\u0438",
-                "en": "Qormi",
-                "de": "Qormi",
-                "es": "Qormi",
-                "fr": "Qormi",
-                "it": "Curmi",
-                "zh": "\u6208\u723e\u7c73"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8778714,
-            "lng": 14.47307109999997
-        },
-        "44": {
-            "name": "Qrendi",
-            "code": "44",
-            "names": {
-                "geonames": "Il-Qrendi",
-                "ru": "\u041a\u0440\u0435\u043d\u0434\u0438",
-                "en": "Qrendi",
-                "de": "Qrendi",
-                "es": "Qrendi",
-                "fr": "Qrendi",
-                "it": "Crendi"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8493543,
-            "lng": 14.438388799999984
-        },
-        "45": {
-            "name": "mt",
-            "code": "45",
-            "names": {
-                "geonames": "Victoria",
-                "en": "mt"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0462147,
-            "lng": 14.239461399999982
-        },
-        "46": {
-            "name": "Rabat, Malta",
-            "code": "46",
-            "names": {
-                "geonames": "Ir-Rabat",
-                "en": "Rabat",
-                "de": "Rabat",
-                "es": "Rabat",
-                "fr": "Rabat",
-                "it": "Rabat",
-                "ru": "\u0420\u0430\u0431\u0430\u0442",
-                "zh": "\u62c9\u5df4\u7279"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8816023,
-            "lng": 14.449039800000037
-        },
-        "47": {
-            "name": "\u0126al Safi, Malta",
-            "code": "47",
-            "names": {
-                "geonames": "Safi",
-                "en": "\u0126al Safi",
-                "de": "Safi",
-                "fr": "Safi",
-                "it": "Safi"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8449903,
-            "lng": 14.50046969999994
-        },
-        "48": {
-            "name": "St. Julian's",
-            "code": "48",
-            "names": {
-                "geonames": "Saint Julian",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u0443\u043b\u0438\u0430\u043d\u0441",
-                "de": "San \u0120iljan",
-                "en": "St. Julian's",
-                "es": "San Juli\u00e1n",
-                "fr": "San \u0120iljan",
-                "it": "San Giuliano",
-                "zh": "\u8056\u6731\u5229\u5b89\u65af"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8873749,
-            "lng": 14.517129000000068
-        },
-        "49": {
-            "name": "Saint John",
-            "code": "49",
-            "names": {
-                "geonames": "Saint John",
-                "ru": "\u0421\u0430\u043d-\u0414\u0436\u0443\u0430\u043d\u043d",
-                "en": "Saint John"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8864233,
-            "lng": 14.486503299999981
-        },
-        "50": {
-            "name": "Saint Lawrence",
-            "code": "50",
-            "names": {
-                "geonames": "Saint Lawrence",
-                "ru": "\u0421\u0430\u043d-\u041b\u0430\u0443\u0440\u0435\u043d\u0446",
-                "en": "Saint Lawrence"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8861207,
-            "lng": 14.518174499999986
-        },
-        "51": {
-            "name": "St. Paul's Bay",
-            "code": "51",
-            "names": {
-                "geonames": "Saint Paul's Bay",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b\u0441-\u0411\u044d\u0439",
-                "de": "San Pawl il-Ba\u0127ar",
-                "en": "St. Paul's Bay",
-                "es": "San Pawl il-Ba\u0127ar",
-                "fr": "San Pawl il-Ba\u0127ar",
-                "it": "Baia di San Paolo",
-                "zh": "\u8056\u4fdd\u7f85\u7063\u57ce"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.953041,
-            "lng": 14.380867200000012
-        },
-        "52": {
-            "name": "Sannat",
-            "code": "52",
-            "names": {
-                "geonames": "Sannat",
-                "ru": "\u0421\u0430\u043d\u043d\u0430\u0442",
-                "en": "Sannat",
-                "de": "Sannat",
-                "es": "Sannat",
-                "fr": "Sannat",
-                "it": "Sannat"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0290762,
-            "lng": 14.243961600000034
-        },
-        "53": {
-            "name": "Santa Lu\u010bija, Malta",
-            "code": "53",
-            "names": {
-                "geonames": "Saint Lucia",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0447\u0438\u044f",
-                "de": "Santa Lu\u010bija",
-                "en": "Santa Lu\u010bija",
-                "es": "Santa Lu\u010bija",
-                "fr": "Santa Lu\u010bija",
-                "it": "Santa Lucia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8532564,
-            "lng": 14.53298129999996
-        },
-        "54": {
-            "name": "Santa Venera",
-            "code": "54",
-            "names": {
-                "geonames": "Saint Venera",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u0412\u0435\u043d\u0435\u0440\u0430",
-                "en": "Santa Venera",
-                "de": "Santa Venera",
-                "es": "Santa Venera",
-                "fr": "Santa Venera",
-                "it": "Santa Venera",
-                "zh": "\u8056\u97cb\u5167\u62c9"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8766873,
-            "lng": 14.439033900000027
-        },
-        "55": {
-            "name": "Si\u0121\u0121iewi",
-            "code": "55",
-            "names": {
-                "geonames": "Is-Siggiewi",
-                "ru": "\u0421\u0438\u0434\u0434\u0436\u0438\u0432\u0438",
-                "en": "Si\u0121\u0121iewi",
-                "de": "Si\u0121\u0121iewi",
-                "es": "Si\u0121\u0121iewi",
-                "fr": "Si\u0121\u0121iewi",
-                "it": "Suggeui",
-                "zh": "\u932b\u5091\u7dad"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.868651,
-            "lng": 14.445298500000035
-        },
-        "56": {
-            "name": "Sliema",
-            "code": "56",
-            "names": {
-                "geonames": "Tas-Sliema",
-                "ru": "\u0421\u043b\u0438\u043c\u0430",
-                "en": "Sliema",
-                "de": "Sliema",
-                "es": "Sliema",
-                "fr": "Sliema",
-                "it": "Sliema",
-                "zh": "\u65af\u5229\u99ac"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.90846,
-            "lng": 14.50548690000005
-        },
-        "57": {
-            "name": "Swieqi",
-            "code": "57",
-            "names": {
-                "geonames": "Is-Swieqi",
-                "ru": "\u0421\u0443\u0438\u043a\u0438",
-                "en": "Swieqi",
-                "de": "Swieqi",
-                "es": "Swieqi",
-                "fr": "Swieqi",
-                "it": "Swieqi",
-                "zh": "\u65af\u7dad\u5409"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9200695,
-            "lng": 14.483894400000054
-        },
-        "58": {
-            "name": "Ta' Xbiex",
-            "code": "58",
-            "names": {
-                "geonames": "Tarxien",
-                "ru": "\u0422\u0430-\u0428\u0431\u0438\u0448",
-                "en": "Ta' Xbiex",
-                "de": "Ta\u2019 Xbiex",
-                "es": "Ta' Xbiex",
-                "fr": "Ta' Xbiex",
-                "it": "Ta' Xbiex"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.9007416,
-            "lng": 14.497644700000023
-        },
-        "59": {
-            "name": "Tarxien",
-            "code": "59",
-            "names": {
-                "geonames": "Ta' Xbiex",
-                "ru": "\u0422\u0430\u0440\u0448\u0438\u043d",
-                "en": "Tarxien",
-                "de": "Tarxien",
-                "es": "Tarxien",
-                "fr": "Tarxien",
-                "it": "Tarscen",
-                "zh": "\u5854\u723e\u6b23"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8691548,
-            "lng": 14.50859730000002
-        },
-        "60": {
-            "name": "Valletta",
-            "code": "60",
-            "names": {
-                "geonames": "Il-Belt Valletta",
-                "ru": "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430",
-                "en": "Valletta",
-                "ar": "\u0641\u0627\u0644\u064a\u062a\u0627",
-                "de": "Valletta",
-                "es": "La Valeta",
-                "fr": "La Valette",
-                "it": "La Valletta",
-                "zh": "\u74e6\u83b1\u5854"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8735785,
-            "lng": 14.503099399999996
-        },
-        "61": {
-            "name": "Xag\u0127ra",
-            "code": "61",
-            "names": {
-                "geonames": "Ix-Xaghra",
-                "ru": "\u0428\u0430\u0430\u0440\u0430",
-                "en": "Xag\u0127ra",
-                "de": "Xag\u0127ra",
-                "es": "Xag\u0127ra",
-                "fr": "Xag\u0127ra",
-                "it": "Caccia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0407595,
-            "lng": 14.261593500000004
-        },
-        "62": {
-            "name": "Xewkija",
-            "code": "62",
-            "names": {
-                "geonames": "Ix-Xewkija",
-                "ru": "\u0428\u0435\u0443\u043a\u0438\u044f",
-                "en": "Xewkija",
-                "ar": "\u0634\u0648\u0643\u064a\u0629",
-                "de": "Xewkija",
-                "es": "Xewkija",
-                "fr": "Xewkija",
-                "it": "Xeuchia"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 36.0271827,
-            "lng": 14.272117200000025
-        },
-        "63": {
-            "name": "Xg\u0127ajra",
-            "code": "63",
-            "names": {
-                "geonames": "Ix-Xghajra",
-                "ru": "\u0428\u0430\u0439\u0440\u0430",
-                "en": "Xg\u0127ajra",
-                "de": "Xg\u0127ajra",
-                "es": "Xg\u0127ajra",
-                "fr": "Xg\u0127ajra",
-                "it": "Sciaira"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8834472,
-            "lng": 14.541890700000067
-        },
-        "64": {
-            "name": "\u017babbar",
-            "code": "64",
-            "names": {
-                "geonames": "Haz-Zabbar",
-                "ru": "\u0417\u0430\u0431\u0431\u0430\u0440",
-                "en": "\u017babbar",
-                "de": "\u017babbar",
-                "es": "\u017babbar",
-                "fr": "\u017babbar",
-                "it": "Zabbar",
-                "zh": "\u624e\u5df4\u723e"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8762631,
-            "lng": 14.535899200000017
-        },
-        "65": {
-            "name": "Iz-Zebbug",
-            "code": "65",
-            "names": {
-                "geonames": "Iz-Zebbug",
-                "ru": "\u0417\u0435\u0431\u0431\u0443\u0434\u0436",
-                "en": "Iz-Zebbug"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8747928,
-            "lng": 14.444065300000034
-        },
-        "66": {
-            "name": "\u017bebbu\u0121, Malta",
-            "code": "66",
-            "names": {
-                "geonames": "Haz-Zebbug",
-                "en": "\u017bebbu\u0121",
-                "de": "\u017bebbu\u0121",
-                "es": "\u017bebbu\u0121",
-                "fr": "\u017bebbu\u0121",
-                "it": "Casal Zebbugi",
-                "ru": "\u0417\u0435\u0431\u0431\u0443\u0434\u0436",
-                "zh": "\u6fa4\u5e03\u5b63"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8749122,
-            "lng": 14.477849900000024
-        },
-        "67": {
-            "name": "\u017bejtun",
-            "code": "67",
-            "names": {
-                "geonames": "Iz-Zejtun",
-                "ru": "\u0417\u0435\u0439\u0442\u0443\u043d",
-                "en": "\u017bejtun",
-                "de": "\u017bejtun",
-                "es": "\u017bejtun",
-                "fr": "\u017bejtun",
-                "it": "Zeitun",
-                "zh": "\u699f\u6a54"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8636048,
-            "lng": 14.518105300000002
-        },
-        "68": {
-            "name": "\u017burrieq",
-            "code": "68",
-            "names": {
-                "geonames": "Iz-Zurrieq",
-                "ru": "\u0417\u0443\u0440\u0440\u0438\u043a",
-                "en": "\u017burrieq",
-                "de": "\u017burrieq",
-                "es": "\u017burrieq",
-                "fr": "\u017burrieq",
-                "it": "Zurrico",
-                "zh": "\u7956\u91cc\u683c"
-            },
-            "division": "local council",
-            "parent": "MT",
-            "lat": 35.8398639,
-            "lng": 14.47093080000002
+    "3166-2": [
+        {
+            "code": "MT-01",
+            "names": "Attard",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-02",
+            "names": "Balzan",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-03",
+            "names": "Birgu",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-04",
+            "names": "Birkirkara",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-05",
+            "names": "Bir\u017cebbu\u0121a",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-06",
+            "names": "Bormla",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-07",
+            "names": "Dingli",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-08",
+            "names": "Fgura",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-09",
+            "names": "Floriana",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-10",
+            "names": "Fontana",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-11",
+            "names": "Gudja",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-12",
+            "names": "G\u017cira",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-13",
+            "names": "G\u0127ajnsielem",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-14",
+            "names": "G\u0127arb",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-15",
+            "names": "G\u0127arg\u0127ur",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-16",
+            "names": "G\u0127asri",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-17",
+            "names": "G\u0127axaq",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-18",
+            "names": "\u0126amrun",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-19",
+            "names": "Iklin",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-20",
+            "names": "Isla",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-21",
+            "names": "Kalkara",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-22",
+            "names": "Ker\u010bem",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-23",
+            "names": "Kirkop",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-24",
+            "names": "Lija",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-25",
+            "names": "Luqa",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-26",
+            "names": "Marsa",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-27",
+            "names": "Marsaskala",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-28",
+            "names": "Marsaxlokk",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-29",
+            "names": "Mdina",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-30",
+            "names": "Mellie\u0127a",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-31",
+            "names": "M\u0121arr",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-32",
+            "names": "Mosta",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-33",
+            "names": "Mqabba",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-34",
+            "names": "Msida",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-35",
+            "names": "Mtarfa",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-36",
+            "names": "Munxar",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-37",
+            "names": "Nadur",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-38",
+            "names": "Naxxar",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-39",
+            "names": "Paola",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-40",
+            "names": "Pembroke",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-41",
+            "names": "Piet\u00e0",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-42",
+            "names": "Qala",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-43",
+            "names": "Qormi",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-44",
+            "names": "Qrendi",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-45",
+            "names": "Rabat G\u0127awdex",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-46",
+            "names": "Rabat Malta",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-47",
+            "names": "Safi",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-48",
+            "names": "San \u0120iljan",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-49",
+            "names": "San \u0120wann",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-50",
+            "names": "San Lawrenz",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-51",
+            "names": "San Pawl il-Ba\u0127ar",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-52",
+            "names": "Sannat",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-53",
+            "names": "Santa Lu\u010bija",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-54",
+            "names": "Santa Venera",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-55",
+            "names": "Si\u0121\u0121iewi",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-56",
+            "names": "Sliema",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-57",
+            "names": "Swieqi",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-58",
+            "names": "Ta\u2019 Xbiex",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-59",
+            "names": "Tarxien",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-60",
+            "names": "Valletta",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-61",
+            "names": "Xag\u0127ra",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-62",
+            "names": "Xewkija",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-63",
+            "names": "Xg\u0127ajra",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-64",
+            "names": "\u017babbar",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-65",
+            "names": "\u017bebbu\u0121 G\u0127awdex",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-66",
+            "names": "\u017bebbu\u0121 Malta",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-67",
+            "names": "\u017bejtun",
+            "type": "Local council"
+        },
+        {
+            "code": "MT-68",
+            "names": "\u017burrieq",
+            "type": "Local council"
         }
-    }
+    ]
 }

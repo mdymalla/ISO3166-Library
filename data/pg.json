@@ -1,396 +1,234 @@
 {
     "alpha-2": "PG",
     "alpha-3": "PNG",
-    "numeric": 598,
-    "capital": "Port Moresby",
-    "currency": "PGK",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\uddec",
+    "numeric": "598",
     "names": {
-        "geonames": "Papua New Guinea",
         "en": "Papua New Guinea",
-        "ar": "\u0628\u0627\u0628\u0648\u0627 \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
-        "de": "Papua-Neuguinea",
-        "es": "Pap\u00faa Nueva Guinea",
         "fr": "Papouasie-Nouvelle-Guin\u00e9e",
-        "it": "Papua Nuova Guinea",
-        "ru": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "ur": "\u067e\u0627\u067e\u0648\u0622 \u0646\u06cc\u0648 \u06af\u0646\u06cc",
+        "rn": "Papuwa Niyugineya",
+        "lv": "Papua-Jaungvineja",
+        "hy": "\u054a\u0561\u057a\u0578\u0582\u0561 \u0546\u0578\u0580 \u0533\u057e\u056b\u0576\u0565\u0561",
+        "sq": "Guineja e Re-Papua",
+        "jv": "Papua Nugini",
+        "or": "\u0b2a\u0b2a\u0b41\u0b06 \u0b28\u0b4d\u0b5f\u0b41 \u0b17\u0b41\u0b0f\u0b28\u0b3f\u0b06",
+        "mg": "Papouasie-Nouvelle-Guin\u00e9e",
+        "no": "Papua Ny-Guinea",
         "zh": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a",
-        "he": "\u05e4\u05e4\u05d5\u05d0\u05d4 \u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4",
-        "hi": "\u092a\u093e\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940",
+        "tr": "Papua Yeni Gine",
+        "bs": "Papua Nova Gvineja",
         "ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
-        "pt": "Papua-Nova Guin\u00e9"
+        "th": "\u0e1b\u0e32\u0e1b\u0e31\u0e27\u0e19\u0e34\u0e27\u0e01\u0e34\u0e19\u0e35",
+        "he": "\u05e4\u05e4\u05d5\u05d0\u05d4 \u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4",
+        "fa": "\u067e\u0627\u067e\u0648\u0627 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
+        "kk": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u0416\u0430\u04a3\u0430 \u0413\u0432\u0438\u043d\u0435\u044f",
+        "mo": "Papua-Noua Guinee",
+        "ff": "Papuwaa Nuwel Gine",
+        "ca": "Papua Nova Guinea",
+        "ar": "\u0628\u0627\u0628\u0648\u0627 \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "eu": "Papua Ginea Berria",
+        "ps": "\u067e\u0627\u067e\u0648\u0627 \u0646\u064a\u0648 \u06ab\u064a\u0646\u064a",
+        "kn": "\u0caa\u0caa\u0cc1\u0cb5\u0cbe \u0ca8\u0ccd\u0caf\u0cc2\u0c97\u0cbf\u0ca8\u0cbf\u0caf\u0cbe",
+        "si": "\u0db4\u0dd0\u0db4\u0dd4\u0dc0\u0dcf \u0db1\u0dd2\u0dc0\u0dca \u0d9c\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u1794\u17c9\u17b6\u1796\u17bc\u17a2\u17b6\u179f\u17ca\u17b8\u200b\u1793\u17bc\u179c\u17c2\u179b\u17a0\u17d2\u1782\u17b8\u178e\u17c1",
+        "ne": "\u092a\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093e\u0907\u0928\u093f\u092f\u093e",
+        "fi": "Papua-Uusi-Guinea",
+        "hi": "\u092a\u093e\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940",
+        "rm": "Papua Nova Guinea",
+        "vi": "Papua New Guinea",
+        "gl": "Pap\u00faa-Nova Guinea",
+        "ig": "Papua New Guinea",
+        "mr": "\u092a\u093e\u092a\u0941\u0906 \u0928\u094d\u092f\u0942 \u0917\u093f\u0928\u0940",
+        "es": "Pap\u00faa Nueva Guinea",
+        "be": "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0456\u043d\u0435\u044f",
+        "lg": "Papwa Nyugini",
+        "az": "\u041f\u0430\u043f\u0443\u0430-\u0408\u0435\u043d\u0438 \u0413\u0432\u0438\u043d\u0435\u0458\u0430",
+        "ce": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041a\u0435\u0440\u043b\u0430 \u0413\u0432\u0438\u043d\u0435\u0439",
+        "mk": "\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430",
+        "zu": "i-Papua New Guinea",
+        "it": "Papua Nuova Guinea",
+        "ko": "\ud30c\ud478\uc544\ub274\uae30\ub2c8",
+        "lo": "\u0e9b\u0eb2\u0e9b\u0ebb\u0ea7\u0e99\u0eb4\u0ea7\u0e81\u0eb5\u0e99\u0eb5",
+        "lt": "Papua Naujoji Gvin\u0117ja",
+        "dz": "\u0f54\u0f0b\u0f54\u0f74\u0f0b \u0f53\u0f72\u0f60\u0f74\u0f0b\u0f42\u0f72\u0f0b\u0f53\u0f72",
+        "ln": "Papwazi Gin\u025b ya sika",
+        "hr": "Papua Nova Gvineja",
+        "ks": "\u067e\u0627\u067e\u064f\u0648\u0627 \u0646\u06cc\u0648\u0657 \u06af\u06cc\u0656\u0646\u06cc",
+        "sv": "Papua Nya Guinea",
+        "pl": "Papua-Nowa Gwinea",
+        "nb": "Papua Ny-Guinea",
+        "sh": "Papua Nova Gvineja",
+        "lu": "Papwazi wa Ngin\u025b wa mumu",
+        "nl": "Papoea-Nieuw-Guinea",
+        "ky": "\u041f\u0430\u043f\u0443\u0430-\u0416\u0430\u04a3\u044b \u0413\u0432\u0438\u043d\u0435\u044f",
+        "bn": "\u09aa\u09be\u09aa\u09c1\u09af\u09bc\u09be \u09a8\u09bf\u0989 \u0997\u09bf\u09a8\u09bf",
+        "sd": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u064a",
+        "gd": "Gini Nuadh Phaputhach",
+        "cs": "Papua-Nov\u00e1 Guinea",
+        "tk": "Papua - T\u00e4ze Gwine\u00fda",
+        "eo": "Papuo-Nov-Gvineo",
+        "mt": "Papua New Guinea",
+        "sr": "Papua Nova Gvineja",
+        "wo": "Papuwasi Gine Gu Bees",
+        "el": "\u03a0\u03b1\u03c0\u03bf\u03cd\u03b1 \u039d\u03ad\u03b1 \u0393\u03bf\u03c5\u03b9\u03bd\u03ad\u03b1",
+        "sn": "Papua New Guinea",
+        "pt": "Papua-Nova Guin\u00e9",
+        "yi": "\u05e4\u05bc\u05d0\u05b7\u05e4\u05bc\u05d5\u05d0\u05b7 \u05e0\u05f2\u05b7 \u05d2\u05d9\u05e0\u05e2",
+        "is": "Pap\u00faa N\u00fdja-G\u00ednea",
+        "ta": "\u0baa\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0bbe \u0ba8\u0bbf\u0baf\u0bc2 \u0b95\u0bbf\u0ba9\u0bbf\u0baf\u0bbe",
+        "br": "Papoua Ginea-Nevez",
+        "hu": "P\u00e1pua \u00daj-Guinea",
+        "et": "Paapua Uus-Guinea",
+        "ku": "Papua G\u00eeneya N\u00fb",
+        "sk": "Papua-Nov\u00e1 Guinea",
+        "sw": "Papua Guinea Mpya",
+        "te": "\u0c2a\u0c3e\u0c2a\u0c41\u0c35\u0c3e \u0c28\u0c4d\u0c2f\u0c42 \u0c17\u0c3f\u0c28\u0c3f\u0c2f\u0c3e",
+        "ro": "Papua-Noua Guinee",
+        "ki": "Papua",
+        "ak": "Papua Guinea Foforo",
+        "tg": "\u041f\u0430\u043f\u0443\u0430 \u0413\u0432\u0438\u043d\u0435\u044f\u0438 \u041d\u0430\u0432",
+        "ml": "\u0d2a\u0d3e\u0d2a\u0d4d\u0d2a\u0d41\u0d35 \u0d28\u0d4d\u0d2f\u0d42 \u0d17\u0d3f\u0d28\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Paapu ti Giini",
+        "de": "Papua-Neuguinea",
+        "as": "\u09aa\u09be\u09aa\u09c1\u09f1\u09be \u09a8\u09bf\u0989 \u0997\u09bf\u09a8\u09bf",
+        "am": "\u1353\u1351\u12cb \u1292\u12cd \u130a\u1292",
+        "se": "Papua-O\u0111\u0111a-Guinea",
+        "ia": "Papua Nove Guinea",
+        "ti": "\u1353\u1351\u12cb \u1292\u12cd \u130a\u1292",
+        "ru": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "ga": "Nua-Ghuine Phapua",
+        "bg": "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430 \u0413\u0432\u0438\u043d\u0435\u044f",
+        "my": "\u1015\u102b\u1015\u1030\u1021\u102c \u1014\u101a\u1030\u1038\u1002\u102e\u1014\u102e",
+        "fy": "Papoea-Nij-Guinea",
+        "bm": "Papuwasi-Gine-Koura",
+        "gu": "\u0aaa\u0abe\u0aaa\u0ac1\u0a86 \u0aa8\u0acd\u0aaf\u0ac2 \u0a97\u0abf\u0aa8\u0ac0",
+        "uz": "\u041f\u0430\u043f\u0443\u0430 - \u042f\u043d\u0433\u0438 \u0413\u0432\u0438\u043d\u0435\u044f",
+        "cy": "Papua Guinea Newydd",
+        "ug": "\u067e\u0627\u067e\u06c7\u0626\u0627 \u064a\u06d0\u06ad\u0649 \u06af\u0649\u06cb\u0649\u0646\u0649\u064a\u06d5\u0633\u0649",
+        "nn": "Papua Ny-Guinea",
+        "uk": "\u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u0430 \u0490\u0432\u0456\u043d\u0435\u044f",
+        "qu": "Pap\u00faa Nueva Guinea",
+        "tl": "Papua New Guinea",
+        "ms": "Papua New Guinea",
+        "so": "Babua Niyuu Gini",
+        "da": "Papua Ny Guinea",
+        "tt": "\u041f\u0430\u043f\u0443\u0430 - \u042f\u04a3\u0430 \u0413\u0432\u0438\u043d\u0435\u044f",
+        "af": "Papoea-Nieu-Guinee",
+        "ha": "Papuwa Nugini",
+        "iw": "\u05e4\u05e4\u05d5\u05d0\u05d4 \u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4",
+        "ee": "Papua New Gini nutome",
+        "in": "Papua Nugini",
+        "to": "Papuaniukini",
+        "sl": "Papua Nova Gvineja",
+        "sg": "Pap\u00fb Fin\u00ee Gin\u00ebe, Papuaz\u00efi",
+        "lb": "Papua-Neiguinea",
+        "fo": "Papua N\u00fdguinea",
+        "mn": "\u041f\u0430\u043f\u0443\u0430 \u0428\u0438\u043d\u044d \u0413\u0432\u0438\u043d\u0435\u0439",
+        "id": "Papua Nugini",
+        "pa": "\u0a2a\u0a3e\u0a2a\u0a42\u0a06 \u0a28\u0a3f\u0a0a \u0a17\u0a3f\u0a28\u0a40",
+        "ka": "\u10de\u10d0\u10de\u10e3\u10d0-\u10d0\u10ee\u10d0\u10da\u10d8 \u10d2\u10d5\u10d8\u10dc\u10d4\u10d0",
+        "nd": "Papua New Guinea"
     },
-    "ISO3166-2": {
-        "CPK": {
-            "name": "Chimbu Province",
-            "code": "CPK",
-            "names": {
-                "geonames": "Chimbu",
-                "ru": "\u0421\u0438\u043c\u0431\u0443",
-                "en": "Chimbu Province",
-                "de": "Chimbu Province",
-                "es": "Simbu",
-                "fr": "Simbu",
-                "it": "Provincia di Chimbu",
-                "zh": "\u6b3d\u5e03\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "PG-CPK",
+            "names": "Chimbu",
+            "type": "Province"
         },
-        "CPM": {
-            "name": "Central Province",
-            "code": "CPM",
-            "names": {
-                "geonames": "Central Province",
-                "en": "Central Province"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-CPM",
+            "names": "Central",
+            "type": "Province"
         },
-        "EBR": {
-            "name": "East New Britain Province",
-            "code": "EBR",
-            "names": {
-                "geonames": "East New Britain",
-                "en": "East New Britain Province",
-                "de": "East New Britain Province",
-                "es": "Nueva Breta\u00f1a oriental",
-                "fr": "Nouvelle-Bretagne orientale",
-                "it": "Provincia della Nuova Britannia Est",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u041d\u043e\u0432\u0430\u044f \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
-                "zh": "\u6771\u65b0\u4e0d\u5217\u985b\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": -5.7465904,
-            "lng": 150.76792160000002
+        {
+            "code": "PG-EBR",
+            "names": "East New Britain",
+            "type": "Province"
         },
-        "EHG": {
-            "name": "Eastern Highlands Province",
-            "code": "EHG",
-            "names": {
-                "geonames": "Eastern Highlands",
-                "ru": "\u0418\u0441\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
-                "en": "Eastern Highlands Province",
-                "de": "Eastern Highlands Province",
-                "es": "Tierras Altas Orientales",
-                "fr": "Hautes-Terres orientales",
-                "it": "Provincia degli Altopiani Orientali",
-                "zh": "\u6771\u9ad8\u5730\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-EHG",
+            "names": "Eastern Highlands",
+            "type": "Province"
         },
-        "EPW": {
-            "name": "Enga Province",
-            "code": "EPW",
-            "names": {
-                "geonames": "Enga",
-                "ru": "\u042d\u043d\u0433\u0430",
-                "en": "Enga Province",
-                "de": "Enga Province",
-                "es": "Enga",
-                "fr": "Enga",
-                "it": "Provincia di Enga",
-                "zh": "\u6069\u52a0\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-EPW",
+            "names": "Enga",
+            "type": "Province"
         },
-        "ESW": {
-            "name": "East Sepik Province",
-            "code": "ESW",
-            "names": {
-                "geonames": "East Sepik",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0421\u0435\u043f\u0438\u043a",
-                "en": "East Sepik Province",
-                "de": "East Sepik Province",
-                "es": "Sepik Oriental",
-                "fr": "Sepik oriental",
-                "it": "Provincia di Sepik Est",
-                "zh": "\u4e1c\u585e\u76ae\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": -4.2766667,
-            "lng": 142.84972219999997
+        {
+            "code": "PG-ESW",
+            "names": "East Sepik",
+            "type": "Province"
         },
-        "GPK": {
-            "name": "Gulf Province",
-            "code": "GPK",
-            "names": {
-                "geonames": "Gulf",
-                "ru": "\u0417\u0430\u043b\u0438\u0432",
-                "en": "Gulf Province",
-                "ar": "\u062e\u0644\u064a\u062c",
-                "de": "Bucht",
-                "es": "Bah\u00eda",
-                "fr": "Baie",
-                "it": "Baia",
-                "zh": "\u6d77\u7063"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-GPK",
+            "names": "Gulf",
+            "type": "Province"
         },
-        "HLA": {
-            "name": "Hela",
-            "code": "HLA",
-            "names": {
-                "geonames": "Hela",
-                "en": "Hela"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-MBA",
+            "names": "Milne Bay",
+            "type": "Province"
         },
-        "JWK": {
-            "name": "Jiwaka",
-            "code": "JWK",
-            "names": {
-                "geonames": "Jiwaka",
-                "en": "Jiwaka"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-MPL",
+            "names": "Morobe",
+            "type": "Province"
         },
-        "MBA": {
-            "name": "Milne Bay Province",
-            "code": "MBA",
-            "names": {
-                "geonames": "Milne Bay",
-                "ru": "\u041c\u0438\u043b\u043d-\u0411\u0435\u0439",
-                "en": "Milne Bay Province",
-                "de": "Milne Bay Province",
-                "es": "Provincia de Milne Bay",
-                "fr": "Baie Milne",
-                "it": "Provincia di Baia Milne",
-                "zh": "\u7c73\u723e\u6069\u7063\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-MPM",
+            "names": "Madang",
+            "type": "Province"
         },
-        "MPL": {
-            "name": "Morobe Province",
-            "code": "MPL",
-            "names": {
-                "geonames": "Morobe",
-                "ru": "\u041c\u043e\u0440\u043e\u0431\u0435",
-                "en": "Morobe Province",
-                "de": "Morobe Province",
-                "es": "Morobe",
-                "fr": "Morobe",
-                "it": "Provincia di Morobe",
-                "zh": "\u83ab\u96f7\u8d1d\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": -7.759099,
-            "lng": 147.59399400000007
+        {
+            "code": "PG-MRL",
+            "names": "Manus",
+            "type": "Province"
         },
-        "MPM": {
-            "name": "Madang Province",
-            "code": "MPM",
-            "names": {
-                "geonames": "Madang",
-                "ru": "\u041c\u0430\u0434\u0430\u043d\u0433",
-                "en": "Madang Province",
-                "de": "Madang Province",
-                "es": "Provincia de Madang",
-                "fr": "Madang",
-                "it": "Provincia di Madang",
-                "zh": "\u99ac\u7576\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": -5.233667,
-            "lng": 145.78889500000002
+        {
+            "code": "PG-NCD",
+            "names": "National Capital District (Port Moresby)",
+            "type": "District"
         },
-        "MRL": {
-            "name": "Manus Province",
-            "code": "MRL",
-            "names": {
-                "geonames": "Manus",
-                "ru": "\u041c\u0430\u043d\u0443\u0441",
-                "en": "Manus Province",
-                "de": "Manus Province",
-                "es": "Provincia de Manus",
-                "fr": "Manus",
-                "it": "Provincia di Manus",
-                "zh": "\u99ac\u52aa\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-NIK",
+            "names": "New Ireland",
+            "type": "Province"
         },
-        "NCD": {
-            "name": "Port Moresby",
-            "code": "NCD",
-            "names": {
-                "geonames": "National Capital",
-                "ru": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
-                "en": "Port Moresby",
-                "ar": "\u0628\u0648\u0631\u062a \u0645\u0648\u0631\u0633\u0628\u064a",
-                "de": "Port Moresby",
-                "es": "Puerto Moresby",
-                "fr": "Port Moresby",
-                "it": "Port Moresby",
-                "zh": "\u83ab\u5c14\u5179\u6bd4\u6e2f"
-            },
-            "division": "district",
-            "parent": "PG",
-            "lat": -9.4780123,
-            "lng": 147.15065419999996
+        {
+            "code": "PG-NPP",
+            "names": "Northern",
+            "type": "Province"
         },
-        "NIK": {
-            "name": "New Ireland Province",
-            "code": "NIK",
-            "names": {
-                "geonames": "New Ireland",
-                "ru": "\u041d\u043e\u0432\u0430\u044f \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "New Ireland Province",
-                "de": "New Ireland Province",
-                "es": "Provincia de Nueva Irlanda",
-                "fr": "Nouvelle-Irlande",
-                "it": "Provincia della Nuova Irlanda",
-                "zh": "\u65b0\u611b\u723e\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-NSB",
+            "names": "Bougainville",
+            "type": "Autonomous region"
         },
-        "NPP": {
-            "name": "Oro Province",
-            "code": "NPP",
-            "names": {
-                "geonames": "Northern Province",
-                "ru": "\u041e\u0440\u043e",
-                "de": "Oro Province",
-                "en": "Oro Province",
-                "es": "Provincia de Oro",
-                "fr": "Province nord",
-                "it": "Provincia di Oro",
-                "zh": "\u5317\u90e8\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-SAN",
+            "names": "Sandaun",
+            "type": "Province"
         },
-        "NSB": {
-            "name": "Bougainville",
-            "code": "NSB",
-            "names": {
-                "geonames": "Bougainville",
-                "en": "Bougainville"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-SHM",
+            "names": "Southern Highlands",
+            "type": "Province"
         },
-        "SAN": {
-            "name": "Sandaun Province",
-            "code": "SAN",
-            "names": {
-                "geonames": "Sandaun",
-                "ru": "\u0421\u0430\u043d\u0434\u0430\u0443\u043d",
-                "en": "Sandaun Province",
-                "de": "Sandaun Province",
-                "es": "Sandaun",
-                "fr": "Sandaun",
-                "it": "Provincia di Sandaun",
-                "zh": "\u6851\u9053\u6069\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": 32.7319,
-            "lng": -117.19731200000001
+        {
+            "code": "PG-WBK",
+            "names": "West New Britain",
+            "type": "Province"
         },
-        "SHM": {
-            "name": "Southern Highlands Province",
-            "code": "SHM",
-            "names": {
-                "geonames": "Southern Highlands",
-                "ru": "\u0421\u0430\u0443\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
-                "en": "Southern Highlands Province",
-                "de": "Southern Highlands Province",
-                "es": "Tierras Altas del Sur",
-                "fr": "Hautes-Terres m\u00e9ridionales",
-                "it": "Provincia degli Altopiani del Sud",
-                "zh": "\u5357\u9ad8\u5730\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-WHM",
+            "names": "Western Highlands",
+            "type": "Province"
         },
-        "WBK": {
-            "name": "West New Britain Province",
-            "code": "WBK",
-            "names": {
-                "geonames": "West New Britain",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u041d\u043e\u0432\u0430\u044f \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
-                "en": "West New Britain Province",
-                "de": "East New Britain Province",
-                "es": "Nueva Breta\u00f1a oriental",
-                "fr": "Nouvelle-Bretagne orientale",
-                "it": "Provincia della Nuova Britannia Est",
-                "zh": "\u6771\u65b0\u4e0d\u5217\u985b\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": -5.7465904,
-            "lng": 150.76792160000002
-        },
-        "WHM": {
-            "name": "Western Highlands Province",
-            "code": "WHM",
-            "names": {
-                "geonames": "Western Highlands",
-                "ru": "\u0423\u044d\u0441\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
-                "en": "Western Highlands Province",
-                "de": "Western Highlands Province",
-                "es": "Tierras Altas Occidentales",
-                "fr": "Hautes-Terres occidentales",
-                "it": "Provincia degli Altopiani Occidentali",
-                "zh": "\u897f\u9ad8\u5730\u7701"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
-        },
-        "WPD": {
-            "name": "Western Province",
-            "code": "WPD",
-            "names": {
-                "geonames": "Western Province",
-                "en": "Western Province"
-            },
-            "division": "province",
-            "parent": "PG",
-            "lat": null,
-            "lng": null
+        {
+            "code": "PG-WPD",
+            "names": "Western",
+            "type": "Province"
         }
-    }
+    ]
 }

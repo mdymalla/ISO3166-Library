@@ -1,297 +1,213 @@
 {
     "alpha-2": "KN",
     "alpha-3": "KNA",
-    "numeric": 659,
-    "capital": "Basseterre",
-    "currency": "XCD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf0\ud83c\uddf3",
+    "numeric": "659",
     "names": {
-        "geonames": "Saint Kitts and Nevis",
-        "en": "Saint Kitts and Nevis",
-        "ar": "\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648\u0646\u064a\u0641\u064a\u0633",
-        "de": "St. Kitts und Nevis",
-        "es": "San Crist\u00f3bal y Nieves",
+        "en": "St Kitts & Nevis",
         "fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
-        "it": "Saint Kitts e Nevis",
-        "ru": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
-        "zh": "\u8056\u514b\u91cc\u65af\u591a\u798f\u53ca\u5c3c\u7dad\u65af",
+        "ur": "\u0633\u06cc\u0646\u0679 \u06a9\u0679\u0633 \u0627\u0648\u0631 \u0646\u06cc\u0648\u06cc\u0633",
+        "sr": "\u0421\u0432\u0435\u0442\u0438 \u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "rn": "Sekitsi na Nevisi",
+        "lv": "Sentkitsa un Nevisa",
+        "hy": "\u054d\u0565\u0576\u0569 \u0554\u056b\u057f\u057d \u0587 \u0546\u0587\u056b\u057d",
+        "sq": "Sh\u00ebn-Kits dhe Nevis",
+        "jv": "Saint Kits lan N\u00e8vis",
+        "or": "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b15\u0b3f\u0b1f\u0b38\u0b4d\u200c \u0b0f\u0b2c\u0b02 \u0b28\u0b47\u0b2d\u0b3f\u0b38\u0b4d\u200c",
+        "mg": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
+        "no": "Saint Kitts og Nevis",
+        "zh": "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af",
+        "tr": "Saint Kitts ve Nevis",
+        "bs": "Sveti Kits i Nevis",
+        "ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30fc\u30f4\u30a3\u30b9",
+        "th": "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e04\u0e34\u0e15\u0e2a\u0e4c\u0e41\u0e25\u0e30\u0e40\u0e19\u0e27\u0e34\u0e2a",
         "he": "\u05e1\u05e0\u05d8 \u05e7\u05d9\u05d8\u05e1 \u05d5\u05e0\u05d5\u05d5\u05d9\u05e1",
-        "hi": "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d\u0938 \u090f\u0902\u0921 \u0928\u0947\u0935\u093f\u0938",
-        "ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
-        "pt": "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
+        "kk": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0436\u04d9\u043d\u0435 \u041d\u0435\u0432\u0438\u0441",
+        "mo": "Saint Kitts \u0219i Nevis",
+        "ff": "Sent Kits e Newis",
+        "ca": "Saint Christopher i Nevis",
+        "ar": "\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648\u0646\u064a\u0641\u064a\u0633",
+        "eu": "Saint Kitts eta Nevis",
+        "ps": "\u0633\u06cc\u0646\u067c \u06a9\u067c\u0633 \u0627\u0648 \u0646\u06cc\u0648\u06cc\u0633",
+        "kn": "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c95\u0cbf\u0c9f\u0ccd\u0cb8\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0ca8\u0cc6\u0cb5\u0cbf\u0cb8\u0ccd",
+        "si": "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d9a\u0dd2\u0da7\u0dca\u0dc3\u0dca \u0dc3\u0dc4 \u0db1\u0dda\u0dc0\u0dd2\u0dc3\u0dca",
+        "km": "\u179f\u17b6\u17c6\u1784\u200b\u1782\u17b8\u178f \u1793\u17b7\u1784 \u178e\u17c1\u179c\u17b8\u179f",
+        "ne": "\u0938\u0947\u0928\u094d\u091f \u0915\u093f\u091f\u094d\u0938 \u0930 \u0928\u0947\u092d\u093f\u0938",
+        "fi": "Saint Kitts ja Nevis",
+        "hi": "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d\u0938 \u0914\u0930 \u0928\u0947\u0935\u093f\u0938",
+        "rm": "Saint Kitts e Nevis",
+        "vi": "St. Kitts v\u00e0 Nevis",
+        "gl": "Saint Kitts e Nevis",
+        "ig": "St. Kitts & Nevis",
+        "mr": "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d\u0938 \u0906\u0923\u093f \u0928\u0947\u0935\u094d\u0939\u093f\u0938",
+        "es": "San Crist\u00f3bal y Nieves",
+        "be": "\u0421\u0435\u043d\u0442-\u041a\u0456\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441",
+        "lg": "Senti Kitisi ne Nevisi",
+        "pt": "S\u00e3o Crist\u00f3v\u00e3o e N\u00e9vis",
+        "az": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0432\u04d9 \u041d\u0435\u0432\u0438\u0441",
+        "ce": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0430, \u041d\u0435\u0432\u0438\u0441 \u0430",
+        "mk": "\u0421\u0432\u0435\u0442\u0438 \u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "zu": "i-Saint Kitts ne-Nevis",
+        "it": "Saint Kitts e Nevis",
+        "ko": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4",
+        "lo": "\u0ec0\u0e8a\u0e99 \u0e84\u0eb4\u0e94 \u0ec1\u0ea5\u0eb0 \u0ec0\u0e99\u0ea7\u0eb4\u0eaa",
+        "lt": "Sent Kitsas ir Nevis",
+        "dz": "\u0f66\u0f7a\u0f53\u0f4a\u0f0b \u0f40\u0f72\u0f4a\u0f66\u0f0b \u0f51\u0f44\u0f0b \u0f53\u0f7a\u0f0b\u0f56\u0f72\u0f66",
+        "ln": "S\u00e1ntu kr\u00edstofe mp\u00e9 Nev\u025b\u0300s",
+        "hr": "Sveti Kristofor i Nevis",
+        "ks": "\u0633\u06cc\u0646\u0679 \u06a9\u0650\u0679\u064e\u0633 \u062a\u06c1\u0655 \u0646\u06cc\u0648\u0650\u0633",
+        "sv": "S:t Kitts och Nevis",
+        "pl": "Saint Kitts i Nevis",
+        "nb": "Saint Kitts og Nevis",
+        "sh": "Sveti Kits i Nevis",
+        "lu": "Santu kr\u00edstofe ne Neves",
+        "nl": "Saint Kitts en Nevis",
+        "ky": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0436\u0430\u043d\u0430 \u041d\u0435\u0432\u0438\u0441",
+        "bn": "\u09b8\u09c7\u09a8\u09cd\u099f \u0995\u09bf\u099f\u09b8 \u0993 \u09a8\u09c7\u09ad\u09bf\u09b8",
+        "sd": "\u0633\u064a\u0646\u067d \u06aa\u067d\u0633 \u0648 \u0646\u064a\u0648\u0633",
+        "fa": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
+        "gd": "Naomh Cr\u00ecstean is Nibheis",
+        "cs": "Svat\u00fd Kry\u0161tof a Nevis",
+        "tk": "Sent-Kits we Newis",
+        "eo": "Sent-Kristofo kaj Neviso",
+        "mt": "Saint Kitts u Nevis",
+        "wo": "Sa\u014b Kits ak Newis",
+        "el": "\u03a3\u03b5\u03bd \u039a\u03b9\u03c4\u03c2 \u03ba\u03b1\u03b9 \u039d\u03ad\u03b2\u03b9\u03c2",
+        "sn": "Saint Kitts and Nevis",
+        "is": "Sankti Kitts og Nevis",
+        "ta": "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd & \u0ba8\u0bc6\u0bb5\u0bbf\u0bb8\u0bcd",
+        "br": "Saint Kitts ha Nevis",
+        "hu": "Saint Kitts \u00e9s Nevis",
+        "et": "Saint Kitts ja Nevis",
+        "ku": "Saint Kitts \u00fb Nev\u00ees",
+        "sk": "Sv\u00e4t\u00fd Kri\u0161tof a Nevis",
+        "sw": "St. Kitts na Nevis",
+        "te": "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c15\u0c3f\u0c1f\u0c4d\u0c38\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c28\u0c46\u0c35\u0c3f\u0c38\u0c4d",
+        "ro": "Saint Kitts \u0219i Nevis",
+        "ki": "Santakitzi na Nevis",
+        "ak": "Saint Kitts ne N\u025bves",
+        "tg": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0432\u0430 \u041d\u0435\u0432\u0438\u0441",
+        "ml": "\u0d38\u0d46\u0d28\u0d4d\u0d31\u0d4d \u0d15\u0d3f\u0d31\u0d4d\u0d31\u0d4d\u200c\u0d38\u0d41\u0d02 \u0d28\u0d46\u0d35\u0d3f\u0d38\u0d41\u0d02",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Kiiti ati Neefi",
+        "de": "St. Kitts und Nevis",
+        "as": "\u099b\u09c7\u0987\u09a3\u09cd\u099f \u0995\u09bf\u099f\u099b \u0986\u09f0\u09c1 \u09a8\u09c7\u09ad\u09bf\u099b",
+        "am": "\u1245\u12f1\u1235 \u12aa\u1275\u1235 \u12a5\u1293 \u1294\u126a\u1235",
+        "se": "Saint Kitts ja Nevis",
+        "ia": "Sancte Christophoro e Nevis",
+        "ti": "\u1245\u12f1\u1235 \u12aa\u1275\u1235\u1295 \u1294\u126a\u1235\u1295",
+        "ru": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "ga": "San Cr\u00edost\u00f3ir-Nimheas",
+        "bg": "\u0421\u0435\u0439\u043d\u0442 \u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "my": "\u1005\u102d\u1014\u1037\u103a\u1000\u1005\u103a\u1014\u103e\u1004\u1037\u103a\u1014\u102e\u1017\u102e\u1005\u103a",
+        "fy": "Saint Kitts en Nevis",
+        "bm": "Krist\u0254fo-Senu-ni-\u019dev\u025bs",
+        "gu": "\u0ab8\u0ac7\u0a82\u0a9f \u0a95\u0abf\u0a9f\u0acd\u0ab8 \u0a85\u0aa8\u0ac7 \u0aa8\u0ac7\u0ab5\u0abf\u0ab8",
+        "uz": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0432\u0430 \u041d\u0435\u0432\u0438\u0441",
+        "cy": "Saint Kitts a Nevis",
+        "ug": "\u0633\u0627\u064a\u0646\u062a \u0643\u0649\u062a\u0649\u0633 \u06cb\u06d5 \u0646\u06d0\u06cb\u0649\u0633",
+        "nn": "Saint Kitts og Nevis",
+        "uk": "\u0421\u0435\u043d\u0442-\u041a\u0456\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441",
+        "qu": "San Crist\u00f3bal y Nieves",
+        "tl": "St. Kitts & Nevis",
+        "ms": "Saint Kitts dan Nevis",
+        "so": "St. Kitts & Nefis",
+        "da": "Saint Kitts og Nevis",
+        "tt": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u04bb\u04d9\u043c \u041d\u0435\u0432\u0438\u0441",
+        "af": "Sint Kitts en Nevis",
+        "ha": "San Kiti Da Nebis",
+        "iw": "\u05e1\u05e0\u05d8 \u05e7\u05d9\u05d8\u05e1 \u05d5\u05e0\u05d5\u05d5\u05d9\u05e1",
+        "ee": "Saint Kitis kple Nevis nutome",
+        "in": "Saint Kitts dan Nevis",
+        "to": "S\u0101 Kitisi mo Nevisi",
+        "sl": "Saint Kitts in Nevis",
+        "sg": "S\u00ean-Kr\u00efst\u00f4fo-na-Nev\u00eesi",
+        "lb": "St. Kitts an Nevis",
+        "fo": "St. Kitts & Nevis",
+        "mn": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0442\u0441 \u0431\u0430 \u041d\u0435\u0432\u0438\u0441",
+        "id": "Saint Kitts dan Nevis",
+        "pa": "\u0a38\u0a47\u0a02\u0a1f \u0a15\u0a3f\u0a1f\u0a38 \u0a10\u0a02\u0a21 \u0a28\u0a47\u0a35\u0a3f\u0a38",
+        "ka": "\u10e1\u10d4\u10dc\u10e2-\u10d9\u10d8\u10e2\u10e1\u10d8 \u10d3\u10d0 \u10dc\u10d4\u10d5\u10d8\u10e1\u10d8",
+        "nd": "Saint Kitts and Nevis"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Christ Church Nichola Town Parish",
-            "code": "01",
-            "names": {
-                "geonames": "Christ Church Nichola Town",
-                "ru": "\u041a\u0440\u0430\u0439\u0441\u0442-\u0427\u0451\u0440\u0447-\u041d\u0438\u043a\u043e\u043b\u0430-\u0422\u0430\u0443\u043d",
-                "en": "Christ Church Nichola Town Parish",
-                "de": "Christ Church Nichola Town",
-                "es": "Parroquia de Christ Church Nichola Town",
-                "fr": "Christ Church Nichola Town",
-                "it": "Parrocchia di Christ Church Nichola Town",
-                "zh": "\u57fa\u7763\u6559\u6703\u5c3c\u53e4\u62c9\u93ae\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3838624,
-            "lng": -62.77354300000002
+    "3166-2": [
+        {
+            "code": "KN-01",
+            "names": "Christ Church Nichola Town",
+            "type": "Parish"
         },
-        "02": {
-            "name": "Saint Anne Sandy Point Parish",
-            "code": "02",
-            "names": {
-                "geonames": "Saint Anne Sandy Point",
-                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043d\u043d-\u0421\u044d\u043d\u0434\u0438-\u041f\u043e\u0439\u043d\u0442",
-                "en": "Saint Anne Sandy Point Parish",
-                "de": "Saint Anne Sandy Point",
-                "es": "Parroquia de Saint Anne Sandy Point",
-                "fr": "Saint-Anne Sandy Point",
-                "it": "Parrocchia di Saint Anne Sandy Point",
-                "zh": "\u8056\u5b89\u5a1c\u6c99\u89d2\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3725333,
-            "lng": -62.844113300000004
+        {
+            "code": "KN-02",
+            "names": "Saint Anne Sandy Point",
+            "type": "Parish"
         },
-        "03": {
-            "name": "Saint George Basseterre Parish",
-            "code": "03",
-            "names": {
-                "geonames": "Saint George Basseterre",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0411\u0430\u0441\u0442\u0435\u0440",
-                "en": "Saint George Basseterre Parish",
-                "de": "Saint George Basseterre",
-                "es": "Parroquia de Saint George Basseterre",
-                "fr": "Saint-George Basseterre",
-                "it": "Parrocchia di Saint George Basseterre",
-                "zh": "\u8056\u55ac\u6cbb\u5df4\u585e\u7279\u840a\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.2946391,
-            "lng": -62.72370990000002
+        {
+            "code": "KN-03",
+            "names": "Saint George Basseterre",
+            "type": "Parish"
         },
-        "04": {
-            "name": "Saint George Gingerland Parish",
-            "code": "04",
-            "names": {
-                "geonames": "Saint George Gingerland",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0414\u0436\u0438\u043d\u0434\u0436\u0435\u0440\u043b\u0430\u043d\u0434",
-                "en": "Saint George Gingerland Parish",
-                "ar": "\u062c\u064a\u0646\u062c\u0631\u0644\u0627\u0646\u062f",
-                "de": "Saint George Gingerland",
-                "es": "Parroquia de Saint George Gingerland",
-                "fr": "Saint-George Gingerland",
-                "it": "Parrocchia di Saint George Gingerland",
-                "zh": "\u8056\u55ac\u6cbb\u91d1\u54f2\u862d\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-N",
-            "lat": 17.1308813,
-            "lng": -62.57094740000002
+        {
+            "code": "KN-04",
+            "names": "Saint George Gingerland",
+            "type": "Parish"
         },
-        "05": {
-            "name": "Saint James Windward Parish",
-            "code": "05",
-            "names": {
-                "geonames": "Saint James Windwa",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u0435\u0439\u043c\u0441-\u0423\u0438\u043d\u0434\u0443\u043e\u0440\u0434",
-                "en": "Saint James Windward Parish",
-                "de": "Saint James Windward",
-                "es": "Parroquia de Saint James Windward",
-                "fr": "Saint-James Windward",
-                "it": "Parrocchia di Saint James Windward",
-                "zh": "\u8056\u8a79\u59c6\u65af\u6eab\u6c83\u5fb7\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-N",
-            "lat": 17.1815053,
-            "lng": -62.57372859999998
+        {
+            "code": "KN-05",
+            "names": "Saint James Windward",
+            "type": "Parish"
         },
-        "06": {
-            "name": "Saint John Capisterre Parish",
-            "code": "06",
-            "names": {
-                "geonames": "Saint John Capesterre",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d-\u041a\u0430\u043f\u0438\u0441\u0442\u0435\u0440",
-                "en": "Saint John Capisterre Parish",
-                "de": "Saint John Capisterre",
-                "es": "Parroquia de Saint John Capisterre",
-                "fr": "Saint-John Capisterre",
-                "it": "Parrocchia di Saint John Capisterre",
-                "zh": "\u8056\u7d04\u7ff0\u5361\u76ae\u65af\u7279\u840a\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 16.1361361,
-            "lng": -61.57729119999999
+        {
+            "code": "KN-06",
+            "names": "Saint John Capisterre",
+            "type": "Parish"
         },
-        "07": {
-            "name": "Saint John Figtree Parish",
-            "code": "07",
-            "names": {
-                "geonames": "Saint John Figtree",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d-\u0424\u0438\u0433\u0442\u0440\u0438",
-                "en": "Saint John Figtree Parish",
-                "de": "Saint John Figtree",
-                "es": "Parroquia de Saint John Figtree",
-                "fr": "Saint-John Figtree",
-                "it": "Parrocchia di Saint John Figtree",
-                "zh": "\u8056\u7d04\u7ff0\u8cbb\u683c\u7279\u91cc\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-N",
-            "lat": 17.1306916,
-            "lng": -62.601143699999966
+        {
+            "code": "KN-07",
+            "names": "Saint John Figtree",
+            "type": "Parish"
         },
-        "08": {
-            "name": "Saint Mary Cayon Parish",
-            "code": "08",
-            "names": {
-                "geonames": "Saint Mary Cayon",
-                "ru": "\u0421\u0435\u043d\u0442-\u041c\u0435\u0440\u0438-\u041a\u0430\u0439\u043e\u043d",
-                "en": "Saint Mary Cayon Parish",
-                "de": "Saint Mary Cayon",
-                "es": "Parroquia de Saint Mary Cayon",
-                "fr": "Saint-Mary Cayon",
-                "it": "Parrocchia di Saint Mary Cayon",
-                "zh": "\u8056\u746a\u9e97\u5361\u6c38\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3538946,
-            "lng": -62.73532769999997
+        {
+            "code": "KN-08",
+            "names": "Saint Mary Cayon",
+            "type": "Parish"
         },
-        "09": {
-            "name": "Saint Paul Capisterre Parish",
-            "code": "09",
-            "names": {
-                "geonames": "Saint Paul Capesterre",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b-\u041a\u0430\u043f\u0438\u0441\u0442\u0435\u0440",
-                "en": "Saint Paul Capisterre Parish",
-                "de": "Saint Paul Capisterre",
-                "es": "Saint Paul Capisterre",
-                "fr": "Saint-Paul Capisterre",
-                "it": "Parrocchia di Saint Paul Capisterre",
-                "zh": "\u8056\u4fdd\u7f85\u5361\u76ae\u65af\u7279\u840a\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3942021,
-            "lng": -62.844113300000004
+        {
+            "code": "KN-09",
+            "names": "Saint Paul Capisterre",
+            "type": "Parish"
         },
-        "K": {
-            "name": "Saint Kitts",
-            "code": "K",
-            "division": "state",
-            "parent": "KN",
-            "lat": 17.3433796,
-            "lng": -62.7559043
+        {
+            "code": "KN-10",
+            "names": "Saint Paul Charlestown",
+            "type": "Parish"
         },
-        "N": {
-            "name": "Nevis",
-            "code": "N",
-            "division": "state",
-            "parent": "KN",
-            "lat": 17.1553558,
-            "lng": -62.57960259999999
+        {
+            "code": "KN-11",
+            "names": "Saint Peter Basseterre",
+            "type": "Parish"
         },
-        "10": {
-            "name": "Saint Paul Charlestown Parish",
-            "code": "10",
-            "names": {
-                "geonames": "Saint Paul Charlestown",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u043e\u043b-\u0427\u0430\u0440\u043b\u0441\u0442\u0430\u0443\u043d",
-                "en": "Saint Paul Charlestown Parish",
-                "de": "Saint Paul Charlestown",
-                "es": "Parroquia de Saint Paul Charlestown",
-                "fr": "Saint-Paul Charlestown",
-                "it": "Parrocchia di Saint Paul Charlestown",
-                "zh": "\u8056\u4fdd\u7f85\u67e5\u723e\u65af\u6566\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-N",
-            "lat": 17.1346297,
-            "lng": -62.613381600000025
+        {
+            "code": "KN-12",
+            "names": "Saint Thomas Lowland",
+            "type": "Parish"
         },
-        "11": {
-            "name": "Saint Peter Basseterre Parish",
-            "code": "11",
-            "names": {
-                "geonames": "Saint Peter Basseterre",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0438\u0442\u0435\u0440-\u0411\u0430\u0441\u0442\u0435\u0440",
-                "en": "Saint Peter Basseterre Parish",
-                "de": "Saint Peter Basseterre",
-                "es": "Parroquia de Saint Peter Basseterre",
-                "fr": "Saint-Peter Basseterre",
-                "it": "Parrocchia di Saint Peter Basseterre",
-                "zh": "\u8056\u5f7c\u5f97\u5df4\u585e\u7279\u840a\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3273856,
-            "lng": -62.72063149999997
+        {
+            "code": "KN-13",
+            "names": "Saint Thomas Middle Island",
+            "type": "Parish"
         },
-        "12": {
-            "name": "Saint Thomas Lowland Parish",
-            "code": "12",
-            "names": {
-                "geonames": "Saint Thomas Lowland",
-                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041b\u043e\u0443\u043b\u0435\u043d\u0434",
-                "en": "Saint Thomas Lowland Parish",
-                "de": "Saint Thomas Lowland",
-                "es": "Parroquia de Saint Thomas Lowland",
-                "fr": "Saint-Thomas Lowland",
-                "it": "Parrocchia di Saint Thomas Lowland",
-                "zh": "\u8056\u6258\u99ac\u65af\u4f4e\u5730\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-N",
-            "lat": 17.1650513,
-            "lng": -62.6089753
+        {
+            "code": "KN-15",
+            "names": "Trinity Palmetto Point",
+            "type": "Parish"
         },
-        "13": {
-            "name": "Saint Thomas Middle Island Parish",
-            "code": "13",
-            "names": {
-                "geonames": "Middle Island",
-                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041c\u0438\u0434\u043b-\u0410\u0439\u043b\u0435\u043d\u0434",
-                "en": "Saint Thomas Middle Island Parish",
-                "de": "Saint Thomas Middle Island",
-                "es": "Parroquia de Saint Thomas Middle Island",
-                "fr": "Saint-Thomas Middle Island",
-                "it": "Parrocchia di Saint Thomas Middle Island",
-                "zh": "\u8056\u6258\u99ac\u65af\u7c73\u5fb7\u827e\u862d\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3348813,
-            "lng": -62.808825100000035
+        {
+            "code": "KN-K",
+            "names": "Saint Kitts",
+            "type": "State"
         },
-        "15": {
-            "name": "Trinity Palmetto Point Parish",
-            "code": "15",
-            "names": {
-                "geonames": "Trinity Palmetto Point",
-                "ru": "\u0422\u0440\u0438\u043d\u0438\u0442\u0438-\u041f\u0430\u043b\u043c\u0435\u0442\u0442\u043e-\u041f\u043e\u0439\u043d\u0442",
-                "en": "Trinity Palmetto Point Parish",
-                "de": "Trinity Palmetto Point",
-                "es": "Parroquia de Trinity Palmetto Point",
-                "fr": "Trinity Palmetto Point",
-                "it": "Parrocchia di Trinity Palmetto Point",
-                "zh": "\u7279\u7acb\u5c3c\u63d0\u5e15\u7f8e\u6258\u89d2\u5340"
-            },
-            "division": "parish",
-            "parent": "KN-K",
-            "lat": 17.3080707,
-            "lng": -62.77354300000002
+        {
+            "code": "KN-N",
+            "names": "Nevis",
+            "type": "State"
         }
-    }
+    ]
 }

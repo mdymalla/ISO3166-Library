@@ -1,434 +1,243 @@
 {
     "alpha-2": "TD",
     "alpha-3": "TCD",
-    "numeric": 148,
-    "capital": "N'Djamena",
-    "currency": "XAF",
-    "languages": [
-        "fr",
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\udde9",
+    "numeric": "148",
     "names": {
-        "geonames": "Chad",
         "en": "Chad",
-        "ar": "\u062a\u0634\u0627\u062f",
-        "de": "Tschad",
-        "es": "Chad",
         "fr": "Tchad",
-        "it": "Ciad",
-        "ru": "\u0427\u0430\u0434",
+        "ur": "\u0686\u0627\u0688",
+        "rn": "Cadi",
+        "lv": "\u010cada",
+        "hy": "\u0549\u0561\u0564",
+        "sq": "\u00c7ad",
+        "jv": "Chad",
+        "or": "\u0b1a\u0b3e\u0b26\u0b4d",
+        "mg": "Tsady",
+        "no": "Tsjad",
         "zh": "\u4e4d\u5f97",
-        "he": "\u05e6'\u05d0\u05d3",
-        "hi": "\u091a\u093e\u0921",
+        "tr": "\u00c7ad",
+        "bs": "\u010cad",
+        "se": "T\u010dad",
         "ja": "\u30c1\u30e3\u30c9",
-        "pt": "Chade"
+        "th": "\u0e0a\u0e32\u0e14",
+        "he": "\u05e6\u05f3\u05d0\u05d3",
+        "kk": "\u0427\u0430\u0434",
+        "mo": "Ciad",
+        "ff": "\ud83a\udd15\ud83a\udd22\ud83a\udd44\ud83a\udd23",
+        "ca": "Txad",
+        "ar": "\u062a\u0634\u0627\u062f",
+        "eu": "Txad",
+        "ps": "\u0686\u0627\u0689",
+        "kn": "\u0c9a\u0cbe\u0ca6\u0ccd",
+        "si": "\u0da0\u0dd0\u0da0\u0dca",
+        "km": "\u1786\u17b6\u178a",
+        "ne": "\u091a\u093e\u0921",
+        "fi": "T\u0161ad",
+        "hi": "\u091a\u093e\u0921",
+        "rm": "Tschad",
+        "vi": "Chad",
+        "gl": "Chad",
+        "ig": "Chad",
+        "mr": "\u091a\u093e\u0921",
+        "es": "Chad",
+        "be": "\u0427\u0430\u0434",
+        "lg": "Caadi",
+        "az": "\u0427\u0430\u0434",
+        "ce": "\u0427\u0430\u0434",
+        "mk": "\u0427\u0430\u0434",
+        "zu": "i-Chad",
+        "it": "Ciad",
+        "ko": "\ucc28\ub4dc",
+        "lo": "\u0e8a\u0eb2\u0e94",
+        "lt": "\u010cadas",
+        "dz": "\u0f45\u0f71\u0f4c",
+        "ln": "Ts\u00e1di",
+        "hr": "\u010cad",
+        "sw": "Chadi",
+        "ks": "\u0686\u0627\u0691",
+        "sv": "Tchad",
+        "pl": "Czad",
+        "nb": "Tsjad",
+        "sh": "\u010cad",
+        "lu": "Tshadi",
+        "nl": "Tsjaad",
+        "ky": "\u0427\u0430\u0434",
+        "bn": "\u099a\u09be\u09a6",
+        "sd": "\u0686\u0627\u068a",
+        "fa": "\u0686\u0627\u062f",
+        "gd": "An t-Se\u00e0d",
+        "cs": "\u010cad",
+        "tk": "\u00c7ad",
+        "eo": "\u0108ado",
+        "mt": "i\u010b-Chad",
+        "sr": "\u010cad",
+        "wo": "C\u00e0dd",
+        "el": "\u03a4\u03c3\u03b1\u03bd\u03c4",
+        "sn": "Chadi",
+        "pt": "Chade",
+        "yi": "\u05d8\u05e9\u05d0\u05b7\u05d3",
+        "is": "Tsjad",
+        "ta": "\u0b9a\u0bbe\u0b9f\u0bcd",
+        "br": "Tchad",
+        "hu": "Cs\u00e1d",
+        "et": "T\u0161aad",
+        "ku": "\u00c7ad",
+        "sk": "\u010cad",
+        "te": "\u0c1a\u0c3e\u0c26\u0c4d",
+        "ro": "Ciad",
+        "ki": "Chadi",
+        "ak": "Kyad",
+        "tg": "\u0427\u0430\u0434",
+        "ml": "\u0d1b\u0d3e\u0d21\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de sh\u00e0\u00e0d\u00ec",
+        "de": "Tschad",
+        "as": "\u099a\u09be\u09a1",
+        "am": "\u127b\u12f5",
+        "ti": "\u132b\u12f5",
+        "ru": "\u0427\u0430\u0434",
+        "ga": "Sead",
+        "bg": "\u0427\u0430\u0434",
+        "my": "\u1001\u103b\u1012\u103a",
+        "fy": "Tsjaad",
+        "bm": "Cadi",
+        "gu": "\u0a9a\u0abe\u0aa1",
+        "uz": "\u0427\u0430\u0434",
+        "cy": "Tchad",
+        "ug": "\u0686\u0627\u062f",
+        "nn": "Tsjad",
+        "uk": "\u0427\u0430\u0434",
+        "qu": "Chad",
+        "tl": "Chad",
+        "ms": "Chad",
+        "so": "Jaad",
+        "da": "Tchad",
+        "tt": "\u0427\u0430\u0434",
+        "af": "Tsjad",
+        "ha": "Cadi",
+        "iw": "\u05e6\u05f3\u05d0\u05d3",
+        "ee": "Tsad nutome",
+        "in": "Cad",
+        "to": "S\u0101ti",
+        "sl": "\u010cad",
+        "sg": "Ty\u00e2de",
+        "lb": "Tschad",
+        "fo": "Kjad",
+        "mn": "\u0427\u0430\u0434",
+        "id": "Cad",
+        "pa": "\u0a1a\u0a3e\u0a21",
+        "ka": "\u10e9\u10d0\u10d3\u10d8",
+        "nd": "Chadi"
     },
-    "ISO3166-2": {
-        "BA": {
-            "name": "Batha Region",
-            "code": "BA",
-            "names": {
-                "geonames": "Batha",
-                "ru": "\u0411\u0430\u0442\u0445\u0430",
-                "en": "Batha Region",
-                "de": "Region Batha",
-                "es": "Regi\u00f3n de Batha",
-                "fr": "Batha",
-                "it": "Regione di Batha",
-                "zh": "\u5df4\u5854\u533a"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+    "3166-2": [
+        {
+            "code": "TD-BA",
+            "names": "Al Ba\u1e6dh\u0327ah",
+            "type": "Region"
         },
-        "BG": {
-            "name": "Bahr el Gazel",
-            "code": "BG",
-            "names": {
-                "geonames": "Barh el Gazel",
-                "ru": "\u0411\u0430\u0445\u0440-\u044d\u043b\u044c-\u0413\u0430\u0437\u0430\u043b\u044c",
-                "en": "Bahr el Gazel",
-                "ar": "\u0628\u062d\u0631 \u0627\u0644\u063a\u0632\u0627\u0644",
-                "de": "Bahr al-Ghazal",
-                "es": "R\u00edo el-Ghazal",
-                "fr": "Bahr el-Ghazal",
-                "it": "Bahr al-Ghazal",
-                "zh": "\u52a0\u624e\u52d2\u6cb3"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-BG",
+            "names": "Bah\u0327r al Ghaz\u0101l",
+            "type": "Region"
         },
-        "BO": {
-            "name": "B\u016brk\u016b",
-            "code": "BO",
-            "division": "region",
-            "parent": "TD"
+        {
+            "code": "TD-BO",
+            "names": "B\u016brk\u016b",
+            "type": "Region"
         },
-        "CB": {
-            "name": "Chari-Baguirmi Region",
-            "code": "CB",
-            "names": {
-                "geonames": "Chari-Baguirmi",
-                "ru": "\u0428\u0430\u0440\u0438-\u0411\u0430\u0433\u0438\u0440\u043c\u0438",
-                "en": "Chari-Baguirmi Region",
-                "de": "Region Chari-Baguirmi",
-                "es": "Regi\u00f3n de Chari-Baguirmi",
-                "fr": "Chari-Baguirmi",
-                "it": "Regione di Chari-Baguirmi",
-                "zh": "\u6c99\u91cc-\u5df4\u5409\u5c14\u7c73\u533a"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-CB",
+            "names": "Sh\u0101r\u012b B\u0101qirm\u012b",
+            "type": "Region"
         },
-        "EE": {
-            "name": "Ennedi-Est",
-            "code": "EE",
-            "names": {
-                "geonames": "Ennedi-Est",
-                "en": "Ennedi-Est"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-EN",
+            "names": "Inn\u012bd\u012b",
+            "type": "Region"
         },
-        "EN": {
-            "name": "Inn\u012bd\u012b",
-            "code": "EN",
-            "division": "region",
-            "parent": "TD"
+        {
+            "code": "TD-GR",
+            "names": "Q\u012br\u0101",
+            "type": "Region"
         },
-        "EO": {
-            "name": "Ennedi-Ouest",
-            "code": "EO",
-            "names": {
-                "geonames": "Ennedi-Ouest",
-                "en": "Ennedi-Ouest"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-HL",
+            "names": "\u1e24ajjar Lam\u012bs",
+            "type": "Region"
         },
-        "GR": {
-            "name": "Gu\u00e9ra",
-            "code": "GR",
-            "names": {
-                "geonames": "Guera",
-                "ru": "\u0413\u0435\u0440\u0430",
-                "en": "Gu\u00e9ra",
-                "ar": "\u0647\u064a\u0631\u0627",
-                "de": "Hera",
-                "es": "Hera",
-                "fr": "H\u00e9ra",
-                "it": "Era",
-                "zh": "\u8d6b\u62c9"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-KA",
+            "names": "K\u0101nim",
+            "type": "Region"
         },
-        "HL": {
-            "name": "Hadjer-Lamis Region",
-            "code": "HL",
-            "names": {
-                "geonames": "Hadjer-Lamis",
-                "ru": "\u0425\u0430\u0434\u0436\u0435\u0440-\u041b\u0430\u043c\u0438\u0441",
-                "en": "Hadjer-Lamis Region",
-                "de": "Region Hadjer-Lamis",
-                "fr": "Hadjer-Lamis",
-                "it": "Regione di Hadjer-Lamis",
-                "zh": "\u54c8\u5091\u723e-\u62c9\u5bc6\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-LC",
+            "names": "Al Buh\u0327ayrah",
+            "type": "Region"
         },
-        "KA": {
-            "name": "Kanem Region",
-            "code": "KA",
-            "names": {
-                "geonames": "Kanem",
-                "ru": "\u041a\u0430\u043d\u0435\u043c",
-                "en": "Kanem Region",
-                "de": "Region Kanem",
-                "es": "Regi\u00f3n de Kanem",
-                "fr": "Kanem",
-                "it": "Regione di Kanem",
-                "zh": "\u52a0\u5948\u59c6\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-LO",
+            "names": "L\u016bq\u016bn al Gharb\u012b",
+            "type": "Region"
         },
-        "LC": {
-            "name": "Lac",
-            "code": "LC",
-            "names": {
-                "geonames": "Lac",
-                "en": "Lac"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+        {
+            "code": "TD-LR",
+            "names": "L\u016bq\u016bn ash Sharq\u012b",
+            "type": "Region"
         },
-        "LO": {
-            "name": "Logone-Occidental",
-            "code": "LO",
-            "names": {
-                "geonames": "Logone Occidental",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041b\u043e\u0433\u043e\u043d",
-                "en": "Logone-Occidental",
-                "de": "Region Logone Occidental",
-                "es": "Regi\u00f3n de Logone Occidental",
-                "fr": "Logone Occidental",
-                "it": "Regione del Logone Occidentale",
-                "zh": "\u897f\u6d1b\u8ca2\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-MA",
+            "names": "M\u0101nd\u016bl",
+            "type": "Region"
         },
-        "LR": {
-            "name": "Logone-Oriental",
-            "code": "LR",
-            "names": {
-                "geonames": "Logone Oriental",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041b\u043e\u0433\u043e\u043d",
-                "en": "Logone-Oriental",
-                "de": "Region Logone Oriental",
-                "es": "Regi\u00f3n de Logone Oriental",
-                "fr": "Logone Oriental",
-                "it": "Regione del Logone Orientale",
-                "zh": "\u6771\u6d1b\u8ca2\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-MC",
+            "names": "Sh\u0101r\u012b al Awsa\u1e6d",
+            "type": "Region"
         },
-        "MA": {
-            "name": "Mandoul Region",
-            "code": "MA",
-            "names": {
-                "geonames": "Mandoul",
-                "ru": "\u041c\u0430\u043d\u0434\u0443\u043b\u044c",
-                "en": "Mandoul Region",
-                "de": "Region Mandoul",
-                "es": "Regi\u00f3n de Mandoul",
-                "fr": "Mandoul",
-                "it": "Regione di Mandoul",
-                "zh": "\u8292\u675c\u723e\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": 42.4072107,
-            "lng": -71.38243740000001
+        {
+            "code": "TD-ME",
+            "names": "M\u0101y\u016b K\u012bbb\u012b ash Sharq\u012b",
+            "type": "Region"
         },
-        "MC": {
-            "name": "Moyen-Chari Region",
-            "code": "MC",
-            "names": {
-                "geonames": "Moyen-Chari",
-                "ru": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435 \u0428\u0430\u0440\u0438",
-                "en": "Moyen-Chari Region",
-                "de": "Region Moyen-Chari",
-                "es": "Regi\u00f3n de Moyen-Chari",
-                "fr": "Moyen-Chari",
-                "it": "Regione di Moyen-Chari",
-                "zh": "\u4e2d\u6c99\u91cc\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-MO",
+            "names": "M\u0101y\u016b K\u012bbb\u012b al Gharb\u012b",
+            "type": "Region"
         },
-        "ME": {
-            "name": "Mayo-Kebbi Est Region",
-            "code": "ME",
-            "names": {
-                "geonames": "Mayo-Kebbi Est",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435 \u041c\u0430\u0439\u043e-\u041a\u0435\u0431\u0438",
-                "en": "Mayo-Kebbi Est Region",
-                "de": "Region Mayo-Kebbi Est",
-                "es": "Regi\u00f3n de Mayo-Kebbi Este",
-                "fr": "Mayo-Kebbi Est",
-                "it": "Regione di Mayo-Kebbi Est",
-                "zh": "\u6771\u51f1\u6bd4\u6cb3\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-ND",
+            "names": "Mad\u012bnat Injam\u012bn\u0101",
+            "type": "Region"
         },
-        "MO": {
-            "name": "Mayo-Kebbi Ouest Region",
-            "code": "MO",
-            "names": {
-                "geonames": "Mayo-Kebbi Ouest",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435 \u041c\u0430\u0439\u043e-\u041a\u0435\u0431\u0438",
-                "en": "Mayo-Kebbi Ouest Region",
-                "de": "Region Mayo-Kebbi Ouest",
-                "es": "Regi\u00f3n de Mayo-Kebbi Oeste",
-                "fr": "Mayo-Kebbi Ouest",
-                "it": "Regione di Mayo-Kebbi Ovest",
-                "zh": "\u897f\u51f1\u6bd4\u6cb3\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": 37.9642529,
-            "lng": -91.8318334
+        {
+            "code": "TD-OD",
+            "names": "Wadd\u0101y",
+            "type": "Region"
         },
-        "ND": {
-            "name": "N'Djamena",
-            "code": "ND",
-            "names": {
-                "geonames": "N'Djamena",
-                "ru": "\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430",
-                "en": "N'Djamena",
-                "ar": "\u0627\u0646\u062c\u0645\u064a\u0646\u0627",
-                "de": "N\u2019Djamena",
-                "es": "Yamena",
-                "fr": "Ndjamena",
-                "it": "N'Djamena",
-                "zh": "\u6069\u8cc8\u6885\u7d0d"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-SA",
+            "names": "Sal\u0101m\u0101t",
+            "type": "Region"
         },
-        "OD": {
-            "name": "Ouadda\u00ef Region",
-            "code": "OD",
-            "names": {
-                "geonames": "Ouadai",
-                "ru": "\u0412\u0430\u0434\u0434\u0430\u0439",
-                "en": "Ouadda\u00ef Region",
-                "de": "Region Wadai",
-                "es": "Regi\u00f3n de Ouadda\u00ef",
-                "fr": "Ouadda\u00ef",
-                "it": "Regione di Ouadda\u00ef",
-                "zh": "\u74e6\u9054\u4f0a\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-SI",
+            "names": "S\u012bl\u0101",
+            "type": "Region"
         },
-        "SA": {
-            "name": "Salamat Region",
-            "code": "SA",
-            "names": {
-                "geonames": "Salamat",
-                "ru": "\u0421\u0430\u043b\u0430\u043c\u0430\u0442",
-                "en": "Salamat Region",
-                "de": "Region Salamat",
-                "es": "Regi\u00f3n de Salamat",
-                "fr": "Salamat",
-                "it": "Regione del Salamat",
-                "zh": "\u8428\u62c9\u9a6c\u7279\u533a"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-TA",
+            "names": "T\u0101njil\u012b",
+            "type": "Region"
         },
-        "SI": {
-            "name": "Sila Region",
-            "code": "SI",
-            "names": {
-                "geonames": "Sila",
-                "ru": "\u0421\u0438\u043b\u0430",
-                "en": "Sila Region",
-                "ar": "\u0642\u0648\u0629",
-                "de": "Kraft",
-                "es": "Fuerza",
-                "fr": "Force",
-                "it": "Forza",
-                "zh": "\u529b"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-TI",
+            "names": "Tibast\u012b",
+            "type": "Region"
         },
-        "TA": {
-            "name": "Tandjil\u00e9 Region",
-            "code": "TA",
-            "names": {
-                "geonames": "Tandjile",
-                "ru": "\u0422\u0430\u043d\u0434\u0436\u0438\u043b\u0435",
-                "en": "Tandjil\u00e9 Region",
-                "de": "Region Tandjil\u00e9",
-                "es": "Regi\u00f3n de Tandjil\u00e9",
-                "fr": "Tandjil\u00e9",
-                "it": "Regione di Tandjil\u00e9",
-                "zh": "\u5766\u5409\u840a\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
-        },
-        "TI": {
-            "name": "Tibesti Region",
-            "code": "TI",
-            "names": {
-                "geonames": "Tibesti",
-                "ru": "\u0422\u0438\u0431\u0435\u0441\u0442\u0438",
-                "en": "Tibesti Region",
-                "ar": "\u062c\u0628\u0627\u0644 \u062a\u064a\u0628\u0633\u062a\u064a",
-                "de": "Tibesti",
-                "es": "Tibesti",
-                "fr": "Massif du Tibesti",
-                "it": "Tibesti",
-                "zh": "\u63d0\u8d1d\u65af\u63d0\u9ad8\u539f"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
-        },
-        "WF": {
-            "name": "Wadi Fira Region",
-            "code": "WF",
-            "names": {
-                "geonames": "Wadi Fira",
-                "ru": "\u0412\u0430\u0434\u0438-\u0424\u0435\u0440\u0430",
-                "en": "Wadi Fira Region",
-                "de": "Region Wadi Fira",
-                "fr": "Wadi Fira",
-                "it": "Regione di Wadi Fira",
-                "zh": "\u74e6\u8fea\u83f2\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TD",
-            "lat": null,
-            "lng": null
-        },
-        "23": {
-            "name": "Borkou",
-            "code": "23",
-            "names": {
-                "geonames": "Borkou",
-                "en": "Borkou"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TD-WF",
+            "names": "W\u0101d\u012b F\u012br\u0101",
+            "type": "Region"
         }
-    }
+    ]
 }

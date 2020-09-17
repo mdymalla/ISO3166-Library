@@ -1,262 +1,197 @@
 {
     "alpha-2": "TL",
     "alpha-3": "TLS",
-    "numeric": 626,
-    "capital": "Dili",
-    "currency": "USD",
-    "languages": [
-        "pt"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddf1",
+    "numeric": "626",
     "names": {
-        "geonames": "East Timor",
-        "en": "East Timor",
-        "ar": "\u062a\u064a\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
-        "de": "Osttimor",
-        "es": "Timor Oriental",
-        "fr": "Timor oriental",
-        "it": "Timor Est",
-        "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440",
+        "en": "Timor-Leste",
+        "fr": "Timor-Leste",
+        "ur": "\u062a\u06cc\u0645\u0648\u0631 \u0644\u06cc\u0633\u0679",
+        "rn": "Timoru y\u2019iburasirazuba",
+        "lv": "Austrumtimora",
+        "hy": "\u0539\u056b\u0574\u0578\u0580 \u053c\u0565\u0577\u057f\u056b",
+        "sq": "Timor-Leste",
+        "jv": "Timor Leste",
+        "or": "\u0b24\u0b3f\u0b2e\u0b4b\u0b30\u0b4d-\u0b32\u0b47\u0b37\u0b4d\u0b1f\u0b47",
+        "mg": "Timor Atsinanana",
+        "no": "\u00d8st-Timor",
         "zh": "\u4e1c\u5e1d\u6c76",
-        "he": "\u05de\u05d6\u05e8\u05d7 \u05d8\u05d9\u05de\u05d5\u05e8",
-        "hi": "\u092a\u0942\u0930\u094d\u0935 \u0924\u093f\u092e\u094b\u0930",
+        "tr": "Timor-Leste",
+        "bs": "Isto\u010dni Timor",
         "ja": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
-        "pt": "Timor-Leste"
+        "th": "\u0e15\u0e34\u0e21\u0e2d\u0e23\u0e4c-\u0e40\u0e25\u0e2a\u0e40\u0e15",
+        "he": "\u05d8\u05d9\u05de\u05d5\u05e8-\u05dc\u05e1\u05d8\u05d4",
+        "kk": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "mo": "Timor-Leste",
+        "ff": "Timoor Fu\u0257naange",
+        "ca": "Timor Oriental",
+        "ar": "\u062a\u064a\u0645\u0648\u0631 - \u0644\u064a\u0634\u062a\u064a",
+        "eu": "Ekialdeko Timor",
+        "ps": "\u062a\u064a\u0645\u0648\u0631-\u0644\u064a\u0633\u067c",
+        "kn": "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0ca4\u0cbf\u0cae\u0ccb\u0cb0\u0ccd",
+        "de": "Timor-Leste",
+        "si": "\u0da7\u0dd2\u0db8\u0ddd\u0dbb\u0dca - \u0dbd\u0dd9\u0dc3\u0dca\u0dad\u0dca",
+        "km": "\u1791\u17b8\u1798\u17d0\u179a\u179b\u17c1\u179f\u17d2\u178f\u17c1",
+        "ne": "\u091f\u093f\u092e\u094b\u0930-\u0932\u0947\u0938\u094d\u091f\u0947",
+        "fi": "It\u00e4-Timor",
+        "hi": "\u0924\u093f\u092e\u094b\u0930-\u0932\u0947\u0938\u094d\u0924",
+        "rm": "Timor da l\u2019Ost",
+        "vi": "Timor-Leste",
+        "gl": "Timor Leste",
+        "ig": "Timor-Leste",
+        "mr": "\u0924\u093f\u092e\u094b\u0930-\u0932\u0947\u0938\u094d\u0924\u0947",
+        "es": "Timor-Leste",
+        "be": "\u0422\u044b\u043c\u043e\u0440-\u041b\u0435\u0448\u0446\u0456",
+        "lg": "Timowa",
+        "az": "\u0428\u04d9\u0440\u0433\u0438 \u0422\u0438\u043c\u043e\u0440",
+        "ce": "\u041c\u0430\u043b\u0445\u0431\u0430\u043b\u0435\u043d \u0422\u0438\u043c\u043e\u0440",
+        "mk": "\u0418\u0441\u0442\u043e\u0447\u0435\u043d \u0422\u0438\u043c\u043e\u0440 (\u0422\u0438\u043c\u043e\u0440 \u041b\u0435\u0441\u0442\u0435)",
+        "zu": "i-Timor-Leste",
+        "it": "Timor Est",
+        "ko": "\ub3d9\ud2f0\ubaa8\ub974",
+        "lo": "\u0e97\u0eb4\u0ea1\u0ecd-\u0ec0\u0ea5\u0eaa\u0ec0\u0e95",
+        "lt": "Ryt\u0173 Timoras",
+        "dz": "\u0f4f\u0f72\u0f0b\u0f0b\u0f58\u0f7c\u0f62\u0f0b\u0f63\u0f7a\u0f0b\u0f68\u0f7a\u0f66\u0f4a",
+        "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440",
+        "ln": "Timor\u025b ya Moni\u025bl\u025b",
+        "hr": "Timor-Leste",
+        "sw": "Timor-Leste",
+        "ks": "\u0645\u064e\u0634\u0631\u0650\u0642\u06cc \u062a\u0627\u06cc\u0645\u0648\u0631",
+        "sv": "\u00d6sttimor",
+        "pl": "Timor Wschodni",
+        "nb": "\u00d8st-Timor",
+        "sh": "Timor-Leste (Isto\u010dni Timor)",
+        "lu": "Timoru wa diboku",
+        "nl": "Oost-Timor",
+        "ky": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "bn": "\u09a4\u09bf\u09ae\u09c1\u09b0-\u09b2\u09c7\u09b8\u09cd\u09a4\u09c7",
+        "sd": "\u062a\u064a\u0645\u0648\u0631 \u0644\u064a\u0633\u062a\u064a",
+        "fa": "\u062a\u06cc\u0645\u0648\u0631-\u0644\u0633\u062a\u0647",
+        "gd": "Timor-Leste",
+        "cs": "V\u00fdchodn\u00ed Timor",
+        "tk": "Timor-Leste",
+        "mt": "Timor Leste",
+        "sr": "Timor-Leste (Isto\u010dni Timor)",
+        "wo": "Timor Leste",
+        "el": "\u03a4\u03b9\u03bc\u03cc\u03c1-\u039b\u03ad\u03c3\u03c4\u03b5",
+        "sn": "East Timor",
+        "pt": "Timor-Leste",
+        "is": "T\u00edmor-Leste",
+        "ta": "\u0ba4\u0bbf\u0bae\u0bcb\u0bb0\u0bcd-\u0bb2\u0bc6\u0bb8\u0bcd\u0ba4\u0bc7",
+        "br": "Timor-Leste",
+        "hu": "Kelet-Timor",
+        "et": "Ida-Timor",
+        "ku": "T\u00eemora-Leste",
+        "sk": "V\u00fdchodn\u00fd Timor",
+        "te": "\u0c1f\u0c3f\u0c2e\u0c4b\u0c30\u0c4d-\u0c32\u0c46\u0c38\u0c4d\u0c1f\u0c46",
+        "ro": "Timor-Leste",
+        "ki": "Timori ya Mashariki",
+        "ak": "Tim\u0254 Boka",
+        "tg": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "ml": "\u0d24\u0d3f\u0d2e\u0d4b\u0d7c-\u0d32\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d46",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de \u00ccl\u00e0O\u00f2r\u00f9n T\u00edm\u0254\u0300",
+        "as": "\u099f\u09bf\u09ae\u09cb\u09f0-\u09b2\u09c7\u099a\u099f\u09c7",
+        "am": "\u1272\u121e\u122d \u120c\u1235\u1274",
+        "se": "Nuorta-Timor",
+        "ia": "Timor del Est",
+        "ti": "\u121d\u1265\u122b\u1255 \u1272\u121e\u122d",
+        "ga": "T\u00edom\u00f3r Thoir",
+        "bg": "\u0418\u0437\u0442\u043e\u0447\u0435\u043d \u0422\u0438\u043c\u043e\u0440",
+        "my": "\u1021\u101b\u103e\u1031\u1037\u1010\u102e\u1019\u1031\u102c",
+        "fy": "East-Timor",
+        "bm": "K\u0254r\u0254n Tim\u0254r",
+        "gu": "\u0aa4\u0abf\u0aae\u0acb\u0ab0-\u0ab2\u0ac7\u0ab8\u0acd\u0aa4\u0ac7",
+        "uz": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "cy": "Timor-Leste",
+        "ug": "\u0634\u06d5\u0631\u0642\u0649\u064a \u062a\u0649\u0645\u0648\u0631",
+        "nn": "Timor-Leste (Aust-Timor)",
+        "uk": "\u0422\u0456\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0456",
+        "qu": "Timor-Leste",
+        "tl": "Timor-Leste",
+        "ms": "Timor-Leste",
+        "so": "Timoor",
+        "da": "Timor-Leste",
+        "tt": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "af": "Oos-Timor",
+        "ha": "Timor Ta Gabas",
+        "iw": "\u05d8\u05d9\u05de\u05d5\u05e8-\u05dc\u05e1\u05d8\u05d4",
+        "ee": "Timor-Leste nutome",
+        "in": "Timor Leste",
+        "to": "Timoa fakahahake",
+        "sl": "Timor-Leste",
+        "sg": "Tim\u00f4ro t\u00ee T\u00f6",
+        "lb": "Osttimor",
+        "fo": "Eysturtimor",
+        "mn": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0441\u0442\u0435",
+        "id": "Timor Leste",
+        "pa": "\u0a24\u0a3f\u0a2e\u0a4b\u0a30-\u0a32\u0a47\u0a38\u0a24\u0a47",
+        "ka": "\u10e2\u10d8\u10db\u10dd\u10e0-\u10da\u10d4\u10e1\u10e2\u10d4",
+        "nd": "East Timor"
     },
-    "ISO3166-2": {
-        "AL": {
-            "name": "Aileu District",
-            "code": "AL",
-            "names": {
-                "geonames": "Aileu",
-                "ru": "\u0410\u0439\u043b\u0435\u0443",
-                "en": "Aileu District",
-                "de": "Aileu",
-                "es": "Aileu",
-                "fr": "Aileu",
-                "it": "Distretto di Aileu",
-                "zh": "\u963f\u4f0a\u840a\u70cf\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.716667,
-            "lng": 125.56666700000005
+    "3166-2": [
+        {
+            "code": "TL-AL",
+            "names": "Aileu",
+            "type": "District"
         },
-        "AN": {
-            "name": "Ainaro District",
-            "code": "AN",
-            "names": {
-                "geonames": "Ainaro",
-                "ru": "\u0410\u0439\u043d\u0430\u0440\u0443",
-                "en": "Ainaro District",
-                "de": "Ainaro",
-                "es": "Ainaro",
-                "fr": "Ainaro",
-                "it": "Distretto di Ainaro",
-                "zh": "\u963f\u4f0a\u7d0d\u7f85\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -9,
-            "lng": 125.5
+        {
+            "code": "TL-AN",
+            "names": "Ainaro",
+            "type": "District"
         },
-        "BA": {
-            "name": "Baucau District",
-            "code": "BA",
-            "names": {
-                "geonames": "Baucau",
-                "ru": "\u0411\u0430\u0443\u043a\u0430\u0443",
-                "en": "Baucau District",
-                "de": "Baucau",
-                "es": "Baucau",
-                "fr": "Baucau",
-                "it": "Distretto di Baucau",
-                "zh": "\u5305\u8003\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.4666667,
-            "lng": 126.45000000000005
+        {
+            "code": "TL-BA",
+            "names": "Baucau",
+            "type": "District"
         },
-        "BO": {
-            "name": "Bobonaro District",
-            "code": "BO",
-            "names": {
-                "geonames": "Bobonaro",
-                "ru": "\u0411\u043e\u0431\u043e\u043d\u0430\u0440\u0443",
-                "en": "Bobonaro District",
-                "de": "Bobonaro",
-                "es": "Bobonaro",
-                "fr": "Bobonaro",
-                "it": "Distretto di Bobonaro",
-                "zh": "\u535a\u535a\u7d0d\u7f85\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -9.0319444,
-            "lng": 125.32500000000005
+        {
+            "code": "TL-BO",
+            "names": "Bobonaro",
+            "type": "District"
         },
-        "CO": {
-            "name": "Cova Lima District",
-            "code": "CO",
-            "names": {
-                "geonames": "Cova Lima",
-                "ru": "\u041a\u043e\u0432\u0430-\u041b\u0438\u043c\u0430",
-                "en": "Cova Lima District",
-                "de": "Cova Lima",
-                "es": "Cova-Lima",
-                "fr": "Cova Lima",
-                "it": "Cova Lima",
-                "zh": "\u79d1\u74e6\u5229\u99ac\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TL-CO",
+            "names": "Cova Lima",
+            "type": "District"
         },
-        "DI": {
-            "name": "Dili District",
-            "code": "DI",
-            "names": {
-                "geonames": "Dili",
-                "ru": "\u0414\u0438\u043b\u0438",
-                "en": "Dili District",
-                "de": "Dili",
-                "es": "Dili",
-                "fr": "Dili",
-                "it": "Distretto di Dili",
-                "zh": "\u5e1d\u529b\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.558458,
-            "lng": 125.57815099999993
+        {
+            "code": "TL-DI",
+            "names": "D\u00edli",
+            "type": "District"
         },
-        "ER": {
-            "name": "Ermera District",
-            "code": "ER",
-            "names": {
-                "geonames": "Ermera",
-                "ru": "\u042d\u0440\u043c\u0435\u0440\u0430",
-                "en": "Ermera District",
-                "de": "Ermera",
-                "es": "Ermera",
-                "fr": "Ermera",
-                "it": "Ermera",
-                "zh": "\u57c3\u723e\u6885\u62c9\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.75,
-            "lng": 125.39999999999998
+        {
+            "code": "TL-ER",
+            "names": "Ermera",
+            "type": "District"
         },
-        "LA": {
-            "name": "Laut\u00e9m District",
-            "code": "LA",
-            "names": {
-                "geonames": "Lautem",
-                "ru": "\u041b\u0430\u0443\u0442\u0435\u043d",
-                "en": "Laut\u00e9m District",
-                "de": "Laut\u00e9m",
-                "es": "Lautem",
-                "fr": "Laut\u00e9m",
-                "it": "Distretto di Laut\u00e9m",
-                "zh": "\u52de\u6ed5\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.3642307,
-            "lng": 126.90438449999999
+        {
+            "code": "TL-LA",
+            "names": "Lautem",
+            "type": "District"
         },
-        "LI": {
-            "name": "Liqui\u00e7\u00e1 District",
-            "code": "LI",
-            "names": {
-                "geonames": "Liquica",
-                "ru": "\u041b\u0438\u043a\u0438\u0441\u0430",
-                "en": "Liqui\u00e7\u00e1 District",
-                "de": "Liqui\u00e7\u00e1",
-                "es": "Liqui\u00e7\u00e1",
-                "fr": "Liqui\u00e7\u00e1",
-                "it": "Distretto di Liqui\u00e7\u00e1",
-                "zh": "\u5229\u9035\u85a9\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TL-LI",
+            "names": "Liqui\u00e7a",
+            "type": "District"
         },
-        "MF": {
-            "name": "Manufahi District",
-            "code": "MF",
-            "names": {
-                "geonames": "Manufahi",
-                "ru": "\u041c\u0430\u043d\u0443\u0444\u0430\u0445\u0438",
-                "en": "Manufahi District",
-                "de": "Manufahi",
-                "es": "Manufahi",
-                "fr": "Manufahi",
-                "it": "Manufahi",
-                "zh": "\u99ac\u52aa\u6cd5\u4f0a\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TL-MF",
+            "names": "Manufahi",
+            "type": "District"
         },
-        "MT": {
-            "name": "Manatuto District",
-            "code": "MT",
-            "names": {
-                "geonames": "Manatuto",
-                "ru": "\u041c\u0430\u043d\u0430\u0442\u0443\u0442\u0443",
-                "en": "Manatuto District",
-                "de": "Manatuto",
-                "es": "Manatuto",
-                "fr": "Manatuto",
-                "it": "Distretto di Manatuto",
-                "zh": "\u99ac\u7d0d\u5716\u6258\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.5166667,
-            "lng": 126.01666669999997
+        {
+            "code": "TL-MT",
+            "names": "Manatuto",
+            "type": "District"
         },
-        "OE": {
-            "name": "Oecusse District",
-            "code": "OE",
-            "names": {
-                "geonames": "Oecusse",
-                "ru": "\u041e\u043a\u0443\u0441\u0438-\u0410\u043c\u0431\u0435\u043d\u043e",
-                "en": "Oecusse District",
-                "de": "Oecusse",
-                "es": "Oecussi-Ambeno",
-                "fr": "Oecusse",
-                "it": "Okussi-Ambeno",
-                "zh": "\u6b50\u5eab\u897f-\u5b89\u8c9d\u8afe\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -9.2019861,
-            "lng": 124.35601700000007
+        {
+            "code": "TL-OE",
+            "names": "Oecussi",
+            "type": "District"
         },
-        "VI": {
-            "name": "Viqueque District",
-            "code": "VI",
-            "names": {
-                "geonames": "Viqueque",
-                "ru": "\u0412\u0438\u043a\u0435\u043a\u0435",
-                "en": "Viqueque District",
-                "de": "Viqueque",
-                "es": "Viqueque",
-                "fr": "Viqueque",
-                "it": "Distretto di Viqueque",
-                "zh": "\u7dad\u514b\u514b\u7e23"
-            },
-            "division": "district",
-            "parent": "TL",
-            "lat": -8.8597918,
-            "lng": 126.36335159999999
+        {
+            "code": "TL-VI",
+            "names": "Viqueque",
+            "type": "District"
         }
-    }
+    ]
 }

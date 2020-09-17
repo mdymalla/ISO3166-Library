@@ -1,256 +1,224 @@
 {
     "alpha-2": "NL",
     "alpha-3": "NLD",
-    "numeric": 528,
-    "capital": "Amsterdam",
-    "currency": "EUR",
-    "languages": [
-        "nl"
-    ],
-    "flag-icon": "\ud83c\uddf3\ud83c\uddf1",
+    "numeric": "528",
     "names": {
-        "geonames": "Netherlands",
         "en": "Netherlands",
-        "ar": "\u0647\u0648\u0644\u0646\u062f\u0627",
-        "de": "Niederlande",
-        "es": "Pa\u00edses Bajos",
         "fr": "Pays-Bas",
-        "it": "Paesi Bassi",
-        "ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+        "ur": "\u0646\u06cc\u062f\u0631 \u0644\u06cc\u0646\u0688\u0632",
+        "rn": "Ubuholandi",
+        "lv": "N\u012bderlande",
+        "hy": "\u0546\u056b\u0564\u0565\u057c\u056c\u0561\u0576\u0564\u0576\u0565\u0580",
+        "sq": "Holand\u00eb",
+        "jv": "Walanda",
+        "or": "\u0b28\u0b47\u0b26\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21",
+        "mg": "Holanda",
+        "no": "Nederland",
         "zh": "\u8377\u5170",
-        "he": "\u05d4\u05d5\u05dc\u05e0\u05d3",
-        "hi": "\u0928\u0940\u0926\u0930\u0932\u0948\u0923\u094d\u0921",
+        "tr": "Hollanda",
+        "bs": "Holandija",
         "ja": "\u30aa\u30e9\u30f3\u30c0",
-        "pt": "Pa\u00edses Baixos"
+        "th": "\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "he": "\u05d4\u05d5\u05dc\u05e0\u05d3",
+        "fa": "\u0647\u0644\u0646\u062f",
+        "kk": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+        "mo": "\u021a\u0103rile de Jos",
+        "ff": "Nederlannda",
+        "ca": "Pa\u00efsos Baixos",
+        "ar": "\u0647\u0648\u0644\u0646\u062f\u0627",
+        "eu": "Herbehereak",
+        "ps": "\u0647\u0627\u0644\u06d0\u0646\u0689",
+        "kn": "\u0ca8\u0cc6\u0ca6\u0cb0\u0ccd\u200c\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd",
+        "si": "\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+        "km": "\u17a0\u17bc\u17a1\u1784\u17cb",
+        "ne": "\u0928\u0947\u0926\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "fi": "Alankomaat",
+        "hi": "\u0928\u0940\u0926\u0930\u0932\u0948\u0902\u0921",
+        "rm": "Pajais Bass",
+        "vi": "H\u00e0 Lan",
+        "gl": "Pa\u00edses Baixos",
+        "ig": "Netherlands",
+        "mr": "\u0928\u0947\u0926\u0930\u0932\u0901\u0921",
+        "es": "Pa\u00edses Bajos",
+        "be": "\u041d\u0456\u0434\u044d\u0440\u043b\u0430\u043d\u0434\u044b",
+        "lg": "Holandi",
+        "az": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+        "ce": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0430\u0448",
+        "mk": "\u0425\u043e\u043b\u0430\u043d\u0434\u0438\u0458\u0430",
+        "zu": "i-Netherlands",
+        "it": "Paesi Bassi",
+        "ko": "\ub124\ub35c\ub780\ub4dc",
+        "lo": "\u0ec0\u0e99\u0ec0\u0e97\u0eb5\u0ec1\u0ea5\u0e99",
+        "lt": "Nyderlandai",
+        "dz": "\u0f53\u0f7a\u0f0b\u0f51\u0f62\u0f0b\u0f63\u0f53\u0f4c\u0f66\u0f84",
+        "ln": "Oland\u025b",
+        "hr": "Nizozemska",
+        "ks": "\u0646\u06cc\u0656\u062f\u064e\u0631\u0644\u06cc\u0646\u0691",
+        "sv": "Nederl\u00e4nderna",
+        "pl": "Holandia",
+        "nb": "Nederland",
+        "sh": "Holandija",
+        "lu": "Oland\u025b",
+        "nl": "Nederland",
+        "ky": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+        "bn": "\u09a8\u09c7\u09a6\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8",
+        "sd": "\u0646\u064a\u062f\u0631\u0644\u064a\u0646\u068a",
+        "gd": "Na T\u00ecrean \u00ccsle",
+        "cs": "Nizozemsko",
+        "tk": "Niderlandlar",
+        "eo": "Nederlando",
+        "mt": "in-Netherlands",
+        "sr": "Holandija",
+        "wo": "Peyi Baa",
+        "el": "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
+        "sn": "Netherlands",
+        "pt": "Pa\u00edses Baixos",
+        "yi": "\u05d4\u05d0\u05dc\u05d0\u05b7\u05e0\u05d3",
+        "is": "Holland",
+        "ta": "\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+        "br": "Izelvroio\u00f9",
+        "hu": "Hollandia",
+        "et": "Holland",
+        "ku": "Holenda",
+        "sk": "Holandsko",
+        "sw": "Uholanzi",
+        "te": "\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d",
+        "ro": "\u021a\u0103rile de Jos",
+        "ki": "Uholanzi",
+        "ak": "N\u025bd\u025bland",
+        "tg": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ml": "\u0d28\u0d46\u0d24\u0d7c\u0d32\u0d3e\u0d7b\u0d21\u0d4d\u200c\u0d38\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Nedalandi",
+        "de": "Niederlande",
+        "as": "\u09a8\u09c7\u09a1\u09be\u09f0\u09b2\u09c7\u09a3\u09cd\u09a1",
+        "am": "\u1294\u12d8\u122d\u120b\u1295\u12f5",
+        "se": "Vuolleeatnamat",
+        "ia": "Nederlandia",
+        "ti": "\u1294\u12d8\u122d\u120b\u1295\u12f5\u1235",
+        "ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+        "ga": "an \u00cdsilt\u00edr",
+        "bg": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "my": "\u1014\u101a\u103a\u101e\u102c\u101c\u1014\u103a",
+        "fy": "Nederl\u00e2n",
+        "bm": "Peyiba",
+        "gu": "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8",
+        "uz": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "cy": "Yr Iseldiroedd",
+        "ug": "\u06af\u0648\u0644\u0644\u0627\u0646\u062f\u0649\u064a\u06d5",
+        "nn": "Nederland",
+        "uk": "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438",
+        "qu": "Pa\u00edses Bajos",
+        "tl": "Netherlands",
+        "ms": "Belanda",
+        "so": "Nederlaands",
+        "da": "Holland",
+        "tt": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+        "af": "Nederland",
+        "ha": "Holan",
+        "iw": "\u05d4\u05d5\u05dc\u05e0\u05d3",
+        "ee": "Netherlands nutome",
+        "in": "Belanda",
+        "to": "H\u014dlani",
+        "sl": "Nizozemska",
+        "sg": "Hol\u00e4nde",
+        "lb": "Holland",
+        "fo": "Ni\u00f0urlond",
+        "mn": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+        "id": "Belanda",
+        "pa": "\u0a28\u0a40\u0a26\u0a30\u0a32\u0a48\u0a02\u0a21",
+        "ka": "\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8",
+        "nd": "Netherlands"
     },
-    "ISO3166-2": {
-        "DR": {
-            "name": "Drenthe",
-            "code": "DR",
-            "names": {
-                "geonames": "Drenthe",
-                "ru": "\u0414\u0440\u0435\u043d\u0442\u0435",
-                "en": "Drenthe",
-                "ar": "\u062f\u0631\u064a\u0646\u062a\u0647",
-                "de": "Provinz Drenthe",
-                "es": "Drente",
-                "fr": "Drenthe",
-                "it": "Drenthe",
-                "zh": "\u5fb7\u4f26\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.9476012,
-            "lng": 6.623058600000036
+    "3166-2": [
+        {
+            "code": "NL-AW",
+            "names": "Aruba",
+            "type": "Country"
         },
-        "FL": {
-            "name": "Flevoland",
-            "code": "FL",
-            "names": {
-                "geonames": "Flevoland",
-                "ru": "\u0424\u043b\u0435\u0432\u043e\u043b\u0430\u043d\u0434",
-                "en": "Flevoland",
-                "ar": "\u0641\u0644\u064a\u0641\u0648\u0644\u0627\u0646\u062f",
-                "de": "Provinz Flevoland",
-                "es": "Flevolanda",
-                "fr": "Flevoland",
-                "it": "Flevoland",
-                "zh": "\u5f17\u83b1\u798f\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.5279781,
-            "lng": 5.595350800000006
+        {
+            "code": "NL-BQ1",
+            "names": "Bonaire",
+            "type": "Special municipality"
         },
-        "FR": {
-            "name": "Friesland",
-            "code": "FR",
-            "names": {
-                "geonames": "Friesland",
-                "ru": "\u0424\u0440\u0438\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "Friesland",
-                "ar": "\u0641\u0631\u0627\u064a\u0632\u0644\u0627\u0646\u062f",
-                "de": "Provinz Friesland",
-                "es": "Frisia",
-                "fr": "Frise",
-                "it": "Frisia",
-                "zh": "\u5f17\u91cc\u65af\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 53.1641642,
-            "lng": 5.781754200000023
+        {
+            "code": "NL-BQ2",
+            "names": "Saba",
+            "type": "Special municipality"
         },
-        "GE": {
-            "name": "Gelderland",
-            "code": "GE",
-            "names": {
-                "geonames": "Gelderland",
-                "ru": "\u0413\u0435\u043b\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
-                "en": "Gelderland",
-                "ar": "\u062e\u064a\u0644\u062f\u0631\u0644\u0646\u062f",
-                "de": "Provinz Gelderland",
-                "es": "G\u00fceldres",
-                "fr": "Gueldre",
-                "it": "Gheldria",
-                "zh": "\u6d77\u5c14\u5fb7\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.045155,
-            "lng": 5.871823400000039
+        {
+            "code": "NL-BQ3",
+            "names": "Sint Eustatius",
+            "type": "Special municipality"
         },
-        "GR": {
-            "name": "Groningen",
-            "code": "GR",
-            "names": {
-                "geonames": "Groningen",
-                "ru": "\u0413\u0440\u043e\u043d\u0438\u043d\u0433\u0435\u043d",
-                "en": "Groningen",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0631\u0648\u0646\u064a\u0646\u063a\u0646",
-                "de": "Provinz Groningen",
-                "es": "Provincia de Groninga",
-                "fr": "Groningue",
-                "it": "Groninga",
-                "zh": "\u683c\u7f57\u5b81\u6839\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 53.2193835,
-            "lng": 6.566501799999969
+        {
+            "code": "NL-CW",
+            "names": "Cura\u00e7ao",
+            "type": "Country"
         },
-        "LI": {
-            "name": "Limburg",
-            "code": "LI",
-            "names": {
-                "geonames": "Limburg",
-                "en": "Limburg",
-                "ar": "\u0644\u064a\u0645\u0628\u0648\u0631\u062e",
-                "de": "Provinz Limburg",
-                "es": "Limburgo",
-                "fr": "Province de Limbourg",
-                "it": "Limburgo",
-                "ru": "\u041b\u0438\u043c\u0431\u0443\u0440\u0433",
-                "zh": "\u6797\u5821\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 50.9738973,
-            "lng": 5.341967699999941
+        {
+            "code": "NL-DR",
+            "names": "Drenthe",
+            "type": "Province"
         },
-        "NB": {
-            "name": "North Brabant",
-            "code": "NB",
-            "names": {
-                "geonames": "North Brabant",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0440\u0430\u0431\u0430\u043d\u0442",
-                "en": "North Brabant",
-                "ar": "\u0634\u0645\u0627\u0644 \u0628\u0631\u0627\u0628\u0646\u062a",
-                "de": "Provinz Nordbrabant",
-                "es": "Brabante Septentrional",
-                "fr": "Brabant-Septentrional",
-                "it": "Brabante Settentrionale",
-                "zh": "\u5317\u5e03\u62c9\u73ed\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.4826537,
-            "lng": 5.232168699999988
+        {
+            "code": "NL-FL",
+            "names": "Flevoland",
+            "type": "Province"
         },
-        "NH": {
-            "name": "North Holland",
-            "code": "NH",
-            "names": {
-                "geonames": "North Holland",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "North Holland",
-                "ar": "\u0634\u0645\u0627\u0644-\u0647\u0648\u0644\u0646\u062f\u0627",
-                "de": "Provinz Nordholland",
-                "es": "Holanda Septentrional",
-                "fr": "Hollande-Septentrionale",
-                "it": "Olanda Settentrionale",
-                "zh": "\u5317\u8377\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.3910158,
-            "lng": 4.911270899999977
+        {
+            "code": "NL-FR",
+            "names": "Friesland",
+            "type": "Province"
         },
-        "OV": {
-            "name": "Overijssel",
-            "code": "OV",
-            "names": {
-                "geonames": "Overijssel",
-                "ru": "\u041e\u0432\u0435\u0440\u044d\u0439\u0441\u0441\u0435\u043b",
-                "en": "Overijssel",
-                "ar": "\u0623\u0648\u0641\u0631\u0627\u064a\u0633\u0644",
-                "de": "Provinz Overijssel",
-                "es": "Overijssel",
-                "fr": "Overijssel",
-                "it": "Overijssel",
-                "zh": "\u4e0a\u827e\u745f\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.4387814,
-            "lng": 6.501641100000029
+        {
+            "code": "NL-GE",
+            "names": "Gelderland",
+            "type": "Province"
         },
-        "UT": {
-            "name": "Utrecht",
-            "code": "UT",
-            "names": {
-                "geonames": "Utrecht",
-                "ru": "\u0423\u0442\u0440\u0435\u0445\u0442",
-                "en": "Utrecht",
-                "ar": "\u0623\u0648\u062a\u0631\u062e\u062a",
-                "de": "Utrecht",
-                "es": "Utrecht",
-                "fr": "Utrecht",
-                "it": "Utrecht",
-                "zh": "\u4e4c\u5f97\u52d2\u652f"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 52.0901422,
-            "lng": 5.109664899999984
+        {
+            "code": "NL-GR",
+            "names": "Groningen",
+            "type": "Province"
         },
-        "ZE": {
-            "name": "Zeeland",
-            "code": "ZE",
-            "names": {
-                "geonames": "Zeeland",
-                "en": "Zeeland",
-                "ar": "\u0632\u064a\u0644\u0646\u062f",
-                "de": "Provinz Zeeland",
-                "es": "Zelanda",
-                "fr": "Z\u00e9lande",
-                "it": "Zelanda",
-                "ru": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
-                "zh": "\u6cfd\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.4940309,
-            "lng": 3.849681499999974
+        {
+            "code": "NL-LI",
+            "names": "Limburg",
+            "type": "Province"
         },
-        "ZH": {
-            "name": "South Holland",
-            "code": "ZH",
-            "names": {
-                "geonames": "South Holland",
-                "ru": "\u042e\u0436\u043d\u0430\u044f \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "South Holland",
-                "ar": "\u062c\u0646\u0648\u0628 \u0647\u0648\u0644\u0646\u062f\u0627",
-                "de": "Provinz S\u00fcdholland",
-                "es": "Holanda Meridional",
-                "fr": "Hollande-M\u00e9ridionale",
-                "it": "Olanda Meridionale",
-                "zh": "\u5357\u8377\u862d\u7701"
-            },
-            "division": "province",
-            "parent": "NL",
-            "lat": 51.9053885,
-            "lng": 4.403839500000004
+        {
+            "code": "NL-NB",
+            "names": "Noord-Brabant",
+            "type": "Province"
+        },
+        {
+            "code": "NL-NH",
+            "names": "Noord-Holland",
+            "type": "Province"
+        },
+        {
+            "code": "NL-OV",
+            "names": "Overijssel",
+            "type": "Province"
+        },
+        {
+            "code": "NL-SX",
+            "names": "Sint Maarten",
+            "type": "Country"
+        },
+        {
+            "code": "NL-UT",
+            "names": "Utrecht",
+            "type": "Province"
+        },
+        {
+            "code": "NL-ZE",
+            "names": "Zeeland",
+            "type": "Province"
+        },
+        {
+            "code": "NL-ZH",
+            "names": "Zuid-Holland",
+            "type": "Province"
         }
-    }
+    ]
 }

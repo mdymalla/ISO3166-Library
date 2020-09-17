@@ -1,484 +1,254 @@
 {
     "alpha-2": "TN",
     "alpha-3": "TUN",
-    "numeric": 788,
-    "capital": "Tunis",
-    "currency": "TND",
-    "languages": [
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddf3",
+    "numeric": "788",
     "names": {
-        "geonames": "Tunisia",
         "en": "Tunisia",
-        "ar": "\u062a\u0648\u0646\u0633",
-        "de": "Tunesien",
-        "es": "T\u00fanez",
         "fr": "Tunisie",
-        "it": "Tunisia",
-        "ru": "\u0422\u0443\u043d\u0438\u0441",
-        "zh": "\u7a81\u5c3c\u897f\u4e9e",
-        "he": "\u05ea\u05d5\u05e0\u05d9\u05e1\u05d9\u05d4",
-        "hi": "\u0924\u0942\u0928\u093f\u0938\u0940\u092f\u093e",
+        "ur": "\u062a\u0648\u0646\u0633",
+        "rn": "Tuniziya",
+        "lv": "Tunisija",
+        "hy": "\u0539\u0578\u0582\u0576\u056b\u057d",
+        "sq": "Tunizi",
+        "jv": "Tunisia",
+        "or": "\u0b1f\u0b4d\u0b5f\u0b41\u0b28\u0b3f\u0b38\u0b3f\u0b06",
+        "mg": "Tonizia",
+        "no": "Tunisia",
+        "zh": "\u7a81\u5c3c\u65af",
+        "tr": "Tunus",
+        "bs": "Tunis",
         "ja": "\u30c1\u30e5\u30cb\u30b8\u30a2",
-        "pt": "Tun\u00edsia"
+        "th": "\u0e15\u0e39\u0e19\u0e34\u0e40\u0e0b\u0e35\u0e22",
+        "he": "\u05ea\u05d5\u05e0\u05d9\u05e1\u05d9\u05d4",
+        "kk": "\u0422\u0443\u043d\u0438\u0441",
+        "mo": "Tunisia",
+        "ff": "\ud83a\udd1a\ud83a\udd35\ud83a\udd32\ud83a\udd2d\ud83a\udd45\ud83a\udd27\ud83a\udd22",
+        "ca": "Tun\u00edsia",
+        "ar": "\u062a\u0648\u0646\u0633",
+        "eu": "Tunisia",
+        "ps": "\u062a\u0648\u0646\u0633",
+        "kn": "\u0c9f\u0cc1\u0ca8\u0cc0\u0cb6\u0cbf\u0caf",
+        "si": "\u0da7\u0dd2\u0dba\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u1791\u17bb\u1799\u1793\u17b8\u179f\u17ca\u17b8",
+        "ne": "\u091f\u094d\u092f\u0941\u0928\u093f\u0938\u093f\u092f\u093e",
+        "fi": "Tunisia",
+        "hi": "\u091f\u094d\u092f\u0942\u0928\u0940\u0936\u093f\u092f\u093e",
+        "rm": "Tunesia",
+        "vi": "Tunisia",
+        "gl": "Tunisia",
+        "ig": "Tunisia",
+        "mr": "\u091f\u094d\u092f\u0942\u0928\u093f\u0936\u093f\u092f\u093e",
+        "es": "T\u00fanez",
+        "be": "\u0422\u0443\u043d\u0456\u0441",
+        "lg": "Tunisya",
+        "az": "\u0422\u0443\u043d\u0438\u0441",
+        "ce": "\u0422\u0443\u043d\u0438\u0441",
+        "mk": "\u0422\u0443\u043d\u0438\u0441",
+        "zu": "i-Tunisia",
+        "it": "Tunisia",
+        "ko": "\ud280\ub2c8\uc9c0",
+        "lo": "\u0e95\u0eb9\u0e99\u0eb4\u0ec0\u0e8a\u0e8d",
+        "lt": "Tunisas",
+        "dz": "\u0f4a\u0f74\u0f0b\u0f53\u0f72\u0f0b\u0f64\u0f72\u0f0b\u0f61",
+        "ln": "Tinizi",
+        "hr": "Tunis",
+        "ks": "\u0679\u0648\u0646\u06cc\u0634\u0650\u06cc\u0627",
+        "sv": "Tunisien",
+        "pl": "Tunezja",
+        "nb": "Tunisia",
+        "sh": "Tunis",
+        "lu": "Tinizi",
+        "nl": "Tunesi\u00eb",
+        "ky": "\u0422\u0443\u043d\u0438\u0441",
+        "bn": "\u09a4\u09bf\u0989\u09a8\u09bf\u09b8\u09bf\u09af\u09bc\u09be",
+        "sd": "\u062a\u064a\u0648\u0646\u064a\u0633\u064a\u0627",
+        "fa": "\u062a\u0648\u0646\u0633",
+        "gd": "Tuinisea",
+        "cs": "Tunisko",
+        "tk": "Tunis",
+        "eo": "Tunizio",
+        "mt": "it-Tune\u017cija",
+        "sr": "Tunis",
+        "wo": "Tinisi",
+        "el": "\u03a4\u03c5\u03bd\u03b7\u03c3\u03af\u03b1",
+        "sn": "Tunisia",
+        "pt": "Tun\u00edsia",
+        "yi": "\u05d8\u05d5\u05e0\u05d9\u05e1\u05d9\u05e2",
+        "is": "T\u00fanis",
+        "ta": "\u0b9f\u0bc1\u0ba9\u0bbf\u0b9a\u0bbf\u0baf\u0bbe",
+        "br": "Tunizia",
+        "hu": "Tun\u00e9zia",
+        "et": "Tuneesia",
+        "ku": "T\u00fbnis",
+        "sk": "Tunisko",
+        "sw": "Tunisia",
+        "te": "\u0c1f\u0c4d\u0c2f\u0c41\u0c28\u0c40\u0c37\u0c3f\u0c2f\u0c3e",
+        "ro": "Tunisia",
+        "ki": "Tunisia",
+        "ak": "Tunihyia",
+        "tg": "\u0422\u0443\u043d\u0438\u0441",
+        "ml": "\u0d1f\u0d41\u0d23\u0d40\u0d37\u0d4d\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Tunishia",
+        "de": "Tunesien",
+        "as": "\u099f\u09c1\u09a8\u09bf\u099a\u09bf\u09af\u09bc\u09be",
+        "am": "\u1271\u1292\u12da\u12eb",
+        "se": "Tunisia",
+        "ia": "Tunisia",
+        "ti": "\u1271\u1292\u12da\u12eb",
+        "ru": "\u0422\u0443\u043d\u0438\u0441",
+        "ga": "an T\u00fain\u00e9is",
+        "bg": "\u0422\u0443\u043d\u0438\u0441",
+        "my": "\u1010\u1030\u1014\u102e\u1038\u101b\u103e\u102c\u1038",
+        "fy": "Tunesi\u00eb",
+        "bm": "Tunizi",
+        "gu": "\u0a9f\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab6\u0abf\u0aaf\u0abe",
+        "uz": "\u0422\u0443\u043d\u0438\u0441",
+        "cy": "Tunisia",
+        "ug": "\u062a\u06c7\u0646\u0649\u0633",
+        "nn": "Tunisia",
+        "uk": "\u0422\u0443\u043d\u0456\u0441",
+        "qu": "T\u00fanez",
+        "tl": "Tunisia",
+        "ms": "Tunisia",
+        "so": "Tuniisiya",
+        "da": "Tunesien",
+        "tt": "\u0422\u0443\u043d\u0438\u0441",
+        "af": "Tunisi\u00eb",
+        "ha": "Tunisiya",
+        "iw": "\u05ea\u05d5\u05e0\u05d9\u05e1\u05d9\u05d4",
+        "ee": "Tunisia nutome",
+        "in": "Tunisia",
+        "to": "Tun\u012bsia",
+        "sl": "Tunizija",
+        "sg": "Tuniz\u00efi",
+        "lb": "Tunesien",
+        "fo": "Tunesia",
+        "mn": "\u0422\u0443\u043d\u0438\u0441",
+        "id": "Tunisia",
+        "pa": "\u0a1f\u0a3f\u0a0a\u0a28\u0a40\u0a38\u0a3c\u0a40\u0a06",
+        "ka": "\u10e2\u10e3\u10dc\u10d8\u10e1\u10d8",
+        "nd": "Tunisiya"
     },
-    "ISO3166-2": {
-        "11": {
-            "name": "Tunis Governorate",
-            "code": "11",
-            "names": {
-                "geonames": "Tunis",
-                "ru": "\u0422\u0443\u043d\u0438\u0441",
-                "en": "Tunis Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0646\u0633",
-                "de": "Gouvernement Tunis",
-                "es": "Gobernaci\u00f3n de T\u00fanez",
-                "fr": "Gouvernorat de Tunis",
-                "it": "Governatorato di Tunisi",
-                "zh": "\u7a81\u5c3c\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.81881,
-            "lng": 10.165960000000041
+    "3166-2": [
+        {
+            "code": "TN-11",
+            "names": "Tunis",
+            "type": "Governorate"
         },
-        "12": {
-            "name": "Ariana Governorate",
-            "code": "12",
-            "names": {
-                "geonames": "Ariana",
-                "ru": "\u0410\u0440\u044c\u044f\u043d\u0430",
-                "en": "Ariana Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0623\u0631\u064a\u0627\u0646\u0629",
-                "de": "Gouvernement Ariana",
-                "es": "Gobernaci\u00f3n de Ariana",
-                "fr": "Gouvernorat de l'Ariana",
-                "it": "Governatorato di Ariana",
-                "zh": "\u827e\u723e\u4e9e\u5167\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.8829074,
-            "lng": 10.237305200000037
+        {
+            "code": "TN-12",
+            "names": "Ariana",
+            "type": "Governorate"
         },
-        "13": {
-            "name": "Ben Arous Governorate",
-            "code": "13",
-            "names": {
-                "geonames": "Bin 'Arus",
-                "ru": "\u0411\u0435\u043d-\u0410\u0440\u0443\u0441",
-                "en": "Ben Arous Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0646 \u0639\u0631\u0648\u0633",
-                "de": "Gouvernement Ben Arous",
-                "es": "Gobernaci\u00f3n de Ben Arous",
-                "fr": "Gouvernorat de Ben Arous",
-                "it": "Governatorato di Ben Arous",
-                "zh": "\u672c\u963f\u9b6f\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.7435003,
-            "lng": 10.23197570000002
+        {
+            "code": "TN-13",
+            "names": "Ben Arous",
+            "type": "Governorate"
         },
-        "14": {
-            "name": "Manouba Governorate",
-            "code": "14",
-            "names": {
-                "geonames": "Manouba",
-                "ru": "\u041c\u0430\u043d\u0443\u0431\u0430",
-                "en": "Manouba Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0645\u0646\u0648\u0628\u0629",
-                "de": "Gouvernement Manouba",
-                "es": "Gobernaci\u00f3n de Manouba",
-                "fr": "Gouvernorat de la Manouba",
-                "it": "Governatorato di Manouba",
-                "zh": "\u99ac\u52aa\u5df4\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.8103173,
-            "lng": 10.091824599999995
+        {
+            "code": "TN-14",
+            "names": "La Manouba",
+            "type": "Governorate"
         },
-        "21": {
-            "name": "Nabeul Governorate",
-            "code": "21",
-            "names": {
-                "geonames": "Nabul",
-                "ru": "\u041d\u0430\u0431\u0443\u043b\u044c",
-                "en": "Nabeul Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0646\u0627\u0628\u0644",
-                "de": "Gouvernement Nabeul",
-                "es": "Gobernaci\u00f3n de Nabeul",
-                "fr": "Gouvernorat de Nabeul",
-                "it": "Governatorato di Nabeul",
-                "zh": "\u7d0d\u5e03\u52d2\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.456478,
-            "lng": 10.735050000000001
+        {
+            "code": "TN-21",
+            "names": "Nabeul",
+            "type": "Governorate"
         },
-        "22": {
-            "name": "Zaghouan Governorate",
-            "code": "22",
-            "names": {
-                "geonames": "Zaghwan",
-                "ru": "\u0417\u0430\u0433\u0432\u0430\u043d",
-                "en": "Zaghouan Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0632\u063a\u0648\u0627\u0646",
-                "de": "Gouvernement Zaghouan",
-                "es": "Gobernaci\u00f3n de Zaghouan",
-                "fr": "Gouvernorat de Zaghouan",
-                "it": "Governatorato di Zaghouan",
-                "zh": "\u5bb0\u683c\u842c\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.3997,
-            "lng": 10.147209999999973
+        {
+            "code": "TN-22",
+            "names": "Zaghouan",
+            "type": "Governorate"
         },
-        "23": {
-            "name": "Bizerte Governorate",
-            "code": "23",
-            "names": {
-                "geonames": "Banzart",
-                "ru": "\u0411\u0438\u0437\u0435\u0440\u0442\u0430",
-                "en": "Bizerte Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0646\u0632\u0631\u062a",
-                "de": "Gouvernement Bizerta",
-                "es": "Gobernaci\u00f3n de Bizerta",
-                "fr": "Gouvernorat de Bizerte",
-                "it": "Governatorato di Biserta",
-                "zh": "\u6bd4\u585e\u5927\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 37.27626,
-            "lng": 9.873070999999982
+        {
+            "code": "TN-23",
+            "names": "Bizerte",
+            "type": "Governorate"
         },
-        "31": {
-            "name": "B\u00e9ja Governorate",
-            "code": "31",
-            "names": {
-                "geonames": "Bajah",
-                "ru": "\u0411\u0435\u0434\u0436\u0430",
-                "en": "B\u00e9ja Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u062c\u0629",
-                "de": "Gouvernement Beja",
-                "es": "Gobernaci\u00f3n de B\u00e9ja",
-                "fr": "Gouvernorat de B\u00e9ja",
-                "it": "Governatorato di B\u00e9ja",
-                "zh": "\u5df4\u5091\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.725311,
-            "lng": 9.192002000000002
+        {
+            "code": "TN-31",
+            "names": "B\u00e9ja",
+            "type": "Governorate"
         },
-        "32": {
-            "name": "Jendouba Governorate",
-            "code": "32",
-            "names": {
-                "geonames": "Jundubah",
-                "ru": "\u0414\u0436\u0435\u043d\u0434\u0443\u0431\u0430",
-                "en": "Jendouba Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062c\u0646\u062f\u0648\u0628\u0629",
-                "de": "Gouvernement Jendouba",
-                "es": "Gobernaci\u00f3n de Jendouba",
-                "fr": "Gouvernorat de Jendouba",
-                "it": "Governatorato di Jendouba",
-                "zh": "\u5805\u675c\u62dc\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.5,
-            "lng": 8.783333299999981
+        {
+            "code": "TN-32",
+            "names": "Jendouba",
+            "type": "Governorate"
         },
-        "33": {
-            "name": "Kef Governorate",
-            "code": "33",
-            "names": {
-                "geonames": "Kef",
-                "ru": "\u042d\u043b\u044c-\u041a\u0435\u0444",
-                "en": "Kef Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0643\u0627\u0641",
-                "de": "Gouvernement Kef",
-                "es": "Gobernaci\u00f3n de Al-K\u0101f",
-                "fr": "Gouvernorat du Kef",
-                "it": "Governatorato del Kef",
-                "zh": "\u5361\u592b\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.179272,
-            "lng": 8.714140000000043
+        {
+            "code": "TN-33",
+            "names": "Le Kef",
+            "type": "Governorate"
         },
-        "34": {
-            "name": "Siliana Governorate",
-            "code": "34",
-            "names": {
-                "geonames": "Silyanah",
-                "ru": "\u0421\u0438\u043b\u044c\u044f\u043d\u0430",
-                "en": "Siliana Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0633\u0644\u064a\u0627\u0646\u0629",
-                "de": "Gouvernement Siliana",
-                "es": "Gobernaci\u00f3n de Siliana",
-                "fr": "Gouvernorat de Siliana",
-                "it": "Governatorato di Siliana",
-                "zh": "\u932b\u52d2\u4e9e\u5948\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 36.090611,
-            "lng": 9.369996000000015
+        {
+            "code": "TN-34",
+            "names": "Siliana",
+            "type": "Governorate"
         },
-        "41": {
-            "name": "Kairouan Governorate",
-            "code": "41",
-            "names": {
-                "geonames": "Al Qayrawan",
-                "ru": "\u041a\u0430\u0439\u0440\u0443\u0430\u043d",
-                "en": "Kairouan Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646",
-                "de": "Gouvernement Kairouan",
-                "es": "Gobernaci\u00f3n de Kairu\u00e1n",
-                "fr": "Gouvernorat de Kairouan",
-                "it": "Governatorato di Kairouan",
-                "zh": "\u51f1\u9b6f\u842c\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.677139,
-            "lng": 10.097240000000056
+        {
+            "code": "TN-41",
+            "names": "Kairouan",
+            "type": "Governorate"
         },
-        "42": {
-            "name": "Kasserine Governorate",
-            "code": "42",
-            "names": {
-                "geonames": "Al Qasrayn",
-                "ru": "\u041a\u0430\u0441\u0435\u0440\u0438\u043d",
-                "en": "Kasserine Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0635\u0631\u064a\u0646",
-                "de": "Gouvernement Kasserine",
-                "es": "Gobernaci\u00f3n de Kasserine",
-                "fr": "Gouvernorat de Kasserine",
-                "it": "Governatorato di Kasserine",
-                "zh": "\u5361\u585e\u6797\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.171539,
-            "lng": 8.828745000000026
+        {
+            "code": "TN-42",
+            "names": "Kasserine",
+            "type": "Governorate"
         },
-        "43": {
-            "name": "Sidi Bouzid Governorate",
-            "code": "43",
-            "names": {
-                "geonames": "Sidi Bu Zayd",
-                "ru": "\u0421\u0438\u0434\u0438-\u0411\u0443-\u0417\u0438\u0434",
-                "en": "Sidi Bouzid Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0633\u064a\u062f\u064a \u0628\u0648\u0632\u064a\u062f",
-                "de": "Gouvernement Sidi Bouzid",
-                "es": "Gobernaci\u00f3n de Sidi Bouzid",
-                "fr": "Gouvernorat de Sidi Bouzid",
-                "it": "Governatorato di Sidi Bouzid",
-                "zh": "\u897f\u8fea\u5e03\u6fdf\u5fb7\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.0333333,
-            "lng": 9.5
+        {
+            "code": "TN-43",
+            "names": "Sidi Bouzid",
+            "type": "Governorate"
         },
-        "51": {
-            "name": "Sousse Governorate",
-            "code": "51",
-            "names": {
-                "geonames": "Susah",
-                "ru": "\u0421\u0443\u0441",
-                "en": "Sousse Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0633\u0648\u0633\u0629",
-                "de": "Gouvernement Sousse",
-                "es": "Gobernaci\u00f3n de Susa",
-                "fr": "Gouvernorat de Sousse",
-                "it": "Governatorato di Susa",
-                "zh": "\u8607\u585e\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.8333333,
-            "lng": 10.633333300000004
+        {
+            "code": "TN-51",
+            "names": "Sousse",
+            "type": "Governorate"
         },
-        "52": {
-            "name": "Monastir Governorate",
-            "code": "52",
-            "names": {
-                "geonames": "Al Munastir",
-                "ru": "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440",
-                "en": "Monastir Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0645\u0646\u0633\u062a\u064a\u0631",
-                "de": "Gouvernement Monastir",
-                "es": "Gobernaci\u00f3n de Monastir",
-                "fr": "Gouvernorat de Monastir",
-                "it": "Governatorato di Monastir",
-                "zh": "\u83ab\u7d0d\u65af\u63d0\u723e\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.77718,
-            "lng": 10.826099999999997
+        {
+            "code": "TN-52",
+            "names": "Monastir",
+            "type": "Governorate"
         },
-        "53": {
-            "name": "Mahdia Governorate",
-            "code": "53",
-            "names": {
-                "geonames": "Al Mahdiyah",
-                "ru": "\u041c\u0430\u0445\u0434\u0438\u044f",
-                "en": "Mahdia Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0645\u0647\u062f\u064a\u0629",
-                "de": "Gouvernement Mahdia",
-                "es": "Gobernaci\u00f3n de Mahdia",
-                "fr": "Gouvernorat de Mahdia",
-                "it": "Governatorato di Mahdia",
-                "zh": "\u99ac\u8d6b\u8fea\u8036\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 35.5024461,
-            "lng": 11.045720999999958
+        {
+            "code": "TN-53",
+            "names": "Mahdia",
+            "type": "Governorate"
         },
-        "61": {
-            "name": "Sfax Governorate",
-            "code": "61",
-            "names": {
-                "geonames": "Safaqis",
-                "ru": "\u0421\u0444\u0430\u043a\u0441",
-                "en": "Sfax Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0635\u0641\u0627\u0642\u0633",
-                "de": "Gouvernement Sfax",
-                "es": "Gobernaci\u00f3n de Sfax",
-                "fr": "Gouvernorat de Sfax",
-                "it": "Governatorato di Sfax",
-                "zh": "\u65af\u6cd5\u514b\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 34.745159,
-            "lng": 10.761300000000006
+        {
+            "code": "TN-61",
+            "names": "Sfax",
+            "type": "Governorate"
         },
-        "71": {
-            "name": "Gafsa Governorate",
-            "code": "71",
-            "names": {
-                "geonames": "Gafsa",
-                "ru": "\u0413\u0430\u0444\u0441\u0430",
-                "en": "Gafsa Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0642\u0641\u0635\u0629",
-                "de": "Gouvernement Gafsa",
-                "es": "Gobernaci\u00f3n de Gafsa",
-                "fr": "Gouvernorat de Gafsa",
-                "it": "Governatorato di Gafsa",
-                "zh": "\u52a0\u592b\u85a9\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 34.42165,
-            "lng": 8.786655999999994
+        {
+            "code": "TN-71",
+            "names": "Gafsa",
+            "type": "Governorate"
         },
-        "72": {
-            "name": "Tozeur Governorate",
-            "code": "72",
-            "names": {
-                "geonames": "Tawzar",
-                "ru": "\u0422\u0430\u0443\u0437\u0430\u0440",
-                "en": "Tozeur Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0632\u0631",
-                "de": "Gouvernement Tozeur",
-                "es": "Gobernaci\u00f3n de Tozeur",
-                "fr": "Gouvernorat de Tozeur",
-                "it": "Governatorato di Tozeur",
-                "zh": "\u6258\u6fa4\u723e\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 33.92403,
-            "lng": 8.131213000000002
+        {
+            "code": "TN-72",
+            "names": "Tozeur",
+            "type": "Governorate"
         },
-        "73": {
-            "name": "Kebili Governorate",
-            "code": "73",
-            "names": {
-                "geonames": "Qibili",
-                "ru": "\u041a\u0435\u0431\u0438\u043b\u0438",
-                "en": "Kebili Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0642\u0628\u0644\u064a",
-                "de": "Gouvernement Kebili",
-                "es": "Gobernaci\u00f3n de Kebili",
-                "fr": "Gouvernorat de K\u00e9bili",
-                "it": "Governatorato di K\u00e9bili",
-                "zh": "\u5409\u6bd4\u5229\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 33.7019444,
-            "lng": 8.973611099999971
+        {
+            "code": "TN-73",
+            "names": "Kebili",
+            "type": "Governorate"
         },
-        "81": {
-            "name": "Gab\u00e8s Governorate",
-            "code": "81",
-            "names": {
-                "geonames": "Qabis",
-                "ru": "\u0413\u0430\u0431\u0435\u0441",
-                "en": "Gab\u00e8s Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0642\u0627\u0628\u0633",
-                "de": "Gouvernement Gab\u00e8s",
-                "es": "Gobernaci\u00f3n de Gab\u00e8s",
-                "fr": "Gouvernorat de Gab\u00e8s",
-                "it": "Governatorato di Gab\u00e8s",
-                "zh": "\u52a0\u8c9d\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 33.893269,
-            "lng": 10.102910000000065
+        {
+            "code": "TN-81",
+            "names": "Gab\u00e8s",
+            "type": "Governorate"
         },
-        "82": {
-            "name": "Medenine Governorate",
-            "code": "82",
-            "names": {
-                "geonames": "Madanin",
-                "ru": "\u041c\u0435\u0434\u0435\u043d\u0438\u043d",
-                "en": "Medenine Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0645\u062f\u0646\u064a\u0646",
-                "de": "Gouvernement Medenine",
-                "es": "Gobernaci\u00f3n de Medenine",
-                "fr": "Gouvernorat de M\u00e9denine",
-                "it": "Governatorato di M\u00e9denine",
-                "zh": "\u6885\u5fb7\u5be7\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 33.348942,
-            "lng": 10.494789999999966
+        {
+            "code": "TN-82",
+            "names": "Medenine",
+            "type": "Governorate"
         },
-        "83": {
-            "name": "Tataouine Governorate",
-            "code": "83",
-            "names": {
-                "geonames": "Tataouine",
-                "ru": "\u0422\u0430\u0442\u0430\u0432\u0438\u043d",
-                "en": "Tataouine Governorate",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0637\u0627\u0648\u064a\u0646",
-                "de": "Gouvernement Tataouine",
-                "es": "Gobernaci\u00f3n de Tataouine",
-                "fr": "Gouvernorat de Tataouine",
-                "it": "Governatorato di Tataouine",
-                "zh": "\u6cf0\u5854\u6eab\u7701"
-            },
-            "division": "governorate",
-            "parent": "TN",
-            "lat": 32.9255556,
-            "lng": 10.444166699999982
+        {
+            "code": "TN-83",
+            "names": "Tataouine",
+            "type": "Governorate"
         }
-    }
+    ]
 }

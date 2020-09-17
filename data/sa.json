@@ -1,268 +1,198 @@
 {
     "alpha-2": "SA",
     "alpha-3": "SAU",
-    "numeric": 682,
-    "capital": "Riyadh",
-    "currency": "SAR",
-    "languages": [
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddf8\ud83c\udde6",
+    "numeric": "682",
     "names": {
-        "geonames": "Saudi Arabia",
         "en": "Saudi Arabia",
-        "ar": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
-        "de": "Saudi-Arabien",
-        "es": "Arabia Saudita",
         "fr": "Arabie saoudite",
-        "it": "Arabia Saudita",
-        "ru": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+        "ur": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628",
+        "rn": "Arabiya Sawudite",
+        "lv": "Sa\u016bda Ar\u0101bija",
+        "hy": "\u054d\u0561\u0578\u0582\u0564\u0575\u0561\u0576 \u0531\u0580\u0561\u0562\u056b\u0561",
+        "sq": "Arabi Saudite",
+        "jv": "Arab Saudi",
+        "or": "\u0b38\u0b3e\u0b09\u0b26\u0b3f \u0b06\u0b30\u0b2c\u0b3f\u0b06",
+        "mg": "Arabia saodita",
+        "no": "Saudi-Arabia",
         "zh": "\u6c99\u7279\u963f\u62c9\u4f2f",
-        "he": "\u05e2\u05e8\u05d1 \u05d4\u05e1\u05e2\u05d5\u05d3\u05d9\u05ea",
-        "hi": "\u0938\u0909\u0926\u0940 \u0905\u0930\u092c",
+        "tr": "Suudi Arabistan",
+        "bs": "Saudijska Arabija",
         "ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
-        "pt": "Ar\u00e1bia Saudita"
+        "th": "\u0e0b\u0e32\u0e2d\u0e38\u0e14\u0e35\u0e2d\u0e32\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22",
+        "he": "\u05e2\u05e8\u05d1 \u05d4\u05e1\u05e2\u05d5\u05d3\u05d9\u05ea",
+        "kk": "\u0421\u0430\u0443\u0434 \u0410\u0440\u0430\u0431\u0438\u044f\u0441\u044b",
+        "mo": "Arabia Saudit\u0103",
+        "ff": "Arabii Sawdit",
+        "ca": "Ar\u00e0bia Saudita",
+        "ar": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "eu": "Saudi Arabia",
+        "ps": "\u0633\u0639\u0648\u062f\u064a \u0639\u0631\u0628\u0633\u062a\u0627\u0646",
+        "kn": "\u0cb8\u0ccc\u0ca6\u0cbf \u0c85\u0cb0\u0cc7\u0cac\u0cbf\u0caf\u0cbe",
+        "si": "\u0dc3\u0dde\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2\u0dba",
+        "km": "\u17a2\u17b6\u179a\u17c9\u17b6\u1794\u17ca\u17b8\u179f\u17b6\u17a2\u17bc\u178c\u17b8\u178f",
+        "ne": "\u0938\u093e\u0909\u0926\u0940 \u0905\u0930\u092c",
+        "fi": "Saudi-Arabia",
+        "hi": "\u0938\u090a\u0926\u0940 \u0905\u0930\u092c",
+        "rm": "Arabia Saudita",
+        "vi": "\u1ea2 R\u1eadp X\u00ea-\u00fat",
+        "gl": "Arabia Saudita",
+        "ig": "Obodo Saudi Arabia",
+        "mr": "\u0938\u094c\u0926\u0940 \u0905\u0930\u092c",
+        "es": "Arabia Saudita",
+        "be": "\u0421\u0430\u0443\u0434\u0430\u045e\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0456\u044f",
+        "lg": "Sawudarebya - Buwarabu",
+        "az": "\u0421\u04d9\u0443\u0434\u0438\u0458\u0458\u04d9 \u04d8\u0440\u04d9\u0431\u0438\u0441\u0442\u0430\u043d\u044b",
+        "ce": "\u0421\u0430\u04c0\u0443\u0434\u0438\u0439\u043d \u04c0\u0430\u044c\u0440\u0431\u0438\u0439\u0447\u043e\u044c",
+        "mk": "\u0421\u0430\u0443\u0434\u0438\u0441\u043a\u0430 \u0410\u0440\u0430\u0431\u0438\u0458\u0430",
+        "zu": "i-Saudi Arabia",
+        "it": "Arabia Saudita",
+        "ko": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544",
+        "lo": "\u0e8a\u0eb2\u0ead\u0eb8\u0e94\u0eb4 \u0ead\u0eb2\u0ea3\u0eb2\u0ec0\u0e9a\u0e8d",
+        "lt": "Saudo Arabija",
+        "dz": "\u0f66\u0f71\u0f5d\u0f0b\u0f51\u0f72\u0f0b \u0f68\u0f0b\u0f62\u0f7a\u0f0b\u0f56\u0fb7\u0f72\u0f0b\u0f61",
+        "ln": "Alabi Sawudit\u025b",
+        "hr": "Saudijska Arabija",
+        "ks": "\u0633\u0648\u0657\u062f\u06cc \u0639\u0631\u0628\u0650\u06cc\u06c1",
+        "sv": "Saudiarabien",
+        "pl": "Arabia Saudyjska",
+        "nb": "Saudi-Arabia",
+        "sh": "Saudijska Arabija",
+        "lu": "Alabu Nsawudi",
+        "nl": "Saoedi-Arabi\u00eb",
+        "ky": "\u0421\u0430\u0443\u0434 \u0410\u0440\u0430\u0431\u0438\u044f\u0441\u044b",
+        "bn": "\u09b8\u09cc\u09a6\u09bf \u0986\u09b0\u09ac",
+        "sd": "\u0633\u0639\u0648\u062f\u064a \u0639\u0631\u0628",
+        "fa": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc",
+        "gd": "Ar\u00e0ibia nan Sabhd",
+        "cs": "Sa\u00fadsk\u00e1 Ar\u00e1bie",
+        "tk": "Saud Arabystany",
+        "eo": "Sa\u016dda Arabujo",
+        "mt": "l-Arabia Sawdija",
+        "sr": "Saudijska Arabija",
+        "wo": "Arabi Sawudi",
+        "el": "\u03a3\u03b1\u03bf\u03c5\u03b4\u03b9\u03ba\u03ae \u0391\u03c1\u03b1\u03b2\u03af\u03b1",
+        "sn": "Saudi Arabia",
+        "pt": "Ar\u00e1bia Saudita",
+        "is": "S\u00e1di-Arab\u00eda",
+        "ta": "\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf \u0b85\u0bb0\u0bc7\u0baa\u0bbf\u0baf\u0bbe",
+        "br": "Arabia Saoudat",
+        "hu": "Sza\u00fad-Ar\u00e1bia",
+        "et": "Saudi Araabia",
+        "ku": "Erebistana Siy\u00fbd\u00ee",
+        "sk": "Saudsk\u00e1 Ar\u00e1bia",
+        "sw": "Saudia",
+        "te": "\u0c38\u0c4c\u0c26\u0c40 \u0c05\u0c30\u0c47\u0c2c\u0c3f\u0c2f\u0c3e",
+        "ro": "Arabia Saudit\u0103",
+        "ki": "Saudi",
+        "ak": "Saudi Arabia",
+        "tg": "\u0410\u0440\u0430\u0431\u0438\u0441\u0442\u043e\u043d\u0438 \u0421\u0430\u0443\u0434\u04e3",
+        "ml": "\u0d38\u0d57\u0d26\u0d3f \u0d05\u0d31\u0d47\u0d2c\u0d4d\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Saudi Arabia",
+        "de": "Saudi-Arabien",
+        "as": "\u099a\u09cc\u09a1\u09bf \u0986\u09f0\u09ac\u09bf\u09af\u09bc\u09be",
+        "am": "\u1233\u12cd\u12f5\u12a0\u1228\u1262\u12eb",
+        "se": "Saudi-Ar\u00e1bia",
+        "ia": "Arabia Saudita",
+        "ti": "\u1235\u12d1\u12f2 \u12d3\u1228\u1265",
+        "ru": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+        "ga": "an Araib Sh\u00e1dach",
+        "bg": "\u0421\u0430\u0443\u0434\u0438\u0442\u0441\u043a\u0430 \u0410\u0440\u0430\u0431\u0438\u044f",
+        "my": "\u1006\u1031\u102c\u103a\u1012\u102e\u1021\u102c\u101b\u1031\u1038\u1018\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Saoedi-Arabi\u00eb",
+        "bm": "Arabiya Sawudiya",
+        "gu": "\u0ab8\u0abe\u0a89\u0aa6\u0ac0 \u0a85\u0ab0\u0ac7\u0aac\u0abf\u0aaf\u0abe",
+        "uz": "\u0421\u0430\u0443\u0434\u0438\u044f \u0410\u0440\u0430\u0431\u0438\u0441\u0442\u043e\u043d\u0438",
+        "cy": "Saudi Arabia",
+        "ug": "\u0633\u06d5\u0626\u06c7\u062f\u0649\u064a \u0626\u06d5\u0631\u06d5\u0628\u0649\u0633\u062a\u0627\u0646",
+        "nn": "Saudi-Arabia",
+        "uk": "\u0421\u0430\u0443\u0434\u0456\u0432\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0432\u0456\u044f",
+        "qu": "Arabia Saud\u00ed",
+        "tl": "Saudi Arabia",
+        "ms": "Arab Saudi",
+        "so": "Sacuudi Carabiya",
+        "da": "Saudi-Arabien",
+        "tt": "\u0421\u043e\u0433\u0443\u0434 \u0413\u0430\u0440\u04d9\u0431\u0441\u0442\u0430\u043d\u044b",
+        "af": "Saoedi-Arabi\u00eb",
+        "ha": "Saudiyya",
+        "iw": "\u05e2\u05e8\u05d1 \u05d4\u05e1\u05e2\u05d5\u05d3\u05d9\u05ea",
+        "ee": "Saudi Arabia nutome",
+        "in": "Arab Saudi",
+        "to": "Saute \u02bbAlepea",
+        "sl": "Saudova Arabija",
+        "sg": "Sa\u00fbdi Arab\u00efi",
+        "lb": "Saudi-Arabien",
+        "fo": "Saudiarabia",
+        "mn": "\u0421\u0430\u0443\u0434\u044b\u043d \u0410\u0440\u0430\u0431",
+        "id": "Arab Saudi",
+        "pa": "\u0a38\u0a3e\u0a0a\u0a26\u0a40 \u0a05\u0a30\u0a2c",
+        "ka": "\u10e1\u10d0\u10e3\u10d3\u10d8\u10e1 \u10d0\u10e0\u10d0\u10d1\u10d4\u10d7\u10d8",
+        "nd": "Saudi Arabia"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Riyadh Province",
-            "code": "01",
-            "names": {
-                "geonames": "Ar Riyad",
-                "ru": "\u042d\u0440-\u0420\u0438\u044f\u0434",
-                "en": "Riyadh Province",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
-                "de": "Provinz Riad",
-                "es": "Provincia de Riad",
-                "fr": "Riyad",
-                "it": "Al-Riyad",
-                "zh": "\u5229\u96c5\u5f97\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 24.0062801,
-            "lng": 38.190596700000015
+    "3166-2": [
+        {
+            "code": "SA-01",
+            "names": "Ar Riy\u0101\u1e0d",
+            "type": "Province"
         },
-        "02": {
-            "name": "Makkah Region",
-            "code": "02",
-            "names": {
-                "geonames": "Makkah",
-                "ru": "\u041c\u0435\u043a\u043a\u0430",
-                "en": "Makkah Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
-                "de": "Provinz Mekka",
-                "es": "Provincia de La Meca",
-                "fr": "La Mecque",
-                "it": "Provincia della Mecca",
-                "zh": "\u9ea5\u52a0\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 21.4273779,
-            "lng": 39.81483830000002
+        {
+            "code": "SA-02",
+            "names": "Makkah",
+            "type": "Province"
         },
-        "03": {
-            "name": "Al Madinah Region",
-            "code": "03",
-            "names": {
-                "geonames": "Al Madinah al Munawwarah",
-                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0434\u0438\u043d\u0430",
-                "en": "Al Madinah Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
-                "de": "Provinz Medina",
-                "es": "Provincia de Medina",
-                "fr": "M\u00e9dine",
-                "it": "Medina",
-                "zh": "\u9ea6\u5730\u90a3\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 24.460899,
-            "lng": 39.62018999999998
+        {
+            "code": "SA-03",
+            "names": "Al Mad\u012bnah",
+            "type": "Province"
         },
-        "04": {
-            "name": "Eastern Province",
-            "code": "04",
-            "names": {
-                "geonames": "Eastern Province",
-                "en": "Eastern Province"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 26.4200197,
-            "lng": 50.0994637
+        {
+            "code": "SA-04",
+            "names": "Ash Sharq\u012byah",
+            "type": "Province"
         },
-        "05": {
-            "name": "Al-Qassim Region",
-            "code": "05",
-            "names": {
-                "geonames": "Al-Qassim",
-                "ru": "\u042d\u043b\u044c-\u041a\u0430\u0441\u0438\u043c",
-                "en": "Al-Qassim Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0635\u064a\u0645",
-                "de": "Provinz Qasim",
-                "es": "Casim",
-                "fr": "Al Qasim",
-                "it": "Al-Qasim",
-                "zh": "\u76d6\u897f\u59c6\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 21.4662153,
-            "lng": 39.20090389999996
+        {
+            "code": "SA-05",
+            "names": "Al Qa\u015f\u012bm",
+            "type": "Province"
         },
-        "06": {
-            "name": "Ha'il Region",
-            "code": "06",
-            "names": {
-                "geonames": "Hai'l Region",
-                "ru": "\u0425\u0430\u0438\u043b\u044c",
-                "en": "Ha'il Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644",
-                "de": "Provinz Ha'il",
-                "es": "Provincia de Ha\u00edl",
-                "fr": "Ha\u00efl",
-                "it": "Ha'il",
-                "zh": "\u54c8\u4f0a\u52d2\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 21.5189104,
-            "lng": 39.16984320000006
+        {
+            "code": "SA-06",
+            "names": "\u1e24\u0101'il",
+            "type": "Province"
         },
-        "07": {
-            "name": "Tabuk Region",
-            "code": "07",
-            "names": {
-                "geonames": "Tabuk",
-                "ru": "\u0422\u0430\u0431\u0443\u043a",
-                "en": "Tabuk Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0628\u0648\u0643",
-                "de": "Provinz Tabuk",
-                "es": "Provincia de Tabuk",
-                "fr": "Tabuk",
-                "it": "Tabuk",
-                "zh": "\u5854\u5e03\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 26.2733419,
-            "lng": 50.19038780000005
+        {
+            "code": "SA-07",
+            "names": "Tab\u016bk",
+            "type": "Province"
         },
-        "08": {
-            "name": "Northern Borders Region",
-            "code": "08",
-            "names": {
-                "geonames": "Northern Borders",
-                "ru": "\u042d\u043b\u044c-\u0425\u0443\u0434\u0443\u0434 \u044d\u0448-\u0428\u0430\u043c\u0430\u043b\u0438\u0439\u044f",
-                "en": "Northern Borders Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Provinz al-Hudud asch-schamaliyya",
-                "es": "Provincia de la Frontera del Norte",
-                "fr": "Al-Hudud ach-Chamaliya",
-                "it": "Al-Hudud al-Shamaliyya",
-                "zh": "\u5317\u90e8\u8fb9\u7586\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+        {
+            "code": "SA-08",
+            "names": "Al \u1e24ud\u016bd ash Sham\u0101liyah",
+            "type": "Province"
         },
-        "09": {
-            "name": "Jizan Region",
-            "code": "09",
-            "names": {
-                "geonames": "Jizan",
-                "ru": "\u0414\u0436\u0438\u0437\u0430\u043d",
-                "en": "Jizan Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646",
-                "de": "Provinz Dschaizan",
-                "es": "Provincia de Jiz\u00e1n",
-                "fr": "Jizan",
-                "it": "Jazan",
-                "zh": "\u5409\u8d5e\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 21.2680711,
-            "lng": 40.42371449999996
+        {
+            "code": "SA-09",
+            "names": "J\u012bzan",
+            "type": "Province"
         },
-        "10": {
-            "name": "Najran Region",
-            "code": "10",
-            "names": {
-                "geonames": "Najran",
-                "ru": "\u041d\u0430\u0434\u0436\u0440\u0430\u043d",
-                "en": "Najran Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646",
-                "de": "Provinz Nadschran",
-                "es": "Provincia de Najr\u00e1n",
-                "fr": "Najran",
-                "it": "Najran",
-                "zh": "\u5948\u5b63\u5170\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 26.2718703,
-            "lng": 50.18619490000003
+        {
+            "code": "SA-10",
+            "names": "Najr\u0101n",
+            "type": "Province"
         },
-        "11": {
-            "name": "Al Bahah Region",
-            "code": "11",
-            "names": {
-                "geonames": "Al Bahah",
-                "ru": "\u042d\u043b\u044c-\u0411\u0430\u0445\u0430",
-                "en": "Al Bahah Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
-                "de": "Provinz Baha",
-                "es": "Provincia de Baha",
-                "fr": "Al Bahah",
-                "it": "Al-B\u0101ha",
-                "zh": "\u5df4\u54c8\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 28.396757,
-            "lng": 45.927276000000006
+        {
+            "code": "SA-11",
+            "names": "Al B\u0101hah",
+            "type": "Province"
         },
-        "12": {
-            "name": "Al Jawf Region",
-            "code": "12",
-            "names": {
-                "geonames": "Al Jawf",
-                "ru": "\u042d\u043b\u044c-\u0414\u0436\u0430\u0443\u0444",
-                "en": "Al Jawf Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0648\u0641",
-                "de": "Provinz Dschauf",
-                "es": "Provincia de Yauf",
-                "fr": "Al Jawf",
-                "it": "Al-Jawf",
-                "zh": "\u7126\u592b\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 29.802988,
-            "lng": 39.87931819999994
+        {
+            "code": "SA-12",
+            "names": "Al Jawf",
+            "type": "Province"
         },
-        "14": {
-            "name": "'Asir Region",
-            "code": "14",
-            "names": {
-                "geonames": "'Asir",
-                "ru": "\u0410\u0441\u0438\u0440",
-                "en": "'Asir Region",
-                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631",
-                "de": "Provinz Asir",
-                "es": "Provincia de Asir",
-                "fr": "Asir",
-                "it": "'Asir",
-                "zh": "\u963f\u897f\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "SA",
-            "lat": 24.6204049,
-            "lng": 46.69755329999998
+        {
+            "code": "SA-14",
+            "names": "`As\u012br",
+            "type": "Province"
         }
-    }
+    ]
 }

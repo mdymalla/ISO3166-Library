@@ -1,717 +1,554 @@
 {
     "alpha-2": "UG",
     "alpha-3": "UGA",
-    "numeric": 800,
-    "capital": "Kampala",
-    "currency": "UGX",
-    "languages": [
-        "en",
-        "sw"
-    ],
-    "flag-icon": "\ud83c\uddfa\ud83c\uddec",
+    "numeric": "800",
     "names": {
-        "geonames": "Uganda",
         "en": "Uganda",
-        "ar": "\u0623\u0648\u063a\u0646\u062f\u0627",
-        "de": "Uganda",
-        "es": "Uganda",
         "fr": "Ouganda",
-        "it": "Uganda",
-        "ru": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "ur": "\u06cc\u0648\u06af\u0646\u0688\u0627",
+        "rn": "Ubugande",
+        "lv": "Uganda",
+        "hy": "\u0548\u0582\u0563\u0561\u0576\u0564\u0561",
+        "sq": "Ugand\u00eb",
+        "jv": "Uganda",
+        "or": "\u0b09\u0b17\u0b3e\u0b23\u0b4d\u0b21\u0b3e",
+        "mg": "Oganda",
+        "no": "Uganda",
         "zh": "\u4e4c\u5e72\u8fbe",
-        "he": "\u05d0\u05d5\u05d2\u05e0\u05d3\u05d4",
-        "hi": "\u092f\u0941\u0917\u093e\u0923\u094d\u0921\u093e",
+        "tr": "Uganda",
+        "bs": "Uganda",
         "ja": "\u30a6\u30ac\u30f3\u30c0",
-        "pt": "Uganda"
+        "th": "\u0e22\u0e39\u0e01\u0e31\u0e19\u0e14\u0e32",
+        "he": "\u05d0\u05d5\u05d2\u05e0\u05d3\u05d4",
+        "fa": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627",
+        "kk": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "mo": "Uganda",
+        "ff": "\ud83a\udd13\ud83a\udd3a\ud83a\udd22\ud83a\udd32\ud83a\udd23\ud83a\udd22\ud83a\udd44",
+        "ca": "Uganda",
+        "ar": "\u0623\u0648\u063a\u0646\u062f\u0627",
+        "eu": "Uganda",
+        "ps": "\u06cc\u0648\u06ab\u0627\u0646\u0689\u0627",
+        "kn": "\u0c89\u0c97\u0cbe\u0c82\u0ca1\u0cbe",
+        "si": "\u0d8b\u0d9c\u0db1\u0dca\u0da9\u0dcf\u0dc0",
+        "km": "\u17a2\u17ca\u17bc\u17a0\u17d2\u1782\u1784\u17cb\u178a\u17b6",
+        "ne": "\u092f\u0941\u0917\u093e\u0923\u094d\u0921\u093e",
+        "fi": "Uganda",
+        "hi": "\u092f\u0941\u0917\u093e\u0902\u0921\u093e",
+        "rm": "Uganda",
+        "vi": "Uganda",
+        "gl": "Uganda",
+        "ig": "Uganda",
+        "mr": "\u092f\u0941\u0917\u093e\u0902\u0921\u093e",
+        "es": "Uganda",
+        "be": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "lg": "Yuganda",
+        "az": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "ce": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "mk": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "zu": "i-Uganda",
+        "it": "Uganda",
+        "ko": "\uc6b0\uac04\ub2e4",
+        "lo": "\u0ead\u0eb9\u0e81\u0eb2\u0e99\u0e94\u0eb2",
+        "lt": "Uganda",
+        "dz": "\u0f61\u0f74\u0f0b\u0f42\u0fb7\u0f53\u0f0b\u0f4c",
+        "ln": "Uganda",
+        "hr": "Uganda",
+        "ks": "\u06cc\u0648\u0657\u06af\u0627\u0646\u0691\u0627",
+        "sv": "Uganda",
+        "pl": "Uganda",
+        "nb": "Uganda",
+        "sh": "Uganda",
+        "lu": "Uganda",
+        "nl": "Oeganda",
+        "ky": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "bn": "\u0989\u0997\u09be\u09a8\u09cd\u09a1\u09be",
+        "sd": "\u064a\u0648\u06af\u0646\u068a\u0627",
+        "gd": "Uganda",
+        "cs": "Uganda",
+        "tk": "Uganda",
+        "eo": "Ugando",
+        "mt": "l-Uganda",
+        "sr": "Uganda",
+        "wo": "Ug\u00e0nda",
+        "el": "\u039f\u03c5\u03b3\u03ba\u03ac\u03bd\u03c4\u03b1",
+        "sn": "Uganda",
+        "pt": "Uganda",
+        "yi": "\u05d0\u05d5\u05d2\u05d0\u05b7\u05e0\u05d3\u05e2",
+        "is": "\u00daganda",
+        "ta": "\u0b89\u0b95\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe",
+        "br": "Ouganda",
+        "hu": "Uganda",
+        "et": "Uganda",
+        "ku": "\u00dbganda",
+        "sk": "Uganda",
+        "sw": "Uganda",
+        "te": "\u0c09\u0c17\u0c3e\u0c02\u0c21\u0c3e",
+        "ro": "Uganda",
+        "ki": "Uganda",
+        "ak": "Uganda",
+        "tg": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "ml": "\u0d09\u0d17\u0d3e\u0d23\u0d4d\u0d1f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Uganda",
+        "de": "Uganda",
+        "as": "\u0989\u0997\u09be\u09a3\u09cd\u09a1\u09be",
+        "am": "\u12e9\u130b\u1295\u12f3",
+        "se": "Uganda",
+        "ia": "Uganda",
+        "ti": "\u12e9\u130b\u1295\u12f3",
+        "ru": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "ga": "Uganda",
+        "bg": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "my": "\u101a\u1030\u1002\u1014\u103a\u1038\u1012\u102b\u1038",
+        "fy": "Oeganda",
+        "bm": "Uganda",
+        "gu": "\u0aaf\u0ac1\u0a97\u0abe\u0a82\u0aa1\u0abe",
+        "uz": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "cy": "Uganda",
+        "ug": "\u0626\u06c7\u06af\u0627\u0646\u062f\u0627",
+        "nn": "Uganda",
+        "uk": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "qu": "Uganda",
+        "tl": "Uganda",
+        "ms": "Uganda",
+        "so": "Ugaanda",
+        "da": "Uganda",
+        "tt": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "af": "Uganda",
+        "ha": "Yuganda",
+        "iw": "\u05d0\u05d5\u05d2\u05e0\u05d3\u05d4",
+        "ee": "Uganda nutome",
+        "in": "Uganda",
+        "to": "\u02bbIukanit\u0101",
+        "sl": "Uganda",
+        "sg": "Ugand\u00e4a",
+        "lb": "Uganda",
+        "fo": "Uganda",
+        "mn": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "id": "Uganda",
+        "pa": "\u0a2f\u0a42\u0a17\u0a3e\u0a02\u0a21\u0a3e",
+        "ka": "\u10e3\u10d2\u10d0\u10dc\u10d3\u10d0",
+        "nd": "Uganda"
     },
-    "ISO3166-2": {
-        "C": {
-            "name": "Central Region",
-            "code": "C",
-            "names": {
-                "geonames": "Central Region",
-                "en": "Central Region"
-            },
-            "division": "geographical region",
-            "parent": "UG",
-            "lat": 0.2540775,
-            "lng": 31.992807800000037
-        },
-        "E": {
-            "name": "Eastern Region",
-            "code": "E",
-            "names": {
-                "geonames": "Eastern Region",
-                "en": "Eastern Region"
-            },
-            "division": "geographical region",
-            "parent": "UG",
-            "lat": -1.9174872,
-            "lng": 30.43576310000003
-        },
-        "N": {
-            "name": "Northern Region",
-            "code": "N",
-            "names": {
-                "geonames": "Northern Region",
-                "en": "Northern Region"
-            },
-            "division": "geographical region",
-            "parent": "UG",
-            "lat": -1.656166,
-            "lng": 29.881520300000034
-        },
-        "W": {
-            "name": "Western Region",
-            "code": "W",
-            "names": {
-                "geonames": "Western Region",
-                "en": "Western Region"
-            },
-            "division": "geographical region",
-            "parent": "UG",
-            "lat": 0.6194244,
-            "lng": 34.68565089999993
-        },
-        "101": {
-            "name": "Kalangala",
-            "code": "101",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": -0.3088889,
-            "lng": 32.22500000000002
-        },
-        "102": {
-            "name": "Kampala",
-            "code": "102",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.3136111,
-            "lng": 32.581111100000044
-        },
-        "103": {
-            "name": "Kiboga",
-            "code": "103",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.9125,
-            "lng": 31.769999999999982
-        },
-        "104": {
-            "name": "Luwero",
-            "code": "104",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.8333333,
-            "lng": 32.5
-        },
-        "105": {
-            "name": "Masaka",
-            "code": "105",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": -0.335238,
-            "lng": 31.734079000000065
-        },
-        "106": {
-            "name": "Mpigi",
-            "code": "106",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.2230556,
-            "lng": 32.32444439999995
-        },
-        "107": {
-            "name": "Mubende",
-            "code": "107",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.5602778,
-            "lng": 31.389999999999986
-        },
-        "108": {
-            "name": "Mukono",
-            "code": "108",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.3533333,
-            "lng": 32.75527779999993
-        },
-        "109": {
-            "name": "Nakasongola",
-            "code": "109",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 1.3088889,
-            "lng": 32.45638889999998
-        },
-        "110": {
-            "name": "Rakai",
-            "code": "110",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": -0.70294,
-            "lng": 31.409909999999968
-        },
-        "111": {
-            "name": "Sembabule",
-            "code": "111",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": -0.0811111,
-            "lng": 31.460000000000036
-        },
-        "112": {
-            "name": "Kayunga",
-            "code": "112",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.7013707,
-            "lng": 32.90290879999998
-        },
-        "113": {
-            "name": "Wakiso",
-            "code": "113",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.3980556,
-            "lng": 32.47805560000006
-        },
-        "114": {
-            "name": "Mityana",
-            "code": "114",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.3991667,
-            "lng": 32.04333329999997
-        },
-        "115": {
-            "name": "Nakaseke",
-            "code": "115",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": 0.7,
-            "lng": 32.383333300000004
-        },
-        "116": {
-            "name": "Lyantonde",
-            "code": "116",
-            "division": "district",
-            "parent": "UG-C",
-            "lat": -0.4069444,
-            "lng": 31.157500000000027
-        },
-        "201": {
-            "name": "Bugiri",
-            "code": "201",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.5633333,
-            "lng": 33.75194439999996
-        },
-        "202": {
-            "name": "Busia",
-            "code": "202",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.455421,
-            "lng": 34.01864999999998
-        },
-        "203": {
-            "name": "Iganga",
-            "code": "203",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.6161111,
-            "lng": 33.482222200000024
-        },
-        "204": {
-            "name": "Jinja",
-            "code": "204",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.437773,
-            "lng": 33.203079
-        },
-        "205": {
-            "name": "Kamuli",
-            "code": "205",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.945,
-            "lng": 33.125
-        },
-        "206": {
-            "name": "Kapchorwa",
-            "code": "206",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.3966667,
-            "lng": 34.450000000000045
-        },
-        "207": {
-            "name": "Katakwi",
-            "code": "207",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.919463,
-            "lng": 33.952469000000065
-        },
-        "208": {
-            "name": "Kumi",
-            "code": "208",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.489673,
-            "lng": 33.93318739999995
-        },
-        "209": {
-            "name": "Mbale",
-            "code": "209",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.0805556,
-            "lng": 34.174999999999955
-        },
-        "210": {
-            "name": "Pallisa",
-            "code": "210",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.1666794,
-            "lng": 33.70985689999998
-        },
-        "211": {
-            "name": "Soroti",
-            "code": "211",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.715,
-            "lng": 33.61111110000002
-        },
-        "212": {
-            "name": "Tororo",
-            "code": "212",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.6927778,
-            "lng": 34.18111109999995
-        },
-        "213": {
-            "name": "Kaberamaido",
-            "code": "213",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.762489,
-            "lng": 33.148369
-        },
-        "214": {
-            "name": "Mayuge",
-            "code": "214",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.4562893,
-            "lng": 33.48038889999998
-        },
-        "215": {
-            "name": "Sironko",
-            "code": "215",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.2294444,
-            "lng": 34.24805560000004
-        },
-        "216": {
-            "name": "Amuria",
-            "code": "216",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 2.03,
-            "lng": 33.643055600000025
-        },
-        "217": {
-            "name": "Budaka",
-            "code": "217",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.016036,
-            "lng": 33.91833099999997
-        },
-        "218": {
-            "name": "Bukwa",
-            "code": "218",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.2938,
-            "lng": 34.73966999999993
-        },
-        "219": {
-            "name": "Butaleja",
-            "code": "219",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.925201,
-            "lng": 33.94570199999998
-        },
-        "220": {
-            "name": "Kaliro",
-            "code": "220",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.8944444,
-            "lng": 33.499444400000016
-        },
-        "221": {
-            "name": "Manafwa",
-            "code": "221",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.9420352,
-            "lng": 34.28326609999999
-        },
-        "222": {
-            "name": "Namutumba",
-            "code": "222",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 0.8360898,
-            "lng": 33.68609649999996
-        },
-        "223": {
-            "name": "Bududa",
-            "code": "223",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.01,
-            "lng": 34.33166670000003
-        },
-        "224": {
-            "name": "Bukedea",
-            "code": "224",
-            "division": "district",
-            "parent": "UG-E",
-            "lat": 1.3475,
-            "lng": 34.044444399999975
-        },
-        "301": {
-            "name": "Adjumani",
-            "code": "301",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.381441,
-            "lng": 31.78309999999999
-        },
-        "302": {
-            "name": "Apac",
-            "code": "302",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 1.9833333,
-            "lng": 32.53333329999998
-        },
-        "303": {
-            "name": "Arua",
-            "code": "303",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.03,
-            "lng": 30.909999999999968
-        },
-        "304": {
-            "name": "Gulu",
-            "code": "304",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.77932,
-            "lng": 32.28482800000006
-        },
-        "305": {
-            "name": "Kitgum",
-            "code": "305",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.294665,
-            "lng": 32.869011
-        },
-        "306": {
-            "name": "Kotido",
-            "code": "306",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.0061111,
-            "lng": 34.112499999999955
-        },
-        "307": {
-            "name": "Lira",
-            "code": "307",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.2488889,
-            "lng": 32.89999999999998
-        },
-        "308": {
-            "name": "Moroto",
-            "code": "308",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.5333333,
-            "lng": 34.66666669999995
-        },
-        "309": {
-            "name": "Moyo",
-            "code": "309",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.6539986,
-            "lng": 31.7238208
-        },
-        "310": {
-            "name": "Nebbi",
-            "code": "310",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.4791667,
-            "lng": 31.090000000000032
-        },
-        "311": {
-            "name": "Nakapiripirit",
-            "code": "311",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 1.8502515,
-            "lng": 34.721585900000036
-        },
-        "312": {
-            "name": "Pader",
-            "code": "312",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.7681977,
-            "lng": 33.23968660000003
-        },
-        "313": {
-            "name": "Yumbe",
-            "code": "313",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.465,
-            "lng": 31.245000000000005
-        },
-        "314": {
-            "name": "Amolatar",
-            "code": "314",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 1.6329923,
-            "lng": 32.81832259999999
-        },
-        "315": {
-            "name": "Kaabong",
-            "code": "315",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.516698,
-            "lng": 34.12321099999997
-        },
-        "316": {
-            "name": "Koboko",
-            "code": "316",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.4166667,
-            "lng": 30.96666670000002
-        },
-        "317": {
-            "name": "Abim",
-            "code": "317",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.733333,
-            "lng": 33.66666699999996
-        },
-        "318": {
-            "name": "Dokolo",
-            "code": "318",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 1.9166667,
-            "lng": 33.16666669999995
-        },
-        "319": {
-            "name": "Amuru",
-            "code": "319",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.8100853,
-            "lng": 31.85897829999999
-        },
-        "320": {
-            "name": "Maracha",
-            "code": "320",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 3.2873127,
-            "lng": 30.940302299999985
-        },
-        "321": {
-            "name": "Oyam",
-            "code": "321",
-            "division": "district",
-            "parent": "UG-N",
-            "lat": 2.2776281,
-            "lng": 32.44672379999997
-        },
-        "401": {
-            "name": "Bundibugyo",
-            "code": "401",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 0.71,
-            "lng": 30.065000000000055
-        },
-        "402": {
-            "name": "Bushenyi",
-            "code": "402",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.5386111,
-            "lng": 30.184999999999945
-        },
-        "403": {
-            "name": "Hoima",
-            "code": "403",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 1.4319444,
-            "lng": 31.352499999999964
-        },
-        "404": {
-            "name": "Kabale",
-            "code": "404",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -1.25,
-            "lng": 29.99000000000001
-        },
-        "405": {
-            "name": "Kabarole",
-            "code": "405",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 0.5896682,
-            "lng": 30.254878700000063
-        },
-        "406": {
-            "name": "Kasese",
-            "code": "406",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 0.1833333,
-            "lng": 30.08333330000005
-        },
-        "407": {
-            "name": "Kibaale",
-            "code": "407",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.7533142,
-            "lng": 31.3914585
-        },
-        "408": {
-            "name": "Kisoro",
-            "code": "408",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -1.285,
-            "lng": 29.684999999999945
-        },
-        "409": {
-            "name": "Masindi",
-            "code": "409",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 1.68156,
-            "lng": 31.709569999999985
-        },
-        "410": {
-            "name": "Mbarara",
-            "code": "410",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.605675,
-            "lng": 30.64855
-        },
-        "411": {
-            "name": "Ntungamo",
-            "code": "411",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.8819444,
-            "lng": 30.265277800000035
-        },
-        "412": {
-            "name": "Rukungiri",
-            "code": "412",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.79,
-            "lng": 29.924999999999955
-        },
-        "413": {
-            "name": "Kamwenge",
-            "code": "413",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 0.1861111,
-            "lng": 30.453888900000038
-        },
-        "414": {
-            "name": "Kanungu",
-            "code": "414",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.7965891,
-            "lng": 29.862797900000032
-        },
-        "415": {
-            "name": "Kyenjojo",
-            "code": "415",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 0.61,
-            "lng": 30.644166700000028
-        },
-        "416": {
-            "name": "Ibanda",
-            "code": "416",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.1348682,
-            "lng": 30.496241699999928
-        },
-        "417": {
-            "name": "Isingiro",
-            "code": "417",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.7454997,
-            "lng": 30.757983400000057
-        },
-        "418": {
-            "name": "Kiruhura",
-            "code": "418",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": -0.196398,
-            "lng": 30.844249999999988
-        },
-        "419": {
-            "name": "Buliisa",
-            "code": "419",
-            "division": "district",
-            "parent": "UG-W",
-            "lat": 1.8991969,
-            "lng": 31.35416310000005
+    "3166-2": [
+        {
+            "code": "UG-101",
+            "names": "Kalangala",
+            "type": "District"
+        },
+        {
+            "code": "UG-102",
+            "names": "Kampala",
+            "type": "District"
+        },
+        {
+            "code": "UG-103",
+            "names": "Kiboga",
+            "type": "District"
+        },
+        {
+            "code": "UG-104",
+            "names": "Luwero",
+            "type": "District"
+        },
+        {
+            "code": "UG-105",
+            "names": "Masaka",
+            "type": "District"
+        },
+        {
+            "code": "UG-106",
+            "names": "Mpigi",
+            "type": "District"
+        },
+        {
+            "code": "UG-107",
+            "names": "Mubende",
+            "type": "District"
+        },
+        {
+            "code": "UG-108",
+            "names": "Mukono",
+            "type": "District"
+        },
+        {
+            "code": "UG-109",
+            "names": "Nakasongola",
+            "type": "District"
+        },
+        {
+            "code": "UG-110",
+            "names": "Rakai",
+            "type": "District"
+        },
+        {
+            "code": "UG-111",
+            "names": "Sembabule",
+            "type": "District"
+        },
+        {
+            "code": "UG-112",
+            "names": "Kayunga",
+            "type": "District"
+        },
+        {
+            "code": "UG-113",
+            "names": "Wakiso",
+            "type": "District"
+        },
+        {
+            "code": "UG-114",
+            "names": "Mityana",
+            "type": "District"
+        },
+        {
+            "code": "UG-115",
+            "names": "Nakaseke",
+            "type": "District"
+        },
+        {
+            "code": "UG-116",
+            "names": "Lyantonde",
+            "type": "District"
+        },
+        {
+            "code": "UG-201",
+            "names": "Bugiri",
+            "type": "District"
+        },
+        {
+            "code": "UG-202",
+            "names": "Busia",
+            "type": "District"
+        },
+        {
+            "code": "UG-203",
+            "names": "Iganga",
+            "type": "District"
+        },
+        {
+            "code": "UG-204",
+            "names": "Jinja",
+            "type": "District"
+        },
+        {
+            "code": "UG-205",
+            "names": "Kamuli",
+            "type": "District"
+        },
+        {
+            "code": "UG-206",
+            "names": "Kapchorwa",
+            "type": "District"
+        },
+        {
+            "code": "UG-207",
+            "names": "Katakwi",
+            "type": "District"
+        },
+        {
+            "code": "UG-208",
+            "names": "Kumi",
+            "type": "District"
+        },
+        {
+            "code": "UG-209",
+            "names": "Mbale",
+            "type": "District"
+        },
+        {
+            "code": "UG-210",
+            "names": "Pallisa",
+            "type": "District"
+        },
+        {
+            "code": "UG-211",
+            "names": "Soroti",
+            "type": "District"
+        },
+        {
+            "code": "UG-212",
+            "names": "Tororo",
+            "type": "District"
+        },
+        {
+            "code": "UG-213",
+            "names": "Kaberamaido",
+            "type": "District"
+        },
+        {
+            "code": "UG-214",
+            "names": "Mayuge",
+            "type": "District"
+        },
+        {
+            "code": "UG-215",
+            "names": "Sironko",
+            "type": "District"
+        },
+        {
+            "code": "UG-216",
+            "names": "Amuria",
+            "type": "District"
+        },
+        {
+            "code": "UG-217",
+            "names": "Budaka",
+            "type": "District"
+        },
+        {
+            "code": "UG-218",
+            "names": "Bukwa",
+            "type": "District"
+        },
+        {
+            "code": "UG-219",
+            "names": "Butaleja",
+            "type": "District"
+        },
+        {
+            "code": "UG-220",
+            "names": "Kaliro",
+            "type": "District"
+        },
+        {
+            "code": "UG-221",
+            "names": "Manafwa",
+            "type": "District"
+        },
+        {
+            "code": "UG-222",
+            "names": "Namutumba",
+            "type": "District"
+        },
+        {
+            "code": "UG-223",
+            "names": "Bududa",
+            "type": "District"
+        },
+        {
+            "code": "UG-224",
+            "names": "Bukedea",
+            "type": "District"
+        },
+        {
+            "code": "UG-301",
+            "names": "Adjumani",
+            "type": "District"
+        },
+        {
+            "code": "UG-302",
+            "names": "Apac",
+            "type": "District"
+        },
+        {
+            "code": "UG-303",
+            "names": "Arua",
+            "type": "District"
+        },
+        {
+            "code": "UG-304",
+            "names": "Gulu",
+            "type": "District"
+        },
+        {
+            "code": "UG-305",
+            "names": "Kitgum",
+            "type": "District"
+        },
+        {
+            "code": "UG-306",
+            "names": "Kotido",
+            "type": "District"
+        },
+        {
+            "code": "UG-307",
+            "names": "Lira",
+            "type": "District"
+        },
+        {
+            "code": "UG-308",
+            "names": "Moroto",
+            "type": "District"
+        },
+        {
+            "code": "UG-309",
+            "names": "Moyo",
+            "type": "District"
+        },
+        {
+            "code": "UG-310",
+            "names": "Nebbi",
+            "type": "District"
+        },
+        {
+            "code": "UG-311",
+            "names": "Nakapiripirit",
+            "type": "District"
+        },
+        {
+            "code": "UG-312",
+            "names": "Pader",
+            "type": "District"
+        },
+        {
+            "code": "UG-313",
+            "names": "Yumbe",
+            "type": "District"
+        },
+        {
+            "code": "UG-314",
+            "names": "Amolatar",
+            "type": "District"
+        },
+        {
+            "code": "UG-315",
+            "names": "Kaabong",
+            "type": "District"
+        },
+        {
+            "code": "UG-316",
+            "names": "Koboko",
+            "type": "District"
+        },
+        {
+            "code": "UG-317",
+            "names": "Abim",
+            "type": "District"
+        },
+        {
+            "code": "UG-318",
+            "names": "Dokolo",
+            "type": "District"
+        },
+        {
+            "code": "UG-319",
+            "names": "Amuru",
+            "type": "District"
+        },
+        {
+            "code": "UG-320",
+            "names": "Maracha",
+            "type": "District"
+        },
+        {
+            "code": "UG-321",
+            "names": "Oyam",
+            "type": "District"
+        },
+        {
+            "code": "UG-401",
+            "names": "Bundibugyo",
+            "type": "District"
+        },
+        {
+            "code": "UG-402",
+            "names": "Bushenyi",
+            "type": "District"
+        },
+        {
+            "code": "UG-403",
+            "names": "Hoima",
+            "type": "District"
+        },
+        {
+            "code": "UG-404",
+            "names": "Kabale",
+            "type": "District"
+        },
+        {
+            "code": "UG-405",
+            "names": "Kabarole",
+            "type": "District"
+        },
+        {
+            "code": "UG-406",
+            "names": "Kasese",
+            "type": "District"
+        },
+        {
+            "code": "UG-407",
+            "names": "Kibaale",
+            "type": "District"
+        },
+        {
+            "code": "UG-408",
+            "names": "Kisoro",
+            "type": "District"
+        },
+        {
+            "code": "UG-409",
+            "names": "Masindi",
+            "type": "District"
+        },
+        {
+            "code": "UG-410",
+            "names": "Mbarara",
+            "type": "District"
+        },
+        {
+            "code": "UG-411",
+            "names": "Ntungamo",
+            "type": "District"
+        },
+        {
+            "code": "UG-412",
+            "names": "Rukungiri",
+            "type": "District"
+        },
+        {
+            "code": "UG-413",
+            "names": "Kamwenge",
+            "type": "District"
+        },
+        {
+            "code": "UG-414",
+            "names": "Kanungu",
+            "type": "District"
+        },
+        {
+            "code": "UG-415",
+            "names": "Kyenjojo",
+            "type": "District"
+        },
+        {
+            "code": "UG-416",
+            "names": "Ibanda",
+            "type": "District"
+        },
+        {
+            "code": "UG-417",
+            "names": "Isingiro",
+            "type": "District"
+        },
+        {
+            "code": "UG-418",
+            "names": "Kiruhura",
+            "type": "District"
+        },
+        {
+            "code": "UG-419",
+            "names": "Buliisa",
+            "type": "District"
+        },
+        {
+            "code": "UG-C",
+            "names": "Central",
+            "type": "Geographical region"
+        },
+        {
+            "code": "UG-E",
+            "names": "Eastern",
+            "type": "Geographical region"
+        },
+        {
+            "code": "UG-N",
+            "names": "Northern",
+            "type": "Geographical region"
+        },
+        {
+            "code": "UG-W",
+            "names": "Western",
+            "type": "Geographical region"
         }
-    }
+    ]
 }

@@ -1,704 +1,334 @@
 {
     "alpha-2": "ID",
     "alpha-3": "IDN",
-    "numeric": 360,
-    "capital": "Jakarta",
-    "currency": "IDR",
-    "languages": [
-        "id"
-    ],
-    "flag-icon": "\ud83c\uddee\ud83c\udde9",
+    "numeric": "360",
     "names": {
-        "geonames": "Indonesia",
         "en": "Indonesia",
-        "ar": "\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627",
-        "de": "Indonesien",
-        "es": "Indonesia",
         "fr": "Indon\u00e9sie",
-        "it": "Indonesia",
-        "ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "ur": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627",
+        "rn": "Indoneziya",
+        "lv": "Indon\u0113zija",
+        "hy": "\u053b\u0576\u0564\u0578\u0576\u0565\u0566\u056b\u0561",
+        "sq": "Indonezi",
+        "jv": "Indon\u00e9sia",
+        "or": "\u0b07\u0b23\u0b4d\u0b21\u0b4b\u0b28\u0b47\u0b38\u0b3f\u0b06",
+        "mg": "Indonezia",
+        "no": "Indonesia",
         "zh": "\u5370\u5ea6\u5c3c\u897f\u4e9a",
-        "he": "\u05d0\u05d9\u05e0\u05d3\u05d5\u05e0\u05d6\u05d9\u05d4",
-        "hi": "\u0907\u0902\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e",
+        "tr": "Endonezya",
+        "bs": "Indonezija",
         "ja": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
-        "pt": "Indon\u00e9sia"
+        "th": "\u0e2d\u0e34\u0e19\u0e42\u0e14\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22",
+        "he": "\u05d0\u05d9\u05e0\u05d3\u05d5\u05e0\u05d6\u05d9\u05d4",
+        "fa": "\u0627\u0646\u062f\u0648\u0646\u0632\u06cc",
+        "kk": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "mo": "Indonezia",
+        "ff": "Enndonesii",
+        "ca": "Indon\u00e8sia",
+        "ar": "\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627",
+        "eu": "Indonesia",
+        "ps": "\u0627\u0646\u062f\u0648\u0646\u06cc\u0632\u06cc\u0627",
+        "kn": "\u0c87\u0c82\u0ca1\u0ccb\u0ca8\u0cc7\u0cb6\u0cbf\u0caf\u0cbe",
+        "si": "\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u17a5\u178e\u17d2\u178c\u17bc\u178e\u17c1\u179f\u17ca\u17b8",
+        "ne": "\u0907\u0928\u094d\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e",
+        "fi": "Indonesia",
+        "hi": "\u0907\u0902\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e",
+        "rm": "Indonesia",
+        "vi": "Indonesia",
+        "gl": "Indonesia",
+        "ig": "Indonesia",
+        "mr": "\u0907\u0902\u0921\u094b\u0928\u0947\u0936\u093f\u092f\u093e",
+        "es": "Indonesia",
+        "be": "\u0406\u043d\u0434\u0430\u043d\u0435\u0437\u0456\u044f",
+        "lg": "Yindonezya",
+        "az": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0458\u0430",
+        "ce": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438",
+        "mk": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0458\u0430",
+        "zu": "i-Indonesia",
+        "it": "Indonesia",
+        "ko": "\uc778\ub3c4\ub124\uc2dc\uc544",
+        "lo": "\u0ead\u0eb4\u0e99\u0ec2\u0e94\u0ec0\u0e99\u0ec0\u0e8a\u0e8d",
+        "lt": "Indonezija",
+        "dz": "\u0f68\u0f72\u0f53\u0f0b\u0f4c\u0f7c\u0f0b\u0f53\u0f7a\u0f0b\u0f64\u0f72\u0f0b\u0f61",
+        "ln": "Indonezi",
+        "hr": "Indonezija",
+        "ks": "\u0627\u0650\u0646\u0691\u0648\u0646\u06cc\u0634\u0650\u06cc\u0627",
+        "sv": "Indonesien",
+        "pl": "Indonezja",
+        "nb": "Indonesia",
+        "sh": "Indonezija",
+        "lu": "Indonezi",
+        "nl": "Indonesi\u00eb",
+        "ky": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "bn": "\u0987\u09a8\u09cd\u09a6\u09cb\u09a8\u09c7\u09b6\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0627\u0646\u068a\u0648\u0646\u064a\u0634\u064a\u0627",
+        "gd": "Na h-Innd-innse",
+        "cs": "Indon\u00e9sie",
+        "tk": "Indonezi\u00fda",
+        "eo": "Indonezio",
+        "mt": "l-Indone\u017cja",
+        "sr": "Indonezija",
+        "wo": "Indonesi",
+        "el": "\u0399\u03bd\u03b4\u03bf\u03bd\u03b7\u03c3\u03af\u03b1",
+        "sn": "Indonesia",
+        "pt": "Indon\u00e9sia",
+        "yi": "\u05d0\u05d9\u05e0\u05d3\u05d0\u05e0\u05e2\u05d6\u05d9\u05e2",
+        "is": "Ind\u00f3nes\u00eda",
+        "ta": "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0b9a\u0bbf\u0baf\u0bbe",
+        "br": "Indonezia",
+        "hu": "Indon\u00e9zia",
+        "et": "Indoneesia",
+        "ku": "\u00cendonezya",
+        "sk": "Indon\u00e9zia",
+        "sw": "Indonesia",
+        "te": "\u0c07\u0c02\u0c21\u0c4b\u0c28\u0c47\u0c37\u0c3f\u0c2f\u0c3e",
+        "ro": "Indonezia",
+        "ki": "Indonesia",
+        "ak": "Ind\u0254nehyia",
+        "tg": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "ml": "\u0d07\u0d28\u0d4d\u0d24\u0d4b\u0d28\u0d47\u0d37\u0d4d\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Indonesia",
+        "de": "Indonesien",
+        "as": "\u0987\u09a3\u09cd\u09a1\u09cb\u09a8\u09c7\u099a\u09bf\u09af\u09bc\u09be",
+        "am": "\u12a2\u1295\u12f6\u1294\u12e2\u12eb",
+        "se": "Indonesia",
+        "ia": "Indonesia",
+        "ti": "\u12a2\u1295\u12f6\u1294\u12e2\u12eb",
+        "ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "ga": "an Indin\u00e9is",
+        "bg": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "my": "\u1021\u1004\u103a\u1012\u102d\u102f\u1014\u102e\u1038\u101b\u103e\u102c\u1038",
+        "fy": "Yndonesi\u00eb",
+        "bm": "\u0190ndonezi",
+        "gu": "\u0a87\u0aa8\u0acd\u0aa1\u0acb\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe",
+        "uz": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "cy": "Indonesia",
+        "ug": "\u06be\u0649\u0646\u062f\u0648\u0646\u06d0\u0632\u0649\u064a\u06d5",
+        "nn": "Indonesia",
+        "uk": "\u0406\u043d\u0434\u043e\u043d\u0435\u0437\u0456\u044f",
+        "qu": "Indonesia",
+        "tl": "Indonesia",
+        "ms": "Indonesia",
+        "so": "Indoneesiya",
+        "da": "Indonesien",
+        "tt": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "af": "Indonesi\u00eb",
+        "ha": "Indunusiya",
+        "iw": "\u05d0\u05d9\u05e0\u05d3\u05d5\u05e0\u05d6\u05d9\u05d4",
+        "ee": "Indonesia nutome",
+        "in": "Indonesia",
+        "to": "\u02bbIniton\u0113sia",
+        "sl": "Indonezija",
+        "sg": "\u00canndonez\u00efi",
+        "lb": "Indonesien",
+        "fo": "Indonesia",
+        "mn": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437",
+        "id": "Indonesia",
+        "pa": "\u0a07\u0a70\u0a21\u0a4b\u0a28\u0a47\u0a38\u0a3c\u0a40\u0a06",
+        "ka": "\u10d8\u10dc\u10d3\u10dd\u10dc\u10d4\u10d6\u10d8\u10d0",
+        "nd": "Indonesiya"
     },
-    "ISO3166-2": {
-        "": {
-            "name": "West Papua",
-            "code": "",
-            "names": {
-                "geonames": "West Papua",
-                "en": "West Papua"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "ID-AC",
+            "names": "Aceh",
+            "type": "Autonomous Province"
         },
-        "AC": {
-            "name": "Aceh",
-            "code": "AC",
-            "names": {
-                "geonames": "Aceh",
-                "ru": "\u0410\u0447\u0435\u0445",
-                "en": "Aceh",
-                "ar": "\u0622\u062a\u0634\u064a\u0647",
-                "de": "Aceh",
-                "es": "Aceh",
-                "fr": "Aceh",
-                "it": "Aceh",
-                "zh": "\u4e9e\u9f4a\u7279\u5225\u884c\u653f\u5340"
-            },
-            "division": "autonomous province",
-            "parent": "ID-SM",
-            "lat": 5.3512726,
-            "lng": 95.56236949999993
+        {
+            "code": "ID-BA",
+            "names": "Bali",
+            "type": "Province"
         },
-        "BA": {
-            "name": "Bali",
-            "code": "BA",
-            "names": {
-                "geonames": "Bali",
-                "ru": "\u0411\u0430\u043b\u0438",
-                "en": "Bali",
-                "ar": "\u0628\u0627\u0644\u064a",
-                "de": "Bali",
-                "es": "Bali",
-                "fr": "Bali",
-                "it": "Bali",
-                "zh": "\u5df4\u5398\u5c9b"
-            },
-            "division": "province",
-            "parent": "ID-NU",
-            "lat": -8.4095178,
-            "lng": 115.18891600000006
+        {
+            "code": "ID-BB",
+            "names": "Bangka Belitung",
+            "type": "Province"
         },
-        "BB": {
-            "name": "Kepulauan Bangka Belitung",
-            "code": "BB",
-            "names": {
-                "geonames": "Bangka-Belitung Islands",
-                "ru": "\u0411\u0430\u043d\u043a\u0430-\u0411\u0435\u043b\u0438\u0442\u0443\u043d\u0433",
-                "en": "Kepulauan Bangka Belitung",
-                "ar": "\u0628\u0627\u0646\u062c\u0643\u0627 - \u0628\u0644\u064a\u062a\u0648\u0646\u062c",
-                "de": "Bangka-Belitung",
-                "es": "Bangka-Belitung",
-                "fr": "\u00celes Bangka Belitung",
-                "it": "Bangka-Belitung",
-                "zh": "\u90a6\u52a0-\u52ff\u91cc\u6d1e\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -2.7410513,
-            "lng": 106.44058719999998
+        {
+            "code": "ID-BE",
+            "names": "Bengkulu",
+            "type": "Province"
         },
-        "BE": {
-            "name": "Bengkulu",
-            "code": "BE",
-            "names": {
-                "geonames": "Bengkulu",
-                "ru": "\u0411\u0435\u043d\u043a\u0443\u043b\u0443",
-                "en": "Bengkulu",
-                "ar": "\u0628\u0646\u062c\u0643\u0648\u0644\u0648",
-                "de": "Bengkulu",
-                "es": "Bengkulu",
-                "fr": "Bengkulu",
-                "it": "Bengkulu",
-                "zh": "\u660e\u53e4\u9b6f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -3.800649,
-            "lng": 102.25620300000003
+        {
+            "code": "ID-BT",
+            "names": "Banten",
+            "type": "Province"
         },
-        "BT": {
-            "name": "Banten",
-            "code": "BT",
-            "names": {
-                "geonames": "Banten",
-                "ru": "\u0411\u0430\u043d\u0442\u0435\u043d",
-                "en": "Banten",
-                "ar": "\u0628\u0627\u0646\u062a\u0646",
-                "de": "Banten",
-                "es": "Bant\u00e9n",
-                "fr": "Banten",
-                "it": "Banten",
-                "zh": "\u4e07\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "ID-JW",
-            "lat": -6.036306,
-            "lng": 106.15656100000001
+        {
+            "code": "ID-GO",
+            "names": "Gorontalo",
+            "type": "Province"
         },
-        "GO": {
-            "name": "Gorontalo",
-            "code": "GO",
-            "names": {
-                "geonames": "Gorontalo",
-                "ru": "\u0413\u043e\u0440\u043e\u043d\u0442\u0430\u043b\u043e",
-                "en": "Gorontalo",
-                "ar": "\u062c\u0648\u0631\u0648\u0646\u062a\u0627\u0644\u0648",
-                "de": "Gorontalo",
-                "es": "Gorontalo",
-                "fr": "Gorontalo",
-                "it": "Provincia di Gorontalo",
-                "zh": "\u54e5\u4f26\u6253\u6d1b\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": 0.552512,
-            "lng": 123.06549799999993
+        {
+            "code": "ID-IJ",
+            "names": "Papua",
+            "type": "Geographical unit"
         },
-        "IJ": {
-            "name": "Papua",
-            "code": "IJ",
-            "division": "geographical unit",
-            "parent": "ID",
-            "lat": -7.733333,
-            "lng": 139.96666700000003
+        {
+            "code": "ID-JA",
+            "names": "Jambi",
+            "type": "Province"
         },
-        "JA": {
-            "name": "Jambi",
-            "code": "JA",
-            "names": {
-                "geonames": "Jambi",
-                "ru": "\u0414\u0436\u0430\u043c\u0431\u0438",
-                "en": "Jambi",
-                "ar": "\u062c\u0627\u0645\u0628\u064a",
-                "de": "Jambi",
-                "es": "Jambi",
-                "fr": "Jambi",
-                "it": "Jambi",
-                "zh": "\u5360\u7891\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -1.596672,
-            "lng": 103.61579899999992
+        {
+            "code": "ID-JB",
+            "names": "Jawa Barat",
+            "type": "Province"
         },
-        "JB": {
-            "name": "West Java",
-            "code": "JB",
-            "names": {
-                "geonames": "West Java",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u042f\u0432\u0430",
-                "en": "West Java",
-                "ar": "\u062c\u0627\u0648\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Jawa Barat",
-                "es": "Java Occidental",
-                "fr": "Java occidental",
-                "it": "Giava Occidentale",
-                "zh": "\u897f\u722a\u54c7\u7701"
-            },
-            "division": "province",
-            "parent": "ID-JW",
-            "lat": -7.6145292,
-            "lng": 110.71224649999999
+        {
+            "code": "ID-JI",
+            "names": "Jawa Timur",
+            "type": "Province"
         },
-        "JI": {
-            "name": "East Java",
-            "code": "JI",
-            "names": {
-                "geonames": "East Java",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u042f\u0432\u0430",
-                "en": "East Java",
-                "ar": "\u062c\u0627\u0648\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
-                "de": "Jawa Timur",
-                "es": "Java Oriental",
-                "fr": "Java oriental",
-                "it": "Giava Orientale",
-                "zh": "\u4e1c\u722a\u54c7\u7701"
-            },
-            "division": "province",
-            "parent": "ID-JW",
-            "lat": -5.779787,
-            "lng": 112.64370259999998
+        {
+            "code": "ID-JK",
+            "names": "Jakarta Raya",
+            "type": "Special District"
         },
-        "JK": {
-            "name": "DKI Jakarta",
-            "code": "JK",
-            "names": {
-                "geonames": "Jakarta",
-                "ru": "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430",
-                "en": "DKI Jakarta",
-                "ar": "\u062c\u0627\u0643\u0627\u0631\u062a\u0627",
-                "de": "Jakarta",
-                "es": "Yakarta",
-                "fr": "Jakarta",
-                "it": "Giacarta",
-                "zh": "\u96c5\u52a0\u8fbe"
-            },
-            "division": "special district",
-            "parent": "ID-JW",
-            "lat": -6.211544,
-            "lng": 106.84517200000005
+        {
+            "code": "ID-JT",
+            "names": "Jawa Tengah",
+            "type": "Province"
         },
-        "JT": {
-            "name": "Central Java",
-            "code": "JT",
-            "names": {
-                "geonames": "Central Java",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u042f\u0432\u0430",
-                "en": "Central Java",
-                "ar": "\u062c\u0627\u0648\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
-                "de": "Jawa Tengah",
-                "es": "Java Central",
-                "fr": "Java central",
-                "it": "Giava Centrale",
-                "zh": "\u4e2d\u722a\u54c7\u7701"
-            },
-            "division": "province",
-            "parent": "ID-JW",
-            "lat": -7.6145292,
-            "lng": 110.71224649999999
+        {
+            "code": "ID-JW",
+            "names": "Jawa",
+            "type": "Geographical unit"
         },
-        "JW": {
-            "name": "Jawa",
-            "code": "JW",
-            "division": "geographical unit",
-            "parent": "ID",
-            "lat": -7.6145292,
-            "lng": 110.71224649999999
+        {
+            "code": "ID-KA",
+            "names": "Kalimantan",
+            "type": "Geographical unit"
         },
-        "KA": {
-            "name": "Kalimantan",
-            "code": "KA",
-            "division": "geographical unit",
-            "parent": "ID"
+        {
+            "code": "ID-KB",
+            "names": "Kalimantan Barat",
+            "type": "Province"
         },
-        "KB": {
-            "name": "West Kalimantan",
-            "code": "KB",
-            "names": {
-                "geonames": "West Kalimantan",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d",
-                "en": "West Kalimantan",
-                "ar": "\u0643\u0627\u0644\u0645\u0646\u062a\u0627\u0646 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Kalimantan Barat",
-                "es": "Borneo Occidental",
-                "fr": "Kalimantan occidental",
-                "it": "Kalimantan Occidentale",
-                "zh": "\u897f\u52a0\u91cc\u66fc\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "ID-KA",
-            "lat": -0.8186129,
-            "lng": 109.33073450000006
+        {
+            "code": "ID-KI",
+            "names": "Kalimantan Timur",
+            "type": "Province"
         },
-        "KI": {
-            "name": "East Kalimantan",
-            "code": "KI",
-            "names": {
-                "geonames": "East Kalimantan",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d",
-                "en": "East Kalimantan",
-                "ar": "\u0643\u0627\u0644\u0645\u0646\u062a\u0627\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
-                "de": "Kalimantan Timur",
-                "es": "Kalimantan Oriental",
-                "fr": "Kalimantan oriental",
-                "it": "Kalimantan Orientale",
-                "zh": "\u6771\u52a0\u91cc\u66fc\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "ID-KA",
-            "lat": 1.6406296,
-            "lng": 116.41938900000002
+        {
+            "code": "ID-KR",
+            "names": "Kepulauan Riau",
+            "type": "Province"
         },
-        "KR": {
-            "name": "Riau Islands Province",
-            "code": "KR",
-            "names": {
-                "geonames": "Riau Islands",
-                "ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0420\u0438\u0430\u0443",
-                "en": "Riau Islands Province",
-                "ar": "\u062c\u0632\u0631 \u0631\u064a\u0627\u0648",
-                "de": "Kepulauan Riau",
-                "fr": "\u00celes Riau",
-                "it": "Isole Riau",
-                "zh": "\u5ed6\u5185\u7fa4\u5c9b\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": 1,
-            "lng": 104.5
+        {
+            "code": "ID-KS",
+            "names": "Kalimantan Selatan",
+            "type": "Province"
         },
-        "KS": {
-            "name": "South Kalimantan",
-            "code": "KS",
-            "names": {
-                "geonames": "South Kalimantan",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d",
-                "en": "South Kalimantan",
-                "ar": "\u0643\u0627\u0644\u064a\u0645\u0627\u0646\u062a\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
-                "de": "Kalimantan Selatan",
-                "es": "Borneo Meridional",
-                "fr": "Kalimantan du Sud",
-                "it": "Kalimantan Meridionale",
-                "zh": "\u5357\u52a0\u91cc\u66fc\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "ID-KA",
-            "lat": -3.6898944,
-            "lng": 116.1832068
+        {
+            "code": "ID-KT",
+            "names": "Kalimantan Tengah",
+            "type": "Province"
         },
-        "KT": {
-            "name": "Central Kalimantan",
-            "code": "KT",
-            "names": {
-                "geonames": "Central Kalimantan",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0442\u0430\u043d",
-                "en": "Central Kalimantan",
-                "ar": "\u0643\u0627\u0644\u0645\u0646\u062a\u0627\u0646 \u0627\u0644\u0648\u0633\u0637\u0649",
-                "de": "Kalimantan Tengah",
-                "es": "Borneo Central",
-                "fr": "Kalimantan central",
-                "it": "Kalimantan Centrale",
-                "zh": "\u4e2d\u52a0\u91cc\u66fc\u4e39\u7701"
-            },
-            "division": "province",
-            "parent": "ID-KA",
-            "lat": -3.2737466,
-            "lng": 113.38830840000003
+        {
+            "code": "ID-LA",
+            "names": "Lampung",
+            "type": "Province"
         },
-        "KU": {
-            "name": "Kalimantan Utara",
-            "code": "KU",
-            "names": {
-                "geonames": "North Kalimantan",
-                "en": "Kalimantan Utara"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "ID-MA",
+            "names": "Maluku",
+            "type": "Province"
         },
-        "LA": {
-            "name": "Lampung",
-            "code": "LA",
-            "names": {
-                "geonames": "Lampung",
-                "ru": "\u041b\u0430\u043c\u043f\u0443\u043d\u0433",
-                "en": "Lampung",
-                "ar": "\u0644\u0627\u0645\u0628\u0648\u0646\u062c",
-                "de": "Lampung",
-                "es": "Lampung",
-                "fr": "Lampung",
-                "it": "Lampung",
-                "zh": "\u6960\u699c\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -5.45,
-            "lng": 105.26666669999997
+        {
+            "code": "ID-ML",
+            "names": "Maluku",
+            "type": "Geographical unit"
         },
-        "ML": {
-            "name": "Maluku",
-            "code": "ML",
-            "names": {
-                "geonames": "Maluku",
-                "ru": "\u041c\u0430\u043b\u0443\u043a\u0443",
-                "ar": "\u0645\u0627\u0644\u0648\u0643\u0648",
-                "de": "Maluku",
-                "en": "Maluku",
-                "es": "Molucas",
-                "fr": "Moluques",
-                "it": "Provincia di Maluku",
-                "zh": "\u9a6c\u9c81\u53e4\u7701"
-            },
-            "division": "province",
-            "parent": "ID-MA",
-            "lat": -3.2384616,
-            "lng": 130.14527339999995
+        {
+            "code": "ID-MU",
+            "names": "Maluku Utara",
+            "type": "Province"
         },
-        "MU": {
-            "name": "North Maluku",
-            "code": "MU",
-            "names": {
-                "geonames": "North Maluku",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041c\u0430\u043b\u0443\u043a\u0443",
-                "en": "North Maluku",
-                "ar": "\u0645\u0627\u0644\u0648\u0643\u0648 \u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Nordmolukken",
-                "es": "Molucas septentrionales",
-                "fr": "Moluques du Nord",
-                "it": "Maluku Settentrionale",
-                "zh": "\u5317\u9a6c\u9c81\u53e4\u7701"
-            },
-            "division": "province",
-            "parent": "ID-MA",
-            "lat": 1.5709993,
-            "lng": 127.8087693
+        {
+            "code": "ID-NB",
+            "names": "Nusa Tenggara Barat",
+            "type": "Province"
         },
-        "NB": {
-            "name": "West Nusa Tenggara",
-            "code": "NB",
-            "names": {
-                "geonames": "West Nusa Tenggara",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u041c\u0430\u043b\u044b\u0435 \u0417\u043e\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
-                "en": "West Nusa Tenggara",
-                "ar": "\u0646\u0648\u0633\u0627 \u062a\u0646\u062c\u0627\u0631\u0627 \u063a\u0631\u0628",
-                "de": "Nusa Tenggara Barat",
-                "es": "Islas menores de la Sonda occidentales",
-                "fr": "Nusa Tenggara occidental",
-                "it": "Nusa Tenggara Occidentale",
-                "zh": "\u897f\u52aa\u6c99\u767b\u52a0\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "ID-NU",
-            "lat": -8.6529334,
-            "lng": 117.36164759999997
+        {
+            "code": "ID-NT",
+            "names": "Nusa Tenggara Timur",
+            "type": "Province"
         },
-        "NT": {
-            "name": "East Nusa Tenggara",
-            "code": "NT",
-            "names": {
-                "geonames": "East Nusa Tenggara",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0435 \u041c\u0430\u043b\u044b\u0435 \u0417\u043e\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
-                "en": "East Nusa Tenggara",
-                "ar": "\u0646\u0648\u0633\u0627 \u062a\u0646\u062c\u0627\u0631\u0627 \u0634\u0631\u0642",
-                "de": "Nusa Tenggara Timur",
-                "es": "Islas menores de la Sonda orientales",
-                "fr": "Nusa Tenggara oriental",
-                "it": "Nusa Tenggara Orientale",
-                "zh": "\u6771\u52aa\u6c99\u767b\u52a0\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "ID-NU",
-            "lat": -8.6573819,
-            "lng": 121.07937049999998
+        {
+            "code": "ID-NU",
+            "names": "Nusa Tenggara",
+            "type": "Geographical unit"
         },
-        "NU": {
-            "name": "Nusa Tenggara",
-            "code": "NU",
-            "division": "geographical unit",
-            "parent": "ID"
+        {
+            "code": "ID-PA",
+            "names": "Papua",
+            "type": "Province"
         },
-        "PA": {
-            "name": "Papua",
-            "code": "PA",
-            "names": {
-                "geonames": "Papua",
-                "en": "Papua"
-            },
-            "division": "province",
-            "parent": "ID-IJ",
-            "lat": -5,
-            "lng": 140
+        {
+            "code": "ID-PB",
+            "names": "Papua Barat",
+            "type": "Province"
         },
-        "PB": {
-            "name": "Papua Barat",
-            "code": "PB",
-            "division": "province",
-            "parent": "ID-IJ",
-            "lat": -1.3361154,
-            "lng": 133.17471620000003
+        {
+            "code": "ID-RI",
+            "names": "Riau",
+            "type": "Province"
         },
-        "RI": {
-            "name": "Riau",
-            "code": "RI",
-            "names": {
-                "geonames": "Riau",
-                "ru": "\u0420\u0438\u0430\u0443",
-                "en": "Riau",
-                "ar": "\u0631\u064a\u0627\u0648",
-                "de": "Riau",
-                "es": "Riau",
-                "fr": "Riau",
-                "it": "Riau",
-                "zh": "\u5ed6\u5167\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": 0.786124,
-            "lng": 104.56060000000002
+        {
+            "code": "ID-SA",
+            "names": "Sulawesi Utara",
+            "type": "Province"
         },
-        "SA": {
-            "name": "North Sulawesi",
-            "code": "SA",
-            "names": {
-                "geonames": "North Sulawesi",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438",
-                "en": "North Sulawesi",
-                "ar": "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Sulawesi Utara",
-                "es": "C\u00e9lebes Septentrional",
-                "fr": "Sulawesi du Nord",
-                "it": "Sulawesi Settentrionale",
-                "zh": "\u5317\u82cf\u62c9\u5a01\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": 4.2886608,
-            "lng": 126.82502739999995
+        {
+            "code": "ID-SB",
+            "names": "Sumatra Barat",
+            "type": "Province"
         },
-        "SB": {
-            "name": "West Sumatra",
-            "code": "SB",
-            "names": {
-                "geonames": "West Sumatra",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0443\u043c\u0430\u0442\u0440\u0430",
-                "en": "West Sumatra",
-                "ar": "\u0633\u0648\u0645\u0637\u0631\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Sumatera Barat",
-                "es": "Sumatra Occidental",
-                "fr": "Sumatra occidental",
-                "it": "Sumatra Occidentale",
-                "zh": "\u897f\u82cf\u95e8\u7b54\u814a\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -0.589724,
-            "lng": 101.34310579999999
+        {
+            "code": "ID-SG",
+            "names": "Sulawesi Tenggara",
+            "type": "Province"
         },
-        "SG": {
-            "name": "Southeast Sulawesi",
-            "code": "SG",
-            "names": {
-                "geonames": "Southeast Sulawesi",
-                "ru": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438",
-                "en": "Southeast Sulawesi",
-                "ar": "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
-                "de": "Sulawesi Tenggara",
-                "es": "C\u00e9lebes Suroriental",
-                "fr": "Sulawesi du Sud-Est",
-                "it": "Sulawesi Sudorientale",
-                "zh": "\u4e1c\u5357\u82cf\u62c9\u5a01\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": -3.5998605,
-            "lng": 123.10140560000002
+        {
+            "code": "ID-SL",
+            "names": "Sulawesi",
+            "type": "Geographical unit"
         },
-        "SL": {
-            "name": "Sulawesi",
-            "code": "SL",
-            "division": "geographical unit",
-            "parent": "ID",
-            "lat": -1.8479079,
-            "lng": 120.52790959999993
+        {
+            "code": "ID-SM",
+            "names": "Sumatera",
+            "type": "Geographical unit"
         },
-        "SM": {
-            "name": "Sumatera",
-            "code": "SM",
-            "division": "geographical unit",
-            "parent": "ID",
-            "lat": -0.589724,
-            "lng": 101.34310579999999
+        {
+            "code": "ID-SN",
+            "names": "Sulawesi Selatan",
+            "type": "Province"
         },
-        "SN": {
-            "name": "South Sulawesi",
-            "code": "SN",
-            "names": {
-                "geonames": "South Sulawesi",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438",
-                "en": "South Sulawesi",
-                "ar": "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
-                "de": "Sulawesi Selatan",
-                "es": "C\u00e9lebes Meridional",
-                "fr": "Sulawesi du Sud",
-                "it": "Sulawesi Meridionale",
-                "zh": "\u5357\u82cf\u62c9\u5a01\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": -6.2869786,
-            "lng": 120.5048792
+        {
+            "code": "ID-SR",
+            "names": "Sulawesi Barat",
+            "type": "Province"
         },
-        "SR": {
-            "name": "West Sulawesi",
-            "code": "SR",
-            "names": {
-                "geonames": "West Sulawesi",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438",
-                "en": "West Sulawesi",
-                "ar": "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Westsulawesi",
-                "es": "C\u00e9lebes Occidental",
-                "fr": "Sulawesi occidental",
-                "it": "Sulawesi Occidentale",
-                "zh": "\u897f\u82cf\u62c9\u5a01\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": -1.8479079,
-            "lng": 120.52790959999993
+        {
+            "code": "ID-SS",
+            "names": "Sumatra Selatan",
+            "type": "Province"
         },
-        "SS": {
-            "name": "South Sumatra",
-            "code": "SS",
-            "names": {
-                "geonames": "South Sumatra",
-                "ru": "\u042e\u0436\u043d\u0430\u044f \u0421\u0443\u043c\u0430\u0442\u0440\u0430",
-                "en": "South Sumatra",
-                "ar": "\u0633\u0648\u0645\u0637\u0631\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
-                "de": "Sumatera Selatan",
-                "es": "Sumatra Meridional",
-                "fr": "Sumatra du Sud",
-                "it": "Sumatra Meridionale",
-                "zh": "\u5357\u82cf\u95e8\u7b54\u814a\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -0.589724,
-            "lng": 101.34310579999999
+        {
+            "code": "ID-ST",
+            "names": "Sulawesi Tengah",
+            "type": "Province"
         },
-        "ST": {
-            "name": "Central Sulawesi",
-            "code": "ST",
-            "names": {
-                "geonames": "Central Sulawesi",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438",
-                "en": "Central Sulawesi",
-                "ar": "\u0633\u0648\u0644\u0627\u0648\u0633\u064a \u0627\u0644\u0648\u0633\u0637\u0649",
-                "de": "Sulawesi Tengah",
-                "es": "C\u00e9lebes Central",
-                "fr": "Sulawesi central",
-                "it": "Sulawesi Centrale",
-                "zh": "\u4e2d\u82cf\u62c9\u5a01\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SL",
-            "lat": -1.8479079,
-            "lng": 120.52790959999993
+        {
+            "code": "ID-SU",
+            "names": "Sumatera Utara",
+            "type": "Province"
         },
-        "SU": {
-            "name": "North Sumatra",
-            "code": "SU",
-            "names": {
-                "geonames": "North Sumatra",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0421\u0443\u043c\u0430\u0442\u0440\u0430",
-                "en": "North Sumatra",
-                "ar": "\u0633\u0648\u0645\u0637\u0631\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Sumatera Utara",
-                "es": "Sumatra Septentrional",
-                "fr": "Sumatra du Nord",
-                "it": "Sumatra Settentrionale",
-                "zh": "\u5317\u82cf\u95e8\u7b54\u814a\u7701"
-            },
-            "division": "province",
-            "parent": "ID-SM",
-            "lat": -0.589724,
-            "lng": 101.34310579999999
-        },
-        "YO": {
-            "name": "Special Region of Yogyakarta",
-            "code": "YO",
-            "names": {
-                "geonames": "Yogyakarta",
-                "ru": "\u0414\u0436\u043e\u043a\u044c\u044f\u043a\u0430\u0440\u0442\u0430",
-                "en": "Special Region of Yogyakarta",
-                "ar": "\u064a\u0648\u062c\u064a\u0627\u0643\u0631\u062a\u0627",
-                "de": "Yogyakarta",
-                "es": "Yogyakarta",
-                "fr": "Territoire sp\u00e9cial de Yogyakarta",
-                "it": "Yogyakarta",
-                "zh": "\u65e5\u60f9\u7279\u533a"
-            },
-            "division": "special region",
-            "parent": "ID-JW",
-            "lat": -7.797224,
-            "lng": 110.36879699999997
+        {
+            "code": "ID-YO",
+            "names": "Yogyakarta",
+            "type": "Special Region"
         }
-    }
+    ]
 }

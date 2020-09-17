@@ -1,174 +1,132 @@
 {
     "alpha-2": "GU",
     "alpha-3": "GUM",
-    "numeric": 316,
-    "capital": "Hag\u00e5t\u00f1a",
-    "currency": "USD",
-    "languages": [
-        "en",
-        "ch",
-        "es"
-    ],
-    "flag-icon": "\ud83c\uddec\ud83c\uddfa",
+    "numeric": "316",
     "names": {
-        "geonames": "Guam",
         "en": "Guam",
-        "ar": "\u063a\u0648\u0627\u0645",
-        "de": "Guam",
-        "es": "Guam",
         "fr": "Guam",
-        "it": "Guam",
-        "ru": "\u0413\u0443\u0430\u043c",
-        "zh": "\u95dc\u5cf6",
-        "he": "\u05d2\u05d5\u05d0\u05dd",
-        "hi": "\u0917\u0941\u0906\u092e",
+        "ur": "\u06af\u0648\u0627\u0645",
+        "rn": "Gwamu",
+        "lv": "Guama",
+        "hy": "\u0533\u0578\u0582\u0561\u0574",
+        "sq": "Guam",
+        "jv": "Guam",
+        "or": "\u0b17\u0b41\u0b06\u0b2e\u0b4d",
+        "mg": "Guam",
+        "no": "Guam",
+        "zh": "\u5173\u5c9b",
+        "tr": "Guam",
+        "bs": "Guam",
         "ja": "\u30b0\u30a2\u30e0",
-        "pt": "Guam"
+        "th": "\u0e01\u0e27\u0e21",
+        "he": "\u05d2\u05d5\u05d0\u05dd",
+        "kk": "\u0413\u0443\u0430\u043c",
+        "mo": "Guam",
+        "ff": "Guwam",
+        "ca": "Guam",
+        "ar": "\u063a\u0648\u0627\u0645",
+        "eu": "Guam",
+        "ps": "\u06ab\u0648\u0627\u0645",
+        "kn": "\u0c97\u0cc1\u0cb5\u0cbe\u0cae\u0ccd",
+        "si": "\u0d9c\u0dd4\u0dc0\u0dcf\u0db8\u0dca",
+        "km": "\u17a0\u17d2\u1782\u17b6\u17c6",
+        "ne": "\u0917\u0941\u0935\u093e\u092e",
+        "fi": "Guam",
+        "hi": "\u0917\u0941\u0906\u092e",
+        "rm": "Guam",
+        "vi": "Guam",
+        "gl": "Guam",
+        "ig": "Guam",
+        "mr": "\u0917\u0941\u0906\u092e",
+        "es": "Guam",
+        "be": "\u0413\u0443\u0430\u043c",
+        "lg": "Gwamu",
+        "pt": "Guam",
+        "az": "\u0413\u0443\u0430\u043c",
+        "ce": "\u0413\u0443\u0430\u043c",
+        "mk": "\u0413\u0443\u0430\u043c",
+        "zu": "i-Guam",
+        "it": "Guam",
+        "ko": "\uad0c",
+        "lo": "\u0e81\u0ea7\u0eb2\u0ea1",
+        "lt": "Guamas",
+        "dz": "\u0f42\u0f74\u0f0b\u0f60\u0f58\u0f0b \u0f58\u0f5a\u0f7c\u0f0b\u0f42\u0fb3\u0f72\u0f44",
+        "ln": "Gwam\u025b",
+        "hr": "Guam",
+        "ks": "\u06af\u064f\u0648\u0627\u0645",
+        "sv": "Guam",
+        "pl": "Guam",
+        "nb": "Guam",
+        "sh": "Guam",
+        "lu": "Ngwame",
+        "nl": "Guam",
+        "ky": "\u0413\u0443\u0430\u043c",
+        "bn": "\u0997\u09c1\u09af\u09bc\u09be\u09ae",
+        "sd": "\u06af\u0648\u0627\u0645",
+        "fa": "\u06af\u0648\u0627\u0645",
+        "gd": "Guam",
+        "cs": "Guam",
+        "tk": "Guam",
+        "eo": "Gvamo",
+        "mt": "Guam",
+        "sr": "Guam",
+        "wo": "Guwam",
+        "el": "\u0393\u03ba\u03bf\u03c5\u03ac\u03bc",
+        "sn": "Guam",
+        "yi": "\u05d2\u05d5\u05d5\u05d0\u05b7\u05dd",
+        "is": "Gvam",
+        "ta": "\u0b95\u0bc1\u0bb5\u0bbe\u0bae\u0bcd",
+        "br": "Guam",
+        "hu": "Guam",
+        "et": "Guam",
+        "ku": "Guam",
+        "sk": "Guam",
+        "sw": "Guami",
+        "te": "\u0c17\u0c4d\u0c35\u0c3e\u0c2e\u0c4d",
+        "ro": "Guam",
+        "ki": "Gwam",
+        "ak": "Guam",
+        "tg": "\u0413\u0443\u0430\u043c",
+        "ml": "\u0d17\u0d4d\u0d35\u0d3e\u0d02",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Guamu",
+        "de": "Guam",
+        "as": "\u0997\u09c1\u09f1\u09be\u09ae",
+        "am": "\u1309\u12cb\u121d",
+        "se": "Guam",
+        "ti": "\u1309\u12cb\u121d",
+        "ru": "\u0413\u0443\u0430\u043c",
+        "ga": "Guam",
+        "bg": "\u0413\u0443\u0430\u043c",
+        "my": "\u1002\u1030\u1021\u1019\u103a",
+        "fy": "Guam",
+        "bm": "Gwam",
+        "gu": "\u0a97\u0acd\u0ab5\u0abe\u0aae",
+        "uz": "\u0413\u0443\u0430\u043c",
+        "cy": "Guam",
+        "ug": "\u06af\u06c7\u0626\u0627\u0645",
+        "nn": "Guam",
+        "uk": "\u0490\u0443\u0430\u043c",
+        "qu": "Guam",
+        "tl": "Guam",
+        "ms": "Guam",
+        "so": "Guaam",
+        "da": "Guam",
+        "tt": "\u0413\u0443\u0430\u043c",
+        "af": "Guam",
+        "ha": "Gwam",
+        "iw": "\u05d2\u05d5\u05d0\u05dd",
+        "ee": "Guam nutome",
+        "in": "Guam",
+        "to": "Kuamu",
+        "sl": "Guam",
+        "sg": "Gu\u00e2m",
+        "lb": "Guam",
+        "fo": "Guam",
+        "mn": "\u0413\u0443\u0430\u043c",
+        "id": "Guam",
+        "pa": "\u0a17\u0a41\u0a06\u0a2e",
+        "ka": "\u10d2\u10e3\u10d0\u10db\u10d8",
+        "nd": "Guam"
     },
-    "ISO3166-2": {
-        "": {
-            "name": "Mongmong-Toto-Maite",
-            "code": "",
-            "names": {
-                "geonames": "Mongmong-Toto-Maite",
-                "en": "Mongmong-Toto-Maite"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "SR": {
-            "name": "Santa Rita",
-            "code": "SR",
-            "names": {
-                "geonames": "Santa Rita",
-                "en": "Santa Rita"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "SJ": {
-            "name": "Sinajana",
-            "code": "SJ",
-            "names": {
-                "geonames": "Sinajana",
-                "en": "Sinajana"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "TF": {
-            "name": "Talofofo",
-            "code": "TF",
-            "names": {
-                "geonames": "Talofofo",
-                "en": "Talofofo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "TM": {
-            "name": "Tamuning",
-            "code": "TM",
-            "names": {
-                "geonames": "Tamuning",
-                "en": "Tamuning"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "UM": {
-            "name": "Umatac",
-            "code": "UM",
-            "names": {
-                "geonames": "Umatac",
-                "en": "Umatac"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "YG": {
-            "name": "Yigo",
-            "code": "YG",
-            "names": {
-                "geonames": "Yigo",
-                "en": "Yigo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "YN": {
-            "name": "Yona",
-            "code": "YN",
-            "names": {
-                "geonames": "Yona",
-                "en": "Yona"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "ME": {
-            "name": "Merizo",
-            "code": "ME",
-            "names": {
-                "geonames": "Merizo",
-                "en": "Merizo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "AT": {
-            "name": "Agat",
-            "code": "AT",
-            "names": {
-                "geonames": "Agat",
-                "en": "Agat"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "DD": {
-            "name": "Dededo",
-            "code": "DD",
-            "names": {
-                "geonames": "Dededo",
-                "en": "Dededo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "IN": {
-            "name": "Inarajan",
-            "code": "IN",
-            "names": {
-                "geonames": "Inarajan",
-                "en": "Inarajan"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        }
-    }
+    "3166-2": []
 }

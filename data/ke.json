@@ -1,647 +1,370 @@
 {
     "alpha-2": "KE",
     "alpha-3": "KEN",
-    "numeric": 404,
-    "capital": "Nairobi",
-    "currency": "KES",
-    "languages": [
-        "en",
-        "sw"
-    ],
-    "flag-icon": "\ud83c\uddf0\ud83c\uddea",
+    "numeric": "404",
     "names": {
-        "geonames": "Kenya",
         "en": "Kenya",
-        "ar": "\u0643\u064a\u0646\u064a\u0627",
-        "de": "Kenia",
-        "es": "Kenia",
         "fr": "Kenya",
-        "it": "Kenya",
-        "ru": "\u041a\u0435\u043d\u0438\u044f",
+        "ur": "\u06a9\u06cc\u0646\u06cc\u0627",
+        "rn": "Kenya",
+        "lv": "Kenija",
+        "hy": "\u0554\u0565\u0576\u056b\u0561",
+        "sq": "Kenia",
+        "jv": "K\u00e9nya",
+        "or": "\u0b15\u0b47\u0b28\u0b3f\u0b5f\u0b3e",
+        "mg": "Kenya",
+        "no": "Kenya",
         "zh": "\u80af\u5c3c\u4e9a",
-        "he": "\u05e7\u05e0\u05d9\u05d4",
-        "hi": "\u0915\u0940\u0928\u093f\u092f\u093e",
+        "tr": "Kenya",
+        "bs": "Kenija",
         "ja": "\u30b1\u30cb\u30a2",
-        "pt": "Qu\u00e9nia"
+        "th": "\u0e40\u0e04\u0e19\u0e22\u0e32",
+        "he": "\u05e7\u05e0\u05d9\u05d4",
+        "fa": "\u06a9\u0646\u06cc\u0627",
+        "kk": "\u041a\u0435\u043d\u0438\u044f",
+        "mo": "Kenya",
+        "ff": "\ud83a\udd11\ud83a\udd2b\ud83a\udd32\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44",
+        "ca": "Kenya",
+        "ar": "\u0643\u064a\u0646\u064a\u0627",
+        "eu": "Kenya",
+        "ps": "\u06a9\u06cc\u0646\u06cc\u0627",
+        "kn": "\u0c95\u0cc0\u0ca8\u0ccd\u0caf\u0cbe",
+        "si": "\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf\u0dc0",
+        "km": "\u1780\u17c1\u1793\u1799\u17c9\u17b6",
+        "ne": "\u0915\u0947\u0928\u094d\u092f\u093e",
+        "fi": "Kenia",
+        "hi": "\u0915\u0947\u0928\u094d\u092f\u093e",
+        "rm": "Kenia",
+        "vi": "Kenya",
+        "gl": "Kenya",
+        "ig": "Kenya",
+        "mr": "\u0915\u0947\u0928\u093f\u092f\u093e",
+        "es": "Kenia",
+        "be": "\u041a\u0435\u043d\u0456\u044f",
+        "lg": "Kenya",
+        "pt": "Qu\u00eania",
+        "az": "\u041a\u0435\u043d\u0438\u0458\u0430",
+        "ce": "\u041a\u0435\u043d\u0438",
+        "mk": "\u041a\u0435\u043d\u0438\u0458\u0430",
+        "zu": "i-Kenya",
+        "it": "Kenya",
+        "ko": "\ucf00\ub0d0",
+        "lo": "\u0ec0\u0e84\u0e99\u0ea2\u0eb2",
+        "lt": "Kenija",
+        "dz": "\u0f40\u0f7a\u0f53\u0f0b\u0f61",
+        "ln": "Kenya",
+        "hr": "Kenija",
+        "ks": "\u06a9\u0650\u0646\u06cc\u0627",
+        "sv": "Kenya",
+        "pl": "Kenia",
+        "nb": "Kenya",
+        "sh": "Kenija",
+        "lu": "Kenya",
+        "nl": "Kenia",
+        "ky": "\u041a\u0435\u043d\u0438\u044f",
+        "bn": "\u0995\u09c7\u09a8\u09bf\u09af\u09bc\u09be",
+        "sd": "\u06aa\u064a\u0646\u064a\u0627",
+        "gd": "Ceinia",
+        "cs": "Ke\u0148a",
+        "tk": "Keni\u00fda",
+        "eo": "Kenjo",
+        "mt": "il-Kenja",
+        "sr": "Kenija",
+        "wo": "Kee\u00f1a",
+        "el": "\u039a\u03ad\u03bd\u03c5\u03b1",
+        "sn": "Kenya",
+        "yi": "\u05e7\u05e2\u05e0\u05d9\u05e2",
+        "is": "Ken\u00eda",
+        "ta": "\u0b95\u0bc6\u0ba9\u0bcd\u0baf\u0bbe",
+        "br": "Kenya",
+        "hu": "Kenya",
+        "et": "Keenia",
+        "ku": "Kenya",
+        "sk": "Ke\u0148a",
+        "sw": "Kenya",
+        "te": "\u0c15\u0c46\u0c28\u0c4d\u0c2f\u0c3e",
+        "ro": "Kenya",
+        "ki": "Kenya",
+        "ak": "K\u025bnya",
+        "tg": "\u041a\u0435\u043d\u0438\u044f",
+        "ml": "\u0d15\u0d46\u0d28\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Kenya",
+        "de": "Kenia",
+        "as": "\u0995\u09c7\u09a8\u09bf\u09af\u09bc\u09be",
+        "am": "\u12ac\u1295\u12eb",
+        "se": "Kenia",
+        "ia": "Kenya",
+        "om": "Keeniyaa",
+        "ti": "\u12ac\u1295\u12eb",
+        "ru": "\u041a\u0435\u043d\u0438\u044f",
+        "ga": "an Ch\u00e9inia",
+        "bg": "\u041a\u0435\u043d\u0438\u044f",
+        "my": "\u1000\u1004\u103a\u100a\u102c",
+        "fy": "Kenia",
+        "bm": "Keniya",
+        "gu": "\u0a95\u0ac7\u0aa8\u0acd\u0aaf\u0abe",
+        "uz": "\u041a\u0435\u043d\u0438\u044f",
+        "cy": "Kenya",
+        "ug": "\u0643\u06d0\u0646\u0649\u064a\u06d5",
+        "nn": "Kenya",
+        "uk": "\u041a\u0435\u043d\u0456\u044f",
+        "qu": "Kenia",
+        "tl": "Kenya",
+        "ms": "Kenya",
+        "so": "Kenya",
+        "da": "Kenya",
+        "tt": "\u041a\u0435\u043d\u0438\u044f",
+        "af": "Kenia",
+        "ha": "Kenya",
+        "iw": "\u05e7\u05e0\u05d9\u05d4",
+        "ee": "Kenya nutome",
+        "in": "Kenya",
+        "to": "Keni\u0101",
+        "sl": "Kenija",
+        "sg": "Keny\u00e4a",
+        "lb": "Kenia",
+        "fo": "Kenja",
+        "mn": "\u041a\u0435\u043d\u0438",
+        "id": "Kenya",
+        "pa": "\u0a15\u0a40\u0a28\u0a40\u0a06",
+        "ka": "\u10d9\u10d4\u10dc\u10d8\u10d0",
+        "nd": "Khenya"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Baringo",
-            "code": "01",
-            "names": {
-                "geonames": "Baringo",
-                "en": "Baringo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "KE-01",
+            "names": "Baringo",
+            "type": "County"
         },
-        "02": {
-            "name": "Bomet",
-            "code": "02",
-            "names": {
-                "geonames": "Bomet",
-                "en": "Bomet"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-02",
+            "names": "Bomet",
+            "type": "County"
         },
-        "03": {
-            "name": "Bungoma",
-            "code": "03",
-            "names": {
-                "geonames": "Bungoma",
-                "en": "Bungoma"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-03",
+            "names": "Bungoma",
+            "type": "County"
         },
-        "04": {
-            "name": "Busia",
-            "code": "04",
-            "names": {
-                "geonames": "Busia",
-                "en": "Busia"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-04",
+            "names": "Busia",
+            "type": "County"
         },
-        "05": {
-            "name": "Elgeyo\/Marakwet",
-            "code": "05",
-            "names": {
-                "geonames": "Marakwet District",
-                "en": "Elgeyo\/Marakwet"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-05",
+            "names": "Elgeyo\/Marakwet",
+            "type": "County"
         },
-        "06": {
-            "name": "Embu",
-            "code": "06",
-            "names": {
-                "geonames": "Embu",
-                "en": "Embu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-06",
+            "names": "Embu",
+            "type": "County"
         },
-        "07": {
-            "name": "Garissa",
-            "code": "07",
-            "names": {
-                "geonames": "Garissa",
-                "en": "Garissa"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-07",
+            "names": "Garissa",
+            "type": "County"
         },
-        "08": {
-            "name": "Homa Bay",
-            "code": "08",
-            "names": {
-                "geonames": "Homa Bay",
-                "en": "Homa Bay"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-08",
+            "names": "Homa Bay",
+            "type": "County"
         },
-        "09": {
-            "name": "Isiolo",
-            "code": "09",
-            "names": {
-                "geonames": "Isiolo",
-                "en": "Isiolo"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-09",
+            "names": "Isiolo",
+            "type": "County"
         },
-        "10": {
-            "name": "Kajiado",
-            "code": "10",
-            "names": {
-                "geonames": "Kajiado",
-                "en": "Kajiado"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-10",
+            "names": "Kajiado",
+            "type": "County"
         },
-        "11": {
-            "name": "Kakamega",
-            "code": "11",
-            "names": {
-                "geonames": "Kakamega",
-                "en": "Kakamega"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-11",
+            "names": "Kakamega",
+            "type": "County"
         },
-        "12": {
-            "name": "Kericho",
-            "code": "12",
-            "names": {
-                "geonames": "Kericho",
-                "en": "Kericho"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-12",
+            "names": "Kericho",
+            "type": "County"
         },
-        "13": {
-            "name": "Kiambu",
-            "code": "13",
-            "names": {
-                "geonames": "Kiambu",
-                "en": "Kiambu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-13",
+            "names": "Kiambu",
+            "type": "County"
         },
-        "14": {
-            "name": "Kilifi",
-            "code": "14",
-            "names": {
-                "geonames": "Kilifi",
-                "en": "Kilifi"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-14",
+            "names": "Kilifi",
+            "type": "County"
         },
-        "15": {
-            "name": "Kirinyaga",
-            "code": "15",
-            "names": {
-                "geonames": "Kirinyaga",
-                "en": "Kirinyaga"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-15",
+            "names": "Kirinyaga",
+            "type": "County"
         },
-        "16": {
-            "name": "Kisii",
-            "code": "16",
-            "names": {
-                "geonames": "Kisii",
-                "en": "Kisii"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-16",
+            "names": "Kisii",
+            "type": "County"
         },
-        "17": {
-            "name": "Kisumu",
-            "code": "17",
-            "names": {
-                "geonames": "Kisumu",
-                "en": "Kisumu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-17",
+            "names": "Kisumu",
+            "type": "County"
         },
-        "18": {
-            "name": "Kitui",
-            "code": "18",
-            "names": {
-                "geonames": "Kitui",
-                "en": "Kitui"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-18",
+            "names": "Kitui",
+            "type": "County"
         },
-        "19": {
-            "name": "Kwale",
-            "code": "19",
-            "names": {
-                "geonames": "Kwale",
-                "en": "Kwale"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-19",
+            "names": "Kwale",
+            "type": "County"
         },
-        "20": {
-            "name": "Laikipia",
-            "code": "20",
-            "names": {
-                "geonames": "Laikipia",
-                "en": "Laikipia"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-20",
+            "names": "Laikipia",
+            "type": "County"
         },
-        "21": {
-            "name": "Lamu",
-            "code": "21",
-            "names": {
-                "geonames": "Lamu",
-                "en": "Lamu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-21",
+            "names": "Lamu",
+            "type": "County"
         },
-        "22": {
-            "name": "Machakos",
-            "code": "22",
-            "names": {
-                "geonames": "Machakos",
-                "en": "Machakos"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-22",
+            "names": "Machakos",
+            "type": "County"
         },
-        "23": {
-            "name": "Makueni",
-            "code": "23",
-            "names": {
-                "geonames": "Makueni",
-                "en": "Makueni"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-23",
+            "names": "Makueni",
+            "type": "County"
         },
-        "24": {
-            "name": "Mandera",
-            "code": "24",
-            "names": {
-                "geonames": "Mandera",
-                "en": "Mandera"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-24",
+            "names": "Mandera",
+            "type": "County"
         },
-        "25": {
-            "name": "Marsabit",
-            "code": "25",
-            "names": {
-                "geonames": "Marsabit",
-                "en": "Marsabit"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-25",
+            "names": "Marsabit",
+            "type": "County"
         },
-        "26": {
-            "name": "Meru",
-            "code": "26",
-            "names": {
-                "geonames": "Meru",
-                "en": "Meru"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-26",
+            "names": "Meru",
+            "type": "County"
         },
-        "27": {
-            "name": "Migori",
-            "code": "27",
-            "names": {
-                "geonames": "Migori",
-                "en": "Migori"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-27",
+            "names": "Migori",
+            "type": "County"
         },
-        "28": {
-            "name": "Mombasa",
-            "code": "28",
-            "names": {
-                "geonames": "Mombasa",
-                "en": "Mombasa"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-28",
+            "names": "Mombasa",
+            "type": "County"
         },
-        "29": {
-            "name": "Murang'a",
-            "code": "29",
-            "names": {
-                "geonames": "Murang'a District",
-                "en": "Murang'a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-29",
+            "names": "Murang'a",
+            "type": "County"
         },
-        "30": {
-            "name": "Nairobi City",
-            "code": "30",
-            "names": {
-                "geonames": "Nairobi Area",
-                "en": "Nairobi City"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-30",
+            "names": "Nairobi City",
+            "type": "County"
         },
-        "31": {
-            "name": "Nakuru",
-            "code": "31",
-            "names": {
-                "geonames": "Nakuru",
-                "en": "Nakuru"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-31",
+            "names": "Nakuru",
+            "type": "County"
         },
-        "32": {
-            "name": "Nandi",
-            "code": "32",
-            "names": {
-                "geonames": "Nandi",
-                "en": "Nandi"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-32",
+            "names": "Nandi",
+            "type": "County"
         },
-        "33": {
-            "name": "Narok",
-            "code": "33",
-            "names": {
-                "geonames": "Narok",
-                "en": "Narok"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-33",
+            "names": "Narok",
+            "type": "County"
         },
-        "34": {
-            "name": "Nyamira",
-            "code": "34",
-            "names": {
-                "geonames": "Nyamira District",
-                "en": "Nyamira"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-34",
+            "names": "Nyamira",
+            "type": "County"
         },
-        "35": {
-            "name": "Nyandarua",
-            "code": "35",
-            "names": {
-                "geonames": "Nyandarua",
-                "en": "Nyandarua"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-35",
+            "names": "Nyandarua",
+            "type": "County"
         },
-        "36": {
-            "name": "Nyeri",
-            "code": "36",
-            "names": {
-                "geonames": "Nyeri",
-                "en": "Nyeri"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-36",
+            "names": "Nyeri",
+            "type": "County"
         },
-        "37": {
-            "name": "Samburu",
-            "code": "37",
-            "names": {
-                "geonames": "Samburu",
-                "en": "Samburu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-37",
+            "names": "Samburu",
+            "type": "County"
         },
-        "38": {
-            "name": "Siaya",
-            "code": "38",
-            "names": {
-                "geonames": "Siaya",
-                "en": "Siaya"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-38",
+            "names": "Siaya",
+            "type": "County"
         },
-        "39": {
-            "name": "Taita\/Taveta",
-            "code": "39",
-            "names": {
-                "geonames": "Taita Taveta",
-                "en": "Taita\/Taveta"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-39",
+            "names": "Taita\/Taveta",
+            "type": "County"
         },
-        "40": {
-            "name": "Tana River",
-            "code": "40",
-            "names": {
-                "geonames": "Tana River",
-                "en": "Tana River"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-40",
+            "names": "Tana River",
+            "type": "County"
         },
-        "41": {
-            "name": "Tharaka-Nithi",
-            "code": "41",
-            "names": {
-                "geonames": "Tharaka District",
-                "en": "Tharaka-Nithi"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-41",
+            "names": "Tharaka-Nithi",
+            "type": "County"
         },
-        "42": {
-            "name": "Trans Nzoia",
-            "code": "42",
-            "names": {
-                "geonames": "Trans Nzoia",
-                "en": "Trans Nzoia"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-42",
+            "names": "Trans Nzoia",
+            "type": "County"
         },
-        "43": {
-            "name": "Turkana",
-            "code": "43",
-            "names": {
-                "geonames": "Turkana",
-                "en": "Turkana"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-43",
+            "names": "Turkana",
+            "type": "County"
         },
-        "44": {
-            "name": "Uasin Gishu",
-            "code": "44",
-            "names": {
-                "geonames": "Uasin Gishu",
-                "en": "Uasin Gishu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-44",
+            "names": "Uasin Gishu",
+            "type": "County"
         },
-        "45": {
-            "name": "Vihiga",
-            "code": "45",
-            "names": {
-                "geonames": "Vihiga",
-                "en": "Vihiga"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-45",
+            "names": "Vihiga",
+            "type": "County"
         },
-        "46": {
-            "name": "Wajir",
-            "code": "46",
-            "names": {
-                "geonames": "Wajir",
-                "en": "Wajir"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KE-46",
+            "names": "Wajir",
+            "type": "County"
         },
-        "47": {
-            "name": "West Pokot",
-            "code": "47",
-            "names": {
-                "geonames": "West Pokot",
-                "en": "West Pokot"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "110": {
-            "name": "Nairobi Municipality",
-            "code": "110",
-            "division": "province",
-            "parent": "KE",
-            "lat": -1.2833333,
-            "lng": 36.81666670000004
-        },
-        "200": {
-            "name": "Central",
-            "code": "200",
-            "division": "province",
-            "parent": "KE",
-            "lat": -1.2140711,
-            "lng": 36.872534900000005
-        },
-        "300": {
-            "name": "Coast",
-            "code": "300",
-            "division": "province",
-            "parent": "KE",
-            "lat": -4.0690822,
-            "lng": 39.6783289
-        },
-        "400": {
-            "name": "Eastern",
-            "code": "400",
-            "division": "province",
-            "parent": "KE",
-            "lat": -1.2164728,
-            "lng": 36.99062349999997
-        },
-        "500": {
-            "name": "North-Eastern Kaskazini Mashariki",
-            "code": "500",
-            "division": "province",
-            "parent": "KE"
-        },
-        "700": {
-            "name": "Rift Valley",
-            "code": "700",
-            "division": "province",
-            "parent": "KE",
-            "lat": -0.944009,
-            "lng": 36.59571649999998
-        },
-        "900": {
-            "name": "Western Magharibi",
-            "code": "900",
-            "division": "province",
-            "parent": "KE",
-            "lat": 0.2759607,
-            "lng": 34.75764159999994
+        {
+            "code": "KE-47",
+            "names": "West Pokot",
+            "type": "County"
         }
-    }
+    ]
 }

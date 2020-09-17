@@ -1,210 +1,189 @@
 {
     "alpha-2": "WS",
     "alpha-3": "WSM",
-    "numeric": 882,
-    "capital": "Apia",
-    "currency": "WST",
-    "languages": [
-        "sm",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddfc\ud83c\uddf8",
+    "numeric": "882",
     "names": {
-        "geonames": "Samoa",
         "en": "Samoa",
-        "ar": "\u0633\u0627\u0645\u0648\u0627",
-        "de": "Samoa",
-        "es": "Samoa",
         "fr": "Samoa",
-        "it": "Samoa",
-        "ru": "\u0421\u0430\u043c\u043e\u0430",
+        "ur": "\u0633\u0627\u0645\u0648\u0622",
+        "rn": "Samowa",
+        "lv": "Samoa",
+        "hy": "\u054d\u0561\u0574\u0578\u0561",
+        "sq": "Samoa",
+        "jv": "Samoa",
+        "or": "\u0b38\u0b3e\u0b2e\u0b4b\u0b06",
+        "mg": "Samoa",
+        "no": "Samoa",
         "zh": "\u8428\u6469\u4e9a",
-        "he": "\u05e1\u05de\u05d5\u05d0\u05d4",
-        "hi": "\u0938\u092e\u094b\u0906",
+        "tr": "Samoa",
+        "bs": "Samoa",
         "ja": "\u30b5\u30e2\u30a2",
-        "pt": "Samoa"
+        "th": "\u0e0b\u0e32\u0e21\u0e31\u0e27",
+        "he": "\u05e1\u05de\u05d5\u05d0\u05d4",
+        "kk": "\u0421\u0430\u043c\u043e\u0430",
+        "mo": "Samoa",
+        "ff": "Samowaa",
+        "ca": "Samoa",
+        "ar": "\u0633\u0627\u0645\u0648\u0627",
+        "eu": "Samoa",
+        "ps": "\u0633\u0627\u0645\u0648\u0627",
+        "kn": "\u0cb8\u0cae\u0ccb\u0cb5\u0cbe",
+        "si": "\u0dc3\u0dd0\u0db8\u0ddd\u0dc0\u0dcf",
+        "km": "\u179f\u17b6\u1798\u17d0\u179a",
+        "ne": "\u0938\u093e\u092e\u094b\u0906",
+        "fi": "Samoa",
+        "hi": "\u0938\u092e\u094b\u0906",
+        "rm": "Samoa",
+        "vi": "Samoa",
+        "gl": "Samoa",
+        "ig": "Samoa",
+        "mr": "\u0938\u093e\u092e\u094b\u0906",
+        "es": "Samoa",
+        "be": "\u0421\u0430\u043c\u043e\u0430",
+        "lg": "Samowa",
+        "az": "\u0421\u0430\u043c\u043e\u0430",
+        "ce": "\u0421\u0430\u043c\u043e\u0430",
+        "mk": "\u0421\u0430\u043c\u043e\u0430",
+        "zu": "i-Samoa",
+        "it": "Samoa",
+        "ko": "\uc0ac\ubaa8\uc544",
+        "lo": "\u0e8a\u0eb2\u0ea1\u0ebb\u0ea7",
+        "lt": "Samoa",
+        "dz": "\u0f66\u0f0b\u0f58\u0f7c\u0f0b\u0f68",
+        "ln": "Samoa",
+        "hr": "Samoa",
+        "ks": "\u0633\u06cc\u0645\u0648\u0648\u0627",
+        "sv": "Samoa",
+        "pl": "Samoa",
+        "nb": "Samoa",
+        "sh": "Samoa",
+        "lu": "Samoa",
+        "nl": "Samoa",
+        "ky": "\u0421\u0430\u043c\u043e\u0430",
+        "bn": "\u09b8\u09be\u09ae\u09cb\u09af\u09bc\u09be",
+        "sd": "\u0633\u0645\u0648\u0626\u0627",
+        "fa": "\u0633\u0627\u0645\u0648\u0622",
+        "gd": "Samotha",
+        "cs": "Samoa",
+        "tk": "Samoa",
+        "eo": "Samoo",
+        "mt": "Samoa",
+        "sr": "Samoa",
+        "wo": "Samowa",
+        "el": "\u03a3\u03b1\u03bc\u03cc\u03b1",
+        "sn": "Samoa",
+        "pt": "Samoa",
+        "yi": "\u05e1\u05d0\u05b7\u05de\u05d0\u05d0\u05b7",
+        "is": "Sam\u00f3a",
+        "ta": "\u0b9a\u0bae\u0bcb\u0bb5\u0bbe",
+        "br": "Samoa",
+        "hu": "Szamoa",
+        "et": "Samoa",
+        "ku": "Samoa",
+        "sk": "Samoa",
+        "sw": "Samoa",
+        "te": "\u0c38\u0c2e\u0c4b\u0c35\u0c3e",
+        "ro": "Samoa",
+        "ki": "Samoa",
+        "ak": "Samoa",
+        "tg": "\u0421\u0430\u043c\u043e\u0430",
+        "ml": "\u0d38\u0d2e\u0d4b\u0d35",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Sam\u0254",
+        "de": "Samoa",
+        "as": "\u099a\u09be\u09ae\u09cb\u09f1\u09be",
+        "am": "\u1233\u121e\u12a0",
+        "se": "Samoa",
+        "ia": "Samoa",
+        "ti": "\u1233\u121e\u12a0",
+        "ru": "\u0421\u0430\u043c\u043e\u0430",
+        "ga": "Sam\u00f3",
+        "bg": "\u0421\u0430\u043c\u043e\u0430",
+        "my": "\u1006\u1019\u102d\u102f\u1038\u1021\u102c\u1038",
+        "fy": "Samoa",
+        "bm": "Samowa",
+        "gu": "\u0ab8\u0aae\u0acb\u0a86",
+        "uz": "\u0421\u0430\u043c\u043e\u0430",
+        "cy": "Samoa",
+        "ug": "\u0633\u0627\u0645\u0648\u0626\u0627",
+        "nn": "Samoa",
+        "uk": "\u0421\u0430\u043c\u043e\u0430",
+        "qu": "Samoa",
+        "tl": "Samoa",
+        "ms": "Samoa",
+        "so": "Samoowa",
+        "da": "Samoa",
+        "tt": "\u0421\u0430\u043c\u043e\u0430",
+        "af": "Samoa",
+        "ha": "Samoa",
+        "iw": "\u05e1\u05de\u05d5\u05d0\u05d4",
+        "ee": "Samoa nutome",
+        "in": "Samoa",
+        "to": "Ha\u02bbamoa",
+        "sl": "Samoa",
+        "sg": "Samo\u00e4a",
+        "lb": "Samoa",
+        "fo": "Samoa",
+        "mn": "\u0421\u0430\u043c\u043e\u0430",
+        "id": "Samoa",
+        "pa": "\u0a38\u0a3e\u0a2e\u0a4b\u0a06",
+        "ka": "\u10e1\u10d0\u10db\u10dd\u10d0",
+        "nd": "Samowa"
     },
-    "ISO3166-2": {
-        "AA": {
-            "name": "A'ana",
-            "code": "AA",
-            "names": {
-                "geonames": "A'ana",
-                "ru": "\u0410\u0430\u043d\u0430",
-                "en": "A'ana",
-                "es": "A'ana",
-                "fr": "A'ana",
-                "it": "A'ana",
-                "zh": "\u963f\u7eb3"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "WS-AA",
+            "names": "A'ana",
+            "type": "District"
         },
-        "AL": {
-            "name": "Aiga-i-le-Tai",
-            "code": "AL",
-            "names": {
-                "geonames": "Aiga-i-le-Tai",
-                "ru": "\u0410\u0438\u0433\u0430-\u0438-\u043b\u0435-\u0422\u0430\u0438",
-                "en": "Aiga-i-le-Tai",
-                "es": "Aiga-i-le-Tai",
-                "fr": "Aiga-i-le-Tai",
-                "it": "Aiga-i-le-Tai",
-                "zh": "\u827e\u52a0\u4f0a\u52d2\u6cf0"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+        {
+            "code": "WS-AL",
+            "names": "Aiga-i-le-Tai",
+            "type": "District"
         },
-        "AT": {
-            "name": "Atua",
-            "code": "AT",
-            "names": {
-                "geonames": "Atua",
-                "ru": "\u0410\u0442\u0443\u0430",
-                "en": "Atua",
-                "es": "Atua",
-                "fr": "Atua",
-                "it": "Atua",
-                "zh": "\u963f\u56fe\u963f"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-AT",
+            "names": "Atua",
+            "type": "District"
         },
-        "FA": {
-            "name": "Fa'asaleleaga",
-            "code": "FA",
-            "names": {
-                "geonames": "Fa`asaleleaga",
-                "ru": "\u0424\u0430\u0430\u0441\u0430\u043b\u0435\u043b\u0435\u0430\u0433\u0430",
-                "en": "Fa'asaleleaga",
-                "es": "Fa'asaleleaga",
-                "fr": "Fa'asaleleaga",
-                "it": "Fa'asaleleaga"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": -13.7578769,
-            "lng": -172.29125390000002
+        {
+            "code": "WS-FA",
+            "names": "Fa'asaleleaga",
+            "type": "District"
         },
-        "GE": {
-            "name": "Gaga'emauga",
-            "code": "GE",
-            "names": {
-                "geonames": "Gaga`emauga",
-                "ru": "\u0413\u0430\u0433\u0430\u044d\u043c\u0430\u0443\u0433\u0430",
-                "en": "Gaga'emauga",
-                "es": "Gaga'emauga",
-                "fr": "Gaga'emauga",
-                "it": "Gaga'emauga"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-GE",
+            "names": "Gaga'emauga",
+            "type": "District"
         },
-        "GI": {
-            "name": "Gaga'ifomauga",
-            "code": "GI",
-            "names": {
-                "geonames": "Gagaifomauga",
-                "ru": "\u0413\u0430\u0433\u0430\u0438\u0444\u043e\u043c\u0430\u0443\u0433\u0430",
-                "en": "Gaga'ifomauga",
-                "es": "Gaga'ifomauga",
-                "fr": "Gaga'ifomauga",
-                "it": "Gaga'ifomauga"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-GI",
+            "names": "Gagaifomauga",
+            "type": "District"
         },
-        "PA": {
-            "name": "Palauli",
-            "code": "PA",
-            "names": {
-                "geonames": "Palauli",
-                "ru": "\u041f\u0430\u043b\u0430\u0443\u043b\u0438",
-                "en": "Palauli",
-                "es": "Palauli",
-                "fr": "Palauli",
-                "it": "Palauli"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": -13.7585016,
-            "lng": -172.299737
+        {
+            "code": "WS-PA",
+            "names": "Palauli",
+            "type": "District"
         },
-        "SA": {
-            "name": "Satupa'itea",
-            "code": "SA",
-            "names": {
-                "geonames": "Satupa`itea",
-                "ru": "\u0421\u0430\u0442\u0443\u043f\u0430\u0438\u0442\u0435\u0430",
-                "en": "Satupa'itea",
-                "es": "Satupa'itea",
-                "fr": "Satupa'itea",
-                "it": "Satupa'itea"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-SA",
+            "names": "Satupa'itea",
+            "type": "District"
         },
-        "TU": {
-            "name": "Tuamasaga",
-            "code": "TU",
-            "names": {
-                "geonames": "Tuamasaga",
-                "ru": "\u0422\u0443\u0430\u043c\u0430\u0441\u0430\u0433\u0430",
-                "en": "Tuamasaga",
-                "es": "Tuamasaga",
-                "fr": "Tuamasaga",
-                "it": "Tuamasaga",
-                "zh": "\u56fe\u963f\u9a6c\u8428\u52a0"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-TU",
+            "names": "Tuamasaga",
+            "type": "District"
         },
-        "VF": {
-            "name": "Va'a-o-Fonoti",
-            "code": "VF",
-            "names": {
-                "geonames": "Va`a-o-Fonoti",
-                "ru": "\u0412\u0430\u0430-\u043e-\u0424\u043e\u043d\u043e\u0442\u0438",
-                "en": "Va'a-o-Fonoti",
-                "es": "Va'a-o-Fonoti",
-                "fr": "Va'a-o-Fonoti",
-                "it": "Va'a-o-Fonoti",
-                "zh": "\u74e6\u5965\u798f\u8bfa\u8482"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": 37.4315734,
-            "lng": -78.65689420000001
+        {
+            "code": "WS-VF",
+            "names": "Va'a-o-Fonoti",
+            "type": "District"
         },
-        "VS": {
-            "name": "Vaisigano",
-            "code": "VS",
-            "names": {
-                "geonames": "Vaisigano",
-                "ru": "\u0412\u0430\u0438\u0441\u0438\u0433\u0430\u043d\u043e",
-                "en": "Vaisigano",
-                "es": "Vaisigano",
-                "fr": "Vaisigano",
-                "it": "Vaisigano"
-            },
-            "division": "district",
-            "parent": "WS",
-            "lat": null,
-            "lng": null
+        {
+            "code": "WS-VS",
+            "names": "Vaisigano",
+            "type": "District"
         }
-    }
+    ]
 }

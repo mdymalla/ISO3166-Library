@@ -1,254 +1,192 @@
 {
     "alpha-2": "JO",
     "alpha-3": "JOR",
-    "numeric": 400,
-    "capital": "Amman",
-    "currency": "JOD",
-    "languages": [
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddef\ud83c\uddf4",
+    "numeric": "400",
     "names": {
-        "geonames": "Jordan",
         "en": "Jordan",
-        "ar": "\u0627\u0644\u0623\u0631\u062f\u0646",
-        "de": "Jordanien",
-        "es": "Jordania",
         "fr": "Jordanie",
-        "it": "Giordania",
-        "ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "ur": "\u0627\u0631\u062f\u0646",
+        "rn": "Yorudaniya",
+        "lv": "Jord\u0101nija",
+        "hy": "\u0540\u0578\u0580\u0564\u0561\u0576\u0561\u0576",
+        "sq": "Jordani",
+        "jv": "Yordania",
+        "or": "\u0b1c\u0b4b\u0b30\u0b4d\u0b21\u0b3e\u0b28\u0b4d",
+        "mg": "Jordania",
+        "no": "Jordan",
         "zh": "\u7ea6\u65e6",
-        "he": "\u05d9\u05e8\u05d3\u05df",
-        "hi": "\u091c\u0949\u0930\u094d\u0921\u0928",
+        "tr": "\u00dcrd\u00fcn",
+        "bs": "Jordan",
         "ja": "\u30e8\u30eb\u30c0\u30f3",
-        "pt": "Jord\u00e2nia"
+        "th": "\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e19",
+        "he": "\u05d9\u05e8\u05d3\u05df",
+        "kk": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "mo": "Iordania",
+        "ff": "Jordani",
+        "ca": "Jord\u00e0nia",
+        "ar": "\u0627\u0644\u0623\u0631\u062f\u0646",
+        "eu": "Jordania",
+        "ps": "\u0627\u0631\u062f\u0646",
+        "kn": "\u0c9c\u0ccb\u0cb0\u0ccd\u0ca1\u0cbe\u0ca8\u0ccd",
+        "si": "\u0da2\u0ddd\u0dbb\u0dca\u0daf\u0dcf\u0db1\u0dba",
+        "km": "\u17a0\u17ca\u17d2\u179f\u1780\u178a\u17b6\u1793\u17b8",
+        "ne": "\u091c\u094b\u0930\u094d\u0921\u0928",
+        "fi": "Jordania",
+        "hi": "\u091c\u0949\u0930\u094d\u0921\u0928",
+        "rm": "Jordania",
+        "vi": "Jordan",
+        "gl": "Xordania",
+        "ig": "Obodo Jordan",
+        "mr": "\u091c\u0949\u0930\u094d\u0921\u0928",
+        "es": "Jordania",
+        "be": "\u0406\u0430\u0440\u0434\u0430\u043d\u0456\u044f",
+        "lg": "Yorodani",
+        "az": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u0458\u0430",
+        "ce": "\u0423\u0440\u0434\u0430\u043d",
+        "mk": "\u0408\u043e\u0440\u0434\u0430\u043d",
+        "zu": "i-Jordan",
+        "it": "Giordania",
+        "ko": "\uc694\ub974\ub2e8",
+        "lo": "\u0e88\u0ecd\u0ec1\u0e94\u0e99",
+        "lt": "Jordanija",
+        "dz": "\u0f47\u0f7c\u0f62\u0f0b\u0f4c\u0f53",
+        "ln": "Z\u0254dani",
+        "hr": "Jordan",
+        "sw": "Yordani",
+        "sv": "Jordanien",
+        "pl": "Jordania",
+        "nb": "Jordan",
+        "sh": "Jordan",
+        "lu": "Jodani",
+        "nl": "Jordani\u00eb",
+        "ky": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "bn": "\u099c\u09b0\u09cd\u09a1\u09a8",
+        "sd": "\u0627\u0631\u062f\u0646",
+        "fa": "\u0627\u0631\u062f\u0646",
+        "gd": "I\u00f2rdan",
+        "cs": "Jord\u00e1nsko",
+        "tk": "Iordani\u00fda",
+        "eo": "Jordanio",
+        "mt": "il-\u0120ordan",
+        "sr": "Jordan",
+        "wo": "Sordani",
+        "el": "\u0399\u03bf\u03c1\u03b4\u03b1\u03bd\u03af\u03b1",
+        "sn": "Jordan",
+        "pt": "Jord\u00e2nia",
+        "is": "J\u00f3rdan\u00eda",
+        "ta": "\u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd",
+        "br": "Jordania",
+        "hu": "Jord\u00e1nia",
+        "et": "Jordaania",
+        "ku": "Urdun",
+        "sk": "Jord\u00e1nsko",
+        "te": "\u0c1c\u0c4b\u0c30\u0c4d\u0c21\u0c3e\u0c28\u0c4d",
+        "ro": "Iordania",
+        "ki": "Njorondani",
+        "ak": "Gy\u0254dan",
+        "tg": "\u0423\u0440\u0434\u0443\u043d",
+        "ml": "\u0d1c\u0d4b\u0d7c\u0d26\u0d4d\u0d26\u0d3e\u0d7b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de J\u0254dani",
+        "de": "Jordanien",
+        "as": "\u099c\u09f0\u09cd\u09a1\u09be\u09a8",
+        "am": "\u1306\u122d\u12f3\u1295",
+        "se": "Jord\u00e1nia",
+        "ia": "Jordania",
+        "ti": "\u1306\u122d\u12f3\u1295",
+        "ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "ga": "an Iord\u00e1in",
+        "bg": "\u0419\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "my": "\u1002\u103b\u1031\u102c\u103a\u1012\u1014\u103a",
+        "fy": "Jordani\u00eb",
+        "bm": "Z\u0254rdani",
+        "gu": "\u0a9c\u0acb\u0ab0\u0acd\u0aa1\u0aa8",
+        "uz": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "cy": "Gwlad Iorddonen",
+        "ug": "\u0626\u0649\u064a\u0648\u0631\u062f\u0627\u0646\u0649\u064a\u06d5",
+        "nn": "Jordan",
+        "uk": "\u0419\u043e\u0440\u0434\u0430\u043d\u0456\u044f",
+        "qu": "Jordania",
+        "tl": "Jordan",
+        "ms": "Jordan",
+        "so": "Urdun",
+        "da": "Jordan",
+        "tt": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "af": "Jordani\u00eb",
+        "ha": "Jordan",
+        "iw": "\u05d9\u05e8\u05d3\u05df",
+        "ee": "Yordan nutome",
+        "in": "Yordania",
+        "to": "Soatane",
+        "sl": "Jordanija",
+        "sg": "Zordan\u00efi",
+        "lb": "Jordanien",
+        "fo": "Jordan",
+        "mn": "\u0419\u043e\u0440\u0434\u0430\u043d",
+        "id": "Yordania",
+        "pa": "\u0a1c\u0a3e\u0a30\u0a21\u0a28",
+        "ka": "\u10d8\u10dd\u10e0\u10d3\u10d0\u10dc\u10d8\u10d0",
+        "nd": "Jodani"
     },
-    "ISO3166-2": {
-        "AJ": {
-            "name": "Ajloun Governorate",
-            "code": "AJ",
-            "names": {
-                "geonames": "Ajlun",
-                "ru": "\u0410\u0434\u0436\u043b\u0443\u043d",
-                "en": "Ajloun Governorate",
-                "ar": "\u0639\u062c\u0644\u0648\u0646",
-                "es": "Gobernaci\u00f3n de Ajlun",
-                "fr": "Gouvernorat d'Ajlun",
-                "it": "Governatorato di Ajlun",
-                "zh": "\u963f\u5091\u9686\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.3352502,
-            "lng": 35.696998399999984
+    "3166-2": [
+        {
+            "code": "JO-AJ",
+            "names": "\u2018Ajl\u016bn",
+            "type": "Governorate"
         },
-        "AM": {
-            "name": "Amman Governorate",
-            "code": "AM",
-            "names": {
-                "geonames": "Amman",
-                "ru": "\u0410\u043c\u043c\u0430\u043d",
-                "en": "Amman Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
-                "de": "Gouvernement Amman",
-                "es": "Gobernaci\u00f3n de Amm\u00e1n",
-                "fr": "Gouvernorat d'Amman",
-                "it": "Governatorato di Amman",
-                "zh": "\u5b89\u66fc\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 31.949381,
-            "lng": 35.93291099999999
+        {
+            "code": "JO-AM",
+            "names": "\u2018Amm\u0101n (Al \u2018A\u015fimah)",
+            "type": "Governorate"
         },
-        "AQ": {
-            "name": "Aqaba Governorate",
-            "code": "AQ",
-            "names": {
-                "geonames": "Aqaba",
-                "ru": "\u0410\u043a\u0430\u0431\u0430",
-                "en": "Aqaba Governorate",
-                "ar": "\u0627\u0644\u0639\u0642\u0628\u0629",
-                "de": "Gouvernement Aqaba",
-                "es": "Gobernaci\u00f3n de Aqaba",
-                "fr": "Gouvernorat d'Aqaba",
-                "it": "Governatorato di Aqaba",
-                "zh": "\u4e9e\u5580\u5df4\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+        {
+            "code": "JO-AQ",
+            "names": "Al \u2018Aqabah",
+            "type": "Governorate"
         },
-        "AT": {
-            "name": "Tafilah Governorate",
-            "code": "AT",
-            "names": {
-                "geonames": "Tafielah",
-                "ru": "\u042d\u0442-\u0422\u0430\u0444\u0438\u043b\u0430",
-                "en": "Tafilah Governorate",
-                "ar": "\u0627\u0644\u0637\u0641\u064a\u0644\u0629",
-                "es": "Gobernaci\u00f3n de Tafila",
-                "fr": "Gouvernorat de Tafilah",
-                "it": "Governatorato di al-Tafila",
-                "zh": "\u5854\u83f2\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 30.8782508,
-            "lng": 35.65328479999994
+        {
+            "code": "JO-AT",
+            "names": "A\u0163 \u0162af\u012blah",
+            "type": "Governorate"
         },
-        "AZ": {
-            "name": "Zarqa Governorate",
-            "code": "AZ",
-            "names": {
-                "geonames": "Zarqa",
-                "ru": "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430",
-                "en": "Zarqa Governorate",
-                "ar": "\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
-                "es": "Gobernaci\u00f3n de Zark\u00e1",
-                "fr": "Gouvernorat de Zarqa",
-                "it": "Governatorato di al-Zarqa",
-                "zh": "\u624e\u723e\u5361\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 31.6936545,
-            "lng": 37.040033900000026
+        {
+            "code": "JO-AZ",
+            "names": "Az Zarq\u0101'",
+            "type": "Governorate"
         },
-        "BA": {
-            "name": "Balqa Governorate",
-            "code": "BA",
-            "names": {
-                "geonames": "Balqa",
-                "ru": "\u042d\u043b\u044c-\u0411\u0430\u043b\u043a\u0430",
-                "en": "Balqa Governorate",
-                "ar": "\u0627\u0644\u0628\u0644\u0642\u0627\u0621",
-                "es": "Gobernaci\u00f3n de Balqa'",
-                "fr": "Gouvernorat de Balqa",
-                "it": "Governatorato di Balqa",
-                "zh": "\u62dc\u52d2\u52a0\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.1666667,
-            "lng": 35.616666699999996
+        {
+            "code": "JO-BA",
+            "names": "Al Balq\u0101'",
+            "type": "Governorate"
         },
-        "IR": {
-            "name": "Irbid Governorate",
-            "code": "IR",
-            "names": {
-                "geonames": "Irbid",
-                "ru": "\u0418\u0440\u0431\u0438\u0434",
-                "en": "Irbid Governorate",
-                "ar": "\u0625\u0631\u0628\u062f",
-                "es": "Gobernaci\u00f3n de Irbid",
-                "fr": "Gouvernorat d'Irbid",
-                "it": "Governatorato di Irbid",
-                "zh": "\u4f0a\u723e\u6bd4\u5fb7\u7701"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "JO-IR",
+            "names": "Irbid",
+            "type": "Governorate"
         },
-        "JA": {
-            "name": "Jerash Governorate",
-            "code": "JA",
-            "names": {
-                "geonames": "Jerash",
-                "ru": "\u0414\u0436\u0430\u0440\u0430\u0448",
-                "en": "Jerash Governorate",
-                "ar": "\u062c\u0631\u0634",
-                "es": "Gobernaci\u00f3n de Gerasa",
-                "fr": "Gouvernorat de Jerash",
-                "it": "Governatorato di Jerash",
-                "zh": "\u5091\u62c9\u4ec0\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.2769016,
-            "lng": 35.90555019999999
+        {
+            "code": "JO-JA",
+            "names": "Jarash",
+            "type": "Governorate"
         },
-        "JR": {
-            "name": "Irbid",
-            "code": "JR",
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.5454418,
-            "lng": 35.85715319999997
+        {
+            "code": "JO-KA",
+            "names": "Al Karak",
+            "type": "Governorate"
         },
-        "KA": {
-            "name": "Karak Governorate",
-            "code": "KA",
-            "names": {
-                "geonames": "Karak",
-                "ru": "\u042d\u043b\u044c-\u041a\u0430\u0440\u0430\u043a",
-                "en": "Karak Governorate",
-                "ar": "\u0627\u0644\u0643\u0631\u0643",
-                "es": "Gobernaci\u00f3n de Karak",
-                "fr": "Gouvernorat de Karak",
-                "it": "Governatorato di al-Karak",
-                "zh": "\u5361\u62c9\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 31.1648059,
-            "lng": 35.76188239999999
+        {
+            "code": "JO-MA",
+            "names": "Al Mafraq",
+            "type": "Governorate"
         },
-        "MA": {
-            "name": "Mafraq Governorate",
-            "code": "MA",
-            "names": {
-                "geonames": "Mafraq",
-                "ru": "\u042d\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a",
-                "en": "Mafraq Governorate",
-                "ar": "\u0627\u0644\u0645\u0641\u0631\u0642",
-                "es": "Gobernaci\u00f3n de Mafraq",
-                "fr": "Gouvernorat de Mafraq",
-                "it": "Governatorato di Mafraq",
-                "zh": "\u99ac\u5f17\u62c9\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 32.3616821,
-            "lng": 36.21933620000004
+        {
+            "code": "JO-MD",
+            "names": "M\u0101dab\u0101",
+            "type": "Governorate"
         },
-        "MD": {
-            "name": "Madaba Governorate",
-            "code": "MD",
-            "names": {
-                "geonames": "Madaba",
-                "ru": "\u041c\u0430\u0434\u0430\u0431\u0430",
-                "en": "Madaba Governorate",
-                "ar": "\u0645\u0627\u062f\u0628\u0627",
-                "es": "Gobernaci\u00f3n de Madaba",
-                "fr": "Gouvernorat de Madaba",
-                "it": "Governatorato di Madaba",
-                "zh": "\u99ac\u4ee3\u5df4\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 39.0457549,
-            "lng": -76.6412712
-        },
-        "MN": {
-            "name": "Ma'an Governorate",
-            "code": "MN",
-            "names": {
-                "geonames": "Ma'an",
-                "ru": "\u041c\u0430\u0430\u043d",
-                "en": "Ma'an Governorate",
-                "ar": "\u0645\u0639\u0627\u0646",
-                "es": "Gobernaci\u00f3n de Ma'an",
-                "fr": "Gouvernorat de Ma'an",
-                "it": "Governatorato di Ma'an",
-                "zh": "\u99ac\u5b89\u7701"
-            },
-            "division": "governorate",
-            "parent": "JO",
-            "lat": 46.729553,
-            "lng": -94.68589980000002
+        {
+            "code": "JO-MN",
+            "names": "Ma\u2018\u0101n",
+            "type": "Governorate"
         }
-    }
+    ]
 }

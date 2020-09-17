@@ -1,114 +1,168 @@
 {
     "alpha-2": "GD",
     "alpha-3": "GRD",
-    "numeric": 308,
-    "capital": "St. George's",
-    "currency": "XCD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddec\ud83c\udde9",
+    "numeric": "308",
     "names": {
-        "geonames": "Grenada",
         "en": "Grenada",
-        "ar": "\u063a\u0631\u064a\u0646\u0627\u062f\u0627",
-        "de": "Grenada",
-        "es": "Granada",
         "fr": "Grenade",
-        "it": "Grenada",
-        "ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "ur": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627",
+        "rn": "Gerenada",
+        "lv": "Gren\u0101da",
+        "hy": "\u0533\u0580\u0565\u0576\u0561\u0564\u0561",
+        "sq": "Granad\u00eb",
+        "jv": "Gr\u00e9nada",
+        "or": "\u0b17\u0b4d\u0b30\u0b47\u0b28\u0b3e\u0b21\u0b3e",
+        "mg": "Grenady",
+        "no": "Grenada",
         "zh": "\u683c\u6797\u7eb3\u8fbe",
-        "he": "\u05d2\u05e8\u05e0\u05d3\u05d4",
-        "hi": "\u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093e",
+        "tr": "Grenada",
+        "bs": "Grenada",
         "ja": "\u30b0\u30ec\u30ca\u30c0",
-        "pt": "Granada"
+        "th": "\u0e40\u0e01\u0e23\u0e40\u0e19\u0e14\u0e32",
+        "he": "\u05d2\u05e8\u05e0\u05d3\u05d4",
+        "fa": "\u06af\u0631\u0646\u0627\u062f\u0627",
+        "kk": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "mo": "Grenada",
+        "ff": "Garnaad",
+        "ca": "Grenada",
+        "ar": "\u063a\u0631\u064a\u0646\u0627\u062f\u0627",
+        "eu": "Grenada",
+        "ps": "\u06ab\u0631\u0646\u0627\u062f\u0627",
+        "kn": "\u0c97\u0ccd\u0cb0\u0cc6\u0ca8\u0cc6\u0ca1\u0cbe",
+        "si": "\u0d9c\u0dca\u200d\u0dbb\u0dd0\u0db1\u0da9\u0dcf\u0dc0",
+        "km": "\u17a0\u17d2\u1782\u17d2\u179a\u17be\u178e\u17b6\u178a",
+        "ne": "\u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093e",
+        "fi": "Grenada",
+        "hi": "\u0917\u094d\u0930\u0947\u0928\u093e\u0921\u093e",
+        "rm": "Grenada",
+        "vi": "Grenada",
+        "gl": "Granada",
+        "ig": "Grenada",
+        "mr": "\u0917\u094d\u0930\u0947\u0928\u0947\u0921\u093e",
+        "es": "Granada",
+        "be": "\u0413\u0440\u044d\u043d\u0430\u0434\u0430",
+        "lg": "Gurenada",
+        "az": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "ce": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "mk": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "zu": "i-Grenada",
+        "it": "Grenada",
+        "ko": "\uadf8\ub808\ub098\ub2e4",
+        "lo": "\u0ec0\u0e81\u0ea3\u0ec0\u0e99\u0e94\u0eb2",
+        "lt": "Grenada",
+        "dz": "\u0f42\u0fb2\u0f80\u0f0b\u0f53\u0f0b\u0f4c",
+        "ln": "Gelenad\u025b",
+        "hr": "Grenada",
+        "ks": "\u06af\u0631\u0646\u06cc\u0691\u0627",
+        "sv": "Grenada",
+        "pl": "Grenada",
+        "nb": "Grenada",
+        "sh": "Grenada",
+        "lu": "Ngelenade",
+        "nl": "Grenada",
+        "ky": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "bn": "\u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09be",
+        "sd": "\u06af\u0631\u064a\u0646\u068a\u0627",
+        "gd": "Grean\u00e0da",
+        "cs": "Grenada",
+        "tk": "Grenada",
+        "eo": "Grenado",
+        "mt": "Grenada",
+        "sr": "Grenada",
+        "wo": "Garanad",
+        "el": "\u0393\u03c1\u03b5\u03bd\u03ac\u03b4\u03b1",
+        "sn": "Grenada",
+        "pt": "Granada",
+        "yi": "\u05d2\u05e8\u05e2\u05e0\u05d0\u05b7\u05d3\u05d0\u05b7",
+        "is": "Grenada",
+        "ta": "\u0b95\u0bbf\u0bb0\u0ba9\u0bc6\u0b9f\u0bbe",
+        "br": "Grenada",
+        "hu": "Grenada",
+        "et": "Grenada",
+        "ku": "Grenada",
+        "sk": "Grenada",
+        "sw": "Grenada",
+        "te": "\u0c17\u0c4d\u0c30\u0c46\u0c28\u0c21\u0c3e",
+        "ro": "Grenada",
+        "ki": "Grenada",
+        "ak": "Grenada",
+        "tg": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "ml": "\u0d17\u0d4d\u0d30\u0d28\u0d47\u0d21",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Genada",
+        "de": "Grenada",
+        "as": "\u0997\u09cd\u09f0\u09c7\u09a8\u09be\u09a1\u09be",
+        "am": "\u130d\u122c\u1293\u12f3",
+        "se": "Grenada",
+        "ti": "\u130d\u122c\u1293\u12f3",
+        "ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "ga": "Grean\u00e1da",
+        "bg": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "my": "\u1002\u101b\u102e\u1014\u1031\u1012\u102b",
+        "fy": "Grenada",
+        "bm": "Granadi",
+        "gu": "\u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0abe",
+        "uz": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "cy": "Grenada",
+        "ug": "\u06af\u0649\u0631\u06d0\u0646\u0627\u062f\u0627",
+        "nn": "Grenada",
+        "uk": "\u0490\u0440\u0435\u043d\u0430\u0434\u0430",
+        "qu": "Granada",
+        "tl": "Grenada",
+        "ms": "Grenada",
+        "so": "Giriinaada",
+        "da": "Grenada",
+        "tt": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "af": "Grenada",
+        "ha": "Girnada",
+        "iw": "\u05d2\u05e8\u05e0\u05d3\u05d4",
+        "ee": "Grenada nutome",
+        "in": "Grenada",
+        "to": "Kelenat\u0101",
+        "sl": "Grenada",
+        "sg": "Gren\u00e2da",
+        "lb": "Grenada",
+        "fo": "Grenada",
+        "mn": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "id": "Grenada",
+        "pa": "\u0a17\u0a4d\u0a30\u0a47\u0a28\u0a3e\u0a21\u0a3e",
+        "ka": "\u10d2\u10e0\u10d4\u10dc\u10d0\u10d3\u10d0",
+        "nd": "Grenada"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Saint Andrew",
-            "code": "01",
-            "names": {
-                "geonames": "Saint Andrew",
-                "en": "Saint Andrew"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "GD-01",
+            "names": "Saint Andrew",
+            "type": "Parish"
         },
-        "02": {
-            "name": "Saint David",
-            "code": "02",
-            "names": {
-                "geonames": "Saint David",
-                "en": "Saint David"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.038513,
-            "lng": -61.66890799999999
+        {
+            "code": "GD-02",
+            "names": "Saint David",
+            "type": "Parish"
         },
-        "03": {
-            "name": "Saint George",
-            "code": "03",
-            "names": {
-                "geonames": "Saint George",
-                "en": "Saint George"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.053532,
-            "lng": -61.749684
+        {
+            "code": "GD-03",
+            "names": "Saint George",
+            "type": "Parish"
         },
-        "04": {
-            "name": "Saint John",
-            "code": "04",
-            "names": {
-                "geonames": "Saint John",
-                "en": "Saint John"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.1633252,
-            "lng": -61.72794520000002
+        {
+            "code": "GD-04",
+            "names": "Saint John",
+            "type": "Parish"
         },
-        "05": {
-            "name": "Saint Mark",
-            "code": "05",
-            "names": {
-                "geonames": "Saint Mark",
-                "en": "Saint Mark"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.1979128,
-            "lng": -61.705680099999995
+        {
+            "code": "GD-05",
+            "names": "Saint Mark",
+            "type": "Parish"
         },
-        "06": {
-            "name": "Saint Patrick",
-            "code": "06",
-            "names": {
-                "geonames": "Saint Patrick",
-                "en": "Saint Patrick"
-            },
-            "division": "parish",
-            "parent": "GD",
-            "lat": 12.2166667,
-            "lng": -61.633333300000004
+        {
+            "code": "GD-06",
+            "names": "Saint Patrick",
+            "type": "Parish"
         },
-        "10": {
-            "name": "Carriacou and Petite Martinique",
-            "code": "10",
-            "names": {
-                "geonames": "Carriacou and Petite Martinique",
-                "ru": "\u041a\u0430\u0440\u0438\u0430\u043a\u0443",
-                "en": "Carriacou and Petite Martinique",
-                "zh": "\u5361\u91cc\u4e9e\u5eab\u548c\u5c0f\u99ac\u63d0\u5c3c\u514b"
-            },
-            "division": "dependency",
-            "parent": "GD",
-            "lat": null,
-            "lng": null
+        {
+            "code": "GD-10",
+            "names": "Southern Grenadine Islands",
+            "type": "Dependency"
         }
-    }
+    ]
 }

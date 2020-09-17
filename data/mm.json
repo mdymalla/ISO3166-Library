@@ -1,294 +1,202 @@
 {
     "alpha-2": "MM",
     "alpha-3": "MMR",
-    "numeric": 104,
-    "capital": "Naypyidaw",
-    "currency": "MMK",
-    "languages": [
-        "my"
-    ],
-    "flag-icon": "\ud83c\uddf2\ud83c\uddf2",
+    "numeric": "104",
     "names": {
-        "geonames": "Myanmar",
-        "en": "Myanmar",
-        "ar": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631",
-        "de": "Myanmar",
-        "es": "Birmania",
-        "fr": "Birmanie",
-        "it": "Birmania",
-        "ru": "\u041c\u044c\u044f\u043d\u043c\u0430",
+        "en": "Myanmar (Burma)",
+        "fr": "Myanmar",
+        "ur": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631 (\u0628\u0631\u0645\u0627)",
+        "rn": "Birimaniya",
+        "lv": "Mjanma (Birma)",
+        "hy": "\u0544\u0575\u0561\u0576\u0574\u0561 (\u0532\u056b\u0580\u0574\u0561)",
+        "sq": "Mianmar (Burm\u00eb)",
+        "jv": "Myanmar (Burma)",
+        "or": "\u0b2e\u0b3f\u0b06\u0b01\u0b2e\u0b3e\u0b30",
+        "mg": "Myanmar",
+        "no": "Myanmar (Burma)",
         "zh": "\u7f05\u7538",
-        "he": "\u05de\u05d9\u05d0\u05e0\u05de\u05e8",
-        "hi": "\u092e\u094d\u092f\u093e\u0928\u094d\u092e\u093e\u0930",
-        "ja": "\u30df\u30e3\u30f3\u30de\u30fc",
-        "pt": "Myanmar"
+        "tr": "Myanmar (Burma)",
+        "bs": "Mjanmar",
+        "ja": "\u30df\u30e3\u30f3\u30de\u30fc (\u30d3\u30eb\u30de)",
+        "th": "\u0e40\u0e21\u0e35\u0e22\u0e19\u0e21\u0e32\u0e23\u0e4c (\u0e1e\u0e21\u0e48\u0e32)",
+        "he": "\u05de\u05d9\u05d0\u05e0\u05de\u05e8 (\u05d1\u05d5\u05e8\u05de\u05d4)",
+        "kk": "\u041c\u044c\u044f\u043d\u043c\u0430 (\u0411\u0438\u0440\u043c\u0430)",
+        "mo": "Myanmar (Birmania)",
+        "ff": "Miyamaar",
+        "ca": "Myanmar (Birm\u00e0nia)",
+        "ar": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631 (\u0628\u0648\u0631\u0645\u0627)",
+        "eu": "Myanmar (Birmania)",
+        "ps": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631 (\u0628\u0631\u0645\u0627)",
+        "kn": "\u0cae\u0caf\u0ca8\u0ccd\u0cae\u0cbe\u0cb0\u0ccd (\u0cac\u0cb0\u0ccd\u0cae\u0cbe)",
+        "si": "\u0db8\u0dd2\u0dba\u0db1\u0dca\u0db8\u0dcf\u0dbb\u0dba (\u0db6\u0dd4\u0dbb\u0dd4\u0db8\u0dba)",
+        "km": "\u1798\u17b8\u1799\u17c9\u17b6\u1793\u17cb\u1798\u17c9\u17b6 (\u1797\u17bc\u1798\u17b6)",
+        "ne": "\u092e\u094d\u092f\u093e\u0928\u094d\u092e\u093e\u0930 (\u092c\u0930\u094d\u092e\u093e)",
+        "fi": "Myanmar (Burma)",
+        "hi": "\u092e\u094d\u092f\u093e\u0902\u092e\u093e\u0930 (\u092c\u0930\u094d\u092e\u093e)",
+        "rm": "Myanmar",
+        "vi": "Myanmar (Mi\u1ebfn \u0110i\u1ec7n)",
+        "gl": "Myanmar (Birmania)",
+        "ig": "Myanmar (Burma)",
+        "mr": "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930 (\u092c\u0930\u094d\u092e\u093e)",
+        "es": "Myanmar (Birmania)",
+        "be": "\u041c\u2019\u044f\u043d\u043c\u0430 (\u0411\u0456\u0440\u043c\u0430)",
+        "lg": "Myanima",
+        "az": "\u041c\u0458\u0430\u043d\u043c\u0430",
+        "ce": "\u041c\u044c\u044f\u043d\u043c\u0430 (\u0411\u0438\u0440\u043c\u0430)",
+        "mk": "\u041c\u0458\u0430\u043d\u043c\u0430\u0440 (\u0411\u0443\u0440\u043c\u0430)",
+        "zu": "i-Myanmar (Burma)",
+        "it": "Myanmar (Birmania)",
+        "ko": "\ubbf8\uc580\ub9c8",
+        "lo": "\u0ea1\u0ebd\u0e99\u0ea1\u0eb2 (\u0ec0\u0e9a\u0eb5\u0ea1\u0eb2)",
+        "lt": "Mianmaras (Birma)",
+        "dz": "\u0f58\u0f72\u0f0b\u0f61\u0f71\u0f53\u0f0b\u0f58\u0f62\u0f0b (\u0f56\u0fb7\u0f62\u0f0b\u0f58)",
+        "ln": "Birmanie",
+        "hr": "Mjanmar (Burma)",
+        "sw": "Myama (Burma)",
+        "ks": "\u0645\u064e\u06cc\u064e\u0646\u0645\u0627 \u0628\u0654\u0631\u0645\u0627",
+        "sv": "Myanmar (Burma)",
+        "pl": "Mjanma (Birma)",
+        "nb": "Myanmar (Burma)",
+        "sh": "Mijanmar (Burma)",
+        "lu": "Myamare",
+        "nl": "Myanmar (Birma)",
+        "ky": "\u041c\u044c\u044f\u043d\u043c\u0430 (\u0411\u0438\u0440\u043c\u0430)",
+        "bn": "\u09ae\u09be\u09af\u09bc\u09be\u09a8\u09ae\u09be\u09b0 (\u09ac\u09be\u09b0\u09cd\u09ae\u09be)",
+        "sd": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631 (\u0628\u0631\u0645\u0627)",
+        "fa": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631 (\u0628\u0631\u0645\u0647)",
+        "gd": "Mi\u00e0nmar",
+        "cs": "Myanmar (Barma)",
+        "tk": "M\u00fdanma (Burma)",
+        "eo": "Mjanmao",
+        "mt": "il-Myanmar\/Burma",
+        "sr": "Mijanmar (Burma)",
+        "wo": "Miyanmaar",
+        "el": "\u039c\u03b9\u03b1\u03bd\u03bc\u03ac\u03c1 (\u0392\u03b9\u03c1\u03bc\u03b1\u03bd\u03af\u03b1)",
+        "sn": "Myanmar",
+        "pt": "Mianmar (Birm\u00e2nia)",
+        "yi": "\u05de\u05d9\u05d0\u05b7\u05e0\u05de\u05d0\u05b7\u05e8",
+        "is": "Mjanmar (B\u00farma)",
+        "ta": "\u0bae\u0bbf\u0baf\u0bbe\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd (\u0baa\u0bb0\u0bcd\u0bae\u0bbe)",
+        "br": "Myanmar (Birmania)",
+        "hu": "Mianmar",
+        "et": "Myanmar (Birma)",
+        "ku": "Myanmar (Birmanya)",
+        "sk": "Mjanmarsko",
+        "te": "\u0c2e\u0c2f\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c4d",
+        "ro": "Myanmar",
+        "ki": "Myama",
+        "ak": "Miyanma",
+        "tg": "\u041c\u044f\u043d\u043c\u0430",
+        "ml": "\u0d2e\u0d4d\u0d2f\u0d3e\u0d7b\u0d2e\u0d3e\u0d7c (\u0d2c\u0d7c\u0d2e\u0d4d\u0d2e)",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Manamari",
+        "de": "Myanmar",
+        "as": "\u09ae\u09cd\u09af\u09be\u09a8\u09ae\u09be\u09f0 (\u09ac\u09be\u09f0\u09cd\u09ae\u09be)",
+        "am": "\u121b\u12ed\u1293\u121b\u122d(\u1260\u122d\u121b)",
+        "se": "Burma",
+        "ti": "\u121b\u12eb\u1295\u121b\u122d",
+        "ru": "\u041c\u044c\u044f\u043d\u043c\u0430 (\u0411\u0438\u0440\u043c\u0430)",
+        "ga": "Maenmar (Burma)",
+        "bg": "\u041c\u0438\u0430\u043d\u043c\u0430\u0440 (\u0411\u0438\u0440\u043c\u0430)",
+        "my": "\u1019\u103c\u1014\u103a\u1019\u102c",
+        "fy": "Myanmar (Birma)",
+        "bm": "Myanimari",
+        "gu": "\u0aae\u0acd\u0aaf\u0abe\u0a82\u0aae\u0abe\u0ab0 (\u0aac\u0ab0\u0acd\u0aae\u0abe)",
+        "uz": "\u041c\u044c\u044f\u043d\u043c\u0430 (\u0411\u0438\u0440\u043c\u0430)",
+        "cy": "Myanmar (Burma)",
+        "ug": "\u0628\u0649\u0631\u0645\u0627",
+        "nn": "Myanmar (Burma)",
+        "uk": "\u041c\u02bc\u044f\u043d\u043c\u0430 (\u0411\u0456\u0440\u043c\u0430)",
+        "qu": "Myanmar",
+        "tl": "Myanmar (Burma)",
+        "ms": "Myanmar (Burma)",
+        "so": "Miyanmar",
+        "da": "Myanmar (Burma)",
+        "af": "Mianmar (Birma)",
+        "ha": "Burma, Miyamar",
+        "iw": "\u05de\u05d9\u05d0\u05e0\u05de\u05e8 (\u05d1\u05d5\u05e8\u05de\u05d4)",
+        "ee": "Myanmar (Burma) nutome",
+        "in": "Myanmar (Burma)",
+        "to": "Mianim\u0101 (Pema)",
+        "sl": "Mjanmar (Burma)",
+        "sg": "My\u00e4m\u00e2ra",
+        "lb": "Myanmar",
+        "fo": "Myanmar (Burma)",
+        "mn": "\u041c\u044c\u044f\u043d\u043c\u0430\u0440",
+        "id": "Myanmar (Burma)",
+        "pa": "\u0a2e\u0a3f\u0a06\u0a02\u0a2e\u0a3e\u0a30 (\u0a2c\u0a30\u0a2e\u0a3e)",
+        "ka": "\u10db\u10d8\u10d0\u10dc\u10db\u10d0\u10e0\u10d8 (\u10d1\u10d8\u10e0\u10db\u10d0)",
+        "nd": "Myanmar"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Sagaing Region",
-            "code": "01",
-            "names": {
-                "geonames": "Sagain",
-                "ru": "\u0421\u0438\u043a\u0430\u0439\u043d",
-                "en": "Sagaing Region",
-                "de": "Sagaing-Division",
-                "es": "Divisi\u00f3n de Sagaing",
-                "fr": "R\u00e9gion de Sagaing",
-                "it": "Regione di Sagaing",
-                "zh": "\u5be6\u7686\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 21.880079,
-            "lng": 95.962311
+    "3166-2": [
+        {
+            "code": "MM-01",
+            "names": "Sagaing",
+            "type": "Division"
         },
-        "02": {
-            "name": "Bago Region",
-            "code": "02",
-            "names": {
-                "geonames": "Bago",
-                "ru": "\u041f\u0435\u0433\u0443",
-                "en": "Bago Region",
-                "de": "Bago-Division",
-                "es": "Bago",
-                "fr": "R\u00e9gion de Bago",
-                "it": "Regione di Bago",
-                "zh": "\u52c3\u56fa\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 17.32774,
-            "lng": 96.49845099999993
+        {
+            "code": "MM-02",
+            "names": "Bago",
+            "type": "Division"
         },
-        "03": {
-            "name": "Magway Region",
-            "code": "03",
-            "names": {
-                "geonames": "Magway",
-                "ru": "\u041c\u0430\u0433\u0443\u044d",
-                "en": "Magway Region",
-                "de": "Magwe-Division",
-                "es": "Magway",
-                "fr": "R\u00e9gion de Magway",
-                "it": "Regione di Magway",
-                "zh": "\u99ac\u572d\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 20.14027,
-            "lng": 94.92695900000001
+        {
+            "code": "MM-03",
+            "names": "Magway",
+            "type": "Division"
         },
-        "04": {
-            "name": "Mandalay Region",
-            "code": "04",
-            "names": {
-                "geonames": "Mandalay",
-                "ru": "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439",
-                "en": "Mandalay Region",
-                "de": "Mandalay-Division",
-                "fr": "R\u00e9gion de Mandalay",
-                "it": "Regione di Mandalay",
-                "zh": "\u66fc\u5fb7\u52d2\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 21.975941,
-            "lng": 96.08415200000002
+        {
+            "code": "MM-04",
+            "names": "Mandalay",
+            "type": "Division"
         },
-        "05": {
-            "name": "Tanintharyi Region",
-            "code": "05",
-            "names": {
-                "geonames": "Tanintharyi",
-                "ru": "\u0422\u0430\u043d\u0438\u043d\u0442\u0430\u0439\u0438",
-                "en": "Tanintharyi Region",
-                "de": "Tanintharyi-Division",
-                "es": "Tanintharyi",
-                "fr": "R\u00e9gion de Tanintharyi",
-                "it": "Regione di Tanintharyi",
-                "zh": "\u5fb7\u6797\u8fbe\u4f9d"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 12.0822476,
-            "lng": 99.02118129999997
+        {
+            "code": "MM-05",
+            "names": "Tanintharyi",
+            "type": "Division"
         },
-        "06": {
-            "name": "Yangon Region",
-            "code": "06",
-            "names": {
-                "geonames": "Yangon",
-                "ru": "\u042f\u043d\u0433\u043e\u043d",
-                "en": "Yangon Region",
-                "de": "Yangon-Division",
-                "fr": "R\u00e9gion de Yangon",
-                "it": "Regione di Yangon",
-                "zh": "\u4ef0\u5149\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": 16.783656,
-            "lng": 96.15683100000001
+        {
+            "code": "MM-06",
+            "names": "Yangon",
+            "type": "Division"
         },
-        "07": {
-            "name": "Ayeyarwady Region",
-            "code": "07",
-            "names": {
-                "geonames": "Ayeyarwady",
-                "ru": "\u0418\u0440\u0430\u0432\u0430\u0434\u0438",
-                "en": "Ayeyarwady Region",
-                "de": "Irawadi-Division",
-                "es": "Ayeyarwady",
-                "fr": "R\u00e9gion d'Ayeyarwady",
-                "it": "Regione di Ayeyarwady",
-                "zh": "\u4f0a\u6d1b\u74e6\u5e95\u7701"
-            },
-            "division": "division",
-            "parent": "MM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MM-07",
+            "names": "Ayeyarwady",
+            "type": "Division"
         },
-        "11": {
-            "name": "Kachin State",
-            "code": "11",
-            "names": {
-                "geonames": "Kachin",
-                "ru": "\u041a\u0430\u0447\u0438\u043d",
-                "en": "Kachin State",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u0634\u064a\u0646",
-                "de": "Kachin-Staat",
-                "es": "Estado Kachin",
-                "fr": "\u00c9tat Kachin",
-                "it": "Stato Kachin",
-                "zh": "\u514b\u94a6\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 44.6807294,
-            "lng": -93.28115780000002
+        {
+            "code": "MM-11",
+            "names": "Kachin",
+            "type": "State"
         },
-        "12": {
-            "name": "Kayah State",
-            "code": "12",
-            "names": {
-                "geonames": "Kayah",
-                "ru": "\u041a\u0430\u044f",
-                "en": "Kayah State",
-                "de": "Kayah-Staat",
-                "es": "Kayah",
-                "fr": "\u00c9tat de Kayah",
-                "it": "Stato Kayah",
-                "zh": "\u514b\u8036\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 41.4456023,
-            "lng": 31.802268599999934
+        {
+            "code": "MM-12",
+            "names": "Kayah",
+            "type": "State"
         },
-        "13": {
-            "name": "Kayin State",
-            "code": "13",
-            "names": {
-                "geonames": "Kayin",
-                "ru": "\u041a\u0430\u0440\u0435\u043d",
-                "en": "Kayin State",
-                "de": "Kayin-Staat",
-                "es": "Kayin",
-                "fr": "\u00c9tat Karen",
-                "it": "Stato Karen",
-                "zh": "\u514b\u502b\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.8820408,
-            "lng": 96.11196300000006
+        {
+            "code": "MM-13",
+            "names": "Kayin",
+            "type": "State"
         },
-        "14": {
-            "name": "Chin State",
-            "code": "14",
-            "names": {
-                "geonames": "Chin",
-                "ru": "\u0427\u0438\u043d",
-                "en": "Chin State",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0634\u064a\u0646",
-                "de": "Chin-Staat",
-                "es": "Chin",
-                "fr": "\u00c9tat Chin",
-                "it": "Stato Chin",
-                "zh": "\u6b3d\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.8089755,
-            "lng": 96.14157069999999
+        {
+            "code": "MM-14",
+            "names": "Chin",
+            "type": "State"
         },
-        "15": {
-            "name": "Mon State",
-            "code": "15",
-            "names": {
-                "geonames": "Mon",
-                "ru": "\u041c\u043e\u043d",
-                "en": "Mon State",
-                "de": "Mon-Staat",
-                "es": "Estado Mon",
-                "fr": "\u00c9tat M\u00f4n",
-                "it": "Stato Mon",
-                "zh": "\u5b5f\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.853795,
-            "lng": 96.12605200000007
+        {
+            "code": "MM-15",
+            "names": "Mon",
+            "type": "State"
         },
-        "16": {
-            "name": "Rakhine State",
-            "code": "16",
-            "names": {
-                "geonames": "Rakhine",
-                "ru": "\u0420\u0430\u043a\u0445\u0430\u0439\u043d",
-                "en": "Rakhine State",
-                "ar": "\u0631\u0627\u062e\u064a\u0646",
-                "de": "Rakhaing-Staat",
-                "es": "Rakhine",
-                "fr": "\u00c9tat d'Arakan",
-                "it": "Stato Rakhine",
-                "zh": "\u82e5\u958b\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.7876964,
-            "lng": 96.16896810000003
+        {
+            "code": "MM-16",
+            "names": "Rakhine",
+            "type": "State"
         },
-        "17": {
-            "name": "Shan State",
-            "code": "17",
-            "names": {
-                "geonames": "Shan",
-                "ru": "\u0428\u0430\u043d",
-                "en": "Shan State",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0634\u0627\u0646",
-                "de": "Shan-Staat",
-                "es": "Shan",
-                "fr": "\u00c9tat Shan",
-                "it": "Stato Shan",
-                "zh": "\u63b8\u90a6"
-            },
-            "division": "state",
-            "parent": "MM",
-            "lat": 16.8060208,
-            "lng": 96.13796669999999
-        },
-        "18": {
-            "name": "Nay Pyi Taw",
-            "code": "18",
-            "names": {
-                "geonames": "Nay Pyi Taw",
-                "en": "Nay Pyi Taw"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "MM-17",
+            "names": "Shan",
+            "type": "State"
         }
-    }
+    ]
 }

@@ -1,220 +1,178 @@
 {
     "alpha-2": "OM",
     "alpha-3": "OMN",
-    "numeric": 512,
-    "capital": "Muscat",
-    "currency": "OMR",
-    "languages": [
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddf4\ud83c\uddf2",
+    "numeric": "512",
     "names": {
-        "geonames": "Oman",
         "en": "Oman",
-        "ar": "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646",
-        "de": "Oman",
-        "es": "Om\u00e1n",
         "fr": "Oman",
-        "it": "Oman",
-        "ru": "\u041e\u043c\u0430\u043d",
+        "ur": "\u0639\u0645\u0627\u0646",
+        "rn": "Omani",
+        "lv": "Om\u0101na",
+        "hy": "\u0555\u0574\u0561\u0576",
+        "sq": "Oman",
+        "jv": "Oman",
+        "or": "\u0b13\u0b2e\u0b3e\u0b28\u0b4d",
+        "mg": "Oman",
+        "no": "Oman",
         "zh": "\u963f\u66fc",
-        "he": "\u05e2\u05d5\u05de\u05d0\u05df",
-        "hi": "\u0913\u092e\u093e\u0928",
+        "tr": "Umman",
+        "bs": "Oman",
         "ja": "\u30aa\u30de\u30fc\u30f3",
-        "pt": "Om\u00e3"
+        "th": "\u0e42\u0e2d\u0e21\u0e32\u0e19",
+        "he": "\u05e2\u05d5\u05de\u05d0\u05df",
+        "kk": "\u041e\u043c\u0430\u043d",
+        "mo": "Oman",
+        "ff": "Omaan",
+        "ca": "Oman",
+        "ar": "\u0639\u064f\u0645\u0627\u0646",
+        "eu": "Oman",
+        "ps": "\u0639\u0645\u0627\u0646",
+        "kn": "\u0c93\u0cae\u0ca8\u0ccd",
+        "si": "\u0d95\u0db8\u0dcf\u0db1\u0dba",
+        "km": "\u17a2\u17bc\u1798\u17c9\u1784\u17cb",
+        "ne": "\u0913\u092e\u0928",
+        "fi": "Oman",
+        "hi": "\u0913\u092e\u093e\u0928",
+        "rm": "Oman",
+        "vi": "Oman",
+        "gl": "Om\u00e1n",
+        "ig": "Obodo Oman",
+        "mr": "\u0913\u092e\u093e\u0928",
+        "es": "Om\u00e1n",
+        "be": "\u0410\u043c\u0430\u043d",
+        "lg": "Omaani",
+        "az": "\u041e\u043c\u0430\u043d",
+        "ce": "\u04c0\u043e\u043c\u0430\u043d",
+        "mk": "\u041e\u043c\u0430\u043d",
+        "zu": "i-Oman",
+        "it": "Oman",
+        "ko": "\uc624\ub9cc",
+        "lo": "\u0ec2\u0ead\u0ea1\u0eb2\u0e99",
+        "lt": "Omanas",
+        "dz": "\u0f68\u0f7c\u0f0b\u0f58\u0f71\u0f53",
+        "ln": "Om\u00e1n\u025b",
+        "hr": "Oman",
+        "sw": "Omani",
+        "ks": "\u0627\u0648\u0645\u0627\u0646",
+        "sv": "Oman",
+        "pl": "Oman",
+        "nb": "Oman",
+        "sh": "Oman",
+        "lu": "Omane",
+        "nl": "Oman",
+        "ky": "\u041e\u043c\u0430\u043d",
+        "bn": "\u0993\u09ae\u09be\u09a8",
+        "sd": "\u0639\u0645\u0627\u0646",
+        "fa": "\u0639\u0645\u0627\u0646",
+        "gd": "Om\u00e0n",
+        "cs": "Om\u00e1n",
+        "tk": "Oman",
+        "eo": "Omano",
+        "mt": "l-Oman",
+        "sr": "Oman",
+        "wo": "Omaan",
+        "el": "\u039f\u03bc\u03ac\u03bd",
+        "sn": "Oman",
+        "pt": "Om\u00e3",
+        "is": "\u00d3man",
+        "ta": "\u0b93\u0bae\u0ba9\u0bcd",
+        "br": "Oman",
+        "hu": "Om\u00e1n",
+        "et": "Omaan",
+        "ku": "Oman",
+        "sk": "Om\u00e1n",
+        "te": "\u0c13\u0c2e\u0c28\u0c4d",
+        "ro": "Oman",
+        "ki": "Omani",
+        "ak": "Oman",
+        "tg": "\u0423\u043c\u043e\u043d",
+        "ml": "\u0d12\u0d2e\u0d3e\u0d7b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de \u0186\u0254ma",
+        "de": "Oman",
+        "as": "\u0993\u09ae\u09be\u09a8",
+        "am": "\u12a6\u121b\u1295",
+        "se": "Oman",
+        "ia": "Oman",
+        "ti": "\u12a6\u121b\u1295",
+        "ru": "\u041e\u043c\u0430\u043d",
+        "ga": "\u00d3man",
+        "bg": "\u041e\u043c\u0430\u043d",
+        "my": "\u1021\u102d\u102f\u1019\u1014\u103a",
+        "fy": "Oman",
+        "bm": "Oma\u014b",
+        "gu": "\u0a93\u0aae\u0abe\u0aa8",
+        "uz": "\u0423\u043c\u043c\u043e\u043d",
+        "cy": "Oman",
+        "ug": "\u0626\u0648\u0645\u0627\u0646",
+        "nn": "Oman",
+        "uk": "\u041e\u043c\u0430\u043d",
+        "qu": "Om\u00e1n",
+        "tl": "Oman",
+        "ms": "Oman",
+        "so": "Cumaan",
+        "da": "Oman",
+        "tt": "\u041e\u043c\u0430\u043d",
+        "af": "Oman",
+        "ha": "Oman",
+        "iw": "\u05e2\u05d5\u05de\u05d0\u05df",
+        "ee": "Oman nutome",
+        "in": "Oman",
+        "to": "\u02bbOmani",
+        "sl": "Oman",
+        "sg": "Om\u00e2ni",
+        "lb": "Oman",
+        "fo": "Oman",
+        "mn": "\u041e\u043c\u0430\u043d",
+        "id": "Oman",
+        "pa": "\u0a13\u0a2e\u0a3e\u0a28",
+        "ka": "\u10dd\u10db\u10d0\u10dc\u10d8",
+        "nd": "Omani"
     },
-    "ISO3166-2": {
-        "BA": {
-            "name": "Al B\u0101\u0163inah",
-            "code": "BA",
-            "division": "region",
-            "parent": "OM",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+    "3166-2": [
+        {
+            "code": "OM-BA",
+            "names": "Al B\u0101\u0163inah",
+            "type": "Region"
         },
-        "BJ": {
-            "name": "Jan\u016bb al B\u0101\u0163inah",
-            "code": "BJ",
-            "names": {
-                "geonames": "Al Batinah South",
-                "en": "Jan\u016bb al B\u0101\u0163inah"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "OM-BU",
+            "names": "Al Buraym\u012b",
+            "type": "Governorate"
         },
-        "BS": {
-            "name": "Sham\u0101l al B\u0101\u0163inah",
-            "code": "BS",
-            "names": {
-                "geonames": "Al Batinah North",
-                "en": "Sham\u0101l al B\u0101\u0163inah"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "OM-DA",
+            "names": "Ad D\u0101khil\u012bya",
+            "type": "Region"
         },
-        "BU": {
-            "name": "Al Buraimi Governorate",
-            "code": "BU",
-            "names": {
-                "geonames": "Al Buraimi",
-                "ru": "\u042d\u043b\u044c-\u0411\u0443\u0440\u0430\u0439\u043c\u0438",
-                "en": "Al Buraimi Governorate",
-                "ar": "\u0627\u0644\u0628\u0631\u064a\u0645\u064a",
-                "de": "Buraimi",
-                "es": "Buraimi",
-                "fr": "Gouvernorat d'Al Buraymi",
-                "it": "Governatorato di al-Buraymi",
-                "zh": "\u5e03\u8cf4\u7c73\u7701"
-            },
-            "division": "governorate",
-            "parent": "OM",
-            "lat": 24.0872222,
-            "lng": 55.72249999999997
+        {
+            "code": "OM-MA",
+            "names": "Masqa\u0163",
+            "type": "Governorate"
         },
-        "DA": {
-            "name": "Ad Dakhiliyah Governorate",
-            "code": "DA",
-            "names": {
-                "geonames": "Ad Dakhiliyah",
-                "ru": "\u042d\u0434-\u0414\u0430\u0445\u0438\u043b\u0438\u044f",
-                "en": "Ad Dakhiliyah Governorate",
-                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
-                "de": "Ad-Dachiliyya",
-                "es": "Interior",
-                "fr": "Ad-D\u0101khil\u012byah",
-                "it": "Governatorato di al-Dakhiliyya",
-                "zh": "\u5167\u5730\u7701"
-            },
-            "division": "region",
-            "parent": "OM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "OM-MU",
+            "names": "Musandam",
+            "type": "Governorate"
         },
-        "MA": {
-            "name": "Muscat Governorate",
-            "code": "MA",
-            "names": {
-                "geonames": "Muscat",
-                "ru": "\u041c\u0430\u0441\u043a\u0430\u0442",
-                "en": "Muscat Governorate",
-                "de": "Maskat",
-                "fr": "Gouvernorat de Mascate",
-                "it": "Governatorato di Mascate"
-            },
-            "division": "governorate",
-            "parent": "OM",
-            "lat": 23.6138199,
-            "lng": 58.59224130000007
+        {
+            "code": "OM-SH",
+            "names": "Ash Sharq\u012byah",
+            "type": "Region"
         },
-        "MU": {
-            "name": "Musandam Governorate",
-            "code": "MU",
-            "names": {
-                "geonames": "Musandam",
-                "ru": "\u041c\u0443\u0441\u0430\u043d\u0434\u0430\u043c",
-                "en": "Musandam Governorate",
-                "ar": "\u0645\u0633\u0646\u062f\u0645",
-                "de": "Musandam",
-                "es": "Musandam",
-                "fr": "Gouvernorat de Musandam",
-                "it": "Penisola del Musandam",
-                "zh": "\u7a46\u6851\u4ee3\u59c6\u7701"
-            },
-            "division": "governorate",
-            "parent": "OM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "OM-WU",
+            "names": "Al Wus\u0163\u00e1",
+            "type": "Region"
         },
-        "SH": {
-            "name": "Ash Sharq\u012byah",
-            "code": "SH",
-            "division": "region",
-            "parent": "OM",
-            "lat": 23.6200618,
-            "lng": 58.49762369999996
+        {
+            "code": "OM-ZA",
+            "names": "Az\u0327 Z\u0327\u0101hirah",
+            "type": "Region"
         },
-        "SJ": {
-            "name": "Jan\u016bb ash Sharq\u012byah",
-            "code": "SJ",
-            "names": {
-                "geonames": "Southeastern Governorate",
-                "en": "Jan\u016bb ash Sharq\u012byah"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "SS": {
-            "name": "Sham\u0101l ash Sharq\u012byah",
-            "code": "SS",
-            "names": {
-                "geonames": "Northeastern Governorate",
-                "en": "Sham\u0101l ash Sharq\u012byah"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "WU": {
-            "name": "Al Wusta Governorate",
-            "code": "WU",
-            "names": {
-                "geonames": "Al Wusta",
-                "ru": "\u042d\u043b\u044c-\u0412\u0443\u0441\u0442\u0430",
-                "en": "Al Wusta Governorate",
-                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
-                "es": "Central",
-                "fr": "Al-Wusta",
-                "it": "Governatorato di al-Wusta",
-                "zh": "\u4e2d\u90e8\u7701"
-            },
-            "division": "region",
-            "parent": "OM",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
-        },
-        "ZA": {
-            "name": "Ad Dhahirah Governorate",
-            "code": "ZA",
-            "names": {
-                "geonames": "Az Zahirah",
-                "ru": "\u042d\u0437-\u0417\u0430\u0445\u0438\u0440\u0430",
-                "en": "Ad Dhahirah Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629",
-                "es": "Ad Dhahirah",
-                "fr": "Adh-Dhahira",
-                "it": "Governatorato di al-Zahira",
-                "zh": "\u624e\u5e0c\u62c9\u7701"
-            },
-            "division": "region",
-            "parent": "OM",
-            "lat": null,
-            "lng": null
-        },
-        "ZU": {
-            "name": "Dhofar Governorate",
-            "code": "ZU",
-            "names": {
-                "geonames": "Dhofar",
-                "ru": "\u0414\u043e\u0444\u0430\u0440",
-                "en": "Dhofar Governorate",
-                "ar": "\u0638\u0641\u0627\u0631",
-                "de": "Dhofar",
-                "es": "Dhofar",
-                "fr": "Dhofar",
-                "it": "Dhofar",
-                "zh": "\u4f50\u6cd5\u723e\u7701"
-            },
-            "division": "governorate",
-            "parent": "OM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "OM-ZU",
+            "names": "Z\u0327uf\u0101r",
+            "type": "Governorate"
         }
-    }
+    ]
 }

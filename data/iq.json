@@ -1,385 +1,223 @@
 {
     "alpha-2": "IQ",
     "alpha-3": "IRQ",
-    "numeric": 368,
-    "capital": "Baghdad",
-    "currency": "IQD",
-    "languages": [
-        "ar",
-        "ku"
-    ],
-    "flag-icon": "\ud83c\uddee\ud83c\uddf6",
+    "numeric": "368",
     "names": {
-        "geonames": "Iraq",
-        "ar": "\u0627\u0644\u0639\u0631\u0627\u0642",
-        "de": "Irak",
         "en": "Iraq",
-        "es": "Irak",
         "fr": "Irak",
-        "it": "Iraq",
-        "ru": "\u0418\u0440\u0430\u043a",
+        "ur": "\u0639\u0631\u0627\u0642",
+        "rn": "Iraki",
+        "lv": "Ir\u0101ka",
+        "hy": "\u053b\u0580\u0561\u0584",
+        "sq": "Irak",
+        "jv": "Irak",
+        "or": "\u0b07\u0b30\u0b3e\u0b15\u0b4d",
+        "mg": "Irak",
+        "no": "Irak",
         "zh": "\u4f0a\u62c9\u514b",
-        "he": "\u05e2\u05d9\u05e8\u05d0\u05e7",
-        "hi": "\u0907\u0930\u093e\u0915\u093c",
+        "tr": "Irak",
+        "bs": "Irak",
         "ja": "\u30a4\u30e9\u30af",
-        "pt": "Iraque"
+        "th": "\u0e2d\u0e34\u0e23\u0e31\u0e01",
+        "he": "\u05e2\u05d9\u05e8\u05d0\u05e7",
+        "kk": "\u0418\u0440\u0430\u043a",
+        "mo": "Irak",
+        "ff": "Iraak",
+        "ca": "Iraq",
+        "ar": "\u0627\u0644\u0639\u0631\u0627\u0642",
+        "eu": "Irak",
+        "ps": "\u0639\u0631\u0627\u0642",
+        "kn": "\u0c87\u0cb0\u0cbe\u0c95\u0ccd",
+        "si": "\u0d89\u0dbb\u0dcf\u0d9a\u0dba",
+        "km": "\u17a2\u17ca\u17b8\u179a\u17c9\u17b6\u1780\u17cb",
+        "ne": "\u0907\u0930\u093e\u0915",
+        "fi": "Irak",
+        "hi": "\u0907\u0930\u093e\u0915",
+        "rm": "Irac",
+        "vi": "Iraq",
+        "gl": "Iraq",
+        "ig": "Obodo Iraq",
+        "mr": "\u0907\u0930\u093e\u0915",
+        "es": "Irak",
+        "be": "\u0406\u0440\u0430\u043a",
+        "lg": "Yiraaka",
+        "az": "\u0418\u0440\u0430\u0433",
+        "ce": "\u04c0\u0438\u0440\u0430\u043a\u044a",
+        "mk": "\u0418\u0440\u0430\u043a",
+        "zu": "i-Iraq",
+        "it": "Iraq",
+        "ko": "\uc774\ub77c\ud06c",
+        "lo": "\u0ead\u0eb5\u0ea3\u0eb1\u0e81",
+        "lt": "Irakas",
+        "dz": "\u0f68\u0f72\u0f0b\u0f62\u0f71\u0f40",
+        "ln": "Iraki",
+        "hr": "Irak",
+        "ks": "\u0627\u06cc\u0656\u0631\u0627\u0642",
+        "sv": "Irak",
+        "pl": "Irak",
+        "nb": "Irak",
+        "sh": "Irak",
+        "lu": "Iraki",
+        "nl": "Irak",
+        "ky": "\u0418\u0440\u0430\u043a",
+        "bn": "\u0987\u09b0\u09be\u0995",
+        "sd": "\u0639\u0631\u0627\u0642",
+        "fa": "\u0639\u0631\u0627\u0642",
+        "gd": "Ior\u00e0c",
+        "cs": "Ir\u00e1k",
+        "tk": "Yrak",
+        "eo": "Irako",
+        "mt": "l-Iraq",
+        "sr": "Irak",
+        "wo": "Irag",
+        "el": "\u0399\u03c1\u03ac\u03ba",
+        "sn": "Iraq",
+        "pt": "Iraque",
+        "is": "\u00cdrak",
+        "ta": "\u0b88\u0bb0\u0bbe\u0b95\u0bcd",
+        "br": "Iraq",
+        "hu": "Irak",
+        "et": "Iraak",
+        "ku": "Iraq",
+        "sk": "Irak",
+        "sw": "Iraki",
+        "te": "\u0c07\u0c30\u0c3e\u0c15\u0c4d",
+        "ro": "Irak",
+        "ki": "Iraki",
+        "ak": "Irak",
+        "tg": "\u0418\u0440\u043e\u049b",
+        "ml": "\u0d07\u0d31\u0d3e\u0d16\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Iraki",
+        "de": "Irak",
+        "as": "\u0987\u09f0\u09be\u0995",
+        "am": "\u12a2\u122b\u1245",
+        "se": "Irak",
+        "ia": "Irak",
+        "ti": "\u12a2\u122b\u1245",
+        "ru": "\u0418\u0440\u0430\u043a",
+        "ga": "an Iar\u00e1ic",
+        "bg": "\u0418\u0440\u0430\u043a",
+        "my": "\u1021\u102e\u101b\u1010\u103a",
+        "fy": "Irak",
+        "bm": "Iraki",
+        "gu": "\u0a87\u0ab0\u0abe\u0a95",
+        "uz": "\u0418\u0440\u043e\u049b",
+        "cy": "Irac",
+        "ug": "\u0626\u0649\u0631\u0627\u0642",
+        "nn": "Irak",
+        "uk": "\u0406\u0440\u0430\u043a",
+        "qu": "Irak",
+        "tl": "Iraq",
+        "ms": "Iraq",
+        "so": "Ciraaq",
+        "da": "Irak",
+        "tt": "\u0413\u044b\u0439\u0440\u0430\u043a",
+        "af": "Irak",
+        "ha": "Ira\u0199i",
+        "iw": "\u05e2\u05d9\u05e8\u05d0\u05e7",
+        "ee": "iraqduk\u0254",
+        "in": "Irak",
+        "to": "\u02bbIlaaki",
+        "sl": "Irak",
+        "sg": "Ir\u00e2ki",
+        "lb": "Irak",
+        "fo": "Irak",
+        "mn": "\u0418\u0440\u0430\u043a",
+        "id": "Irak",
+        "pa": "\u0a07\u0a30\u0a3e\u0a15",
+        "ka": "\u10d4\u10e0\u10d0\u10e7\u10d8",
+        "nd": "Iraki"
     },
-    "ISO3166-2": {
-        "AN": {
-            "name": "Al Anbar Governorate",
-            "code": "AN",
-            "names": {
-                "geonames": "Anbar",
-                "ru": "\u0410\u043d\u0431\u0430\u0440",
-                "en": "Al Anbar Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0631",
-                "de": "Al-Anbar",
-                "es": "Gobernaci\u00f3n de Ambar",
-                "fr": "Al-Anbar",
-                "it": "Governatorato di al-Anbar",
-                "zh": "\u5b89\u5df4\u5c14\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 34.4408333,
-            "lng": 41.9447222
+    "3166-2": [
+        {
+            "code": "IQ-AN",
+            "names": "Al Anbar",
+            "type": "Governorate"
         },
-        "AR": {
-            "name": "Arbil Province",
-            "code": "AR",
-            "names": {
-                "geonames": "Arbil",
-                "ru": "\u042d\u0440\u0431\u0438\u043b\u044c",
-                "en": "Arbil Province",
-                "ar": "\u0623\u0631\u0628\u064a\u0644",
-                "de": "Arbil",
-                "es": "Gobernaci\u00f3n de Erbil",
-                "fr": "Arbil",
-                "it": "Governatorato di Erbil",
-                "zh": "\u57c3\u723e\u6bd4\u52d2\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 36.0469444,
-            "lng": 43.84027779999997
+        {
+            "code": "IQ-AR",
+            "names": "Arbil",
+            "type": "Governorate"
         },
-        "BA": {
-            "name": "Basra Governorate",
-            "code": "BA",
-            "names": {
-                "geonames": "Basra",
-                "ru": "\u0411\u0430\u0441\u0440\u0430",
-                "en": "Basra Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0635\u0631\u0629",
-                "de": "Basra",
-                "es": "Gobernaci\u00f3n de Basora",
-                "fr": "Al-Basra",
-                "it": "Governatorato di Bassora",
-                "zh": "\u5df4\u58eb\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 30.5,
-            "lng": 47.81666670000004
+        {
+            "code": "IQ-BA",
+            "names": "Al Basrah",
+            "type": "Governorate"
         },
-        "BB": {
-            "name": "Babil Governorate",
-            "code": "BB",
-            "names": {
-                "geonames": "Babil",
-                "ru": "\u0411\u0430\u0431\u0438\u043b\u044c",
-                "en": "Babil Governorate",
-                "ar": "\u0628\u0627\u0628\u0644",
-                "de": "Babil",
-                "es": "Gobernaci\u00f3n de Babilonia",
-                "fr": "Babil",
-                "it": "Governatorato di Babil",
-                "zh": "\u5df4\u6bd4\u502b\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-BB",
+            "names": "Babil",
+            "type": "Governorate"
         },
-        "BG": {
-            "name": "Baghdad Governorate",
-            "code": "BG",
-            "names": {
-                "geonames": "Baghdad",
-                "ru": "\u0411\u0430\u0433\u0434\u0430\u0434",
-                "en": "Baghdad Governorate",
-                "ar": "\u0628\u063a\u062f\u0627\u062f",
-                "de": "Bagdad",
-                "es": "Gobernaci\u00f3n de Bagdad",
-                "fr": "Bagdad",
-                "it": "Governatorato di Baghdad",
-                "zh": "\u5df4\u683c\u9054\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 33.3157,
-            "lng": 44.3922
+        {
+            "code": "IQ-BG",
+            "names": "Baghdad",
+            "type": "Governorate"
         },
-        "DA": {
-            "name": "Dohuk Governorate",
-            "code": "DA",
-            "names": {
-                "geonames": "Dahuk",
-                "ru": "\u0414\u0430\u0445\u0443\u043a",
-                "en": "Dohuk Governorate",
-                "ar": "\u062f\u0647\u0648\u0643",
-                "de": "Dahuk",
-                "es": "Duhok",
-                "fr": "Dahuk",
-                "it": "Governatorato di Dahuk",
-                "zh": "\u675c\u80e1\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-DA",
+            "names": "Dahuk",
+            "type": "Governorate"
         },
-        "DI": {
-            "name": "Diyala Governorate",
-            "code": "DI",
-            "names": {
-                "geonames": "Diyala",
-                "ru": "\u0414\u0438\u044f\u043b\u0430",
-                "en": "Diyala Governorate",
-                "ar": "\u062f\u064a\u0627\u0644\u0649",
-                "de": "Diyala",
-                "es": "Gobernaci\u00f3n de Diala",
-                "fr": "Diyala",
-                "it": "Governatorato di Diyala",
-                "zh": "\u8fea\u4e9e\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-DI",
+            "names": "Diyala",
+            "type": "Governorate"
         },
-        "DQ": {
-            "name": "Dhi Qar Governorate",
-            "code": "DQ",
-            "names": {
-                "geonames": "Dhi Qar",
-                "ru": "\u0414\u0438-\u041a\u0430\u0440",
-                "en": "Dhi Qar Governorate",
-                "ar": "\u0630\u064a \u0642\u0627\u0631",
-                "de": "Dhi Qar",
-                "es": "Gobernaci\u00f3n de Di Car",
-                "fr": "Dhi Qar",
-                "it": "Governatorato di Dhi Qar",
-                "zh": "\u6fdf\u52a0\u723e\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-DQ",
+            "names": "Dhi Qar",
+            "type": "Governorate"
         },
-        "KA": {
-            "name": "Karbala Governorate",
-            "code": "KA",
-            "names": {
-                "geonames": "Muhafazat Karbala'",
-                "ru": "\u041a\u0435\u0440\u0431\u0435\u043b\u0430",
-                "en": "Karbala Governorate",
-                "ar": "\u0643\u0631\u0628\u0644\u0627\u0621",
-                "de": "Karbala",
-                "es": "Gobernaci\u00f3n de Kerbala",
-                "fr": "Karbala",
-                "it": "Governatorato di Karbala",
-                "zh": "\u5361\u723e\u5df4\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 32.6143,
-            "lng": 44.024830000000065
+        {
+            "code": "IQ-KA",
+            "names": "Karbala'",
+            "type": "Governorate"
         },
-        "KI": {
-            "name": "Kirkuk Governorate",
-            "code": "KI",
-            "names": {
-                "geonames": "Kirkuk",
-                "ru": "\u041a\u0438\u0440\u043a\u0443\u043a",
-                "en": "Kirkuk Governorate",
-                "ar": "\u0643\u0631\u0643\u0648\u0643",
-                "de": "Kirkuk",
-                "es": "Gobernaci\u00f3n de Kirkuk",
-                "fr": "Kirkuk",
-                "it": "Governatorato di Kirkuk",
-                "zh": "\u57fa\u723e\u5eab\u514b\u7701"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-MA",
+            "names": "Maysan",
+            "type": "Governorate"
         },
-        "MA": {
-            "name": "Maysan Governorate",
-            "code": "MA",
-            "names": {
-                "geonames": "Maysan",
-                "ru": "\u041c\u0430\u0439\u0441\u0430\u043d",
-                "en": "Maysan Governorate",
-                "ar": "\u0645\u064a\u0633\u0627\u0646",
-                "de": "Maisan",
-                "es": "Mesena",
-                "fr": "Maysan",
-                "it": "Governatorato di Maysan",
-                "zh": "\u7c73\u6851\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 31.49,
-            "lng": 47.16444439999998
+        {
+            "code": "IQ-MU",
+            "names": "Al Muthanna",
+            "type": "Governorate"
         },
-        "MU": {
-            "name": "Muthanna Province",
-            "code": "MU",
-            "names": {
-                "geonames": "Al Muthanna",
-                "ru": "\u041c\u0443\u0442\u0430\u043d\u043d\u0430",
-                "en": "Muthanna Province",
-                "ar": "\u0627\u0644\u0645\u062b\u0646\u0649",
-                "de": "Al-Muthanna",
-                "es": "Mutana",
-                "fr": "Al-Muthanna",
-                "it": "Governatorato di al-Muthanna",
-                "zh": "\u7a46\u85a9\u7d0d\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 29.2666667,
-            "lng": 45.10000000000002
+        {
+            "code": "IQ-NA",
+            "names": "An Najef",
+            "type": "Governorate"
         },
-        "NA": {
-            "name": "Najaf Governorate",
-            "code": "NA",
-            "names": {
-                "geonames": "An Najaf",
-                "ru": "\u041d\u0430\u0434\u0436\u0430\u0444",
-                "en": "Najaf Governorate",
-                "ar": "\u0627\u0644\u0646\u062c\u0641",
-                "de": "Nadschaf",
-                "es": "Gobernaci\u00f3n de Nayaf",
-                "fr": "An-Najaf",
-                "it": "Governatorato di al-Najaf",
-                "zh": "\u7d0d\u5091\u592b\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-NI",
+            "names": "Ninawa",
+            "type": "Governorate"
         },
-        "NI": {
-            "name": "Nineveh Province",
-            "code": "NI",
-            "names": {
-                "geonames": "Ninawa",
-                "ru": "\u041d\u0430\u0439\u043d\u0430\u0432\u0430",
-                "en": "Nineveh Province",
-                "ar": "\u0646\u064a\u0646\u0648\u0649",
-                "de": "Ninawa",
-                "es": "Gobernaci\u00f3n de N\u00ednive",
-                "fr": "Ninawa",
-                "it": "Governatorato di Ninawa",
-                "zh": "\u5c3c\u5c3c\u5fae\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-QA",
+            "names": "Al Qadisiyah",
+            "type": "Governorate"
         },
-        "QA": {
-            "name": "Al-Q\u0101disiyyah Governorate",
-            "code": "QA",
-            "names": {
-                "geonames": "Al Qadisiyah",
-                "ru": "\u041a\u0430\u0434\u0438\u0441\u0438\u044f",
-                "en": "Al-Q\u0101disiyyah Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u064a\u0648\u0627\u0646\u064a\u0629",
-                "de": "Al-Qadisiyya",
-                "es": "Cadisia",
-                "fr": "Al-Qadisiyya",
-                "it": "Governatorato di al-Qadisiyya",
-                "zh": "\u5361\u8fea\u897f\u4e9e\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 31.583333,
-            "lng": 44.5
+        {
+            "code": "IQ-SD",
+            "names": "Salah ad Din",
+            "type": "Governorate"
         },
-        "SD": {
-            "name": "Saladin Province",
-            "code": "SD",
-            "names": {
-                "geonames": "Salah ad Din",
-                "ru": "\u0421\u0430\u043b\u0430\u0445-\u044d\u0434-\u0414\u0438\u043d",
-                "en": "Saladin Province",
-                "ar": "\u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646",
-                "de": "Salah ad-Din",
-                "es": "Gobernaci\u00f3n de Saladino",
-                "fr": "Salah ad-Din",
-                "it": "Governatorato di Salah al-Din",
-                "zh": "\u8428\u62c9\u8d6b\u4e01\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-SW",
+            "names": "As Sulaymaniyah",
+            "type": "Governorate"
         },
-        "SU": {
-            "name": "Sulaymaniyah Governorate",
-            "code": "SU",
-            "names": {
-                "geonames": "As Sulaymaniyah",
-                "ru": "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u0438\u044f",
-                "en": "Sulaymaniyah Governorate",
-                "ar": "\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629",
-                "de": "As-Sulaimaniyya",
-                "es": "Gobernaci\u00f3n de Solimania",
-                "fr": "As-Sulaymaniya",
-                "it": "Governatorato di al-Sulaymaniyya",
-                "zh": "\u8607\u840a\u66fc\u5c3c\u4e9e\u7701"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "IQ-TS",
+            "names": "At Ta'mim",
+            "type": "Governorate"
         },
-        "SW": {
-            "name": "As Sulaymaniyah",
-            "code": "SW",
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 35.2556207,
-            "lng": 45.87545639999996
-        },
-        "TS": {
-            "name": "At Ta'mim",
-            "code": "TS",
-            "division": "governorate",
-            "parent": "IQ"
-        },
-        "WA": {
-            "name": "Wasit Province",
-            "code": "WA",
-            "names": {
-                "geonames": "Wasit",
-                "ru": "\u0412\u0430\u0441\u0438\u0442",
-                "en": "Wasit Province",
-                "ar": "\u0648\u0627\u0633\u0637",
-                "de": "Al-Wasit",
-                "es": "Wasit",
-                "fr": "Wasit",
-                "it": "Governatorato di Wasit",
-                "zh": "\u74e6\u897f\u7279\u7701"
-            },
-            "division": "governorate",
-            "parent": "IQ",
-            "lat": 32.1297222,
-            "lng": 45.978611099999966
+        {
+            "code": "IQ-WA",
+            "names": "Wasit",
+            "type": "Governorate"
         }
-    }
+    ]
 }

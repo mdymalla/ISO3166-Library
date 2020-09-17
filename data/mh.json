@@ -1,493 +1,264 @@
 {
     "alpha-2": "MH",
     "alpha-3": "MHL",
-    "numeric": 584,
-    "capital": "Majuro",
-    "currency": "USD",
-    "languages": [
-        "en",
-        "mh"
-    ],
-    "flag-icon": "\ud83c\uddf2\ud83c\udded",
+    "numeric": "584",
     "names": {
-        "geonames": "Marshall Islands",
         "en": "Marshall Islands",
-        "ar": "\u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
-        "de": "Marshallinseln",
-        "es": "Islas Marshall",
         "fr": "\u00celes Marshall",
-        "it": "Isole Marshall",
-        "ru": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
-        "zh": "\u99ac\u7d39\u723e\u7fa4\u5cf6",
-        "he": "\u05d0\u05d9\u05d9 \u05de\u05e8\u05e9\u05dc",
-        "hi": "\u092e\u093e\u0930\u094d\u0936\u0932 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "ur": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
+        "rn": "Izinga rya Marishari",
+        "lv": "M\u0101r\u0161ala salas",
+        "hy": "\u0544\u0561\u0580\u0577\u0561\u056c\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580",
+        "sq": "Ishujt Marshall",
+        "jv": "Kapuloan Marshall",
+        "or": "\u0b2e\u0b3e\u0b30\u0b4d\u0b36\u0b3e\u0b32\u0b4d \u0b26\u0b4d\u0b71\u0b40\u0b2a\u0b2a\u0b41\u0b1e\u0b4d\u0b1c",
+        "mg": "Nosy Marshall",
+        "no": "Marshall\u00f8yene",
+        "zh": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b",
+        "tr": "Marshall Adalar\u0131",
+        "bs": "Mar\u0161alova ostrva",
         "ja": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
-        "pt": "Ilhas Marshall"
+        "th": "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e21\u0e32\u0e23\u0e4c\u0e41\u0e0a\u0e25\u0e25\u0e4c",
+        "he": "\u05d0\u05d9\u05d9 \u05de\u05e8\u05e9\u05dc",
+        "kk": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b",
+        "mo": "Insulele Marshall",
+        "ff": "Duu\u0257e Marsaal",
+        "ca": "Illes Marshall",
+        "ar": "\u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+        "eu": "Marshall Uharteak",
+        "ps": "\u0645\u0627\u0631\u0634\u0644 \u067c\u0627\u067e\u0648\u06ab\u0627\u0646",
+        "kn": "\u0cae\u0cbe\u0cb0\u0ccd\u0cb7\u0cb2\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1",
+        "si": "\u0db8\u0dcf\u0dc2\u0dbd\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca",
+        "km": "\u1780\u17c4\u17c7\u200b\u1798\u17c9\u17b6\u179f\u17cb\u179f\u179b",
+        "ne": "\u092e\u093e\u0930\u094d\u0936\u0932 \u091f\u093e\u092a\u0941\u0939\u0930\u0941",
+        "fi": "Marshallinsaaret",
+        "hi": "\u092e\u093e\u0930\u094d\u0936\u0932 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939",
+        "rm": "Inslas da Marshall",
+        "vi": "Qu\u1ea7n \u0111\u1ea3o Marshall",
+        "gl": "Illas Marshall",
+        "ig": "Agwaetiti Marshall",
+        "mr": "\u092e\u093e\u0930\u094d\u0936\u0932 \u092c\u0947\u091f\u0947",
+        "es": "Islas Marshall",
+        "be": "\u041c\u0430\u0440\u0448\u0430\u043b\u0430\u0432\u044b \u0430\u0441\u0442\u0440\u0430\u0432\u044b",
+        "lg": "Bizinga bya Mariso",
+        "az": "\u041c\u0430\u0440\u0448\u0430\u043b \u0430\u0434\u0430\u043b\u0430\u0440\u044b",
+        "ce": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448",
+        "mk": "\u041c\u0430\u0440\u0448\u0430\u043b\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+        "zu": "i-Marshall Islands",
+        "it": "Isole Marshall",
+        "ko": "\ub9c8\uc15c \uc81c\ub3c4",
+        "lo": "\u0eab\u0ea1\u0eb9\u0ec8\u0ec0\u0e81\u0eb2\u0eb0\u0ea1\u0eb2\u0ec1\u0e8a\u0ea7",
+        "lt": "Mar\u0161alo Salos",
+        "dz": "\u0f58\u0f62\u0f0b\u0f64\u0f7a\u0f63\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0b\u0f5a\u0f7c\u0f58",
+        "ln": "Bisanga bya Marishal\u025b",
+        "hr": "Mar\u0161alovi Otoci",
+        "ks": "\u0645\u0627\u0631\u0634\u064e\u0644 \u062c\u0654\u0632\u06cc\u0656\u0631\u0655",
+        "sv": "Marshall\u00f6arna",
+        "pl": "Wyspy Marshalla",
+        "nb": "Marshall\u00f8yene",
+        "sh": "Mar\u0161alska Ostrva",
+        "lu": "Lutanda lua Marishale",
+        "nl": "Marshalleilanden",
+        "ky": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b",
+        "bn": "\u09ae\u09be\u09b0\u09cd\u09b6\u09be\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
+        "sd": "\u0645\u0627\u0631\u0634\u0644 \u0680\u064a\u067d",
+        "fa": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+        "gd": "Eileanan Mharshall",
+        "cs": "Marshallovy ostrovy",
+        "tk": "Mar\u015fall adalary",
+        "eo": "Mar\u015daloj",
+        "mt": "G\u017cejjer Marshall",
+        "sr": "Mar\u0161alska Ostrva",
+        "wo": "Duni Marsaal",
+        "el": "\u039d\u03ae\u03c3\u03bf\u03b9 \u039c\u03ac\u03c1\u03c3\u03b1\u03bb",
+        "sn": "Zvitsuwa zveMarshall",
+        "pt": "Ilhas Marshall",
+        "yi": "\u05de\u05d0\u05b7\u05e8\u05e9\u05d0\u05b7\u05dc \u05d0\u05d9\u05e0\u05d6\u05dc\u05e2\u05df",
+        "is": "Marshalleyjar",
+        "ta": "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bb2\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
+        "br": "Inizi Marshall",
+        "hu": "Marshall-szigetek",
+        "et": "Marshalli Saared",
+        "ku": "Girav\u00ean Mar\u015fal",
+        "sk": "Marshallove ostrovy",
+        "sw": "Visiwa vya Marshall",
+        "te": "\u0c2e\u0c3e\u0c30\u0c4d\u0c37\u0c32\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41",
+        "ro": "Insulele Marshall",
+        "ki": "Visiwa vya Marshal",
+        "ak": "Marshall Islands",
+        "tg": "\u04b6\u0430\u0437\u0438\u0440\u0430\u04b3\u043e\u0438 \u041c\u0430\u0440\u0448\u0430\u043b\u043b",
+        "ml": "\u0d2e\u0d3e\u0d7c\u0d37\u0d7d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Etikun M\u00e1shali",
+        "de": "Marshallinseln",
+        "as": "\u09ae\u09be\u09f0\u09cd\u09b6\u09cd\u09ac\u09be\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
+        "am": "\u121b\u122d\u123b\u120d \u12a0\u12ed\u120b\u1295\u12f5",
+        "se": "Marshallsullot",
+        "ia": "Insulas Marshall",
+        "ti": "\u121b\u122d\u123b\u120d \u12a0\u12ed\u120b\u1295\u12f5",
+        "ru": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "ga": "Oile\u00e1in Marshall",
+        "bg": "\u041c\u0430\u0440\u0448\u0430\u043b\u043e\u0432\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+        "my": "\u1019\u102c\u101b\u103e\u101a\u103a \u1000\u103b\u103d\u1014\u103a\u1038\u1005\u102f",
+        "fy": "Marshalleilannen",
+        "bm": "Marisali Gun",
+        "gu": "\u0aae\u0abe\u0ab0\u0acd\u0ab6\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8",
+        "uz": "\u041c\u0430\u0440\u0448\u0430\u043b \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438",
+        "cy": "Ynysoedd Marshall",
+        "ug": "\u0645\u0627\u0631\u0634\u0627\u0644 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649",
+        "nn": "Marshall\u00f8yane",
+        "uk": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+        "qu": "Islas Marshall",
+        "tl": "Marshall Islands",
+        "ms": "Kepulauan Marshall",
+        "so": "Jasiiradda Maarshal",
+        "da": "Marshall\u00f8erne",
+        "tt": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b",
+        "af": "Marshalleilande",
+        "ha": "Tsibiran Marshal",
+        "iw": "\u05d0\u05d9\u05d9 \u05de\u05e8\u05e9\u05dc",
+        "ee": "Marshal \u0192udomekpowo nutome",
+        "in": "Kepulauan Marshall",
+        "to": "\u02bbOtumotu M\u0101solo",
+        "sl": "Marshallovi otoki",
+        "sg": "\u00c2z\u00fb\u00e2 M\u00e4rsh\u00e2l",
+        "lb": "Marshallinselen",
+        "fo": "Marshalloyggjar",
+        "mn": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u044b\u043d \u0430\u0440\u043b\u0443\u0443\u0434",
+        "id": "Kepulauan Marshall",
+        "pa": "\u0a2e\u0a3e\u0a30\u0a38\u0a3c\u0a32 \u0a1f\u0a3e\u0a2a\u0a42",
+        "ka": "\u10db\u10d0\u10e0\u10e8\u10d0\u10da\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8",
+        "nd": "Marshall Islands"
     },
-    "ISO3166-2": {
-        "": {
-            "name": "Jemo Island",
-            "code": "",
-            "names": {
-                "geonames": "Jemo Island",
-                "en": "Jemo Island"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "MH-ALK",
+            "names": "Ailuk",
+            "type": "Municipality"
         },
-        "ALK": {
-            "name": "Ailuk Atoll",
-            "code": "ALK",
-            "names": {
-                "geonames": "Ailuk Atoll",
-                "ru": "\u0410\u0438\u043b\u0443\u043a",
-                "en": "Ailuk Atoll",
-                "de": "Ailuk",
-                "es": "Ailuk",
-                "fr": "Ailuk",
-                "it": "Ailuk",
-                "zh": "\u827e\u76e7\u514b\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-ALL",
+            "names": "Ailinglaplap",
+            "type": "Municipality"
         },
-        "ALL": {
-            "name": "Ailinglaplap Atoll",
-            "code": "ALL",
-            "names": {
-                "geonames": "Ailinglaplap Atoll",
-                "ru": "\u0410\u0438\u043b\u0438\u043d\u0433\u043b\u0430\u043f\u0430\u043b\u0430\u043f",
-                "en": "Ailinglaplap Atoll",
-                "de": "Ailinglapalap",
-                "es": "Ailinglaplap",
-                "fr": "Ailinglaplap",
-                "it": "Ailinglaplap",
-                "zh": "\u57c3\u6797\u62c9\u666e\u62c9\u666e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-ARN",
+            "names": "Arno",
+            "type": "Municipality"
         },
-        "ARN": {
-            "name": "Arno Atoll",
-            "code": "ARN",
-            "names": {
-                "geonames": "Arno Atoll",
-                "ru": "\u0410\u0440\u043d\u043e",
-                "en": "Arno Atoll",
-                "de": "Arno-Atoll",
-                "fr": "Arno",
-                "it": "Arno",
-                "zh": "\u963f\u723e\u8afe\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-AUR",
+            "names": "Aur",
+            "type": "Municipality"
         },
-        "AUR": {
-            "name": "Aur Atoll",
-            "code": "AUR",
-            "names": {
-                "geonames": "Aur Atoll",
-                "ru": "\u0410\u0443\u0440",
-                "en": "Aur Atoll",
-                "de": "Aur",
-                "es": "Aur",
-                "fr": "Aur",
-                "it": "Aur",
-                "zh": "\u5967\u723e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": 8.141327,
-            "lng": 171.17312700000002
+        {
+            "code": "MH-EBO",
+            "names": "Ebon",
+            "type": "Municipality"
         },
-        "EBO": {
-            "name": "Ebon Atoll",
-            "code": "EBO",
-            "names": {
-                "geonames": "Ebon Atoll",
-                "ru": "\u042d\u0431\u043e\u043d",
-                "en": "Ebon Atoll",
-                "de": "Ebon-Atoll",
-                "es": "Ebon",
-                "fr": "Ebon",
-                "it": "Ebon",
-                "zh": "\u57c3\u5d29\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": 4.598557,
-            "lng": 168.75248299999998
+        {
+            "code": "MH-ENI",
+            "names": "Enewetak",
+            "type": "Municipality"
         },
-        "ENI": {
-            "name": "Enewetak Atoll",
-            "code": "ENI",
-            "names": {
-                "geonames": "Enewetak Atoll",
-                "ru": "\u042d\u043d\u0438\u0432\u0435\u0442\u043e\u043a",
-                "en": "Enewetak Atoll",
-                "de": "Eniwetok",
-                "es": "Enewetak",
-                "fr": "Eniwetok",
-                "it": "Enewetak",
-                "zh": "\u57c3\u5167\u97cb\u5854\u514b\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-JAB",
+            "names": "Jabat",
+            "type": "Municipality"
         },
-        "JAB": {
-            "name": "Jabat Island",
-            "code": "JAB",
-            "names": {
-                "geonames": "Jabat Island",
-                "ru": "\u0414\u0436\u0430\u0431\u0430\u0442",
-                "en": "Jabat Island",
-                "de": "Jabwot",
-                "es": "Jabat",
-                "fr": "Jabat",
-                "it": "Jabat",
-                "zh": "\u8cc8\u666e\u5766\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-JAL",
+            "names": "Jaluit",
+            "type": "Municipality"
         },
-        "JAL": {
-            "name": "Jaluit Atoll",
-            "code": "JAL",
-            "names": {
-                "geonames": "Jaluit Atoll",
-                "ru": "\u0414\u0436\u0430\u043b\u0443\u0438\u0442",
-                "en": "Jaluit Atoll",
-                "de": "Jaluit",
-                "es": "Jaluit",
-                "fr": "Jaluit",
-                "it": "Jaluit",
-                "zh": "\u8cc8\u76e7\u4f0a\u7279\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-KIL",
+            "names": "Kili",
+            "type": "Municipality"
         },
-        "KIL": {
-            "name": "Kili Island",
-            "code": "KIL",
-            "names": {
-                "geonames": "Kili Island",
-                "ru": "\u041a\u0438\u043b\u0438",
-                "en": "Kili Island",
-                "de": "Kili-Insel",
-                "es": "Kili",
-                "fr": "Kili",
-                "it": "Kili",
-                "zh": "\u5409\u5229\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-KWA",
+            "names": "Kwajalein",
+            "type": "Municipality"
         },
-        "KWA": {
-            "name": "Kwajalein Atoll",
-            "code": "KWA",
-            "names": {
-                "geonames": "Kwajalein Atoll",
-                "ru": "\u041a\u0432\u0430\u0434\u0436\u0430\u043b\u0435\u0439\u043d",
-                "en": "Kwajalein Atoll",
-                "de": "Kwajalein",
-                "es": "Kwajalein",
-                "fr": "Kwajalein",
-                "it": "Kwajalein",
-                "zh": "\u74dc\u52a0\u6797\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": 8.7239267,
-            "lng": 167.73601540000004
+        {
+            "code": "MH-L",
+            "names": "Ralik chain",
+            "type": "Chains (of islands)"
         },
-        "L": {
-            "name": "Ralik chain",
-            "code": "L",
-            "division": "chains (of islands)",
-            "parent": "MH",
-            "lat": 8,
-            "lng": 167
+        {
+            "code": "MH-LAE",
+            "names": "Lae",
+            "type": "Municipality"
         },
-        "LAE": {
-            "name": "Lae Atoll",
-            "code": "LAE",
-            "names": {
-                "geonames": "Lae Atoll",
-                "ru": "\u041b\u0430\u044d",
-                "en": "Lae Atoll",
-                "de": "Lae-Atoll",
-                "fr": "Lae",
-                "it": "Lae",
-                "zh": "\u62c9\u57c3\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": 8.925121,
-            "lng": 166.26951199999996
+        {
+            "code": "MH-LIB",
+            "names": "Lib",
+            "type": "Municipality"
         },
-        "LIB": {
-            "name": "Lib Island",
-            "code": "LIB",
-            "names": {
-                "geonames": "Lib Island",
-                "ru": "\u041b\u0438\u0431",
-                "en": "Lib Island",
-                "de": "Lib",
-                "es": "Lib",
-                "fr": "Lib",
-                "it": "Lib",
-                "zh": "\u91cc\u5e03\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-LIK",
+            "names": "Likiep",
+            "type": "Municipality"
         },
-        "LIK": {
-            "name": "Likiep Atoll",
-            "code": "LIK",
-            "names": {
-                "geonames": "Likiep Atoll",
-                "ru": "\u041b\u0438\u043a\u0438\u0435\u043f",
-                "en": "Likiep Atoll",
-                "de": "Likiep",
-                "es": "Likiep",
-                "fr": "Likiep",
-                "it": "Likiep",
-                "zh": "\u5229\u57fa\u57c3\u666e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": 9.826345,
-            "lng": 169.30217300000004
+        {
+            "code": "MH-MAJ",
+            "names": "Majuro",
+            "type": "Municipality"
         },
-        "MAJ": {
-            "name": "Majuro",
-            "code": "MAJ",
-            "names": {
-                "geonames": "Majuro Atoll",
-                "ru": "\u041c\u0430\u0434\u0436\u0443\u0440\u043e",
-                "en": "Majuro",
-                "ar": "\u0645\u0627\u062c\u0648\u0631\u0648",
-                "de": "Majuro-Atoll",
-                "es": "Majuro",
-                "fr": "Majuro",
-                "it": "Majuro",
-                "zh": "\u99ac\u4e45\u7f85"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": 7.0687794,
-            "lng": 171.28211009999995
+        {
+            "code": "MH-MAL",
+            "names": "Maloelap",
+            "type": "Municipality"
         },
-        "MAL": {
-            "name": "Maloelap Atoll",
-            "code": "MAL",
-            "names": {
-                "geonames": "Maloelap Atoll",
-                "ru": "\u041c\u0430\u043b\u043e\u044d\u043b\u0430\u043f",
-                "en": "Maloelap Atoll",
-                "de": "Maloelap",
-                "es": "Maloelap",
-                "fr": "Maloelap",
-                "it": "Maloelap",
-                "zh": "\u99ac\u6d1b\u57c3\u62c9\u666e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-MEJ",
+            "names": "Mejit",
+            "type": "Municipality"
         },
-        "MEJ": {
-            "name": "Mejit Island",
-            "code": "MEJ",
-            "names": {
-                "geonames": "Mejit Island",
-                "ru": "\u041c\u0435\u0434\u0436\u0438\u0442",
-                "en": "Mejit Island",
-                "de": "Mejit",
-                "es": "Mejit",
-                "fr": "Mejit",
-                "it": "Mejit",
-                "zh": "\u6885\u5409\u7279\u5cf6"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-MIL",
+            "names": "Mili",
+            "type": "Municipality"
         },
-        "MIL": {
-            "name": "Mili Atoll",
-            "code": "MIL",
-            "names": {
-                "geonames": "Mili Atoll",
-                "ru": "\u041c\u0438\u043b\u0438",
-                "en": "Mili Atoll",
-                "de": "Mili",
-                "es": "Mili",
-                "fr": "Mili",
-                "it": "Mili",
-                "zh": "\u7c73\u5229\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-NMK",
+            "names": "Namdrik",
+            "type": "Municipality"
         },
-        "NMK": {
-            "name": "Namdrik Atoll",
-            "code": "NMK",
-            "names": {
-                "geonames": "Namdrik Atoll",
-                "ru": "\u041d\u0430\u043c\u043e\u0440\u0438\u043a",
-                "en": "Namdrik Atoll",
-                "de": "Namorik",
-                "es": "Namorik",
-                "fr": "Namdrik",
-                "it": "Namorik",
-                "zh": "\u7d0d\u83ab\u91cc\u514b\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-NMU",
+            "names": "Namu",
+            "type": "Municipality"
         },
-        "NMU": {
-            "name": "Namu Atoll",
-            "code": "NMU",
-            "names": {
-                "geonames": "Namu Atoll",
-                "ru": "\u041d\u0430\u043c\u0443",
-                "en": "Namu Atoll",
-                "de": "Namu",
-                "fr": "Namu",
-                "it": "Namu",
-                "zh": "\u7d0d\u6728\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-RON",
+            "names": "Rongelap",
+            "type": "Municipality"
         },
-        "RON": {
-            "name": "Rongelap Atoll",
-            "code": "RON",
-            "names": {
-                "geonames": "Rongelap Atoll",
-                "ru": "\u0420\u043e\u043d\u0433\u0435\u043b\u0430\u043f",
-                "en": "Rongelap Atoll",
-                "de": "Rongelap-Atoll",
-                "es": "Rongelap",
-                "fr": "Rongelap",
-                "it": "Rongelap",
-                "zh": "\u6717\u683c\u62c9\u666e\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-T",
+            "names": "Ratak chain",
+            "type": "Chains (of islands)"
         },
-        "T": {
-            "name": "Ratak chain",
-            "code": "T",
-            "division": "chains (of islands)",
-            "parent": "MH",
-            "lat": 9,
-            "lng": 171
+        {
+            "code": "MH-UJA",
+            "names": "Ujae",
+            "type": "Municipality"
         },
-        "UJA": {
-            "name": "Ujae Atoll",
-            "code": "UJA",
-            "names": {
-                "geonames": "Ujae Atoll",
-                "ru": "\u0423\u0434\u0436\u0430\u044d",
-                "en": "Ujae Atoll",
-                "de": "Ujae",
-                "es": "Ujae",
-                "fr": "Ujae",
-                "it": "Ujae",
-                "zh": "\u70cf\u8cc8\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-L",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-UTI",
+            "names": "Utirik",
+            "type": "Municipality"
         },
-        "UTI": {
-            "name": "Utirik Atoll",
-            "code": "UTI",
-            "names": {
-                "geonames": "Utrik Atoll",
-                "ru": "\u0423\u0442\u0438\u0440\u0438\u043a",
-                "en": "Utirik Atoll",
-                "de": "Utirik",
-                "es": "Utirik",
-                "fr": "Utirik",
-                "it": "Utirik",
-                "zh": "\u70cf\u8482\u91cc\u514b\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
+        {
+            "code": "MH-WTJ",
+            "names": "Wotje",
+            "type": "Municipality"
         },
-        "WTH": {
-            "name": "Wotho Atoll",
-            "code": "WTH",
-            "names": {
-                "geonames": "Wotho Atoll",
-                "ru": "\u0412\u043e\u0442\u043e",
-                "en": "Wotho Atoll",
-                "de": "Wotho",
-                "es": "Wotho",
-                "fr": "Wotho",
-                "it": "Wotho",
-                "zh": "\u6c83\u7279\u74b0\u7901"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "WTJ": {
-            "name": "Wotje Atoll",
-            "code": "WTJ",
-            "names": {
-                "geonames": "Wotje Atoll",
-                "ru": "\u0412\u043e\u0442\u044c\u0435",
-                "en": "Wotje Atoll",
-                "de": "Wotje",
-                "es": "Wotje",
-                "fr": "Wotje",
-                "it": "Wotje",
-                "zh": "\u6c83\u7279\u5091\u74b0\u7901"
-            },
-            "division": "municipality",
-            "parent": "MH-T",
-            "lat": null,
-            "lng": null
-        },
-        "WTN": {
-            "name": "Wotho",
-            "code": "WTN",
-            "division": "municipality",
-            "parent": "MH-L"
+        {
+            "code": "MH-WTN",
+            "names": "Wotho",
+            "type": "Municipality"
         }
-    }
+    ]
 }

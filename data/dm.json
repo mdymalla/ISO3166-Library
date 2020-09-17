@@ -1,182 +1,183 @@
 {
     "alpha-2": "DM",
     "alpha-3": "DMA",
-    "numeric": 212,
-    "capital": "Roseau",
-    "currency": "XCD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\udde9\ud83c\uddf2",
+    "numeric": "212",
     "names": {
-        "geonames": "Dominica",
         "en": "Dominica",
-        "ar": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
-        "de": "Dominica",
-        "es": "Dominica",
         "fr": "Dominique",
-        "it": "Dominica",
-        "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "ur": "\u0688\u0648\u0645\u0646\u06cc\u06a9\u0627",
+        "rn": "Dominika",
+        "lv": "Dominika",
+        "hy": "\u0534\u0578\u0574\u056b\u0576\u056b\u056f\u0561",
+        "sq": "Dominik\u00eb",
+        "jv": "Dominika",
+        "or": "\u0b21\u0b4b\u0b2e\u0b3f\u0b28\u0b3f\u0b15\u0b3e",
+        "mg": "Dominika",
+        "no": "Dominica",
         "zh": "\u591a\u7c73\u5c3c\u514b",
-        "he": "\u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05d4",
-        "hi": "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e",
+        "tr": "Dominika",
+        "bs": "Dominika",
         "ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
-        "pt": "Dominica"
+        "th": "\u0e42\u0e14\u0e21\u0e34\u0e19\u0e34\u0e01\u0e32",
+        "he": "\u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05d4",
+        "kk": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "mo": "Dominica",
+        "ff": "Dominika",
+        "ca": "Dominica",
+        "ar": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
+        "eu": "Dominika",
+        "ps": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+        "kn": "\u0ca1\u0cca\u0cae\u0cbf\u0ca8\u0cbf\u0c95\u0cbe",
+        "si": "\u0da9\u0ddc\u0db8\u0dd2\u0db1\u0dd2\u0d9a\u0dcf\u0dc0",
+        "km": "\u178a\u17bc\u1798\u17b8\u1793\u17b8\u1780",
+        "ne": "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e",
+        "fi": "Dominica",
+        "hi": "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e",
+        "rm": "Dominica",
+        "vi": "Dominica",
+        "gl": "Dominica",
+        "ig": "Dominika",
+        "mr": "\u0921\u094b\u092e\u093f\u0928\u093f\u0915\u093e",
+        "es": "Dominica",
+        "be": "\u0414\u0430\u043c\u0456\u043d\u0456\u043a\u0430",
+        "lg": "Dominika",
+        "pt": "Dominica",
+        "az": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "ce": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "mk": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "zu": "i-Dominica",
+        "it": "Dominica",
+        "ko": "\ub3c4\ubbf8\ub2c8\uce74",
+        "lo": "\u0ec2\u0e94\u0ea1\u0eb5\u0e99\u0eb4\u0e84\u0eb2",
+        "lt": "Dominika",
+        "dz": "\u0f4c\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f40",
+        "ln": "Dom\u00ednike",
+        "hr": "Dominika",
+        "ks": "\u0688\u0648\u0645\u0650\u0646\u0650\u06a9\u0627",
+        "sv": "Dominica",
+        "pl": "Dominika",
+        "nb": "Dominica",
+        "sh": "Dominika",
+        "lu": "Duminiku",
+        "nl": "Dominica",
+        "ky": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "bn": "\u09a1\u09cb\u09ae\u09bf\u09a8\u09bf\u0995\u09be",
+        "sd": "\u068a\u0648\u0645\u064a\u0646\u064a\u06aa\u0627",
+        "fa": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+        "gd": "Doiminicea",
+        "cs": "Dominika",
+        "tk": "Dominika",
+        "eo": "Dominiko",
+        "mt": "Dominica",
+        "sr": "Dominika",
+        "wo": "Dominik",
+        "el": "\u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b9\u03ba\u03b1",
+        "sn": "Dominica",
+        "yi": "\u05d3\u05d0\u05de\u05d9\u05e0\u05d9\u05e7\u05e2",
+        "is": "D\u00f3min\u00edka",
+        "ta": "\u0b9f\u0bca\u0bae\u0bbf\u0ba9\u0bbf\u0b95\u0bbe",
+        "br": "Dominica",
+        "hu": "Dominika",
+        "et": "Dominica",
+        "ku": "Dom\u00een\u00eeka",
+        "sk": "Dominika",
+        "sw": "Dominika",
+        "te": "\u0c21\u0c4a\u0c2e\u0c3f\u0c28\u0c3f\u0c15\u0c3e",
+        "ro": "Dominica",
+        "ki": "Dominika",
+        "ak": "D\u0254meneka",
+        "tg": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "ml": "\u0d21\u0d4a\u0d2e\u0d3f\u0d28\u0d3f\u0d15\u0d4d\u0d15",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de D\u00f2m\u00edn\u00edk\u00e0",
+        "de": "Dominica",
+        "as": "\u09a1\u2019\u09ae\u09bf\u09a8\u09bf\u0995\u09be",
+        "am": "\u12f6\u121a\u1292\u12ab",
+        "se": "Dominica",
+        "ti": "\u12f6\u121a\u1292\u12ab",
+        "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "ga": "Doiminice",
+        "bg": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "my": "\u1012\u102d\u102f\u1019\u102e\u1014\u102e\u1000\u102c",
+        "fy": "Dominika",
+        "bm": "D\u0254miniki",
+        "gu": "\u0aa1\u0acb\u0aae\u0abf\u0aa8\u0abf\u0a95\u0abe",
+        "uz": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "cy": "Dominica",
+        "ug": "\u062f\u0648\u0645\u0649\u0646\u0649\u0643\u0627",
+        "nn": "Dominica",
+        "uk": "\u0414\u043e\u043c\u0456\u043d\u0456\u043a\u0430",
+        "qu": "Dominica",
+        "tl": "Dominica",
+        "ms": "Dominica",
+        "so": "Dominika",
+        "da": "Dominica",
+        "tt": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "af": "Dominica",
+        "ha": "Dominika",
+        "iw": "\u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05d4",
+        "ee": "Dominika nutome",
+        "in": "Dominika",
+        "to": "Tominika",
+        "sl": "Dominika",
+        "sg": "D\u00f6m\u00efn\u00eeka",
+        "lb": "Dominica",
+        "fo": "Dominika",
+        "mn": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "id": "Dominika",
+        "pa": "\u0a21\u0a4b\u0a2e\u0a40\u0a28\u0a3f\u0a15\u0a3e",
+        "ka": "\u10d3\u10dd\u10db\u10d8\u10dc\u10d8\u10d9\u10d0",
+        "nd": "Dominikha"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Saint Peter",
-            "code": "01",
-            "division": "parish",
-            "parent": "DM",
-            "lat": 48.24348,
-            "lng": 11.903689999999983
+    "3166-2": [
+        {
+            "code": "DM-01",
+            "names": "Saint Peter",
+            "type": "Parish"
         },
-        "02": {
-            "name": "Saint Andrew",
-            "code": "02",
-            "names": {
-                "geonames": "Saint Andrew",
-                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043d\u0434\u0440\u044e",
-                "en": "Saint Andrew"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 53.540012,
-            "lng": -6.444357999999966
+        {
+            "code": "DM-02",
+            "names": "Saint Andrew",
+            "type": "Parish"
         },
-        "03": {
-            "name": "Saint David Parish, Dominica",
-            "code": "03",
-            "names": {
-                "geonames": "Saint David",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u044d\u0432\u0438\u0434",
-                "en": "Saint David Parish",
-                "de": "Saint David",
-                "es": "Parroquia de Saint David",
-                "fr": "Saint-David",
-                "it": "Parrocchia di Saint David",
-                "zh": "\u8056\u6234\u7dad\u5802\u5340"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "DM-03",
+            "names": "Saint David",
+            "type": "Parish"
         },
-        "04": {
-            "name": "Saint George",
-            "code": "04",
-            "names": {
-                "geonames": "Saint George",
-                "en": "Saint George"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 46.5079598,
-            "lng": 6.301685700000007
+        {
+            "code": "DM-04",
+            "names": "Saint George",
+            "type": "Parish"
         },
-        "05": {
-            "name": "Saint John",
-            "code": "05",
-            "names": {
-                "geonames": "Saint John",
-                "en": "Saint John"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 15.3008192,
-            "lng": -61.38924930000002
+        {
+            "code": "DM-05",
+            "names": "Saint John",
+            "type": "Parish"
         },
-        "06": {
-            "name": "Saint Joseph",
-            "code": "06",
-            "names": {
-                "geonames": "Saint Joseph",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444",
-                "en": "Saint Joseph"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 15.404123,
-            "lng": -61.42452800000001
+        {
+            "code": "DM-06",
+            "names": "Saint Joseph",
+            "type": "Parish"
         },
-        "07": {
-            "name": "Saint Luke Parish, Dominica",
-            "code": "07",
-            "names": {
-                "geonames": "Saint Luke",
-                "ru": "\u0421\u0435\u043d\u0442-\u041b\u044e\u043a",
-                "en": "Saint Luke Parish",
-                "de": "Saint Luke",
-                "es": "Parroquia de Saint Luke",
-                "fr": "Saint-Luke",
-                "it": "Parrocchia di Saint Luke",
-                "zh": "\u8056\u76e7\u514b\u5802\u5340"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 53.6444489,
-            "lng": -2.9883749000000535
+        {
+            "code": "DM-07",
+            "names": "Saint Luke",
+            "type": "Parish"
         },
-        "08": {
-            "name": "Saint Mark Parish, Dominica",
-            "code": "08",
-            "names": {
-                "geonames": "Saint Mark",
-                "ru": "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u043a",
-                "en": "Saint Mark Parish",
-                "de": "Saint Mark",
-                "es": "Parroquia de Saint Mark",
-                "fr": "Saint-Mark",
-                "it": "Parrocchia di Saint Mark",
-                "zh": "\u8056\u99ac\u514b\u5802\u5340"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 51.5907575,
-            "lng": -3.002969300000018
+        {
+            "code": "DM-08",
+            "names": "Saint Mark",
+            "type": "Parish"
         },
-        "09": {
-            "name": "Saint Patrick Parish, Dominica",
-            "code": "09",
-            "names": {
-                "geonames": "Saint Patrick",
-                "ru": "\u0421\u0435\u043d\u0442-\u041f\u0430\u0442\u0440\u0438\u043a",
-                "en": "Saint Patrick Parish",
-                "de": "Saint Patrick",
-                "es": "Parroquia de Saint Patrick",
-                "fr": "Saint-Patrick",
-                "it": "Parrocchia di Saint Patrick",
-                "zh": "\u8056\u5e15\u7279\u91cc\u514b\u5802\u5340"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 46.8876348,
-            "lng": -71.51658370000001
+        {
+            "code": "DM-09",
+            "names": "Saint Patrick",
+            "type": "Parish"
         },
-        "10": {
-            "name": "Saint Paul",
-            "code": "10",
-            "names": {
-                "geonames": "Saint Paul",
-                "en": "Saint Paul"
-            },
-            "division": "parish",
-            "parent": "DM",
-            "lat": 48.855168,
-            "lng": 2.3613789999999426
-        },
-        "11": {
-            "name": "Saint Peter",
-            "code": "11",
-            "names": {
-                "geonames": "Saint Peter",
-                "en": "Saint Peter"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "DM-10",
+            "names": "Saint Paul",
+            "type": "Parish"
         }
-    }
+    ]
 }

@@ -1,698 +1,319 @@
 {
     "alpha-2": "IN",
     "alpha-3": "IND",
-    "numeric": 356,
-    "capital": "New Delhi",
-    "currency": "INR",
-    "languages": [
-        "hi",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddee\ud83c\uddf3",
+    "numeric": "356",
     "names": {
-        "geonames": "India",
         "en": "India",
-        "ar": "\u0627\u0644\u0647\u0646\u062f",
-        "de": "Indien",
-        "es": "India",
         "fr": "Inde",
-        "it": "India",
-        "ru": "\u0418\u043d\u0434\u0438\u044f",
+        "ur": "\u0628\u06be\u0627\u0631\u062a",
+        "rn": "Ubuhindi",
+        "lv": "Indija",
+        "hy": "\u0540\u0576\u0564\u056f\u0561\u057d\u057f\u0561\u0576",
+        "sq": "Indi",
+        "or": "\u0b2d\u0b3e\u0b30\u0b24",
+        "mg": "Indy",
+        "no": "India",
         "zh": "\u5370\u5ea6",
-        "he": "\u05d4\u05d5\u05d3\u05d5",
-        "hi": "\u092d\u093e\u0930\u0924",
+        "tr": "Hindistan",
+        "bs": "Indija",
         "ja": "\u30a4\u30f3\u30c9",
-        "pt": "\u00cdndia"
+        "th": "\u0e2d\u0e34\u0e19\u0e40\u0e14\u0e35\u0e22",
+        "he": "\u05d4\u05d5\u05d3\u05d5",
+        "kk": "\u04ae\u043d\u0434\u0456\u0441\u0442\u0430\u043d",
+        "mo": "India",
+        "ff": "Enndo",
+        "ca": "\u00cdndia",
+        "ar": "\u0627\u0644\u0647\u0646\u062f",
+        "eu": "India",
+        "ps": "\u0647\u0646\u062f",
+        "kn": "\u0cad\u0cbe\u0cb0\u0ca4",
+        "si": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u17a5\u178e\u17d2\u178c\u17b6",
+        "ne": "\u092d\u093e\u0930\u0924",
+        "bo": "\u0f62\u0f92\u0fb1\u0f0b\u0f42\u0f62\u0f0b",
+        "fi": "Intia",
+        "hi": "\u092d\u093e\u0930\u0924",
+        "rm": "India",
+        "vi": "\u1ea4n \u0110\u1ed9",
+        "gl": "A India",
+        "ig": "Mba India",
+        "mr": "\u092d\u093e\u0930\u0924",
+        "es": "India",
+        "be": "\u0406\u043d\u0434\u044b\u044f",
+        "ii": "\ua474\ua117",
+        "lg": "Buyindi",
+        "sd": "\u0627\u0646\u068a\u064a\u0627",
+        "az": "\u04ba\u0438\u043d\u0434\u0438\u0441\u0442\u0430\u043d",
+        "ce": "\u0425\u04c0\u0438\u043d\u0434\u0438",
+        "mk": "\u0418\u043d\u0434\u0438\u0458\u0430",
+        "zu": "i-India",
+        "it": "India",
+        "mi": "Inia",
+        "ko": "\uc778\ub3c4",
+        "lo": "\u0ead\u0eb4\u0e99\u0ec0\u0e94\u0e8d",
+        "lt": "Indija",
+        "dz": "\u0f62\u0f92\u0fb1\u0f0b\u0f42\u0f62",
+        "ln": "\u00cdnd\u025b",
+        "hr": "Indija",
+        "ks": "\u06c1\u0650\u0646\u062f\u0648\u0633\u062a\u0627\u0646",
+        "sv": "Indien",
+        "pl": "Indie",
+        "nb": "India",
+        "sh": "Indija",
+        "lu": "Inde",
+        "nl": "India",
+        "ky": "\u0418\u043d\u0434\u0438\u044f",
+        "bn": "\u09ad\u09be\u09b0\u09a4",
+        "fa": "\u0647\u0646\u062f",
+        "gd": "Na h-Innseachan",
+        "cs": "Indie",
+        "tk": "Hindistan",
+        "eo": "Hindujo",
+        "mt": "l-Indja",
+        "sr": "Indija",
+        "wo": "End",
+        "el": "\u0399\u03bd\u03b4\u03af\u03b1",
+        "sn": "India",
+        "pt": "\u00cdndia",
+        "yi": "\u05d0\u05d9\u05e0\u05d3\u05d9\u05e2",
+        "is": "Indland",
+        "ta": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+        "br": "India",
+        "hu": "India",
+        "et": "India",
+        "ku": "Hindistan",
+        "sk": "India",
+        "sw": "India",
+        "os": "\u0418\u043d\u0434\u0438",
+        "te": "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02",
+        "ro": "India",
+        "ki": "India",
+        "su": "India",
+        "ak": "India",
+        "tg": "\u04b2\u0438\u043d\u0434\u0443\u0441\u0442\u043e\u043d",
+        "ml": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de India",
+        "de": "Indien",
+        "as": "\u09ad\u09be\u09f0\u09a4",
+        "am": "\u1205\u1295\u12f5",
+        "se": "India",
+        "ia": "India",
+        "om": "India",
+        "ti": "\u1205\u1295\u12f2",
+        "ru": "\u0418\u043d\u0434\u0438\u044f",
+        "ga": "an India",
+        "bg": "\u0418\u043d\u0434\u0438\u044f",
+        "my": "\u1021\u102d\u1014\u1039\u1012\u102d\u101a",
+        "fy": "India",
+        "bm": "\u0190ndujamana",
+        "gu": "\u0aad\u0abe\u0ab0\u0aa4",
+        "uz": "\u04b2\u0438\u043d\u0434\u0438\u0441\u0442\u043e\u043d",
+        "cy": "India",
+        "ug": "\u06be\u0649\u0646\u062f\u0649\u0633\u062a\u0627\u0646",
+        "nn": "India",
+        "uk": "\u0406\u043d\u0434\u0456\u044f",
+        "qu": "India",
+        "tl": "India",
+        "ms": "India",
+        "so": "Hindiya",
+        "da": "Indien",
+        "tt": "\u0418\u043d\u0434\u0438\u044f",
+        "af": "Indi\u00eb",
+        "ha": "Indiya",
+        "iw": "\u05d4\u05d5\u05d3\u05d5",
+        "ee": "India nutome",
+        "in": "India",
+        "to": "\u02bbInitia",
+        "sl": "Indija",
+        "sg": "\u00cannde",
+        "lb": "Indien",
+        "fo": "India",
+        "mn": "\u042d\u043d\u044d\u0442\u0445\u044d\u0433",
+        "id": "India",
+        "pa": "\u0a2d\u0a3e\u0a30\u0a24",
+        "ka": "\u10d8\u10dc\u10d3\u10dd\u10d4\u10d7\u10d8",
+        "nd": "Indiya"
     },
-    "ISO3166-2": {
-        "AN": {
-            "name": "Andaman and Nicobar Islands",
-            "code": "AN",
-            "names": {
-                "geonames": "Andaman and Nicobar",
-                "ru": "\u0410\u043d\u0434\u0430\u043c\u0430\u043d\u0441\u043a\u0438\u0435 \u0438 \u041d\u0438\u043a\u043e\u0431\u0430\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
-                "en": "Andaman and Nicobar Islands",
-                "ar": "\u062c\u0632\u0631 \u0623\u0646\u062f\u0645\u0627\u0646 \u0648\u0646\u064a\u0643\u0648\u0628\u0627\u0631",
-                "de": "Andamanen und Nikobaren",
-                "es": "Islas Andam\u00e1n y Nicobar",
-                "fr": "\u00celes Andaman-et-Nicobar",
-                "it": "Andamane e Nicobare",
-                "zh": "\u5b89\u8fbe\u66fc-\u5c3c\u79d1\u5df4\u7fa4\u5c9b"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 11.7400867,
-            "lng": 92.65864009999996
+    "3166-2": [
+        {
+            "code": "IN-AN",
+            "names": "Andaman and Nicobar Islands",
+            "type": "Union territory"
         },
-        "AP": {
-            "name": "Andhra Pradesh",
-            "code": "AP",
-            "names": {
-                "geonames": "Andhra Pradesh",
-                "ru": "\u0410\u043d\u0434\u0445\u0440\u0430-\u041f\u0440\u0430\u0434\u0435\u0448",
-                "en": "Andhra Pradesh",
-                "ar": "\u0623\u0646\u062f\u0631\u0627 \u0628\u0631\u062f\u064a\u0634",
-                "de": "Andhra Pradesh",
-                "es": "Andhra Pradesh",
-                "fr": "Andhra Pradesh",
-                "it": "Andhra Pradesh",
-                "zh": "\u5b89\u5f97\u62c9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 16.2707544,
-            "lng": 80.99953870000002
+        {
+            "code": "IN-AP",
+            "names": "Andhra Pradesh",
+            "type": "State"
         },
-        "AR": {
-            "name": "Arunachal Pradesh",
-            "code": "AR",
-            "names": {
-                "geonames": "Arunachal Pradesh",
-                "ru": "\u0410\u0440\u0443\u043d\u0430\u0447\u0430\u043b-\u041f\u0440\u0430\u0434\u0435\u0448",
-                "en": "Arunachal Pradesh",
-                "ar": "\u0623\u0631\u0648\u0646\u0627\u062c\u0644 \u0628\u0631\u062f\u064a\u0634",
-                "de": "Arunachal Pradesh",
-                "es": "Arunachal Pradesh",
-                "fr": "Arunachal Pradesh",
-                "it": "Arunachal Pradesh",
-                "zh": "\u963f\u9c81\u7eb3\u6070\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 28.2390993,
-            "lng": 94.06954539999992
+        {
+            "code": "IN-AR",
+            "names": "Arunachal Pradesh",
+            "type": "State"
         },
-        "AS": {
-            "name": "Assam",
-            "code": "AS",
-            "names": {
-                "geonames": "Assam",
-                "ru": "\u0410\u0441\u0441\u0430\u043c",
-                "en": "Assam",
-                "ar": "\u0622\u0633\u0627\u0645",
-                "de": "Assam",
-                "es": "Assam",
-                "fr": "Assam",
-                "it": "Assam",
-                "zh": "\u963f\u8428\u59c6\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 26.2006043,
-            "lng": 92.93757389999996
+        {
+            "code": "IN-AS",
+            "names": "Assam",
+            "type": "State"
         },
-        "BR": {
-            "name": "Bihar",
-            "code": "BR",
-            "names": {
-                "geonames": "Bihar",
-                "ru": "\u0411\u0438\u0445\u0430\u0440",
-                "en": "Bihar",
-                "ar": "\u0628\u064a\u0647\u0627\u0631",
-                "de": "Bihar",
-                "es": "Bihar",
-                "fr": "Bihar",
-                "it": "Bihar",
-                "zh": "\u6bd4\u54c8\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 25.198009,
-            "lng": 85.52189599999997
+        {
+            "code": "IN-BR",
+            "names": "Bihar",
+            "type": "State"
         },
-        "CH": {
-            "name": "Chandigarh",
-            "code": "CH",
-            "names": {
-                "geonames": "Chandigarh",
-                "ru": "\u0427\u0430\u043d\u0434\u0438\u0433\u0430\u0440\u0445",
-                "en": "Chandigarh",
-                "ar": "\u0634\u0627\u0646\u062f\u064a\u063a\u0627\u0631",
-                "de": "Chandigarh",
-                "es": "Chandigarh",
-                "fr": "Chandigarh",
-                "it": "Chandigarh",
-                "zh": "\u660c\u8fea\u52a0\u5c14"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 30.731345,
-            "lng": 76.77538500000003
+        {
+            "code": "IN-CH",
+            "names": "Chandigarh",
+            "type": "Union territory"
         },
-        "CT": {
-            "name": "Chhattisgarh",
-            "code": "CT",
-            "names": {
-                "geonames": "Chhattisgarh",
-                "ru": "\u0427\u0445\u0430\u0442\u0442\u0438\u0441\u0433\u0430\u0440\u0445",
-                "en": "Chhattisgarh",
-                "ar": "\u062a\u0634\u0627\u062a\u064a\u0633\u063a\u0627\u0631",
-                "de": "Chhattisgarh",
-                "es": "Chhattisgarh",
-                "fr": "Chhattisgarh",
-                "it": "Chhattisgarh",
-                "zh": "\u6070\u8482\u65af\u52a0\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 21.2786567,
-            "lng": 81.86614420000001
+        {
+            "code": "IN-CT",
+            "names": "Chhattisgarh",
+            "type": "State"
         },
-        "DD": {
-            "name": "Daman and Diu",
-            "code": "DD",
-            "names": {
-                "geonames": "Daman and Diu",
-                "ru": "\u0414\u0430\u043c\u0430\u043d \u0438 \u0414\u0438\u0443",
-                "en": "Daman and Diu",
-                "ar": "\u062f\u0645\u0646 \u0648\u062f\u064a\u0648",
-                "de": "Daman und Diu",
-                "es": "Dam\u00e1n y Diu",
-                "fr": "Daman et Diu",
-                "it": "Daman e Diu",
-                "zh": "\u8fbe\u66fc-\u7b2c\u4e4c"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 20.428283,
-            "lng": 72.83973170000002
+        {
+            "code": "IN-DD",
+            "names": "Daman and Diu",
+            "type": "Union territory"
         },
-        "DL": {
-            "name": "Delhi",
-            "code": "DL",
-            "names": {
-                "geonames": "NCT",
-                "ru": "\u0414\u0435\u043b\u0438",
-                "en": "Delhi",
-                "ar": "\u062f\u0644\u0647\u064a",
-                "de": "Delhi",
-                "es": "Delhi",
-                "fr": "Delhi",
-                "it": "Delhi",
-                "zh": "\u5fb7\u91cc"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 28.635308,
-            "lng": 77.22496000000001
+        {
+            "code": "IN-DL",
+            "names": "Delhi",
+            "type": "Union territory"
         },
-        "DN": {
-            "name": "Dadra and Nagar Haveli",
-            "code": "DN",
-            "names": {
-                "geonames": "Dadra and Nagar Haveli",
-                "ru": "\u0414\u0430\u0434\u0440\u0430 \u0438 \u041d\u0430\u0433\u0430\u0440-\u0425\u0430\u0432\u0435\u043b\u0438",
-                "en": "Dadra and Nagar Haveli",
-                "de": "Dadra und Nagar Haveli",
-                "es": "Dadra y Nagar Haveli",
-                "fr": "Dadra et Nagar Haveli",
-                "it": "Dadra e Nagar Haveli",
-                "zh": "\u8fbe\u5fb7\u62c9-\u7eb3\u52a0\u5c14\u54c8\u7ef4\u5229"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 20.1394081,
-            "lng": 73.06413959999998
+        {
+            "code": "IN-DN",
+            "names": "Dadra and Nagar Haveli",
+            "type": "Union territory"
         },
-        "GA": {
-            "name": "Goa",
-            "code": "GA",
-            "names": {
-                "geonames": "Goa",
-                "ru": "\u0413\u043e\u0430",
-                "en": "Goa",
-                "ar": "\u063a\u0648\u0627",
-                "de": "Goa",
-                "es": "Goa",
-                "fr": "Goa",
-                "it": "Goa",
-                "zh": "\u679c\u963f\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 15.4253792,
-            "lng": 73.98300289999997
+        {
+            "code": "IN-GA",
+            "names": "Goa",
+            "type": "State"
         },
-        "GJ": {
-            "name": "Gujarat",
-            "code": "GJ",
-            "names": {
-                "geonames": "Gujarat",
-                "ru": "\u0413\u0443\u0434\u0436\u0430\u0440\u0430\u0442",
-                "en": "Gujarat",
-                "ar": "\u063a\u0648\u062c\u0627\u0631\u0627\u062a",
-                "de": "Gujarat",
-                "es": "Guyarat",
-                "fr": "Gujarat",
-                "it": "Gujarat",
-                "zh": "\u53e4\u5409\u62c9\u7279\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 22.258652,
-            "lng": 71.19238050000001
+        {
+            "code": "IN-GJ",
+            "names": "Gujarat",
+            "type": "State"
         },
-        "HP": {
-            "name": "Himachal Pradesh",
-            "code": "HP",
-            "names": {
-                "geonames": "Himachal Pradesh",
-                "ru": "\u0425\u0438\u043c\u0430\u0447\u0430\u043b-\u041f\u0440\u0430\u0434\u0435\u0448",
-                "en": "Himachal Pradesh",
-                "ar": "\u0647\u064a\u0645\u0627\u062c\u0644 \u0628\u0631\u062f\u064a\u0634",
-                "de": "Himachal Pradesh",
-                "es": "Himachal Pradesh",
-                "fr": "Himachal Pradesh",
-                "it": "Himachal Pradesh",
-                "zh": "\u559c\u9a6c\u5055\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 32.1024076,
-            "lng": 77.56194189999997
+        {
+            "code": "IN-HP",
+            "names": "Himachal Pradesh",
+            "type": "State"
         },
-        "HR": {
-            "name": "Haryana",
-            "code": "HR",
-            "names": {
-                "geonames": "Haryana",
-                "ru": "\u0425\u0430\u0440\u044c\u044f\u043d\u0430",
-                "en": "Haryana",
-                "ar": "\u0647\u0627\u0631\u064a\u0627\u0646\u0627",
-                "de": "Haryana",
-                "es": "Haryana",
-                "fr": "Haryana",
-                "it": "Haryana",
-                "zh": "\u54c8\u91cc\u4e9a\u7eb3\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 29.0587757,
-            "lng": 76.085601
+        {
+            "code": "IN-HR",
+            "names": "Haryana",
+            "type": "State"
         },
-        "JH": {
-            "name": "Jharkhand",
-            "code": "JH",
-            "names": {
-                "geonames": "Jharkhand",
-                "ru": "\u0414\u0436\u0430\u0440\u043a\u0445\u0430\u043d\u0434",
-                "en": "Jharkhand",
-                "ar": "\u062c\u0647\u0627\u0631\u062e\u0627\u0646\u062f",
-                "de": "Jharkhand",
-                "es": "Jharkhand",
-                "fr": "Jharkhand",
-                "it": "Jharkhand",
-                "zh": "\u8d3e\u574e\u5fb7\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 23.6913486,
-            "lng": 85.27224720000004
+        {
+            "code": "IN-JH",
+            "names": "Jharkhand",
+            "type": "State"
         },
-        "JK": {
-            "name": "Jammu and Kashmir",
-            "code": "JK",
-            "names": {
-                "geonames": "Kashmir",
-                "ru": "\u0414\u0436\u0430\u043c\u043c\u0443 \u0438 \u041a\u0430\u0448\u043c\u0438\u0440",
-                "en": "Jammu and Kashmir",
-                "ar": "\u062c\u0627\u0645\u0648 \u0648\u0643\u0634\u0645\u064a\u0631",
-                "de": "Jammu und Kashmir",
-                "es": "Jammu y Cachemira",
-                "fr": "Jammu-et-Cachemire",
-                "it": "Jammu e Kashmir",
-                "zh": "\u67e5\u8c1f-\u514b\u4ec0\u7c73\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 33.3769366,
-            "lng": 74.31548780000003
+        {
+            "code": "IN-JK",
+            "names": "Jammu and Kashmir",
+            "type": "State"
         },
-        "KA": {
-            "name": "Karnataka",
-            "code": "KA",
-            "names": {
-                "geonames": "Karnataka",
-                "ru": "\u041a\u0430\u0440\u043d\u0430\u0442\u0430\u043a\u0430",
-                "en": "Karnataka",
-                "ar": "\u0643\u0627\u0631\u0646\u0627\u062a\u0627\u0643\u0627",
-                "de": "Karnataka",
-                "es": "Karnataka",
-                "fr": "Karnataka",
-                "it": "Karnataka",
-                "zh": "\u5361\u7eb3\u5854\u514b\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 15.3172775,
-            "lng": 75.71388839999997
+        {
+            "code": "IN-KA",
+            "names": "Karnataka",
+            "type": "State"
         },
-        "KL": {
-            "name": "Kerala",
-            "code": "KL",
-            "names": {
-                "geonames": "Kerala",
-                "ru": "\u041a\u0435\u0440\u0430\u043b\u0430",
-                "en": "Kerala",
-                "ar": "\u0643\u064a\u0631\u0644\u0627",
-                "de": "Kerala",
-                "es": "Kerala",
-                "fr": "Kerala",
-                "it": "Kerala",
-                "zh": "\u5580\u62c9\u62c9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 10.5143884,
-            "lng": 76.6412712
+        {
+            "code": "IN-KL",
+            "names": "Kerala",
+            "type": "State"
         },
-        "LD": {
-            "name": "Lakshadweep",
-            "code": "LD",
-            "names": {
-                "geonames": "Laccadives",
-                "ru": "\u041b\u0430\u043a\u0448\u0430\u0434\u0432\u0438\u043f",
-                "en": "Lakshadweep",
-                "ar": "\u0644\u0643\u0634\u062f\u064a\u0628",
-                "de": "Lakshadweep",
-                "es": "Laquedivas",
-                "fr": "Lakshadweep",
-                "it": "Laccadive",
-                "zh": "\u62c9\u514b\u6c99\u7fa4\u5cf6"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 10.3280265,
-            "lng": 72.78463349999993
+        {
+            "code": "IN-LD",
+            "names": "Lakshadweep",
+            "type": "Union territory"
         },
-        "MH": {
-            "name": "Maharashtra",
-            "code": "MH",
-            "names": {
-                "geonames": "Maharashtra",
-                "ru": "\u041c\u0430\u0445\u0430\u0440\u0430\u0448\u0442\u0440\u0430",
-                "en": "Maharashtra",
-                "ar": "\u0645\u0627\u0647\u0627\u0631\u0627\u0634\u062a\u0631\u0627",
-                "de": "Maharashtra",
-                "es": "Maharastra",
-                "fr": "Maharashtra",
-                "it": "Maharashtra",
-                "zh": "\u9a6c\u54c8\u62c9\u65bd\u7279\u62c9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 19.7514798,
-            "lng": 75.71388839999997
+        {
+            "code": "IN-MH",
+            "names": "Maharashtra",
+            "type": "State"
         },
-        "ML": {
-            "name": "Meghalaya",
-            "code": "ML",
-            "names": {
-                "geonames": "Meghalaya",
-                "ru": "\u041c\u0435\u0433\u0445\u0430\u043b\u0430\u044f",
-                "en": "Meghalaya",
-                "ar": "\u0645\u064a\u063a\u0627\u0644\u0627\u064a\u0627",
-                "de": "Meghalaya",
-                "es": "Megalaya",
-                "fr": "Meghalaya",
-                "it": "Meghalaya",
-                "zh": "\u6885\u52a0\u62c9\u4e9a\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 25.4670308,
-            "lng": 91.36621600000001
+        {
+            "code": "IN-ML",
+            "names": "Meghalaya",
+            "type": "State"
         },
-        "MN": {
-            "name": "Manipur",
-            "code": "MN",
-            "names": {
-                "geonames": "Manipur",
-                "ru": "\u041c\u0430\u043d\u0438\u043f\u0443\u0440",
-                "en": "Manipur",
-                "ar": "\u0645\u0627\u0646\u064a\u0628\u0648\u0631",
-                "de": "Manipur",
-                "es": "Manipur",
-                "fr": "Manipur",
-                "it": "Manipur",
-                "zh": "\u66fc\u5c3c\u666e\u5c14\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 24.6637173,
-            "lng": 93.90626880000002
+        {
+            "code": "IN-MN",
+            "names": "Manipur",
+            "type": "State"
         },
-        "MP": {
-            "name": "Madhya Pradesh",
-            "code": "MP",
-            "names": {
-                "geonames": "Madhya Pradesh",
-                "ru": "\u041c\u0430\u0434\u0445\u044c\u044f-\u041f\u0440\u0430\u0434\u0435\u0448",
-                "en": "Madhya Pradesh",
-                "ar": "\u0645\u0627\u062f\u064a\u0627 \u0628\u0631\u0627\u062f\u064a\u0634",
-                "de": "Madhya Pradesh",
-                "es": "Madhya Pradesh",
-                "fr": "Madhya Pradesh",
-                "it": "Madhya Pradesh",
-                "zh": "\u4e2d\u592e\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 22.9734229,
-            "lng": 78.65689420000001
+        {
+            "code": "IN-MP",
+            "names": "Madhya Pradesh",
+            "type": "State"
         },
-        "MZ": {
-            "name": "Mizoram",
-            "code": "MZ",
-            "names": {
-                "geonames": "Mizoram",
-                "ru": "\u041c\u0438\u0437\u043e\u0440\u0430\u043c",
-                "en": "Mizoram",
-                "ar": "\u0645\u064a\u0632\u0648\u0631\u0627\u0645",
-                "de": "Mizoram",
-                "es": "Mizor\u00e1n",
-                "fr": "Mizoram",
-                "it": "Mizoram",
-                "zh": "\u7c73\u4f50\u62c9\u59c6\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 23.164543,
-            "lng": 92.93757389999996
+        {
+            "code": "IN-MZ",
+            "names": "Mizoram",
+            "type": "State"
         },
-        "NL": {
-            "name": "Nagaland",
-            "code": "NL",
-            "names": {
-                "geonames": "Nagaland",
-                "ru": "\u041d\u0430\u0433\u0430\u043b\u0435\u043d\u0434",
-                "en": "Nagaland",
-                "ar": "\u0646\u0627\u062c\u0627\u0644\u0627\u0646\u062f",
-                "de": "Nagaland",
-                "es": "Nagaland",
-                "fr": "Nagaland",
-                "it": "Nagaland",
-                "zh": "\u90a3\u52a0\u5170\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 26.1584354,
-            "lng": 94.56244259999994
+        {
+            "code": "IN-NL",
+            "names": "Nagaland",
+            "type": "State"
         },
-        "OR": {
-            "name": "Odisha",
-            "code": "OR",
-            "names": {
-                "geonames": "Odisha",
-                "ru": "\u041e\u0440\u0438\u0441\u0441\u0430",
-                "en": "Odisha",
-                "ar": "\u0623\u0648\u062f\u064a\u0634\u0627",
-                "de": "Odisha",
-                "es": "Orissa",
-                "fr": "Odisha",
-                "it": "Orissa",
-                "zh": "\u5965\u91cc\u8428\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 18.8892857,
-            "lng": 84.17549439999993
+        {
+            "code": "IN-OR",
+            "names": "Odisha",
+            "type": "State"
         },
-        "PB": {
-            "name": "Punjab, India",
-            "code": "PB",
-            "names": {
-                "geonames": "Punjab",
-                "ru": "\u041f\u0435\u043d\u0434\u0436\u0430\u0431",
-                "en": "Punjab",
-                "ar": "\u0628\u0646\u062c\u0627\u0628",
-                "de": "Punjab",
-                "es": "Punyab",
-                "fr": "Pendjab",
-                "it": "Punjab",
-                "zh": "\u65c1\u906e\u666e\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 31.6634842,
-            "lng": 75.54586569999992
+        {
+            "code": "IN-PB",
+            "names": "Punjab",
+            "type": "State"
         },
-        "PY": {
-            "name": "Puducherry",
-            "code": "PY",
-            "names": {
-                "geonames": "Puducherry",
-                "ru": "\u041f\u0443\u0434\u0443\u0447\u0435\u0440\u0440\u0438",
-                "en": "Puducherry",
-                "ar": "\u0628\u0648\u0646\u062f\u064a\u062a\u0634\u064a\u0631\u064a",
-                "de": "Puducherry",
-                "es": "Puducherry",
-                "fr": "Territoire de Pondich\u00e9ry",
-                "it": "Pondicherry",
-                "zh": "\u672c\u5730\u6cbb\u91cc"
-            },
-            "division": "union territory",
-            "parent": "IN",
-            "lat": 11.9309645,
-            "lng": 79.78518180000003
+        {
+            "code": "IN-PY",
+            "names": "Puducherry",
+            "type": "Union territory"
         },
-        "RJ": {
-            "name": "Rajasthan",
-            "code": "RJ",
-            "names": {
-                "geonames": "Rajasthan",
-                "ru": "\u0420\u0430\u0434\u0436\u0430\u0441\u0442\u0445\u0430\u043d",
-                "en": "Rajasthan",
-                "ar": "\u0631\u0627\u062c\u0627\u0633\u062a\u0627\u0646",
-                "de": "Rajasthan",
-                "es": "Rajast\u00e1n",
-                "fr": "Rajasthan",
-                "it": "Rajasthan",
-                "zh": "\u62c9\u8d3e\u65af\u5766\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 27.0238036,
-            "lng": 74.21793260000004
+        {
+            "code": "IN-RJ",
+            "names": "Rajasthan",
+            "type": "State"
         },
-        "SK": {
-            "name": "Sikkim",
-            "code": "SK",
-            "names": {
-                "geonames": "Sikkim",
-                "ru": "\u0421\u0438\u043a\u043a\u0438\u043c",
-                "en": "Sikkim",
-                "ar": "\u0633\u064a\u0643\u064a\u0645",
-                "de": "Sikkim",
-                "es": "Sikkim",
-                "fr": "Sikkim",
-                "it": "Sikkim",
-                "zh": "\u9521\u91d1"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 27.7306273,
-            "lng": 88.63378399999999
+        {
+            "code": "IN-SK",
+            "names": "Sikkim",
+            "type": "State"
         },
-        "TG": {
-            "name": "Telangana",
-            "code": "TG",
-            "names": {
-                "geonames": "Telangana",
-                "en": "Telangana"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "IN-TG",
+            "names": "Telangana",
+            "type": "State"
         },
-        "TN": {
-            "name": "Tamil Nadu",
-            "code": "TN",
-            "names": {
-                "geonames": "Tamil Nadu",
-                "ru": "\u0422\u0430\u043c\u0438\u043b\u043d\u0430\u0434",
-                "en": "Tamil Nadu",
-                "ar": "\u062a\u0627\u0645\u0644 \u0646\u0627\u062f\u0648",
-                "de": "Tamil Nadu",
-                "es": "Tamil Nadu",
-                "fr": "Tamil Nadu",
-                "it": "Tamil Nadu",
-                "zh": "\u6cf0\u7c73\u5c14\u7eb3\u5fb7\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 11.1271225,
-            "lng": 78.65689420000001
+        {
+            "code": "IN-TN",
+            "names": "Tamil Nadu",
+            "type": "State"
         },
-        "TR": {
-            "name": "Tripura",
-            "code": "TR",
-            "names": {
-                "geonames": "Tripura",
-                "ru": "\u0422\u0440\u0438\u043f\u0443\u0440\u0430",
-                "en": "Tripura",
-                "ar": "\u062a\u0631\u0627\u064a\u0628\u0648\u0631\u0627",
-                "de": "Tripura",
-                "es": "Tripura",
-                "fr": "Tripura",
-                "it": "Tripura",
-                "zh": "\u7279\u91cc\u666e\u62c9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 23.9408482,
-            "lng": 91.9881527
+        {
+            "code": "IN-TR",
+            "names": "Tripura",
+            "type": "State"
         },
-        "UP": {
-            "name": "Uttar Pradesh",
-            "code": "UP",
-            "names": {
-                "geonames": "Uttar Pradesh",
-                "ru": "\u0423\u0442\u0442\u0430\u0440-\u041f\u0440\u0430\u0434\u0435\u0448",
-                "en": "Uttar Pradesh",
-                "ar": "\u0623\u062a\u0631 \u0628\u0631\u062f\u064a\u0634",
-                "de": "Uttar Pradesh",
-                "es": "Uttar Pradesh",
-                "fr": "Uttar Pradesh",
-                "it": "Uttar Pradesh",
-                "zh": "\u5317\u65b9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 27.7779781,
-            "lng": 80.35124819999999
+        {
+            "code": "IN-UP",
+            "names": "Uttar Pradesh",
+            "type": "State"
         },
-        "UT": {
-            "name": "Uttarakhand",
-            "code": "UT",
-            "names": {
-                "geonames": "Uttarakhand",
-                "en": "Uttarakhand"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 30.066753,
-            "lng": 79.01929970000003
+        {
+            "code": "IN-UT",
+            "names": "Uttarakhand",
+            "type": "State"
         },
-        "WB": {
-            "name": "West Bengal",
-            "code": "WB",
-            "names": {
-                "geonames": "West Bengal",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0411\u0435\u043d\u0433\u0430\u043b\u0438\u044f",
-                "en": "West Bengal",
-                "ar": "\u0628\u0646\u063a\u0627\u0644 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Westbengalen",
-                "es": "Bengala Occidental",
-                "fr": "Bengale-Occidental",
-                "it": "Bengala occidentale",
-                "zh": "\u897f\u5b5f\u52a0\u62c9\u90a6"
-            },
-            "division": "state",
-            "parent": "IN",
-            "lat": 22.9867569,
-            "lng": 87.85497550000002
+        {
+            "code": "IN-WB",
+            "names": "West Bengal",
+            "type": "State"
         }
-    }
+    ]
 }

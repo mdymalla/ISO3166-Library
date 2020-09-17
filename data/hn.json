@@ -1,348 +1,224 @@
 {
     "alpha-2": "HN",
     "alpha-3": "HND",
-    "numeric": 340,
-    "capital": "Tegucigalpa",
-    "currency": "HNL",
-    "languages": [
-        "es"
-    ],
-    "flag-icon": "\ud83c\udded\ud83c\uddf3",
+    "numeric": "340",
     "names": {
-        "geonames": "Honduras",
         "en": "Honduras",
-        "ar": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
-        "de": "Honduras",
-        "es": "Honduras",
         "fr": "Honduras",
-        "it": "Honduras",
-        "ru": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "ur": "\u06c1\u0648\u0646\u0688\u0627\u0631\u0648\u0633",
+        "rn": "Hondurasi",
+        "lv": "Hondurasa",
+        "hy": "\u0540\u0578\u0576\u0564\u0578\u0582\u0580\u0561\u057d",
+        "sq": "Honduras",
+        "jv": "Honduras",
+        "or": "\u0b39\u0b4b\u0b23\u0b4d\u0b21\u0b41\u0b30\u0b3e\u0b38\u0b4d\u200c",
+        "mg": "Hondiorasy",
+        "no": "Honduras",
         "zh": "\u6d2a\u90fd\u62c9\u65af",
-        "he": "\u05d4\u05d5\u05e0\u05d3\u05d5\u05e8\u05e1",
-        "hi": "\u0939\u094c\u0923\u094d\u0921\u0941\u0930\u0938",
+        "tr": "Honduras",
+        "bs": "Honduras",
         "ja": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9",
-        "pt": "Honduras"
+        "th": "\u0e2e\u0e2d\u0e19\u0e14\u0e39\u0e23\u0e31\u0e2a",
+        "he": "\u05d4\u05d5\u05e0\u05d3\u05d5\u05e8\u05e1",
+        "fa": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+        "kk": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "mo": "Honduras",
+        "ff": "Onnduraas",
+        "ca": "Hondures",
+        "ar": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+        "eu": "Honduras",
+        "ps": "\u0647\u0627\u0646\u0689\u0648\u0631\u0627\u0633",
+        "kn": "\u0cb9\u0cca\u0c82\u0ca1\u0cc1\u0cb0\u0cbe\u0cb8\u0ccd",
+        "si": "\u0dc4\u0ddc\u0db1\u0dca\u0da9\u0dd4\u0dbb\u0dcf\u0dc3\u0dca",
+        "km": "\u17a0\u17bb\u1784\u178c\u17bc\u179a\u17c9\u17b6\u179f",
+        "ne": "\u0939\u0928\u094d\u0921\u0941\u0930\u093e\u0938",
+        "fi": "Honduras",
+        "hi": "\u0939\u094b\u0902\u0921\u0942\u0930\u093e\u0938",
+        "rm": "Honduras",
+        "vi": "Honduras",
+        "gl": "Honduras",
+        "ig": "Honduras",
+        "mr": "\u0939\u094b\u0902\u0921\u0941\u0930\u093e\u0938",
+        "es": "Honduras",
+        "be": "\u0413\u0430\u043d\u0434\u0443\u0440\u0430\u0441",
+        "lg": "Hundurasi",
+        "az": "\u04ba\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "ce": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "mk": "\u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "zu": "i-Honduras",
+        "it": "Honduras",
+        "ko": "\uc628\ub450\ub77c\uc2a4",
+        "lo": "\u0eae\u0ead\u0e99\u0e94\u0eb9\u0ea3\u0eb1\u0eaa",
+        "lt": "Hond\u016bras",
+        "dz": "\u0f67\u0f71\u0f53\u0f0b\u0f4c\u0f74\u0f0b\u0f62\u0f71\u0f66\u0f84",
+        "ln": "Onduras\u025b",
+        "hr": "Honduras",
+        "ks": "\u06c1\u0627\u0646\u0688\u0648\u0657\u0631\u0650\u0633",
+        "sv": "Honduras",
+        "pl": "Honduras",
+        "nb": "Honduras",
+        "sh": "Honduras",
+        "lu": "Ondurase",
+        "nl": "Honduras",
+        "ky": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "bn": "\u09b9\u09a8\u09cd\u09a1\u09c1\u09b0\u09be\u09b8",
+        "sd": "\u0647\u0646\u068a\u0648\u0631\u0633",
+        "gd": "Hond\u00f9ras",
+        "cs": "Honduras",
+        "tk": "Gonduras",
+        "eo": "Honduro",
+        "mt": "il-Honduras",
+        "sr": "Honduras",
+        "wo": "Onduraas",
+        "el": "\u039f\u03bd\u03b4\u03bf\u03cd\u03c1\u03b1",
+        "sn": "Honduras",
+        "pt": "Honduras",
+        "yi": "\u05d4\u05d0\u05e0\u05d3\u05d5\u05e8\u05d0\u05b7\u05e1",
+        "is": "Hond\u00faras",
+        "ta": "\u0bb9\u0bcb\u0ba3\u0bcd\u0b9f\u0bc2\u0bb0\u0bbe\u0bb8\u0bcd",
+        "br": "Honduras",
+        "hu": "Honduras",
+        "et": "Honduras",
+        "ku": "Hond\u00fbras",
+        "sk": "Honduras",
+        "sw": "Honduras",
+        "te": "\u0c39\u0c4b\u0c02\u0c21\u0c41\u0c30\u0c3e\u0c38\u0c4d",
+        "ro": "Honduras",
+        "ki": "Hondurasi",
+        "ak": "H\u0254nduras",
+        "tg": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "ml": "\u0d39\u0d4b\u0d23\u0d4d\u0d1f\u0d41\u0d31\u0d3e\u0d38\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Hondurasi",
+        "de": "Honduras",
+        "as": "\u09b9\u09a8\u09cd\u09a6\u09c1\u09f0\u09be\u099b",
+        "am": "\u1206\u1295\u12f1\u122b\u1235",
+        "se": "Honduras",
+        "ia": "Honduras",
+        "ti": "\u1206\u1295\u12f1\u122b\u1235",
+        "ru": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "ga": "Hond\u00faras",
+        "bg": "\u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "my": "\u101f\u103d\u1014\u103a\u1012\u1030\u1038\u101b\u1015\u103a\u1005\u103a",
+        "fy": "Honduras",
+        "bm": "H\u0254ndirasi",
+        "gu": "\u0ab9\u0acb\u0aa8\u0acd\u0aa1\u0ac1\u0ab0\u0ab8",
+        "uz": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "cy": "Honduras",
+        "ug": "\u06be\u0648\u0646\u062f\u06c7\u0631\u0627\u0633",
+        "nn": "Honduras",
+        "uk": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "qu": "Honduras",
+        "tl": "Honduras",
+        "ms": "Honduras",
+        "so": "Honduras",
+        "da": "Honduras",
+        "tt": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "af": "Honduras",
+        "ha": "Honduras",
+        "iw": "\u05d4\u05d5\u05e0\u05d3\u05d5\u05e8\u05e1",
+        "ee": "Hondurasdu",
+        "in": "Honduras",
+        "to": "Honitulasi",
+        "sl": "Honduras",
+        "sg": "Hondur\u00e4si",
+        "lb": "Honduras",
+        "fo": "Honduras",
+        "mn": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "id": "Honduras",
+        "pa": "\u0a39\u0a4b\u0a02\u0a21\u0a41\u0a30\u0a38",
+        "ka": "\u10f0\u10dd\u10dc\u10d3\u10e3\u10e0\u10d0\u10e1\u10d8",
+        "nd": "Honduras"
     },
-    "ISO3166-2": {
-        "AT": {
-            "name": "Atl\u00e1ntida Department",
-            "code": "AT",
-            "names": {
-                "geonames": "Atlantida",
-                "ru": "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0434\u0430",
-                "en": "Atl\u00e1ntida Department",
-                "ar": "\u0623\u062a\u0644\u0627\u0646\u062a\u064a\u062f\u0627",
-                "de": "Departamento Atl\u00e1ntida",
-                "es": "Departamento de Atl\u00e1ntida",
-                "fr": "D\u00e9partement d'Atl\u00e1ntida",
-                "it": "Dipartimento di Atl\u00e1ntida",
-                "zh": "\u963f\u7279\u862d\u8482\u9054\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 15.6696283,
-            "lng": -87.1422895
+    "3166-2": [
+        {
+            "code": "HN-AT",
+            "names": "Atl\u00e1ntida",
+            "type": "Department"
         },
-        "CH": {
-            "name": "Choluteca Department",
-            "code": "CH",
-            "names": {
-                "geonames": "Choluteca",
-                "ru": "\u0427\u043e\u043b\u0443\u0442\u0435\u043a\u0430",
-                "en": "Choluteca Department",
-                "de": "Departamento Choluteca",
-                "es": "Departamento de Choluteca",
-                "fr": "D\u00e9partement de Choluteca",
-                "it": "Dipartimento di Choluteca",
-                "zh": "\u55ac\u76e7\u7279\u5361\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 13.3033901,
-            "lng": -87.18817030000002
+        {
+            "code": "HN-CH",
+            "names": "Choluteca",
+            "type": "Department"
         },
-        "CL": {
-            "name": "Col\u00f3n Department",
-            "code": "CL",
-            "names": {
-                "geonames": "Colon",
-                "ru": "\u041a\u043e\u043b\u043e\u043d",
-                "en": "Col\u00f3n Department",
-                "de": "Departamento Col\u00f3n",
-                "es": "Departamento de Col\u00f3n",
-                "fr": "D\u00e9partement de Col\u00f3n",
-                "it": "Dipartimento di Col\u00f3n",
-                "zh": "\u79d1\u9686\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 15.6425965,
-            "lng": -85.52002400000003
+        {
+            "code": "HN-CL",
+            "names": "Col\u00f3n",
+            "type": "Department"
         },
-        "CM": {
-            "name": "Comayagua Department",
-            "code": "CM",
-            "names": {
-                "geonames": "Comayagua",
-                "ru": "\u041a\u043e\u043c\u0430\u044f\u0433\u0443\u0430",
-                "en": "Comayagua Department",
-                "de": "Departamento Comayagua",
-                "es": "Comayagua",
-                "fr": "D\u00e9partement de Comayagua",
-                "it": "Dipartimento di Comayagua",
-                "zh": "\u79d1\u99ac\u4e9e\u74dc\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.45423,
-            "lng": -87.64304400000003
+        {
+            "code": "HN-CM",
+            "names": "Comayagua",
+            "type": "Department"
         },
-        "CP": {
-            "name": "Cop\u00e1n Department",
-            "code": "CP",
-            "names": {
-                "geonames": "Copan",
-                "ru": "\u041a\u043e\u043f\u0430\u043d",
-                "en": "Cop\u00e1n Department",
-                "de": "Departamento Cop\u00e1n",
-                "es": "Departamento de Cop\u00e1n",
-                "fr": "D\u00e9partement de Cop\u00e1n",
-                "it": "Dipartimento di Cop\u00e1n",
-                "zh": "\u79d1\u6f58\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 36.8975794,
-            "lng": -95.92609270000003
+        {
+            "code": "HN-CP",
+            "names": "Cop\u00e1n",
+            "type": "Department"
         },
-        "CR": {
-            "name": "Cort\u00e9s Department",
-            "code": "CR",
-            "names": {
-                "geonames": "Cortes",
-                "ru": "\u041a\u043e\u0440\u0442\u0435\u0441",
-                "en": "Cort\u00e9s Department",
-                "de": "Departamento Cort\u00e9s",
-                "es": "Cort\u00e9s",
-                "fr": "D\u00e9partement de Cort\u00e9s",
-                "it": "Dipartimento di Cort\u00e9s",
-                "zh": "\u79d1\u723e\u7279\u65af\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 15.4959565,
-            "lng": -88.009119
+        {
+            "code": "HN-CR",
+            "names": "Cort\u00e9s",
+            "type": "Department"
         },
-        "EP": {
-            "name": "El Para\u00edso Department",
-            "code": "EP",
-            "names": {
-                "geonames": "El Paraiso",
-                "ru": "\u042d\u043b\u044c-\u041f\u0430\u0440\u0430\u0438\u0441\u043e",
-                "en": "El Para\u00edso Department",
-                "de": "Departamento El Para\u00edso",
-                "es": "El Para\u00edso",
-                "fr": "D\u00e9partement d'El Para\u00edso",
-                "it": "Dipartimento di El Para\u00edso",
-                "zh": "\u57c3\u723e\u5e15\u62c9\u4f0a\u7d22\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 13.8643737,
-            "lng": -86.5543533
+        {
+            "code": "HN-EP",
+            "names": "El Para\u00edso",
+            "type": "Department"
         },
-        "FM": {
-            "name": "Francisco Moraz\u00e1n Department",
-            "code": "FM",
-            "names": {
-                "geonames": "Francisco Morazan",
-                "ru": "\u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u043e \u041c\u043e\u0440\u0430\u0441\u0430\u043d",
-                "en": "Francisco Moraz\u00e1n Department",
-                "de": "Departamento Francisco Moraz\u00e1n",
-                "es": "Francisco Moraz\u00e1n",
-                "fr": "D\u00e9partement de Francisco Moraz\u00e1n",
-                "it": "Dipartimento di Francisco Moraz\u00e1n",
-                "zh": "\u5f17\u6717\u897f\u65af\u79d1-\u83ab\u62c9\u6851\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.45411,
-            "lng": -87.06242609999998
+        {
+            "code": "HN-FM",
+            "names": "Francisco Moraz\u00e1n",
+            "type": "Department"
         },
-        "GD": {
-            "name": "Gracias a Dios Department",
-            "code": "GD",
-            "names": {
-                "geonames": "Gracias a Dios",
-                "ru": "\u0413\u0440\u0430\u0441\u044c\u044f\u0441-\u0430-\u0414\u044c\u043e\u0441",
-                "en": "Gracias a Dios Department",
-                "de": "Departamento Gracias a Dios",
-                "es": "Gracias a Dios",
-                "fr": "D\u00e9partement de Gracias a Dios",
-                "it": "Dipartimento di Gracias a Dios",
-                "zh": "\u683c\u62c9\u897f\u4e9a\u65af-\u963f\u8fea\u5965\u65af\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": null,
-            "lng": null
+        {
+            "code": "HN-GD",
+            "names": "Gracias a Dios",
+            "type": "Department"
         },
-        "IB": {
-            "name": "Bay Islands Department",
-            "code": "IB",
-            "names": {
-                "geonames": "Bay Islands",
-                "ru": "\u0418\u0441\u043b\u0430\u0441-\u0434\u0435-\u043b\u0430-\u0411\u0430\u0438\u044f",
-                "en": "Bay Islands Department",
-                "de": "Islas de la Bah\u00eda",
-                "es": "Islas de la Bah\u00eda",
-                "fr": "D\u00e9partement des Islas de la Bah\u00eda",
-                "it": "Dipartimento di Islas de la Bah\u00eda",
-                "zh": "\u6d77\u7063\u7fa4\u5cf6\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": null,
-            "lng": null
+        {
+            "code": "HN-IB",
+            "names": "Islas de la Bah\u00eda",
+            "type": "Department"
         },
-        "IN": {
-            "name": "Intibuc\u00e1 Department",
-            "code": "IN",
-            "names": {
-                "geonames": "Intibuca",
-                "ru": "\u0418\u043d\u0442\u0438\u0431\u0443\u043a\u0430",
-                "en": "Intibuc\u00e1 Department",
-                "de": "Departamento Intibuc\u00e1",
-                "es": "Intibuc\u00e1",
-                "fr": "D\u00e9partement d'Intibuc\u00e1",
-                "it": "Dipartimento di Intibuc\u00e1",
-                "zh": "\u56e0\u8482\u5e03\u5361\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.3246933,
-            "lng": -88.18633160000002
+        {
+            "code": "HN-IN",
+            "names": "Intibuc\u00e1",
+            "type": "Department"
         },
-        "LE": {
-            "name": "Lempira Department",
-            "code": "LE",
-            "names": {
-                "geonames": "Lempira",
-                "ru": "\u041b\u0435\u043c\u043f\u0438\u0440\u0430",
-                "en": "Lempira Department",
-                "de": "Departamento Lempira",
-                "es": "Lempira",
-                "fr": "D\u00e9partement de Lempira",
-                "it": "Dipartimento di Lempira",
-                "zh": "\u502b\u76ae\u62c9\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.1887698,
-            "lng": -88.556531
+        {
+            "code": "HN-LE",
+            "names": "Lempira",
+            "type": "Department"
         },
-        "LP": {
-            "name": "La Paz",
-            "code": "LP",
-            "names": {
-                "geonames": "La Paz",
-                "en": "La Paz"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.3093736,
-            "lng": -87.71353670000002
+        {
+            "code": "HN-LP",
+            "names": "La Paz",
+            "type": "Department"
         },
-        "OC": {
-            "name": "Ocotepeque Department",
-            "code": "OC",
-            "names": {
-                "geonames": "Ocotepeque",
-                "ru": "\u041e\u043a\u043e\u0442\u0435\u043f\u0435\u043a\u0435",
-                "en": "Ocotepeque Department",
-                "de": "Departamento Ocotepeque",
-                "es": "Ocotepeque",
-                "fr": "D\u00e9partement d'Ocotepeque",
-                "it": "Dipartimento di Ocotepeque",
-                "zh": "\u5965\u79d1\u7279\u4f69\u514b\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.428403,
-            "lng": -89.16880430000003
+        {
+            "code": "HN-OC",
+            "names": "Ocotepeque",
+            "type": "Department"
         },
-        "OL": {
-            "name": "Olancho Department",
-            "code": "OL",
-            "names": {
-                "geonames": "Olancho",
-                "ru": "\u041e\u043b\u0430\u043d\u0447\u043e",
-                "en": "Olancho Department",
-                "de": "Departamento Olancho",
-                "es": "Olancho",
-                "fr": "D\u00e9partement d'Olancho",
-                "it": "Dipartimento di Olancho",
-                "zh": "\u5967\u862d\u55ac\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.8067406,
-            "lng": -85.76666449999999
+        {
+            "code": "HN-OL",
+            "names": "Olancho",
+            "type": "Department"
         },
-        "SB": {
-            "name": "Santa B\u00e1rbara",
-            "code": "SB",
-            "names": {
-                "geonames": "Santa Barbara",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430",
-                "en": "Santa B\u00e1rbara",
-                "de": "Departamento Santa B\u00e1rbara",
-                "es": "Santa B\u00e1rbara",
-                "fr": "D\u00e9partement de Santa B\u00e1rbara",
-                "it": "Dipartimento di Santa B\u00e1rbara",
-                "zh": "\u8056\u5df4\u5df4\u62c9\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 14.928525,
-            "lng": -88.23111779999999
+        {
+            "code": "HN-SB",
+            "names": "Santa B\u00e1rbara",
+            "type": "Department"
         },
-        "VA": {
-            "name": "Valle Department",
-            "code": "VA",
-            "names": {
-                "geonames": "Valle",
-                "ru": "\u0412\u0430\u043b\u044c\u0435",
-                "en": "Valle Department",
-                "de": "Departamento Valle",
-                "es": "Valle",
-                "fr": "D\u00e9partement de Valle",
-                "it": "Dipartimento di Valle",
-                "zh": "\u5c71\u8c37\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 13.5782936,
-            "lng": -87.57912870000001
+        {
+            "code": "HN-VA",
+            "names": "Valle",
+            "type": "Department"
         },
-        "YO": {
-            "name": "Yoro Department",
-            "code": "YO",
-            "names": {
-                "geonames": "Yoro",
-                "ru": "\u0419\u043e\u0440\u043e",
-                "en": "Yoro Department",
-                "ar": "\u064a\u0648\u0631\u0648",
-                "de": "Departamento Yoro",
-                "es": "Yoro",
-                "fr": "D\u00e9partement de Yoro",
-                "it": "Dipartimento di Yoro",
-                "zh": "\u7d04\u7f85\u7701"
-            },
-            "division": "department",
-            "parent": "HN",
-            "lat": 15.1385779,
-            "lng": -87.13080609999997
+        {
+            "code": "HN-YO",
+            "names": "Yoro",
+            "type": "Department"
         }
-    }
+    ]
 }

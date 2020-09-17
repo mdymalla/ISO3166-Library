@@ -1,204 +1,184 @@
 {
     "alpha-2": "CM",
     "alpha-3": "CMR",
-    "numeric": 120,
-    "capital": "Yaound\u00e9",
-    "currency": "XAF",
-    "languages": [
-        "en",
-        "fr"
-    ],
-    "flag-icon": "\ud83c\udde8\ud83c\uddf2",
+    "numeric": "120",
     "names": {
-        "geonames": "Cameroon",
         "en": "Cameroon",
-        "ar": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
-        "de": "Kamerun",
-        "es": "Camer\u00fan",
         "fr": "Cameroun",
-        "it": "Camerun",
-        "ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "ur": "\u06a9\u06cc\u0645\u0631\u0648\u0646",
+        "rn": "Kameruni",
+        "lv": "Kamer\u016bna",
+        "hy": "\u053f\u0561\u0574\u0565\u0580\u0578\u0582\u0576",
+        "sq": "Kamerun",
+        "jv": "Kamerun",
+        "or": "\u0b15\u0b3e\u0b2e\u0b47\u0b30\u0b41\u0b28\u0b4d",
+        "mg": "Kamerona",
+        "no": "Kamerun",
         "zh": "\u5580\u9ea6\u9686",
-        "he": "\u05e7\u05de\u05e8\u05d5\u05df",
-        "hi": "\u0915\u0948\u092e\u0930\u0941\u0928",
+        "tr": "Kamerun",
+        "bs": "Kamerun",
         "ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
-        "pt": "Camar\u00f5es"
+        "th": "\u0e41\u0e04\u0e40\u0e21\u0e2d\u0e23\u0e39\u0e19",
+        "he": "\u05e7\u05de\u05e8\u05d5\u05df",
+        "kk": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "mo": "Camerun",
+        "ff": "\ud83a\udd11\ud83a\udd22\ud83a\udd25\ud83a\udd22\ud83a\udd2a\ud83a\udd35\ud83a\udd45\ud83a\udd32",
+        "ca": "Camerun",
+        "ar": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
+        "eu": "Kamerun",
+        "ps": "\u06a9\u0627\u0645\u0631\u0648\u0646",
+        "kn": "\u0c95\u0ccd\u0caf\u0cbe\u0cae\u0cb0\u0cc2\u0ca8\u0ccd",
+        "si": "\u0d9a\u0dd0\u0db8\u0dbb\u0dd6\u0db1\u0dca",
+        "km": "\u1780\u17b6\u1798\u17c1\u179a\u17bc\u1793",
+        "ne": "\u0915\u094d\u092f\u093e\u092e\u0930\u0942\u0928",
+        "fi": "Kamerun",
+        "hi": "\u0915\u0948\u092e\u0930\u0942\u0928",
+        "rm": "Camerun",
+        "vi": "Cameroon",
+        "gl": "Camer\u00fan",
+        "ig": "Cameroon",
+        "mr": "\u0915\u0945\u092e\u0947\u0930\u0942\u0928",
+        "es": "Camer\u00fan",
+        "be": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "lg": "Kameruuni",
+        "az": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "ce": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "mk": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "zu": "i-Cameroon",
+        "it": "Camerun",
+        "ko": "\uce74\uba54\ub8ec",
+        "lo": "\u0e84\u0eb2\u0ec0\u0ea1\u0ea3\u0eb9\u0e99",
+        "lt": "Kamer\u016bnas",
+        "dz": "\u0f40\u0f7a\u0f0b\u0f58\u0f0b\u0f62\u0f74\u0f53",
+        "ln": "Kam\u025brune",
+        "hr": "Kamerun",
+        "ks": "\u06a9\u06cc\u0645\u0650\u0631\u0648\u0657\u0646",
+        "sv": "Kamerun",
+        "pl": "Kamerun",
+        "nb": "Kamerun",
+        "sh": "Kamerun",
+        "lu": "Kamerune",
+        "nl": "Kameroen",
+        "ky": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "bn": "\u0995\u09cd\u09af\u09be\u09ae\u09c7\u09b0\u09c1\u09a8",
+        "sd": "\u06aa\u064a\u0645\u0631\u0648\u0646",
+        "fa": "\u06a9\u0627\u0645\u0631\u0648\u0646",
+        "gd": "Camarun",
+        "cs": "Kamerun",
+        "tk": "Kamerun",
+        "eo": "Kameruno",
+        "mt": "il-Kamerun",
+        "sr": "Kamerun",
+        "wo": "Kamerun",
+        "el": "\u039a\u03b1\u03bc\u03b5\u03c1\u03bf\u03cd\u03bd",
+        "sn": "Kameruni",
+        "pt": "Camar\u00f5es",
+        "yi": "\u05e7\u05d0\u05b7\u05de\u05e2\u05e8\u05d5\u05df",
+        "is": "Kamer\u00fan",
+        "ta": "\u0b95\u0bc7\u0bae\u0bb0\u0bc2\u0ba9\u0bcd",
+        "br": "Kameroun",
+        "hu": "Kamerun",
+        "et": "Kamerun",
+        "ku": "Kamer\u00fbn",
+        "sk": "Kamerun",
+        "sw": "Kameruni",
+        "te": "\u0c15\u0c3e\u0c2e\u0c46\u0c30\u0c42\u0c28\u0c4d",
+        "ro": "Camerun",
+        "ki": "Kameruni",
+        "ak": "Kam\u025brun",
+        "tg": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "ml": "\u0d15\u0d3e\u0d2e\u0d31\u0d42\u0d7a",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Kamer\u00fa\u00fan\u00ec",
+        "de": "Kamerun",
+        "as": "\u0995\u09c7\u09ae\u09c7\u09f0\u09c1\u09a3",
+        "am": "\u12ab\u121c\u1229\u1295",
+        "se": "Kamerun",
+        "ia": "Camerun",
+        "ti": "\u12ab\u121c\u1229\u1295",
+        "ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "ga": "Camar\u00fan",
+        "bg": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "my": "\u1000\u1004\u103a\u1019\u101b\u103d\u1014\u103a\u1038",
+        "fy": "Kameroen",
+        "bm": "Kameruni",
+        "gu": "\u0a95\u0ac5\u0aae\u0ab0\u0ac2\u0aa8",
+        "uz": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "cy": "Camer\u0175n",
+        "ug": "\u0643\u0627\u0645\u06d0\u0631\u0648\u0646",
+        "nn": "Kamerun",
+        "uk": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "qu": "Camer\u00fan",
+        "tl": "Cameroon",
+        "ms": "Cameroon",
+        "so": "Kaameruun",
+        "da": "Cameroun",
+        "tt": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "af": "Kameroen",
+        "ha": "Kamaru",
+        "iw": "\u05e7\u05de\u05e8\u05d5\u05df",
+        "ee": "Kamerun nutome",
+        "in": "Kamerun",
+        "to": "Kameluni",
+        "sl": "Kamerun",
+        "sg": "Kamer\u00fbne",
+        "lb": "Kamerun",
+        "fo": "Kamerun",
+        "mn": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "id": "Kamerun",
+        "pa": "\u0a15\u0a48\u0a2e\u0a30\u0a42\u0a28",
+        "ka": "\u10d9\u10d0\u10db\u10d4\u10e0\u10e3\u10dc\u10d8",
+        "nd": "Khameruni"
     },
-    "ISO3166-2": {
-        "AD": {
-            "name": "Adamawa Region",
-            "code": "AD",
-            "names": {
-                "geonames": "Adamaoua",
-                "ru": "\u0410\u0434\u0430\u043c\u0430\u0432\u0430",
-                "en": "Adamawa Region",
-                "de": "Adamaoua",
-                "es": "Regi\u00f3n Adamawa",
-                "fr": "R\u00e9gion de l'Adamaoua",
-                "it": "Regione di Adamaoua",
-                "zh": "\u963f\u8fbe\u9a6c\u74e6\u533a"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "CM-AD",
+            "names": "Adamaoua",
+            "type": "Province"
         },
-        "CE": {
-            "name": "Centre",
-            "code": "CE",
-            "names": {
-                "geonames": "Centre",
-                "en": "Centre"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CM-CE",
+            "names": "Centre",
+            "type": "Province"
         },
-        "EN": {
-            "name": "Far North Region",
-            "code": "EN",
-            "names": {
-                "geonames": "Far North",
-                "ru": "\u041a\u0440\u0430\u0439\u043d\u0435\u0441\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Far North Region",
-                "de": "Extr\u00eame-Nord",
-                "es": "Regi\u00f3n del Extremo Norte",
-                "fr": "R\u00e9gion de l'Extr\u00eame-Nord",
-                "it": "Regione dell'Estremo Nord",
-                "zh": "\u6975\u5317\u5340"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 42.2511693,
-            "lng": 3.1819865999999593
+        {
+            "code": "CM-EN",
+            "names": "Far North",
+            "type": "Province"
         },
-        "ES": {
-            "name": "East Region",
-            "code": "ES",
-            "names": {
-                "geonames": "East",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "East Region",
-                "de": "Est",
-                "es": "Regi\u00f3n del Este",
-                "fr": "R\u00e9gion de l'Est",
-                "it": "Regione dell'Est",
-                "zh": "\u4e1c\u90e8\u533a"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 39.2795607,
-            "lng": -3.0977020000000266
+        {
+            "code": "CM-ES",
+            "names": "East",
+            "type": "Province"
         },
-        "LT": {
-            "name": "Littoral Region",
-            "code": "LT",
-            "names": {
-                "geonames": "Littoral",
-                "ru": "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "de": "Littoral",
-                "en": "Littoral Region",
-                "es": "Regi\u00f3n del Litoral",
-                "fr": "R\u00e9gion du Littoral",
-                "it": "Regione del Litorale",
-                "zh": "\u6ff1\u6d77\u5340"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CM-LT",
+            "names": "Littoral",
+            "type": "Province"
         },
-        "NO": {
-            "name": "North Region, Cameroon",
-            "code": "NO",
-            "names": {
-                "geonames": "North",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "North Region",
-                "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629\u060c \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
-                "de": "Nord",
-                "es": "Regi\u00f3n del Norte",
-                "fr": "R\u00e9gion du Nord",
-                "it": "Regione del Nord",
-                "zh": "\u5317\u90e8\u5340"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 8.5809013,
-            "lng": 13.914399000000003
+        {
+            "code": "CM-NO",
+            "names": "North",
+            "type": "Province"
         },
-        "NW": {
-            "name": "Northwest Region",
-            "code": "NW",
-            "names": {
-                "geonames": "North-West",
-                "en": "Northwest Region",
-                "de": "Nord-Ouest",
-                "es": "Regi\u00f3n del Noroeste",
-                "fr": "R\u00e9gion du Nord-Ouest",
-                "it": "Regione del Nordovest",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "zh": "\u897f\u5317\u5340"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 7.369722,
-            "lng": 12.354722000000038
+        {
+            "code": "CM-NW",
+            "names": "North-West (Cameroon)",
+            "type": "Province"
         },
-        "OU": {
-            "name": "West Region",
-            "code": "OU",
-            "names": {
-                "geonames": "West",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "West Region",
-                "de": "Ouest",
-                "es": "Regi\u00f3n del Oeste",
-                "fr": "R\u00e9gion de l'Ouest",
-                "it": "Regione dell'Ovest",
-                "zh": "\u897f\u90e8\u533a"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": -34.9295746,
-            "lng": 138.58798439999998
+        {
+            "code": "CM-OU",
+            "names": "West",
+            "type": "Province"
         },
-        "SU": {
-            "name": "South Region",
-            "code": "SU",
-            "names": {
-                "geonames": "South",
-                "en": "South Region",
-                "de": "Sud",
-                "es": "Regi\u00f3n del Sur",
-                "fr": "R\u00e9gion du Sud",
-                "it": "Regione del Sud",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "zh": "\u5357\u90e8\u533a"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 6.4,
-            "lng": 10.399999999999977
+        {
+            "code": "CM-SU",
+            "names": "South",
+            "type": "Province"
         },
-        "SW": {
-            "name": "Southwest Region",
-            "code": "SW",
-            "names": {
-                "geonames": "South-West",
-                "ru": "\u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Southwest Region",
-                "de": "Sud-Ouest",
-                "es": "Regi\u00f3n del Sudoeste",
-                "fr": "R\u00e9gion du Sud-Ouest",
-                "it": "Regione del Sudovest",
-                "zh": "\u897f\u5357\u533a"
-            },
-            "division": "province",
-            "parent": "CM",
-            "lat": 2.7202832,
-            "lng": 11.70682940000006
+        {
+            "code": "CM-SW",
+            "names": "South-West",
+            "type": "Province"
         }
-    }
+    ]
 }

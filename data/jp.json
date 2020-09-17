@@ -1,921 +1,375 @@
 {
     "alpha-2": "JP",
     "alpha-3": "JPN",
-    "numeric": 392,
-    "capital": "Tokyo",
-    "currency": "JPY",
-    "languages": [
-        "ja"
-    ],
-    "flag-icon": "\ud83c\uddef\ud83c\uddf5",
+    "numeric": "392",
     "names": {
-        "geonames": "Japan",
         "en": "Japan",
-        "ar": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646",
-        "de": "Japan",
-        "es": "Jap\u00f3n",
         "fr": "Japon",
-        "it": "Giappone",
-        "ru": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "ur": "\u062c\u0627\u067e\u0627\u0646",
+        "rn": "Ubuyapani",
+        "lv": "Jap\u0101na",
+        "hy": "\u0543\u0561\u057a\u0578\u0576\u056b\u0561",
+        "sq": "Japoni",
+        "jv": "Jepang",
+        "or": "\u0b1c\u0b3e\u0b2a\u0b3e\u0b28",
+        "mg": "Japana",
+        "no": "Japan",
         "zh": "\u65e5\u672c",
-        "he": "\u05d9\u05e4\u05df",
-        "hi": "\u091c\u093e\u092a\u093e\u0928",
+        "tr": "Japonya",
+        "bs": "Japan",
         "ja": "\u65e5\u672c",
-        "pt": "Jap\u00e3o"
+        "th": "\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19",
+        "he": "\u05d9\u05e4\u05df",
+        "fa": "\u0698\u0627\u067e\u0646",
+        "kk": "\u0416\u0430\u043f\u043e\u043d\u0438\u044f",
+        "mo": "Japonia",
+        "ff": "Sapoo",
+        "ca": "Jap\u00f3",
+        "ar": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646",
+        "eu": "Japonia",
+        "ps": "\u062c\u0627\u067e\u0627\u0646",
+        "kn": "\u0c9c\u0caa\u0cbe\u0ca8\u0ccd",
+        "si": "\u0da2\u0db4\u0dcf\u0db1\u0dba",
+        "km": "\u1787\u1794\u17c9\u17bb\u1793",
+        "ne": "\u091c\u093e\u092a\u093e\u0928",
+        "bo": "\u0f49\u0f72\u0f0b\u0f67\u0f7c\u0f44\u0f0b",
+        "fi": "Japani",
+        "hi": "\u091c\u093e\u092a\u093e\u0928",
+        "rm": "Giapun",
+        "vi": "Nh\u1eadt B\u1ea3n",
+        "gl": "O Xap\u00f3n",
+        "ig": "Mba Japan",
+        "mr": "\u091c\u092a\u093e\u0928",
+        "es": "Jap\u00f3n",
+        "be": "\u042f\u043f\u043e\u043d\u0456\u044f",
+        "ii": "\ua3dd\ua02a",
+        "lg": "Japani",
+        "sd": "\u062c\u0627\u067e\u0627\u0646",
+        "az": "\u0408\u0430\u043f\u043e\u043d\u0438\u0458\u0430",
+        "ce": "\u042f\u043f\u043e\u043d\u0438",
+        "mk": "\u0408\u0430\u043f\u043e\u043d\u0438\u0458\u0430",
+        "zu": "i-Japan",
+        "it": "Giappone",
+        "mi": "Hapani",
+        "ko": "\uc77c\ubcf8",
+        "lo": "\u0e8d\u0eb5\u0ec8\u0e9b\u0eb8\u0ec8\u0e99",
+        "lt": "Japonija",
+        "dz": "\u0f47\u0f0b\u0f54\u0f71\u0f53",
+        "ln": "Zap\u0254",
+        "hr": "Japan",
+        "ks": "\u062c\u0627\u067e\u0627\u0646",
+        "sv": "Japan",
+        "pl": "Japonia",
+        "nb": "Japan",
+        "sh": "Japan",
+        "lu": "Japu",
+        "nl": "Japan",
+        "ky": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "bn": "\u099c\u09be\u09aa\u09be\u09a8",
+        "gd": "An t-Seapan",
+        "cs": "Japonsko",
+        "tk": "\u00ddaponi\u00fda",
+        "eo": "Japanujo",
+        "mt": "il-\u0120appun",
+        "sr": "Japan",
+        "wo": "S\u00e0ppo\u014b",
+        "el": "\u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1",
+        "sn": "Japan",
+        "pt": "Jap\u00e3o",
+        "yi": "\u05d9\u05d0\u05b7\u05e4\u05bc\u05d0\u05b7\u05df",
+        "is": "Japan",
+        "ta": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd",
+        "br": "Japan",
+        "hu": "Jap\u00e1n",
+        "et": "Jaapan",
+        "ku": "Japon",
+        "sk": "Japonsko",
+        "sw": "Japani",
+        "os": "\u042f\u043f\u043e\u043d",
+        "te": "\u0c1c\u0c2a\u0c3e\u0c28\u0c4d",
+        "ro": "Japonia",
+        "ki": "Njabani",
+        "su": "Jepang",
+        "ak": "Gyapan",
+        "tg": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "ml": "\u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d7b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Japani",
+        "de": "Japan",
+        "as": "\u099c\u09be\u09aa\u09be\u09a8",
+        "am": "\u1303\u1353\u1295",
+        "se": "Jap\u00e1na",
+        "ia": "Japon",
+        "om": "Japan",
+        "ti": "\u1303\u1353\u1295",
+        "ru": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "ga": "an tSeap\u00e1in",
+        "bg": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "my": "\u1002\u103b\u1015\u1014\u103a",
+        "fy": "Japan",
+        "bm": "Zap\u0254n",
+        "gu": "\u0a9c\u0abe\u0aaa\u0abe\u0aa8",
+        "uz": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "cy": "Japan",
+        "ug": "\u064a\u0627\u067e\u0648\u0646\u0649\u064a\u06d5",
+        "nn": "Japan",
+        "uk": "\u042f\u043f\u043e\u043d\u0456\u044f",
+        "qu": "Jap\u00f3n",
+        "tl": "Japan",
+        "ms": "Jepun",
+        "so": "Jabaan",
+        "da": "Japan",
+        "tt": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "af": "Japan",
+        "ha": "J\u00e0p\u00e2n",
+        "iw": "\u05d9\u05e4\u05df",
+        "ee": "Dzapan nutome",
+        "in": "Jepang",
+        "to": "Siapani",
+        "sl": "Japonska",
+        "sg": "Zap\u00f6on",
+        "lb": "Japan",
+        "fo": "Japan",
+        "mn": "\u042f\u043f\u043e\u043d",
+        "id": "Jepang",
+        "pa": "\u0a1c\u0a2a\u0a3e\u0a28",
+        "ka": "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d0",
+        "nd": "Japan"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Hokkaido",
-            "code": "01",
-            "names": {
-                "geonames": "Hokkaido",
-                "ru": "\u0425\u043e\u043a\u043a\u0430\u0439\u0434\u043e",
-                "en": "Hokkaido",
-                "ar": "\u0647\u0648\u0643\u0627\u064a\u062f\u0648",
-                "de": "Hokkaid\u014d",
-                "es": "Hokkaid\u014d",
-                "fr": "Hokkaid\u014d",
-                "it": "Hokkaid\u014d",
-                "zh": "\u5317\u6d77\u9053"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 44,
-            "lng": 143
+    "3166-2": [
+        {
+            "code": "JP-01",
+            "names": "Hokkaido",
+            "type": "Prefecture"
         },
-        "02": {
-            "name": "Aomori Prefecture",
-            "code": "02",
-            "names": {
-                "geonames": "Aomori",
-                "ru": "\u0410\u043e\u043c\u043e\u0440\u0438",
-                "en": "Aomori Prefecture",
-                "ar": "\u0622\u0648\u0645\u0648\u0631\u064a",
-                "de": "Pr\u00e4fektur Aomori",
-                "es": "Prefectura de Aomori",
-                "fr": "Pr\u00e9fecture d'Aomori",
-                "it": "Prefettura di Aomori",
-                "zh": "\u9752\u68ee\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 40.822072,
-            "lng": 140.74736469999993
+        {
+            "code": "JP-02",
+            "names": "Aomori",
+            "type": "Prefecture"
         },
-        "03": {
-            "name": "Iwate Prefecture",
-            "code": "03",
-            "names": {
-                "geonames": "Iwate",
-                "ru": "\u0418\u0432\u0430\u0442\u044d",
-                "en": "Iwate Prefecture",
-                "ar": "\u0625\u064a\u0648\u0627\u062a\u0647",
-                "de": "Pr\u00e4fektur Iwate",
-                "es": "Prefectura de Iwate",
-                "fr": "Pr\u00e9fecture d'Iwate",
-                "it": "Prefettura di Iwate",
-                "zh": "\u5ca9\u624b\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 39.9725899,
-            "lng": 141.21251630000006
+        {
+            "code": "JP-03",
+            "names": "Iwate",
+            "type": "Prefecture"
         },
-        "04": {
-            "name": "Miyagi Prefecture",
-            "code": "04",
-            "names": {
-                "geonames": "Miyagi",
-                "ru": "\u041c\u0438\u044f\u0433\u0438",
-                "en": "Miyagi Prefecture",
-                "ar": "\u0645\u064a\u0627\u063a\u064a",
-                "de": "Pr\u00e4fektur Miyagi",
-                "es": "Prefectura de Miyagi",
-                "fr": "Pr\u00e9fecture de Miyagi",
-                "it": "Prefettura di Miyagi",
-                "zh": "\u5bae\u57ce\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 38.2590428,
-            "lng": 140.83078739999996
+        {
+            "code": "JP-04",
+            "names": "Miyagi",
+            "type": "Prefecture"
         },
-        "05": {
-            "name": "Akita Prefecture",
-            "code": "05",
-            "names": {
-                "geonames": "Akita",
-                "ru": "\u0410\u043a\u0438\u0442\u0430",
-                "en": "Akita Prefecture",
-                "ar": "\u0623\u0643\u064a\u062a\u0627",
-                "de": "Pr\u00e4fektur Akita",
-                "es": "Prefectura de Akita",
-                "fr": "Pr\u00e9fecture d'Akita",
-                "it": "Prefettura di Akita",
-                "zh": "\u79cb\u7530\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 39.7200079,
-            "lng": 140.10256419999996
+        {
+            "code": "JP-05",
+            "names": "Akita",
+            "type": "Prefecture"
         },
-        "06": {
-            "name": "Yamagata Prefecture",
-            "code": "06",
-            "names": {
-                "geonames": "Yamagata",
-                "ru": "\u042f\u043c\u0430\u0433\u0430\u0442\u0430",
-                "en": "Yamagata Prefecture",
-                "ar": "\u064a\u0627\u0645\u0627\u063a\u0627\u062a\u0627",
-                "de": "Pr\u00e4fektur Yamagata",
-                "es": "Prefectura de Yamagata",
-                "fr": "Pr\u00e9fecture de Yamagata",
-                "it": "Prefettura di Yamagata",
-                "zh": "\u5c71\u5f62\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 38.2554388,
-            "lng": 140.3396017
+        {
+            "code": "JP-06",
+            "names": "Yamagata",
+            "type": "Prefecture"
         },
-        "07": {
-            "name": "Fukushima Prefecture",
-            "code": "07",
-            "names": {
-                "geonames": "Fukushima",
-                "ru": "\u0424\u0443\u043a\u0443\u0441\u0438\u043c\u0430",
-                "en": "Fukushima Prefecture",
-                "ar": "\u0641\u0648\u0643\u0648\u0634\u064a\u0645\u0627",
-                "de": "Pr\u00e4fektur Fukushima",
-                "es": "Prefectura de Fukushima",
-                "fr": "Pr\u00e9fecture de Fukushima",
-                "it": "Prefettura di Fukushima",
-                "zh": "\u798f\u5c9b\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 37.7607226,
-            "lng": 140.47335610000005
+        {
+            "code": "JP-07",
+            "names": "Fukushima",
+            "type": "Prefecture"
         },
-        "08": {
-            "name": "Ibaraki Prefecture",
-            "code": "08",
-            "names": {
-                "geonames": "Ibaraki",
-                "ru": "\u0418\u0431\u0430\u0440\u0430\u043a\u0438",
-                "en": "Ibaraki Prefecture",
-                "ar": "\u0625\u064a\u0628\u0627\u0631\u0627\u0643\u064a",
-                "de": "Pr\u00e4fektur Ibaraki",
-                "es": "Prefectura de Ibaraki",
-                "fr": "Pr\u00e9fecture d'Ibaraki",
-                "it": "Prefettura di Ibaraki",
-                "zh": "\u8328\u57ce\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.2869206,
-            "lng": 140.42451430000006
+        {
+            "code": "JP-08",
+            "names": "Ibaraki",
+            "type": "Prefecture"
         },
-        "09": {
-            "name": "Tochigi Prefecture",
-            "code": "09",
-            "names": {
-                "geonames": "Tochigi",
-                "ru": "\u0422\u043e\u0442\u0438\u0433\u0438",
-                "en": "Tochigi Prefecture",
-                "ar": "\u062a\u0648\u062a\u0634\u064a\u063a\u064a",
-                "de": "Pr\u00e4fektur Tochigi",
-                "es": "Prefectura de Tochigi",
-                "fr": "Pr\u00e9fecture de Tochigi",
-                "it": "Prefettura di Tochigi",
-                "zh": "\u6803\u6728\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.3813638,
-            "lng": 139.73031749999996
+        {
+            "code": "JP-09",
+            "names": "Tochigi",
+            "type": "Prefecture"
         },
-        "10": {
-            "name": "Gunma Prefecture",
-            "code": "10",
-            "names": {
-                "geonames": "Gunma",
-                "ru": "\u0413\u0443\u043c\u043c\u0430",
-                "en": "Gunma Prefecture",
-                "ar": "\u063a\u0648\u0646\u0645\u0627",
-                "de": "Pr\u00e4fektur Gunma",
-                "es": "Prefectura de Gunma",
-                "fr": "Pr\u00e9fecture de Gunma",
-                "it": "Prefettura di Gunma",
-                "zh": "\u7fa4\u99ac\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.4303031,
-            "lng": 139.04533879999997
+        {
+            "code": "JP-10",
+            "names": "Gunma",
+            "type": "Prefecture"
         },
-        "11": {
-            "name": "Saitama Prefecture",
-            "code": "11",
-            "names": {
-                "geonames": "Saitama",
-                "ru": "\u0421\u0430\u0439\u0442\u0430\u043c\u0430",
-                "en": "Saitama Prefecture",
-                "ar": "\u0633\u0627\u064a\u062a\u0627\u0645\u0627",
-                "de": "Pr\u00e4fektur Saitama",
-                "es": "Prefectura de Saitama",
-                "fr": "Pr\u00e9fecture de Saitama",
-                "it": "Prefettura di Saitama",
-                "zh": "\u57fc\u7389\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.8617292,
-            "lng": 139.64548220000006
+        {
+            "code": "JP-11",
+            "names": "Saitama",
+            "type": "Prefecture"
         },
-        "12": {
-            "name": "Chiba Prefecture",
-            "code": "12",
-            "names": {
-                "geonames": "Chiba",
-                "ru": "\u0422\u0438\u0431\u0430",
-                "en": "Chiba Prefecture",
-                "ar": "\u062a\u0634\u064a\u0628\u0627",
-                "de": "Pr\u00e4fektur Chiba",
-                "es": "Prefectura de Chiba",
-                "fr": "Pr\u00e9fecture de Chiba",
-                "it": "Prefettura di Chiba",
-                "zh": "\u5343\u8449\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.6072668,
-            "lng": 140.10629070000005
+        {
+            "code": "JP-12",
+            "names": "Chiba",
+            "type": "Prefecture"
         },
-        "13": {
-            "name": "Tokyo",
-            "code": "13",
-            "names": {
-                "geonames": "Tokyo",
-                "ru": "\u0422\u043e\u043a\u0438\u043e",
-                "en": "Tokyo",
-                "ar": "\u0637\u0648\u0643\u064a\u0648",
-                "de": "Pr\u00e4fektur Tokio",
-                "es": "Tokio",
-                "fr": "Tokyo",
-                "it": "Tokyo",
-                "zh": "\u6771\u4eac\u90fd"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.7134285,
-            "lng": 139.76230780000003
+        {
+            "code": "JP-13",
+            "names": "Tokyo",
+            "type": "Prefecture"
         },
-        "14": {
-            "name": "Kanagawa Prefecture",
-            "code": "14",
-            "names": {
-                "geonames": "Kanagawa",
-                "ru": "\u041a\u0430\u043d\u0430\u0433\u0430\u0432\u0430",
-                "en": "Kanagawa Prefecture",
-                "ar": "\u0643\u0627\u0646\u0627\u063a\u0627\u0648\u0627",
-                "de": "Pr\u00e4fektur Kanagawa",
-                "es": "Prefectura de Kanagawa",
-                "fr": "Pr\u00e9fecture de Kanagawa",
-                "it": "Prefettura di Kanagawa",
-                "zh": "\u795e\u5948\u5ddd\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.4769011,
-            "lng": 139.62943070000006
+        {
+            "code": "JP-14",
+            "names": "Kanagawa",
+            "type": "Prefecture"
         },
-        "15": {
-            "name": "Niigata Prefecture",
-            "code": "15",
-            "names": {
-                "geonames": "Niigata",
-                "ru": "\u041d\u0438\u0438\u0433\u0430\u0442\u0430",
-                "en": "Niigata Prefecture",
-                "ar": "\u0646\u064a\u064a\u063a\u0627\u062a\u0627",
-                "de": "Pr\u00e4fektur Niigata",
-                "es": "Prefectura de Niigata",
-                "fr": "Pr\u00e9fecture de Niigata",
-                "it": "Prefettura di Niigata",
-                "zh": "\u65b0\u6f5f\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 37.9161924,
-            "lng": 139.03641259999995
+        {
+            "code": "JP-15",
+            "names": "Niigata",
+            "type": "Prefecture"
         },
-        "16": {
-            "name": "Toyama Prefecture",
-            "code": "16",
-            "names": {
-                "geonames": "Toyama",
-                "ru": "\u0422\u043e\u044f\u043c\u0430",
-                "en": "Toyama Prefecture",
-                "ar": "\u062a\u0648\u064a\u0627\u0645\u0627",
-                "de": "Pr\u00e4fektur Toyama",
-                "es": "Prefectura de Toyama",
-                "fr": "Pr\u00e9fecture de Toyama",
-                "it": "Prefettura di Toyama",
-                "zh": "\u5bcc\u5c71\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.6959518,
-            "lng": 137.21367680000003
+        {
+            "code": "JP-16",
+            "names": "Toyama",
+            "type": "Prefecture"
         },
-        "17": {
-            "name": "Ishikawa Prefecture",
-            "code": "17",
-            "names": {
-                "geonames": "Ishikawa",
-                "ru": "\u0418\u0441\u0438\u043a\u0430\u0432\u0430",
-                "en": "Ishikawa Prefecture",
-                "ar": "\u0625\u064a\u0634\u064a\u0643\u0627\u0648\u0627",
-                "de": "Pr\u00e4fektur Ishikawa",
-                "es": "Prefectura de Ishikawa",
-                "fr": "Pr\u00e9fecture d'Ishikawa",
-                "it": "Prefettura di Ishikawa",
-                "zh": "\u77f3\u5ddd\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.3123615,
-            "lng": 136.2896826
+        {
+            "code": "JP-17",
+            "names": "Ishikawa",
+            "type": "Prefecture"
         },
-        "18": {
-            "name": "Fukui Prefecture",
-            "code": "18",
-            "names": {
-                "geonames": "Fukui",
-                "ru": "\u0424\u0443\u043a\u0443\u0438",
-                "en": "Fukui Prefecture",
-                "ar": "\u0641\u0648\u0643\u0648\u064a",
-                "de": "Pr\u00e4fektur Fukui",
-                "es": "Prefectura de Fukui",
-                "fr": "Pr\u00e9fecture de Fukui",
-                "it": "Prefettura di Fukui",
-                "zh": "\u798f\u4e95\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.0640669,
-            "lng": 136.2194938
+        {
+            "code": "JP-18",
+            "names": "Fukui",
+            "type": "Prefecture"
         },
-        "19": {
-            "name": "Yamanashi Prefecture",
-            "code": "19",
-            "names": {
-                "geonames": "Yamanashi",
-                "ru": "\u042f\u043c\u0430\u043d\u0430\u0441\u0438",
-                "en": "Yamanashi Prefecture",
-                "ar": "\u064a\u0627\u0645\u0627\u0646\u0627\u0634\u064a",
-                "de": "Pr\u00e4fektur Yamanashi",
-                "es": "Prefectura de Yamanashi",
-                "fr": "Pr\u00e9fecture de Yamanashi",
-                "it": "Prefettura di Yamanashi",
-                "zh": "\u5c71\u68a8\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.6933937,
-            "lng": 138.68691379999996
+        {
+            "code": "JP-19",
+            "names": "Yamanashi",
+            "type": "Prefecture"
         },
-        "20": {
-            "name": "Nagano Prefecture",
-            "code": "20",
-            "names": {
-                "geonames": "Nagano",
-                "ru": "\u041d\u0430\u0433\u0430\u043d\u043e",
-                "en": "Nagano Prefecture",
-                "ar": "\u0646\u0627\u063a\u0627\u0646\u0648",
-                "de": "Pr\u00e4fektur Nagano",
-                "es": "Prefectura de Nagano",
-                "fr": "Pr\u00e9fecture de Nagano",
-                "it": "Prefettura di Nagano",
-                "zh": "\u957f\u91ce\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 36.6485496,
-            "lng": 138.19424319999996
+        {
+            "code": "JP-20",
+            "names": "Nagano",
+            "type": "Prefecture"
         },
-        "21": {
-            "name": "Gifu Prefecture",
-            "code": "21",
-            "names": {
-                "geonames": "Gifu",
-                "ru": "\u0413\u0438\u0444\u0443",
-                "en": "Gifu Prefecture",
-                "ar": "\u063a\u064a\u0641\u0648",
-                "de": "Pr\u00e4fektur Gifu",
-                "es": "Prefectura de Gifu",
-                "fr": "Pr\u00e9fecture de Gifu",
-                "it": "Prefettura di Gifu",
-                "zh": "\u5c90\u961c\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.4232984,
-            "lng": 136.76065370000003
+        {
+            "code": "JP-21",
+            "names": "Gifu",
+            "type": "Prefecture"
         },
-        "22": {
-            "name": "Shizuoka Prefecture",
-            "code": "22",
-            "names": {
-                "geonames": "Shizuoka",
-                "ru": "\u0421\u0438\u0434\u0437\u0443\u043e\u043a\u0430",
-                "en": "Shizuoka Prefecture",
-                "ar": "\u0634\u064a\u0632\u0648\u0643\u0627",
-                "de": "Pr\u00e4fektur Shizuoka",
-                "es": "Prefectura de Shizuoka",
-                "fr": "Pr\u00e9fecture de Shizuoka",
-                "it": "Prefettura di Shizuoka",
-                "zh": "\u975c\u5ca1\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.975562,
-            "lng": 138.38275959999999
+        {
+            "code": "JP-22",
+            "names": "Shizuoka",
+            "type": "Prefecture"
         },
-        "23": {
-            "name": "Aichi Prefecture",
-            "code": "23",
-            "names": {
-                "geonames": "Aichi",
-                "ru": "\u0410\u0439\u0442\u0438",
-                "en": "Aichi Prefecture",
-                "ar": "\u0622\u064a\u062a\u0634\u064a",
-                "de": "Pr\u00e4fektur Aichi",
-                "es": "Prefectura de Aichi",
-                "fr": "Pr\u00e9fecture d'Aichi",
-                "it": "Prefettura di Aichi",
-                "zh": "\u611b\u77e5\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.7404223,
-            "lng": 137.38657039999998
+        {
+            "code": "JP-23",
+            "names": "Aichi",
+            "type": "Prefecture"
         },
-        "24": {
-            "name": "Mie Prefecture",
-            "code": "24",
-            "names": {
-                "geonames": "Mie",
-                "ru": "\u041c\u0438\u044d",
-                "en": "Mie Prefecture",
-                "ar": "\u0645\u064a\u0647",
-                "de": "Pr\u00e4fektur Mie",
-                "es": "Prefectura de Mie",
-                "fr": "Pr\u00e9fecture de Mie",
-                "it": "Prefettura di Mie",
-                "zh": "\u4e09\u91cd\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.7460527,
-            "lng": 136.52358879999997
+        {
+            "code": "JP-24",
+            "names": "Mie",
+            "type": "Prefecture"
         },
-        "25": {
-            "name": "Shiga Prefecture",
-            "code": "25",
-            "names": {
-                "geonames": "Shiga",
-                "ru": "\u0421\u0438\u0433\u0430",
-                "en": "Shiga Prefecture",
-                "ar": "\u0634\u064a\u063a\u0627",
-                "de": "Pr\u00e4fektur Shiga",
-                "es": "Prefectura de Shiga",
-                "fr": "Pr\u00e9fecture de Shiga",
-                "it": "Prefettura di Shiga",
-                "zh": "\u6ecb\u8d3a\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.2771489,
-            "lng": 136.2463682
+        {
+            "code": "JP-25",
+            "names": "Shiga",
+            "type": "Prefecture"
         },
-        "26": {
-            "name": "Kyoto Prefecture",
-            "code": "26",
-            "names": {
-                "geonames": "Kyoto",
-                "ru": "\u041a\u0438\u043e\u0442\u043e",
-                "en": "Kyoto Prefecture",
-                "ar": "\u0643\u064a\u0648\u062a\u0648",
-                "de": "Pr\u00e4fektur Ky\u014dto",
-                "es": "Prefectura de Kioto",
-                "fr": "Pr\u00e9fecture de Kyoto",
-                "it": "Prefettura di Kyoto",
-                "zh": "\u4eac\u90fd\u5e9c"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.0116363,
-            "lng": 135.76802939999993
+        {
+            "code": "JP-26",
+            "names": "Kyoto",
+            "type": "Prefecture"
         },
-        "27": {
-            "name": "Osaka Prefecture",
-            "code": "27",
-            "names": {
-                "geonames": "Osaka",
-                "ru": "\u041e\u0441\u0430\u043a\u0430",
-                "en": "Osaka Prefecture",
-                "ar": "\u0623\u0648\u0633\u0627\u0643\u0627",
-                "de": "Pr\u00e4fektur \u014csaka",
-                "es": "Prefectura de Osaka",
-                "fr": "Pr\u00e9fecture d'Osaka",
-                "it": "Prefettura di Osaka",
-                "zh": "\u5927\u962a\u5e9c"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.6937378,
-            "lng": 135.50216509999996
+        {
+            "code": "JP-27",
+            "names": "Osaka",
+            "type": "Prefecture"
         },
-        "28": {
-            "name": "Hy\u014dgo Prefecture",
-            "code": "28",
-            "names": {
-                "geonames": "Hyogo",
-                "ru": "\u0425\u0451\u0433\u043e",
-                "en": "Hy\u014dgo Prefecture",
-                "ar": "\u0647\u064a\u0648\u063a\u0648",
-                "de": "Pr\u00e4fektur Hy\u014dgo",
-                "es": "Prefectura de Hy\u014dgo",
-                "fr": "Pr\u00e9fecture de Hy\u014dgo",
-                "it": "Prefettura di Hy\u014dgo",
-                "zh": "\u5175\u5e93\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.680578,
-            "lng": 135.16529149999997
+        {
+            "code": "JP-28",
+            "names": "Hyogo",
+            "type": "Prefecture"
         },
-        "29": {
-            "name": "Nara Prefecture",
-            "code": "29",
-            "names": {
-                "geonames": "Nara",
-                "ru": "\u041d\u0430\u0440\u0430",
-                "en": "Nara Prefecture",
-                "ar": "\u0646\u0627\u0631\u0627",
-                "de": "Pr\u00e4fektur Nara",
-                "es": "Prefectura de Nara",
-                "fr": "Pr\u00e9fecture de Nara",
-                "it": "Prefettura di Nara",
-                "zh": "\u5948\u826f\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.6850869,
-            "lng": 135.8050002
+        {
+            "code": "JP-29",
+            "names": "Nara",
+            "type": "Prefecture"
         },
-        "30": {
-            "name": "Wakayama Prefecture",
-            "code": "30",
-            "names": {
-                "geonames": "Wakayama",
-                "ru": "\u0412\u0430\u043a\u0430\u044f\u043c\u0430",
-                "en": "Wakayama Prefecture",
-                "ar": "\u0648\u0627\u0643\u0627\u064a\u0627\u0645\u0627",
-                "de": "Pr\u00e4fektur Wakayama",
-                "es": "Prefectura de Wakayama",
-                "fr": "Pr\u00e9fecture de Wakayama",
-                "it": "Prefettura di Wakayama",
-                "zh": "\u548c\u6b4c\u5c71\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.2305113,
-            "lng": 135.17080829999998
+        {
+            "code": "JP-30",
+            "names": "Wakayama",
+            "type": "Prefecture"
         },
-        "31": {
-            "name": "Tottori Prefecture",
-            "code": "31",
-            "names": {
-                "geonames": "Tottori",
-                "ru": "\u0422\u043e\u0442\u0442\u043e\u0440\u0438",
-                "en": "Tottori Prefecture",
-                "ar": "\u062a\u0648\u062a\u0648\u0631\u064a",
-                "de": "Pr\u00e4fektur Tottori",
-                "es": "Prefectura de Tottori",
-                "fr": "Pr\u00e9fecture de Tottori",
-                "it": "Prefettura di Tottori",
-                "zh": "\u9ce5\u53d6\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.5011326,
-            "lng": 134.2350914
+        {
+            "code": "JP-31",
+            "names": "Tottori",
+            "type": "Prefecture"
         },
-        "32": {
-            "name": "Shimane Prefecture",
-            "code": "32",
-            "names": {
-                "geonames": "Shimane",
-                "ru": "\u0421\u0438\u043c\u0430\u043d\u0435",
-                "en": "Shimane Prefecture",
-                "ar": "\u0634\u064a\u0645\u0627\u0646\u0647",
-                "de": "Pr\u00e4fektur Shimane",
-                "es": "Prefectura de Shimane",
-                "fr": "Pr\u00e9fecture de Shimane",
-                "it": "Prefettura di Shimane",
-                "zh": "\u5c9b\u6839\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 35.4865551,
-            "lng": 133.0682253
+        {
+            "code": "JP-32",
+            "names": "Shimane",
+            "type": "Prefecture"
         },
-        "33": {
-            "name": "Okayama Prefecture",
-            "code": "33",
-            "names": {
-                "geonames": "Okayama",
-                "ru": "\u041e\u043a\u0430\u044f\u043c\u0430",
-                "en": "Okayama Prefecture",
-                "ar": "\u0623\u0648\u0643\u0627\u064a\u0627\u0645\u0627",
-                "de": "Pr\u00e4fektur Okayama",
-                "es": "Prefectura de Okayama",
-                "fr": "Pr\u00e9fecture d'Okayama",
-                "it": "Prefettura di Okayama",
-                "zh": "\u5ca1\u5c71\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.6551456,
-            "lng": 133.9195019
+        {
+            "code": "JP-33",
+            "names": "Okayama",
+            "type": "Prefecture"
         },
-        "34": {
-            "name": "Hiroshima Prefecture",
-            "code": "34",
-            "names": {
-                "geonames": "Hiroshima",
-                "ru": "\u0425\u0438\u0440\u043e\u0441\u0438\u043c\u0430",
-                "en": "Hiroshima Prefecture",
-                "ar": "\u0647\u064a\u0631\u0648\u0634\u064a\u0645\u0627",
-                "de": "Pr\u00e4fektur Hiroshima",
-                "es": "Prefectura de Hiroshima",
-                "fr": "Pr\u00e9fecture de Hiroshima",
-                "it": "Prefettura di Hiroshima",
-                "zh": "\u5ee3\u5cf6\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.3852029,
-            "lng": 132.45529269999997
+        {
+            "code": "JP-34",
+            "names": "Hiroshima",
+            "type": "Prefecture"
         },
-        "35": {
-            "name": "Yamaguchi Prefecture",
-            "code": "35",
-            "names": {
-                "geonames": "Yamaguchi",
-                "ru": "\u042f\u043c\u0430\u0433\u0443\u0442\u0438",
-                "en": "Yamaguchi Prefecture",
-                "ar": "\u064a\u0627\u0645\u0627\u063a\u0648\u062a\u0634\u064a",
-                "de": "Pr\u00e4fektur Yamaguchi",
-                "es": "Prefectura de Yamaguchi",
-                "fr": "Pr\u00e9fecture de Yamaguchi",
-                "it": "Prefettura di Yamaguchi",
-                "zh": "\u5c71\u53e3\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.178496,
-            "lng": 131.47372689999997
+        {
+            "code": "JP-35",
+            "names": "Yamaguchi",
+            "type": "Prefecture"
         },
-        "36": {
-            "name": "Tokushima Prefecture",
-            "code": "36",
-            "names": {
-                "geonames": "Tokushima",
-                "ru": "\u0422\u043e\u043a\u0443\u0441\u0438\u043c\u0430",
-                "en": "Tokushima Prefecture",
-                "ar": "\u062a\u0648\u0643\u0648\u0634\u064a\u0645\u0627",
-                "de": "Pr\u00e4fektur Tokushima",
-                "es": "Prefectura de Tokushima",
-                "fr": "Pr\u00e9fecture de Tokushima",
-                "it": "Prefettura di Tokushima",
-                "zh": "\u5fb7\u5c9b\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.0702703,
-            "lng": 134.55484379999996
+        {
+            "code": "JP-36",
+            "names": "Tokushima",
+            "type": "Prefecture"
         },
-        "37": {
-            "name": "Kagawa Prefecture",
-            "code": "37",
-            "names": {
-                "geonames": "Kagawa",
-                "ru": "\u041a\u0430\u0433\u0430\u0432\u0430",
-                "en": "Kagawa Prefecture",
-                "ar": "\u0643\u0627\u063a\u0627\u0648\u0627",
-                "de": "Pr\u00e4fektur Kagawa",
-                "es": "Prefectura de Kagawa",
-                "fr": "Pr\u00e9fecture de Kagawa",
-                "it": "Prefettura di Kagawa",
-                "zh": "\u9999\u5ddd\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 34.3429904,
-            "lng": 134.03766040000005
+        {
+            "code": "JP-37",
+            "names": "Kagawa",
+            "type": "Prefecture"
         },
-        "38": {
-            "name": "Ehime Prefecture",
-            "code": "38",
-            "names": {
-                "geonames": "Ehime",
-                "ru": "\u042d\u0445\u0438\u043c\u044d",
-                "en": "Ehime Prefecture",
-                "ar": "\u0625\u0647\u064a\u0645\u0647",
-                "de": "Pr\u00e4fektur Ehime",
-                "es": "Prefectura de Ehime",
-                "fr": "Pr\u00e9fecture d'Ehime",
-                "it": "Prefettura di Ehime",
-                "zh": "\u7231\u5a9b\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 33.8500369,
-            "lng": 132.7715164
+        {
+            "code": "JP-38",
+            "names": "Ehime",
+            "type": "Prefecture"
         },
-        "39": {
-            "name": "K\u014dchi Prefecture",
-            "code": "39",
-            "names": {
-                "geonames": "Kochi",
-                "ru": "\u041a\u043e\u0442\u0438",
-                "en": "K\u014dchi Prefecture",
-                "ar": "\u0643\u0648\u062a\u0634\u064a",
-                "de": "Pr\u00e4fektur K\u014dchi",
-                "es": "Prefectura de K\u014dchi",
-                "fr": "Pr\u00e9fecture de K\u014dchi",
-                "it": "Prefettura di K\u014dchi",
-                "zh": "\u9ad8\u77e5\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 33.5588035,
-            "lng": 133.53116750000004
+        {
+            "code": "JP-39",
+            "names": "Kochi",
+            "type": "Prefecture"
         },
-        "40": {
-            "name": "Fukuoka Prefecture",
-            "code": "40",
-            "names": {
-                "geonames": "Fukuoka",
-                "ru": "\u0424\u0443\u043a\u0443\u043e\u043a\u0430",
-                "en": "Fukuoka Prefecture",
-                "ar": "\u0641\u0648\u0643\u0648\u0643\u0627",
-                "de": "Pr\u00e4fektur Fukuoka",
-                "es": "Prefectura de Fukuoka",
-                "fr": "Pr\u00e9fecture de Fukuoka",
-                "it": "Prefettura di Fukuoka",
-                "zh": "\u798f\u5188\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 33.5903547,
-            "lng": 130.40171550000002
+        {
+            "code": "JP-40",
+            "names": "Fukuoka",
+            "type": "Prefecture"
         },
-        "41": {
-            "name": "Saga Prefecture",
-            "code": "41",
-            "names": {
-                "geonames": "Saga",
-                "ru": "\u0421\u0430\u0433\u0430",
-                "en": "Saga Prefecture",
-                "ar": "\u0633\u0627\u063a\u0627",
-                "de": "Pr\u00e4fektur Saga",
-                "es": "Prefectura de Saga",
-                "fr": "Pr\u00e9fecture de Saga",
-                "it": "Prefettura di Saga",
-                "zh": "\u4f50\u8d3a\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 33.263482,
-            "lng": 130.30085759999997
+        {
+            "code": "JP-41",
+            "names": "Saga",
+            "type": "Prefecture"
         },
-        "42": {
-            "name": "Nagasaki Prefecture",
-            "code": "42",
-            "names": {
-                "geonames": "Nagasaki",
-                "ru": "\u041d\u0430\u0433\u0430\u0441\u0430\u043a\u0438",
-                "en": "Nagasaki Prefecture",
-                "ar": "\u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a",
-                "de": "Pr\u00e4fektur Nagasaki",
-                "es": "Prefectura de Nagasaki",
-                "fr": "Pr\u00e9fecture de Nagasaki",
-                "it": "Prefettura di Nagasaki",
-                "zh": "\u957f\u5d0e\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 32.7502856,
-            "lng": 129.87766699999997
+        {
+            "code": "JP-42",
+            "names": "Nagasaki",
+            "type": "Prefecture"
         },
-        "43": {
-            "name": "Kumamoto Prefecture",
-            "code": "43",
-            "names": {
-                "geonames": "Kumamoto",
-                "ru": "\u041a\u0443\u043c\u0430\u043c\u043e\u0442\u043e",
-                "en": "Kumamoto Prefecture",
-                "ar": "\u0643\u0648\u0645\u0627\u0645\u0648\u062a\u0648",
-                "de": "Pr\u00e4fektur Kumamoto",
-                "es": "Prefectura de Kumamoto",
-                "fr": "Pr\u00e9fecture de Kumamoto",
-                "it": "Prefettura di Kumamoto",
-                "zh": "\u718a\u672c\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 32.8031004,
-            "lng": 130.70789109999998
+        {
+            "code": "JP-43",
+            "names": "Kumamoto",
+            "type": "Prefecture"
         },
-        "44": {
-            "name": "\u014cita Prefecture",
-            "code": "44",
-            "names": {
-                "geonames": "Oita",
-                "ru": "\u041e\u0438\u0442\u0430",
-                "en": "\u014cita Prefecture",
-                "ar": "\u0623\u0648\u064a\u062a\u0627",
-                "de": "Pr\u00e4fektur \u014cita",
-                "es": "Prefectura de \u014cita",
-                "fr": "Pr\u00e9fecture d'\u014cita",
-                "it": "Prefettura di \u014cita",
-                "zh": "\u5927\u5206\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 33.2395578,
-            "lng": 131.60927200000003
+        {
+            "code": "JP-44",
+            "names": "Oita",
+            "type": "Prefecture"
         },
-        "45": {
-            "name": "Miyazaki Prefecture",
-            "code": "45",
-            "names": {
-                "geonames": "Miyazaki",
-                "ru": "\u041c\u0438\u044f\u0434\u0437\u0430\u043a\u0438",
-                "en": "Miyazaki Prefecture",
-                "ar": "\u0645\u064a\u0627\u0632\u0627\u0643\u064a",
-                "de": "Pr\u00e4fektur Miyazaki",
-                "es": "Prefectura de Miyazaki",
-                "fr": "Pr\u00e9fecture de Miyazaki",
-                "it": "Prefettura di Miyazaki",
-                "zh": "\u5bae\u5d0e\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 31.9076736,
-            "lng": 131.4202411
+        {
+            "code": "JP-45",
+            "names": "Miyazaki",
+            "type": "Prefecture"
         },
-        "46": {
-            "name": "Kagoshima Prefecture",
-            "code": "46",
-            "names": {
-                "geonames": "Kagoshima",
-                "ru": "\u041a\u0430\u0433\u043e\u0441\u0438\u043c\u0430",
-                "en": "Kagoshima Prefecture",
-                "ar": "\u0643\u0627\u063a\u0648\u0634\u064a\u0645\u0627",
-                "de": "Pr\u00e4fektur Kagoshima",
-                "es": "Prefectura de Kagoshima",
-                "fr": "Pr\u00e9fecture de Kagoshima",
-                "it": "Prefettura di Kagoshima",
-                "zh": "\u9e7f\u513f\u5c9b\u53bf"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 31.5965535,
-            "lng": 130.55711580000002
+        {
+            "code": "JP-46",
+            "names": "Kagoshima",
+            "type": "Prefecture"
         },
-        "47": {
-            "name": "Okinawa Prefecture",
-            "code": "47",
-            "names": {
-                "geonames": "Okinawa",
-                "ru": "\u041e\u043a\u0438\u043d\u0430\u0432\u0430",
-                "en": "Okinawa Prefecture",
-                "ar": "\u0623\u0648\u0643\u064a\u0646\u0627\u0648\u0627",
-                "de": "Pr\u00e4fektur Okinawa",
-                "es": "Prefectura de Okinawa",
-                "fr": "Pr\u00e9fecture d'Okinawa",
-                "it": "Prefettura di Okinawa",
-                "zh": "\u6c96\u7e69\u7e23"
-            },
-            "division": "prefecture",
-            "parent": "JP",
-            "lat": 26.3344266,
-            "lng": 127.8055832
+        {
+            "code": "JP-47",
+            "names": "Okinawa",
+            "type": "Prefecture"
         }
-    }
+    ]
 }

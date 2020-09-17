@@ -1,176 +1,179 @@
 {
     "alpha-2": "ZM",
     "alpha-3": "ZMB",
-    "numeric": 894,
-    "capital": "Lusaka",
-    "currency": "ZMW",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddff\ud83c\uddf2",
+    "numeric": "894",
     "names": {
-        "geonames": "Zambia",
         "en": "Zambia",
-        "ar": "\u0632\u0627\u0645\u0628\u064a\u0627",
-        "de": "Sambia",
-        "es": "Zambia",
         "fr": "Zambie",
-        "it": "Zambia",
-        "ru": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "ur": "\u0632\u0627\u0645\u0628\u06cc\u0627",
+        "rn": "Zambiya",
+        "lv": "Zambija",
+        "hy": "\u0536\u0561\u0574\u0562\u056b\u0561",
+        "sq": "Zambi",
+        "jv": "Sambia",
+        "or": "\u0b1c\u0b3e\u0b2e\u0b4d\u0b2c\u0b3f\u0b06",
+        "mg": "Zambia",
+        "no": "Zambia",
         "zh": "\u8d5e\u6bd4\u4e9a",
-        "he": "\u05d6\u05de\u05d1\u05d9\u05d4",
-        "hi": "\u091c\u093c\u093e\u092e\u094d\u092c\u093f\u092f\u093e",
+        "tr": "Zambiya",
+        "bs": "Zambija",
         "ja": "\u30b6\u30f3\u30d3\u30a2",
-        "pt": "Z\u00e2mbia"
+        "th": "\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22",
+        "he": "\u05d6\u05de\u05d1\u05d9\u05d4",
+        "kk": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "mo": "Zambia",
+        "ff": "\ud83a\udd1f\ud83a\udd22\ud83a\udd25\ud83a\udd26\ud83a\udd2d\ud83a\udd34\ud83a\udd22",
+        "ca": "Z\u00e0mbia",
+        "ar": "\u0632\u0627\u0645\u0628\u064a\u0627",
+        "eu": "Zambia",
+        "ps": "\u0632\u06cc\u0645\u0628\u06cc\u0627",
+        "kn": "\u0c9c\u0cbe\u0c82\u0cac\u0cbf\u0caf",
+        "si": "\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u179f\u17c6\u1794\u17ca\u17b8",
+        "ne": "\u091c\u093e\u092e\u094d\u092c\u093f\u092f\u093e",
+        "fi": "Sambia",
+        "hi": "\u091c\u093c\u093e\u092e\u094d\u092c\u093f\u092f\u093e",
+        "rm": "Sambia",
+        "vi": "Zambia",
+        "gl": "Zambia",
+        "ig": "Zambia",
+        "mr": "\u091d\u093e\u092e\u094d\u092c\u093f\u092f\u093e",
+        "es": "Zambia",
+        "be": "\u0417\u0430\u043c\u0431\u0456\u044f",
+        "lg": "Zambya",
+        "az": "\u0417\u0430\u043c\u0431\u0438\u0458\u0430",
+        "ce": "\u0417\u0430\u043c\u0431\u0438",
+        "mk": "\u0417\u0430\u043c\u0431\u0438\u0458\u0430",
+        "zu": "i-Zambia",
+        "it": "Zambia",
+        "ko": "\uc7a0\ube44\uc544",
+        "lo": "\u0ec1\u0e8a\u0ea1\u0ec0\u0e9a\u0e8d",
+        "lt": "Zambija",
+        "dz": "\u0f5b\u0f58\u0f0b\u0f56\u0fb7\u0f72\u0f0b\u0f61",
+        "ln": "Zambi",
+        "hr": "Zambija",
+        "ks": "\u062c\u0627\u0645\u0628\u0650\u06cc\u0627",
+        "sv": "Zambia",
+        "pl": "Zambia",
+        "nb": "Zambia",
+        "sh": "Zambija",
+        "lu": "Zambi",
+        "nl": "Zambia",
+        "ky": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "bn": "\u099c\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0632\u064a\u0645\u0628\u064a\u0627",
+        "fa": "\u0632\u0627\u0645\u0628\u06cc\u0627",
+        "gd": "S\u00e0imbia",
+        "cs": "Zambie",
+        "tk": "Zambi\u00fda",
+        "eo": "Zambio",
+        "mt": "i\u017c-\u017bambja",
+        "sr": "Zambija",
+        "wo": "S\u00e0mbi",
+        "el": "\u0396\u03ac\u03bc\u03c0\u03b9\u03b1",
+        "sn": "Zambia",
+        "pt": "Z\u00e2mbia",
+        "yi": "\u05d6\u05d0\u05b7\u05de\u05d1\u05d9\u05e2",
+        "is": "Samb\u00eda",
+        "ta": "\u0b9c\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe",
+        "br": "Zambia",
+        "hu": "Zambia",
+        "et": "Sambia",
+        "ku": "Zambiya",
+        "sk": "Zambia",
+        "sw": "Zambia",
+        "te": "\u0c1c\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c3e",
+        "ro": "Zambia",
+        "ki": "Zambia",
+        "ak": "Zambia",
+        "tg": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "ml": "\u0d38\u0d3e\u0d02\u0d2c\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de shamibia",
+        "de": "Sambia",
+        "as": "\u099c\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be",
+        "am": "\u12db\u121d\u1262\u12eb",
+        "se": "Zambia",
+        "ia": "Zambia",
+        "ti": "\u12db\u121d\u1262\u12eb",
+        "ru": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "ga": "an tSaimbia",
+        "bg": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "my": "\u1007\u1019\u103a\u1018\u102e\u101a\u102c",
+        "fy": "Zambia",
+        "bm": "Zanbi",
+        "gu": "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe",
+        "uz": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "cy": "Zambia",
+        "ug": "\u0632\u0627\u0645\u0628\u0649\u064a\u06d5",
+        "nn": "Zambia",
+        "uk": "\u0417\u0430\u043c\u0431\u0456\u044f",
+        "qu": "Zambia",
+        "tl": "Zambia",
+        "ms": "Zambia",
+        "so": "Saambiya",
+        "da": "Zambia",
+        "tt": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "af": "Zambi\u00eb",
+        "ha": "Zambiya",
+        "iw": "\u05d6\u05de\u05d1\u05d9\u05d4",
+        "ee": "Zambia nutome",
+        "in": "Zambia",
+        "to": "Semipia",
+        "sl": "Zambija",
+        "sg": "Zamb\u00efi",
+        "lb": "Sambia",
+        "fo": "Sambia",
+        "mn": "\u0417\u0430\u043c\u0431\u0438",
+        "id": "Zambia",
+        "pa": "\u0a1c\u0a3c\u0a3e\u0a2e\u0a2c\u0a40\u0a06",
+        "ka": "\u10d6\u10d0\u10db\u10d1\u10d8\u10d0",
+        "nd": "Zambiya"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Western",
-            "code": "01",
-            "names": {
-                "geonames": "Western",
-                "en": "Western"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "ZM-01",
+            "names": "Western",
+            "type": "Province"
         },
-        "02": {
-            "name": "Central",
-            "code": "02",
-            "names": {
-                "geonames": "Central",
-                "en": "Central"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -12.8240144,
-            "lng": 28.228057799999988
+        {
+            "code": "ZM-02",
+            "names": "Central",
+            "type": "Province"
         },
-        "03": {
-            "name": "Eastern",
-            "code": "03",
-            "names": {
-                "geonames": "Eastern",
-                "en": "Eastern"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "ZM-03",
+            "names": "Eastern",
+            "type": "Province"
         },
-        "04": {
-            "name": "Luapula Province",
-            "code": "04",
-            "names": {
-                "geonames": "Luapula",
-                "ru": "\u041b\u0443\u0430\u043f\u0443\u043b\u0430",
-                "en": "Luapula Province",
-                "ar": "\u0644\u0648\u0627\u0628\u0648\u0644\u0627",
-                "de": "Luapula",
-                "es": "Provincia de Luapula",
-                "fr": "Province de Luapula",
-                "it": "Provincia di Luapula",
-                "zh": "\u5362\u963f\u666e\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -9.766667,
-            "lng": 28.883332999999993
+        {
+            "code": "ZM-04",
+            "names": "Luapula",
+            "type": "Province"
         },
-        "05": {
-            "name": "Northern",
-            "code": "05",
-            "names": {
-                "geonames": "Northern",
-                "en": "Northern"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "ZM-05",
+            "names": "Northern",
+            "type": "Province"
         },
-        "06": {
-            "name": "Northwestern Province, Zambia",
-            "code": "06",
-            "names": {
-                "geonames": "North-Western",
-                "en": "Northwestern Province",
-                "ar": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u060c \u0632\u0627\u0645\u0628\u064a\u0627",
-                "de": "Nordwestprovinz",
-                "es": "Provincia del Noroeste",
-                "fr": "Province Nord-Occidentale",
-                "it": "Provincia Nord-Occidentale",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
-                "zh": "\u897f\u5317\u7701"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": null,
-            "lng": null
+        {
+            "code": "ZM-06",
+            "names": "North-Western",
+            "type": "Province"
         },
-        "07": {
-            "name": "Southern",
-            "code": "07",
-            "names": {
-                "geonames": "Southern",
-                "en": "Southern"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -17.8446645,
-            "lng": 25.86983209999994
+        {
+            "code": "ZM-07",
+            "names": "Southern (Zambia)",
+            "type": "Province"
         },
-        "08": {
-            "name": "Copperbelt Province",
-            "code": "08",
-            "names": {
-                "geonames": "Copperbelt",
-                "ru": "\u041a\u043e\u043f\u043f\u0435\u0440\u0431\u0435\u043b\u0442",
-                "en": "Copperbelt Province",
-                "ar": "\u0643\u0648\u0628\u0631\u0628\u064a\u0644\u062a",
-                "de": "Copperbelt",
-                "es": "Provincia de Copperbelt",
-                "fr": "Province de Copperbelt",
-                "it": "Provincia di Copperbelt",
-                "zh": "\u94dc\u5e26\u7701"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -12.970351,
-            "lng": 28.650541299999986
+        {
+            "code": "ZM-08",
+            "names": "Copperbelt",
+            "type": "Province"
         },
-        "09": {
-            "name": "Lusaka Province",
-            "code": "09",
-            "names": {
-                "geonames": "Lusaka",
-                "ru": "\u041b\u0443\u0441\u0430\u043a\u0430",
-                "en": "Lusaka Province",
-                "ar": "\u0644\u0648\u0633\u0627\u0643\u0627",
-                "de": "Lusaka",
-                "es": "Provincia de Lusaka",
-                "fr": "Province de Lusaka",
-                "it": "Provincia di Lusaka",
-                "zh": "\u5362\u8428\u5361\u7701"
-            },
-            "division": "province",
-            "parent": "ZM",
-            "lat": -15.408193,
-            "lng": 28.287166999999954
-        },
-        "10": {
-            "name": "Muchinga",
-            "code": "10",
-            "names": {
-                "geonames": "Muchinga",
-                "en": "Muchinga"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "ZM-09",
+            "names": "Lusaka",
+            "type": "Province"
         }
-    }
+    ]
 }

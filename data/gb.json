@@ -1,1940 +1,1262 @@
 {
     "alpha-2": "GB",
     "alpha-3": "GBR",
-    "numeric": 826,
-    "capital": "London",
-    "currency": "GBP",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddec\ud83c\udde7",
+    "numeric": "826",
     "names": {
-        "geonames": "United Kingdom",
         "en": "United Kingdom",
-        "ar": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
-        "de": "Vereinigtes K\u00f6nigreich",
-        "es": "Reino Unido",
         "fr": "Royaume-Uni",
-        "it": "Regno Unito",
-        "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "ur": "\u0633\u0644\u0637\u0646\u062a \u0645\u062a\u062d\u062f\u06c1",
+        "rn": "Ubwongereza",
+        "lv": "Apvienot\u0101 Karaliste",
+        "hy": "\u0544\u056b\u0561\u0581\u0575\u0561\u056c \u0539\u0561\u0563\u0561\u057e\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
+        "sq": "Mbret\u00ebria e Bashkuar",
+        "jv": "Karajan Manunggal",
+        "or": "\u0b2f\u0b41\u0b15\u0b4d\u0b24\u0b30\u0b3e\u0b1c\u0b4d\u0b5f",
+        "mg": "Angletera",
+        "no": "Storbritannia",
         "zh": "\u82f1\u56fd",
-        "he": "\u05d4\u05de\u05de\u05dc\u05db\u05d4 \u05d4\u05de\u05d0\u05d5\u05d7\u05d3\u05ea",
-        "hi": "\u092f\u0942\u0928\u093e\u0907\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e",
+        "tr": "Birle\u015fik Krall\u0131k",
+        "bs": "Ujedinjeno Kraljevstvo",
         "ja": "\u30a4\u30ae\u30ea\u30b9",
-        "pt": "Reino Unido"
+        "th": "\u0e2a\u0e2b\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23",
+        "he": "\u05d1\u05e8\u05d9\u05d8\u05e0\u05d9\u05d4",
+        "kk": "\u04b0\u043b\u044b\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "mo": "Regatul Unit",
+        "ff": "Laamateeri Rentundi",
+        "ca": "Regne Unit",
+        "ar": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "eu": "Erresuma Batua",
+        "ps": "\u0628\u0631\u062a\u0627\u0646\u06cc\u0647",
+        "kn": "\u0caf\u0cc1\u0ca8\u0cc8\u0c9f\u0cc6\u0ca1\u0ccd \u0c95\u0cbf\u0c82\u0c97\u0ccd\u200c\u0ca1\u0cae\u0ccd",
+        "de": "Vereinigtes K\u00f6nigreich",
+        "si": "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0db0\u0dcf\u0db1\u0dd2\u0dba",
+        "km": "\u1785\u1780\u17d2\u179a\u1797\u1796\u200b\u17a2\u1784\u17cb\u1782\u17d2\u179b\u17c1\u179f",
+        "ne": "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0905\u0927\u093f\u0930\u093e\u091c\u094d\u092f",
+        "bo": "\u0f51\u0f56\u0fb1\u0f72\u0f53\u0f0b\u0f47\u0f72\u0f0b",
+        "kw": "Rywvaneth Unys",
+        "fi": "Iso-Britannia",
+        "hi": "\u092f\u0942\u0928\u093e\u0907\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e",
+        "rm": "Reginavel Un\u00ec",
+        "vi": "V\u01b0\u01a1ng qu\u1ed1c Anh",
+        "gl": "O Reino Unido",
+        "ig": "Mba United Kingdom",
+        "mr": "\u092f\u0941\u0928\u093e\u092f\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e",
+        "es": "Reino Unido",
+        "be": "\u0412\u044f\u043b\u0456\u043a\u0430\u0431\u0440\u044b\u0442\u0430\u043d\u0456\u044f",
+        "ii": "\ua471\ua1e9",
+        "lg": "Bungereza",
+        "sd": "\u0628\u0631\u0637\u0627\u0646\u064a\u0647",
+        "az": "\u0411\u0438\u0440\u043b\u04d9\u0448\u043c\u0438\u0448 \u041a\u0440\u0430\u043b\u043b\u044b\u0433",
+        "ce": "\u0419\u043e\u043a\u043a\u0445\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0438",
+        "mk": "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u0442\u043e \u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e",
+        "zu": "i-United Kingdom",
+        "it": "Regno Unito",
+        "mi": "Hononga o Piritene",
+        "ko": "\uc601\uad6d",
+        "lo": "\u0eaa\u0eb0\u0eab\u0eb0\u0ea5\u0eb2\u0e94\u0e8a\u0eb0\u0ead\u0eb0\u0e99\u0eb2\u0e88\u0eb1\u0e81",
+        "lt": "Jungtin\u0117 Karalyst\u0117",
+        "dz": "\u0f61\u0f74\u0f0b\u0f53\u0f71\u0f60\u0f72\u0f0b\u0f4a\u0f7a\u0f4c\u0f0b \u0f40\u0f72\u0f44\u0f0b\u0f4c\u0f58",
+        "gv": "Rywvaneth Unys",
+        "ln": "Ang\u025bl\u025bt\u025b\u0301l\u025b",
+        "hr": "Ujedinjeno Kraljevstvo",
+        "ks": "\u06cc\u064f\u0646\u0627\u06cc\u0679\u0650\u0691 \u06a9\u0650\u0646\u06af\u0688\u064e\u0645",
+        "sv": "Storbritannien",
+        "pl": "Wielka Brytania",
+        "nb": "Storbritannia",
+        "sh": "Ujedinjeno Kraljevstvo",
+        "lu": "Angeletele",
+        "nl": "Verenigd Koninkrijk",
+        "ky": "\u0423\u043b\u0443\u0443 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "bn": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u099c\u09cd\u09af",
+        "fa": "\u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627",
+        "gd": "An R\u00ecoghachd Aonaichte",
+        "cs": "Spojen\u00e9 kr\u00e1lovstv\u00ed",
+        "tk": "Birle\u015fen Paty\u015falyk",
+        "eo": "Unui\u011dinta Re\u011dlando",
+        "mt": "ir-Renju Unit",
+        "sr": "Ujedinjeno Kraljevstvo",
+        "wo": "Ruwaayom Ini",
+        "el": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf",
+        "sn": "United Kingdom",
+        "pt": "Reino Unido",
+        "yi": "\u05e4\u05bf\u05d0\u05b7\u05e8\u05d0\u05d9\u05d9\u05e0\u05d9\u05d2\u05d8\u05e2 \u05e7\u05e2\u05e0\u05d9\u05d2\u05e8\u05d9\u05d9\u05da",
+        "is": "Bretland",
+        "ta": "\u0baf\u0bc1\u0ba9\u0bc8\u0b9f\u0bc6\u0b9f\u0bcd \u0b95\u0bbf\u0b99\u0bcd\u0b9f\u0bae\u0bcd",
+        "br": "Rouantelezh-Unanet",
+        "hu": "Egyes\u00fclt Kir\u00e1lys\u00e1g",
+        "et": "Suurbritannia",
+        "ku": "Keyaniya Yekb\u00fby\u00ee",
+        "sk": "Spojen\u00e9 kr\u00e1\u013eovstvo",
+        "sw": "Ufalme wa Muungano",
+        "os": "\u0421\u0442\u044b\u0440 \u0411\u0440\u0438\u0442\u0430\u043d\u0438",
+        "te": "\u0c2f\u0c41\u0c28\u0c48\u0c1f\u0c46\u0c21\u0c4d \u0c15\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c21\u0c2e\u0c4d",
+        "ro": "Regatul Unit",
+        "ki": "Ngeretha",
+        "su": "Inggris Raya",
+        "ak": "Ahendiman Nkabom",
+        "tg": "\u0428\u043e\u04b3\u0438\u0433\u0430\u0440\u0438\u0438 \u041c\u0443\u0442\u0442\u0430\u04b3\u0438\u0434\u0430",
+        "ml": "\u0d2f\u0d41\u0d23\u0d48\u0d31\u0d4d\u0d31\u0d21\u0d4d \u0d15\u0d3f\u0d02\u0d17\u0d4d\u0d21\u0d02",
+        "yo": "Or\u00edl\u025b\u0301\u00e8d\u00e8 G\u025b\u0300\u025b\u0301s\u00ec",
+        "as": "\u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u09f0\u09be\u099c\u09cd\u09af",
+        "am": "\u12e9\u1293\u12ed\u1275\u12f5 \u12aa\u1295\u130d\u12f0\u121d",
+        "se": "Stuorra-Brit\u00e1nnia",
+        "ia": "Regno Unite",
+        "om": "United Kingdom",
+        "ti": "\u12a5\u1295\u130d\u120a\u12dd",
+        "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "ga": "an R\u00edocht Aontaithe",
+        "bg": "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e\u0442\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e",
+        "my": "\u101a\u1030\u1014\u102d\u102f\u1000\u103a\u1010\u1000\u103a\u1000\u1004\u103a\u1038\u1012\u1019\u103a\u1038",
+        "fy": "Verenigd Koninkrijk",
+        "bm": "Angil\u025bt\u025bri",
+        "gu": "\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0a95\u0abf\u0a82\u0a97\u0aa1\u0aae",
+        "uz": "\u0411\u0443\u044e\u043a \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "cy": "Y Deyrnas Unedig",
+        "ug": "\u0628\u0649\u0631\u0644\u06d5\u0634\u0645\u06d5 \u067e\u0627\u062f\u0649\u0634\u0627\u06be\u0644\u0649\u0642",
+        "nn": "Storbritannia",
+        "uk": "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f",
+        "qu": "Reino Unido",
+        "tl": "United Kingdom",
+        "ms": "United Kingdom",
+        "so": "Boqortooyada Midowday",
+        "da": "Storbritannien",
+        "tt": "\u0411\u0435\u0440\u043b\u04d9\u0448\u043a\u04d9\u043d \u041a\u043e\u0440\u043e\u043b\u044c\u043b\u0435\u043a",
+        "af": "Verenigde Koninkryk",
+        "ha": "Biritaniya",
+        "iw": "\u05d1\u05e8\u05d9\u05d8\u05e0\u05d9\u05d4",
+        "ee": "United Kingdom nutome",
+        "in": "Inggris Raya",
+        "to": "Pilit\u0101nia",
+        "sl": "Zdru\u017eeno kraljestvo",
+        "sg": "K\u00f6d\u00f6r\u00f6gb\u00ef\u00e4--\u00d4ko",
+        "lb": "Groussbritannien",
+        "fo": "St\u00f3rabretland",
+        "mn": "\u0418\u0445 \u0411\u0440\u0438\u0442\u0430\u043d\u0438",
+        "id": "Inggris Raya",
+        "pa": "\u0a2f\u0a42\u0a28\u0a3e\u0a08\u0a1f\u0a21 \u0a15\u0a3f\u0a70\u0a17\u0a21\u0a2e",
+        "ka": "\u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10e3\u10da\u10d8 \u10e1\u10d0\u10db\u10d4\u10e4\u10dd",
+        "nd": "United Kingdom"
     },
-    "ISO3166-2": {
-        "ABD": {
-            "name": "Aberdeenshire",
-            "code": "ABD",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 57.1621429,
-            "lng": -2.7194167000000107
-        },
-        "ABE": {
-            "name": "Aberdeen City",
-            "code": "ABE",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 57.1474915,
-            "lng": -2.095397000000048
-        },
-        "AGB": {
-            "name": "Argyll and Bute",
-            "code": "AGB",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9942351,
-            "lng": -5.444033200000035
-        },
-        "AGY": {
-            "name": "Isle of Anglesey;Sir Ynys M\u00f4n",
-            "code": "AGY",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 53.255045,
-            "lng": -4.303615000000036
-        },
-        "ANS": {
-            "name": "Angus",
-            "code": "ANS",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.7969965,
-            "lng": -2.920681800000011
-        },
-        "ANT": {
-            "name": "Antrim",
-            "code": "ANT",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.7133822,
-            "lng": -6.216760900000054
-        },
-        "ARD": {
-            "name": "Ards",
-            "code": "ARD",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.5490339,
-            "lng": -5.532180000000039
-        },
-        "ARM": {
-            "name": "Armagh",
-            "code": "ARM",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.3475392,
-            "lng": -6.656108200000062
-        },
-        "BAS": {
-            "name": "Bath and North East Somerset",
-            "code": "BAS",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.3636293,
-            "lng": -2.439998699999933
-        },
-        "BBD": {
-            "name": "Blackburn with Darwen",
-            "code": "BBD",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.6898596,
-            "lng": -2.467862500000024
-        },
-        "BDF": {
-            "name": "Bedford",
-            "code": "BDF",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.1357092,
-            "lng": -0.46804420000000846
-        },
-        "BDG": {
-            "name": "Barking and Dagenham",
-            "code": "BDG",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.536279,
-            "lng": 0.08147789999998167
-        },
-        "BEN": {
-            "name": "Brent",
-            "code": "BEN",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5000387,
-            "lng": -0.23016770000003817
-        },
-        "BEX": {
-            "name": "Bexley",
-            "code": "BEX",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4413546,
-            "lng": 0.1486101000000417
-        },
-        "BFS": {
-            "name": "Belfast",
-            "code": "BFS",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.5972686,
-            "lng": -5.930108799999971
-        },
-        "BGE": {
-            "name": "Bridgend;Pen-y-bont ar Ogwr",
-            "code": "BGE",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.5072638,
-            "lng": -3.581042499999967
-        },
-        "BGW": {
-            "name": "Blaenau Gwent",
-            "code": "BGW",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.7666667,
-            "lng": -3.1666666999999507
-        },
-        "BIR": {
-            "name": "Birmingham",
-            "code": "BIR",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.4829614,
-            "lng": -1.8935920000000124
-        },
-        "BKM": {
-            "name": "Buckinghamshire",
-            "code": "BKM",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.6337949,
-            "lng": -0.5423292000000401
-        },
-        "BLA": {
-            "name": "Ballymena",
-            "code": "BLA",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.8631169,
-            "lng": -6.27834299999995
-        },
-        "BLY": {
-            "name": "Ballymoney",
-            "code": "BLY",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 55.070718,
-            "lng": -6.514895000000024
-        },
-        "BMH": {
-            "name": "Bournemouth",
-            "code": "BMH",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.7216814,
-            "lng": -1.8785265999999865
-        },
-        "BNB": {
-            "name": "Banbridge",
-            "code": "BNB",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.3510361,
-            "lng": -6.2670201999999335
-        },
-        "BNE": {
-            "name": "Barnet",
-            "code": "BNE",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.6529294,
-            "lng": -0.1996059000000514
-        },
-        "BNH": {
-            "name": "Brighton and Hove",
-            "code": "BNH",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.819522,
-            "lng": -0.13642000000004373
-        },
-        "BNS": {
-            "name": "Barnsley",
-            "code": "BNS",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5529326,
-            "lng": -1.481272200000035
-        },
-        "BOL": {
-            "name": "Bolton",
-            "code": "BOL",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5784742,
-            "lng": -2.429915199999982
-        },
-        "BPL": {
-            "name": "Blackpool",
-            "code": "BPL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.814165,
-            "lng": -3.053513500000008
-        },
-        "BRC": {
-            "name": "Bracknell Forest",
-            "code": "BRC",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4076953,
-            "lng": -0.7299759999999651
-        },
-        "BRD": {
-            "name": "Bradford",
-            "code": "BRD",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.793853,
-            "lng": -1.7524422000000186
-        },
-        "BRY": {
-            "name": "Bromley",
-            "code": "BRY",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4056832,
-            "lng": 0.014349700000025223
-        },
-        "BST": {
-            "name": "Bristol, City of",
-            "code": "BST",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4553129,
-            "lng": -2.591902300000015
-        },
-        "BUR": {
-            "name": "Bury",
-            "code": "BUR",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5934589,
-            "lng": -2.298540199999934
-        },
-        "CAM": {
-            "name": "Cambridgeshire",
-            "code": "CAM",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.4091753,
-            "lng": 0.2619601999999759
-        },
-        "CAY": {
-            "name": "Caerphilly;Caerffili",
-            "code": "CAY",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.5785968,
-            "lng": -3.2180610000000343
-        },
-        "CBF": {
-            "name": "Central Bedfordshire",
-            "code": "CBF",
-            "division": "unitary authority (england)",
-            "parent": "GB"
-        },
-        "CGN": {
-            "name": "Ceredigion;Sir Ceredigion",
-            "code": "CGN",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 52.2675185,
-            "lng": -4.563447999999994
-        },
-        "CGV": {
-            "name": "Craigavon",
-            "code": "CGV",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.4481176,
-            "lng": -6.3875785999999835
-        },
-        "CHE": {
-            "name": "Cheshire East",
-            "code": "CHE",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 41.4989861,
-            "lng": -72.90065800000002
-        },
-        "CHW": {
-            "name": "Cheshire West and Chester",
-            "code": "CHW",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 41.4989861,
-            "lng": -72.90065800000002
-        },
-        "CKF": {
-            "name": "Carrickfergus",
-            "code": "CKF",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.7210869,
-            "lng": -5.791205300000001
-        },
-        "CKT": {
-            "name": "Cookstown",
-            "code": "CKT",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.6458606,
-            "lng": -6.74514929999998
-        },
-        "CLD": {
-            "name": "Calderdale",
-            "code": "CLD",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.7420418,
-            "lng": -1.9952690000000075
-        },
-        "CLK": {
-            "name": "Clackmannanshire",
-            "code": "CLK",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.1241394,
-            "lng": -3.758378999999991
-        },
-        "CLR": {
-            "name": "Coleraine",
-            "code": "CLR",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 55.1319935,
-            "lng": -6.668451399999981
-        },
-        "CMA": {
-            "name": "Cumbria",
-            "code": "CMA",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 54.6060946,
-            "lng": -3.5318065999999817
-        },
-        "CMD": {
-            "name": "Camden",
-            "code": "CMD",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5517059,
-            "lng": -0.15882550000003448
-        },
-        "CMN": {
-            "name": "Carmarthenshire;Sir Gaerfyrddin",
-            "code": "CMN",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.8566796,
-            "lng": -4.328352399999972
-        },
-        "CON": {
-            "name": "Cornwall",
-            "code": "CON",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.3226691,
-            "lng": -5.019578799999977
-        },
-        "COV": {
-            "name": "Coventry",
-            "code": "COV",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.4058375,
-            "lng": -1.51266099999998
-        },
-        "CRF": {
-            "name": "Cardiff;Caerdydd",
-            "code": "CRF",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.4813069,
-            "lng": -3.1804978999999776
-        },
-        "CRY": {
-            "name": "Croydon",
-            "code": "CRY",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.3723608,
-            "lng": -0.10040149999997539
-        },
-        "CSR": {
-            "name": "Castlereagh",
-            "code": "CSR",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.5697361,
-            "lng": -5.893457600000033
-        },
-        "CWY": {
-            "name": "Conwy",
-            "code": "CWY",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 53.2817227,
-            "lng": -3.828438600000027
-        },
-        "DAL": {
-            "name": "Darlington",
-            "code": "DAL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.5287339,
-            "lng": -1.553050600000006
-        },
-        "DBY": {
-            "name": "Derbyshire",
-            "code": "DBY",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.973222,
-            "lng": -1.3571610000000192
-        },
-        "DEN": {
-            "name": "Denbighshire;Sir Ddinbych",
-            "code": "DEN",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 53.1833219,
-            "lng": -3.4205660999999736
-        },
-        "DER": {
-            "name": "Derby",
-            "code": "DER",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.9218993,
-            "lng": -1.4756419999999935
-        },
-        "DEV": {
-            "name": "Devon",
-            "code": "DEV",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 50.7772135,
-            "lng": -3.9994609999999966
-        },
-        "DGN": {
-            "name": "Dungannon",
-            "code": "DGN",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.5028522,
-            "lng": -6.769568299999946
-        },
-        "DGY": {
-            "name": "Dumfries and Galloway",
-            "code": "DGY",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.0690002,
-            "lng": -3.607779599999958
-        },
-        "DNC": {
-            "name": "Doncaster",
-            "code": "DNC",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5230412,
-            "lng": -1.1337621999999783
-        },
-        "DND": {
-            "name": "Dundee City",
-            "code": "DND",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.4614282,
-            "lng": -2.968110900000056
-        },
-        "DOR": {
-            "name": "Dorset",
-            "code": "DOR",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.037424,
-            "lng": -2.27470100000005
-        },
-        "DOW": {
-            "name": "Down",
-            "code": "DOW",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.3412911,
-            "lng": -5.748485399999936
-        },
-        "DRY": {
-            "name": "Derry",
-            "code": "DRY",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.9945099,
-            "lng": -7.3199955000000045
-        },
-        "DUD": {
-            "name": "Dudley",
-            "code": "DUD",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.508672,
-            "lng": -2.087335400000029
-        },
-        "DUR": {
-            "name": "Durham",
-            "code": "DUR",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.7786923,
-            "lng": -1.5596050999999989
-        },
-        "EAL": {
-            "name": "Ealing",
-            "code": "EAL",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5133506,
-            "lng": -0.3042136000000255
-        },
-        "EAY": {
-            "name": "East Ayrshire",
-            "code": "EAY",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.4592315,
-            "lng": -4.333803200000034
-        },
-        "EDH": {
-            "name": "Edinburgh, City of",
-            "code": "EDH",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9501755,
-            "lng": -3.187535900000057
-        },
-        "EDU": {
-            "name": "East Dunbartonshire",
-            "code": "EDU",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9755216,
-            "lng": -4.210514900000021
-        },
-        "ELN": {
-            "name": "East Lothian",
-            "code": "ELN",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9493383,
-            "lng": -2.770446399999969
-        },
-        "ELS": {
-            "name": "Eilean Siar",
-            "code": "ELS",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 58.1047127,
-            "lng": -6.697628799999961
-        },
-        "ENF": {
-            "name": "Enfield",
-            "code": "ENF",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.652096,
-            "lng": -0.08153300000003583
-        },
-        "ENG": {
-            "name": "England",
-            "code": "ENG",
-            "names": {
-                "geonames": "England",
-                "en": "England",
-                "ar": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627",
-                "de": "England",
-                "es": "Inglaterra",
-                "fr": "Angleterre",
-                "it": "Inghilterra",
-                "ru": "\u0410\u043d\u0433\u043b\u0438\u044f",
-                "zh": "\u82f1\u683c\u5170"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "ERW": {
-            "name": "East Renfrewshire",
-            "code": "ERW",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.8298581,
-            "lng": -4.542838500000016
-        },
-        "ERY": {
-            "name": "East Riding of Yorkshire",
-            "code": "ERY",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.8215889,
-            "lng": -0.7189977000000454
-        },
-        "ESS": {
-            "name": "Essex",
-            "code": "ESS",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.547337,
-            "lng": 0.5745349999999689
-        },
-        "ESX": {
-            "name": "East Sussex",
-            "code": "ESX",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 50.9278293,
-            "lng": 0.13243230000000494
-        },
-        "FAL": {
-            "name": "Falkirk",
-            "code": "FAL",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.0006668,
-            "lng": -3.7843589000000293
-        },
-        "FER": {
-            "name": "Fermanagh",
-            "code": "FER",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.4513524,
-            "lng": -7.712501800000041
-        },
-        "FIF": {
-            "name": "Fife",
-            "code": "FIF",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.2082078,
-            "lng": -3.1495175000000017
-        },
-        "FLN": {
-            "name": "Flintshire;Sir y Fflint",
-            "code": "FLN",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 53.1801164,
-            "lng": -3.129874299999983
-        },
-        "GAT": {
-            "name": "Gateshead",
-            "code": "GAT",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 54.9593729,
-            "lng": -1.6018252000000075
-        },
-        "GLG": {
-            "name": "Glasgow City",
-            "code": "GLG",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.8656274,
-            "lng": -4.257222700000057
-        },
-        "GLS": {
-            "name": "Gloucestershire",
-            "code": "GLS",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.8929617,
-            "lng": -2.1578916999999365
-        },
-        "GRE": {
-            "name": "Greenwich",
-            "code": "GRE",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.47527,
-            "lng": -0.013130000000046493
-        },
-        "GWN": {
-            "name": "Gwynedd",
-            "code": "GWN",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 52.8928932,
-            "lng": -3.995846400000005
-        },
-        "HAL": {
-            "name": "Halton",
-            "code": "HAL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.334258,
-            "lng": -2.6947440000000142
-        },
-        "HAM": {
-            "name": "Hampshire",
-            "code": "HAM",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.3652154,
-            "lng": -1.5259141999999883
-        },
-        "HAV": {
-            "name": "Havering",
-            "code": "HAV",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.577924,
-            "lng": 0.21208290000004126
-        },
-        "HCK": {
-            "name": "Hackney",
-            "code": "HCK",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.51648,
-            "lng": -0.1028999999999769
-        },
-        "HEF": {
-            "name": "Herefordshire",
-            "code": "HEF",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.0765164,
-            "lng": -2.654418200000009
-        },
-        "HIL": {
-            "name": "Hillingdon",
-            "code": "HIL",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 50.741327,
-            "lng": -2.7455340000000206
-        },
-        "HLD": {
-            "name": "Highland",
-            "code": "HLD",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 58.4666667,
-            "lng": -3.0666667000000416
-        },
-        "HMF": {
-            "name": "Hammersmith and Fulham",
-            "code": "HMF",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4929163,
-            "lng": -0.22579159999997955
-        },
-        "HNS": {
-            "name": "Hounslow",
-            "code": "HNS",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.467586,
-            "lng": -0.3617990000000191
-        },
-        "HPL": {
-            "name": "Hartlepool",
-            "code": "HPL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.6824924,
-            "lng": -1.216696899999988
-        },
-        "HRT": {
-            "name": "Hertfordshire",
-            "code": "HRT",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.7519553,
-            "lng": -0.23856380000006538
-        },
-        "HRW": {
-            "name": "Harrow",
-            "code": "HRW",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5788094,
-            "lng": -0.33376050000003943
-        },
-        "HRY": {
-            "name": "Haringey",
-            "code": "HRY",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.57719,
-            "lng": -0.09814000000005763
-        },
-        "IOW": {
-            "name": "Isle of Wight",
-            "code": "IOW",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.6927176,
-            "lng": -1.316710300000068
-        },
-        "ISL": {
-            "name": "Islington",
-            "code": "ISL",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5349798,
-            "lng": -0.10373789999994187
-        },
-        "IVC": {
-            "name": "Inverclyde",
-            "code": "IVC",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9118089,
-            "lng": -4.735906300000011
-        },
-        "KEC": {
-            "name": "Kensington and Chelsea",
-            "code": "KEC",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5018856,
-            "lng": -0.19089480000002368
-        },
-        "KEN": {
-            "name": "Kent",
-            "code": "KEN",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.38129,
-            "lng": 0.22030599999993683
-        },
-        "KHL": {
-            "name": "Kingston upon Hull",
-            "code": "KHL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.7581538,
-            "lng": -0.33182769999996253
-        },
-        "KIR": {
-            "name": "Kirklees",
-            "code": "KIR",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5933432,
-            "lng": -1.8009508999999753
-        },
-        "KTT": {
-            "name": "Kingston upon Thames",
-            "code": "KTT",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.412317,
-            "lng": -0.3004429999999729
-        },
-        "KWL": {
-            "name": "Knowsley",
-            "code": "KWL",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.457035,
-            "lng": -2.853080200000022
-        },
-        "LAN": {
-            "name": "Lancashire",
-            "code": "LAN",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 53.6828744,
-            "lng": -2.656024099999968
-        },
-        "LBH": {
-            "name": "Lambeth",
-            "code": "LBH",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.47241,
-            "lng": -0.16416000000003805
-        },
-        "LCE": {
-            "name": "Leicester",
-            "code": "LCE",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.6347704,
-            "lng": -1.1295191000000386
-        },
-        "LDS": {
-            "name": "Leeds",
-            "code": "LDS",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.7996388,
-            "lng": -1.5491220999999769
-        },
-        "LEC": {
-            "name": "Leicestershire",
-            "code": "LEC",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.6347704,
-            "lng": -1.1295191000000386
-        },
-        "LEW": {
-            "name": "Lewisham",
-            "code": "LEW",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.456879,
-            "lng": -0.015964400000029855
-        },
-        "LIN": {
-            "name": "Lincolnshire",
-            "code": "LIN",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 53.234863,
-            "lng": -0.538436000000047
-        },
-        "LIV": {
-            "name": "Liverpool",
-            "code": "LIV",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4107766,
-            "lng": -2.9778383000000304
-        },
-        "LMV": {
-            "name": "Limavady",
-            "code": "LMV",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 55.0508545,
-            "lng": -6.95053699999994
-        },
-        "LND": {
-            "name": "London, City of",
-            "code": "LND",
-            "division": "city corporation",
-            "parent": "GB",
-            "lat": 51.5001524,
-            "lng": -0.12623619999999391
-        },
-        "LRN": {
-            "name": "Larne",
-            "code": "LRN",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.8551031,
-            "lng": -5.811254500000018
-        },
-        "LSB": {
-            "name": "Lisburn",
-            "code": "LSB",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.510893,
-            "lng": -6.042726000000016
-        },
-        "LUT": {
-            "name": "Luton",
-            "code": "LUT",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.879652,
-            "lng": -0.41755799999998544
-        },
-        "MAN": {
-            "name": "Manchester",
-            "code": "MAN",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4807125,
-            "lng": -2.234376500000053
-        },
-        "MDB": {
-            "name": "Middlesbrough",
-            "code": "MDB",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.5730073,
-            "lng": -1.2379105999999638
-        },
-        "MDW": {
-            "name": "Medway",
-            "code": "MDW",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4084923,
-            "lng": 0.5878457000000026
-        },
-        "MFT": {
-            "name": "Magherafelt",
-            "code": "MFT",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.7554017,
-            "lng": -6.606028599999945
-        },
-        "MIK": {
-            "name": "Milton Keynes",
-            "code": "MIK",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.0422,
-            "lng": -0.7047000000000025
-        },
-        "MLN": {
-            "name": "Midlothian",
-            "code": "MLN",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.8292247,
-            "lng": -3.133842800000025
-        },
-        "MON": {
-            "name": "Monmouthshire;Sir Fynwy",
-            "code": "MON",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.7682335,
-            "lng": -3.19077249999998
-        },
-        "MRT": {
-            "name": "Merton",
-            "code": "MRT",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4156715,
-            "lng": -0.19181400000002213
-        },
-        "MRY": {
-            "name": "Moray",
-            "code": "MRY",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 57.511548,
-            "lng": -3.2483773000000156
-        },
-        "MTY": {
-            "name": "Merthyr Tydfil;Merthyr Tudful",
-            "code": "MTY",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.747508,
-            "lng": -3.3780510000000277
-        },
-        "MYL": {
-            "name": "Moyle",
-            "code": "MYL",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 55.1149383,
-            "lng": -6.153783900000008
-        },
-        "NAY": {
-            "name": "North Ayrshire",
-            "code": "NAY",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.7113902,
-            "lng": -4.729983400000037
-        },
-        "NBL": {
-            "name": "Northumberland",
-            "code": "NBL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 55.3378051,
-            "lng": -2.25668440000004
-        },
-        "NDN": {
-            "name": "North Down",
-            "code": "NDN",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.6397427,
-            "lng": -5.710525599999983
-        },
-        "NEL": {
-            "name": "North East Lincolnshire",
-            "code": "NEL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.5527097,
-            "lng": -0.08846419999997579
-        },
-        "NET": {
-            "name": "Newcastle upon Tyne",
-            "code": "NET",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 54.9778404,
-            "lng": -1.612916499999983
-        },
-        "NFK": {
-            "name": "Norfolk",
-            "code": "NFK",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.755702,
-            "lng": 0.39888199999995777
-        },
-        "NGM": {
-            "name": "Nottingham",
-            "code": "NGM",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.9551147,
-            "lng": -1.1491717999999764
-        },
-        "NIR": {
-            "name": "Northern Ireland",
-            "code": "NIR",
-            "names": {
-                "geonames": "Northern Ireland",
-                "en": "Northern Ireland",
-                "ar": "\u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Nordirland",
-                "es": "Irlanda del Norte",
-                "fr": "Irlande du Nord",
-                "it": "Irlanda del Nord",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
-                "zh": "\u5317\u7231\u5c14\u5170"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "NLK": {
-            "name": "North Lanarkshire",
-            "code": "NLK",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.8289139,
-            "lng": -3.922195800000054
-        },
-        "NLN": {
-            "name": "North Lincolnshire",
-            "code": "NLN",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.5942814,
-            "lng": -0.648982100000012
-        },
-        "NSM": {
-            "name": "North Somerset",
-            "code": "NSM",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4409659,
-            "lng": -2.7426527999999735
-        },
-        "NTA": {
-            "name": "Newtownabbey",
-            "code": "NTA",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.684823,
-            "lng": -5.965868499999942
-        },
-        "NTH": {
-            "name": "Northamptonshire",
-            "code": "NTH",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.2368744,
-            "lng": -0.8973905999999943
-        },
-        "NTL": {
-            "name": "Neath Port Talbot;Castell-nedd Port Talbot",
-            "code": "NTL",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.636884,
-            "lng": -3.817313000000013
-        },
-        "NTT": {
-            "name": "Nottinghamshire",
-            "code": "NTT",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.9551147,
-            "lng": -1.1491717999999764
-        },
-        "NTY": {
-            "name": "North Tyneside",
-            "code": "NTY",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 55.008,
-            "lng": -1.5460000000000491
-        },
-        "NWM": {
-            "name": "Newham",
-            "code": "NWM",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.519542,
-            "lng": 0.04041699999993398
-        },
-        "NWP": {
-            "name": "Newport;Casnewydd",
-            "code": "NWP",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.5877406,
-            "lng": -2.9983431000000564
-        },
-        "NYK": {
-            "name": "North Yorkshire",
-            "code": "NYK",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 54.158824,
-            "lng": -1.5421126999999615
-        },
-        "NYM": {
-            "name": "Newry and Mourne",
-            "code": "NYM",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.1780417,
-            "lng": -6.335768700000017
-        },
-        "OLD": {
-            "name": "Oldham",
-            "code": "OLD",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.541277,
-            "lng": -2.1176619999999957
-        },
-        "OMH": {
-            "name": "Omagh",
-            "code": "OMH",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.6003046,
-            "lng": -7.298401900000044
-        },
-        "ORK": {
-            "name": "Orkney Islands",
-            "code": "ORK",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 59.0238559,
-            "lng": -2.9889338000000407
-        },
-        "OXF": {
-            "name": "Oxfordshire",
-            "code": "OXF",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.836642,
-            "lng": -1.3199019999999564
-        },
-        "PEM": {
-            "name": "Pembrokeshire;Sir Benfro",
-            "code": "PEM",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.6713023,
-            "lng": -4.70091960000002
-        },
-        "PKN": {
-            "name": "Perth and Kinross",
-            "code": "PKN",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.3953367,
-            "lng": -3.4346610000000055
-        },
-        "PLY": {
-            "name": "Plymouth",
-            "code": "PLY",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.3703805,
-            "lng": -4.142652999999996
-        },
-        "POL": {
-            "name": "Poole",
-            "code": "POL",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.7194116,
-            "lng": -1.9811296000000311
-        },
-        "POR": {
-            "name": "Portsmouth",
-            "code": "POR",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.7989137,
-            "lng": -1.0911627000000408
-        },
-        "POW": {
-            "name": "Powys",
-            "code": "POW",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 52.1430868,
-            "lng": -3.3736820999999964
-        },
-        "PTE": {
-            "name": "Peterborough",
-            "code": "PTE",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.5702461,
-            "lng": -0.24373370000000705
-        },
-        "RCC": {
-            "name": "Redcar and Cleveland",
-            "code": "RCC",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.5393369,
-            "lng": -1.0310219000000416
-        },
-        "RCH": {
-            "name": "Rochdale",
-            "code": "RCH",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.6163516,
-            "lng": -2.158710199999973
-        },
-        "RCT": {
-            "name": "Rhondda, Cynon, Taff;Rhondda, Cynon,Taf",
-            "code": "RCT",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.614833,
-            "lng": -3.317741999999953
-        },
-        "RDB": {
-            "name": "Redbridge",
-            "code": "RDB",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.58861,
-            "lng": 0.08239760000003571
-        },
-        "RDG": {
-            "name": "Reading",
-            "code": "RDG",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.455041,
-            "lng": -0.9690884000000324
-        },
-        "RFW": {
-            "name": "Renfrewshire",
-            "code": "RFW",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.8298581,
-            "lng": -4.542838500000016
-        },
-        "RIC": {
-            "name": "Richmond upon Thames",
-            "code": "RIC",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4613418,
-            "lng": -0.3035466000000042
-        },
-        "ROT": {
-            "name": "Rotherham",
-            "code": "ROT",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4301709,
-            "lng": -1.356896699999993
-        },
-        "RUT": {
-            "name": "Rutland",
-            "code": "RUT",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.6583014,
-            "lng": -0.6396429999999782
-        },
-        "SAW": {
-            "name": "Sandwell",
-            "code": "SAW",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.5036188,
-            "lng": -1.9657042999999703
-        },
-        "SAY": {
-            "name": "South Ayrshire",
-            "code": "SAY",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.4635688,
-            "lng": -4.633187399999997
-        },
-        "SCB": {
-            "name": "Scottish Borders, The",
-            "code": "SCB",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.5485697,
-            "lng": -2.7861388000000034
-        },
-        "SCT": {
-            "name": "Scotland",
-            "code": "SCT",
-            "names": {
-                "geonames": "Scotland",
-                "en": "Scotland",
-                "ar": "\u0625\u0633\u0643\u062a\u0644\u0646\u062f\u0627",
-                "de": "Schottland",
-                "es": "Escocia",
-                "fr": "\u00c9cosse",
-                "it": "Scozia",
-                "ru": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
-                "zh": "\u8607\u683c\u862d"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "SFK": {
-            "name": "Suffolk",
-            "code": "SFK",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.127072,
-            "lng": 1.4105260000000044
-        },
-        "SFT": {
-            "name": "Sefton",
-            "code": "SFT",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5019362,
-            "lng": -2.97399919999998
-        },
-        "SGC": {
-            "name": "South Gloucestershire",
-            "code": "SGC",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.531456,
-            "lng": -2.454715800000031
-        },
-        "SHF": {
-            "name": "Sheffield",
-            "code": "SHF",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.3830548,
-            "lng": -1.4647952999999916
-        },
-        "SHN": {
-            "name": "St. Helens",
-            "code": "SHN",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4538756,
-            "lng": -2.7368942000000516
-        },
-        "SHR": {
-            "name": "Shropshire",
-            "code": "SHR",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.5864845,
-            "lng": -2.7037500999999793
-        },
-        "SKP": {
-            "name": "Stockport",
-            "code": "SKP",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4084881,
-            "lng": -2.1492931000000226
-        },
-        "SLF": {
-            "name": "Salford",
-            "code": "SLF",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.487707,
-            "lng": -2.290419799999995
-        },
-        "SLG": {
-            "name": "Slough",
-            "code": "SLG",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.5093466,
-            "lng": -0.5954477000000225
-        },
-        "SLK": {
-            "name": "South Lanarkshire",
-            "code": "SLK",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.5243038,
-            "lng": -3.7035077000000456
-        },
-        "SND": {
-            "name": "Sunderland",
-            "code": "SND",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 54.9044493,
-            "lng": -1.3814532999999756
-        },
-        "SOL": {
-            "name": "Solihull",
-            "code": "SOL",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.4147109,
-            "lng": -1.77429589999997
-        },
-        "SOM": {
-            "name": "Somerset",
-            "code": "SOM",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.2270511,
-            "lng": -2.3279255999999577
-        },
-        "SOS": {
-            "name": "Southend-on-Sea",
-            "code": "SOS",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.540905,
-            "lng": 0.7114900000000262
-        },
-        "SRY": {
-            "name": "Surrey",
-            "code": "SRY",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 51.1917906,
-            "lng": -0.4462819999999965
-        },
-        "STB": {
-            "name": "Strabane",
-            "code": "STB",
-            "division": "district council area",
-            "parent": "GB",
-            "lat": 54.8234317,
-            "lng": -7.4683738999999605
-        },
-        "STE": {
-            "name": "Stoke-on-Trent",
-            "code": "STE",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.0265029,
-            "lng": -2.1766360000000304
-        },
-        "STG": {
-            "name": "Stirling",
-            "code": "STG",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 56.1194238,
-            "lng": -3.9358819999999923
-        },
-        "STH": {
-            "name": "Southampton",
-            "code": "STH",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.904966,
-            "lng": -1.4032339999999976
-        },
-        "STN": {
-            "name": "Sutton",
-            "code": "STN",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.34424,
-            "lng": -0.1975600000000668
-        },
-        "STS": {
-            "name": "Staffordshire",
-            "code": "STS",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.8129085,
-            "lng": -2.0821780999999646
-        },
-        "STT": {
-            "name": "Stockton-on-Tees",
-            "code": "STT",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 54.5682262,
-            "lng": -1.3144336000000294
-        },
-        "STY": {
-            "name": "South Tyneside",
-            "code": "STY",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 54.9636693,
-            "lng": -1.4418633999999884
-        },
-        "SWA": {
-            "name": "Swansea;Abertawe",
-            "code": "SWA",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.6204415,
-            "lng": -3.94662859999994
-        },
-        "SWD": {
-            "name": "Swindon",
-            "code": "SWD",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.5584185,
-            "lng": -1.781985099999929
-        },
-        "SWK": {
-            "name": "Southwark",
-            "code": "SWK",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4834479,
-            "lng": -0.08208769999998822
-        },
-        "TAM": {
-            "name": "Tameside",
-            "code": "TAM",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4855515,
-            "lng": -2.09768489999999
-        },
-        "TFW": {
-            "name": "Telford and Wrekin",
-            "code": "TFW",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 52.7409916,
-            "lng": -2.486858600000005
-        },
-        "THR": {
-            "name": "Thurrock",
-            "code": "THR",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.5,
-            "lng": 0.41666669999995065
-        },
-        "TOB": {
-            "name": "Torbay",
-            "code": "TOB",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 50.4517705,
-            "lng": -3.5579060999999683
-        },
-        "TOF": {
-            "name": "Torfaen;Tor-faen",
-            "code": "TOF",
-            "division": "unitary authority (wales)",
-            "parent": "GB"
-        },
-        "TRF": {
-            "name": "Trafford",
-            "code": "TRF",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.4683994,
-            "lng": -2.3256433000000243
-        },
-        "TWH": {
-            "name": "Tower Hamlets",
-            "code": "TWH",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5202607,
-            "lng": -0.0293395999999575
-        },
-        "VGL": {
-            "name": "Vale of Glamorgan, The;Bro Morgannwg",
-            "code": "VGL",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 51.5,
-            "lng": -3.3333333000000493
-        },
-        "WAR": {
-            "name": "Warwickshire",
-            "code": "WAR",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.284972,
-            "lng": -1.609958000000006
-        },
-        "WBK": {
-            "name": "West Berkshire",
-            "code": "WBK",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4659863,
-            "lng": -1.2814014000000498
-        },
-        "WDU": {
-            "name": "West Dunbartonshire",
-            "code": "WDU",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9650641,
-            "lng": -4.506359599999996
-        },
-        "WFT": {
-            "name": "Waltham Forest",
-            "code": "WFT",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5886383,
-            "lng": -0.01176250000003165
-        },
-        "WGN": {
-            "name": "Wigan",
-            "code": "WGN",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.5442699,
-            "lng": -2.63106300000004
-        },
-        "WKF": {
-            "name": "Wakefield",
-            "code": "WKF",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.682965,
-            "lng": -1.4990970000000061
-        },
-        "WLL": {
-            "name": "Walsall",
-            "code": "WLL",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.5859475,
-            "lng": -1.982289499999979
-        },
-        "WLN": {
-            "name": "West Lothian",
-            "code": "WLN",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 55.9070198,
-            "lng": -3.5517167000000427
-        },
-        "WLS": {
-            "name": "Wales",
-            "code": "WLS",
-            "names": {
-                "geonames": "Wales",
-                "en": "Wales",
-                "ar": "\u0648\u064a\u0644\u0632",
-                "de": "Wales",
-                "es": "Gales",
-                "fr": "Pays de Galles",
-                "it": "Galles",
-                "ru": "\u0423\u044d\u043b\u044c\u0441",
-                "zh": "\u5a01\u723e\u58eb"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "WLV": {
-            "name": "Wolverhampton",
-            "code": "WLV",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 52.5857278,
-            "lng": -2.129250700000057
-        },
-        "WND": {
-            "name": "Wandsworth",
-            "code": "WND",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.4567897,
-            "lng": -0.19267949999994016
-        },
-        "WNM": {
-            "name": "Windsor and Maidenhead",
-            "code": "WNM",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4917059,
-            "lng": -0.7321755000000394
-        },
-        "WOK": {
-            "name": "Wokingham",
-            "code": "WOK",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 51.4109723,
-            "lng": -0.8349256000000196
-        },
-        "WOR": {
-            "name": "Worcestershire",
-            "code": "WOR",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 52.198769,
-            "lng": -2.2436669999999594
-        },
-        "WRL": {
-            "name": "Wirral",
-            "code": "WRL",
-            "division": "metropolitan district",
-            "parent": "GB",
-            "lat": 53.377974,
-            "lng": -3.108818000000042
-        },
-        "WRT": {
-            "name": "Warrington",
-            "code": "WRT",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.39263,
-            "lng": -2.586988799999972
-        },
-        "WRX": {
-            "name": "Wrexham;Wrecsam",
-            "code": "WRX",
-            "division": "unitary authority (wales)",
-            "parent": "GB",
-            "lat": 53.0469077,
-            "lng": -2.991673300000002
-        },
-        "WSM": {
-            "name": "Westminster",
-            "code": "WSM",
-            "division": "london borough",
-            "parent": "GB",
-            "lat": 51.5096446,
-            "lng": -0.1585863000000245
-        },
-        "WSX": {
-            "name": "West Sussex",
-            "code": "WSX",
-            "division": "two-tier county",
-            "parent": "GB",
-            "lat": 50.816021,
-            "lng": -0.9184020000000146
-        },
-        "YOR": {
-            "name": "York",
-            "code": "YOR",
-            "division": "unitary authority (england)",
-            "parent": "GB",
-            "lat": 53.9577018,
-            "lng": -1.0822855000000118
-        },
-        "ZET": {
-            "name": "Shetland Islands",
-            "code": "ZET",
-            "division": "council area",
-            "parent": "GB",
-            "lat": 60.4936893,
-            "lng": -1.381707199999937
+    "3166-2": [
+        {
+            "code": "GB-ABC",
+            "names": "Armagh, Banbridge and Craigavon",
+            "type": "District"
+        },
+        {
+            "code": "GB-ABD",
+            "names": "Aberdeenshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-ABE",
+            "names": "Aberdeen City",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-AGB",
+            "names": "Argyll and Bute",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-AGY",
+            "names": "Isle of Anglesey; Sir Ynys M\u00f4n",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-AND",
+            "names": "Ards and North Down",
+            "type": "District"
+        },
+        {
+            "code": "GB-ANN",
+            "names": "Antrim and Newtownabbey",
+            "type": "District"
+        },
+        {
+            "code": "GB-ANS",
+            "names": "Angus",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-BAS",
+            "names": "Bath and North East Somerset",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BBD",
+            "names": "Blackburn with Darwen",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BDF",
+            "names": "Bedford",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BDG",
+            "names": "Barking and Dagenham",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-BEN",
+            "names": "Brent",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-BEX",
+            "names": "Bexley",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-BFS",
+            "names": "Belfast",
+            "type": "District"
+        },
+        {
+            "code": "GB-BGE",
+            "names": "Bridgend; Pen-y-bont ar Ogwr",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BGW",
+            "names": "Blaenau Gwent",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BIR",
+            "names": "Birmingham",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-BKM",
+            "names": "Buckinghamshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-BMH",
+            "names": "Bournemouth",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BNE",
+            "names": "Barnet",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-BNH",
+            "names": "Brighton and Hove",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BNS",
+            "names": "Barnsley",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-BOL",
+            "names": "Bolton",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-BPL",
+            "names": "Blackpool",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BRC",
+            "names": "Bracknell Forest",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BRD",
+            "names": "Bradford",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-BRY",
+            "names": "Bromley",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-BST",
+            "names": "Bristol, City of",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-BUR",
+            "names": "Bury",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-CAM",
+            "names": "Cambridgeshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-CAY",
+            "names": "Caerphilly; Caerffili",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CBF",
+            "names": "Central Bedfordshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CCG",
+            "names": "Causeway Coast and Glens",
+            "type": "District"
+        },
+        {
+            "code": "GB-CGN",
+            "names": "Ceredigion; Sir Ceredigion",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CHE",
+            "names": "Cheshire East",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CHW",
+            "names": "Cheshire West and Chester",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CLD",
+            "names": "Calderdale",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-CLK",
+            "names": "Clackmannanshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-CMA",
+            "names": "Cumbria",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-CMD",
+            "names": "Camden",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-CMN",
+            "names": "Carmarthenshire; Sir Gaerfyrddin",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CON",
+            "names": "Cornwall",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-COV",
+            "names": "Coventry",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-CRF",
+            "names": "Cardiff; Caerdydd",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-CRY",
+            "names": "Croydon",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-CWY",
+            "names": "Conwy",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-DAL",
+            "names": "Darlington",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-DBY",
+            "names": "Derbyshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-DEN",
+            "names": "Denbighshire; Sir Ddinbych",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-DER",
+            "names": "Derby",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-DEV",
+            "names": "Devon",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-DGY",
+            "names": "Dumfries and Galloway",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-DNC",
+            "names": "Doncaster",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-DND",
+            "names": "Dundee City",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-DOR",
+            "names": "Dorset",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-DRS",
+            "names": "Derry and Strabane",
+            "type": "District"
+        },
+        {
+            "code": "GB-DUD",
+            "names": "Dudley",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-DUR",
+            "names": "Durham County",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-EAL",
+            "names": "Ealing",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-EAW",
+            "names": "England and Wales",
+            "type": "Nation"
+        },
+        {
+            "code": "GB-EAY",
+            "names": "East Ayrshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-EDH",
+            "names": "Edinburgh, City of",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-EDU",
+            "names": "East Dunbartonshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-ELN",
+            "names": "East Lothian",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-ELS",
+            "names": "Eilean Siar",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-ENF",
+            "names": "Enfield",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-ENG",
+            "names": "England",
+            "type": "Country"
+        },
+        {
+            "code": "GB-ERW",
+            "names": "East Renfrewshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-ERY",
+            "names": "East Riding of Yorkshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-ESS",
+            "names": "Essex",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-ESX",
+            "names": "East Sussex",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-FAL",
+            "names": "Falkirk",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-FIF",
+            "names": "Fife",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-FLN",
+            "names": "Flintshire; Sir y Fflint",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-FMO",
+            "names": "Fermanagh and Omagh",
+            "type": "District"
+        },
+        {
+            "code": "GB-GAT",
+            "names": "Gateshead",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-GBN",
+            "names": "Great Britain",
+            "type": "Nation"
+        },
+        {
+            "code": "GB-GLG",
+            "names": "Glasgow City",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-GLS",
+            "names": "Gloucestershire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-GRE",
+            "names": "Greenwich",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-GWN",
+            "names": "Gwynedd",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-HAL",
+            "names": "Halton",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-HAM",
+            "names": "Hampshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-HAV",
+            "names": "Havering",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HCK",
+            "names": "Hackney",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HEF",
+            "names": "Herefordshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-HIL",
+            "names": "Hillingdon",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HLD",
+            "names": "Highland",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-HMF",
+            "names": "Hammersmith and Fulham",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HNS",
+            "names": "Hounslow",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HPL",
+            "names": "Hartlepool",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-HRT",
+            "names": "Hertfordshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-HRW",
+            "names": "Harrow",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-HRY",
+            "names": "Haringey",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-IOS",
+            "names": "Isles of Scilly",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-IOW",
+            "names": "Isle of Wight",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-ISL",
+            "names": "Islington",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-IVC",
+            "names": "Inverclyde",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-KEC",
+            "names": "Kensington and Chelsea",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-KEN",
+            "names": "Kent",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-KHL",
+            "names": "Kingston upon Hull",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-KIR",
+            "names": "Kirklees",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-KTT",
+            "names": "Kingston upon Thames",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-KWL",
+            "names": "Knowsley",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-LAN",
+            "names": "Lancashire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-LBC",
+            "names": "Lisburn and Castlereagh",
+            "type": "District"
+        },
+        {
+            "code": "GB-LBH",
+            "names": "Lambeth",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-LCE",
+            "names": "Leicester",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-LDS",
+            "names": "Leeds",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-LEC",
+            "names": "Leicestershire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-LEW",
+            "names": "Lewisham",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-LIN",
+            "names": "Lincolnshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-LIV",
+            "names": "Liverpool",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-LND",
+            "names": "London, City of",
+            "type": "City corporation"
+        },
+        {
+            "code": "GB-LUT",
+            "names": "Luton",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MAN",
+            "names": "Manchester",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-MDB",
+            "names": "Middlesbrough",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MDW",
+            "names": "Medway",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MEA",
+            "names": "Mid and East Antrim",
+            "type": "District"
+        },
+        {
+            "code": "GB-MIK",
+            "names": "Milton Keynes",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MLN",
+            "names": "Midlothian",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-MON",
+            "names": "Monmouthshire; Sir Fynwy",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MRT",
+            "names": "Merton",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-MRY",
+            "names": "Moray",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-MTY",
+            "names": "Merthyr Tydfil; Merthyr Tudful",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-MUL",
+            "names": "Mid Ulster",
+            "type": "District"
+        },
+        {
+            "code": "GB-NAY",
+            "names": "North Ayrshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-NBL",
+            "names": "Northumberland",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NEL",
+            "names": "North East Lincolnshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NET",
+            "names": "Newcastle upon Tyne",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-NFK",
+            "names": "Norfolk",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-NGM",
+            "names": "Nottingham",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NIR",
+            "names": "Northern Ireland",
+            "type": "Province"
+        },
+        {
+            "code": "GB-NLK",
+            "names": "North Lanarkshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-NLN",
+            "names": "North Lincolnshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NMD",
+            "names": "Newry, Mourne and Down",
+            "type": "District"
+        },
+        {
+            "code": "GB-NSM",
+            "names": "North Somerset",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NTH",
+            "names": "Northamptonshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-NTL",
+            "names": "Neath Port Talbot; Castell-nedd Port Talbot",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NTT",
+            "names": "Nottinghamshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-NTY",
+            "names": "North Tyneside",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-NWM",
+            "names": "Newham",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-NWP",
+            "names": "Newport; Casnewydd",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-NYK",
+            "names": "North Yorkshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-OLD",
+            "names": "Oldham",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-ORK",
+            "names": "Orkney Islands",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-OXF",
+            "names": "Oxfordshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-PEM",
+            "names": "Pembrokeshire; Sir Benfro",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-PKN",
+            "names": "Perth and Kinross",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-PLY",
+            "names": "Plymouth",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-POL",
+            "names": "Poole",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-POR",
+            "names": "Portsmouth",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-POW",
+            "names": "Powys",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-PTE",
+            "names": "Peterborough",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-RCC",
+            "names": "Redcar and Cleveland",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-RCH",
+            "names": "Rochdale",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-RCT",
+            "names": "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-RDB",
+            "names": "Redbridge",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-RDG",
+            "names": "Reading",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-RFW",
+            "names": "Renfrewshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-RIC",
+            "names": "Richmond upon Thames",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-ROT",
+            "names": "Rotherham",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-RUT",
+            "names": "Rutland",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SAW",
+            "names": "Sandwell",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SAY",
+            "names": "South Ayrshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-SCB",
+            "names": "Scottish Borders, The",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-SCT",
+            "names": "Scotland",
+            "type": "Country"
+        },
+        {
+            "code": "GB-SFK",
+            "names": "Suffolk",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-SFT",
+            "names": "Sefton",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SGC",
+            "names": "South Gloucestershire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SHF",
+            "names": "Sheffield",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SHN",
+            "names": "St. Helens",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SHR",
+            "names": "Shropshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SKP",
+            "names": "Stockport",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SLF",
+            "names": "Salford",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SLG",
+            "names": "Slough",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SLK",
+            "names": "South Lanarkshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-SND",
+            "names": "Sunderland",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SOL",
+            "names": "Solihull",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SOM",
+            "names": "Somerset",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-SOS",
+            "names": "Southend-on-Sea",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SRY",
+            "names": "Surrey",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-STE",
+            "names": "Stoke-on-Trent",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-STG",
+            "names": "Stirling",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-STH",
+            "names": "Southampton",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-STN",
+            "names": "Sutton",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-STS",
+            "names": "Staffordshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-STT",
+            "names": "Stockton-on-Tees",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-STY",
+            "names": "South Tyneside",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-SWA",
+            "names": "Swansea; Abertawe",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SWD",
+            "names": "Swindon",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-SWK",
+            "names": "Southwark",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-TAM",
+            "names": "Tameside",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-TFW",
+            "names": "Telford and Wrekin",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-THR",
+            "names": "Thurrock",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-TOB",
+            "names": "Torbay",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-TOF",
+            "names": "Torfaen; Tor-faen",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-TRF",
+            "names": "Trafford",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-TWH",
+            "names": "Tower Hamlets",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-UKM",
+            "names": "United Kingdom",
+            "type": "Nation"
+        },
+        {
+            "code": "GB-VGL",
+            "names": "Vale of Glamorgan, The; Bro Morgannwg",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WAR",
+            "names": "Warwickshire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-WBK",
+            "names": "West Berkshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WDU",
+            "names": "West Dunbartonshire",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-WFT",
+            "names": "Waltham Forest",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-WGN",
+            "names": "Wigan",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-WIL",
+            "names": "Wiltshire",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WKF",
+            "names": "Wakefield",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-WLL",
+            "names": "Walsall",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-WLN",
+            "names": "West Lothian",
+            "type": "Council area"
+        },
+        {
+            "code": "GB-WLS",
+            "names": "Wales; Cymru",
+            "type": "Country"
+        },
+        {
+            "code": "GB-WLV",
+            "names": "Wolverhampton",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-WND",
+            "names": "Wandsworth",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-WNM",
+            "names": "Windsor and Maidenhead",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WOK",
+            "names": "Wokingham",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WOR",
+            "names": "Worcestershire",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-WRL",
+            "names": "Wirral",
+            "type": "Metropolitan district"
+        },
+        {
+            "code": "GB-WRT",
+            "names": "Warrington",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WRX",
+            "names": "Wrexham; Wrecsam",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-WSM",
+            "names": "Westminster",
+            "type": "London borough"
+        },
+        {
+            "code": "GB-WSX",
+            "names": "West Sussex",
+            "type": "Two-tier county"
+        },
+        {
+            "code": "GB-YOR",
+            "names": "York",
+            "type": "Unitary authority"
+        },
+        {
+            "code": "GB-ZET",
+            "names": "Shetland Islands",
+            "type": "Council area"
         }
-    }
+    ]
 }

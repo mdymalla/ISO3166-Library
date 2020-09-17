@@ -1,358 +1,211 @@
 {
     "alpha-2": "KR",
     "alpha-3": "KOR",
-    "numeric": 410,
-    "capital": "Seoul",
-    "currency": "KRW",
-    "languages": [
-        "ko"
-    ],
-    "flag-icon": "\ud83c\uddf0\ud83c\uddf7",
+    "numeric": "410",
     "names": {
-        "geonames": "South Korea",
-        "en": "Korea",
-        "ar": "\u0643\u0648\u0631\u064a\u0627",
-        "de": "Korea",
-        "es": "Corea",
-        "fr": "Cor\u00e9e",
-        "it": "Corea",
-        "kr": "\ub300\ud55c\ubbfc\uad6d",
-        "ru": "\u041a\u043e\u0440\u0435\u044f",
-        "zh": "\u671d\u9c9c",
-        "he": "\u05e7\u05d5\u05e8\u05d9\u05d0\u05d4",
-        "hi": "\u0915\u094b\u0930\u093f\u092f\u093e",
-        "ja": "\u671d\u9bae",
-        "pt": "Coreia"
+        "en": "South Korea",
+        "fr": "Cor\u00e9e du Sud",
+        "ur": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627",
+        "rn": "Koreya y\u2019amajepfo",
+        "lv": "Dienvidkoreja",
+        "hy": "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u0578\u0580\u0565\u0561",
+        "sq": "Kore e Jugut",
+        "jv": "Kor\u00e9a Kidul",
+        "or": "\u0b26\u0b15\u0b4d\u0b37\u0b3f\u0b23 \u0b15\u0b4b\u0b30\u0b3f\u0b06",
+        "mg": "Korea Atsimo",
+        "no": "S\u00f8r-Korea",
+        "zh": "\u97e9\u56fd",
+        "tr": "G\u00fcney Kore",
+        "bs": "Ju\u017ena Koreja",
+        "ja": "\u97d3\u56fd",
+        "th": "\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49",
+        "he": "\u05e7\u05d5\u05e8\u05d9\u05d0\u05d4 \u05d4\u05d3\u05e8\u05d5\u05de\u05d9\u05ea",
+        "fa": "\u06a9\u0631\u0647\u0654 \u062c\u0646\u0648\u0628\u06cc",
+        "kk": "\u041e\u04a3\u0442\u04af\u0441\u0442\u0456\u043a \u041a\u043e\u0440\u0435\u044f",
+        "mo": "Coreea de Sud",
+        "ff": "Koree Worgo",
+        "ca": "Corea del Sud",
+        "ar": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+        "eu": "Hego Korea",
+        "ps": "\u0633\u0648\u06cc\u0644\u064a \u06a9\u0648\u0631\u06cc\u0627",
+        "kn": "\u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3 \u0c95\u0cca\u0cb0\u0cbf\u0caf\u0cbe",
+        "si": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u1780\u17bc\u179a\u17c9\u17c1\u200b\u1781\u17b6\u1784\u200b\u178f\u17d2\u1794\u17bc\u1784",
+        "ne": "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e",
+        "bo": "\u0f63\u0fb7\u0f7c\u0f0b\u0f40\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f0d",
+        "fi": "Etel\u00e4-Korea",
+        "hi": "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e",
+        "rm": "Corea dal Sid",
+        "vi": "H\u00e0n Qu\u1ed1c",
+        "gl": "Corea do Sur",
+        "ig": "Mba South Korea",
+        "mr": "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u094b\u0930\u093f\u092f\u093e",
+        "es": "Corea del Sur",
+        "be": "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u041a\u0430\u0440\u044d\u044f",
+        "lg": "Koreya ey\u2019omumaserengeta",
+        "az": "\u04b8\u04d9\u043d\u0443\u0431\u0438 \u041a\u043e\u0440\u0435\u0458\u0430",
+        "ce": "\u041a\u044a\u0438\u043b\u0431\u0430 \u041a\u043e\u0440\u0435\u0439",
+        "mk": "\u0408\u0443\u0436\u043d\u0430 \u041a\u043e\u0440\u0435\u0458\u0430",
+        "zu": "i-South Korea",
+        "it": "Corea del Sud",
+        "ko": "\ub300\ud55c\ubbfc\uad6d",
+        "lo": "\u0ec0\u0e81\u0ebb\u0eb2\u0eab\u0ea5\u0eb5\u0ec3\u0e95\u0ec9",
+        "lt": "Piet\u0173 Kor\u0117ja",
+        "dz": "\u0f63\u0fb7\u0f7c\u0f0b \u0f40\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f61",
+        "ln": "Kor\u025b ya s\u00fadi",
+        "hr": "Ju\u017ena Koreja",
+        "ks": "\u062c\u0646\u0648\u0657\u0628\u06cc \u06a9\u0648\u0631\u0650\u06cc\u0627",
+        "sv": "Sydkorea",
+        "pl": "Korea Po\u0142udniowa",
+        "nb": "S\u00f8r-Korea",
+        "sh": "Ju\u017ena Koreja",
+        "lu": "Kore wa mwinshi",
+        "nl": "Zuid-Korea",
+        "ky": "\u0422\u04af\u0448\u0442\u04af\u043a \u041a\u043e\u0440\u0435\u044f",
+        "bn": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0995\u09cb\u09b0\u09bf\u09af\u09bc\u09be",
+        "sd": "\u068f\u06a9\u06bb \u06aa\u0648\u0631\u064a\u0627",
+        "gd": "Coir\u00e8a",
+        "cs": "Ji\u017en\u00ed Korea",
+        "tk": "G\u00fcnorta Kore\u00fda",
+        "eo": "Sud-Koreo",
+        "mt": "il-Korea t\u2019Isfel",
+        "sr": "Ju\u017ena Koreja",
+        "el": "\u039d\u03cc\u03c4\u03b9\u03b1 \u039a\u03bf\u03c1\u03ad\u03b1",
+        "sn": "Korea, South",
+        "pt": "Coreia do Sul",
+        "is": "Su\u00f0ur-K\u00f3rea",
+        "ta": "\u0ba4\u0bc6\u0ba9\u0bcd \u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe",
+        "br": "Korea ar Su",
+        "hu": "D\u00e9l-Korea",
+        "et": "L\u00f5una-Korea",
+        "ku": "Kor\u00eaya Ba\u015f\u00fbr",
+        "sk": "Ju\u017en\u00e1 K\u00f3rea",
+        "sw": "Korea Kusini",
+        "te": "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4a\u0c30\u0c3f\u0c2f\u0c3e",
+        "ro": "Coreea de Sud",
+        "ki": "Korea Kusini",
+        "ak": "Anaafo Koria",
+        "ml": "\u0d26\u0d15\u0d4d\u0d37\u0d3f\u0d23\u0d15\u0d4a\u0d31\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Ariwa K\u0254ria",
+        "de": "S\u00fcdkorea",
+        "as": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0995\u09cb\u09f0\u09bf\u09af\u09bc\u09be",
+        "am": "\u12f0\u1261\u1265 \u12ae\u122a\u12eb",
+        "se": "M\u00e1tta-Korea",
+        "ia": "Corea del Sud",
+        "ti": "\u12f0\u1261\u1265 \u12ae\u122a\u12eb",
+        "ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+        "ga": "an Ch\u00f3ir\u00e9 Theas",
+        "bg": "\u042e\u0436\u043d\u0430 \u041a\u043e\u0440\u0435\u044f",
+        "my": "\u1010\u1031\u102c\u1004\u103a\u1000\u102d\u102f\u101b\u102e\u1038\u101a\u102c\u1038",
+        "fy": "S\u00fbd-Korea",
+        "bm": "Worodugu Kore",
+        "gu": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a95\u0acb\u0ab0\u0abf\u0aaf\u0abe",
+        "uz": "\u0416\u0430\u043d\u0443\u0431\u0438\u0439 \u041a\u043e\u0440\u0435\u044f",
+        "cy": "De Korea",
+        "ug": "\u0643\u0648\u0631\u06d0\u064a\u06d5",
+        "nn": "S\u00f8r-Korea",
+        "uk": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u041a\u043e\u0440\u0435\u044f",
+        "qu": "Corea del Sur",
+        "tl": "Timog Korea",
+        "ms": "Korea Selatan",
+        "so": "Kuuriyada Koonfureed",
+        "da": "Sydkorea",
+        "af": "Suid-Korea",
+        "ha": "Koriya Ta Kudu",
+        "iw": "\u05e7\u05d5\u05e8\u05d9\u05d0\u05d4 \u05d4\u05d3\u05e8\u05d5\u05de\u05d9\u05ea",
+        "ee": "Anyiehe Korea nutome",
+        "in": "Korea Selatan",
+        "to": "K\u014dlea tonga",
+        "sl": "Ju\u017ena Koreja",
+        "sg": "Kor\u00ebe t\u00ee Mbongo",
+        "lb": "S\u00fcdkorea",
+        "fo": "Su\u00f0urkorea",
+        "mn": "\u04e8\u043c\u043d\u04e9\u0434 \u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441",
+        "id": "Korea Selatan",
+        "pa": "\u0a26\u0a71\u0a16\u0a23 \u0a15\u0a4b\u0a30\u0a40\u0a06",
+        "ka": "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7 \u10d9\u10dd\u10e0\u10d4\u10d0",
+        "nd": "South Korea"
     },
-    "ISO3166-2": {
-        "11": {
-            "name": "Seoul",
-            "code": "11",
-            "names": {
-                "geonames": "Seoul",
-                "ru": "\u0421\u0435\u0443\u043b",
-                "en": "Seoul",
-                "ar": "\u0633\u064a\u0626\u0648\u0644",
-                "de": "Seoul",
-                "es": "Se\u00fal",
-                "fr": "S\u00e9oul",
-                "it": "Seul",
-                "kr": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
-                "zh": "\u9996\u723e"
-            },
-            "division": "capital metropolitan city",
-            "parent": "KR",
-            "lat": 37.566535,
-            "lng": 126.97796919999996
+    "3166-2": [
+        {
+            "code": "KR-11",
+            "names": "Seoul Teugbyeolsi",
+            "type": "Capital Metropolitan City"
         },
-        "22": {
-            "name": "Sejong-si",
-            "code": "22",
-            "names": {
-                "geonames": "Sejong-si",
-                "en": "Sejong-si",
-                "kr": "\uc138\uc885\ud2b9\ubcc4\uc790\uce58\uc2dc"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "KR-26",
+            "names": "Busan Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "26": {
-            "name": "Busan",
-            "code": "26",
-            "names": {
-                "geonames": "Busan",
-                "ru": "\u041f\u0443\u0441\u0430\u043d",
-                "en": "Busan",
-                "ar": "\u0628\u0633\u0627\u0646",
-                "de": "Busan",
-                "es": "Busan",
-                "fr": "Busan",
-                "it": "Busan",
-                "kr": "\ubd80\uc0b0\uad11\uc5ed\uc2dc",
-                "zh": "\u91dc\u5c71\u5ee3\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 35.1795543,
-            "lng": 129.07564160000004
+        {
+            "code": "KR-27",
+            "names": "Daegu Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "27": {
-            "name": "Daegu",
-            "code": "27",
-            "names": {
-                "geonames": "Daegu",
-                "ru": "\u0422\u044d\u0433\u0443",
-                "en": "Daegu",
-                "ar": "\u062f\u064a\u063a\u0648",
-                "de": "Daegu",
-                "es": "Daegu",
-                "fr": "Daegu",
-                "it": "Daegu",
-                "kr": "\ub300\uad6c\uad11\uc5ed\uc2dc",
-                "zh": "\u5927\u90b1\u5ee3\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 35.8714354,
-            "lng": 128.601445
+        {
+            "code": "KR-28",
+            "names": "Incheon Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "28": {
-            "name": "Incheon",
-            "code": "28",
-            "names": {
-                "geonames": "Incheon",
-                "ru": "\u0418\u043d\u0447\u0445\u043e\u043d",
-                "en": "Incheon",
-                "ar": "\u0625\u0646\u062a\u0634\u0648\u0646",
-                "de": "Incheon",
-                "es": "Incheon",
-                "fr": "Incheon",
-                "it": "Incheon",
-                "kr": "\uc778\ucc9c\uad11\uc5ed\uc2dc",
-                "zh": "\u4ec1\u5ddd\u5ee3\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 37.4562557,
-            "lng": 126.70520620000002
+        {
+            "code": "KR-29",
+            "names": "Gwangju Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "29": {
-            "name": "Gwangju",
-            "code": "29",
-            "names": {
-                "geonames": "Gwangju",
-                "ru": "\u041a\u0432\u0430\u043d\u0434\u0436\u0443",
-                "en": "Gwangju",
-                "ar": "\u063a\u0648\u0627\u0646\u063a\u062c\u0648",
-                "de": "Gwangju",
-                "es": "Gwangju",
-                "fr": "Gwangju",
-                "it": "Gwangju",
-                "kr": "\uad11\uc8fc\uad11\uc5ed\uc2dc",
-                "zh": "\u5149\u5dde\u5ee3\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 35.1595454,
-            "lng": 126.85260119999998
+        {
+            "code": "KR-30",
+            "names": "Daejeon Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "30": {
-            "name": "Daejeon",
-            "code": "30",
-            "names": {
-                "geonames": "Daejeon",
-                "ru": "\u0422\u044d\u0434\u0436\u043e\u043d",
-                "en": "Daejeon",
-                "ar": "\u062f\u0627\u064a\u062c\u064a\u0648\u0646",
-                "de": "Daejeon",
-                "es": "Daejeon",
-                "fr": "Daejeon",
-                "it": "Daejeon",
-                "kr": "\ub300\uc804\uad11\uc5ed\uc2dc",
-                "zh": "\u5927\u7530\u5e7f\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 36.3504119,
-            "lng": 127.38454750000005
+        {
+            "code": "KR-31",
+            "names": "Ulsan Gwang'yeogsi",
+            "type": "Metropolitan cities"
         },
-        "31": {
-            "name": "Ulsan",
-            "code": "31",
-            "names": {
-                "geonames": "Ulsan",
-                "ru": "\u0423\u043b\u044c\u0441\u0430\u043d",
-                "en": "Ulsan",
-                "ar": "\u0623\u0648\u0644\u0633\u0627\u0646",
-                "de": "Ulsan",
-                "es": "Ulsan",
-                "fr": "Ulsan",
-                "it": "Ulsan",
-                "kr": "\uc6b8\uc0b0\uad11\uc5ed\uc2dc",
-                "zh": "\u851a\u5c71\u5e7f\u57df\u5e02"
-            },
-            "division": "metropolitan cities",
-            "parent": "KR",
-            "lat": 35.5383773,
-            "lng": 129.31135960000006
+        {
+            "code": "KR-41",
+            "names": "Gyeonggido",
+            "type": "Province"
         },
-        "41": {
-            "name": "Gyeonggi Province",
-            "code": "41",
-            "names": {
-                "geonames": "Gyeonggi-do",
-                "ru": "\u041a\u0451\u043d\u0433\u0438\u0434\u043e",
-                "en": "Gyeonggi Province",
-                "ar": "\u063a\u064a\u0648\u0646\u063a\u064a",
-                "de": "Gyeonggi-do",
-                "es": "Gyeonggi",
-                "fr": "Gyeonggi",
-                "it": "Gyeonggi",
-                "kr": "\uacbd\uae30\ub3c4",
-                "zh": "\u4eac\u757f\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 44.4957481,
-            "lng": 11.294686800000022
+        {
+            "code": "KR-42",
+            "names": "Gang'weondo",
+            "type": "Province"
         },
-        "42": {
-            "name": "Gangwon Province",
-            "code": "42",
-            "names": {
-                "geonames": "Gangwon-do",
-                "en": "Gangwon Province",
-                "ar": "\u063a\u0627\u0646\u063a\u0648\u0648\u0646",
-                "de": "Gangwon-do",
-                "es": "Gangwon",
-                "fr": "Gangwon",
-                "it": "Gangwon",
-                "kr": "\uac15\uc6d0\ub3c4",
-                "ru": "\u041a\u0430\u043d\u0432\u043e\u043d\u0434\u043e",
-                "zh": "\u6c5f\u539f\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "KR-43",
+            "names": "Chungcheongbukdo",
+            "type": "Province"
         },
-        "43": {
-            "name": "North Chungcheong Province",
-            "code": "43",
-            "names": {
-                "geonames": "North Chungcheong",
-                "ru": "\u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d-\u041f\u0443\u043a\u0442\u043e",
-                "en": "North Chungcheong Province",
-                "ar": "\u062a\u0634\u0646\u063a\u062a\u0634\u0648\u0646\u063a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-                "de": "Chungcheongbuk-do",
-                "es": "Chungcheong del Norte",
-                "fr": "Chungcheong du Nord",
-                "it": "Nord Chungcheong",
-                "kr": "\ucda9\uccad\ubd81\ub3c4",
-                "zh": "\u5fe0\u6e05\u5317\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 36.8,
-            "lng": 127.70000000000005
+        {
+            "code": "KR-44",
+            "names": "Chungcheongnamdo",
+            "type": "Province"
         },
-        "44": {
-            "name": "South Chungcheong Province",
-            "code": "44",
-            "names": {
-                "geonames": "Chungcheongnam-do",
-                "ru": "\u0427\u0445\u0443\u043d\u0447\u0445\u043e\u043d-\u041d\u0430\u043c\u0434\u043e",
-                "en": "South Chungcheong Province",
-                "ar": "\u062a\u0634\u0646\u063a\u062a\u0634\u0648\u0646\u063a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
-                "de": "Chungcheongnam-do",
-                "es": "Chungcheong del Sur",
-                "fr": "Chungcheong du Sud",
-                "it": "Sud Chungcheong",
-                "kr": "\ucda9\uccad\ub0a8\ub3c4",
-                "zh": "\u5fe0\u6e05\u5357\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 36.5184,
-            "lng": 126.79999999999995
+        {
+            "code": "KR-45",
+            "names": "Jeonrabukdo",
+            "type": "Province"
         },
-        "45": {
-            "name": "North Jeolla Province",
-            "code": "45",
-            "names": {
-                "geonames": "Jeollabuk-do",
-                "ru": "\u0427\u043e\u043b\u043b\u0430-\u041f\u0443\u043a\u0442\u043e",
-                "en": "North Jeolla Province",
-                "de": "Jeollabuk-do",
-                "es": "Jeolla del Norte",
-                "fr": "Jeolla du Nord",
-                "it": "Nord Jeolla",
-                "kr": "\uc804\ub77c\ubd81\ub3c4",
-                "zh": "\u5168\u7f85\u5317\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "KR-46",
+            "names": "Jeonranamdo",
+            "type": "Province"
         },
-        "46": {
-            "name": "South Jeolla Province",
-            "code": "46",
-            "names": {
-                "geonames": "Jeollanam-do",
-                "ru": "\u0427\u043e\u043b\u043b\u0430-\u041d\u0430\u043c\u0434\u043e",
-                "en": "South Jeolla Province",
-                "de": "Jeollanam-do",
-                "es": "Jeolla del Sur",
-                "fr": "Jeolla du Sud",
-                "it": "Sud Jeolla",
-                "kr": "\uc804\ub77c\ub0a8\ub3c4",
-                "zh": "\u5168\u7f85\u5357\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 34.8679,
-            "lng": 126.99099999999999
+        {
+            "code": "KR-47",
+            "names": "Gyeongsangbukdo",
+            "type": "Province"
         },
-        "47": {
-            "name": "North Gyeongsang Province",
-            "code": "47",
-            "names": {
-                "geonames": "Gyeongsangbuk-do",
-                "ru": "\u041a\u0451\u043d\u0441\u0430\u043d-\u041f\u0443\u043a\u0442\u043e",
-                "en": "North Gyeongsang Province",
-                "de": "Gyeongsangbuk-do",
-                "es": "Gyeongsang del Norte",
-                "fr": "Gyeongsang du Nord",
-                "it": "Nord Gyeongsang",
-                "kr": "\uacbd\uc0c1\ubd81\ub3c4",
-                "zh": "\u5e86\u5c1a\u5317\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 36.4919,
-            "lng": 128.88890000000004
+        {
+            "code": "KR-48",
+            "names": "Gyeongsangnamdo",
+            "type": "Province"
         },
-        "48": {
-            "name": "South Gyeongsang Province",
-            "code": "48",
-            "names": {
-                "geonames": "Gyeongsangnam-do",
-                "ru": "\u041a\u0451\u043d\u0441\u0430\u043d-\u041d\u0430\u043c\u0434\u043e",
-                "en": "South Gyeongsang Province",
-                "de": "Gyeongsangnam-do",
-                "es": "Gyeongsang del Sur",
-                "fr": "Gyeongsang du Sud",
-                "it": "Sud Gyeongsang",
-                "kr": "\uacbd\uc0c1\ub0a8\ub3c4",
-                "zh": "\u5e86\u5c1a\u5357\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": 35.4606,
-            "lng": 128.21320000000003
-        },
-        "49": {
-            "name": "Jeju Province",
-            "code": "49",
-            "names": {
-                "geonames": "Jeju-do",
-                "ru": "\u0427\u0435\u0434\u0436\u0443\u0434\u043e",
-                "en": "Jeju Province",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062c\u064a\u062c\u0648",
-                "de": "Jeju-do",
-                "es": "Jeju",
-                "fr": "Jeju-do",
-                "it": "Jeju-do",
-                "kr": "\uc81c\uc8fc\ud2b9\ubcc4\uc790\uce58\ub3c4",
-                "zh": "\u6fdf\u5dde\u7279\u5225\u81ea\u6cbb\u9053"
-            },
-            "division": "province",
-            "parent": "KR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "KR-49",
+            "names": "Jejudo",
+            "type": "Province"
         }
-    }
+    ]
 }

@@ -1,529 +1,264 @@
 {
     "alpha-2": "TZ",
     "alpha-3": "TZA",
-    "numeric": 834,
-    "capital": "Dodoma",
-    "currency": "TZS",
-    "languages": [
-        "sw",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddff",
+    "numeric": "834",
     "names": {
-        "geonames": "Tanzania",
         "en": "Tanzania",
-        "ar": "\u062a\u0646\u0632\u0627\u0646\u064a\u0627",
-        "de": "Tansania",
-        "es": "Tanzania",
         "fr": "Tanzanie",
-        "it": "Tanzania",
-        "ru": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "ur": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1",
+        "rn": "Tanzaniya",
+        "lv": "Tanz\u0101nija",
+        "hy": "\u054f\u0561\u0576\u0566\u0561\u0576\u056b\u0561",
+        "sq": "Tanzani",
+        "jv": "Tansania",
+        "or": "\u0b24\u0b3e\u0b1e\u0b4d\u0b1c\u0b3e\u0b28\u0b3f\u0b06",
+        "mg": "Tanzania",
+        "no": "Tanzania",
         "zh": "\u5766\u6851\u5c3c\u4e9a",
-        "he": "\u05d8\u05e0\u05d6\u05e0\u05d9\u05d4",
-        "hi": "\u0924\u0902\u091c\u093c\u093e\u0928\u093f\u092f\u093e",
+        "tr": "Tanzanya",
+        "bs": "Tanzanija",
         "ja": "\u30bf\u30f3\u30b6\u30cb\u30a2",
-        "pt": "Tanz\u00e2nia"
+        "th": "\u0e41\u0e17\u0e19\u0e0b\u0e32\u0e40\u0e19\u0e35\u0e22",
+        "he": "\u05d8\u05e0\u05d6\u05e0\u05d9\u05d4",
+        "kk": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "mo": "Tanzania",
+        "ff": "\ud83a\udd1a\ud83a\udd22\ud83a\udd32\ud83a\udd27\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd45",
+        "ca": "Tanz\u00e0nia",
+        "ar": "\u062a\u0646\u0632\u0627\u0646\u064a\u0627",
+        "eu": "Tanzania",
+        "ps": "\u062a\u0646\u0632\u0627\u0646\u06cc\u0627",
+        "kn": "\u0ca4\u0cbe\u0c82\u0c9c\u0cc7\u0ca8\u0cbf\u0caf\u0cbe",
+        "si": "\u0da7\u0dd0\u0db1\u0dca\u0dc3\u0dcf\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u178f\u1784\u17cb\u179f\u17b6\u1793\u17b8",
+        "ne": "\u0924\u093e\u0928\u094d\u091c\u093e\u0928\u093f\u092f\u093e",
+        "fi": "Tansania",
+        "hi": "\u0924\u0902\u091c\u093c\u093e\u0928\u093f\u092f\u093e",
+        "rm": "Tansania",
+        "vi": "Tanzania",
+        "gl": "Tanzania",
+        "ig": "Tanzania",
+        "mr": "\u091f\u093e\u0902\u091d\u093e\u0928\u093f\u092f\u093e",
+        "es": "Tanzania",
+        "be": "\u0422\u0430\u043d\u0437\u0430\u043d\u0456\u044f",
+        "lg": "Tanzaniya",
+        "az": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u0458\u0430",
+        "ce": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438",
+        "mk": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u0458\u0430",
+        "zu": "i-Tanzania",
+        "it": "Tanzania",
+        "ko": "\ud0c4\uc790\ub2c8\uc544",
+        "lo": "\u0e97\u0eb2\u0e99\u0e8a\u0eb2\u0ec0\u0e99\u0e8d",
+        "lt": "Tanzanija",
+        "dz": "\u0f4a\u0f71\u0f53\u0f0b\u0f5b\u0f71\u0f0b\u0f53\u0f72\u0f0b\u0f61",
+        "ln": "Tanzani",
+        "hr": "Tanzanija",
+        "ks": "\u062a\u064e\u0646\u062c\u0627\u0646\u0650\u06cc\u0627",
+        "sv": "Tanzania",
+        "pl": "Tanzania",
+        "nb": "Tanzania",
+        "sh": "Tanzanija",
+        "lu": "Tanzani",
+        "nl": "Tanzania",
+        "ky": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "bn": "\u09a4\u09be\u099e\u09cd\u099c\u09be\u09a8\u09bf\u09af\u09bc\u09be",
+        "sd": "\u062a\u0646\u0632\u0627\u0646\u064a\u0627",
+        "fa": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
+        "gd": "An Tansan",
+        "cs": "Tanzanie",
+        "tk": "Tanzani\u00fda",
+        "eo": "Tanzanio",
+        "mt": "it-Tanzanija",
+        "sr": "Tanzanija",
+        "wo": "Ta\u014bsani",
+        "el": "\u03a4\u03b1\u03bd\u03b6\u03b1\u03bd\u03af\u03b1",
+        "sn": "Tanzania",
+        "pt": "Tanz\u00e2nia",
+        "yi": "\u05d8\u05d0\u05b7\u05e0\u05d6\u05d0\u05b7\u05e0\u05d9\u05e2",
+        "is": "Tansan\u00eda",
+        "ta": "\u0ba4\u0bbe\u0ba9\u0bcd\u0b9a\u0bbe\u0ba9\u0bbf\u0baf\u0bbe",
+        "br": "Tanzania",
+        "hu": "Tanz\u00e1nia",
+        "et": "Tansaania",
+        "ku": "Tanzanya",
+        "sk": "Tanz\u00e1nia",
+        "sw": "Tanzania",
+        "te": "\u0c1f\u0c3e\u0c02\u0c1c\u0c3e\u0c28\u0c3f\u0c2f\u0c3e",
+        "ro": "Tanzania",
+        "ki": "Tanzania",
+        "ak": "Tanzania",
+        "tg": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "ml": "\u0d1f\u0d3e\u0d7b\u0d38\u0d3e\u0d28\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de T\u00e0\u01f9s\u00e1n\u00ed\u00e0",
+        "de": "Tansania",
+        "as": "\u09a4\u09be\u099e\u09cd\u099c\u09be\u09a8\u09bf\u09af\u09bc\u09be",
+        "am": "\u1273\u1295\u12db\u1292\u12eb",
+        "se": "Tanz\u00e1nia",
+        "ia": "Tanzania",
+        "ti": "\u1273\u1295\u12db\u1292\u12eb",
+        "ru": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "ga": "an Tans\u00e1in",
+        "bg": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "my": "\u1010\u1014\u103a\u1007\u1014\u103a\u1038\u1014\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Tanzania",
+        "bm": "Tanzani",
+        "gu": "\u0aa4\u0abe\u0a82\u0a9d\u0abe\u0aa8\u0abf\u0aaf\u0abe",
+        "uz": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "cy": "Tanzania",
+        "ug": "\u062a\u0627\u0646\u0632\u0627\u0646\u0649\u064a\u06d5",
+        "nn": "Tanzania",
+        "uk": "\u0422\u0430\u043d\u0437\u0430\u043d\u0456\u044f",
+        "qu": "Tanzania",
+        "tl": "Tanzania",
+        "ms": "Tanzania",
+        "so": "Tansaaniya",
+        "da": "Tanzania",
+        "tt": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "af": "Tanzani\u00eb",
+        "ha": "Tanzaniya",
+        "iw": "\u05d8\u05e0\u05d6\u05e0\u05d9\u05d4",
+        "ee": "Tanzania nutome",
+        "in": "Tanzania",
+        "to": "Tenis\u0101nia",
+        "sl": "Tanzanija",
+        "sg": "Tanzan\u00efi",
+        "lb": "Tansania",
+        "fo": "Tansania",
+        "mn": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438",
+        "id": "Tanzania",
+        "pa": "\u0a24\u0a28\u0a1c\u0a3c\u0a3e\u0a28\u0a40\u0a06",
+        "ka": "\u10e2\u10d0\u10dc\u10d6\u10d0\u10dc\u10d8\u10d0",
+        "nd": "Tanzaniya"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Arusha Region",
-            "code": "01",
-            "names": {
-                "geonames": "Arusha",
-                "ru": "\u0410\u0440\u0443\u0448\u0430",
-                "en": "Arusha Region",
-                "de": "Arusha",
-                "es": "Regi\u00f3n de Arusha",
-                "fr": "R\u00e9gion d'Arusha",
-                "it": "Regione di Arusha",
-                "zh": "\u963f\u9c81\u6c99\u533a"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -3.388818,
-            "lng": 36.68493590000003
+    "3166-2": [
+        {
+            "code": "TZ-01",
+            "names": "Arusha",
+            "type": "Region"
         },
-        "02": {
-            "name": "Dar es Salaam Region",
-            "code": "02",
-            "names": {
-                "geonames": "Dar es Salaam",
-                "ru": "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c",
-                "en": "Dar es Salaam Region",
-                "es": "Regi\u00f3n de Dar es-Salam",
-                "fr": "Dar es Salaam",
-                "it": "Regione di Dar es Salaam",
-                "zh": "\u8fbe\u7d2f\u65af\u8428\u62c9\u59c6\u533a"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.822921,
-            "lng": 39.26966100000004
+        {
+            "code": "TZ-02",
+            "names": "Dar-es-Salaam",
+            "type": "Region"
         },
-        "03": {
-            "name": "Dodoma Region",
-            "code": "03",
-            "names": {
-                "geonames": "Dodoma",
-                "ru": "\u0414\u043e\u0434\u043e\u043c\u0430",
-                "en": "Dodoma Region",
-                "de": "Dodoma",
-                "es": "Regi\u00f3n de Dodoma",
-                "fr": "Dodoma",
-                "it": "Regione di Dodoma",
-                "zh": "\u591a\u591a\u99ac\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.1730556,
-            "lng": 35.741944399999966
+        {
+            "code": "TZ-03",
+            "names": "Dodoma",
+            "type": "Region"
         },
-        "04": {
-            "name": "Iringa Region",
-            "code": "04",
-            "names": {
-                "geonames": "Iringa",
-                "ru": "\u0418\u0440\u0438\u043d\u0433\u0430",
-                "en": "Iringa Region",
-                "de": "Iringa",
-                "es": "Regi\u00f3n de Iringa",
-                "fr": "Iringa",
-                "it": "Regione di Iringa",
-                "zh": "\u4f0a\u6797\u52a0\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -7.77,
-            "lng": 35.690000000000055
+        {
+            "code": "TZ-04",
+            "names": "Iringa",
+            "type": "Region"
         },
-        "05": {
-            "name": "Kagera Region",
-            "code": "05",
-            "names": {
-                "geonames": "Kagera",
-                "ru": "\u041a\u0430\u0433\u0435\u0440\u0430",
-                "en": "Kagera Region",
-                "de": "Kagera",
-                "es": "Regi\u00f3n de Kagera",
-                "fr": "Kagera",
-                "it": "Regione del Kagera",
-                "zh": "\u5361\u84cb\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.8068471,
-            "lng": 39.25010199999997
+        {
+            "code": "TZ-05",
+            "names": "Kagera",
+            "type": "Region"
         },
-        "06": {
-            "name": "Pemba North Region",
-            "code": "06",
-            "names": {
-                "geonames": "Pemba North",
-                "ru": "\u041f\u0435\u043c\u0431\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f",
-                "en": "Pemba North Region",
-                "de": "Pemba Kaskazini",
-                "es": "Regi\u00f3n de Pemba North",
-                "fr": "Pemba Nord",
-                "it": "Regione di Pemba Nord",
-                "zh": "\u5317\u5954\u5df4\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TZ-06",
+            "names": "Kaskazini Pemba",
+            "type": "Region"
         },
-        "07": {
-            "name": "Zanzibar North Region",
-            "code": "07",
-            "names": {
-                "geonames": "Zanzibar North",
-                "ru": "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440 \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439",
-                "en": "Zanzibar North Region",
-                "de": "Unguja Kaskazini",
-                "es": "Regi\u00f3n de Zanzibar North",
-                "fr": "Unguja Nord",
-                "it": "Regione di Zanzibar Nord"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TZ-07",
+            "names": "Kaskazini Unguja",
+            "type": "Region"
         },
-        "08": {
-            "name": "Kigoma Region",
-            "code": "08",
-            "names": {
-                "geonames": "Kigoma",
-                "ru": "\u041a\u0438\u0433\u043e\u043c\u0430",
-                "en": "Kigoma Region",
-                "de": "Kigoma",
-                "es": "Regi\u00f3n de Kigoma",
-                "fr": "R\u00e9gion de Kigoma",
-                "it": "Regione di Kigoma",
-                "zh": "\u57fa\u6208\u99ac\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -4.8833333,
-            "lng": 29.633333300000004
+        {
+            "code": "TZ-08",
+            "names": "Kigoma",
+            "type": "Region"
         },
-        "09": {
-            "name": "Kilimanjaro Region",
-            "code": "09",
-            "names": {
-                "geonames": "Kilimanjaro",
-                "ru": "\u041a\u0438\u043b\u0438\u043c\u0430\u043d\u0434\u0436\u0430\u0440\u043e",
-                "en": "Kilimanjaro Region",
-                "de": "Kilimandscharo",
-                "es": "Regi\u00f3n de Kilimanjaro",
-                "fr": "Kilimandjaro",
-                "it": "Regione del Kilimangiaro",
-                "zh": "\u4e5e\u529b\u99ac\u624e\u7f85\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -3.066667,
-            "lng": 37.36666700000001
+        {
+            "code": "TZ-09",
+            "names": "Kilimanjaro",
+            "type": "Region"
         },
-        "10": {
-            "name": "Pemba South Region",
-            "code": "10",
-            "names": {
-                "geonames": "Pemba South",
-                "ru": "\u041f\u0435\u043c\u0431\u0430 \u042e\u0436\u043d\u0430\u044f",
-                "en": "Pemba South Region",
-                "de": "Pemba Kusini",
-                "es": "Regi\u00f3n de Pemba South",
-                "fr": "Pemba Sud",
-                "it": "Regione di Pemba Sud",
-                "zh": "\u5357\u5954\u5df4\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TZ-10",
+            "names": "Kusini Pemba",
+            "type": "Region"
         },
-        "11": {
-            "name": "Unguja South Region",
-            "code": "11",
-            "names": {
-                "geonames": "Zanzibar Central\/South",
-                "ru": "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u042e\u0436\u043d\u044b\u0439",
-                "en": "Unguja South Region",
-                "de": "Unguja Kusini",
-                "es": "Regi\u00f3n de Zanzibar Central\/South",
-                "fr": "Unguja Sud et Central",
-                "it": "Regione di Zanzibar Centro-Sud"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.3928955,
-            "lng": 39.52782639999998
+        {
+            "code": "TZ-11",
+            "names": "Kusini Unguja",
+            "type": "Region"
         },
-        "12": {
-            "name": "Lindi Region",
-            "code": "12",
-            "names": {
-                "geonames": "Lindi",
-                "ru": "\u041b\u0438\u043d\u0434\u0438",
-                "en": "Lindi Region",
-                "de": "Lindi",
-                "es": "Regi\u00f3n de Lindi",
-                "fr": "Lindi",
-                "it": "Regione di Lindi",
-                "zh": "\u6797\u8fea\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -10.00208,
-            "lng": 39.70695899999998
+        {
+            "code": "TZ-12",
+            "names": "Lindi",
+            "type": "Region"
         },
-        "13": {
-            "name": "Mara Region",
-            "code": "13",
-            "names": {
-                "geonames": "Mara",
-                "ru": "\u041c\u0430\u0440\u0430",
-                "en": "Mara Region",
-                "de": "Mara",
-                "es": "Regi\u00f3n de Mara",
-                "fr": "Mara",
-                "it": "Regione del Mara",
-                "zh": "\u99ac\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -1.5,
-            "lng": 34.549999999999955
+        {
+            "code": "TZ-13",
+            "names": "Mara",
+            "type": "Region"
         },
-        "14": {
-            "name": "Mbeya Region",
-            "code": "14",
-            "names": {
-                "geonames": "Mbeya",
-                "ru": "\u041c\u0431\u0435\u044f",
-                "en": "Mbeya Region",
-                "de": "Mbeya",
-                "es": "Regi\u00f3n de Mbeya",
-                "fr": "Mbeya",
-                "it": "Regione di Mbeya",
-                "zh": "\u59c6\u8c9d\u4e9e\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -8.9,
-            "lng": 33.450000000000045
+        {
+            "code": "TZ-14",
+            "names": "Mbeya",
+            "type": "Region"
         },
-        "15": {
-            "name": "Mjini Magharibi Region",
-            "code": "15",
-            "names": {
-                "geonames": "Zanzibar Urban\/West",
-                "ru": "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439",
-                "en": "Mjini Magharibi Region",
-                "de": "Unguja Mjini Magharibi",
-                "es": "Regi\u00f3n de Zanzibar Urban\/West",
-                "fr": "Unguja Ville et Ouest",
-                "it": "Regione di Zanzibar Urbana-Ovest"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TZ-15",
+            "names": "Mjini Magharibi",
+            "type": "Region"
         },
-        "16": {
-            "name": "Morogoro Region",
-            "code": "16",
-            "names": {
-                "geonames": "Morogoro",
-                "ru": "\u041c\u043e\u0440\u043e\u0433\u043e\u0440\u043e",
-                "en": "Morogoro Region",
-                "de": "Morogoro",
-                "es": "Regi\u00f3n de Morogoro",
-                "fr": "Morogoro",
-                "it": "Regione di Morogoro",
-                "zh": "\u83ab\u7f57\u6208\u7f57\u533a"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.822097,
-            "lng": 37.661159999999995
+        {
+            "code": "TZ-16",
+            "names": "Morogoro",
+            "type": "Region"
         },
-        "17": {
-            "name": "Mtwara Region",
-            "code": "17",
-            "names": {
-                "geonames": "Mtwara",
-                "ru": "\u041c\u0442\u0432\u0430\u0440\u0430",
-                "en": "Mtwara Region",
-                "de": "Mtwara",
-                "es": "Regi\u00f3n de Mtwara",
-                "fr": "Mtwara",
-                "it": "Regione di Mtwara",
-                "zh": "\u59c6\u7279\u74e6\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -10.27479,
-            "lng": 40.18389100000002
+        {
+            "code": "TZ-17",
+            "names": "Mtwara",
+            "type": "Region"
         },
-        "18": {
-            "name": "Mwanza Region",
-            "code": "18",
-            "names": {
-                "geonames": "Mwanza",
-                "ru": "\u041c\u0432\u0430\u043d\u0437\u0430",
-                "en": "Mwanza Region",
-                "de": "Mwanza",
-                "es": "Regi\u00f3n de Mwanza",
-                "fr": "Mwanza",
-                "it": "Regione di Mwanza",
-                "zh": "\u59c6\u842c\u7d2e\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -2.5166667,
-            "lng": 32.89999999999998
+        {
+            "code": "TZ-18",
+            "names": "Mwanza",
+            "type": "Region"
         },
-        "19": {
-            "name": "Pwani Region",
-            "code": "19",
-            "names": {
-                "geonames": "Pwani",
-                "ru": "\u041f\u0432\u0430\u043d\u0438",
-                "de": "Pwani",
-                "en": "Pwani Region",
-                "es": "Regi\u00f3n de Pwani",
-                "fr": "Pwani",
-                "it": "Regione di Pwani",
-                "zh": "\u6ff1\u6d77\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -12.5216627,
-            "lng": 27.87833839999996
+        {
+            "code": "TZ-19",
+            "names": "Pwani",
+            "type": "Region"
         },
-        "20": {
-            "name": "Rukwa Region",
-            "code": "20",
-            "names": {
-                "geonames": "Rukwa",
-                "ru": "\u0420\u0443\u0432\u0443\u043c\u0430",
-                "en": "Rukwa Region",
-                "de": "Ruvuma",
-                "es": "Regi\u00f3n de Ruvuma",
-                "fr": "Ruvuma",
-                "it": "Regione del Ruvuma",
-                "zh": "\u9b6f\u4f0d\u99ac\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -1.2932259,
-            "lng": 36.86528150000004
+        {
+            "code": "TZ-20",
+            "names": "Rukwa",
+            "type": "Region"
         },
-        "21": {
-            "name": "Ruvuma Region",
-            "code": "21",
-            "names": {
-                "geonames": "Ruvuma",
-                "ru": "\u0420\u0443\u043a\u0432\u0430",
-                "en": "Ruvuma Region",
-                "de": "Rukwa",
-                "es": "Regi\u00f3n de Rukwa",
-                "fr": "Rukwa",
-                "it": "Regione del Rukwa",
-                "zh": "\u9b6f\u5938\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -6.8551215,
-            "lng": 39.25939679999999
+        {
+            "code": "TZ-21",
+            "names": "Ruvuma",
+            "type": "Region"
         },
-        "22": {
-            "name": "Shinyanga Region",
-            "code": "22",
-            "names": {
-                "geonames": "Shinyanga",
-                "ru": "\u0428\u0438\u043d\u044c\u044f\u043d\u0433\u0430",
-                "en": "Shinyanga Region",
-                "de": "Shinyanga",
-                "es": "Regi\u00f3n de Shinyanga",
-                "fr": "Shinyanga",
-                "it": "Regione di Shinyanga",
-                "zh": "\u6b23\u5ef6\u52a0\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -3.664875,
-            "lng": 33.42115000000001
+        {
+            "code": "TZ-22",
+            "names": "Shinyanga",
+            "type": "Region"
         },
-        "23": {
-            "name": "Singida Region",
-            "code": "23",
-            "names": {
-                "geonames": "Singida",
-                "ru": "\u0421\u0438\u043d\u0433\u0438\u0434\u0430",
-                "en": "Singida Region",
-                "de": "Singida",
-                "es": "Regi\u00f3n de Singida",
-                "fr": "Singida",
-                "it": "Regione di Singida",
-                "zh": "\u8f9b\u5409\u9054\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -4.817443,
-            "lng": 34.74354900000003
+        {
+            "code": "TZ-23",
+            "names": "Singida",
+            "type": "Region"
         },
-        "24": {
-            "name": "Tabora Region",
-            "code": "24",
-            "names": {
-                "geonames": "Tabora",
-                "ru": "\u0422\u0430\u0431\u043e\u0440\u0430",
-                "en": "Tabora Region",
-                "de": "Tabora",
-                "es": "Regi\u00f3n de Tabora",
-                "fr": "Tabora",
-                "it": "Regione di Tabora",
-                "zh": "\u5854\u6ce2\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -5.018062,
-            "lng": 32.826279
+        {
+            "code": "TZ-24",
+            "names": "Tabora",
+            "type": "Region"
         },
-        "25": {
-            "name": "Tanga Region",
-            "code": "25",
-            "names": {
-                "geonames": "Tanga",
-                "ru": "\u0422\u0430\u043d\u0433\u0430",
-                "en": "Tanga Region",
-                "de": "Tanga",
-                "es": "Regi\u00f3n de Tanga",
-                "fr": "Tanga",
-                "it": "Regione di Tanga",
-                "zh": "\u5766\u5676\u533a"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -5.069489,
-            "lng": 39.09875899999997
+        {
+            "code": "TZ-25",
+            "names": "Tanga",
+            "type": "Region"
         },
-        "26": {
-            "name": "Manyara Region",
-            "code": "26",
-            "names": {
-                "geonames": "Manyara",
-                "ru": "\u041c\u0430\u043d\u044c\u044f\u0440\u0430",
-                "en": "Manyara Region",
-                "de": "Manyara",
-                "es": "Regi\u00f3n de Manyara",
-                "fr": "Manyara",
-                "it": "Regione del Manyara",
-                "zh": "\u66fc\u4e9e\u62c9\u5340"
-            },
-            "division": "region",
-            "parent": "TZ",
-            "lat": -3.6,
-            "lng": 35.93333299999995
-        },
-        "27": {
-            "name": "Geita",
-            "code": "27",
-            "names": {
-                "geonames": "Geita",
-                "en": "Geita"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "28": {
-            "name": "Katavi",
-            "code": "28",
-            "names": {
-                "geonames": "Katavi",
-                "en": "Katavi"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "30": {
-            "name": "Njombe",
-            "code": "30",
-            "names": {
-                "geonames": "Njombe",
-                "en": "Simiyu"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TZ-26",
+            "names": "Manyara",
+            "type": "Region"
         }
-    }
+    ]
 }

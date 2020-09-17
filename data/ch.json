@@ -1,523 +1,264 @@
 {
     "alpha-2": "CH",
     "alpha-3": "CHE",
-    "numeric": 756,
-    "capital": "Bern",
-    "currency": "CHE,CHF,CHW",
-    "languages": [
-        "de",
-        "fr",
-        "it"
-    ],
-    "flag-icon": "\ud83c\udde8\ud83c\udded",
+    "numeric": "756",
     "names": {
-        "geonames": "Switzerland",
-        "de": "Schweiz",
-        "ar": "\u0633\u0648\u064a\u0633\u0631\u0627",
         "en": "Switzerland",
-        "es": "Suiza",
         "fr": "Suisse",
-        "it": "Svizzera",
-        "ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "ur": "\u0633\u0648\u0626\u0679\u0632\u0631 \u0644\u06cc\u0646\u0688",
+        "rn": "Ubusuwisi",
+        "lv": "\u0160veice",
+        "hy": "\u0547\u057e\u0565\u0575\u0581\u0561\u0580\u056b\u0561",
+        "sq": "Zvic\u00ebr",
+        "jv": "Switserlan",
+        "or": "\u0b38\u0b4d\u0b71\u0b3f\u0b1c\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21",
+        "mg": "Soisa",
+        "no": "Sveits",
         "zh": "\u745e\u58eb",
-        "he": "\u05e9\u05d5\u05d5\u05d9\u05d9\u05e5",
-        "hi": "\u0938\u094d\u0935\u093f\u091f\u094d\u091c\u093c\u0930\u0932\u0948\u0923\u094d\u0921",
+        "tr": "\u0130svi\u00e7re",
+        "bs": "\u0160vicarska",
         "ja": "\u30b9\u30a4\u30b9",
-        "pt": "Su\u00ed\u00e7a"
+        "th": "\u0e2a\u0e27\u0e34\u0e15\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "he": "\u05e9\u05d5\u05d5\u05d9\u05d9\u05e5",
+        "fa": "\u0633\u0648\u0626\u06cc\u0633",
+        "kk": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "mo": "Elve\u021bia",
+        "ff": "Suwiis",
+        "ca": "Su\u00efssa",
+        "ar": "\u0633\u0648\u064a\u0633\u0631\u0627",
+        "eu": "Suitza",
+        "ps": "\u0633\u0648\u06cc\u0633",
+        "kn": "\u0cb8\u0ccd\u0cb5\u0cbf\u0c9f\u0ccd\u0c9c\u0cb0\u0ccd\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd",
+        "si": "\u0dc3\u0dca\u0dc0\u0dd2\u0dc3\u0dca\u0da7\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+        "km": "\u179f\u17d2\u179c\u17b8\u179f",
+        "ne": "\u0938\u094d\u0935\u093f\u091c\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "fi": "Sveitsi",
+        "hi": "\u0938\u094d\u0935\u093f\u091f\u094d\u091c\u093c\u0930\u0932\u0948\u0902\u0921",
+        "rm": "Svizra",
+        "vi": "Th\u1ee5y S\u0129",
+        "gl": "Su\u00edza",
+        "ig": "Switzerland",
+        "mr": "\u0938\u094d\u0935\u093f\u0924\u094d\u091d\u0930\u094d\u0932\u0902\u0921",
+        "es": "Suiza",
+        "be": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u044b\u044f",
+        "lg": "Switizirandi",
+        "az": "\u0418\u0441\u0432\u0435\u0447\u0440\u04d9",
+        "ce": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438",
+        "mk": "\u0428\u0432\u0430\u0458\u0446\u0430\u0440\u0438\u0458\u0430",
+        "zu": "i-Switzerland",
+        "it": "Svizzera",
+        "ko": "\uc2a4\uc704\uc2a4",
+        "lo": "\u0eaa\u0eb0\u0ea7\u0eb4\u0e94\u0ec0\u0e8a\u0eb5\u0ec1\u0ea5\u0e99",
+        "lt": "\u0160veicarija",
+        "dz": "\u0f66\u0f74\u0f0b\u0f5d\u0f72\u0f4a\u0f0b\u0f5b\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f4c",
+        "ln": "Swis\u025b",
+        "hr": "\u0160vicarska",
+        "ks": "\u0633\u064f\u0648\u0650\u0632\u064e\u0631\u0644\u06cc\u0646\u0691",
+        "sv": "Schweiz",
+        "pl": "Szwajcaria",
+        "nb": "Sveits",
+        "sh": "\u0160vajcarska",
+        "lu": "Swise",
+        "nl": "Zwitserland",
+        "ky": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "bn": "\u09b8\u09c1\u0987\u099c\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "sd": "\u0633\u0648\u0626\u0632\u0631\u0644\u064a\u0646\u068a",
+        "gd": "An Eilbheis",
+        "cs": "\u0160v\u00fdcarsko",
+        "tk": "\u015ewe\u00fdsari\u00fda",
+        "eo": "Svisujo",
+        "mt": "l-I\u017cvizzera",
+        "sr": "\u0160vajcarska",
+        "wo": "Siwis",
+        "el": "\u0395\u03bb\u03b2\u03b5\u03c4\u03af\u03b1",
+        "sn": "Switzerland",
+        "pt": "Su\u00ed\u00e7a",
+        "yi": "\u05e9\u05d5\u05d5\u05d9\u05d9\u05e5",
+        "is": "Sviss",
+        "ta": "\u0bb8\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9a\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+        "br": "Suis",
+        "hu": "Sv\u00e1jc",
+        "et": "\u0160veits",
+        "ku": "Sw\u00eesre",
+        "sk": "\u0160vaj\u010diarsko",
+        "sw": "Uswisi",
+        "te": "\u0c38\u0c4d\u0c35\u0c3f\u0c1f\u0c4d\u0c1c\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d",
+        "ro": "Elve\u021bia",
+        "ki": "Uswisi",
+        "ak": "Swetzaland",
+        "tg": "\u0428\u0432\u0435\u0439\u0442\u0441\u0430\u0440\u0438\u044f",
+        "ml": "\u0d38\u0d4d\u0d35\u0d3f\u0d31\u0d4d\u0d31\u0d4d\u0d38\u0d7c\u0d32\u0d3e\u0d7b\u0d21\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de switishilandi",
+        "de": "Schweiz",
+        "as": "\u099a\u09c1\u0987\u099c\u09be\u09f0\u09b2\u09c7\u09a3\u09cd\u09a1",
+        "am": "\u1235\u12ca\u12d8\u122d\u120b\u1295\u12f5",
+        "se": "\u0160veica",
+        "ia": "Suissa",
+        "ti": "\u1235\u12ca\u12d8\u122d\u120b\u1295\u12f5",
+        "ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "ga": "an Eilv\u00e9is",
+        "bg": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "my": "\u1006\u103d\u1005\u103a\u1007\u102c\u101c\u1014\u103a",
+        "fy": "Switserl\u00e2n",
+        "bm": "Suwisi",
+        "gu": "\u0ab8\u0acd\u0ab5\u0abf\u0a9f\u0acd\u0a9d\u0ab0\u0acd\u0ab2\u0ac5\u0aa8\u0acd\u0aa1",
+        "uz": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "cy": "Y Swistir",
+        "ug": "\u0634\u0649\u06cb\u06d0\u062a\u0633\u0627\u0631\u0649\u064a\u06d5",
+        "nn": "Sveits",
+        "uk": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0456\u044f",
+        "qu": "Suiza",
+        "tl": "Switzerland",
+        "ms": "Switzerland",
+        "so": "Swiiserlaand",
+        "da": "Schweiz",
+        "tt": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "af": "Switserland",
+        "ha": "Suwizalan",
+        "iw": "\u05e9\u05d5\u05d5\u05d9\u05d9\u05e5",
+        "ee": "Switzerland nutome",
+        "in": "Swiss",
+        "to": "Suisilani",
+        "sl": "\u0160vica",
+        "sg": "S\u00fb\u00eesi",
+        "lb": "Schw\u00e4iz",
+        "fo": "Sveis",
+        "mn": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u044c",
+        "id": "Swiss",
+        "pa": "\u0a38\u0a35\u0a3f\u0a1f\u0a1c\u0a3c\u0a30\u0a32\u0a48\u0a02\u0a21",
+        "ka": "\u10e8\u10d5\u10d4\u10d8\u10ea\u10d0\u10e0\u10d8\u10d0",
+        "nd": "Switzerland"
     },
-    "ISO3166-2": {
-        "AG": {
-            "name": "Aargau",
-            "code": "AG",
-            "names": {
-                "geonames": "Aargau",
-                "ru": "\u0410\u0440\u0433\u0430\u0443",
-                "en": "Aargau",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0623\u0631\u062c\u0627\u0648",
-                "de": "Kanton Aargau",
-                "es": "Cant\u00f3n de Argovia",
-                "fr": "Canton d'Argovie",
-                "it": "Canton Argovia",
-                "zh": "\u963f\u723e\u9ad8\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.3876664,
-            "lng": 8.255429499999991
+    "3166-2": [
+        {
+            "code": "CH-AG",
+            "names": "Aargau",
+            "type": "Canton"
         },
-        "AI": {
-            "name": "Appenzell Innerrhoden",
-            "code": "AI",
-            "names": {
-                "geonames": "Appenzell Innerrhoden",
-                "ru": "\u0410\u043f\u043f\u0435\u043d\u0446\u0435\u043b\u043b\u044c-\u0418\u043d\u043d\u0435\u0440\u0440\u043e\u0434\u0435\u043d",
-                "en": "Appenzell Innerrhoden",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0623\u0628\u064a\u0646\u0632\u064a\u0644 \u0625\u064a\u0646\u0631\u0647\u0648\u062f\u0646",
-                "de": "Kanton Appenzell Innerrhoden",
-                "es": "Cant\u00f3n de Appenzell Rodas Interiores",
-                "fr": "Canton d'Appenzell Rhodes-Int\u00e9rieures",
-                "it": "Canton Appenzello Interno",
-                "zh": "\u5167\u963f\u5f6d\u7b56\u723e\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.3161925,
-            "lng": 9.431657299999983
+        {
+            "code": "CH-AI",
+            "names": "Appenzell Innerrhoden",
+            "type": "Canton"
         },
-        "AR": {
-            "name": "Appenzell Ausserrhoden",
-            "code": "AR",
-            "names": {
-                "geonames": "Appenzell Ausserrhoden",
-                "ru": "\u0410\u043f\u043f\u0435\u043d\u0446\u0435\u043b\u043b\u044c-\u0410\u0443\u0441\u0441\u0435\u0440\u0440\u043e\u0434\u0435\u043d",
-                "en": "Appenzell Ausserrhoden",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0623\u0628\u064a\u0646\u0632\u064a\u0644 \u0623\u0648\u0633\u064a\u0631\u0647\u0648\u062f\u0646",
-                "de": "Kanton Appenzell Ausserrhoden",
-                "es": "Cant\u00f3n de Appenzell Rodas Exteriores",
-                "fr": "Canton d'Appenzell Rhodes-Ext\u00e9rieures",
-                "it": "Canton Appenzello Esterno",
-                "zh": "\u5916\u963f\u5f6d\u7b56\u723e\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.366481,
-            "lng": 9.300091599999973
+        {
+            "code": "CH-AR",
+            "names": "Appenzell Ausserrhoden",
+            "type": "Canton"
         },
-        "BE": {
-            "name": "Canton of Bern",
-            "code": "BE",
-            "names": {
-                "geonames": "Bern",
-                "ru": "\u0411\u0435\u0440\u043d",
-                "en": "Canton of Bern",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0628\u0631\u0646",
-                "de": "Kanton Bern",
-                "es": "Cant\u00f3n de Berna",
-                "fr": "Canton de Berne",
-                "it": "Canton Berna",
-                "zh": "\u4f2f\u6069\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.9479222,
-            "lng": 7.444608499999958
+        {
+            "code": "CH-BE",
+            "names": "Bern",
+            "type": "Canton"
         },
-        "BL": {
-            "name": "Basel-Landschaft",
-            "code": "BL",
-            "names": {
-                "geonames": "Basel-Landschaft",
-                "ru": "\u0411\u0430\u0437\u0435\u043b\u044c-\u041b\u0430\u043d\u0434",
-                "en": "Basel-Landschaft",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0631\u064a\u0641 \u0628\u0627\u0632\u0644",
-                "de": "Kanton Basel-Landschaft",
-                "es": "Cant\u00f3n de Basilea-Campi\u00f1a",
-                "fr": "Canton de B\u00e2le-Campagne",
-                "it": "Canton Basilea Campagna",
-                "zh": "\u5df4\u585e\u723e\u9109\u6751\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.4418122,
-            "lng": 7.764400199999955
+        {
+            "code": "CH-BL",
+            "names": "Basel-Landschaft",
+            "type": "Canton"
         },
-        "BS": {
-            "name": "Basel-Stadt",
-            "code": "BS",
-            "names": {
-                "geonames": "Basel-City",
-                "ru": "\u0411\u0430\u0437\u0435\u043b\u044c-\u0428\u0442\u0430\u0434\u0442",
-                "en": "Basel-Stadt",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0645\u062f\u064a\u0646\u0629 \u0628\u0627\u0632\u0644",
-                "de": "Kanton Basel-Stadt",
-                "es": "Cant\u00f3n de Basilea-Ciudad",
-                "fr": "Canton de B\u00e2le-Ville",
-                "it": "Canton Basilea Citt\u00e0",
-                "zh": "\u5df4\u585e\u723e\u57ce\u5e02\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.557421,
-            "lng": 7.592572700000005
+        {
+            "code": "CH-BS",
+            "names": "Basel-Stadt",
+            "type": "Canton"
         },
-        "FR": {
-            "name": "Canton of Fribourg",
-            "code": "FR",
-            "names": {
-                "geonames": "Fribourg",
-                "ru": "\u0424\u0440\u0438\u0431\u0443\u0440",
-                "en": "Canton of Fribourg",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0641\u0631\u064a\u0628\u0648\u0631\u063a",
-                "de": "Kanton Freiburg",
-                "es": "Cant\u00f3n de Friburgo",
-                "fr": "Canton de Fribourg",
-                "it": "Canton Friburgo",
-                "zh": "\u5f17\u91cc\u5821\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.8016663,
-            "lng": 7.145568300000036
+        {
+            "code": "CH-FR",
+            "names": "Fribourg",
+            "type": "Canton"
         },
-        "GE": {
-            "name": "Canton of Geneva",
-            "code": "GE",
-            "names": {
-                "geonames": "Geneva",
-                "ru": "\u0416\u0435\u043d\u0435\u0432\u0430",
-                "en": "Canton of Geneva",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u062c\u0646\u064a\u0641",
-                "de": "Kanton Genf",
-                "es": "Cant\u00f3n de Ginebra",
-                "fr": "Canton de Gen\u00e8ve",
-                "it": "Canton Ginevra",
-                "zh": "\u65e5\u5167\u74e6\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.1983922,
-            "lng": 6.142296100000067
+        {
+            "code": "CH-GE",
+            "names": "Gen\u00e8ve",
+            "type": "Canton"
         },
-        "GL": {
-            "name": "Canton of Glarus",
-            "code": "GL",
-            "names": {
-                "geonames": "Glarus",
-                "ru": "\u0413\u043b\u0430\u0440\u0443\u0441",
-                "en": "Canton of Glarus",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u063a\u0644\u0627\u0631\u0648\u0633",
-                "de": "Kanton Glarus",
-                "es": "Cant\u00f3n de Glaris",
-                "fr": "Canton de Glaris",
-                "it": "Canton Glarona",
-                "zh": "\u683c\u62c9\u9b6f\u65af\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.0404212,
-            "lng": 9.067215499999975
+        {
+            "code": "CH-GL",
+            "names": "Glarus",
+            "type": "Canton"
         },
-        "GR": {
-            "name": "Graub\u00fcnden",
-            "code": "GR",
-            "names": {
-                "geonames": "Grisons",
-                "ru": "\u0413\u0440\u0430\u0443\u0431\u044e\u043d\u0434\u0435\u043d",
-                "en": "Graub\u00fcnden",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u063a\u0631\u0627\u0648\u0628\u0648\u0646\u062f\u0646",
-                "de": "Kanton Graub\u00fcnden",
-                "es": "Grisonia",
-                "fr": "Canton des Grisons",
-                "it": "Cantone dei Grigioni",
-                "zh": "\u683c\u52de\u8cd3\u767b\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.6569871,
-            "lng": 9.578025700000012
+        {
+            "code": "CH-GR",
+            "names": "Graub\u00fcnden",
+            "type": "Canton"
         },
-        "JU": {
-            "name": "Canton of Jura",
-            "code": "JU",
-            "names": {
-                "geonames": "Jura",
-                "ru": "\u042e\u0440\u0430",
-                "en": "Canton of Jura",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u062c\u0648\u0631\u0627",
-                "de": "Kanton Jura",
-                "es": "Cant\u00f3n del Jura",
-                "fr": "Canton du Jura",
-                "it": "Canton Giura",
-                "zh": "\u6c5d\u62c9\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.3444474,
-            "lng": 7.1430608000000575
+        {
+            "code": "CH-JU",
+            "names": "Jura",
+            "type": "Canton"
         },
-        "LU": {
-            "name": "Canton of Lucerne",
-            "code": "LU",
-            "names": {
-                "geonames": "Lucerne",
-                "ru": "\u041b\u044e\u0446\u0435\u0440\u043d",
-                "en": "Canton of Lucerne",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0644\u0648\u0633\u064a\u0631\u0646",
-                "de": "Kanton Luzern",
-                "es": "Cant\u00f3n de Lucerna",
-                "fr": "Canton de Lucerne",
-                "it": "Canton Lucerna",
-                "zh": "\u5362\u585e\u6069\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.0503348,
-            "lng": 8.31561290000002
+        {
+            "code": "CH-LU",
+            "names": "Luzern",
+            "type": "Canton"
         },
-        "NE": {
-            "name": "Canton of Neuch\u00e2tel",
-            "code": "NE",
-            "names": {
-                "geonames": "Neuchatel",
-                "ru": "\u041d\u0435\u0432\u0448\u0430\u0442\u0435\u043b\u044c",
-                "en": "Canton of Neuch\u00e2tel",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0646\u064a\u0648\u0634\u0627\u062a\u0644",
-                "de": "Kanton Neuenburg",
-                "es": "Cant\u00f3n de Neuch\u00e2tel",
-                "fr": "Canton de Neuch\u00e2tel",
-                "it": "Canton Neuch\u00e2tel",
-                "zh": "\u7d0d\u6c99\u6cf0\u723e\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.9929793,
-            "lng": 6.931932500000016
+        {
+            "code": "CH-NE",
+            "names": "Neuch\u00e2tel",
+            "type": "Canton"
         },
-        "NW": {
-            "name": "Nidwalden",
-            "code": "NW",
-            "names": {
-                "geonames": "Nidwalden",
-                "ru": "\u041d\u0438\u0434\u0432\u0430\u043b\u044c\u0434\u0435\u043d",
-                "en": "Nidwalden",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0646\u064a\u062f\u0641\u0627\u0644\u062f\u0646",
-                "de": "Kanton Nidwalden",
-                "es": "Cant\u00f3n de Nidwalden",
-                "fr": "Canton de Nidwald",
-                "it": "Canton Nidvaldo",
-                "zh": "\u4e0b\u74e6\u723e\u767b\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.9267016,
-            "lng": 8.384998200000041
+        {
+            "code": "CH-NW",
+            "names": "Nidwalden",
+            "type": "Canton"
         },
-        "OW": {
-            "name": "Obwalden",
-            "code": "OW",
-            "names": {
-                "geonames": "Obwalden",
-                "ru": "\u041e\u0431\u0432\u0430\u043b\u044c\u0434\u0435\u043d",
-                "en": "Obwalden",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0623\u0648\u0628\u0641\u0627\u0644\u062f\u0646",
-                "de": "Kanton Obwalden",
-                "es": "Cant\u00f3n de Obwalden",
-                "fr": "Canton d'Obwald",
-                "it": "Canton Obvaldo",
-                "zh": "\u4e0a\u74e6\u723e\u767b\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.877858,
-            "lng": 8.25124900000003
+        {
+            "code": "CH-OW",
+            "names": "Obwalden",
+            "type": "Canton"
         },
-        "SG": {
-            "name": "Canton of St. Gallen",
-            "code": "SG",
-            "names": {
-                "geonames": "Saint Gallen",
-                "ru": "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d",
-                "en": "Canton of St. Gallen",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0633\u0627\u0646\u062a \u063a\u0627\u0644\u0646",
-                "de": "Kanton St. Gallen",
-                "es": "Cant\u00f3n de San Galo",
-                "fr": "Canton de Saint-Gall",
-                "it": "Canton San Gallo",
-                "zh": "\u8056\u52a0\u4f96\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.4241,
-            "lng": 9.370879999999943
+        {
+            "code": "CH-SG",
+            "names": "Sankt Gallen",
+            "type": "Canton"
         },
-        "SH": {
-            "name": "Canton of Schaffhausen",
-            "code": "SH",
-            "names": {
-                "geonames": "Schaffhausen",
-                "ru": "\u0428\u0430\u0444\u0444\u0445\u0430\u0443\u0437\u0435\u043d",
-                "en": "Canton of Schaffhausen",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0634\u0627\u0641\u0647\u0648\u0632\u0646",
-                "de": "Kanton Schaffhausen",
-                "es": "Cant\u00f3n de Schaffhausen",
-                "fr": "Canton de Schaffhouse",
-                "it": "Canton Sciaffusa",
-                "zh": "\u6c99\u592b\u8c6a\u68ee\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.7077664,
-            "lng": 8.64144239999996
+        {
+            "code": "CH-SH",
+            "names": "Schaffhausen",
+            "type": "Canton"
         },
-        "SO": {
-            "name": "Canton of Solothurn",
-            "code": "SO",
-            "names": {
-                "geonames": "Solothurn",
-                "ru": "\u0417\u043e\u043b\u043e\u0442\u0443\u0440\u043d",
-                "en": "Canton of Solothurn",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0633\u0648\u0644\u0648\u062a\u0648\u0631\u0646",
-                "de": "Kanton Solothurn",
-                "es": "Cant\u00f3n de Soleura",
-                "fr": "Canton de Soleure",
-                "it": "Canton Soletta",
-                "zh": "\u7d22\u6d1b\u5716\u6069\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.2085155,
-            "lng": 7.53018510000004
+        {
+            "code": "CH-SO",
+            "names": "Solothurn",
+            "type": "Canton"
         },
-        "SZ": {
-            "name": "Canton of Schwyz",
-            "code": "SZ",
-            "names": {
-                "geonames": "Schwyz",
-                "ru": "\u0428\u0432\u0438\u0446",
-                "en": "Canton of Schwyz",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0634\u0641\u064a\u062a\u0633",
-                "de": "Kanton Schwyz",
-                "es": "Cant\u00f3n de Schwyz",
-                "fr": "Canton de Schwytz",
-                "it": "Canton Svitto",
-                "zh": "\u65bd\u7dad\u8328\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.0198346,
-            "lng": 8.647397700000056
+        {
+            "code": "CH-SZ",
+            "names": "Schwyz",
+            "type": "Canton"
         },
-        "TG": {
-            "name": "Thurgau",
-            "code": "TG",
-            "names": {
-                "geonames": "Thurgau",
-                "ru": "\u0422\u0443\u0440\u0433\u0430\u0443",
-                "en": "Thurgau",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u062a\u0648\u0631\u063a\u0627\u0648",
-                "de": "Kanton Thurgau",
-                "es": "Cant\u00f3n de Turgovia",
-                "fr": "Canton de Thurgovie",
-                "it": "Canton Turgovia",
-                "zh": "\u5716\u723e\u9ad8\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.6037856,
-            "lng": 9.055737099999988
+        {
+            "code": "CH-TG",
+            "names": "Thurgau",
+            "type": "Canton"
         },
-        "TI": {
-            "name": "Ticino",
-            "code": "TI",
-            "names": {
-                "geonames": "Ticino",
-                "ru": "\u0422\u0438\u0447\u0438\u043d\u043e",
-                "en": "Ticino",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u062a\u064a\u0633\u064a\u0646\u0648",
-                "de": "Kanton Tessin",
-                "es": "Cant\u00f3n del Tesino",
-                "fr": "Canton du Tessin",
-                "it": "Canton Ticino",
-                "zh": "\u63d0\u5951\u8afe\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.331734,
-            "lng": 8.800452899999982
+        {
+            "code": "CH-TI",
+            "names": "Ticino",
+            "type": "Canton"
         },
-        "UR": {
-            "name": "Canton of Uri",
-            "code": "UR",
-            "names": {
-                "geonames": "Uri",
-                "ru": "\u0423\u0440\u0438",
-                "en": "Canton of Uri",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0623\u0648\u0631\u064a",
-                "de": "Kanton Uri",
-                "es": "Cant\u00f3n de Uri",
-                "fr": "Canton d'Uri",
-                "it": "Canton Uri",
-                "zh": "\u70cf\u91cc\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.7738629,
-            "lng": 8.60251530000005
+        {
+            "code": "CH-UR",
+            "names": "Uri",
+            "type": "Canton"
         },
-        "VD": {
-            "name": "Vaud",
-            "code": "VD",
-            "names": {
-                "geonames": "Vaud",
-                "ru": "\u0412\u043e",
-                "en": "Vaud",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0641\u0648\u062f",
-                "de": "Kanton Waadt",
-                "es": "Cant\u00f3n de Vaud",
-                "fr": "Canton de Vaud",
-                "it": "Canton Vaud",
-                "zh": "\u6c83\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.47744,
-            "lng": 6.235429999999951
+        {
+            "code": "CH-VD",
+            "names": "Vaud",
+            "type": "Canton"
         },
-        "VS": {
-            "name": "Valais",
-            "code": "VS",
-            "names": {
-                "geonames": "Valais",
-                "ru": "\u0412\u0430\u043b\u0435",
-                "en": "Valais",
-                "de": "Kanton Wallis",
-                "es": "Cant\u00f3n del Valais",
-                "fr": "Canton du Valais",
-                "it": "Canton Vallese",
-                "zh": "\u74e6\u83b1\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 46.1904614,
-            "lng": 7.5449226000000635
+        {
+            "code": "CH-VS",
+            "names": "Valais",
+            "type": "Canton"
         },
-        "ZG": {
-            "name": "Canton of Zug",
-            "code": "ZG",
-            "names": {
-                "geonames": "Zug",
-                "ru": "\u0426\u0443\u0433",
-                "en": "Canton of Zug",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u062a\u0633\u0648\u063a",
-                "de": "Kanton Zug",
-                "es": "Cant\u00f3n de Zug",
-                "fr": "Canton de Zoug",
-                "it": "Canton Zugo",
-                "zh": "\u695a\u683c\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.1745887,
-            "lng": 8.513854000000038
+        {
+            "code": "CH-ZG",
+            "names": "Zug",
+            "type": "Canton"
         },
-        "ZH": {
-            "name": "Canton of Zurich",
-            "code": "ZH",
-            "names": {
-                "geonames": "Zurich",
-                "ru": "\u0426\u044e\u0440\u0438\u0445",
-                "en": "Canton of Zurich",
-                "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0632\u064a\u0648\u0631\u062e",
-                "de": "Kanton Z\u00fcrich",
-                "es": "Cant\u00f3n de Z\u00farich",
-                "fr": "Canton de Zurich",
-                "it": "Canton Zurigo",
-                "zh": "\u82cf\u9ece\u4e16\u5dde"
-            },
-            "division": "canton",
-            "parent": "CH",
-            "lat": 47.3817911,
-            "lng": 8.535325400000033
+        {
+            "code": "CH-ZH",
+            "names": "Z\u00fcrich",
+            "type": "Canton"
         }
-    }
+    ]
 }

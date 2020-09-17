@@ -1,305 +1,284 @@
 {
     "alpha-2": "IE",
     "alpha-3": "IRL",
-    "numeric": 372,
-    "capital": "Dublin",
-    "currency": "EUR",
-    "languages": [
-        "ga",
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddee\ud83c\uddea",
+    "numeric": "372",
     "names": {
-        "geonames": "Ireland",
-        "en": "Republic of Ireland",
-        "ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627",
-        "de": "Irland",
-        "es": "Irlanda",
+        "en": "Ireland",
         "fr": "Irlande",
-        "it": "Irlanda",
-        "ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ur": "\u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
+        "rn": "Irilandi",
+        "lv": "\u012arija",
+        "hy": "\u053b\u057c\u056c\u0561\u0576\u0564\u056b\u0561",
+        "sq": "Irland\u00eb",
+        "jv": "R\u00e9publik Irlan",
+        "or": "\u0b06\u0b5f\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21",
+        "mg": "Irlandy",
+        "no": "Irland",
         "zh": "\u7231\u5c14\u5170",
-        "he": "\u05d0\u05d9\u05e8\u05dc\u05e0\u05d3",
-        "hi": "\u0906\u092f\u0930\u0932\u0948\u0923\u094d\u0921 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+        "tr": "\u0130rlanda",
+        "bs": "Irska",
         "ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
-        "pt": "Rep\u00fablica da Irlanda"
+        "th": "\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "he": "\u05d0\u05d9\u05e8\u05dc\u05e0\u05d3",
+        "fa": "\u0627\u06cc\u0631\u0644\u0646\u062f",
+        "kk": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "mo": "Irlanda",
+        "ff": "Irlannda",
+        "ca": "Irlanda",
+        "ar": "\u0623\u064a\u0631\u0644\u0646\u062f\u0627",
+        "eu": "Irlanda",
+        "ps": "\u0622\u064a\u0631\u0644\u06d0\u0646\u0689",
+        "kn": "\u0c90\u0cb0\u0ccd\u0cb2\u0cc6\u0c82\u0ca1\u0ccd",
+        "si": "\u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba",
+        "km": "\u17a2\u17c0\u179a\u17a1\u1784\u17cb",
+        "ne": "\u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "fi": "Irlanti",
+        "hi": "\u0906\u092f\u0930\u0932\u0948\u0902\u0921",
+        "rm": "Irlanda",
+        "vi": "Ireland",
+        "gl": "Irlanda",
+        "ig": "Ireland",
+        "mr": "\u0906\u092f\u0930\u094d\u0932\u0902\u0921",
+        "es": "Irlanda",
+        "be": "\u0406\u0440\u043b\u0430\u043d\u0434\u044b\u044f",
+        "lg": "Ayalandi",
+        "az": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0458\u0430",
+        "ce": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438",
+        "mk": "\u0418\u0440\u0441\u043a\u0430",
+        "zu": "i-Ireland",
+        "it": "Irlanda",
+        "ko": "\uc544\uc77c\ub79c\ub4dc",
+        "lo": "\u0ec4\u0ead\u0ec1\u0ea5\u0e99",
+        "lt": "Airija",
+        "dz": "\u0f68\u0f71\u0f0b\u0f61\u0f0b\u0f63\u0f7a\u0f53\u0f4c",
+        "ln": "Ireland\u025b",
+        "hr": "Irska",
+        "ks": "\u0627\u064e\u06cc\u064e\u0631\u0644\u06cc\u0646\u0691",
+        "sv": "Irland",
+        "pl": "Irlandia",
+        "nb": "Irland",
+        "sh": "Irska",
+        "lu": "Irelande",
+        "nl": "Ierland",
+        "ky": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "bn": "\u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "sd": "\u0622\u0626\u0631\u0644\u064a\u0646\u068a",
+        "gd": "\u00c8irinn",
+        "cs": "Irsko",
+        "tk": "Irlandi\u00fda",
+        "eo": "Irlando",
+        "mt": "l-Irlanda",
+        "sr": "Irska",
+        "wo": "Irl\u00e0nd",
+        "el": "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
+        "sn": "Ireland",
+        "pt": "Irlanda",
+        "yi": "\u05d0\u05d9\u05e8\u05dc\u05d0\u05b7\u05e0\u05d3",
+        "is": "\u00cdrland",
+        "ta": "\u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+        "br": "Iwerzhon",
+        "hu": "\u00cdrorsz\u00e1g",
+        "et": "Iirimaa",
+        "ku": "\u00cerlenda",
+        "sk": "\u00cdrsko",
+        "sw": "Ayalandi",
+        "te": "\u0c10\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d",
+        "ro": "Irlanda",
+        "ki": "Ayalandi",
+        "ak": "Aereland",
+        "tg": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ml": "\u0d05\u0d2f\u0d7c\u0d32\u0d7b\u0d21\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Ailandi",
+        "de": "Irland",
+        "as": "\u0986\u09af\u09bc\u09be\u09f0\u09b2\u09c7\u09a3\u09cd\u09a1",
+        "am": "\u12a0\u12e8\u122d\u120b\u1295\u12f5",
+        "se": "Irl\u00e1nda",
+        "ia": "Irlanda",
+        "ti": "\u12a0\u12e8\u122d\u120b\u1295\u12f5",
+        "ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ga": "\u00c9ire",
+        "bg": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "my": "\u1021\u102d\u102f\u1004\u103a\u101a\u102c\u101c\u1014\u103a",
+        "fy": "Ierl\u00e2n",
+        "bm": "Irilandi",
+        "gu": "\u0a86\u0aaf\u0ab0\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1",
+        "uz": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "cy": "Iwerddon",
+        "ug": "\u0626\u0649\u0631\u06d0\u0644\u0627\u0646\u062f\u0649\u064a\u06d5",
+        "nn": "Irland",
+        "uk": "\u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f",
+        "qu": "Irlanda",
+        "tl": "Ireland",
+        "ms": "Ireland",
+        "so": "Ayrlaand",
+        "da": "Irland",
+        "tt": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "af": "Ierland",
+        "ha": "Ayalan",
+        "iw": "\u05d0\u05d9\u05e8\u05dc\u05e0\u05d3",
+        "ee": "Ireland nutome",
+        "in": "Irlandia",
+        "to": "\u02bbAealani",
+        "sl": "Irska",
+        "sg": "Irl\u00e2nde",
+        "lb": "Irland",
+        "fo": "\u00cdrland",
+        "mn": "\u0418\u0440\u043b\u0430\u043d\u0434",
+        "id": "Irlandia",
+        "pa": "\u0a06\u0a07\u0a30\u0a32\u0a48\u0a02\u0a21",
+        "ka": "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0",
+        "nd": "Ireland"
     },
-    "ISO3166-2": {
-        "C": {
-            "name": "Connacht",
-            "code": "C",
-            "names": {
-                "geonames": "Connaught",
-                "en": "Connacht",
-                "ar": "\u0643\u0648\u0646\u0627\u0643\u062a",
-                "de": "Connacht",
-                "es": "Connacht",
-                "fr": "Connacht",
-                "it": "Connacht",
-                "ru": "\u041a\u043e\u043d\u043d\u0430\u0445\u0442",
-                "zh": "\u5eb7\u8afe\u7279\u7701"
-            },
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 51.8978719,
-            "lng": -8.471087399999988
+    "3166-2": [
+        {
+            "code": "IE-C",
+            "names": "Connacht",
+            "type": "Province"
         },
-        "CE": {
-            "name": "Clare",
-            "code": "CE",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.7844592,
-            "lng": -9.080747599999995
+        {
+            "code": "IE-CE",
+            "names": "Clare",
+            "type": "County"
         },
-        "CN": {
-            "name": "Cavan",
-            "code": "CN",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 53.9942097,
-            "lng": -7.360895700000015
+        {
+            "code": "IE-CN",
+            "names": "Cavan",
+            "type": "County"
         },
-        "CW": {
-            "name": "Carlow",
-            "code": "CW",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.835975,
-            "lng": -6.9245495999999775
+        {
+            "code": "IE-CO",
+            "names": "Cork",
+            "type": "County"
         },
-        "D": {
-            "name": "Dublin",
-            "code": "D",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.344104,
-            "lng": -6.267493699999932
+        {
+            "code": "IE-CW",
+            "names": "Carlow",
+            "type": "County"
         },
-        "DL": {
-            "name": "Donegal",
-            "code": "DL",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 54.654487,
-            "lng": -8.110714099999996
+        {
+            "code": "IE-D",
+            "names": "Dublin",
+            "type": "County"
         },
-        "G": {
-            "name": "Galway",
-            "code": "G",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.2737969,
-            "lng": -9.051779899999929
+        {
+            "code": "IE-DL",
+            "names": "Donegal",
+            "type": "County"
         },
-        "KE": {
-            "name": "Kildare",
-            "code": "KE",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.1598293,
-            "lng": -6.908997499999941
+        {
+            "code": "IE-G",
+            "names": "Galway",
+            "type": "County"
         },
-        "KK": {
-            "name": "Kilkenny",
-            "code": "KK",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.6537541,
-            "lng": -7.247983299999987
+        {
+            "code": "IE-KE",
+            "names": "Kildare",
+            "type": "County"
         },
-        "KY": {
-            "name": "Kerry",
-            "code": "KY",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.1813736,
-            "lng": -9.536761899999988
+        {
+            "code": "IE-KK",
+            "names": "Kilkenny",
+            "type": "County"
         },
-        "L": {
-            "name": "Leinster",
-            "code": "L",
-            "names": {
-                "geonames": "Leinster",
-                "en": "Leinster",
-                "ar": "\u0644\u0627\u064a\u0646\u0633\u062a\u0631",
-                "de": "Leinster",
-                "es": "Leinster",
-                "fr": "Leinster",
-                "it": "Leinster",
-                "ru": "\u041b\u0435\u043d\u0441\u0442\u0435\u0440",
-                "zh": "\u502b\u65af\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "IE",
-            "lat": 53.0136689,
-            "lng": -6.976001999999994
+        {
+            "code": "IE-KY",
+            "names": "Kerry",
+            "type": "County"
         },
-        "LD": {
-            "name": "Longford",
-            "code": "LD",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.7258242,
-            "lng": -7.798735099999931
+        {
+            "code": "IE-L",
+            "names": "Leinster",
+            "type": "Province"
         },
-        "LH": {
-            "name": "Louth",
-            "code": "LH",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.9523666,
-            "lng": -6.539012599999978
+        {
+            "code": "IE-LD",
+            "names": "Longford",
+            "type": "County"
         },
-        "LK": {
-            "name": "Limerick",
-            "code": "LK",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.6638571,
-            "lng": -8.626772599999981
+        {
+            "code": "IE-LH",
+            "names": "Louth",
+            "type": "County"
         },
-        "LM": {
-            "name": "Leitrim",
-            "code": "LM",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.9893255,
-            "lng": -8.062922000000071
+        {
+            "code": "IE-LK",
+            "names": "Limerick",
+            "type": "County"
         },
-        "LS": {
-            "name": "Laois",
-            "code": "LS",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.0326359,
-            "lng": -7.300586299999964
+        {
+            "code": "IE-LM",
+            "names": "Leitrim",
+            "type": "County"
         },
-        "M": {
-            "name": "Munster",
-            "code": "M",
-            "names": {
-                "geonames": "Munster",
-                "en": "Munster",
-                "ar": "\u0645\u0648\u0646\u0633\u062a\u0631",
-                "de": "Munster",
-                "es": "Munster",
-                "fr": "Munster",
-                "it": "Munster",
-                "ru": "\u041c\u0430\u043d\u0441\u0442\u0435\u0440",
-                "zh": "\u8292\u65af\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "IE",
-            "lat": 52.2217725,
-            "lng": -8.556663800000024
+        {
+            "code": "IE-LS",
+            "names": "Laois",
+            "type": "County"
         },
-        "MH": {
-            "name": "Meath",
-            "code": "MH",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.4011687,
-            "lng": -6.664395799999966
+        {
+            "code": "IE-M",
+            "names": "Munster",
+            "type": "Province"
         },
-        "MN": {
-            "name": "Monaghan",
-            "code": "MN",
-            "division": "county",
-            "parent": "IE-U",
-            "lat": 54.2485304,
-            "lng": -6.969159900000022
+        {
+            "code": "IE-MH",
+            "names": "Meath",
+            "type": "County"
         },
-        "MO": {
-            "name": "Mayo",
-            "code": "MO",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.7600582,
-            "lng": -9.117707099999961
+        {
+            "code": "IE-MN",
+            "names": "Monaghan",
+            "type": "County"
         },
-        "OY": {
-            "name": "Offaly",
-            "code": "OY",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.2771489,
-            "lng": -7.492387199999939
+        {
+            "code": "IE-MO",
+            "names": "Mayo",
+            "type": "County"
         },
-        "RN": {
-            "name": "Roscommon",
-            "code": "RN",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 53.6279798,
-            "lng": -8.188634999999977
+        {
+            "code": "IE-OY",
+            "names": "Offaly",
+            "type": "County"
         },
-        "SO": {
-            "name": "Sligo",
-            "code": "SO",
-            "division": "county",
-            "parent": "IE-C",
-            "lat": 54.2706069,
-            "lng": -8.471527899999955
+        {
+            "code": "IE-RN",
+            "names": "Roscommon",
+            "type": "County"
         },
-        "TA": {
-            "name": "Tipperary",
-            "code": "TA",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.4748756,
-            "lng": -8.157204099999944
+        {
+            "code": "IE-SO",
+            "names": "Sligo",
+            "type": "County"
         },
-        "U": {
-            "name": "Ulster",
-            "code": "U",
-            "names": {
-                "geonames": "Ulster",
-                "en": "Ulster",
-                "ar": "\u0623\u0648\u0644\u0633\u062a\u0631",
-                "de": "Provinz Ulster",
-                "es": "\u00dalster",
-                "fr": "Ulster",
-                "it": "Ulster",
-                "ru": "\u041e\u043b\u044c\u0441\u0442\u0435\u0440",
-                "zh": "\u963f\u723e\u65af\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "IE",
-            "lat": 54.7824296,
-            "lng": -8.05066899999997
+        {
+            "code": "IE-TA",
+            "names": "Tipperary",
+            "type": "County"
         },
-        "WD": {
-            "name": "Waterford",
-            "code": "WD",
-            "division": "county",
-            "parent": "IE-M",
-            "lat": 52.2567868,
-            "lng": -7.129204399999935
+        {
+            "code": "IE-U",
+            "names": "Ulster",
+            "type": "Province"
         },
-        "WH": {
-            "name": "Westmeath",
-            "code": "WH",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 53.5346788,
-            "lng": -7.349305400000048
+        {
+            "code": "IE-WD",
+            "names": "Waterford",
+            "type": "County"
         },
-        "WW": {
-            "name": "Wicklow",
-            "code": "WW",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.9792384,
-            "lng": -6.042251699999952
+        {
+            "code": "IE-WH",
+            "names": "Westmeath",
+            "type": "County"
         },
-        "WX": {
-            "name": "Wexford",
-            "code": "WX",
-            "division": "county",
-            "parent": "IE-L",
-            "lat": 52.3391609,
-            "lng": -6.460124700000051
+        {
+            "code": "IE-WW",
+            "names": "Wicklow",
+            "type": "County"
+        },
+        {
+            "code": "IE-WX",
+            "names": "Wexford",
+            "type": "County"
         }
-    }
+    ]
 }

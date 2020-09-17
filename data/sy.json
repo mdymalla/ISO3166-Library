@@ -1,294 +1,204 @@
 {
     "alpha-2": "SY",
     "alpha-3": "SYR",
-    "numeric": 760,
-    "capital": "Damascus",
-    "currency": "SYP",
-    "languages": [
-        "ar"
-    ],
-    "flag-icon": "\ud83c\uddf8\ud83c\uddfe",
+    "numeric": "760",
     "names": {
-        "geonames": "Syria",
-        "ar": "\u0633\u0648\u0631\u064a\u0627",
-        "de": "Syrien",
         "en": "Syria",
-        "es": "Siria",
         "fr": "Syrie",
-        "it": "Siria",
-        "ru": "\u0421\u0438\u0440\u0438\u044f",
+        "ur": "\u0634\u0627\u0645",
+        "rn": "Siriya",
+        "lv": "S\u012brija",
+        "hy": "\u054d\u056b\u0580\u056b\u0561",
+        "sq": "Siri",
+        "jv": "Suriah",
+        "or": "\u0b38\u0b3f\u0b30\u0b3f\u0b06",
+        "mg": "Syria",
+        "no": "Syria",
         "zh": "\u53d9\u5229\u4e9a",
-        "he": "\u05e1\u05d5\u05e8\u05d9\u05d4",
-        "hi": "\u0938\u0940\u0930\u093f\u092f\u093e",
+        "tr": "Suriye",
+        "bs": "Sirija",
         "ja": "\u30b7\u30ea\u30a2",
-        "pt": "S\u00edria"
+        "th": "\u0e0b\u0e35\u0e40\u0e23\u0e35\u0e22",
+        "he": "\u05e1\u05d5\u05e8\u05d9\u05d4",
+        "kk": "\u0421\u0438\u0440\u0438\u044f",
+        "mo": "Siria",
+        "ff": "Sirii",
+        "ca": "S\u00edria",
+        "ar": "\u0633\u0648\u0631\u064a\u0627",
+        "eu": "Siria",
+        "ps": "\u0633\u0648\u0631\u06cc\u0647",
+        "kn": "\u0cb8\u0cbf\u0cb0\u0cbf\u0caf\u0cbe",
+        "si": "\u0dc3\u0dd2\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u179f\u17ca\u17b8\u179a\u17b8",
+        "ne": "\u0938\u093f\u0930\u093f\u092f\u093e",
+        "fi": "Syyria",
+        "hi": "\u0938\u0940\u0930\u093f\u092f\u093e",
+        "rm": "Siria",
+        "vi": "Syria",
+        "gl": "Siria",
+        "ig": "Obodo Syria",
+        "mr": "\u0938\u0940\u0930\u093f\u092f\u093e",
+        "es": "Siria",
+        "be": "\u0421\u0456\u0440\u044b\u044f",
+        "lg": "Siriya",
+        "az": "\u0421\u0443\u0440\u0438\u0458\u0430",
+        "ce": "\u0428\u0435\u043c\u0430",
+        "mk": "\u0421\u0438\u0440\u0438\u0458\u0430",
+        "zu": "i-Syria",
+        "it": "Siria",
+        "ko": "\uc2dc\ub9ac\uc544",
+        "lo": "\u0e8a\u0eb5\u0ec0\u0ea3\u0e8d",
+        "lt": "Sirija",
+        "dz": "\u0f66\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f61",
+        "ln": "Sir\u00ed",
+        "hr": "Sirija",
+        "ks": "\u0634\u0627\u0645",
+        "sv": "Syrien",
+        "pl": "Syria",
+        "nb": "Syria",
+        "sh": "Sirija",
+        "lu": "Siri",
+        "nl": "Syri\u00eb",
+        "ky": "\u0421\u0438\u0440\u0438\u044f",
+        "bn": "\u09b8\u09bf\u09b0\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0634\u0627\u0645",
+        "fa": "\u0633\u0648\u0631\u06cc\u0647",
+        "gd": "Siridhea",
+        "cs": "S\u00fdrie",
+        "tk": "Siri\u00fda",
+        "eo": "Sirio",
+        "mt": "is-Sirja",
+        "sr": "Sirija",
+        "wo": "Siri",
+        "el": "\u03a3\u03c5\u03c1\u03af\u03b1",
+        "sn": "Syria",
+        "pt": "S\u00edria",
+        "yi": "\u05e1\u05d9\u05e8\u05d9\u05e2",
+        "is": "S\u00fdrland",
+        "ta": "\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bbe",
+        "br": "Siria",
+        "hu": "Sz\u00edria",
+        "et": "S\u00fc\u00fcria",
+        "ku": "S\u00fbr\u00ee",
+        "sk": "S\u00fdria",
+        "sw": "Shamu",
+        "te": "\u0c38\u0c3f\u0c30\u0c3f\u0c2f\u0c3e",
+        "ro": "Siria",
+        "ki": "Siria",
+        "ak": "Siria",
+        "tg": "\u0421\u0443\u0440\u0438\u044f",
+        "ml": "\u0d38\u0d3f\u0d31\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Siria",
+        "de": "Syrien",
+        "as": "\u099a\u09bf\u09f0\u09bf\u09af\u09bc\u09be",
+        "am": "\u1232\u122a\u12eb",
+        "se": "Syria",
+        "ia": "Syria",
+        "ti": "\u1232\u122a\u12eb",
+        "ru": "\u0421\u0438\u0440\u0438\u044f",
+        "ga": "an tSiria",
+        "bg": "\u0421\u0438\u0440\u0438\u044f",
+        "my": "\u1006\u102e\u1038\u101b\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Syri\u00eb",
+        "bm": "Siri",
+        "gu": "\u0ab8\u0ac0\u0ab0\u0abf\u0aaf\u0abe",
+        "uz": "\u0421\u0443\u0440\u0438\u044f",
+        "cy": "Syria",
+        "ug": "\u0633\u06c7\u0631\u0649\u064a\u06d5",
+        "nn": "Syria",
+        "uk": "\u0421\u0438\u0440\u0456\u044f",
+        "qu": "Siria",
+        "tl": "Syria",
+        "ms": "Syria",
+        "so": "Suuriya",
+        "da": "Syrien",
+        "tt": "\u0421\u04af\u0440\u0438\u044f",
+        "af": "Siri\u00eb",
+        "ha": "Sham, Siriya",
+        "iw": "\u05e1\u05d5\u05e8\u05d9\u05d4",
+        "ee": "Siria nutome",
+        "in": "Suriah",
+        "to": "S\u012blia",
+        "sl": "Sirija",
+        "sg": "Sir\u00efi",
+        "lb": "Syrien",
+        "fo": "S\u00fdria",
+        "mn": "\u0421\u0438\u0440\u0438",
+        "id": "Suriah",
+        "pa": "\u0a38\u0a40\u0a30\u0a40\u0a06",
+        "ka": "\u10e1\u10d8\u10e0\u10d8\u10d0",
+        "nd": "Syria"
     },
-    "ISO3166-2": {
-        "DI": {
-            "name": "Damascus Governorate",
-            "code": "DI",
-            "names": {
-                "geonames": "Dimashq",
-                "ru": "\u0414\u0430\u043c\u0430\u0441\u043a",
-                "en": "Damascus Governorate",
-                "ar": "\u062f\u0645\u0634\u0642",
-                "de": "Damaskus",
-                "es": "Damasco",
-                "fr": "Damas",
-                "it": "Damasco",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 33.513,
-            "lng": 36.29200000000003
+    "3166-2": [
+        {
+            "code": "SY-DI",
+            "names": "Dimashq",
+            "type": "Governorate"
         },
-        "DR": {
-            "name": "Daraa Governorate",
-            "code": "DR",
-            "names": {
-                "geonames": "Daraa",
-                "ru": "\u0414\u0430\u0440\u044a\u0430",
-                "en": "Daraa Governorate",
-                "ar": "\u062f\u0631\u0639\u0627",
-                "de": "Gouvernement Dar'a",
-                "es": "Gobernaci\u00f3n de Dar'a",
-                "fr": "Gouvernorat de Deraa",
-                "it": "Governatorato di Dar'a",
-                "zh": "\u5fb7\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 32.6245,
-            "lng": 36.10522100000003
+        {
+            "code": "SY-DR",
+            "names": "Dar'a",
+            "type": "Governorate"
         },
-        "DY": {
-            "name": "Deir ez-Zor Governorate",
-            "code": "DY",
-            "names": {
-                "geonames": "Deir ez-Zor",
-                "ru": "\u0414\u0435\u0439\u0440-\u044d\u0437-\u0417\u043e\u0440",
-                "en": "Deir ez-Zor Governorate",
-                "ar": "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631",
-                "de": "Gouvernement Deir ez-Zor",
-                "es": "Gobernaci\u00f3n de Deir ez-Zor",
-                "fr": "Gouvernorat de Deir ez-Zor",
-                "it": "Governatorato di Deir el-Zor",
-                "zh": "\u4ee3\u5c14\u7956\u5c14\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 35.3333333,
-            "lng": 40.14999999999998
+        {
+            "code": "SY-DY",
+            "names": "Dayr az Zawr",
+            "type": "Governorate"
         },
-        "HA": {
-            "name": "Al-Hasakah Governorate",
-            "code": "HA",
-            "names": {
-                "geonames": "Al-Hasakah",
-                "ru": "\u0425\u0430\u0441\u0435\u043a\u0435",
-                "en": "Al-Hasakah Governorate",
-                "ar": "\u0627\u0644\u062d\u0633\u0643\u0629",
-                "de": "Gouvernement al-Hasaka",
-                "es": "Gobernaci\u00f3n de Hasaka",
-                "fr": "Gouvernorat d'Hassak\u00e9",
-                "it": "Governatorato di Hassak\u00e9",
-                "zh": "\u54c8\u585e\u514b\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 36.493401,
-            "lng": 40.76697899999999
+        {
+            "code": "SY-HA",
+            "names": "Al Hasakah",
+            "type": "Governorate"
         },
-        "HI": {
-            "name": "Homs Governorate",
-            "code": "HI",
-            "names": {
-                "geonames": "Homs",
-                "ru": "\u0425\u043e\u043c\u0441",
-                "en": "Homs Governorate",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0645\u0635",
-                "de": "Gouvernement Homs",
-                "es": "Gobernaci\u00f3n de Homs",
-                "fr": "Gouvernorat de Homs",
-                "it": "Governatorato di Homs",
-                "zh": "\u970d\u59c6\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 34.7084139,
-            "lng": 36.7073944
+        {
+            "code": "SY-HI",
+            "names": "Homs",
+            "type": "Governorate"
         },
-        "HL": {
-            "name": "Aleppo Governorate",
-            "code": "HL",
-            "names": {
-                "geonames": "Aleppo",
-                "ru": "\u0410\u043b\u0435\u043f\u043f\u043e",
-                "en": "Aleppo Governorate",
-                "ar": "\u062d\u0644\u0628",
-                "de": "Gouvernement Aleppo",
-                "es": "Gobernaci\u00f3n de Alepo",
-                "fr": "Gouvernorat d'Alep",
-                "it": "Governatorato di Aleppo",
-                "zh": "\u963f\u52d2\u9887\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 36.215549,
-            "lng": 37.15927899999997
+        {
+            "code": "SY-HL",
+            "names": "Halab",
+            "type": "Governorate"
         },
-        "HM": {
-            "name": "Hama Governorate",
-            "code": "HM",
-            "names": {
-                "geonames": "Hama",
-                "ru": "\u0425\u0430\u043c\u0430",
-                "en": "Hama Governorate",
-                "ar": "\u062d\u0645\u0627\u0629",
-                "de": "Gouvernement Hama",
-                "es": "Gobernaci\u00f3n de Hama",
-                "fr": "Gouvernorat de Hama",
-                "it": "Governatorato di Hama",
-                "zh": "\u54c8\u99ac\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 35.13781,
-            "lng": 36.75244900000007
+        {
+            "code": "SY-HM",
+            "names": "Hamah",
+            "type": "Governorate"
         },
-        "ID": {
-            "name": "Idlib Governorate",
-            "code": "ID",
-            "names": {
-                "geonames": "Idlib",
-                "ru": "\u0418\u0434\u043b\u0438\u0431",
-                "en": "Idlib Governorate",
-                "ar": "\u0625\u062f\u0644\u0628",
-                "de": "Gouvernement Idlib",
-                "es": "Gobernaci\u00f3n de Idlib",
-                "fr": "Gouvernorat d'Idleb",
-                "it": "Governatorato di Idlib",
-                "zh": "\u4f0a\u5fb7\u5229\u535c\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 35.9333333,
-            "lng": 36.633333300000004
+        {
+            "code": "SY-ID",
+            "names": "Idlib",
+            "type": "Governorate"
         },
-        "LA": {
-            "name": "Latakia Governorate",
-            "code": "LA",
-            "names": {
-                "geonames": "Latakia",
-                "ru": "\u041b\u0430\u0442\u0430\u043a\u0438\u044f",
-                "en": "Latakia Governorate",
-                "ar": "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629",
-                "de": "Gouvernement Latakia",
-                "es": "Gobernaci\u00f3n de Latakia",
-                "fr": "Gouvernorat de Lattaqui\u00e9",
-                "it": "Governatorato di Laodicea",
-                "zh": "\u62c9\u5854\u57fa\u4e9a\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 35.52145,
-            "lng": 35.79240000000004
+        {
+            "code": "SY-LA",
+            "names": "Al Ladhiqiyah",
+            "type": "Governorate"
         },
-        "QU": {
-            "name": "Quneitra Governorate",
-            "code": "QU",
-            "names": {
-                "geonames": "Quneitra",
-                "ru": "\u042d\u043b\u044c-\u041a\u0443\u043d\u0435\u0439\u0442\u0440\u0430",
-                "en": "Quneitra Governorate",
-                "ar": "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629",
-                "de": "Gouvernement Quneitra",
-                "es": "Gobernaci\u00f3n de Quneitra",
-                "fr": "Gouvernorat de Kuneitra",
-                "it": "Governatorato di Quneitra",
-                "zh": "\u5e93\u5948\u7279\u62c9\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 33.120491,
-            "lng": 35.82545099999993
+        {
+            "code": "SY-QU",
+            "names": "Al Qunaytirah",
+            "type": "Governorate"
         },
-        "RA": {
-            "name": "Ar-Raqqah Governorate",
-            "code": "RA",
-            "names": {
-                "geonames": "Ar-Raqqah",
-                "ru": "\u0420\u0430\u043a\u043a\u0430",
-                "en": "Ar-Raqqah Governorate",
-                "ar": "\u0627\u0644\u0631\u0642\u0629",
-                "de": "Gouvernement ar-Raqqa",
-                "es": "Gobernaci\u00f3n de Raqqa",
-                "fr": "Gouvernorat de Racca",
-                "it": "Governatorato di al-Raqqa",
-                "zh": "\u62c9\u5361\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 35.95,
-            "lng": 39.01666669999997
+        {
+            "code": "SY-RA",
+            "names": "Ar Raqqah",
+            "type": "Governorate"
         },
-        "RD": {
-            "name": "Rif Dimashq Governorate",
-            "code": "RD",
-            "names": {
-                "geonames": "Rif-dimashq",
-                "ru": "\u0414\u0430\u043c\u0430\u0441\u043a",
-                "en": "Rif Dimashq Governorate",
-                "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642",
-                "de": "Gouvernement Rif Dimaschq",
-                "es": "Gobernaci\u00f3n de la Campi\u00f1a de Damasco",
-                "fr": "Gouvernorat de Rif Dimachq",
-                "it": "Governatorato del Rif di Damasco",
-                "zh": "\u5927\u9a6c\u58eb\u9769\u519c\u6751\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 33.513,
-            "lng": 36.29200000000003
+        {
+            "code": "SY-RD",
+            "names": "Rif Dimashq",
+            "type": "Governorate"
         },
-        "SU": {
-            "name": "As-Suwayda Governorate",
-            "code": "SU",
-            "names": {
-                "geonames": "As-Suwayda",
-                "ru": "\u042d\u0441-\u0421\u0443\u0432\u0435\u0439\u0434\u0430",
-                "en": "As-Suwayda Governorate",
-                "ar": "\u0627\u0644\u0633\u0648\u064a\u062f\u0627\u0621",
-                "de": "Gouvernement as-Suwaida",
-                "es": "Gobernaci\u00f3n de Sueida",
-                "fr": "Gouvernorat de Soue\u00efda",
-                "it": "Governatorato di al-Suwayda",
-                "zh": "\u82cf\u97e6\u8fbe\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 32.706268,
-            "lng": 36.566070999999965
+        {
+            "code": "SY-SU",
+            "names": "As Suwayda'",
+            "type": "Governorate"
         },
-        "TA": {
-            "name": "Tartus Governorate",
-            "code": "TA",
-            "names": {
-                "geonames": "Tartus",
-                "ru": "\u0422\u0430\u0440\u0442\u0443\u0441",
-                "en": "Tartus Governorate",
-                "ar": "\u0637\u0631\u0637\u0648\u0633",
-                "de": "Gouvernement Tartus",
-                "es": "Gobernaci\u00f3n de Tartus",
-                "fr": "Gouvernorat de Tartous",
-                "it": "Governatorato di Tartus",
-                "zh": "\u5854\u5c14\u56fe\u65af\u7701"
-            },
-            "division": "governorate",
-            "parent": "SY",
-            "lat": 34.8833333,
-            "lng": 35.883333300000004
+        {
+            "code": "SY-TA",
+            "names": "Tartus",
+            "type": "Governorate"
         }
-    }
+    ]
 }

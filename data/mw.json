@@ -1,307 +1,289 @@
 {
     "alpha-2": "MW",
     "alpha-3": "MWI",
-    "numeric": 454,
-    "capital": "Lilongwe",
-    "currency": "MWK",
-    "languages": [
-        "en",
-        "ny"
-    ],
-    "flag-icon": "\ud83c\uddf2\ud83c\uddfc",
+    "numeric": "454",
     "names": {
-        "geonames": "Malawi",
         "en": "Malawi",
-        "ar": "\u0645\u0627\u0644\u0627\u0648\u064a",
-        "de": "Malawi",
-        "es": "Malaui",
         "fr": "Malawi",
-        "it": "Malawi",
-        "ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "ur": "\u0645\u0644\u0627\u0648\u06cc",
+        "rn": "Malawi",
+        "lv": "Mal\u0101vija",
+        "hy": "\u0544\u0561\u056c\u0561\u057e\u056b",
+        "sq": "Malavi",
+        "jv": "Malawi",
+        "or": "\u0b2e\u0b3e\u0b32\u0b71\u0b3f",
+        "mg": "Malao\u00ec",
+        "no": "Malawi",
         "zh": "\u9a6c\u62c9\u7ef4",
-        "he": "\u05de\u05dc\u05d0\u05d5\u05d5\u05d9",
-        "hi": "\u092e\u0932\u093e\u0935\u0940",
+        "tr": "Malavi",
+        "bs": "Malavi",
         "ja": "\u30de\u30e9\u30a6\u30a4",
-        "pt": "Malawi"
+        "th": "\u0e21\u0e32\u0e25\u0e32\u0e27\u0e35",
+        "he": "\u05de\u05dc\u05d0\u05d5\u05d5\u05d9",
+        "kk": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "mo": "Malawi",
+        "ff": "\ud83a\udd03\ud83a\udd22\ud83a\udd24\ud83a\udd22\ud83a\udd31\ud83a\udd2d\ud83a\udd45",
+        "ca": "Malawi",
+        "ar": "\u0645\u0644\u0627\u0648\u064a",
+        "eu": "Malawi",
+        "ps": "\u0645\u0627\u0644\u0627\u0648\u064a",
+        "kn": "\u0cae\u0cb2\u0cbe\u0cb5\u0cbf",
+        "si": "\u0db8\u0dbd\u0dcf\u0dc0\u0dd2",
+        "km": "\u1798\u17c9\u17b6\u17a1\u17b6\u179c\u17b8",
+        "ne": "\u092e\u093e\u0932\u093e\u0935\u0940",
+        "fi": "Malawi",
+        "hi": "\u092e\u0932\u093e\u0935\u0940",
+        "rm": "Malawi",
+        "vi": "Malawi",
+        "gl": "Malawi",
+        "ig": "Malawi",
+        "mr": "\u092e\u0932\u093e\u0935\u0940",
+        "es": "Malaui",
+        "be": "\u041c\u0430\u043b\u0430\u0432\u0456",
+        "lg": "Malawi",
+        "pt": "Malaui",
+        "az": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "ce": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "mk": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "zu": "iMalawi",
+        "it": "Malawi",
+        "ko": "\ub9d0\ub77c\uc704",
+        "lo": "\u0ea1\u0eb2\u0ea5\u0eb2\u0ea7\u0eb5",
+        "lt": "Malavis",
+        "dz": "\u0f58\u0f0b\u0f63\u0f0b\u0f5d\u0f72",
+        "ln": "Malawi",
+        "hr": "Malavi",
+        "ks": "\u0645\u0644\u0627\u0648\u06cc",
+        "sv": "Malawi",
+        "pl": "Malawi",
+        "nb": "Malawi",
+        "sh": "Malavi",
+        "lu": "Malawi",
+        "nl": "Malawi",
+        "ky": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "bn": "\u09ae\u09be\u09b2\u09be\u0989\u0987",
+        "sd": "\u0645\u0627\u0644\u0627\u0648\u064a",
+        "fa": "\u0645\u0627\u0644\u0627\u0648\u06cc",
+        "gd": "Malabhaidh",
+        "cs": "Malawi",
+        "tk": "Malawi",
+        "eo": "Malavio",
+        "mt": "il-Malawi",
+        "sr": "Malavi",
+        "wo": "Malawi",
+        "el": "\u039c\u03b1\u03bb\u03ac\u03bf\u03c5\u03b9",
+        "sn": "Malawi",
+        "yi": "\u05de\u05d0\u05b7\u05dc\u05d0\u05b7\u05d5\u05d5\u05d9",
+        "is": "Malav\u00ed",
+        "ta": "\u0bae\u0bb2\u0bbe\u0bb5\u0bbf",
+        "br": "Malawi",
+        "hu": "Malawi",
+        "et": "Malawi",
+        "ku": "Malaw\u00ee",
+        "sk": "Malawi",
+        "sw": "Malawi",
+        "te": "\u0c2e\u0c32\u0c3e\u0c35\u0c40",
+        "ro": "Malawi",
+        "ki": "Malawi",
+        "ak": "Malawi",
+        "tg": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "ml": "\u0d2e\u0d32\u0d3e\u0d35\u0d3f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Malawi",
+        "de": "Malawi",
+        "as": "\u09ae\u09be\u09b2\u09be\u09f1\u09bf",
+        "am": "\u121b\u120b\u12ca",
+        "se": "Malawi",
+        "ia": "Malawi",
+        "ti": "\u121b\u120b\u12ca",
+        "ru": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "ga": "an Mhal\u00e1iv",
+        "bg": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "my": "\u1019\u102c\u101c\u102c\u101d\u102e",
+        "fy": "Malawi",
+        "bm": "Malawi",
+        "gu": "\u0aae\u0abe\u0ab2\u0abe\u0ab5\u0ac0",
+        "uz": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "cy": "Malawi",
+        "ug": "\u0645\u0627\u0644\u0627\u06cb\u0649",
+        "nn": "Malawi",
+        "uk": "\u041c\u0430\u043b\u0430\u0432\u0456",
+        "qu": "Malawi",
+        "tl": "Malawi",
+        "ms": "Malawi",
+        "so": "Malaawi",
+        "da": "Malawi",
+        "tt": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "af": "Malawi",
+        "ha": "Malawi",
+        "iw": "\u05de\u05dc\u05d0\u05d5\u05d5\u05d9",
+        "ee": "Malawi nutome",
+        "in": "Malawi",
+        "to": "Malaui",
+        "sl": "Malavi",
+        "sg": "Malaw\u00efi",
+        "lb": "Malawi",
+        "fo": "Malavi",
+        "mn": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "id": "Malawi",
+        "pa": "\u0a2e\u0a32\u0a3e\u0a35\u0a40",
+        "ka": "\u10db\u10d0\u10da\u10d0\u10d5\u10d8",
+        "nd": "Malawi"
     },
-    "ISO3166-2": {
-        "BA": {
-            "name": "Balaka",
-            "code": "BA",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -14.98053,
-            "lng": 34.95586000000003
+    "3166-2": [
+        {
+            "code": "MW-BA",
+            "names": "Balaka",
+            "type": "District"
         },
-        "BL": {
-            "name": "Blantyre",
-            "code": "BL",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.7861111,
-            "lng": 35.00583329999995
+        {
+            "code": "MW-BL",
+            "names": "Blantyre",
+            "type": "District"
         },
-        "C": {
-            "name": "Central Region, Malawi",
-            "code": "C",
-            "names": {
-                "geonames": "Central Region",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Central Region",
-                "de": "Central Region",
-                "es": "Regi\u00f3n Central",
-                "fr": "R\u00e9gion centrale",
-                "it": "Regione Centrale",
-                "zh": "\u4e2d\u592e\u533a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "MW-C",
+            "names": "Central Region",
+            "type": "Region"
         },
-        "CK": {
-            "name": "Chikwawa",
-            "code": "CK",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -16.035,
-            "lng": 34.80099999999993
+        {
+            "code": "MW-CK",
+            "names": "Chikwawa",
+            "type": "District"
         },
-        "CR": {
-            "name": "Chiradzulu",
-            "code": "CR",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.6759485,
-            "lng": 35.1406293
+        {
+            "code": "MW-CR",
+            "names": "Chiradzulu",
+            "type": "District"
         },
-        "CT": {
-            "name": "Chitipa",
-            "code": "CT",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -9.7019444,
-            "lng": 33.26999999999998
+        {
+            "code": "MW-CT",
+            "names": "Chitipa",
+            "type": "District"
         },
-        "DE": {
-            "name": "Dedza",
-            "code": "DE",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -14.37823,
-            "lng": 34.33248900000001
+        {
+            "code": "MW-DE",
+            "names": "Dedza",
+            "type": "District"
         },
-        "DO": {
-            "name": "Dowa",
-            "code": "DO",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.6514687,
-            "lng": 33.935975600000006
+        {
+            "code": "MW-DO",
+            "names": "Dowa",
+            "type": "District"
         },
-        "KR": {
-            "name": "Karonga",
-            "code": "KR",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -9.9333333,
-            "lng": 33.93333329999996
+        {
+            "code": "MW-KR",
+            "names": "Karonga",
+            "type": "District"
         },
-        "KS": {
-            "name": "Kasungu",
-            "code": "KS",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.0333333,
-            "lng": 33.48333330000003
+        {
+            "code": "MW-KS",
+            "names": "Kasungu",
+            "type": "District"
         },
-        "LI": {
-            "name": "Lilongwe",
-            "code": "LI",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.9833333,
-            "lng": 33.78333329999998
+        {
+            "code": "MW-LI",
+            "names": "Lilongwe",
+            "type": "District"
         },
-        "LK": {
-            "name": "Likoma",
-            "code": "LK",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -12.0584005,
-            "lng": 34.735403099999985
+        {
+            "code": "MW-LK",
+            "names": "Likoma",
+            "type": "District"
         },
-        "MC": {
-            "name": "Mchinji",
-            "code": "MC",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.79994,
-            "lng": 32.88021100000003
+        {
+            "code": "MW-MC",
+            "names": "Mchinji",
+            "type": "District"
         },
-        "MG": {
-            "name": "Mangochi",
-            "code": "MG",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -14.47755,
-            "lng": 35.26374099999998
+        {
+            "code": "MW-MG",
+            "names": "Mangochi",
+            "type": "District"
         },
-        "MH": {
-            "name": "Machinga",
-            "code": "MH",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.1699934,
-            "lng": 35.29997789999993
+        {
+            "code": "MW-MH",
+            "names": "Machinga",
+            "type": "District"
         },
-        "MU": {
-            "name": "Mulanje",
-            "code": "MU",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -16.033333,
-            "lng": 35.5
+        {
+            "code": "MW-MU",
+            "names": "Mulanje",
+            "type": "District"
         },
-        "MW": {
-            "name": "Mwanza",
-            "code": "MW",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.5997929,
-            "lng": 34.51406369999995
+        {
+            "code": "MW-MW",
+            "names": "Mwanza",
+            "type": "District"
         },
-        "MZ": {
-            "name": "Mzimba",
-            "code": "MZ",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -11.9,
-            "lng": 33.60000000000002
+        {
+            "code": "MW-MZ",
+            "names": "Mzimba",
+            "type": "District"
         },
-        "N": {
-            "name": "Northern Region, Malawi",
-            "code": "N",
-            "names": {
-                "geonames": "Northern Region",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Northern Region",
-                "de": "Northern Region",
-                "es": "Regi\u00f3n del Norte",
-                "fr": "R\u00e9gion Nord",
-                "it": "Regione Settentrionale",
-                "zh": "\u5317\u90e8\u533a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "MW-N",
+            "names": "Northern Region",
+            "type": "Region"
         },
-        "NB": {
-            "name": "Nkhata Bay",
-            "code": "NB",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -11.6074,
-            "lng": 34.29363999999998
+        {
+            "code": "MW-NB",
+            "names": "Nkhata Bay",
+            "type": "District"
         },
-        "NE": {
-            "name": "Neno",
-            "code": "NE",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -15.559766,
-            "lng": 34.50436719999993
+        {
+            "code": "MW-NE",
+            "names": "Neno",
+            "type": "District"
         },
-        "NI": {
-            "name": "Ntchisi",
-            "code": "NI",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.3762517,
-            "lng": 33.865198400000054
+        {
+            "code": "MW-NI",
+            "names": "Ntchisi",
+            "type": "District"
         },
-        "NK": {
-            "name": "Nkhotakota",
-            "code": "NK",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -12.92925,
-            "lng": 34.29636000000005
+        {
+            "code": "MW-NK",
+            "names": "Nkhotakota",
+            "type": "District"
         },
-        "NS": {
-            "name": "Nsanje",
-            "code": "NS",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -16.921221,
-            "lng": 35.26216899999997
+        {
+            "code": "MW-NS",
+            "names": "Nsanje",
+            "type": "District"
         },
-        "NU": {
-            "name": "Ntcheu",
-            "code": "NU",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -14.816667,
-            "lng": 34.63333299999999
+        {
+            "code": "MW-NU",
+            "names": "Ntcheu",
+            "type": "District"
         },
-        "PH": {
-            "name": "Phalombe",
-            "code": "PH",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.7633303,
-            "lng": 35.658750300000065
+        {
+            "code": "MW-PH",
+            "names": "Phalombe",
+            "type": "District"
         },
-        "RU": {
-            "name": "Rumphi",
-            "code": "RU",
-            "division": "district",
-            "parent": "MW N",
-            "lat": -11.01995,
-            "lng": 33.85741000000007
+        {
+            "code": "MW-RU",
+            "names": "Rumphi",
+            "type": "District"
         },
-        "S": {
-            "name": "Southern Region, Malawi",
-            "code": "S",
-            "names": {
-                "geonames": "Southern Region",
-                "ru": "\u042e\u0436\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Southern Region",
-                "de": "Southern Region",
-                "es": "Regi\u00f3n del Sur",
-                "fr": "R\u00e9gion Sud",
-                "it": "Regione Meridionale",
-                "zh": "\u5357\u90e8\u533a"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "MW-S",
+            "names": "Southern Region",
+            "type": "Region"
         },
-        "SA": {
-            "name": "Salima",
-            "code": "SA",
-            "division": "district",
-            "parent": "MW C",
-            "lat": -13.78074,
-            "lng": 34.458481000000006
+        {
+            "code": "MW-SA",
+            "names": "Salima",
+            "type": "District"
         },
-        "TH": {
-            "name": "Thyolo",
-            "code": "TH",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -16.069257,
-            "lng": 35.1406293
+        {
+            "code": "MW-TH",
+            "names": "Thyolo",
+            "type": "District"
         },
-        "ZO": {
-            "name": "Zomba",
-            "code": "ZO",
-            "division": "district",
-            "parent": "MW S",
-            "lat": -15.3833333,
-            "lng": 35.33333330000005
+        {
+            "code": "MW-ZO",
+            "names": "Zomba",
+            "type": "District"
         }
-    }
+    ]
 }

@@ -1,636 +1,294 @@
 {
     "alpha-2": "MX",
     "alpha-3": "MEX",
-    "numeric": 484,
-    "capital": "Mexico City",
-    "currency": "MXN",
-    "languages": [
-        "es"
-    ],
-    "flag-icon": "\ud83c\uddf2\ud83c\uddfd",
+    "numeric": "484",
     "names": {
-        "geonames": "Mexico",
         "en": "Mexico",
-        "ar": "\u0627\u0644\u0645\u0643\u0633\u064a\u0643",
-        "de": "Mexiko",
-        "es": "M\u00e9xico",
         "fr": "Mexique",
-        "it": "Messico",
-        "ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "ur": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
+        "rn": "Migizike",
+        "lv": "Meksika",
+        "hy": "\u0544\u0565\u0584\u057d\u056b\u056f\u0561",
+        "sq": "Meksik\u00eb",
+        "jv": "M\u00e8ksiko",
+        "or": "\u0b2e\u0b47\u0b15\u0b4d\u0b38\u0b3f\u0b15\u0b4b",
+        "mg": "Meksika",
+        "no": "Mexico",
         "zh": "\u58a8\u897f\u54e5",
-        "he": "\u05de\u05e7\u05e1\u05d9\u05e7\u05d5",
-        "hi": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b",
+        "tr": "Meksika",
+        "bs": "Meksiko",
         "ja": "\u30e1\u30ad\u30b7\u30b3",
-        "pt": "M\u00e9xico"
+        "th": "\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01",
+        "he": "\u05de\u05e7\u05e1\u05d9\u05e7\u05d5",
+        "fa": "\u0645\u06a9\u0632\u06cc\u06a9",
+        "kk": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "mo": "Mexic",
+        "ff": "Meksik",
+        "ca": "M\u00e8xic",
+        "ar": "\u0627\u0644\u0645\u0643\u0633\u064a\u0643",
+        "eu": "Mexiko",
+        "ps": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
+        "kn": "\u0cae\u0cc6\u0c95\u0ccd\u0cb8\u0cbf\u0c95\u0cca",
+        "si": "\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0ddd\u0dc0",
+        "km": "\u1798\u17c9\u17b7\u1780\u179f\u17ca\u17b7\u1780",
+        "ne": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b",
+        "fi": "Meksiko",
+        "hi": "\u092e\u0948\u0915\u094d\u0938\u093f\u0915\u094b",
+        "rm": "Mexico",
+        "vi": "Mexico",
+        "gl": "M\u00e9xico",
+        "ig": "Mexico",
+        "mr": "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b",
+        "es": "M\u00e9xico",
+        "be": "\u041c\u0435\u043a\u0441\u0456\u043a\u0430",
+        "lg": "Mekisiko",
+        "az": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "ce": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "mk": "\u041c\u0435\u043a\u0441\u0438\u043a\u043e",
+        "zu": "i-Mexico",
+        "it": "Messico",
+        "ko": "\uba55\uc2dc\ucf54",
+        "lo": "\u0ec0\u0ea1\u0eb1\u0e81\u0e8a\u0eb4\u0ec2\u0e81",
+        "lt": "Meksika",
+        "dz": "\u0f58\u0f7a\u0f40\u0f0b\u0f66\u0f72\u0f0b\u0f40\u0f7c",
+        "ln": "Meksike",
+        "hr": "Meksiko",
+        "ks": "\u0645\u0620\u06a9\u0633\u0650\u06a9\u0648",
+        "sv": "Mexiko",
+        "pl": "Meksyk",
+        "nb": "Mexico",
+        "sh": "Meksiko",
+        "lu": "Meksike",
+        "nl": "Mexico",
+        "ky": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "bn": "\u09ae\u09c7\u0995\u09cd\u09b8\u09bf\u0995\u09cb",
+        "sd": "\u0645\u064a\u06aa\u0633\u064a\u06aa\u0648",
+        "gd": "Meagsago",
+        "cs": "Mexiko",
+        "tk": "Meksika",
+        "eo": "Meksiko",
+        "mt": "il-Messiku",
+        "sr": "Meksiko",
+        "wo": "Meksiko",
+        "el": "\u039c\u03b5\u03be\u03b9\u03ba\u03cc",
+        "sn": "Mexico",
+        "pt": "M\u00e9xico",
+        "yi": "\u05de\u05e2\u05e7\u05e1\u05d9\u05e7\u05e2",
+        "is": "Mex\u00edk\u00f3",
+        "ta": "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcb",
+        "br": "Mec\u02bchiko",
+        "hu": "Mexik\u00f3",
+        "et": "Mehhiko",
+        "ku": "Meks\u00eek",
+        "sk": "Mexiko",
+        "sw": "Meksiko",
+        "te": "\u0c2e\u0c46\u0c15\u0c4d\u0c38\u0c3f\u0c15\u0c4b",
+        "ro": "Mexic",
+        "ki": "Meksiko",
+        "ak": "M\u025bksiko",
+        "tg": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "ml": "\u0d2e\u0d46\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Mesiko",
+        "de": "Mexiko",
+        "as": "\u09ae\u09c7\u0995\u09cd\u09b8\u09bf\u0995\u09cb",
+        "am": "\u121c\u12ad\u1232\u12ae",
+        "se": "Meksiko",
+        "ia": "Mexico",
+        "ti": "\u121c\u12ad\u1232\u12ae",
+        "ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "ga": "Meicsiceo",
+        "bg": "\u041c\u0435\u043a\u0441\u0438\u043a\u043e",
+        "my": "\u1019\u1000\u103a\u1000\u1006\u102e\u1000\u102d\u102f",
+        "fy": "Mexico",
+        "bm": "Meksiki",
+        "gu": "\u0aae\u0ac7\u0a95\u0acd\u0ab8\u0abf\u0a95\u0acb",
+        "uz": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "cy": "Mecsico",
+        "ug": "\u0645\u06d0\u0643\u0633\u0649\u0643\u0627",
+        "nn": "Mexico",
+        "uk": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "qu": "M\u00e9xico",
+        "tl": "Mexico",
+        "ms": "Mexico",
+        "so": "Meksiko",
+        "da": "Mexico",
+        "tt": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "af": "Meksiko",
+        "ha": "Makasiko",
+        "iw": "\u05de\u05e7\u05e1\u05d9\u05e7\u05d5",
+        "ee": "Mexico nutome",
+        "in": "Meksiko",
+        "to": "Mekisikou",
+        "sl": "Mehika",
+        "sg": "Mekis\u00eeki",
+        "lb": "Mexiko",
+        "fo": "Meksiko",
+        "mn": "\u041c\u0435\u043a\u0441\u0438\u043a",
+        "id": "Meksiko",
+        "pa": "\u0a2e\u0a48\u0a15\u0a38\u0a40\u0a15\u0a4b",
+        "ka": "\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10d0",
+        "nd": "Meksikho"
     },
-    "ISO3166-2": {
-        "AGU": {
-            "name": "Aguascalientes",
-            "code": "AGU",
-            "names": {
-                "geonames": "Aguascalientes",
-                "ru": "\u0410\u0433\u0443\u0430\u0441\u043a\u0430\u043b\u044c\u0435\u043d\u0442\u0435\u0441",
-                "en": "Aguascalientes",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0627\u063a\u0648\u0627\u0633\u0643\u0627\u0644\u064a\u0646\u062a\u0633",
-                "de": "Aguascalientes",
-                "es": "Aguascalientes",
-                "fr": "Aguascalientes",
-                "it": "Aguascalientes",
-                "zh": "\u963f\u74dc\u65af\u5361\u9023\u7279\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 21.8817964,
-            "lng": -102.29127010000002
+    "3166-2": [
+        {
+            "code": "MX-AGU",
+            "names": "Aguascalientes",
+            "type": "State"
         },
-        "BCN": {
-            "name": "Baja California",
-            "code": "BCN",
-            "names": {
-                "geonames": "Baja California",
-                "ru": "\u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f",
-                "en": "Baja California",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u0647\u0627 \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627",
-                "de": "Baja California",
-                "es": "Baja California",
-                "fr": "Basse-Californie",
-                "it": "Bassa California",
-                "zh": "\u4e0b\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 30.8406338,
-            "lng": -115.28375849999998
+        {
+            "code": "MX-BCN",
+            "names": "Baja California",
+            "type": "State"
         },
-        "BCS": {
-            "name": "Baja California Sur",
-            "code": "BCS",
-            "names": {
-                "geonames": "Baja California Sur",
-                "ru": "\u042e\u0436\u043d\u0430\u044f \u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f",
-                "en": "Baja California Sur",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u062e\u0627 \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0633\u0648\u0631",
-                "de": "Baja California Sur",
-                "es": "Baja California Sur",
-                "fr": "Basse-Californie du Sud",
-                "it": "Bassa California del Sud",
-                "zh": "\u5357\u4e0b\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 26.0444446,
-            "lng": -111.66607249999998
+        {
+            "code": "MX-BCS",
+            "names": "Baja California Sur",
+            "type": "State"
         },
-        "CAM": {
-            "name": "Campeche",
-            "code": "CAM",
-            "names": {
-                "geonames": "Campeche",
-                "ru": "\u041a\u0430\u043c\u043f\u0435\u0447\u0435",
-                "en": "Campeche",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u0645\u0628\u064a\u062a\u0634\u064a",
-                "de": "Campeche",
-                "es": "Campeche",
-                "fr": "\u00c9tat de Campeche",
-                "it": "Campeche",
-                "zh": "\u574e\u4f69\u5207\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.8454459,
-            "lng": -90.5236731
+        {
+            "code": "MX-CAM",
+            "names": "Campeche",
+            "type": "State"
         },
-        "CHH": {
-            "name": "Chihuahua",
-            "code": "CHH",
-            "names": {
-                "geonames": "Chihuahua",
-                "ru": "\u0427\u0438\u0443\u0430\u0443\u0430",
-                "en": "Chihuahua",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0634\u064a\u0648\u0627\u0648\u0627",
-                "de": "Chihuahua",
-                "es": "Chihuahua",
-                "fr": "\u00c9tat de Chihuahua",
-                "it": "Chihuahua",
-                "zh": "\u5947\u74e6\u74e6\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 28.6352778,
-            "lng": -106.08888890000003
+        {
+            "code": "MX-CHH",
+            "names": "Chihuahua",
+            "type": "State"
         },
-        "CHP": {
-            "name": "Chiapas",
-            "code": "CHP",
-            "names": {
-                "geonames": "Chiapas",
-                "ru": "\u0427\u044c\u044f\u043f\u0430\u0441",
-                "en": "Chiapas",
-                "ar": "\u062a\u0634\u064a\u0627\u0628\u0627\u0633",
-                "de": "Chiapas",
-                "es": "Chiapas",
-                "fr": "Chiapas",
-                "it": "Chiapas",
-                "zh": "\u6070\u5e15\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 16.3224417,
-            "lng": -91.79106189999999
+        {
+            "code": "MX-CHP",
+            "names": "Chiapas",
+            "type": "State"
         },
-        "COA": {
-            "name": "Coahuila",
-            "code": "COA",
-            "names": {
-                "geonames": "Coahuila",
-                "ru": "\u041a\u043e\u0430\u0443\u0438\u043b\u0430",
-                "en": "Coahuila",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0627\u0647\u0648\u064a\u0644\u0627",
-                "de": "Coahuila",
-                "es": "Coahuila de Zaragoza",
-                "fr": "Coahuila",
-                "it": "Coahuila",
-                "zh": "\u79d1\u963f\u97cb\u62c9\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 32.6415503,
-            "lng": -115.4941981
+        {
+            "code": "MX-CMX",
+            "names": "Ciudad de M\u00e9xico",
+            "type": "Federal district"
         },
-        "COL": {
-            "name": "Colima",
-            "code": "COL",
-            "names": {
-                "geonames": "Colima",
-                "ru": "\u041a\u043e\u043b\u0438\u043c\u0430",
-                "en": "Colima",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0644\u064a\u0645\u0627",
-                "de": "Colima",
-                "es": "Colima",
-                "fr": "\u00c9tat de Colima",
-                "it": "Colima",
-                "zh": "\u79d1\u5229\u99ac\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.2433333,
-            "lng": -103.72472219999997
+        {
+            "code": "MX-COA",
+            "names": "Coahuila de Zaragoza",
+            "type": "State"
         },
-        "DIF": {
-            "name": "Mexico City",
-            "code": "DIF",
-            "names": {
-                "geonames": "Mexico City",
-                "ru": "\u041c\u0435\u0445\u0438\u043a\u043e",
-                "ar": "\u0645\u062f\u064a\u0646\u0629 \u0645\u0643\u0633\u064a\u0643\u0648",
-                "de": "Mexiko-Stadt",
-                "en": "Mexico City",
-                "es": "M\u00e9xico",
-                "fr": "Mexico",
-                "it": "Citt\u00e0 del Messico",
-                "zh": "\u58a8\u897f\u54e5\u57ce"
-            },
-            "division": "federal district",
-            "parent": "MX",
-            "lat": 19.4270499,
-            "lng": -99.12757110000001
+        {
+            "code": "MX-COL",
+            "names": "Colima",
+            "type": "State"
         },
-        "DUR": {
-            "name": "Durango",
-            "code": "DUR",
-            "names": {
-                "geonames": "Durango",
-                "ru": "\u0414\u0443\u0440\u0430\u043d\u0433\u043e",
-                "en": "Durango",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062f\u0648\u0631\u0627\u0646\u062c\u0648",
-                "de": "Durango",
-                "es": "Durango",
-                "fr": "\u00c9tat de Durango",
-                "it": "Durango",
-                "zh": "\u675c\u862d\u6208\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 24.0277202,
-            "lng": -104.65317590000001
+        {
+            "code": "MX-DUR",
+            "names": "Durango",
+            "type": "State"
         },
-        "GRO": {
-            "name": "Guerrero",
-            "code": "GRO",
-            "names": {
-                "geonames": "Guerrero",
-                "ru": "\u0413\u0435\u0440\u0440\u0435\u0440\u043e",
-                "en": "Guerrero",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u063a\u064a\u0631\u064a\u0631\u0648",
-                "de": "Guerrero",
-                "es": "Estado de Guerrero",
-                "fr": "Guerrero",
-                "it": "Guerrero",
-                "zh": "\u683c\u96f7\u7f85\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 17.5897949,
-            "lng": -99.18211810000003
+        {
+            "code": "MX-GRO",
+            "names": "Guerrero",
+            "type": "State"
         },
-        "GUA": {
-            "name": "Guanajuato",
-            "code": "GUA",
-            "names": {
-                "geonames": "Guanajuato",
-                "ru": "\u0413\u0443\u0430\u043d\u0430\u0445\u0443\u0430\u0442\u043e",
-                "en": "Guanajuato",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u063a\u0648\u0627\u0646\u0627\u062e\u0648\u0627\u062a\u0648",
-                "de": "Guanajuato",
-                "es": "Guanajuato",
-                "fr": "\u00c9tat de Guanajuato",
-                "it": "Guanajuato",
-                "zh": "\u74dc\u7d0d\u83ef\u6258\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 21.018111,
-            "lng": -101.25832000000003
+        {
+            "code": "MX-GUA",
+            "names": "Guanajuato",
+            "type": "State"
         },
-        "HID": {
-            "name": "Hidalgo",
-            "code": "HID",
-            "names": {
-                "geonames": "Hidalgo",
-                "ru": "\u0418\u0434\u0430\u043b\u044c\u0433\u043e",
-                "en": "Hidalgo",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0647\u064a\u062f\u0627\u0644\u062c\u0648",
-                "de": "Hidalgo",
-                "es": "Estado de Hidalgo",
-                "fr": "\u00c9tat d'Hidalgo",
-                "it": "Hidalgo",
-                "zh": "\u4f0a\u9054\u723e\u6208\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 20.6668191,
-            "lng": -99.01289259999999
+        {
+            "code": "MX-HID",
+            "names": "Hidalgo",
+            "type": "State"
         },
-        "JAL": {
-            "name": "Jalisco",
-            "code": "JAL",
-            "names": {
-                "geonames": "Jalisco",
-                "ru": "\u0425\u0430\u043b\u0438\u0441\u043a\u043e",
-                "en": "Jalisco",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062e\u0627\u0644\u064a\u0633\u0643\u0648",
-                "de": "Jalisco",
-                "es": "Jalisco",
-                "fr": "Jalisco",
-                "it": "Jalisco",
-                "zh": "\u54c8\u5229\u65af\u79d1\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.711419,
-            "lng": -103.47538320000001
+        {
+            "code": "MX-JAL",
+            "names": "Jalisco",
+            "type": "State"
         },
-        "MEX": {
-            "name": "State of Mexico",
-            "code": "MEX",
-            "names": {
-                "geonames": "Mexico",
-                "ru": "\u041c\u0435\u0445\u0438\u043a\u043e",
-                "en": "State of Mexico",
-                "ar": "\u0645\u0643\u0633\u064a\u0643\u0648",
-                "de": "M\u00e9xico",
-                "es": "Estado de M\u00e9xico",
-                "fr": "\u00c9tat de Mexico",
-                "it": "Messico",
-                "zh": "\u58a8\u897f\u54e5\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.4270499,
-            "lng": -99.12757110000001
+        {
+            "code": "MX-MEX",
+            "names": "M\u00e9xico",
+            "type": "State"
         },
-        "MIC": {
-            "name": "Michoac\u00e1n",
-            "code": "MIC",
-            "names": {
-                "geonames": "Michoacan",
-                "ru": "\u041c\u0438\u0447\u043e\u0430\u043a\u0430\u043d",
-                "en": "Michoac\u00e1n",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0645\u064a\u062a\u0634\u0648\u0627\u0643\u0627\u0646",
-                "de": "Michoac\u00e1n",
-                "es": "Michoac\u00e1n",
-                "fr": "Michoac\u00e1n",
-                "it": "Michoac\u00e1n",
-                "zh": "\u7c73\u5374\u80af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.5665192,
-            "lng": -101.7068294
+        {
+            "code": "MX-MIC",
+            "names": "Michoac\u00e1n de Ocampo",
+            "type": "State"
         },
-        "MOR": {
-            "name": "Morelos",
-            "code": "MOR",
-            "names": {
-                "geonames": "Morelos",
-                "ru": "\u041c\u043e\u0440\u0435\u043b\u043e\u0441",
-                "en": "Morelos",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0645\u0648\u0631\u064a\u0644\u0648\u0633",
-                "de": "Morelos",
-                "es": "Morelos",
-                "fr": "Morelos",
-                "it": "Morelos",
-                "zh": "\u83ab\u96f7\u6d1b\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 18.6366815,
-            "lng": -98.95903750000002
+        {
+            "code": "MX-MOR",
+            "names": "Morelos",
+            "type": "State"
         },
-        "NAY": {
-            "name": "Nayarit",
-            "code": "NAY",
-            "names": {
-                "geonames": "Nayarit",
-                "ru": "\u041d\u0430\u044f\u0440\u0438\u0442",
-                "en": "Nayarit",
-                "ar": "\u0646\u0627\u064a\u0627\u0631\u064a\u062a",
-                "de": "Nayarit",
-                "es": "Nayarit",
-                "fr": "Nayarit",
-                "it": "Nayarit",
-                "zh": "\u7d0d\u4e9e\u91cc\u7279\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 21.7513844,
-            "lng": -104.84546190000003
+        {
+            "code": "MX-NAY",
+            "names": "Nayarit",
+            "type": "State"
         },
-        "NLE": {
-            "name": "Nuevo Le\u00f3n",
-            "code": "NLE",
-            "names": {
-                "geonames": "Nuevo Leon",
-                "ru": "\u041d\u0443\u044d\u0432\u043e-\u041b\u0435\u043e\u043d",
-                "en": "Nuevo Le\u00f3n",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0646\u0648\u064a\u0641\u0648 \u0644\u064a\u0648\u0646",
-                "de": "Nuevo Le\u00f3n",
-                "es": "Nuevo Le\u00f3n",
-                "fr": "Nuevo Le\u00f3n",
-                "it": "Nuevo Le\u00f3n",
-                "zh": "\u65b0\u840a\u6602\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 23.452738,
-            "lng": -100.037148
+        {
+            "code": "MX-NLE",
+            "names": "Nuevo Le\u00f3n",
+            "type": "State"
         },
-        "OAX": {
-            "name": "Oaxaca",
-            "code": "OAX",
-            "names": {
-                "geonames": "Oaxaca",
-                "ru": "\u041e\u0430\u0445\u0430\u043a\u0430",
-                "en": "Oaxaca",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0648\u0627\u0647\u0627\u0643\u0627",
-                "de": "Oaxaca",
-                "es": "Oaxaca",
-                "fr": "\u00c9tat de Oaxaca",
-                "it": "Oaxaca",
-                "zh": "\u74e6\u54c8\u5361\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 17.0669444,
-            "lng": -96.72027780000002
+        {
+            "code": "MX-OAX",
+            "names": "Oaxaca",
+            "type": "State"
         },
-        "PUE": {
-            "name": "Puebla",
-            "code": "PUE",
-            "names": {
-                "geonames": "Puebla",
-                "ru": "\u041f\u0443\u044d\u0431\u043b\u0430",
-                "en": "Puebla",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u064a\u0628\u0644\u0627",
-                "de": "Puebla",
-                "es": "Puebla",
-                "fr": "\u00c9tat de Puebla",
-                "it": "Puebla",
-                "zh": "\u666e\u57c3\u5e03\u62c9\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.0412967,
-            "lng": -98.20619959999999
+        {
+            "code": "MX-PUE",
+            "names": "Puebla",
+            "type": "State"
         },
-        "QUE": {
-            "name": "Quer\u00e9taro",
-            "code": "QUE",
-            "names": {
-                "geonames": "Queretaro",
-                "ru": "\u041a\u0435\u0440\u0435\u0442\u0430\u0440\u043e",
-                "en": "Quer\u00e9taro",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u064a\u0631\u064a\u062a\u0627\u0631\u0648",
-                "de": "Quer\u00e9taro",
-                "es": "Quer\u00e9taro",
-                "fr": "Quer\u00e9taro",
-                "it": "Quer\u00e9taro",
-                "zh": "\u514b\u96f7\u5854\u7f85\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 20.5930556,
-            "lng": -100.39222219999999
+        {
+            "code": "MX-QUE",
+            "names": "Quer\u00e9taro",
+            "type": "State"
         },
-        "ROO": {
-            "name": "Quintana Roo",
-            "code": "ROO",
-            "names": {
-                "geonames": "Quintana Roo",
-                "ru": "\u041a\u0438\u043d\u0442\u0430\u043d\u0430-\u0420\u043e\u043e",
-                "en": "Quintana Roo",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0643\u064a\u0646\u062a\u0627\u0646\u0627 \u0631\u0648",
-                "de": "Quintana Roo",
-                "es": "Quintana Roo",
-                "fr": "Quintana Roo",
-                "it": "Quintana Roo",
-                "zh": "\u91d1\u5854\u7d0d\u7f85\u5967\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.1817393,
-            "lng": -88.4791376
+        {
+            "code": "MX-ROO",
+            "names": "Quintana Roo",
+            "type": "State"
         },
-        "SIN": {
-            "name": "Sinaloa",
-            "code": "SIN",
-            "names": {
-                "geonames": "Sinaloa",
-                "ru": "\u0421\u0438\u043d\u0430\u043b\u043e\u0430",
-                "en": "Sinaloa",
-                "ar": "\u0633\u064a\u0646\u0627\u0644\u0648\u0627",
-                "de": "Sinaloa",
-                "es": "Sinaloa",
-                "fr": "Sinaloa",
-                "it": "Sinaloa",
-                "zh": "\u932b\u90a3\u7f85\u4e9e\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 25.9169914,
-            "lng": -108.05547839999997
+        {
+            "code": "MX-SIN",
+            "names": "Sinaloa",
+            "type": "State"
         },
-        "SLP": {
-            "name": "San Luis Potos\u00ed",
-            "code": "SLP",
-            "names": {
-                "geonames": "San Luis Potosi",
-                "ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441-\u041f\u043e\u0442\u043e\u0441\u0438",
-                "en": "San Luis Potos\u00ed",
-                "ar": "\u0633\u0627\u0646 \u0644\u0648\u064a\u0633 \u0628\u0648\u062a\u0648\u0633\u064a",
-                "de": "San Luis Potos\u00ed",
-                "es": "San Luis Potos\u00ed",
-                "fr": "\u00c9tat de San Luis Potos\u00ed",
-                "it": "San Luis Potos\u00ed",
-                "zh": "\u8056\u8def\u6613\u65af\u6ce2\u6258\u897f\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 22.1564699,
-            "lng": -100.98554089999999
+        {
+            "code": "MX-SLP",
+            "names": "San Luis Potos\u00ed",
+            "type": "State"
         },
-        "SON": {
-            "name": "Sonora",
-            "code": "SON",
-            "names": {
-                "geonames": "Sonora",
-                "ru": "\u0421\u043e\u043d\u043e\u0440\u0430",
-                "en": "Sonora",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0633\u0648\u0646\u0648\u0631\u0627",
-                "de": "Sonora",
-                "es": "Sonora",
-                "fr": "Sonora",
-                "it": "Sonora",
-                "zh": "\u7d22\u8afe\u62c9\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 32.0621992,
-            "lng": -114.97192210000003
+        {
+            "code": "MX-SON",
+            "names": "Sonora",
+            "type": "State"
         },
-        "TAB": {
-            "name": "Tabasco",
-            "code": "TAB",
-            "names": {
-                "geonames": "Tabasco",
-                "ru": "\u0422\u0430\u0431\u0430\u0441\u043a\u043e",
-                "en": "Tabasco",
-                "ar": "\u062a\u0627\u0628\u0627\u0633\u0643\u0648",
-                "de": "Tabasco",
-                "es": "Tabasco",
-                "fr": "Tabasco",
-                "it": "Tabasco",
-                "zh": "\u5854\u5df4\u65af\u79d1\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 17.8409173,
-            "lng": -92.6189273
+        {
+            "code": "MX-TAB",
+            "names": "Tabasco",
+            "type": "State"
         },
-        "TAM": {
-            "name": "Tamaulipas",
-            "code": "TAM",
-            "names": {
-                "geonames": "Tamaulipas",
-                "ru": "\u0422\u0430\u043c\u0430\u0443\u043b\u0438\u043f\u0430\u0441",
-                "en": "Tamaulipas",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0627\u0645\u0627\u0648\u0644\u064a\u0628\u0627\u0633",
-                "de": "Tamaulipas",
-                "es": "Tamaulipas",
-                "fr": "Tamaulipas",
-                "it": "Tamaulipas",
-                "zh": "\u5854\u6bdb\u5229\u5e15\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 24.26694,
-            "lng": -98.8362755
+        {
+            "code": "MX-TAM",
+            "names": "Tamaulipas",
+            "type": "State"
         },
-        "TLA": {
-            "name": "Tlaxcala",
-            "code": "TLA",
-            "names": {
-                "geonames": "Tlaxcala",
-                "ru": "\u0422\u043b\u0430\u0441\u043a\u0430\u043b\u0430",
-                "en": "Tlaxcala",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0644\u0627\u0643\u0633\u0643\u0627\u0644\u0627",
-                "de": "Tlaxcala",
-                "es": "Tlaxcala",
-                "fr": "\u00c9tat de Tlaxcala",
-                "it": "Tlaxcala",
-                "zh": "\u7279\u62c9\u65af\u5361\u62c9"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.3122222,
-            "lng": -98.23944440000002
+        {
+            "code": "MX-TLA",
+            "names": "Tlaxcala",
+            "type": "State"
         },
-        "VER": {
-            "name": "Veracruz",
-            "code": "VER",
-            "names": {
-                "geonames": "Veracruz",
-                "ru": "\u0412\u0435\u0440\u0430\u043a\u0440\u0443\u0441",
-                "en": "Veracruz",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0641\u064a\u0631\u0627\u0643\u0631\u0648\u0632",
-                "de": "Veracruz",
-                "es": "Veracruz de Ignacio de la Llave",
-                "fr": "Veracruz",
-                "it": "Veracruz",
-                "zh": "\u97cb\u62c9\u514b\u9b6f\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 19.1727167,
-            "lng": -96.13326890000002
+        {
+            "code": "MX-VER",
+            "names": "Veracruz de Ignacio de la Llave",
+            "type": "State"
         },
-        "YUC": {
-            "name": "Yucat\u00e1n",
-            "code": "YUC",
-            "names": {
-                "geonames": "Yucatan",
-                "ru": "\u042e\u043a\u0430\u0442\u0430\u043d",
-                "en": "Yucat\u00e1n",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u064a\u0648\u0643\u0627\u062a\u0627\u0646",
-                "de": "Yucat\u00e1n",
-                "es": "Yucat\u00e1n",
-                "fr": "Yucat\u00e1n",
-                "it": "Yucat\u00e1n",
-                "zh": "\u5c24\u5361\u5766\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 20.993468,
-            "lng": -89.6239875
+        {
+            "code": "MX-YUC",
+            "names": "Yucat\u00e1n",
+            "type": "State"
         },
-        "ZAC": {
-            "name": "Zacatecas",
-            "code": "ZAC",
-            "names": {
-                "geonames": "Zacatecas",
-                "ru": "\u0421\u0430\u043a\u0430\u0442\u0435\u043a\u0430\u0441",
-                "en": "Zacatecas",
-                "ar": "\u0648\u0644\u0627\u064a\u0629 \u0632\u0627\u0643\u0627\u062a\u064a\u0643\u0627\u0633",
-                "de": "Zacatecas",
-                "es": "Zacatecas",
-                "fr": "\u00c9tat de Zacatecas",
-                "it": "Zacatecas",
-                "zh": "\u85a9\u5361\u7279\u5361\u65af\u5dde"
-            },
-            "division": "state",
-            "parent": "MX",
-            "lat": 22.7709249,
-            "lng": -102.58325389999999
+        {
+            "code": "MX-ZAC",
+            "names": "Zacatecas",
+            "type": "State"
         }
-    }
+    ]
 }

@@ -1,294 +1,214 @@
 {
     "alpha-2": "TT",
     "alpha-3": "TTO",
-    "numeric": 780,
-    "capital": "Port of Spain",
-    "currency": "TTD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddf9",
+    "numeric": "780",
     "names": {
-        "geonames": "Trinidad and Tobago",
-        "en": "Trinidad and Tobago",
-        "ar": "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648",
-        "de": "Trinidad und Tobago",
-        "es": "Trinidad y Tobago",
+        "en": "Trinidad & Tobago",
         "fr": "Trinit\u00e9-et-Tobago",
-        "it": "Trinidad e Tobago",
-        "ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
-        "zh": "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5",
-        "he": "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3 \u05d5\u05d8\u05d5\u05d1\u05d2\u05d5",
-        "hi": "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926 \u0914\u0930 \u091f\u094b\u092c\u0948\u0917\u094b",
+        "ur": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0627\u0648\u0631 \u0679\u0648\u0628\u0627\u06af\u0648",
+        "rn": "Tirinidadi na Tobago",
+        "lv": "Trinid\u0101da un Tob\u0101go",
+        "hy": "\u054f\u0580\u056b\u0576\u056b\u0564\u0561\u0564 \u0587 \u054f\u0578\u0562\u0561\u0563\u0578",
+        "sq": "Trinidad e Tobago",
+        "jv": "Trinidad lan Tobago",
+        "or": "\u0b24\u0b4d\u0b30\u0b3f\u0b28\u0b3f\u0b26\u0b3e\u0b26\u0b4d \u0b0f\u0b2c\u0b02 \u0b1f\u0b4b\u0b2c\u0b3e\u0b17\u0b4b",
+        "mg": "Trinidad sy Tobag\u00f4",
+        "no": "Trinidad og Tobago",
+        "zh": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5",
+        "tr": "Trinidad ve Tobago",
+        "bs": "Trinidad i Tobago",
         "ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
-        "pt": "Trindade e Tobago"
+        "th": "\u0e15\u0e23\u0e34\u0e19\u0e34\u0e41\u0e14\u0e14\u0e41\u0e25\u0e30\u0e42\u0e15\u0e40\u0e1a\u0e42\u0e01",
+        "he": "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3 \u05d5\u05d8\u05d5\u05d1\u05d2\u05d5",
+        "kk": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0436\u04d9\u043d\u0435 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "mo": "Trinidad \u0219i Tobago",
+        "ff": "Tirnidaad e Tobaago",
+        "ca": "Trinitat i Tobago",
+        "ar": "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648",
+        "eu": "Trinidad eta Tobago",
+        "ps": "\u067c\u0631\u064a\u0646\u064a\u0689\u0627\u0689 \u0627\u0648 \u067c\u0648\u0628\u0627\u06ab\u0648",
+        "kn": "\u0c9f\u0ccd\u0cb0\u0cbf\u0ca8\u0cbf\u0ca1\u0cbe\u0ca1\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c9f\u0cca\u0cac\u0cbe\u0c97\u0cca",
+        "si": "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dd2\u0da9\u0dd1\u0da9\u0dca \u0dc3\u0dc4 \u0da7\u0ddc\u0db6\u0dd0\u0d9c\u0ddd",
+        "km": "\u1791\u17d2\u179a\u17b8\u1793\u17b8\u178a\u17b6\u178f \u1793\u17b7\u1784\u200b\u178f\u17bc\u1794\u17b6\u17a0\u17d2\u1782\u17c4",
+        "ne": "\u0924\u094d\u0930\u093f\u0928\u093f\u0921\u093e\u0921 \u090f\u0923\u094d\u0921 \u091f\u094b\u092c\u093e\u0917\u094b",
+        "fi": "Trinidad ja Tobago",
+        "hi": "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926 \u0914\u0930 \u091f\u094b\u092c\u0948\u0917\u094b",
+        "rm": "Trinidad e Tobago",
+        "vi": "Trinidad v\u00e0 Tobago",
+        "gl": "Trinidad e Tobago",
+        "ig": "Trinidad & Tobago",
+        "mr": "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926 \u0906\u0923\u093f \u091f\u094b\u092c\u0945\u0917\u094b",
+        "es": "Trinidad y Tobago",
+        "be": "\u0422\u0440\u044b\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u0430\u0431\u0430\u0433\u0430",
+        "lg": "Turindaadi ne Tobago",
+        "pt": "Trinidad e Tobago",
+        "az": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0432\u04d9 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "ce": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0430, \u0422\u043e\u0431\u0430\u0433\u043e \u0430",
+        "mk": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "zu": "i-Trinidad ne-Tobago",
+        "it": "Trinidad e Tobago",
+        "ko": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0",
+        "lo": "\u0e97\u0ea3\u0eb4\u0e99\u0eb4\u0ec1\u0e94\u0e94 \u0ec1\u0ea5\u0eb0 \u0ec2\u0e97\u0ec1\u0e9a\u0ec2\u0e81",
+        "lt": "Trinidadas ir Tobagas",
+        "dz": "\u0f4a\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f4c\u0f71\u0f4c\u0f0b \u0f68\u0f7a\u0f53\u0f4c\u0f0b \u0f4a\u0f7c\u0f0b\u0f56\u0fb7\u0f7a\u0f0b\u0f42\u0fb7\u0f7c",
+        "ln": "Tinidad\u025b mp\u00e9 Tobago",
+        "hr": "Trinidad i Tobago",
+        "ks": "\u0679\u0631\u0646\u0650\u0646\u062f\u0627\u062f \u062a\u06c1\u0655 \u0679\u0648\u0628\u06cc\u06af\u0648",
+        "sv": "Trinidad och Tobago",
+        "pl": "Trynidad i Tobago",
+        "nb": "Trinidad og Tobago",
+        "sh": "Trinidad i Tobago",
+        "lu": "Tinidade ne Tobago",
+        "nl": "Trinidad en Tobago",
+        "ky": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0436\u0430\u043d\u0430 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "bn": "\u09a4\u09cd\u09b0\u09bf\u09a8\u09bf\u09a8\u09be\u09a6 \u0993 \u099f\u09cb\u09ac\u09cd\u09af\u09be\u0997\u09cb",
+        "sd": "\u067d\u0631\u064a\u0646\u064a \u068a\u064a\u068a \u06fd \u067d\u0648\u0628\u0627\u06af\u0648 \u067b\u064a\u067d",
+        "fa": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
+        "gd": "Trianaid agus Tobago",
+        "cs": "Trinidad a Tobago",
+        "tk": "Trinidad we Tobago",
+        "eo": "Trinidado kaj Tobago",
+        "mt": "Trinidad u Tobago",
+        "sr": "Trinidad i Tobago",
+        "wo": "Tirinite ak Tobago",
+        "el": "\u03a4\u03c1\u03b9\u03bd\u03b9\u03bd\u03c4\u03ac\u03bd\u03c4 \u03ba\u03b1\u03b9 \u03a4\u03bf\u03bc\u03c0\u03ac\u03b3\u03ba\u03bf",
+        "sn": "Trinidad and Tobago",
+        "yi": "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d0\u05b7\u05d3 \u05d0\u05d5\u05df \u05d8\u05d0\u05d1\u05d0\u05b7\u05d2\u05d0",
+        "is": "Tr\u00ednidad og T\u00f3bag\u00f3",
+        "ta": "\u0b9f\u0bbf\u0bb0\u0bbf\u0ba9\u0bbf\u0b9f\u0bbe\u0b9f\u0bcd & \u0b9f\u0bca\u0baa\u0bbe\u0b95\u0bcb",
+        "br": "Trinidad ha Tobago",
+        "hu": "Trinidad \u00e9s Tobago",
+        "et": "Trinidad ja Tobago",
+        "ku": "Tr\u00een\u00eedad \u00fb Tobago",
+        "sk": "Trinidad a Tobago",
+        "sw": "Trinidad na Tobago",
+        "te": "\u0c1f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c21\u0c3e\u0c21\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c1f\u0c4a\u0c2c\u0c3e\u0c17\u0c4b",
+        "ro": "Trinidad \u0219i Tobago",
+        "ki": "Trinidad na Tobago",
+        "ak": "Trinidad ne Tobago",
+        "tg": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0432\u0430 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "ml": "\u0d1f\u0d4d\u0d30\u0d3f\u0d28\u0d3f\u0d21\u0d3e\u0d21\u0d41\u0d02 \u0d1f\u0d41\u0d2c\u0d3e\u0d17\u0d4b\u0d2f\u0d41\u0d02",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Tirinida ati Tobaga",
+        "de": "Trinidad und Tobago",
+        "as": "\u099f\u09cd\u09f0\u09bf\u09a8\u09bf\u09a1\u09be\u09a1 \u0986\u09f0\u09c1 \u099f\u09cb\u09ac\u09be\u0997\u09cb",
+        "am": "\u1275\u122a\u1293\u12f3\u12f5 \u12a5\u1293 \u1276\u1264\u130e",
+        "se": "Trinidad ja Tobago",
+        "ia": "Trinidad e Tobago",
+        "ti": "\u1275\u122a\u1292\u12f3\u12f5\u1295 \u1276\u1263\u130e\u1295",
+        "ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "ga": "Oile\u00e1n na Tr\u00edon\u00f3ide agus Tob\u00e1ga",
+        "bg": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "my": "\u1011\u101b\u102e\u1014\u102e\u1012\u1010\u103a\u1014\u103e\u1004\u1037\u103a \u1010\u102d\u102f\u1018\u1000\u103a\u1002\u102d\u102f",
+        "fy": "Trinidad en Tobago",
+        "bm": "Trinite-ni-Tobago",
+        "gu": "\u0a9f\u0acd\u0ab0\u0abf\u0aa8\u0ac0\u0aa6\u0abe\u0aa6 \u0a85\u0aa8\u0ac7 \u0a9f\u0acb\u0aac\u0ac7\u0a97\u0acb",
+        "uz": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0432\u0430 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "cy": "Trinidad a Tobago",
+        "ug": "\u062a\u0649\u0631\u0649\u0646\u0649\u062f\u0627\u062f \u06cb\u06d5 \u062a\u0648\u0628\u0627\u06af\u0648",
+        "nn": "Trinidad og Tobago",
+        "uk": "\u0422\u0440\u0456\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u043e\u0431\u0430\u0491\u043e",
+        "qu": "Trinidad y Tobago",
+        "tl": "Trinidad & Tobago",
+        "ms": "Trinidad dan Tobago",
+        "so": "Tirinidaad & Tobago",
+        "da": "Trinidad og Tobago",
+        "tt": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u04bb\u04d9\u043c \u0422\u043e\u0431\u0430\u0433\u043e",
+        "af": "Trinidad en Tobago",
+        "ha": "Tirinidad Da Tobago",
+        "iw": "\u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3 \u05d5\u05d8\u05d5\u05d1\u05d2\u05d5",
+        "ee": "Trinidad kple Tobago nutome",
+        "in": "Trinidad dan Tobago",
+        "to": "Tilinitati mo Topako",
+        "sl": "Trinidad in Tobago",
+        "sg": "Trinit\u00f9ee na Tobag\u00f6",
+        "lb": "Trinidad an Tobago",
+        "fo": "Trinidad & Tobago",
+        "mn": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0431\u0430 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "id": "Trinidad dan Tobago",
+        "pa": "\u0a1f\u0a4d\u0a30\u0a3f\u0a28\u0a40\u0a21\u0a3e\u0a21 \u0a05\u0a24\u0a47 \u0a1f\u0a4b\u0a2c\u0a3e\u0a17\u0a4b",
+        "ka": "\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3\u10d8 \u10d3\u10d0 \u10e2\u10dd\u10d1\u10d0\u10d2\u10dd",
+        "nd": "Trinidad le Tobago"
     },
-    "ISO3166-2": {
-        "ARI": {
-            "name": "Arima",
-            "code": "ARI",
-            "names": {
-                "geonames": "Borough of Arima",
-                "ru": "\u0410\u0440\u0438\u043c\u0430",
-                "en": "Arima",
-                "de": "Arima",
-                "es": "Arima",
-                "fr": "Arima",
-                "it": "Arima"
-            },
-            "division": "borough",
-            "parent": "TT",
-            "lat": 10.63111,
-            "lng": -61.27516200000002
+    "3166-2": [
+        {
+            "code": "TT-ARI",
+            "names": "Arima",
+            "type": "Borough"
         },
-        "CHA": {
-            "name": "Chaguanas",
-            "code": "CHA",
-            "names": {
-                "geonames": "Chaguanas",
-                "ru": "\u0427\u0430\u0433\u0443\u0430\u043d\u0430\u0441",
-                "en": "Chaguanas",
-                "es": "Chaguanas",
-                "fr": "Chaguanas",
-                "it": "Chaguanas"
-            },
-            "division": "borough",
-            "parent": "TT",
-            "lat": 10.5204623,
-            "lng": -61.41201209999997
+        {
+            "code": "TT-CHA",
+            "names": "Chaguanas",
+            "type": "Borough"
         },
-        "CTT": {
-            "name": "Couva-Tabaquite-Talparo Regional Corporation",
-            "code": "CTT",
-            "names": {
-                "geonames": "Couva-Tabaquite-Talparo",
-                "ru": "\u041a\u0443\u0432\u0430-\u0422\u0430\u0431\u0430\u043a\u0438\u0442\u0435-\u0422\u0430\u043b\u044c\u043f\u0430\u0440\u043e",
-                "en": "Couva-Tabaquite-Talparo Regional Corporation",
-                "de": "Couva-Tabaquite-Talparo",
-                "fr": "R\u00e9gion de Couva-Tabaquite-Talparo",
-                "it": "Regione di Couva-Tabaquite-Talparo"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.509905,
-            "lng": -61.264509799999985
+        {
+            "code": "TT-CTT",
+            "names": "Couva-Tabaquite-Talparo",
+            "type": "Region"
         },
-        "DMN": {
-            "name": "Diego Martin Regional Corporation",
-            "code": "DMN",
-            "names": {
-                "geonames": "Diego Martin",
-                "ru": "\u0414\u0438\u0435\u0433\u043e \u041c\u0430\u0440\u0442\u0438\u043d",
-                "en": "Diego Martin Regional Corporation",
-                "de": "Diego Martin",
-                "es": "Diego Martin",
-                "fr": "R\u00e9gion de Diego Martin",
-                "it": "Regione di Diego Martin"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.7173376,
-            "lng": -61.544534
+        {
+            "code": "TT-DMN",
+            "names": "Diego Martin",
+            "type": "Region"
         },
-        "ETO": {
-            "name": "Eastern Tobago",
-            "code": "ETO",
-            "division": "region",
-            "parent": "TT"
+        {
+            "code": "TT-ETO",
+            "names": "Eastern Tobago",
+            "type": "Region"
         },
-        "MRC": {
-            "name": "Rio Claro-Mayaro Regional Corporation",
-            "code": "MRC",
-            "names": {
-                "geonames": "Mayaro",
-                "en": "Rio Claro-Mayaro Regional Corporation",
-                "fr": "R\u00e9gion de Rio Claro-Mayaro",
-                "it": "Regione di Rio Claro-Mayaro"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TT-PED",
+            "names": "Penal-Debe",
+            "type": "Region"
         },
-        "PED": {
-            "name": "Penal-Debe Regional Corporation",
-            "code": "PED",
-            "names": {
-                "geonames": "Penal\/Debe",
-                "ru": "\u041f\u0435\u043d\u0430\u043b-\u0414\u0435\u0431\u0435",
-                "en": "Penal-Debe Regional Corporation",
-                "fr": "R\u00e9gion de Penal-Debe",
-                "it": "Regione di Penal-Debe"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.20739,
-            "lng": -61.44284099999999
+        {
+            "code": "TT-POS",
+            "names": "Port of Spain",
+            "type": "City"
         },
-        "POS": {
-            "name": "Port of Spain",
-            "code": "POS",
-            "names": {
-                "geonames": "City of Port of Spain",
-                "ru": "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d",
-                "en": "Port of Spain",
-                "ar": "\u0628\u0648\u0631\u062a \u0623\u0648\u0641 \u0633\u0628\u064a\u0646",
-                "de": "Port of Spain",
-                "es": "Puerto Espa\u00f1a",
-                "fr": "Port-d'Espagne",
-                "it": "Port of Spain",
-                "zh": "\u897f\u73ed\u7259\u6e2f"
-            },
-            "division": "city",
-            "parent": "TT",
-            "lat": 10.595278,
-            "lng": -61.337222
+        {
+            "code": "TT-PRT",
+            "names": "Princes Town",
+            "type": "Region"
         },
-        "PRT": {
-            "name": "Princes Town Regional Corporation",
-            "code": "PRT",
-            "names": {
-                "geonames": "Princes Town",
-                "ru": "\u041f\u0440\u0438\u043d\u0441\u0435\u0441 \u0422\u0430\u0443\u043d",
-                "en": "Princes Town Regional Corporation",
-                "fr": "R\u00e9gion de Princes Town",
-                "it": "Regione di Princes Town"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.2689783,
-            "lng": -61.36933379999999
+        {
+            "code": "TT-PTF",
+            "names": "Point Fortin",
+            "type": "Borough"
         },
-        "PTF": {
-            "name": "Point Fortin",
-            "code": "PTF",
-            "names": {
-                "geonames": "Point Fortin",
-                "ru": "\u041f\u043e\u0439\u043d\u0442-\u0424\u043e\u0440\u0442\u0438\u043d",
-                "en": "Point Fortin",
-                "de": "Point Fortin",
-                "es": "Point Fortin",
-                "fr": "Point Fortin",
-                "it": "Point Fortin"
-            },
-            "division": "borough",
-            "parent": "TT",
-            "lat": 10.1704,
-            "lng": -61.67924099999999
+        {
+            "code": "TT-RCM",
+            "names": "Rio Claro-Mayaro",
+            "type": "Region"
         },
-        "RCM": {
-            "name": "Rio Claro-Mayaro",
-            "code": "RCM",
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.2892766,
-            "lng": -61.013264400000025
+        {
+            "code": "TT-SFO",
+            "names": "San Fernando",
+            "type": "City"
         },
-        "SFO": {
-            "name": "San Fernando, Trinidad and Tobago",
-            "code": "SFO",
-            "names": {
-                "geonames": "City of San Fernando",
-                "ru": "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e",
-                "en": "San Fernando",
-                "de": "San Fernando",
-                "es": "San Fernando",
-                "fr": "San Fernando",
-                "it": "San Fernando"
-            },
-            "division": "city",
-            "parent": "TT",
-            "lat": 10.28289,
-            "lng": -61.45859899999999
+        {
+            "code": "TT-SGE",
+            "names": "Sangre Grande",
+            "type": "Region"
         },
-        "SGE": {
-            "name": "Sangre Grande Regional Corporation",
-            "code": "SGE",
-            "names": {
-                "geonames": "Sangre Grande",
-                "ru": "\u0421\u0430\u043d\u0433\u0440\u0435-\u0413\u0440\u0430\u043d\u0434\u0435",
-                "en": "Sangre Grande Regional Corporation",
-                "de": "Sangre Grande",
-                "fr": "R\u00e9gion de Sangre Grande",
-                "it": "Regione di Sangre Grande"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.5937227,
-            "lng": -61.12860710000001
+        {
+            "code": "TT-SIP",
+            "names": "Siparia",
+            "type": "Region"
         },
-        "SIP": {
-            "name": "Siparia Regional Corporation",
-            "code": "SIP",
-            "names": {
-                "geonames": "Siparia",
-                "ru": "\u0421\u0438\u043f\u0430\u0440\u0438\u044f",
-                "en": "Siparia Regional Corporation",
-                "fr": "R\u00e9gion de Siparia",
-                "it": "Regione di Siparia"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TT-SJL",
+            "names": "San Juan-Laventille",
+            "type": "Region"
         },
-        "SJL": {
-            "name": "San Juan-Laventille Regional Corporation",
-            "code": "SJL",
-            "names": {
-                "geonames": "San Juan\/Laventille",
-                "ru": "\u0421\u0430\u043d \u0425\u0443\u0430\u043d-\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u044c",
-                "en": "San Juan-Laventille Regional Corporation",
-                "de": "San Juan-Laventille",
-                "es": "San Juan-Laventille",
-                "fr": "R\u00e9gion de San Juan-Laventille",
-                "it": "Regione di San Juan-Laventille"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TT-TUP",
+            "names": "Tunapuna-Piarco",
+            "type": "Region"
         },
-        "TOB": {
-            "name": "Tobago",
-            "code": "TOB",
-            "names": {
-                "geonames": "Tobago",
-                "en": "Tobago",
-                "ar": "\u062a\u0648\u0628\u0627\u063a\u0648",
-                "de": "Tobago",
-                "es": "Tobago",
-                "fr": "Tobago",
-                "it": "Tobago",
-                "ru": "\u0422\u043e\u0431\u0430\u0433\u043e",
-                "zh": "Chinese"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "TUP": {
-            "name": "Tunapuna-Piarco Regional Corporation",
-            "code": "TUP",
-            "names": {
-                "geonames": "Tunapuna\/Piarco",
-                "ru": "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430-\u041f\u0438\u0430\u0440\u043a\u043e",
-                "en": "Tunapuna-Piarco Regional Corporation",
-                "de": "Tunapuna-Piarco",
-                "fr": "R\u00e9gion de Tunapuna-Piarco",
-                "it": "Regione di Tunapuna-Piarco"
-            },
-            "division": "region",
-            "parent": "TT",
-            "lat": 10.5859081,
-            "lng": -61.33220929999999
-        },
-        "WTO": {
-            "name": "Western Tobago",
-            "code": "WTO",
-            "division": "region",
-            "parent": "TT"
+        {
+            "code": "TT-WTO",
+            "names": "Western Tobago",
+            "type": "Region"
         }
-    }
+    ]
 }

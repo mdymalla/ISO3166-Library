@@ -1,572 +1,424 @@
 {
     "alpha-2": "BF",
     "alpha-3": "BFA",
-    "numeric": 854,
-    "capital": "Ouagadougou",
-    "currency": "XOF",
-    "languages": [
-        "fr",
-        "ff"
-    ],
-    "flag-icon": "\ud83c\udde7\ud83c\uddeb",
+    "numeric": "854",
     "names": {
-        "geonames": "Burkina Faso",
         "en": "Burkina Faso",
-        "ar": "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648",
-        "de": "Burkina Faso",
-        "es": "Burkina Faso",
         "fr": "Burkina Faso",
-        "it": "Burkina Faso",
-        "ru": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
-        "zh": "\u5e03\u5409\u7d0d\u6cd5\u7d22",
-        "he": "\u05d1\u05d5\u05e8\u05e7\u05d9\u05e0\u05d4 \u05e4\u05d0\u05e1\u05d5",
-        "hi": "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093e\u0938\u094b",
+        "ur": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "rn": "Burukina Faso",
+        "lv": "Burkinafaso",
+        "hy": "\u0532\u0578\u0582\u0580\u056f\u056b\u0576\u0561 \u0556\u0561\u057d\u0578",
+        "sq": "Burkina-Faso",
+        "jv": "Burkina Faso",
+        "or": "\u0b2c\u0b41\u0b30\u0b4d\u0b15\u0b3f\u0b28\u0b3e \u0b2b\u0b3e\u0b38\u0b4b",
+        "mg": "Borkina Faso",
+        "no": "Burkina Faso",
+        "zh": "\u5e03\u57fa\u7eb3\u6cd5\u7d22",
+        "tr": "Burkina Faso",
+        "bs": "Burkina Faso",
         "ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
-        "pt": "Burkina Faso"
+        "th": "\u0e1a\u0e39\u0e23\u0e4c\u0e01\u0e34\u0e19\u0e32\u0e1f\u0e32\u0e42\u0e0b",
+        "he": "\u05d1\u05d5\u05e8\u05e7\u05d9\u05e0\u05d4 \u05e4\u05d0\u05e1\u05d5",
+        "kk": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "mo": "Burkina Faso",
+        "ff": "\ud83a\udd04\ud83a\udd35\ud83a\udd2a\ud83a\udd33\ud83a\udd2d\ud83a\udd32\ud83a\udd22 \ud83a\udd0a\ud83a\udd22\ud83a\udd27\ud83a\udd2e\ud83a\udd45",
+        "ca": "Burkina Faso",
+        "ar": "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "eu": "Burkina Faso",
+        "ps": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "kn": "\u0cac\u0cc1\u0cb0\u0ccd\u0c95\u0cbf\u0ca8\u0cbe \u0cab\u0cbe\u0cb8\u0cca",
+        "si": "\u0db6\u0dbb\u0dca\u0d9a\u0dd2\u0db1\u0dcf \u0dc6\u0dcf\u0dc3\u0ddd",
+        "km": "\u1794\u17bd\u1782\u17b8\u178e\u17b6\u17a0\u17d2\u179c\u17b6\u179f\u17bc",
+        "ne": "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093e\u0938\u094b",
+        "fi": "Burkina Faso",
+        "hi": "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093c\u093e\u0938\u094b",
+        "rm": "Burkina Faso",
+        "vi": "Burkina Faso",
+        "gl": "Burkina Faso",
+        "ig": "Burkina Faso",
+        "mr": "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093e\u0938\u094b",
+        "es": "Burkina Faso",
+        "be": "\u0411\u0443\u0440\u043a\u0456\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "lg": "Burukina Faso",
+        "az": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e",
+        "ce": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430- \u0424\u0430\u0441\u043e",
+        "mk": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e",
+        "zu": "i-Burkina Faso",
+        "it": "Burkina Faso",
+        "ko": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c",
+        "lo": "\u0ec0\u0e9a\u0eb5\u0e81\u0eb4\u0e99\u0eb2 \u0e9f\u0eb2\u0ec2\u0e8a",
+        "lt": "Burkina Fasas",
+        "dz": "\u0f56\u0fb7\u0f62\u0f0b\u0f40\u0f72\u0f0b\u0f53\u0f0b \u0f55\u0f7a\u0f0b\u0f66\u0f7c",
+        "ln": "Bukina Faso",
+        "hr": "Burkina Faso",
+        "ks": "\u0628\u064f\u0631\u06a9\u0650\u0646\u0627 \u0641\u06cc\u0633\u0648",
+        "sv": "Burkina Faso",
+        "pl": "Burkina Faso",
+        "nb": "Burkina Faso",
+        "sh": "Burkina Faso",
+        "lu": "Bukinafaso",
+        "nl": "Burkina Faso",
+        "ky": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "bn": "\u09ac\u09c1\u09b0\u0995\u09bf\u09a8\u09be \u09ab\u09be\u09b8\u09cb",
+        "sd": "\u0628\u0631\u06aa\u064a\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "fa": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648",
+        "gd": "Buirciona Faso",
+        "cs": "Burkina Faso",
+        "tk": "Burkina-Faso",
+        "eo": "Burkino",
+        "mt": "il-Burkina Faso",
+        "sr": "Burkina Faso",
+        "wo": "Burkina Faaso",
+        "el": "\u039c\u03c0\u03bf\u03c5\u03c1\u03ba\u03af\u03bd\u03b1 \u03a6\u03ac\u03c3\u03bf",
+        "sn": "Bukinafaso",
+        "pt": "Burquina Faso",
+        "yi": "\u05d1\u05d5\u05e8\u05e7\u05d9\u05e0\u05e2 \u05e4\u05bf\u05d0\u05b7\u05e1\u05d0",
+        "is": "B\u00fark\u00edna Fas\u00f3",
+        "ta": "\u0baa\u0bc1\u0bb0\u0bcd\u0b95\u0bbf\u0ba9\u0bbe \u0b83\u0baa\u0bbe\u0bb8\u0bcb",
+        "br": "Burkina Faso",
+        "hu": "Burkina Faso",
+        "et": "Burkina Faso",
+        "ku": "Burk\u00eena Faso",
+        "sk": "Burkina Faso",
+        "sw": "Bukinafaso",
+        "te": "\u0c2c\u0c41\u0c30\u0c4d\u0c15\u0c3f\u0c28\u0c3e \u0c2b\u0c3e\u0c38\u0c4b",
+        "ro": "Burkina Faso",
+        "ki": "Bukinafaso",
+        "ak": "B\u0254kina Faso",
+        "tg": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "ml": "\u0d2c\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d28 \u0d2b\u0d3e\u0d38\u0d4b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de B\u00f9\u00f9k\u00edn\u00e1 Fas\u00f2",
+        "de": "Burkina Faso",
+        "as": "\u09ac\u09c1\u09f0\u0995\u09bf\u09a8\u09be \u09ab\u09be\u099a\u09cb",
+        "am": "\u1261\u122d\u12aa\u1293 \u134b\u1236",
+        "se": "Burkina Faso",
+        "ia": "Burkina Faso",
+        "ti": "\u1261\u122d\u12aa\u1293 \u134b\u1236",
+        "ru": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "ga": "Buirc\u00edne Fas\u00f3",
+        "bg": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e",
+        "my": "\u1018\u102c\u1000\u102e\u1038\u1014\u102c\u1038 \u1016\u102c\u1038\u1006\u102d\u102f",
+        "fy": "Burkina Faso",
+        "bm": "Burukina Faso",
+        "gu": "\u0aac\u0ac1\u0ab0\u0acd\u0a95\u0abf\u0aa8\u0abe \u0aab\u0abe\u0ab8\u0acb",
+        "uz": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "cy": "Burkina Faso",
+        "ug": "\u0628\u06c7\u0631\u0643\u0649\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "nn": "Burkina Faso",
+        "uk": "\u0411\u0443\u0440\u043a\u0456\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "qu": "Burkina Faso",
+        "tl": "Burkina Faso",
+        "ms": "Burkina Faso",
+        "so": "Burkiina Faaso",
+        "da": "Burkina Faso",
+        "tt": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+        "af": "Burkina Faso",
+        "ha": "Burkina Faso",
+        "iw": "\u05d1\u05d5\u05e8\u05e7\u05d9\u05e0\u05d4 \u05e4\u05d0\u05e1\u05d5",
+        "ee": "Burkina Faso nutome",
+        "in": "Burkina Faso",
+        "to": "Pekano Faso",
+        "sl": "Burkina Faso",
+        "sg": "Burkina Faso",
+        "lb": "Burkina Faso",
+        "fo": "Burkina Faso",
+        "mn": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e",
+        "id": "Burkina Faso",
+        "pa": "\u0a2c\u0a41\u0a30\u0a15\u0a40\u0a28\u0a3e \u0a2b\u0a3c\u0a3e\u0a38\u0a4b",
+        "ka": "\u10d1\u10e3\u10e0\u10d9\u10d8\u10dc\u10d0-\u10e4\u10d0\u10e1\u10dd",
+        "nd": "Bhukina Faso"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Boucle du Mouhoun Region",
-            "code": "01",
-            "names": {
-                "geonames": "Boucle du Mouhoun",
-                "ru": "\u0411\u0443\u043a\u043b\u0435-\u0434\u0443-\u041c\u0443\u0445\u0443\u043d",
-                "en": "Boucle du Mouhoun Region",
-                "de": "Boucle du Mouhoun",
-                "es": "Regi\u00f3n Boucle du Mouhoun",
-                "fr": "Boucle du Mouhoun",
-                "it": "Regione di Boucle du Mouhoun",
-                "zh": "\u5e03\u514b\u840a\u8fea\u7a46\u7fc1\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.4166,
-            "lng": -3.41955269999994
+    "3166-2": [
+        {
+            "code": "BF-01",
+            "names": "Boucle du Mouhoun",
+            "type": "Region"
         },
-        "02": {
-            "name": "Cascades Region",
-            "code": "02",
-            "names": {
-                "geonames": "Cascades",
-                "ru": "\u041a\u0430\u0441\u043a\u0430\u0434\u044b",
-                "en": "Cascades Region",
-                "de": "Cascades",
-                "es": "Regi\u00f3n Cascades",
-                "fr": "Cascades",
-                "it": "Regione delle Cascate",
-                "zh": "\u7011\u5e03\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 51.343298,
-            "lng": -0.039085000000000036
+        {
+            "code": "BF-02",
+            "names": "Cascades",
+            "type": "Region"
         },
-        "03": {
-            "name": "Centre Region, Burkina Faso",
-            "code": "03",
-            "names": {
-                "geonames": "Centre",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Centre Region",
-                "de": "Centre",
-                "es": "Regi\u00f3n Centro",
-                "fr": "Centre",
-                "it": "Regione del Centro",
-                "zh": "\u4e2d\u592e\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.3357606,
-            "lng": -1.52656920000004
+        {
+            "code": "BF-03",
+            "names": "Centre",
+            "type": "Region"
         },
-        "04": {
-            "name": "Centre-Est Region",
-            "code": "04",
-            "names": {
-                "geonames": "Centre-Est",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Centre-Est Region",
-                "de": "Centre-Est",
-                "es": "Regi\u00f3n Centro-Este",
-                "fr": "Centre-Est",
-                "it": "Regione del Centro-Est",
-                "zh": "\u4e2d\u6771\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 11.5247674,
-            "lng": -0.14949879999994664
+        {
+            "code": "BF-04",
+            "names": "Centre-Est",
+            "type": "Region"
         },
-        "05": {
-            "name": "Centre-Nord Region",
-            "code": "05",
-            "names": {
-                "geonames": "Centre-Nord",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Centre-Nord Region",
-                "de": "Centre-Nord",
-                "es": "Regi\u00f3n Centro-Norte",
-                "fr": "Centre-Nord",
-                "it": "Regione del Centro-Nord",
-                "zh": "\u4e2d\u5317\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.3413659,
-            "lng": -1.541592000000037
+        {
+            "code": "BF-05",
+            "names": "Centre-Nord",
+            "type": "Region"
         },
-        "06": {
-            "name": "Centre-Ouest Region",
-            "code": "06",
-            "names": {
-                "geonames": "Centre-Ouest",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Centre-Ouest Region",
-                "de": "Centre-Ouest",
-                "es": "Regi\u00f3n Centro-Oeste",
-                "fr": "Centre-Ouest",
-                "it": "Regione del Centro-Ovest",
-                "zh": "\u4e2d\u897f\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 11.8798466,
-            "lng": -2.3024460000000317
+        {
+            "code": "BF-06",
+            "names": "Centre-Ouest",
+            "type": "Region"
         },
-        "07": {
-            "name": "Centre-Sud Region",
-            "code": "07",
-            "names": {
-                "geonames": "Centre-Sud",
-                "ru": "\u042e\u0433\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Centre-Sud Region",
-                "de": "Centre-Sud",
-                "es": "Regi\u00f3n Centro-Sur",
-                "fr": "Centre-Sud",
-                "it": "Regione del Centro-Sud",
-                "zh": "\u4e2d\u5357\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.3493455,
-            "lng": -1.5249968000000536
+        {
+            "code": "BF-07",
+            "names": "Centre-Sud",
+            "type": "Region"
         },
-        "08": {
-            "name": "Est Region, Burkina Faso",
-            "code": "08",
-            "names": {
-                "geonames": "Est",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Est Region",
-                "de": "Est",
-                "es": "Regi\u00f3n Este",
-                "fr": "Est",
-                "it": "Regione dell'Est",
-                "zh": "\u6771\u90e8\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 24.1728534,
-            "lng": 56.63219619999995
+        {
+            "code": "BF-08",
+            "names": "Est",
+            "type": "Region"
         },
-        "09": {
-            "name": "Hauts-Bassins Region",
-            "code": "09",
-            "names": {
-                "geonames": "Hauts-Bassins",
-                "ru": "\u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u0411\u0430\u0441\u0441\u0435\u0439\u043d\u044b",
-                "en": "Hauts-Bassins Region",
-                "de": "Hauts-Bassins",
-                "es": "Regi\u00f3n Hauts-Bassins",
-                "fr": "Hauts-Bassins",
-                "it": "Regione degli Alti Bacini",
-                "zh": "\u4e0a\u76c6\u5730\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 11.1709342,
-            "lng": -4.309036600000013
+        {
+            "code": "BF-09",
+            "names": "Hauts-Bassins",
+            "type": "Region"
         },
-        "BAL": {
-            "name": "Bal\u00e9",
-            "code": "BAL",
-            "division": "province",
-            "parent": "BF-01",
-            "lat": 11.6238575,
-            "lng": -2.9175955000000613
+        {
+            "code": "BF-10",
+            "names": "Nord",
+            "type": "Region"
         },
-        "BAM": {
-            "name": "Bam",
-            "code": "BAM",
-            "division": "province",
-            "parent": "BF-05",
-            "lat": 13.4061979,
-            "lng": -1.5160212000000683
+        {
+            "code": "BF-11",
+            "names": "Plateau-Central",
+            "type": "Region"
         },
-        "BAN": {
-            "name": "Banwa",
-            "code": "BAN",
-            "division": "province",
-            "parent": "BF-01"
+        {
+            "code": "BF-12",
+            "names": "Sahel",
+            "type": "Region"
         },
-        "BAZ": {
-            "name": "Baz\u00e8ga",
-            "code": "BAZ",
-            "division": "province",
-            "parent": "BF-07"
+        {
+            "code": "BF-13",
+            "names": "Sud-Ouest",
+            "type": "Region"
         },
-        "BGR": {
-            "name": "Bougouriba",
-            "code": "BGR",
-            "division": "province",
-            "parent": "BF-13",
-            "lat": 10.8905436,
-            "lng": -3.609051700000009
+        {
+            "code": "BF-BAL",
+            "names": "Bal\u00e9",
+            "type": "Province"
         },
-        "BLG": {
-            "name": "Boulgou",
-            "code": "BLG",
-            "division": "province",
-            "parent": "BF-04"
+        {
+            "code": "BF-BAM",
+            "names": "Bam",
+            "type": "Province"
         },
-        "BLK": {
-            "name": "Boulkiemd\u00e9",
-            "code": "BLK",
-            "division": "province",
-            "parent": "BF-06"
+        {
+            "code": "BF-BAN",
+            "names": "Banwa",
+            "type": "Province"
         },
-        "COM": {
-            "name": "Como\u00e9",
-            "code": "COM",
-            "division": "province",
-            "parent": "BF-02",
-            "lat": 9.6566909,
-            "lng": -4.44747510000002
+        {
+            "code": "BF-BAZ",
+            "names": "Baz\u00e8ga",
+            "type": "Province"
         },
-        "GAN": {
-            "name": "Ganzourgou",
-            "code": "GAN",
-            "division": "province",
-            "parent": "BF-11"
+        {
+            "code": "BF-BGR",
+            "names": "Bougouriba",
+            "type": "Province"
         },
-        "GNA": {
-            "name": "Gnagna",
-            "code": "GNA",
-            "division": "province",
-            "parent": "BF-08"
+        {
+            "code": "BF-BLG",
+            "names": "Boulgou",
+            "type": "Province"
         },
-        "GOU": {
-            "name": "Gourma",
-            "code": "GOU",
-            "division": "province",
-            "parent": "BF-08",
-            "lat": 12.05481,
-            "lng": 0.360971999999947
+        {
+            "code": "BF-BLK",
+            "names": "Boulkiemd\u00e9",
+            "type": "Province"
         },
-        "HOU": {
-            "name": "Houet",
-            "code": "HOU",
-            "division": "province",
-            "parent": "BF-09",
-            "lat": 11.1690061,
-            "lng": -4.297285099999954
+        {
+            "code": "BF-COM",
+            "names": "Como\u00e9",
+            "type": "Province"
         },
-        "IOB": {
-            "name": "Ioba",
-            "code": "IOB",
-            "division": "province",
-            "parent": "BF-13"
+        {
+            "code": "BF-GAN",
+            "names": "Ganzourgou",
+            "type": "Province"
         },
-        "KAD": {
-            "name": "Kadiogo",
-            "code": "KAD",
-            "division": "province",
-            "parent": "BF-03",
-            "lat": 12.364637,
-            "lng": -1.5338639999999941
+        {
+            "code": "BF-GNA",
+            "names": "Gnagna",
+            "type": "Province"
         },
-        "KEN": {
-            "name": "K\u00e9n\u00e9dougou",
-            "code": "KEN",
-            "division": "province",
-            "parent": "BF-09"
+        {
+            "code": "BF-GOU",
+            "names": "Gourma",
+            "type": "Province"
         },
-        "KMD": {
-            "name": "Komondjari",
-            "code": "KMD",
-            "division": "province",
-            "parent": "BF-08"
+        {
+            "code": "BF-HOU",
+            "names": "Houet",
+            "type": "Province"
         },
-        "KMP": {
-            "name": "Kompienga",
-            "code": "KMP",
-            "division": "province",
-            "parent": "BF-08"
+        {
+            "code": "BF-IOB",
+            "names": "Ioba",
+            "type": "Province"
         },
-        "KOP": {
-            "name": "Koulp\u00e9logo",
-            "code": "KOP",
-            "division": "province",
-            "parent": "BF-04"
+        {
+            "code": "BF-KAD",
+            "names": "Kadiogo",
+            "type": "Province"
         },
-        "KOS": {
-            "name": "Kossi",
-            "code": "KOS",
-            "division": "province",
-            "parent": "BF-01",
-            "lat": 36.891328,
-            "lng": 27.28345300000001
+        {
+            "code": "BF-KEN",
+            "names": "K\u00e9n\u00e9dougou",
+            "type": "Province"
         },
-        "KOT": {
-            "name": "Kouritenga",
-            "code": "KOT",
-            "division": "province",
-            "parent": "BF-04"
+        {
+            "code": "BF-KMD",
+            "names": "Komondjari",
+            "type": "Province"
         },
-        "KOW": {
-            "name": "Kourw\u00e9ogo",
-            "code": "KOW",
-            "division": "province",
-            "parent": "BF-11"
+        {
+            "code": "BF-KMP",
+            "names": "Kompienga",
+            "type": "Province"
         },
-        "LER": {
-            "name": "L\u00e9raba",
-            "code": "LER",
-            "division": "province",
-            "parent": "BF-02",
-            "lat": 10.0548027,
-            "lng": -5.049226800000042
+        {
+            "code": "BF-KOP",
+            "names": "Koulp\u00e9logo",
+            "type": "Province"
         },
-        "LOR": {
-            "name": "Loroum",
-            "code": "LOR",
-            "division": "province",
-            "parent": "BF-10"
+        {
+            "code": "BF-KOS",
+            "names": "Kossi",
+            "type": "Province"
         },
-        "MOU": {
-            "name": "Mouhoun",
-            "code": "MOU",
-            "division": "province",
-            "parent": "BF-01",
-            "lat": 11.8759482,
-            "lng": -3.7856054000000086
+        {
+            "code": "BF-KOT",
+            "names": "Kouritenga",
+            "type": "Province"
         },
-        "NAM": {
-            "name": "Namentenga",
-            "code": "NAM",
-            "division": "province",
-            "parent": "BF-05"
+        {
+            "code": "BF-KOW",
+            "names": "Kourw\u00e9ogo",
+            "type": "Province"
         },
-        "NAO": {
-            "name": "Naouri",
-            "code": "NAO",
-            "division": "province",
-            "parent": "BF-07",
-            "lat": 11.0666667,
-            "lng": -1.0833333000000493
+        {
+            "code": "BF-LER",
+            "names": "L\u00e9raba",
+            "type": "Province"
         },
-        "NAY": {
-            "name": "Nayala",
-            "code": "NAY",
-            "division": "province",
-            "parent": "BF-01"
+        {
+            "code": "BF-LOR",
+            "names": "Loroum",
+            "type": "Province"
         },
-        "NOU": {
-            "name": "Noumbiel",
-            "code": "NOU",
-            "division": "province",
-            "parent": "BF-13"
+        {
+            "code": "BF-MOU",
+            "names": "Mouhoun",
+            "type": "Province"
         },
-        "OUB": {
-            "name": "Oubritenga",
-            "code": "OUB",
-            "division": "province",
-            "parent": "BF-11"
+        {
+            "code": "BF-NAM",
+            "names": "Namentenga",
+            "type": "Province"
         },
-        "OUD": {
-            "name": "Oudalan",
-            "code": "OUD",
-            "division": "province",
-            "parent": "BF-12"
+        {
+            "code": "BF-NAO",
+            "names": "Naouri",
+            "type": "Province"
         },
-        "PAS": {
-            "name": "Passor\u00e9",
-            "code": "PAS",
-            "division": "province",
-            "parent": "BF-10"
+        {
+            "code": "BF-NAY",
+            "names": "Nayala",
+            "type": "Province"
         },
-        "PON": {
-            "name": "Poni",
-            "code": "PON",
-            "division": "province",
-            "parent": "BF-13",
-            "lat": 10.207766,
-            "lng": -3.0411900000000287
+        {
+            "code": "BF-NOU",
+            "names": "Noumbiel",
+            "type": "Province"
         },
-        "SEN": {
-            "name": "S\u00e9no",
-            "code": "SEN",
-            "division": "province",
-            "parent": "BF-12",
-            "lat": 14.9277778,
-            "lng": -0.39472219999993285
+        {
+            "code": "BF-OUB",
+            "names": "Oubritenga",
+            "type": "Province"
         },
-        "SIS": {
-            "name": "Sissili",
-            "code": "SIS",
-            "division": "province",
-            "parent": "BF-06",
-            "lat": 11.1466511,
-            "lng": -1.6732139000000643
+        {
+            "code": "BF-OUD",
+            "names": "Oudalan",
+            "type": "Province"
         },
-        "SMT": {
-            "name": "Sanmatenga",
-            "code": "SMT",
-            "division": "province",
-            "parent": "BF-05"
+        {
+            "code": "BF-PAS",
+            "names": "Passor\u00e9",
+            "type": "Province"
         },
-        "SNG": {
-            "name": "Sangui\u00e9",
-            "code": "SNG",
-            "division": "province",
-            "parent": "BF-06"
+        {
+            "code": "BF-PON",
+            "names": "Poni",
+            "type": "Province"
         },
-        "SOM": {
-            "name": "Soum",
-            "code": "SOM",
-            "division": "province",
-            "parent": "BF-12",
-            "lat": 14.1,
-            "lng": -1.7166670000000295
+        {
+            "code": "BF-SEN",
+            "names": "S\u00e9no",
+            "type": "Province"
         },
-        "SOR": {
-            "name": "Sourou",
-            "code": "SOR",
-            "division": "province",
-            "parent": "BF-01",
-            "lat": 13.1532272,
-            "lng": -3.444155300000034
+        {
+            "code": "BF-SIS",
+            "names": "Sissili",
+            "type": "Province"
         },
-        "TAP": {
-            "name": "Tapoa",
-            "code": "TAP",
-            "division": "province",
-            "parent": "BF-08",
-            "lat": 12.3466228,
-            "lng": 2.136857500000019
+        {
+            "code": "BF-SMT",
+            "names": "Sanmatenga",
+            "type": "Province"
         },
-        "TUI": {
-            "name": "Tui",
-            "code": "TUI",
-            "division": "province",
-            "parent": "BF-09",
-            "lat": 11.6745354,
-            "lng": -3.3063359999999875
+        {
+            "code": "BF-SNG",
+            "names": "Sangui\u00e9",
+            "type": "Province"
         },
-        "YAG": {
-            "name": "Yagha",
-            "code": "YAG",
-            "division": "province",
-            "parent": "BF-12",
-            "lat": 13.3725,
-            "lng": 0.418611100000021
+        {
+            "code": "BF-SOM",
+            "names": "Soum",
+            "type": "Province"
         },
-        "YAT": {
-            "name": "Yatenga",
-            "code": "YAT",
-            "division": "province",
-            "parent": "BF-10"
+        {
+            "code": "BF-SOR",
+            "names": "Sourou",
+            "type": "Province"
         },
-        "ZIR": {
-            "name": "Ziro",
-            "code": "ZIR",
-            "division": "province",
-            "parent": "BF-06"
+        {
+            "code": "BF-TAP",
+            "names": "Tapoa",
+            "type": "Province"
         },
-        "ZON": {
-            "name": "Zondoma",
-            "code": "ZON",
-            "division": "province",
-            "parent": "BF-10"
+        {
+            "code": "BF-TUI",
+            "names": "Tui",
+            "type": "Province"
         },
-        "ZOU": {
-            "name": "Zoundw\u00e9ogo",
-            "code": "ZOU",
-            "division": "province",
-            "parent": "BF-07"
+        {
+            "code": "BF-YAG",
+            "names": "Yagha",
+            "type": "Province"
         },
-        "10": {
-            "name": "Nord Region, Burkina Faso",
-            "code": "10",
-            "names": {
-                "geonames": "Nord",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Nord Region",
-                "de": "Nord",
-                "es": "Regi\u00f3n Norte",
-                "fr": "Nord",
-                "it": "Regione del Nord",
-                "zh": "\u5317\u90e8\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 13.477062,
-            "lng": -2.501841499999955
+        {
+            "code": "BF-YAT",
+            "names": "Yatenga",
+            "type": "Province"
         },
-        "11": {
-            "name": "Plateau-Central Region",
-            "code": "11",
-            "names": {
-                "geonames": "Plateau-Central",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u041f\u043b\u0430\u0442\u043e",
-                "en": "Plateau-Central Region",
-                "de": "Plateau Central",
-                "es": "Regi\u00f3n Plateau-Central",
-                "fr": "Plateau-Central",
-                "it": "Regione dell'Altopiano Centrale",
-                "zh": "\u9ad8\u539f-\u4e2d\u90e8\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.2537648,
-            "lng": -0.7532808999999361
+        {
+            "code": "BF-ZIR",
+            "names": "Ziro",
+            "type": "Province"
         },
-        "12": {
-            "name": "Sahel Region",
-            "code": "12",
-            "names": {
-                "geonames": "Sahel",
-                "ru": "\u0421\u0430\u0445\u0435\u043b\u044c",
-                "en": "Sahel Region",
-                "ar": "\u0627\u0644\u0633\u0627\u062d\u0644",
-                "de": "Sahelzone",
-                "es": "Sahel",
-                "fr": "Sahel",
-                "it": "Sahel",
-                "zh": "\u8428\u8d6b\u52d2"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 12.3676456,
-            "lng": -1.4695375000000013
+        {
+            "code": "BF-ZON",
+            "names": "Zondoma",
+            "type": "Province"
         },
-        "13": {
-            "name": "Sud-Ouest Region",
-            "code": "13",
-            "names": {
-                "geonames": "Sud-Ouest",
-                "ru": "\u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Sud-Ouest Region",
-                "de": "Sud-Ouest",
-                "es": "Regi\u00f3n Suroeste",
-                "fr": "Sud-Ouest",
-                "it": "Regione del Sud-Ovest",
-                "zh": "\u897f\u5357\u5927\u5340"
-            },
-            "division": "region",
-            "parent": "BF",
-            "lat": 10.4231493,
-            "lng": -3.258362600000055
+        {
+            "code": "BF-ZOU",
+            "names": "Zoundw\u00e9ogo",
+            "type": "Province"
         }
-    }
+    ]
 }

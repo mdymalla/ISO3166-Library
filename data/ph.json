@@ -1,969 +1,619 @@
 {
     "alpha-2": "PH",
     "alpha-3": "PHL",
-    "numeric": 608,
-    "capital": "Manila",
-    "currency": "PHP",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\udded",
+    "numeric": "608",
     "names": {
-        "geonames": "Philippines",
         "en": "Philippines",
-        "ar": "\u0627\u0644\u0641\u0644\u0628\u064a\u0646",
-        "de": "Philippinen",
-        "es": "Filipinas",
         "fr": "Philippines",
-        "it": "Filippine",
-        "ru": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+        "ur": "\u0641\u0644\u067e\u0627\u0626\u0646",
+        "rn": "Amazinga ya Filipine",
+        "lv": "Filip\u012bnas",
+        "hy": "\u0556\u056b\u056c\u056b\u057a\u056b\u0576\u0576\u0565\u0580",
+        "sq": "Filipine",
+        "jv": "Pilipina",
+        "or": "\u0b2b\u0b3f\u0b32\u0b3f\u0b2a\u0b3e\u0b07\u0b28\u0b38\u0b4d",
+        "mg": "Filipina",
+        "no": "Filippinene",
         "zh": "\u83f2\u5f8b\u5bbe",
-        "he": "\u05d4\u05e4\u05d9\u05dc\u05d9\u05e4\u05d9\u05e0\u05d9\u05dd",
-        "hi": "\u092b\u093c\u093f\u0932\u0940\u092a\u0940\u0928\u094d\u0938",
+        "tr": "Filipinler",
+        "bs": "Filipini",
         "ja": "\u30d5\u30a3\u30ea\u30d4\u30f3",
-        "pt": "Filipinas"
+        "th": "\u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e1b\u0e34\u0e19\u0e2a\u0e4c",
+        "he": "\u05d4\u05e4\u05d9\u05dc\u05d9\u05e4\u05d9\u05e0\u05d9\u05dd",
+        "kk": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b",
+        "mo": "Filipine",
+        "ff": "Filipiin",
+        "ca": "Filipines",
+        "ar": "\u0627\u0644\u0641\u0644\u0628\u064a\u0646",
+        "eu": "Filipinak",
+        "ps": "\u0641\u0644\u067e\u064a\u0646",
+        "kn": "\u0cab\u0cbf\u0cb2\u0cbf\u0cab\u0cc8\u0ca8\u0ccd\u0cb8\u0ccd",
+        "si": "\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1\u0dba",
+        "km": "\u17a0\u17d2\u179c\u17b8\u179b\u17b8\u1796\u17b8\u1793",
+        "ne": "\u092b\u093f\u0932\u093f\u092a\u093f\u0928\u094d\u0938",
+        "fi": "Filippiinit",
+        "hi": "\u092b\u093c\u093f\u0932\u093f\u092a\u0940\u0902\u0938",
+        "rm": "Filippinas",
+        "vi": "Philippines",
+        "gl": "Filipinas",
+        "ig": "Philippines",
+        "mr": "\u092b\u093f\u0932\u093f\u092a\u093f\u0928\u094d\u0938",
+        "es": "Filipinas",
+        "be": "\u0424\u0456\u043b\u0456\u043f\u0456\u043d\u044b",
+        "lg": "Bizinga bya Firipino",
+        "az": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "ce": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u0430\u0448",
+        "mk": "\u0424\u0438\u043b\u0438\u043f\u0438\u043d\u0438",
+        "zu": "i-Philippines",
+        "it": "Filippine",
+        "ko": "\ud544\ub9ac\ud540",
+        "lo": "\u0e9f\u0eb4\u0ea5\u0eb4\u0e9a\u0e9b\u0eb4\u0e99",
+        "lt": "Filipinai",
+        "dz": "\u0f55\u0f72\u0f0b\u0f63\u0f72\u0f0b\u0f54\u0f72\u0f53\u0f66",
+        "ln": "Filipin\u025b",
+        "hr": "Filipini",
+        "ks": "\u0641\u0650\u0644\u0650\u067e\u0650\u06cc\u0646\u0633",
+        "sv": "Filippinerna",
+        "pl": "Filipiny",
+        "nb": "Filippinene",
+        "sh": "Filipini",
+        "lu": "Nfilipi",
+        "nl": "Filipijnen",
+        "ky": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "bn": "\u09ab\u09bf\u09b2\u09bf\u09aa\u09be\u0987\u09a8",
+        "sd": "\u0641\u0644\u067e\u0627\u0626\u0646",
+        "fa": "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
+        "gd": "Na h-Eileanan Filipineach",
+        "cs": "Filip\u00edny",
+        "tk": "Filippinler",
+        "eo": "Filipinoj",
+        "mt": "il-Filippini",
+        "sr": "Filipini",
+        "wo": "Filipin",
+        "el": "\u03a6\u03b9\u03bb\u03b9\u03c0\u03c0\u03af\u03bd\u03b5\u03c2",
+        "sn": "Philippines",
+        "pt": "Filipinas",
+        "yi": "\u05e4\u05bf\u05d9\u05dc\u05d9\u05e4\u05bc\u05d9\u05e0\u05e2\u05df",
+        "is": "Filippseyjar",
+        "ta": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd",
+        "br": "Filipinez",
+        "hu": "F\u00fcl\u00f6p-szigetek",
+        "et": "Filipiinid",
+        "ku": "Fil\u00eep\u00een",
+        "sk": "Filip\u00edny",
+        "sw": "Ufilipino",
+        "te": "\u0c2b\u0c3f\u0c32\u0c3f\u0c2a\u0c4d\u0c2a\u0c48\u0c28\u0c4d\u0c38\u0c4d",
+        "ro": "Filipine",
+        "ki": "Filipino",
+        "ak": "Philippines",
+        "tg": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "ml": "\u0d2b\u0d3f\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d40\u0d7b\u0d38\u0d4d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de filipini",
+        "de": "Philippinen",
+        "as": "\u09ab\u09bf\u09b2\u09bf\u09aa\u09be\u0987\u09a8\u099b",
+        "am": "\u134a\u120a\u1352\u1295\u1235",
+        "se": "Filippiinnat",
+        "ia": "Philippinas",
+        "ti": "\u134a\u120a\u1352\u1295\u1235",
+        "ru": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+        "ga": "na hOile\u00e1in Fhilip\u00edneacha",
+        "bg": "\u0424\u0438\u043b\u0438\u043f\u0438\u043d\u0438",
+        "my": "\u1016\u102d\u101c\u1005\u103a\u1015\u102d\u102f\u1004\u103a",
+        "fy": "Filipijnen",
+        "bm": "Filipini",
+        "gu": "\u0aab\u0abf\u0ab2\u0abf\u0aaa\u0abf\u0aa8\u0acd\u0ab8",
+        "uz": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "cy": "Y Philipinau",
+        "ug": "\u0641\u0649\u0644\u0649\u067e\u067e\u0649\u0646",
+        "nn": "Filippinane",
+        "uk": "\u0424\u0456\u043b\u0456\u043f\u043f\u0456\u043d\u0438",
+        "qu": "Filipinas",
+        "tl": "Pilipinas",
+        "ms": "Filipina",
+        "so": "Filibiin",
+        "da": "Filippinerne",
+        "tt": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "af": "Filippyne",
+        "ha": "Filipin",
+        "iw": "\u05d4\u05e4\u05d9\u05dc\u05d9\u05e4\u05d9\u05e0\u05d9\u05dd",
+        "ee": "Filipini nutome",
+        "in": "Filipina",
+        "to": "Filipaini",
+        "sl": "Filipini",
+        "sg": "Filip\u00eeni",
+        "lb": "Philippinnen",
+        "fo": "Filipsoyggjar",
+        "mn": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
+        "id": "Filipina",
+        "pa": "\u0a2b\u0a3f\u0a32\u0a40\u0a2a\u0a40\u0a28\u0a1c",
+        "ka": "\u10e4\u10d8\u10da\u10d8\u10de\u10d8\u10dc\u10d4\u10d1\u10d8",
+        "nd": "Philippines"
     },
-    "ISO3166-2": {
-        "": {
-            "name": "Negros Island Region",
-            "code": "",
-            "names": {
-                "geonames": "Negros Island Region",
-                "en": "Negros Island Region"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "00": {
-            "name": "Metro Manila",
-            "code": "00",
-            "names": {
-                "geonames": "Metro Manila",
-                "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Metro Manila",
-                "de": "Metro Manila",
-                "es": "Gran Manila",
-                "fr": "Grand Manille",
-                "it": "Regione Capitale Nazionale",
-                "zh": "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 14.6090156,
-            "lng": 121.01193699999999
-        },
-        "01": {
-            "name": "Ilocos Region",
-            "code": "01",
-            "names": {
-                "geonames": "Ilocos",
-                "ru": "\u0418\u043b\u043e\u043a\u043e\u0441",
-                "en": "Ilocos Region",
-                "de": "Ilocos Region",
-                "es": "Ilocos",
-                "fr": "R\u00e9gion d'Ilocos",
-                "it": "Ilocos",
-                "zh": "\u4f0a\u7f85\u6208"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 17.9470234,
-            "lng": 120.65999869999996
-        },
-        "02": {
-            "name": "Cagayan Valley",
-            "code": "02",
-            "names": {
-                "geonames": "Cagayan Valley",
-                "ru": "\u0414\u043e\u043b\u0438\u043d\u0430 \u041a\u0430\u0433\u0430\u044f\u043d",
-                "en": "Cagayan Valley",
-                "de": "Cagayan Valley",
-                "es": "Valle del Cagay\u00e1n",
-                "fr": "Vall\u00e9e de Cagayan",
-                "it": "Valle di Cagayan",
-                "zh": "\u5361\u52a0\u5ef6\u6cb3\u8c37"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 17.6174527,
-            "lng": 121.72669169999995
-        },
-        "03": {
-            "name": "Central Luzon",
-            "code": "03",
-            "names": {
-                "geonames": "Central Luzon",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u041b\u0443\u0441\u043e\u043d",
-                "en": "Central Luzon",
-                "de": "Central Luzon",
-                "es": "Luz\u00f3n Central",
-                "fr": "Lu\u00e7on centrale",
-                "it": "Luzon Centrale",
-                "zh": "\u4e2d\u592e\u5415\u5b8b"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 15.7351377,
-            "lng": 120.93790850000005
-        },
-        "05": {
-            "name": "Bicol Region",
-            "code": "05",
-            "names": {
-                "geonames": "Bicol",
-                "ru": "\u0411\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0420\u0435\u0433\u0438\u043e\u043d",
-                "en": "Bicol Region",
-                "de": "Bicol Region",
-                "es": "Bicolandia",
-                "fr": "R\u00e9gion de Bicol",
-                "it": "Bicol",
-                "zh": "\u6bd4\u79d1\u723e"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 13.194783,
-            "lng": 123.59419849999995
-        },
-        "06": {
-            "name": "Western Visayas",
-            "code": "06",
-            "names": {
-                "geonames": "Western Visayas",
-                "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0412\u0438\u0441\u0430\u0439\u0438",
-                "en": "Western Visayas",
-                "de": "Western Visayas",
-                "es": "Bisayas Occidentales",
-                "fr": "Visayas occidentales",
-                "it": "Visayas Occidentale",
-                "zh": "\u897f\u7c73\u6c99\u9122"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 10.6974487,
-            "lng": 122.56613199999993
-        },
-        "07": {
-            "name": "Central Visayas",
-            "code": "07",
-            "names": {
-                "geonames": "Central Visayas",
-                "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0412\u0438\u0441\u0430\u0439\u0438",
-                "en": "Central Visayas",
-                "de": "Central Visayas",
-                "es": "Bisayas Centrales",
-                "fr": "Visayas centrales",
-                "it": "Visayas Centrale",
-                "zh": "\u4e2d\u7c73\u6c99\u9122"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 10.3280181,
-            "lng": 123.89634490000003
-        },
-        "08": {
-            "name": "Eastern Visayas",
-            "code": "08",
-            "names": {
-                "geonames": "Eastern Visayas",
-                "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0435 \u0412\u0438\u0441\u0430\u0439\u0438",
-                "en": "Eastern Visayas",
-                "de": "Eastern Visayas",
-                "es": "Bisayas Orientales",
-                "fr": "Visayas orientales",
-                "it": "Visayas Orientale",
-                "zh": "\u6771\u7c73\u6c99\u9122"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 11.0106214,
-            "lng": 124.60542429999998
-        },
-        "09": {
-            "name": "Zamboanga Peninsula",
-            "code": "09",
-            "names": {
-                "geonames": "Zamboanga Peninsula",
-                "ru": "\u041f\u043e\u043b\u0443\u043e\u0441\u0442\u0440\u043e\u0432 \u0417\u0430\u043c\u0431\u043e\u0430\u043d\u0433\u0430",
-                "en": "Zamboanga Peninsula",
-                "de": "Zamboanga Peninsula",
-                "es": "Pen\u00ednsula de Zamboanga",
-                "fr": "P\u00e9ninsule de Zamboanga",
-                "it": "Penisola di Zamboanga",
-                "zh": "\u4e09\u5b9d\u989c\u534a\u5c9b"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 6.9200258,
-            "lng": 122.03745779999997
-        },
-        "ABR": {
-            "name": "Abra",
-            "code": "ABR",
-            "division": "province",
-            "parent": "PH-15",
-            "lat": 17.6015664,
-            "lng": 120.74438099999998
-        },
-        "AGN": {
-            "name": "Agusan del Norte",
-            "code": "AGN",
-            "division": "province",
-            "parent": "PH-13"
-        },
-        "AGS": {
-            "name": "Agusan del Sur",
-            "code": "AGS",
-            "division": "province",
-            "parent": "PH-13",
-            "lat": 8.5532677,
-            "lng": 125.9465629
-        },
-        "AKL": {
-            "name": "Aklan",
-            "code": "AKL",
-            "division": "province",
-            "parent": "PH-06",
-            "lat": 11.7152809,
-            "lng": 122.36035019999997
-        },
-        "ALB": {
-            "name": "Albay",
-            "code": "ALB",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 13.1450321,
-            "lng": 123.72420769999997
-        },
-        "ANT": {
-            "name": "Antique",
-            "code": "ANT",
-            "division": "province",
-            "parent": "PH-06"
-        },
-        "APA": {
-            "name": "Apayao",
-            "code": "APA",
-            "division": "province",
-            "parent": "PH-15",
-            "lat": 18.0949496,
-            "lng": 121.16426469999999
-        },
-        "AUR": {
-            "name": "Aurora",
-            "code": "AUR",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 16.151451,
-            "lng": 121.7675686
-        },
-        "BAN": {
-            "name": "Batasn",
-            "code": "BAN",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 14.6666667,
-            "lng": 120.41666669999995
-        },
-        "BAS": {
-            "name": "Basilan",
-            "code": "BAS",
-            "division": "province",
-            "parent": "PH-09",
-            "lat": 6.5335644,
-            "lng": 122.08374449999997
-        },
-        "BEN": {
-            "name": "Benguet",
-            "code": "BEN",
-            "division": "province",
-            "parent": "PH-15",
-            "lat": 16.3780129,
-            "lng": 120.5193329
-        },
-        "BIL": {
-            "name": "Biliran",
-            "code": "BIL",
-            "division": "province",
-            "parent": "PH-08",
-            "lat": 11.5833152,
-            "lng": 124.4641848
-        },
-        "BOH": {
-            "name": "Bohol",
-            "code": "BOH",
-            "division": "province",
-            "parent": "PH-07",
-            "lat": 9.7966057,
-            "lng": 124.2421597
-        },
-        "BTG": {
-            "name": "Batangas",
-            "code": "BTG",
-            "division": "province",
-            "parent": "PH-40",
-            "lat": 13.7572111,
-            "lng": 121.05811110000002
-        },
-        "BTN": {
-            "name": "Batanes",
-            "code": "BTN",
-            "division": "province",
-            "parent": "PH-02",
-            "lat": 20.4549195,
-            "lng": 121.98605559999999
-        },
-        "BUK": {
-            "name": "Bukidnon",
-            "code": "BUK",
-            "division": "province",
-            "parent": "PH-10",
-            "lat": 7.7342534,
-            "lng": 124.90027069999996
-        },
-        "BUL": {
-            "name": "Bulacan",
-            "code": "BUL",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 14.7930556,
-            "lng": 120.87888889999999
-        },
-        "CAG": {
-            "name": "Cagayan",
-            "code": "CAG",
-            "division": "province",
-            "parent": "PH-02",
-            "lat": 17.1786397,
-            "lng": 121.55865670000003
-        },
-        "CAM": {
-            "name": "Camiguin",
-            "code": "CAM",
-            "division": "province",
-            "parent": "PH-10",
-            "lat": 9.1732164,
-            "lng": 124.72987650000005
-        },
-        "CAN": {
-            "name": "Camarines Norte",
-            "code": "CAN",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 14.1303711,
-            "lng": 122.98205580000001
-        },
-        "CAP": {
-            "name": "Capiz",
-            "code": "CAP",
-            "division": "province",
-            "parent": "PH-06",
-            "lat": 11.5833333,
-            "lng": 122.75
-        },
-        "CAS": {
-            "name": "Camarines Sur",
-            "code": "CAS",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 13.4060811,
-            "lng": 123.37547519999998
-        },
-        "CAT": {
-            "name": "Catanduanes",
-            "code": "CAT",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 13.7088684,
-            "lng": 124.2421597
-        },
-        "CAV": {
-            "name": "Cavite",
-            "code": "CAV",
-            "division": "province",
-            "parent": "PH-40",
-            "lat": 14.4833333,
-            "lng": 120.89999999999998
-        },
-        "CEB": {
-            "name": "Cebu",
-            "code": "CEB",
-            "division": "province",
-            "parent": "PH-07",
-            "lat": 10.3591887,
-            "lng": 123.86345440000002
-        },
-        "COM": {
-            "name": "Compostela Valley",
-            "code": "COM",
-            "division": "province",
-            "parent": "PH"
-        },
-        "DAO": {
-            "name": "Davao Oriental",
-            "code": "DAO",
-            "division": "province",
-            "parent": "PH",
-            "lat": 6.9322624,
-            "lng": 126.25427109999998
-        },
-        "DAS": {
-            "name": "Davao del Sur",
-            "code": "DAS",
-            "division": "province",
-            "parent": "PH",
-            "lat": 6.7644126,
-            "lng": 125.35773219999999
-        },
-        "DAV": {
-            "name": "Davao del Norte",
-            "code": "DAV",
-            "division": "province",
-            "parent": "PH",
-            "lat": 7.3136286,
-            "lng": 125.67036329999996
-        },
-        "DIN": {
-            "name": "Dinagat Islands",
-            "code": "DIN",
-            "division": "province",
-            "parent": "PH-13"
-        },
-        "EAS": {
-            "name": "Eastern Samar",
-            "code": "EAS",
-            "division": "province",
-            "parent": "PH-08",
-            "lat": 11.6600751,
-            "lng": 125.44229150000001
-        },
-        "GUI": {
-            "name": "Guimaras",
-            "code": "GUI",
-            "division": "province",
-            "parent": "PH-06",
-            "lat": 10.5673719,
-            "lng": 122.58251970000003
-        },
-        "IFU": {
-            "name": "Ifugao",
-            "code": "IFU",
-            "division": "province",
-            "parent": "PH-15",
-            "lat": 16.8107239,
-            "lng": 121.1056638
-        },
-        "ILI": {
-            "name": "Iloilo",
-            "code": "ILI",
-            "division": "province",
-            "parent": "PH-06",
-            "lat": 10.69,
-            "lng": 122.54999999999995
-        },
-        "ILN": {
-            "name": "Ilocos Norte",
-            "code": "ILN",
-            "division": "province",
-            "parent": "PH-01",
-            "lat": 18.152764,
-            "lng": 120.92557790000001
-        },
-        "ILS": {
-            "name": "Ilocos Sur",
-            "code": "ILS",
-            "division": "province",
-            "parent": "PH-01",
-            "lat": 16.9635875,
-            "lng": 120.49708129999999
-        },
-        "ISA": {
-            "name": "Isabela",
-            "code": "ISA",
-            "division": "province",
-            "parent": "PH-02",
-            "lat": 16.9835716,
-            "lng": 121.64827979999995
-        },
-        "KAL": {
-            "name": "Kalinga-Apayso",
-            "code": "KAL",
-            "division": "province",
-            "parent": "PH-15"
-        },
-        "LAG": {
-            "name": "Laguna",
-            "code": "LAG",
-            "division": "province",
-            "parent": "PH-40",
-            "lat": 14.2980556,
-            "lng": 121.46000000000004
-        },
-        "LAN": {
-            "name": "Lanao del Norte",
-            "code": "LAN",
-            "division": "province",
-            "parent": "PH-12",
-            "lat": 8.1892061,
-            "lng": 124.02379450000001
-        },
-        "LAS": {
-            "name": "Lanao del Sur",
-            "code": "LAS",
-            "division": "province",
-            "parent": "PH-14",
-            "lat": 7.9999018,
-            "lng": 124.26861050000002
-        },
-        "LEY": {
-            "name": "Leyte",
-            "code": "LEY",
-            "division": "province",
-            "parent": "PH-08",
-            "lat": 10.6299734,
-            "lng": 124.95066250000002
-        },
-        "LUN": {
-            "name": "La Union",
-            "code": "LUN",
-            "division": "province",
-            "parent": "PH-01",
-            "lat": 16.3466419,
-            "lng": 120.36408800000004
-        },
-        "MAD": {
-            "name": "Marinduque",
-            "code": "MAD",
-            "division": "province",
-            "parent": "PH-41",
-            "lat": 13.3642287,
-            "lng": 121.94731100000001
-        },
-        "MAG": {
-            "name": "Maguindanao",
-            "code": "MAG",
-            "division": "province",
-            "parent": "PH-14",
-            "lat": 7.8556806,
-            "lng": 124.86241659999996
-        },
-        "MAS": {
-            "name": "Masbate",
-            "code": "MAS",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 12.0147224,
-            "lng": 123.88577469999996
-        },
-        "MDC": {
-            "name": "Mindoro Occidental",
-            "code": "MDC",
-            "division": "province",
-            "parent": "PH-41",
-            "lat": 13.2183801,
-            "lng": 120.60021240000003
-        },
-        "MDR": {
-            "name": "Mindoro Oriental",
-            "code": "MDR",
-            "division": "province",
-            "parent": "PH-41"
-        },
-        "MOU": {
-            "name": "Mountain Province",
-            "code": "MOU",
-            "division": "province",
-            "parent": "PH-15",
-            "lat": 16.9938786,
-            "lng": 120.82160709999994
-        },
-        "MSC": {
-            "name": "Misamis Occidental",
-            "code": "MSC",
-            "division": "province",
-            "parent": "PH-10"
-        },
-        "MSR": {
-            "name": "Misamis Oriental",
-            "code": "MSR",
-            "division": "province",
-            "parent": "PH-10",
-            "lat": 8.7738069,
-            "lng": 124.78419009999993
-        },
-        "NCO": {
-            "name": "North Cotabato",
-            "code": "NCO",
-            "division": "province",
-            "parent": "PH-12",
-            "lat": 7.2166667,
-            "lng": 124.25
-        },
-        "NEC": {
-            "name": "Negroe Occidental",
-            "code": "NEC",
-            "division": "province",
-            "parent": "PH-06",
-            "lat": 10.6751428,
-            "lng": 122.95034540000006
-        },
-        "NER": {
-            "name": "Negros Oriental",
-            "code": "NER",
-            "division": "province",
-            "parent": "PH-07",
-            "lat": 9.3366058,
-            "lng": 123.30599489999997
-        },
-        "NSA": {
-            "name": "Northern Samar",
-            "code": "NSA",
-            "division": "province",
-            "parent": "PH-08"
-        },
-        "NUE": {
-            "name": "Nueva Ecija",
-            "code": "NUE",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 15.4965183,
-            "lng": 121.01174349999997
-        },
-        "NUV": {
-            "name": "Nueva Vizcaya",
-            "code": "NUV",
-            "division": "province",
-            "parent": "PH-02",
-            "lat": 16.3029892,
-            "lng": 120.99637099999995
-        },
-        "PAM": {
-            "name": "Pampanga",
-            "code": "PAM",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 15.1697412,
-            "lng": 120.59075800000005
-        },
-        "PAN": {
-            "name": "Pangasinan",
-            "code": "PAN",
-            "division": "province",
-            "parent": "PH-01",
-            "lat": 16.0682368,
-            "lng": 120.6028824
-        },
-        "PLW": {
-            "name": "Palawan",
-            "code": "PLW",
-            "division": "province",
-            "parent": "PH-41",
-            "lat": 9.4462305,
-            "lng": 118.39294169999994
-        },
-        "QUE": {
-            "name": "Quezon",
-            "code": "QUE",
-            "division": "province",
-            "parent": "PH-40",
-            "lat": 14.05,
-            "lng": 122.1333333
-        },
-        "QUI": {
-            "name": "Quirino",
-            "code": "QUI",
-            "division": "province",
-            "parent": "PH-02",
-            "lat": 16.6007594,
-            "lng": 121.50630960000001
-        },
-        "RIZ": {
-            "name": "Rizal",
-            "code": "RIZ",
-            "division": "province",
-            "parent": "PH-40",
-            "lat": 14.7586413,
-            "lng": 121.23974380000004
-        },
-        "ROM": {
-            "name": "Romblon",
-            "code": "ROM",
-            "division": "province",
-            "parent": "PH-41",
-            "lat": 12.5294008,
-            "lng": 122.28807260000008
-        },
-        "SAR": {
-            "name": "Sarangani",
-            "code": "SAR",
-            "division": "province",
-            "parent": "PH",
-            "lat": 5.9656144,
-            "lng": 125.19286339999996
-        },
-        "SCO": {
-            "name": "South Cotabato",
-            "code": "SCO",
-            "division": "province",
-            "parent": "PH",
-            "lat": 7.2166667,
-            "lng": 124.25
-        },
-        "SIG": {
-            "name": "Siquijor",
-            "code": "SIG",
-            "division": "province",
-            "parent": "PH-07",
-            "lat": 9.1998779,
-            "lng": 123.59519249999994
-        },
-        "SLE": {
-            "name": "Southern Leyte",
-            "code": "SLE",
-            "division": "province",
-            "parent": "PH-08",
-            "lat": 10.3920483,
-            "lng": 124.97994249999999
-        },
-        "SLU": {
-            "name": "Sulu",
-            "code": "SLU",
-            "division": "province",
-            "parent": "PH-14",
-            "lat": 5.9691815,
-            "lng": 121.12521349999997
-        },
-        "SOR": {
-            "name": "Sorsogon",
-            "code": "SOR",
-            "division": "province",
-            "parent": "PH-05",
-            "lat": 13.0085173,
-            "lng": 123.99729500000001
-        },
-        "SUK": {
-            "name": "Sultan Kudarat",
-            "code": "SUK",
-            "division": "province",
-            "parent": "PH-12",
-            "lat": 6.1224235,
-            "lng": 124.36115670000004
-        },
-        "SUN": {
-            "name": "Surigao del Norte",
-            "code": "SUN",
-            "division": "province",
-            "parent": "PH-13",
-            "lat": 9.7806094,
-            "lng": 125.49103259999993
-        },
-        "SUR": {
-            "name": "Surigao del Sur",
-            "code": "SUR",
-            "division": "province",
-            "parent": "PH-13",
-            "lat": 9.7833333,
-            "lng": 125.48333330000003
-        },
-        "TAR": {
-            "name": "Tarlac",
-            "code": "TAR",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 15.4666667,
-            "lng": 120.58333330000005
-        },
-        "TAW": {
-            "name": "Tawi-Tawi",
-            "code": "TAW",
-            "division": "province",
-            "parent": "PH-14",
-            "lat": 5.2544444,
-            "lng": 120.15583330000004
-        },
-        "WSA": {
-            "name": "Western Samar",
-            "code": "WSA",
-            "division": "province",
-            "parent": "PH-08"
-        },
-        "ZAN": {
-            "name": "Zamboanga del Norte",
-            "code": "ZAN",
-            "division": "province",
-            "parent": "PH-09",
-            "lat": 8.604678,
-            "lng": 123.34868789999996
-        },
-        "ZAS": {
-            "name": "Zamboanga del Sur",
-            "code": "ZAS",
-            "division": "province",
-            "parent": "PH-09",
-            "lat": 7.8338865,
-            "lng": 123.44150630000001
-        },
-        "ZMB": {
-            "name": "Zambales",
-            "code": "ZMB",
-            "division": "province",
-            "parent": "PH-03",
-            "lat": 15.0619444,
-            "lng": 120.06999999999994
-        },
-        "ZSI": {
-            "name": "Zamboanga Sibugay",
-            "code": "ZSI",
-            "division": "province",
-            "parent": "PH-09",
-            "lat": 6.9,
-            "lng": 122.06666670000004
-        },
-        "10": {
-            "name": "Northern Mindanao",
-            "code": "10",
-            "names": {
-                "geonames": "Northern Mindanao",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041c\u0438\u043d\u0434\u0430\u043d\u0430\u043e",
-                "en": "Northern Mindanao",
-                "de": "Northern Mindanao",
-                "es": "Mindanao del Norte",
-                "fr": "Mindanao du Nord",
-                "it": "Mindanao Settentrionale",
-                "zh": "\u5317\u68c9\u5170\u8001"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 8.3169426,
-            "lng": 124.68565089999993
-        },
-        "11": {
-            "name": "Davao Region",
-            "code": "11",
-            "names": {
-                "geonames": "Davao",
-                "ru": "\u0414\u0430\u0432\u0430\u043e",
-                "en": "Davao Region",
-                "ar": "\u062f\u0627\u0641\u0627\u0648",
-                "de": "Davao City",
-                "es": "Davao",
-                "fr": "Davao",
-                "it": "Davao",
-                "zh": "\u8fbe\u6c83\u5e02"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "12": {
-            "name": "SOCCSKSARGEN",
-            "code": "12",
-            "names": {
-                "geonames": "Soccsksargen",
-                "en": "SOCCSKSARGEN",
-                "de": "SOCCSKSARGEN",
-                "es": "Regi\u00f3n XII",
-                "fr": "SOCCSKSARGEN",
-                "it": "SOCCSKSARGEN",
-                "ru": "\u0421\u041e\u041a\u041a\u0421\u041a\u0421\u0410\u0420\u0425\u0415\u041d",
-                "zh": "SOCCSKSARGEN"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 6.1140252,
-            "lng": 125.1627479
-        },
-        "13": {
-            "name": "Caraga",
-            "code": "13",
-            "names": {
-                "geonames": "Caraga",
-                "ru": "\u041a\u0430\u0440\u0430\u0433\u0430",
-                "en": "Caraga",
-                "fr": "Karaga",
-                "de": "Caraga",
-                "es": "Caraga",
-                "it": "Caraga",
-                "zh": "\u5361\u62c9\u52a0\u533a"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 8.9560218,
-            "lng": 125.59677060000001
-        },
-        "14": {
-            "name": "Autonomous Region in Muslim Mindanao",
-            "code": "14",
-            "names": {
-                "geonames": "ARMM",
-                "ru": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d \u0432 \u041c\u0443\u0441\u0443\u043b\u044c\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u041c\u0438\u043d\u0434\u0430\u043d\u0430\u043e",
-                "en": "Autonomous Region in Muslim Mindanao",
-                "de": "Autonomous Region in Muslim Mindanao",
-                "es": "Mindanao Musulm\u00e1n",
-                "fr": "R\u00e9gion autonome en Mindanao musulmane",
-                "it": "Regione Autonoma nel Mindanao Musulmano",
-                "zh": "\u68c9\u5170\u8001\u7a46\u65af\u6797\u81ea\u6cbb\u533a"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 7.1844179,
-            "lng": 124.21411339999997
-        },
-        "15": {
-            "name": "Cordillera Administrative Region",
-            "code": "15",
-            "names": {
-                "geonames": "Cordillera",
-                "ru": "\u041a\u043e\u0440\u0434\u0438\u043b\u044c\u0435\u0440\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d",
-                "en": "Cordillera Administrative Region",
-                "de": "Cordillera Administrative Region",
-                "es": "La Cordillera",
-                "fr": "R\u00e9gion administrative de la Cordill\u00e8re",
-                "it": "Regione Amministrativa Cordillera",
-                "zh": "\u79d1\u8fea\u52d2\u62c9\u884c\u653f\u5340"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 16.407459,
-            "lng": 120.60095520000004
-        },
-        "40": {
-            "name": "CALABARZON",
-            "code": "40",
-            "names": {
-                "geonames": "Calabarzon",
-                "en": "CALABARZON",
-                "de": "CALABARZON",
-                "es": "Regi\u00f3n IV-A",
-                "fr": "CALABARZON",
-                "it": "CALABARZON",
-                "ru": "\u041a\u0410\u041b\u0410\u0411\u0410\u0420\u0421\u041e\u041d",
-                "zh": "\u5361\u62c9\u5df4\u677e"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": 14.5279833,
-            "lng": 121.06127470000001
-        },
-        "41": {
-            "name": "MIMAROPA",
-            "code": "41",
-            "names": {
-                "geonames": "Mimaropa",
-                "en": "MIMAROPA",
-                "de": "MIMAROPA",
-                "es": "Regi\u00f3n IV-B",
-                "fr": "MIMAROPA",
-                "it": "MIMARO",
-                "ru": "\u041c\u0418\u041c\u0410\u0420\u041e\u041f\u0410",
-                "zh": "\u6c11\u9a6c\u7f57\u5df4\u533a"
-            },
-            "division": "region",
-            "parent": "PH",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "PH-00",
+            "names": "National Capital Region",
+            "type": "Region"
+        },
+        {
+            "code": "PH-01",
+            "names": "Ilocos (Region I)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-02",
+            "names": "Cagayan Valley (Region II)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-03",
+            "names": "Central Luzon (Region III)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-05",
+            "names": "Bicol (Region V)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-06",
+            "names": "Western Visayas (Region VI)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-07",
+            "names": "Central Visayas (Region VII)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-08",
+            "names": "Eastern Visayas (Region VIII)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-09",
+            "names": "Zamboanga Peninsula (Region IX)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-10",
+            "names": "Northern Mindanao (Region X)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-11",
+            "names": "Davao (Region XI)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-12",
+            "names": "Soccsksargen (Region XII)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-13",
+            "names": "Caraga (Region XIII)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-14",
+            "names": "Autonomous Region in Muslim Mindanao (ARMM)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-15",
+            "names": "Cordillera Administrative Region (CAR)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-40",
+            "names": "CALABARZON (Region IV-A)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-41",
+            "names": "MIMAROPA (Region IV-B)",
+            "type": "Region"
+        },
+        {
+            "code": "PH-ABR",
+            "names": "Abra",
+            "type": "Province"
+        },
+        {
+            "code": "PH-AGN",
+            "names": "Agusan del Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-AGS",
+            "names": "Agusan del Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-AKL",
+            "names": "Aklan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ALB",
+            "names": "Albay",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ANT",
+            "names": "Antique",
+            "type": "Province"
+        },
+        {
+            "code": "PH-APA",
+            "names": "Apayao",
+            "type": "Province"
+        },
+        {
+            "code": "PH-AUR",
+            "names": "Aurora",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BAN",
+            "names": "Batasn",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BAS",
+            "names": "Basilan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BEN",
+            "names": "Benguet",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BIL",
+            "names": "Biliran",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BOH",
+            "names": "Bohol",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BTG",
+            "names": "Batangas",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BTN",
+            "names": "Batanes",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BUK",
+            "names": "Bukidnon",
+            "type": "Province"
+        },
+        {
+            "code": "PH-BUL",
+            "names": "Bulacan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAG",
+            "names": "Cagayan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAM",
+            "names": "Camiguin",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAN",
+            "names": "Camarines Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAP",
+            "names": "Capiz",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAS",
+            "names": "Camarines Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAT",
+            "names": "Catanduanes",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CAV",
+            "names": "Cavite",
+            "type": "Province"
+        },
+        {
+            "code": "PH-CEB",
+            "names": "Cebu",
+            "type": "Province"
+        },
+        {
+            "code": "PH-COM",
+            "names": "Compostela Valley",
+            "type": "Province"
+        },
+        {
+            "code": "PH-DAO",
+            "names": "Davao Oriental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-DAS",
+            "names": "Davao del Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-DAV",
+            "names": "Davao del Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-DIN",
+            "names": "Dinagat Islands",
+            "type": "Province"
+        },
+        {
+            "code": "PH-EAS",
+            "names": "Eastern Samar",
+            "type": "Province"
+        },
+        {
+            "code": "PH-GUI",
+            "names": "Guimaras",
+            "type": "Province"
+        },
+        {
+            "code": "PH-IFU",
+            "names": "Ifugao",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ILI",
+            "names": "Iloilo",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ILN",
+            "names": "Ilocos Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ILS",
+            "names": "Ilocos Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ISA",
+            "names": "Isabela",
+            "type": "Province"
+        },
+        {
+            "code": "PH-KAL",
+            "names": "Kalinga-Apayso",
+            "type": "Province"
+        },
+        {
+            "code": "PH-LAG",
+            "names": "Laguna",
+            "type": "Province"
+        },
+        {
+            "code": "PH-LAN",
+            "names": "Lanao del Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-LAS",
+            "names": "Lanao del Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-LEY",
+            "names": "Leyte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-LUN",
+            "names": "La Union",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MAD",
+            "names": "Marinduque",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MAG",
+            "names": "Maguindanao",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MAS",
+            "names": "Masbate",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MDC",
+            "names": "Mindoro Occidental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MDR",
+            "names": "Mindoro Oriental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MOU",
+            "names": "Mountain Province",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MSC",
+            "names": "Misamis Occidental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-MSR",
+            "names": "Misamis Oriental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NCO",
+            "names": "North Cotabato",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NEC",
+            "names": "Negros Occidental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NER",
+            "names": "Negros Oriental",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NSA",
+            "names": "Northern Samar",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NUE",
+            "names": "Nueva Ecija",
+            "type": "Province"
+        },
+        {
+            "code": "PH-NUV",
+            "names": "Nueva Vizcaya",
+            "type": "Province"
+        },
+        {
+            "code": "PH-PAM",
+            "names": "Pampanga",
+            "type": "Province"
+        },
+        {
+            "code": "PH-PAN",
+            "names": "Pangasinan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-PLW",
+            "names": "Palawan",
+            "type": "Province"
+        },
+        {
+            "code": "PH-QUE",
+            "names": "Quezon",
+            "type": "Province"
+        },
+        {
+            "code": "PH-QUI",
+            "names": "Quirino",
+            "type": "Province"
+        },
+        {
+            "code": "PH-RIZ",
+            "names": "Rizal",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ROM",
+            "names": "Romblon",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SAR",
+            "names": "Sarangani",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SCO",
+            "names": "South Cotabato",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SIG",
+            "names": "Siquijor",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SLE",
+            "names": "Southern Leyte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SLU",
+            "names": "Sulu",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SOR",
+            "names": "Sorsogon",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SUK",
+            "names": "Sultan Kudarat",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SUN",
+            "names": "Surigao del Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-SUR",
+            "names": "Surigao del Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-TAR",
+            "names": "Tarlac",
+            "type": "Province"
+        },
+        {
+            "code": "PH-TAW",
+            "names": "Tawi-Tawi",
+            "type": "Province"
+        },
+        {
+            "code": "PH-WSA",
+            "names": "Western Samar",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ZAN",
+            "names": "Zamboanga del Norte",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ZAS",
+            "names": "Zamboanga del Sur",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ZMB",
+            "names": "Zambales",
+            "type": "Province"
+        },
+        {
+            "code": "PH-ZSI",
+            "names": "Zamboanga Sibugay",
+            "type": "Province"
         }
-    }
+    ]
 }

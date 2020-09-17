@@ -1,297 +1,199 @@
 {
     "alpha-2": "LR",
     "alpha-3": "LBR",
-    "numeric": 430,
-    "capital": "Monrovia",
-    "currency": "LRD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddf1\ud83c\uddf7",
+    "numeric": "430",
     "names": {
-        "geonames": "Liberia",
         "en": "Liberia",
-        "ar": "\u0644\u064a\u0628\u064a\u0631\u064a\u0627",
-        "de": "Liberia",
-        "es": "Liberia",
-        "fr": "Liberia",
-        "it": "Liberia",
-        "ru": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "fr": "Lib\u00e9ria",
+        "ur": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627",
+        "rn": "Liberiya",
+        "lv": "Lib\u0113rija",
+        "hy": "\u053c\u056b\u0562\u0565\u0580\u056b\u0561",
+        "sq": "Liberi",
+        "jv": "Lib\u00e8ria",
+        "or": "\u0b32\u0b3e\u0b07\u0b2c\u0b47\u0b30\u0b3f\u0b06",
+        "mg": "Liberia",
+        "no": "Liberia",
         "zh": "\u5229\u6bd4\u91cc\u4e9a",
-        "he": "\u05dc\u05d9\u05d1\u05e8\u05d9\u05d4",
-        "hi": "\u0932\u093e\u0907\u092c\u0947\u0930\u093f\u092f\u093e",
+        "tr": "Liberya",
+        "bs": "Liberija",
         "ja": "\u30ea\u30d9\u30ea\u30a2",
-        "pt": "Lib\u00e9ria"
+        "th": "\u0e44\u0e25\u0e1a\u0e35\u0e40\u0e23\u0e35\u0e22",
+        "he": "\u05dc\u05d9\u05d1\u05e8\u05d9\u05d4",
+        "kk": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "mo": "Liberia",
+        "ff": "\ud83a\udd02\ud83a\udd22\ud83a\udd26\ud83a\udd2d\ud83a\udd2a\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44",
+        "ca": "Lib\u00e8ria",
+        "ar": "\u0644\u064a\u0628\u064a\u0631\u064a\u0627",
+        "eu": "Liberia",
+        "ps": "\u0644\u0627\u064a\u0628\u064a\u0631\u064a\u0627",
+        "kn": "\u0cb2\u0cbf\u0cac\u0cc7\u0cb0\u0cbf\u0caf\u0cbe",
+        "si": "\u0dbd\u0dba\u0dd2\u0db6\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u179b\u17b8\u1794\u17c1\u179a\u17b8\u1799\u17c9\u17b6",
+        "ne": "\u0932\u093e\u0907\u092c\u0947\u0930\u093f\u092f\u093e",
+        "fi": "Liberia",
+        "hi": "\u0932\u093e\u0907\u092c\u0947\u0930\u093f\u092f\u093e",
+        "rm": "Liberia",
+        "vi": "Liberia",
+        "gl": "Liberia",
+        "ig": "Liberia",
+        "mr": "\u0932\u093e\u092f\u092c\u0947\u0930\u093f\u092f\u093e",
+        "es": "Liberia",
+        "be": "\u041b\u0456\u0431\u0435\u0440\u044b\u044f",
+        "lg": "Liberya",
+        "az": "\u041b\u0438\u0431\u0435\u0440\u0438\u0458\u0430",
+        "ce": "\u041b\u0438\u0431\u0435\u0440\u0438",
+        "mk": "\u041b\u0438\u0431\u0435\u0440\u0438\u0458\u0430",
+        "zu": "i-Liberia",
+        "it": "Liberia",
+        "ko": "\ub77c\uc774\ubca0\ub9ac\uc544",
+        "lo": "\u0ea5\u0eb4\u0ec0\u0e9a\u0eb5\u0ec0\u0ea3\u0e8d",
+        "lt": "Liberija",
+        "dz": "\u0f63\u0f71\u0f60\u0f72\u0f0b\u0f56\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f61",
+        "ln": "Lib\u00e9riya",
+        "hr": "Liberija",
+        "ks": "\u0644\u0627\u06cc\u0628\u06cc\u0631\u0650\u06cc\u0627",
+        "sv": "Liberia",
+        "pl": "Liberia",
+        "nb": "Liberia",
+        "sh": "Liberija",
+        "lu": "Liberiya",
+        "nl": "Liberia",
+        "ky": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "bn": "\u09b2\u09be\u0987\u09ac\u09c7\u09b0\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627",
+        "fa": "\u0644\u06cc\u0628\u0631\u06cc\u0627",
+        "gd": "Lib\u00e8ir",
+        "cs": "Lib\u00e9rie",
+        "tk": "Liberi\u00fda",
+        "eo": "Liberio",
+        "mt": "il-Liberja",
+        "sr": "Liberija",
+        "wo": "Liberiya",
+        "el": "\u039b\u03b9\u03b2\u03b5\u03c1\u03af\u03b1",
+        "sn": "Liberia",
+        "pt": "Lib\u00e9ria",
+        "yi": "\u05dc\u05d9\u05d1\u05e2\u05e8\u05d9\u05e2",
+        "is": "L\u00edber\u00eda",
+        "ta": "\u0bb2\u0bc8\u0baa\u0bc0\u0bb0\u0bbf\u0baf\u0bbe",
+        "br": "Liberia",
+        "hu": "Lib\u00e9ria",
+        "et": "Libeeria",
+        "ku": "L\u00eeberya",
+        "sk": "Lib\u00e9ria",
+        "sw": "Liberia",
+        "te": "\u0c32\u0c48\u0c2c\u0c40\u0c30\u0c3f\u0c2f\u0c3e",
+        "ro": "Liberia",
+        "ki": "Liberia",
+        "ak": "Laeberia",
+        "tg": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "ml": "\u0d32\u0d48\u0d2c\u0d40\u0d30\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Laberia",
+        "de": "Liberia",
+        "as": "\u09b2\u09bf\u09ac\u09c7\u09f0\u09bf\u09af\u09bc\u09be",
+        "am": "\u120b\u12ed\u1264\u122a\u12eb",
+        "se": "Liberia",
+        "ia": "Liberia",
+        "ti": "\u120b\u12ed\u1264\u122a\u12eb",
+        "ru": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "ga": "an Lib\u00e9ir",
+        "bg": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "my": "\u101c\u102d\u102f\u1000\u103a\u1018\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Liberia",
+        "bm": "Liberiya",
+        "gu": "\u0ab2\u0abe\u0a87\u0aac\u0ac7\u0ab0\u0abf\u0aaf\u0abe",
+        "uz": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "cy": "Liberia",
+        "ug": "\u0644\u0649\u0628\u06d0\u0631\u0649\u064a\u06d5",
+        "nn": "Liberia",
+        "uk": "\u041b\u0456\u0431\u0435\u0440\u0456\u044f",
+        "qu": "Liberia",
+        "tl": "Liberia",
+        "ms": "Liberia",
+        "so": "Laybeeriya",
+        "da": "Liberia",
+        "tt": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "af": "Liberi\u00eb",
+        "ha": "Laberiya",
+        "iw": "\u05dc\u05d9\u05d1\u05e8\u05d9\u05d4",
+        "ee": "Liberia nutome",
+        "in": "Liberia",
+        "to": "Laipelia",
+        "sl": "Liberija",
+        "sg": "Liber\u00efa",
+        "lb": "Liberia",
+        "fo": "Liberia",
+        "mn": "\u041b\u0438\u0431\u0435\u0440\u0438",
+        "id": "Liberia",
+        "pa": "\u0a32\u0a3e\u0a08\u0a2c\u0a40\u0a30\u0a40\u0a06",
+        "ka": "\u10da\u10d8\u10d1\u10d4\u10e0\u10d8\u10d0",
+        "nd": "Libheriya"
     },
-    "ISO3166-2": {
-        "BG": {
-            "name": "Bong County",
-            "code": "BG",
-            "names": {
-                "geonames": "Bong",
-                "ru": "\u0411\u043e\u043d\u0433",
-                "en": "Bong County",
-                "de": "Bong County",
-                "es": "Bong",
-                "fr": "Comt\u00e9 de Bong",
-                "it": "Contea di Bong",
-                "zh": "\u90a6\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "LR-BG",
+            "names": "Bong",
+            "type": "County"
         },
-        "BM": {
-            "name": "Bomi County",
-            "code": "BM",
-            "names": {
-                "geonames": "Bomi",
-                "ru": "\u0411\u043e\u043c\u0438",
-                "en": "Bomi County",
-                "de": "Bomi County",
-                "es": "Bomi",
-                "fr": "Comt\u00e9 de Bomi",
-                "it": "Contea di Bomi",
-                "zh": "\u4f2f\u7c73\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-BM",
+            "names": "Bomi",
+            "type": "County"
         },
-        "CM": {
-            "name": "Grand Cape Mount County",
-            "code": "CM",
-            "names": {
-                "geonames": "Grand Cape Mount",
-                "ru": "\u0413\u0440\u0430\u043d\u0434-\u041a\u0435\u0439\u043f-\u041c\u0430\u0443\u043d\u0442",
-                "en": "Grand Cape Mount County",
-                "de": "Grand Cape Mount County",
-                "es": "Grand Cape Mount",
-                "fr": "Comt\u00e9 de Grand Cape Mount",
-                "it": "Contea di Grand Cape Mount",
-                "zh": "\u5927\u89d2\u5c71\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-CM",
+            "names": "Grand Cape Mount",
+            "type": "County"
         },
-        "GB": {
-            "name": "Grand Bassa County",
-            "code": "GB",
-            "names": {
-                "geonames": "Grand Bassa",
-                "ru": "\u0413\u0440\u0430\u043d\u0434-\u0411\u0430\u0441\u0430",
-                "en": "Grand Bassa County",
-                "de": "Grand Bassa County",
-                "es": "Grand Bassa",
-                "fr": "Comt\u00e9 de Grand Bassa",
-                "it": "Contea di Grand Bassa",
-                "zh": "\u5927\u5df4\u8428\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-GB",
+            "names": "Grand Bassa",
+            "type": "County"
         },
-        "GG": {
-            "name": "Grand Gedeh County",
-            "code": "GG",
-            "names": {
-                "geonames": "Grand Gedeh",
-                "ru": "\u0413\u0440\u0430\u043d\u0434-\u0413\u0435\u0434\u0435",
-                "en": "Grand Gedeh County",
-                "de": "Grand Gedeh County",
-                "es": "Grand Gedeh",
-                "fr": "Comt\u00e9 de Grand Gedeh",
-                "it": "Contea di Grand Gedeh",
-                "zh": "\u5927\u5404\u5fb7\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-GG",
+            "names": "Grand Gedeh",
+            "type": "County"
         },
-        "GK": {
-            "name": "Grand Kru County",
-            "code": "GK",
-            "names": {
-                "geonames": "Grand Kru",
-                "ru": "\u0413\u0440\u0430\u043d\u0434-\u041a\u0440\u0443",
-                "en": "Grand Kru County",
-                "de": "Grand Kru County",
-                "es": "Grand Kru",
-                "fr": "Comt\u00e9 de Grand Kru",
-                "it": "Contea di Grand Kru",
-                "zh": "\u5927\u514b\u9c81\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-GK",
+            "names": "Grand Kru",
+            "type": "County"
         },
-        "GP": {
-            "name": "Gbarpolu County",
-            "code": "GP",
-            "names": {
-                "geonames": "Gbarpolu",
-                "ru": "\u0413\u0431\u0430\u0440\u043f\u043e\u043b\u0443",
-                "en": "Gbarpolu County",
-                "de": "Gbarpolu County",
-                "es": "Gbarpolu",
-                "fr": "Comt\u00e9 de Gbarpolu",
-                "it": "Contea di Gbarpolu",
-                "zh": "\u5df4\u6ce2\u5362\u53bf"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-LO",
+            "names": "Lofa",
+            "type": "County"
         },
-        "LO": {
-            "name": "Lofa County",
-            "code": "LO",
-            "names": {
-                "geonames": "Lofa",
-                "ru": "\u041b\u043e\u0444\u0430",
-                "en": "Lofa County",
-                "de": "Lofa County",
-                "es": "Lofa",
-                "fr": "Comt\u00e9 de Lofa",
-                "it": "Contea di Lofa",
-                "zh": "\u6d1b\u6cd5\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-MG",
+            "names": "Margibi",
+            "type": "County"
         },
-        "MG": {
-            "name": "Margibi County",
-            "code": "MG",
-            "names": {
-                "geonames": "Margibi",
-                "ru": "\u041c\u0430\u0440\u0433\u0438\u0431\u0438",
-                "en": "Margibi County",
-                "de": "Margibi County",
-                "es": "Margibi",
-                "fr": "Comt\u00e9 de Margibi",
-                "it": "Contea di Margibi",
-                "zh": "\u9a6c\u53ca\u6bd4\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-MO",
+            "names": "Montserrado",
+            "type": "County"
         },
-        "MO": {
-            "name": "Montserrado County",
-            "code": "MO",
-            "names": {
-                "geonames": "Montserrado",
-                "ru": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0434\u043e",
-                "en": "Montserrado County",
-                "de": "Montserrado County",
-                "es": "Condado de Montserrado",
-                "fr": "Comt\u00e9 de Montserrado",
-                "it": "Contea di Montserrado",
-                "zh": "\u8499\u7279\u585e\u62c9\u591a\u53bf"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": 37.9642529,
-            "lng": -91.8318334
+        {
+            "code": "LR-MY",
+            "names": "Maryland",
+            "type": "County"
         },
-        "MY": {
-            "name": "Maryland County",
-            "code": "MY",
-            "names": {
-                "geonames": "Maryland",
-                "ru": "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434",
-                "en": "Maryland County",
-                "de": "Maryland County",
-                "es": "Condado de Maryland",
-                "fr": "Comt\u00e9 de Maryland",
-                "it": "Contea di Maryland",
-                "zh": "\u99ac\u91cc\u862d\u7e23"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": 39.0457549,
-            "lng": -76.6412712
+        {
+            "code": "LR-NI",
+            "names": "Nimba",
+            "type": "County"
         },
-        "NI": {
-            "name": "Nimba County",
-            "code": "NI",
-            "names": {
-                "geonames": "Nimba",
-                "ru": "\u041d\u0438\u043c\u0431\u0430",
-                "en": "Nimba County",
-                "de": "Nimba County",
-                "es": "Nimba",
-                "fr": "Comt\u00e9 de Nimba",
-                "it": "Contea di Nimba",
-                "zh": "\u5be7\u5df4\u7e23"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-RI",
+            "names": "Rivercess",
+            "type": "County"
         },
-        "RG": {
-            "name": "River Gee County",
-            "code": "RG",
-            "names": {
-                "geonames": "River Gee",
-                "ru": "\u0420\u0438\u0432\u0435\u0440-\u0413\u0438",
-                "en": "River Gee County",
-                "de": "River Gee County",
-                "es": "River Gee",
-                "fr": "Comt\u00e9 de River Gee",
-                "it": "Contea di River Gee",
-                "zh": "\u5409\u6cb3\u53bf"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "RI": {
-            "name": "Rivercess County",
-            "code": "RI",
-            "names": {
-                "geonames": "River Cess",
-                "ru": "\u0420\u0438\u0432\u0435\u0440-\u0421\u0435\u0441\u0441",
-                "en": "Rivercess County",
-                "de": "River Cess County",
-                "fr": "Comt\u00e9 de River Cess",
-                "it": "Contea di River Cess",
-                "zh": "\u91cc\u5f17\u585e\u65af\u7e23"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
-        },
-        "SI": {
-            "name": "Sinoe County",
-            "code": "SI",
-            "names": {
-                "geonames": "Sinoe",
-                "ru": "\u0421\u0438\u043d\u043e\u044d",
-                "en": "Sinoe County",
-                "de": "Sinoe County",
-                "es": "Sinoe",
-                "fr": "Comt\u00e9 de Sinoe",
-                "it": "Contea di Sinoe",
-                "zh": "\u932b\u8afe\u7e23"
-            },
-            "division": "county",
-            "parent": "LR",
-            "lat": null,
-            "lng": null
+        {
+            "code": "LR-SI",
+            "names": "Sinoe",
+            "type": "County"
         }
-    }
+    ]
 }

@@ -1,640 +1,310 @@
 {
     "alpha-2": "CN",
     "alpha-3": "CHN",
-    "numeric": 156,
-    "capital": "Beijing",
-    "currency": "CNY",
-    "languages": [
-        "zh"
-    ],
-    "flag-icon": "\ud83c\udde8\ud83c\uddf3",
+    "numeric": "156",
     "names": {
-        "geonames": "China",
         "en": "China",
-        "ar": "\u0627\u0644\u0635\u064a\u0646",
-        "de": "China",
-        "es": "China",
         "fr": "Chine",
-        "it": "Cina",
-        "ru": "\u041a\u0438\u0442\u0430\u0439",
-        "zh": "\u4e2d\u570b",
-        "he": "\u05e1\u05d9\u05df",
-        "hi": "\u091a\u0940\u0928",
+        "ur": "\u0686\u06cc\u0646",
+        "rn": "Ubushinwa",
+        "lv": "\u0136\u012bna",
+        "hy": "\u0549\u056b\u0576\u0561\u057d\u057f\u0561\u0576",
+        "sq": "Kin\u00eb",
+        "jv": "Tyongkok",
+        "or": "\u0b1a\u0b3f\u0b28\u0b4d",
+        "mg": "Sina",
+        "no": "Kina",
+        "zh": "\u4e2d\u56fd",
+        "tr": "\u00c7in",
+        "bs": "Kina",
         "ja": "\u4e2d\u56fd",
-        "pt": "China"
+        "th": "\u0e08\u0e35\u0e19",
+        "he": "\u05e1\u05d9\u05df",
+        "kk": "\u049a\u044b\u0442\u0430\u0439",
+        "mo": "China",
+        "ff": "Siin",
+        "ca": "Xina",
+        "ar": "\u0627\u0644\u0635\u064a\u0646",
+        "eu": "Txina",
+        "ps": "\u0686\u06cc\u0646",
+        "kn": "\u0c9a\u0cc0\u0ca8\u0cbe",
+        "si": "\u0da0\u0dd3\u0db1\u0dba",
+        "km": "\u1785\u17b7\u1793",
+        "ne": "\u091a\u0940\u0928",
+        "bo": "\u0f62\u0f92\u0fb1\u0f0b\u0f53\u0f42",
+        "fi": "Kiina",
+        "hi": "\u091a\u0940\u0928",
+        "rm": "China",
+        "vi": "Trung Qu\u1ed1c",
+        "gl": "A China",
+        "ig": "Mba China",
+        "mr": "\u091a\u0940\u0928",
+        "es": "China",
+        "be": "\u041a\u0456\u0442\u0430\u0439",
+        "ii": "\ua34f\ua1e9",
+        "lg": "Cayina",
+        "sd": "\u0686\u064a\u0646",
+        "az": "\u0427\u0438\u043d",
+        "ce": "\u0426\u0438\u0439\u0447\u043e\u044c",
+        "mk": "\u041a\u0438\u043d\u0430",
+        "zu": "i-China",
+        "it": "Cina",
+        "mi": "Haina",
+        "ko": "\uc911\uad6d",
+        "lo": "\u0e88\u0eb5\u0e99",
+        "lt": "Kinija",
+        "dz": "\u0f62\u0f92\u0fb1\u0f0b\u0f53\u0f42",
+        "ln": "Sin\u025b",
+        "hr": "Kina",
+        "ks": "\u0686\u06cc\u0656\u0646",
+        "sv": "Kina",
+        "pl": "Chiny",
+        "nb": "Kina",
+        "sh": "Kina",
+        "lu": "Shine",
+        "nl": "China",
+        "ky": "\u041a\u044b\u0442\u0430\u0439",
+        "bn": "\u099a\u09c0\u09a8",
+        "fa": "\u0686\u06cc\u0646",
+        "gd": "An t-S\u00ecn",
+        "cs": "\u010c\u00edna",
+        "tk": "Hyta\u00fd",
+        "eo": "\u0108inujo",
+        "mt": "i\u010b-\u010aina",
+        "sr": "Kina",
+        "wo": "Siin",
+        "el": "\u039a\u03af\u03bd\u03b1",
+        "sn": "China",
+        "pt": "China",
+        "yi": "\u05db\u05d9\u05e0\u05e2",
+        "is": "K\u00edna",
+        "ta": "\u0b9a\u0bc0\u0ba9\u0bbe",
+        "br": "Sina",
+        "hu": "K\u00edna",
+        "et": "Hiina",
+        "ku": "\u00c7\u00een",
+        "sk": "\u010c\u00edna",
+        "sw": "Uchina",
+        "os": "\u041a\u0438\u0442\u0430\u0439",
+        "te": "\u0c1a\u0c48\u0c28\u0c3e",
+        "ro": "China",
+        "ki": "Caina",
+        "su": "Tiongkok",
+        "ak": "Kyaena",
+        "tg": "\u0425\u0438\u0442\u043e\u0439",
+        "ml": "\u0d1a\u0d48\u0d28",
+        "yo": "Oril\u025b\u0300-\u00e8d\u00e8 Sh\u00e1\u00edn\u00e0",
+        "de": "China",
+        "as": "\u099a\u09c0\u09a8",
+        "am": "\u127b\u12ed\u1293",
+        "se": "Kiinn\u00e1",
+        "ia": "China",
+        "om": "China",
+        "ti": "\u127b\u12ed\u1293",
+        "ru": "\u041a\u0438\u0442\u0430\u0439",
+        "ga": "an tS\u00edn",
+        "bg": "\u041a\u0438\u0442\u0430\u0439",
+        "my": "\u1010\u101b\u102f\u1010\u103a",
+        "fy": "Sina",
+        "bm": "Siniwajamana",
+        "gu": "\u0a9a\u0ac0\u0aa8",
+        "uz": "\u0425\u0438\u0442\u043e\u0439",
+        "cy": "Tsieina",
+        "ug": "\u062c\u06c7\u06ad\u06af\u0648",
+        "nn": "Kina",
+        "uk": "\u041a\u0438\u0442\u0430\u0439",
+        "qu": "China",
+        "tl": "China",
+        "ms": "China",
+        "so": "Shiinaha",
+        "da": "Kina",
+        "tt": "\u041a\u044b\u0442\u0430\u0439",
+        "af": "Sjina",
+        "ha": "Sin",
+        "iw": "\u05e1\u05d9\u05df",
+        "ee": "Tsaina nutome",
+        "in": "Tiongkok",
+        "to": "Siaina",
+        "sl": "Kitajska",
+        "sg": "Sh\u00eena",
+        "lb": "China",
+        "fo": "Kina",
+        "mn": "\u0425\u044f\u0442\u0430\u0434",
+        "id": "Tiongkok",
+        "pa": "\u0a1a\u0a40\u0a28",
+        "ka": "\u10e9\u10d8\u10dc\u10d4\u10d7\u10d8",
+        "nd": "China"
     },
-    "ISO3166-2": {
-        "11": {
-            "name": "Beijing",
-            "code": "11",
-            "names": {
-                "geonames": "Beijing",
-                "ru": "\u041f\u0435\u043a\u0438\u043d",
-                "en": "Beijing",
-                "ar": "\u0628\u0643\u064a\u0646",
-                "de": "Peking",
-                "es": "Pek\u00edn",
-                "fr": "P\u00e9kin",
-                "it": "Pechino",
-                "zh": "\u5317\u4eac\u5e02"
-            },
-            "division": "municipality",
-            "parent": "CN",
-            "lat": 39.904214,
-            "lng": 116.40741300000002
+    "3166-2": [
+        {
+            "code": "CN-AH",
+            "names": "Anhui Sheng",
+            "type": "Province"
         },
-        "12": {
-            "name": "Tianjin",
-            "code": "12",
-            "names": {
-                "geonames": "Tianjin",
-                "ru": "\u0422\u044f\u043d\u044c\u0446\u0437\u0438\u043d\u044c",
-                "en": "Tianjin",
-                "ar": "\u062a\u064a\u0627\u0646\u062c\u064a\u0646",
-                "de": "Tianjin",
-                "es": "Tianj\u00edn",
-                "fr": "Tianjin",
-                "it": "Tientsin",
-                "zh": "\u5929\u6d25\u5e02"
-            },
-            "division": "municipality",
-            "parent": "CN",
-            "lat": 39.084158,
-            "lng": 117.20098299999995
+        {
+            "code": "CN-BJ",
+            "names": "Beijing Shi",
+            "type": "Municipality"
         },
-        "13": {
-            "name": "Hebei",
-            "code": "13",
-            "names": {
-                "geonames": "Hebei",
-                "ru": "\u0425\u044d\u0431\u044d\u0439",
-                "en": "Hebei",
-                "ar": "\u062e\u0628\u064a",
-                "de": "Hebei",
-                "es": "Hebei",
-                "fr": "Hebei",
-                "it": "Hebei",
-                "zh": "\u6cb3\u5317\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 38.3905141,
-            "lng": 114.85557059999996
+        {
+            "code": "CN-CQ",
+            "names": "Chongqing Shi",
+            "type": "Municipality"
         },
-        "14": {
-            "name": "Shanxi",
-            "code": "14",
-            "names": {
-                "geonames": "Shanxi",
-                "ru": "\u0428\u0430\u043d\u044c\u0441\u0438",
-                "en": "Shanxi",
-                "ar": "\u0634\u0627\u0646\u0634\u064a",
-                "de": "Shanxi",
-                "es": "Shanxi",
-                "fr": "Shanxi",
-                "it": "Shanxi",
-                "zh": "\u5c71\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 28.4560996,
-            "lng": 117.92159650000008
+        {
+            "code": "CN-FJ",
+            "names": "Fujian Sheng",
+            "type": "Province"
         },
-        "15": {
-            "name": "Inner Mongolia",
-            "code": "15",
-            "names": {
-                "geonames": "Inner Mongolia",
-                "ru": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
-                "en": "Inner Mongolia",
-                "ar": "\u0645\u0646\u063a\u0648\u0644\u064a\u0627 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
-                "de": "Innere Mongolei",
-                "es": "Mongolia Interior",
-                "fr": "Mongolie-int\u00e9rieure",
-                "it": "Mongolia Interna",
-                "zh": "\u5185\u8499\u53e4\u81ea\u6cbb\u533a"
-            },
-            "division": "autonomous region",
-            "parent": "CN",
-            "lat": 38.852843,
-            "lng": 105.7008601
+        {
+            "code": "CN-GD",
+            "names": "Guangdong Sheng",
+            "type": "Province"
         },
-        "21": {
-            "name": "Liaoning",
-            "code": "21",
-            "names": {
-                "geonames": "Liaoning",
-                "ru": "\u041b\u044f\u043e\u043d\u0438\u043d",
-                "en": "Liaoning",
-                "ar": "\u0644\u064a\u0627\u0648\u0646\u064a\u0646\u063a",
-                "de": "Liaoning",
-                "es": "Liaoning",
-                "fr": "Liaoning",
-                "it": "Liaoning",
-                "zh": "\u8fbd\u5b81\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 41.7315285,
-            "lng": 123.25759659999994
+        {
+            "code": "CN-GS",
+            "names": "Gansu Sheng",
+            "type": "Province"
         },
-        "22": {
-            "name": "Jilin",
-            "code": "22",
-            "names": {
-                "geonames": "Jilin",
-                "ru": "\u0413\u0438\u0440\u0438\u043d",
-                "en": "Jilin",
-                "ar": "\u062c\u064a\u0644\u064a\u0646",
-                "de": "Jilin",
-                "es": "Jilin",
-                "fr": "Jilin",
-                "it": "Jilin",
-                "zh": "\u5409\u6797\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 43.837883,
-            "lng": 126.54957200000001
+        {
+            "code": "CN-GX",
+            "names": "Guangxi Zhuangzu Zizhiqu",
+            "type": "Autonomous region"
         },
-        "23": {
-            "name": "Heilongjiang",
-            "code": "23",
-            "names": {
-                "geonames": "Heilongjiang",
-                "ru": "\u0425\u044d\u0439\u043b\u0443\u043d\u0446\u0437\u044f\u043d",
-                "en": "Heilongjiang",
-                "ar": "\u0647\u064a\u0644\u0648\u0646\u063a\u062c\u064a\u0627\u0646\u063a",
-                "de": "Heilongjiang",
-                "es": "Heilongjiang",
-                "fr": "Heilongjiang",
-                "it": "Heilongjiang",
-                "zh": "\u9ed1\u9f99\u6c5f\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 48.9296818,
-            "lng": 125.66512310000007
+        {
+            "code": "CN-GZ",
+            "names": "Guizhou Sheng",
+            "type": "Province"
         },
-        "31": {
-            "name": "Shanghai",
-            "code": "31",
-            "names": {
-                "geonames": "Shanghai",
-                "ru": "\u0428\u0430\u043d\u0445\u0430\u0439",
-                "en": "Shanghai",
-                "ar": "\u0634\u0627\u0646\u063a\u0647\u0627\u064a",
-                "de": "Shanghai",
-                "es": "Shangh\u00e1i",
-                "fr": "Shanghai",
-                "it": "Shanghai",
-                "zh": "\u4e0a\u6d77\u5e02"
-            },
-            "division": "municipality",
-            "parent": "CN",
-            "lat": 31.230393,
-            "lng": 121.473704
+        {
+            "code": "CN-HA",
+            "names": "Henan Sheng",
+            "type": "Province"
         },
-        "32": {
-            "name": "Jiangsu",
-            "code": "32",
-            "names": {
-                "geonames": "Jiangsu",
-                "ru": "\u0426\u0437\u044f\u043d\u0441\u0443",
-                "en": "Jiangsu",
-                "ar": "\u062c\u064a\u0627\u0646\u063a\u0633\u0648",
-                "de": "Jiangsu",
-                "es": "Jiangsu",
-                "fr": "Jiangsu",
-                "it": "Jiangsu",
-                "zh": "\u6c5f\u82cf\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 32.0922799,
-            "lng": 118.61263740000004
+        {
+            "code": "CN-HB",
+            "names": "Hubei Sheng",
+            "type": "Province"
         },
-        "33": {
-            "name": "Zhejiang",
-            "code": "33",
-            "names": {
-                "geonames": "Zhejiang",
-                "ru": "\u0427\u0436\u044d\u0446\u0437\u044f\u043d",
-                "en": "Zhejiang",
-                "ar": "\u062c\u064a\u062c\u064a\u0627\u0646\u063a",
-                "de": "Zhejiang",
-                "es": "Zhejiang",
-                "fr": "Zhejiang",
-                "it": "Zhejiang",
-                "zh": "\u6d59\u6c5f\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 29.9488786,
-            "lng": 121.14309350000008
+        {
+            "code": "CN-HE",
+            "names": "Hebei Sheng",
+            "type": "Province"
         },
-        "34": {
-            "name": "Anhui",
-            "code": "34",
-            "names": {
-                "geonames": "Anhui",
-                "ru": "\u0410\u043d\u044c\u0445\u043e\u0439",
-                "en": "Anhui",
-                "ar": "\u0622\u0646\u0647\u0648\u064a",
-                "de": "Anhui",
-                "es": "Anhui",
-                "fr": "Anhui",
-                "it": "Anhui",
-                "zh": "\u5b89\u5fbd\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 31.844419,
-            "lng": 117.25433099999998
+        {
+            "code": "CN-HI",
+            "names": "Hainan Sheng",
+            "type": "Province"
         },
-        "35": {
-            "name": "Fujian",
-            "code": "35",
-            "names": {
-                "geonames": "Fujian",
-                "ru": "\u0424\u0443\u0446\u0437\u044f\u043d\u044c",
-                "en": "Fujian",
-                "ar": "\u0641\u0648\u062c\u064a\u0627\u0646",
-                "de": "Fujian",
-                "es": "Fujian",
-                "fr": "Fujian",
-                "it": "Fujian",
-                "zh": "\u798f\u5efa\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 24.721616,
-            "lng": 116.1805756
+        {
+            "code": "CN-HK",
+            "names": "Hong Kong SAR (see also separate country code entry under HK)",
+            "type": "Special administrative region"
         },
-        "36": {
-            "name": "Jiangxi",
-            "code": "36",
-            "names": {
-                "geonames": "Jiangxi",
-                "ru": "\u0426\u0437\u044f\u043d\u0441\u0438",
-                "en": "Jiangxi",
-                "ar": "\u062c\u064a\u0627\u0646\u063a\u0634\u064a",
-                "de": "Jiangxi",
-                "es": "Jiangxi",
-                "fr": "Jiangxi",
-                "it": "Jiangxi",
-                "zh": "\u6c5f\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 29.1557051,
-            "lng": 113.71576129999994
+        {
+            "code": "CN-HL",
+            "names": "Heilongjiang Sheng",
+            "type": "Province"
         },
-        "37": {
-            "name": "Shandong",
-            "code": "37",
-            "names": {
-                "geonames": "Shandong",
-                "ru": "\u0428\u0430\u043d\u044c\u0434\u0443\u043d",
-                "en": "Shandong",
-                "ar": "\u0634\u0627\u0646\u062f\u0648\u0646\u063a",
-                "de": "Shandong",
-                "es": "Shandong",
-                "fr": "Shandong",
-                "it": "Shandong",
-                "zh": "\u5c71\u4e1c\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 36.674306,
-            "lng": 117.059933
+        {
+            "code": "CN-HN",
+            "names": "Hunan Sheng",
+            "type": "Province"
         },
-        "41": {
-            "name": "Henan",
-            "code": "41",
-            "names": {
-                "geonames": "Henan",
-                "ru": "\u0425\u044d\u043d\u0430\u043d\u044c",
-                "en": "Henan",
-                "ar": "\u0647\u0646\u0627\u0646",
-                "de": "Henan",
-                "es": "Henan",
-                "fr": "Henan",
-                "it": "Henan",
-                "zh": "\u6cb3\u5357\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 32.1277675,
-            "lng": 114.07919249999998
+        {
+            "code": "CN-JL",
+            "names": "Jilin Sheng",
+            "type": "Province"
         },
-        "42": {
-            "name": "Hubei",
-            "code": "42",
-            "names": {
-                "geonames": "Hubei",
-                "ru": "\u0425\u0443\u0431\u044d\u0439",
-                "en": "Hubei",
-                "de": "Hubei",
-                "es": "Hubei",
-                "fr": "Hubei",
-                "it": "Hubei",
-                "zh": "\u6e56\u5317\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 30.9894798,
-            "lng": 112.87213550000001
+        {
+            "code": "CN-JS",
+            "names": "Jiangsu Sheng",
+            "type": "Province"
         },
-        "43": {
-            "name": "Hunan",
-            "code": "43",
-            "names": {
-                "geonames": "Hunan",
-                "ru": "\u0425\u0443\u043d\u0430\u043d\u044c",
-                "en": "Hunan",
-                "de": "Hunan",
-                "es": "Hunan",
-                "fr": "Hunan",
-                "it": "Hunan",
-                "zh": "\u6e56\u5357\u7701",
-                "ar": "\u0647\u0648\u0646\u0627\u0646"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 27.2498042,
-            "lng": 113.6176643
+        {
+            "code": "CN-JX",
+            "names": "Jiangxi Sheng",
+            "type": "Province"
         },
-        "44": {
-            "name": "Guangdong",
-            "code": "44",
-            "names": {
-                "geonames": "Guangdong",
-                "ru": "\u0413\u0443\u0430\u043d\u0434\u0443\u043d",
-                "en": "Guangdong",
-                "ar": "\u063a\u0648\u0627\u0646\u063a\u062f\u0648\u0646\u063a",
-                "de": "Guangdong",
-                "es": "Provincia de Cant\u00f3n",
-                "fr": "Guangdong",
-                "it": "Guangdong",
-                "zh": "\u5e7f\u4e1c\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 23.2600355,
-            "lng": 113.25139000000001
+        {
+            "code": "CN-LN",
+            "names": "Liaoning Sheng",
+            "type": "Province"
         },
-        "45": {
-            "name": "Guangxi",
-            "code": "45",
-            "names": {
-                "geonames": "Guangxi",
-                "ru": "\u0413\u0443\u0430\u043d\u0441\u0438-\u0427\u0436\u0443\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
-                "en": "Guangxi",
-                "ar": "\u0642\u0648\u0627\u0646\u063a\u0634\u064a",
-                "de": "Guangxi",
-                "es": "Guangxi",
-                "fr": "Guangxi",
-                "it": "Guangxi",
-                "zh": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a"
-            },
-            "division": "autonomous region",
-            "parent": "CN",
-            "lat": 22.826617,
-            "lng": 108.34412599999996
+        {
+            "code": "CN-MO",
+            "names": "Macao SAR (see also separate country code entry under MO)",
+            "type": "Special administrative region"
         },
-        "46": {
-            "name": "Hainan",
-            "code": "46",
-            "names": {
-                "geonames": "Hainan",
-                "ru": "\u0425\u0430\u0439\u043d\u0430\u043d\u044c",
-                "en": "Hainan",
-                "ar": "\u0647\u0627\u064a\u0646\u0627\u0646",
-                "de": "Hainan",
-                "es": "Hainan",
-                "fr": "Hainan",
-                "it": "Hainan",
-                "zh": "\u6d77\u5357\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 35.8785506,
-            "lng": 120.05127579999998
+        {
+            "code": "CN-NM",
+            "names": "Nei Mongol Zizhiqu",
+            "type": "Autonomous region"
         },
-        "50": {
-            "name": "Chongqing",
-            "code": "50",
-            "names": {
-                "geonames": "Chongqing",
-                "ru": "\u0427\u0443\u043d\u0446\u0438\u043d",
-                "en": "Chongqing",
-                "ar": "\u062a\u0634\u0648\u0646\u063a\u062a\u0634\u064a\u0646\u063a",
-                "de": "Chongqing",
-                "es": "Chongqing",
-                "fr": "Chongqing",
-                "it": "Chongqing",
-                "zh": "\u91cd\u5e86\u5e02"
-            },
-            "division": "municipality",
-            "parent": "CN",
-            "lat": 29.56301,
-            "lng": 106.551557
+        {
+            "code": "CN-NX",
+            "names": "Ningxia Huizi Zizhiqu",
+            "type": "Autonomous region"
         },
-        "51": {
-            "name": "Sichuan",
-            "code": "51",
-            "names": {
-                "geonames": "Sichuan",
-                "ru": "\u0421\u044b\u0447\u0443\u0430\u043d\u044c",
-                "en": "Sichuan",
-                "ar": "\u0633\u064a\u0634\u0648\u0627\u0646",
-                "de": "Sichuan",
-                "es": "Sichuan",
-                "fr": "Sichuan",
-                "it": "Sichuan",
-                "zh": "\u56db\u5ddd\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 30.632278,
-            "lng": 104.08679299999994
+        {
+            "code": "CN-QH",
+            "names": "Qinghai Sheng",
+            "type": "Province"
         },
-        "52": {
-            "name": "Guizhou",
-            "code": "52",
-            "names": {
-                "geonames": "Guizhou",
-                "ru": "\u0413\u0443\u0439\u0447\u0436\u043e\u0443",
-                "en": "Guizhou",
-                "ar": "\u0642\u0648\u064a\u062a\u0634\u0648",
-                "de": "Guizhou",
-                "es": "Guizhou",
-                "fr": "Guizhou",
-                "it": "Guizhou",
-                "zh": "\u8d35\u5dde\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 26.424084,
-            "lng": 106.67353400000002
+        {
+            "code": "CN-SC",
+            "names": "Sichuan Sheng",
+            "type": "Province"
         },
-        "53": {
-            "name": "Yunnan",
-            "code": "53",
-            "names": {
-                "geonames": "Yunnan",
-                "ru": "\u042e\u043d\u044c\u043d\u0430\u043d\u044c",
-                "en": "Yunnan",
-                "ar": "\u064a\u0648\u0646\u0627\u0646",
-                "de": "Yunnan",
-                "es": "Yunnan",
-                "fr": "Yunnan",
-                "it": "Yunnan",
-                "zh": "\u4e91\u5357\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 24.9494565,
-            "lng": 103.95045290000007
+        {
+            "code": "CN-SD",
+            "names": "Shandong Sheng",
+            "type": "Province"
         },
-        "54": {
-            "name": "Tibet Autonomous Region",
-            "code": "54",
-            "names": {
-                "geonames": "Tibet",
-                "ru": "\u0422\u0438\u0431\u0435\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
-                "en": "Tibet Autonomous Region",
-                "ar": "\u0623\u0632\u0645\u0629 \u0627\u0644\u062a\u0628\u062a \u0648\u0627\u0644\u0635\u064a\u0646",
-                "de": "Autonomes Gebiet Tibet",
-                "es": "T\u00edbet",
-                "fr": "R\u00e9gion autonome du Tibet",
-                "it": "Regione Autonoma del Tibet",
-                "zh": "\u897f\u85cf\u81ea\u6cbb\u533a"
-            },
-            "division": "autonomous region",
-            "parent": "CN",
-            "lat": 31.2255567,
-            "lng": 121.48027649999995
+        {
+            "code": "CN-SH",
+            "names": "Shanghai Shi",
+            "type": "Municipality"
         },
-        "61": {
-            "name": "Shaanxi",
-            "code": "61",
-            "names": {
-                "geonames": "Shaanxi",
-                "ru": "\u0428\u044d\u043d\u044c\u0441\u0438",
-                "en": "Shaanxi",
-                "ar": "\u0634\u0646\u0634\u064a",
-                "de": "Shaanxi",
-                "es": "Shaanxi",
-                "fr": "Shaanxi",
-                "it": "Shaanxi",
-                "zh": "\u9655\u897f\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 34.223126,
-            "lng": 108.95546000000002
+        {
+            "code": "CN-SN",
+            "names": "Shaanxi Sheng",
+            "type": "Province"
         },
-        "62": {
-            "name": "Gansu",
-            "code": "62",
-            "names": {
-                "geonames": "Gansu",
-                "en": "Gansu",
-                "ar": "\u0642\u0627\u0646\u0633\u0648",
-                "de": "Gansu",
-                "es": "Gansu",
-                "fr": "Gansu",
-                "it": "Gansu",
-                "ru": "\u0413\u0430\u043d\u044c\u0441\u0443",
-                "zh": "\u7518\u8083\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 36.066314,
-            "lng": 103.77462000000003
+        {
+            "code": "CN-SX",
+            "names": "Shanxi Sheng",
+            "type": "Province"
         },
-        "63": {
-            "name": "Qinghai",
-            "code": "63",
-            "names": {
-                "geonames": "Qinghai",
-                "ru": "\u0426\u0438\u043d\u0445\u0430\u0439",
-                "en": "Qinghai",
-                "ar": "\u062a\u0634\u064a\u0646\u063a\u0647\u0627\u064a",
-                "de": "Qinghai",
-                "es": "Qinghai",
-                "fr": "Qinghai",
-                "it": "Qinghai",
-                "zh": "\u9752\u6d77\u7701"
-            },
-            "division": "province",
-            "parent": "CN",
-            "lat": 36.085841,
-            "lng": 120.34038540000006
+        {
+            "code": "CN-TJ",
+            "names": "Tianjin Shi",
+            "type": "Municipality"
         },
-        "64": {
-            "name": "Ningxia",
-            "code": "64",
-            "names": {
-                "geonames": "Ningsia Hui Autonomous Region",
-                "ru": "\u041d\u0438\u043d\u0441\u044f-\u0425\u0443\u044d\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
-                "en": "Ningxia",
-                "ar": "\u0646\u064a\u0646\u063a\u0634\u064a\u0627",
-                "de": "Ningxia",
-                "es": "Ningxia",
-                "fr": "Ningxia",
-                "it": "Ningsia",
-                "zh": "\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a"
-            },
-            "division": "autonomous region",
-            "parent": "CN",
-            "lat": 31.2313805,
-            "lng": 121.41378269999996
+        {
+            "code": "CN-TW",
+            "names": "Taiwan Sheng (see also separate country code entry under TW)",
+            "type": "Province"
         },
-        "65": {
-            "name": "Xinjiang",
-            "code": "65",
-            "names": {
-                "geonames": "Xinjiang",
-                "ru": "\u0421\u0438\u043d\u044c\u0446\u0437\u044f\u043d-\u0423\u0439\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d",
-                "en": "Xinjiang",
-                "ar": "\u0634\u064a\u0646\u062c\u064a\u0627\u0646\u063a",
-                "de": "Xinjiang",
-                "es": "Sinkiang",
-                "fr": "Xinjiang",
-                "it": "Sinkiang",
-                "zh": "\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a"
-            },
-            "division": "autonomous region",
-            "parent": "CN",
-            "lat": 21.8724583,
-            "lng": 111.98518769999998
+        {
+            "code": "CN-XJ",
+            "names": "Xinjiang Uygur Zizhiqu",
+            "type": "Autonomous region"
         },
-        "71": {
-            "name": "Taiwan",
-            "code": "71",
-            "division": "province",
-            "parent": "CN",
-            "lat": 23.926098,
-            "lng": 121.02364299999999
+        {
+            "code": "CN-XZ",
+            "names": "Xizang Zizhiqu",
+            "type": "Autonomous region"
         },
-        "91": {
-            "name": "Xianggang (Hong-Kong)",
-            "code": "91",
-            "division": "special administrative region",
-            "parent": "CN",
-            "lat": 22.284002,
-            "lng": 114.13783000000001
+        {
+            "code": "CN-YN",
+            "names": "Yunnan Sheng",
+            "type": "Province"
         },
-        "92": {
-            "name": "Aomen (Macau)",
-            "code": "92",
-            "division": "special administrative region",
-            "parent": "CN",
-            "lat": 22.179821,
-            "lng": 113.53682700000002
+        {
+            "code": "CN-ZJ",
+            "names": "Zhejiang Sheng",
+            "type": "Province"
         }
-    }
+    ]
 }

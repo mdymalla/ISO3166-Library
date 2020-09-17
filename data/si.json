@@ -1,3061 +1,1184 @@
 {
     "alpha-2": "SI",
     "alpha-3": "SVN",
-    "numeric": 705,
-    "capital": "Ljubljana",
-    "currency": "EUR",
-    "languages": [
-        "sl"
-    ],
-    "flag-icon": "\ud83c\uddf8\ud83c\uddee",
+    "numeric": "705",
     "names": {
-        "geonames": "Slovenia",
         "en": "Slovenia",
-        "ar": "\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
-        "de": "Slowenien",
-        "es": "Eslovenia",
         "fr": "Slov\u00e9nie",
-        "it": "Slovenia",
-        "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "ur": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
+        "rn": "Siloveniya",
+        "lv": "Slov\u0113nija",
+        "hy": "\u054d\u056c\u0578\u057e\u0565\u0576\u056b\u0561",
+        "sq": "Slloveni",
+        "jv": "Slov\u00e9nia",
+        "or": "\u0b38\u0b4d\u0b32\u0b4b\u0b2d\u0b47\u0b28\u0b3f\u0b06",
+        "mg": "Slovenia",
+        "no": "Slovenia",
         "zh": "\u65af\u6d1b\u6587\u5c3c\u4e9a",
-        "he": "\u05e1\u05dc\u05d5\u05d1\u05e0\u05d9\u05d4",
-        "hi": "\u0938\u094d\u0932\u094b\u0935\u0947\u0928\u093f\u092f\u093e",
+        "tr": "Slovenya",
+        "bs": "Slovenija",
         "ja": "\u30b9\u30ed\u30d9\u30cb\u30a2",
-        "pt": "Eslov\u00e9nia"
+        "th": "\u0e2a\u0e42\u0e25\u0e27\u0e35\u0e40\u0e19\u0e35\u0e22",
+        "he": "\u05e1\u05dc\u05d5\u05d1\u05e0\u05d9\u05d4",
+        "fa": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
+        "kk": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "mo": "Slovenia",
+        "ff": "Slowenii",
+        "ca": "Eslov\u00e8nia",
+        "ar": "\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
+        "eu": "Eslovenia",
+        "ps": "\u0633\u0644\u0648\u0627\u0646\u06cc\u0627",
+        "kn": "\u0cb8\u0ccd\u0cb2\u0ccb\u0cb5\u0cc7\u0ca8\u0cbf\u0caf\u0cbe",
+        "si": "\u0dc3\u0dca\u0dbd\u0ddd\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u179f\u17d2\u179b\u17bc\u179c\u17c1\u1793\u17b8",
+        "ne": "\u0938\u094d\u0932\u094b\u092d\u0947\u0928\u093f\u092f\u093e",
+        "fi": "Slovenia",
+        "hi": "\u0938\u094d\u0932\u094b\u0935\u0947\u0928\u093f\u092f\u093e",
+        "rm": "Slovenia",
+        "vi": "Slovenia",
+        "gl": "Eslovenia",
+        "ig": "Slovenia",
+        "mr": "\u0938\u094d\u0932\u094b\u0935\u094d\u0939\u0947\u0928\u093f\u092f\u093e",
+        "es": "Eslovenia",
+        "be": "\u0421\u043b\u0430\u0432\u0435\u043d\u0456\u044f",
+        "lg": "Sirovenya",
+        "pt": "Eslov\u00eania",
+        "az": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u0458\u0430",
+        "ce": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438",
+        "mk": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u0458\u0430",
+        "zu": "i-Slovenia",
+        "it": "Slovenia",
+        "ko": "\uc2ac\ub85c\ubca0\ub2c8\uc544",
+        "lo": "\u0eaa\u0eb0\u0ec2\u0ea5\u0ec0\u0ea7\u0ec0\u0e99\u0e8d",
+        "lt": "Slov\u0117nija",
+        "dz": "\u0f66\u0f74\u0f0b\u0f63\u0f7c\u0f0b\u0f56\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f61",
+        "ln": "Siloveni",
+        "hr": "Slovenija",
+        "ks": "\u0633\u064e\u0644\u0648\u0648\u06cc\u0646\u0650\u06cc\u0627",
+        "sv": "Slovenien",
+        "pl": "S\u0142owenia",
+        "nb": "Slovenia",
+        "sh": "Slovenija",
+        "lu": "Siloveni",
+        "nl": "Sloveni\u00eb",
+        "ky": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "bn": "\u09b8\u09cd\u09b2\u09cb\u09ad\u09be\u09a8\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0633\u0644\u0648\u06cc\u0646\u06cc\u0627",
+        "gd": "An t-Sl\u00f2bhain",
+        "cs": "Slovinsko",
+        "tk": "Sloweni\u00fda",
+        "eo": "Slovenujo",
+        "mt": "is-Slovenja",
+        "sr": "Slovenija",
+        "wo": "Esloweni",
+        "el": "\u03a3\u03bb\u03bf\u03b2\u03b5\u03bd\u03af\u03b1",
+        "sn": "Slovenia",
+        "yi": "\u05e1\u05dc\u05d0\u05d5\u05d5\u05e2\u05e0\u05d9\u05e2",
+        "is": "Sl\u00f3ven\u00eda",
+        "ta": "\u0bb8\u0bcd\u0bb2\u0bcb\u0bb5\u0bc7\u0ba9\u0bbf\u0baf\u0bbe",
+        "br": "Slovenia",
+        "hu": "Szlov\u00e9nia",
+        "et": "Sloveenia",
+        "ku": "Slovenya",
+        "sk": "Slovinsko",
+        "sw": "Slovenia",
+        "te": "\u0c38\u0c4d\u0c32\u0c4b\u0c35\u0c47\u0c28\u0c3f\u0c2f\u0c3e",
+        "ro": "Slovenia",
+        "ki": "Slovenia",
+        "ak": "Slovinia",
+        "tg": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "ml": "\u0d38\u0d4d\u0d32\u0d4b\u0d35\u0d47\u0d28\u0d3f\u0d2f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Silofania",
+        "de": "Slowenien",
+        "as": "\u09b6\u09cd\u09b2\u09cb\u09ad\u09c7\u09a8\u09bf\u09af\u09bc\u09be",
+        "am": "\u1235\u120e\u126c\u1292\u12eb",
+        "se": "Slovenia",
+        "ia": "Slovenia",
+        "ti": "\u1235\u120e\u126c\u1292\u12eb",
+        "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "ga": "an tSl\u00f3iv\u00e9in",
+        "bg": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "my": "\u1006\u101c\u102d\u102f\u1017\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Sloveni\u00eb",
+        "bm": "Sloveni",
+        "gu": "\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0aa8\u0abf\u0aaf\u0abe",
+        "uz": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "cy": "Slofenia",
+        "ug": "\u0633\u0649\u0644\u0648\u06cb\u06d0\u0646\u0649\u064a\u06d5",
+        "nn": "Slovenia",
+        "uk": "\u0421\u043b\u043e\u0432\u0435\u043d\u0456\u044f",
+        "qu": "Eslovenia",
+        "tl": "Slovenia",
+        "ms": "Slovenia",
+        "so": "Islofeeniya",
+        "da": "Slovenien",
+        "tt": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "af": "Sloweni\u00eb",
+        "ha": "Sulobeniya",
+        "iw": "\u05e1\u05dc\u05d5\u05d1\u05e0\u05d9\u05d4",
+        "ee": "Slovenia nutome",
+        "in": "Slovenia",
+        "to": "Sil\u014dvenia",
+        "sl": "Slovenija",
+        "sg": "Soloven\u00efi",
+        "lb": "Slowenien",
+        "fo": "Slovenia",
+        "mn": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438",
+        "id": "Slovenia",
+        "pa": "\u0a38\u0a32\u0a4b\u0a35\u0a47\u0a28\u0a40\u0a06",
+        "ka": "\u10e1\u10da\u10dd\u10d5\u10d4\u10dc\u10d8\u10d0",
+        "nd": "Slovenia"
     },
-    "ISO3166-2": {
-        "001": {
-            "name": "Municipality of Ajdov\u0161\u010dina",
-            "code": "001",
-            "names": {
-                "geonames": "Ajdovscina",
-                "ru": "\u0410\u0439\u0434\u043e\u0432\u0448\u0447\u0438\u043d\u0430",
-                "en": "Municipality of Ajdov\u0161\u010dina",
-                "de": "Ajdov\u0161\u010dina",
-                "fr": "Ajdov\u0161\u010dina",
-                "it": "Aidussina",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8869154,
-            "lng": 13.909785100000022
-        },
-        "002": {
-            "name": "Municipality of Beltinci",
-            "code": "002",
-            "names": {
-                "geonames": "Beltinci",
-                "ru": "\u0411\u0435\u043b\u0442\u0438\u043d\u0438\u0446\u0438",
-                "en": "Municipality of Beltinci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6079091,
-            "lng": 16.23650870000006
-        },
-        "003": {
-            "name": "Municipality of Bled",
-            "code": "003",
-            "names": {
-                "geonames": "Bled",
-                "ru": "\u0411\u043b\u0435\u0434",
-                "en": "Municipality of Bled"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3666862,
-            "lng": 14.108510600000045
-        },
-        "004": {
-            "name": "Municipality of Bohinj",
-            "code": "004",
-            "names": {
-                "geonames": "Bohinj",
-                "ru": "\u0411\u043e\u0445\u0438\u043d\u044c",
-                "en": "Municipality of Bohinj",
-                "it": "Bohinj"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2711111,
-            "lng": 13.951944400000002
-        },
-        "005": {
-            "name": "Municipality of Borovnica",
-            "code": "005",
-            "names": {
-                "geonames": "Borovnica",
-                "ru": "\u0411\u043e\u0440\u043e\u0432\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Borovnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9177338,
-            "lng": 14.36429279999993
-        },
-        "006": {
-            "name": "Municipality of Bovec",
-            "code": "006",
-            "names": {
-                "geonames": "Bovec",
-                "ru": "\u0411\u043e\u0432\u0435\u0446",
-                "en": "Municipality of Bovec"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3379824,
-            "lng": 13.552450000000022
-        },
-        "007": {
-            "name": "Municipality of Brda",
-            "code": "007",
-            "names": {
-                "geonames": "Brda",
-                "ru": "\u0411\u0440\u0434\u0430",
-                "en": "Municipality of Brda",
-                "de": "Brda",
-                "es": "Brda",
-                "fr": "Brda",
-                "it": "Collio",
-                "zh": "\u5e03\u723e\u9054"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9977778,
-            "lng": 13.528611100000035
-        },
-        "008": {
-            "name": "Municipality of Brezovica",
-            "code": "008",
-            "names": {
-                "geonames": "Brezovica",
-                "ru": "\u0411\u0440\u0435\u0437\u043e\u0432\u0438\u0446\u0430",
-                "en": "Municipality of Brezovica",
-                "de": "Brezovica",
-                "fr": "Brezovica",
-                "it": "Brezovica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0206583,
-            "lng": 14.417761100000007
-        },
-        "009": {
-            "name": "Municipality of Bre\u017eice",
-            "code": "009",
-            "names": {
-                "geonames": "Brezice",
-                "ru": "\u0411\u0440\u0435\u0436\u0438\u0446\u0435",
-                "en": "Municipality of Bre\u017eice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.906714,
-            "lng": 15.591668000000027
-        },
-        "010": {
-            "name": "Ti\u0161ina",
-            "code": "010",
-            "names": {
-                "geonames": "Tisina",
-                "ru": "\u0422\u0438\u0448\u0438\u043d\u0430",
-                "en": "Ti\u0161ina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6538417,
-            "lng": 16.085632300000043
-        },
-        "011": {
-            "name": "City Municipality of Celje",
-            "code": "011",
-            "names": {
-                "geonames": "Celje",
-                "ru": "\u0426\u0435\u043b\u044c\u0435",
-                "en": "City Municipality of Celje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.231018,
-            "lng": 15.260293600000068
-        },
-        "012": {
-            "name": "Municipality of Cerklje na Gorenjskem",
-            "code": "012",
-            "names": {
-                "geonames": "Cerklje na Gorenjskem",
-                "ru": "\u0426\u0435\u0440\u043a\u043b\u044c\u0435 \u043d\u0430 \u0413\u043e\u0440\u0435\u043d\u044c\u0441\u043a\u0435\u043c",
-                "en": "Municipality of Cerklje na Gorenjskem",
-                "de": "Cerklje na Gorenjskem",
-                "fr": "Cerklje na Gorenjskem",
-                "it": "Cerklje na Gorenjskem"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2532914,
-            "lng": 14.48721839999996
-        },
-        "013": {
-            "name": "Municipality of Cerknica",
-            "code": "013",
-            "names": {
-                "geonames": "Cerknica",
-                "ru": "\u0426\u0435\u0440\u043a\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Cerknica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7954372,
-            "lng": 14.36219410000001
-        },
-        "014": {
-            "name": "Municipality of Cerkno",
-            "code": "014",
-            "names": {
-                "geonames": "Cerkno",
-                "ru": "\u0426\u0435\u0440\u043a\u043d\u043e",
-                "en": "Municipality of Cerkno",
-                "it": "Circhina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1288887,
-            "lng": 13.98959979999995
-        },
-        "015": {
-            "name": "Municipality of \u010cren\u0161ovci",
-            "code": "015",
-            "names": {
-                "geonames": "Crensovci",
-                "ru": "\u0427\u0435\u0440\u043d\u0448\u043e\u0432\u0438\u0446\u0438",
-                "en": "Municipality of \u010cren\u0161ovci",
-                "de": "\u010cren\u0161ovci",
-                "fr": "\u010cren\u0161ovci",
-                "it": "\u010cren\u0161ovci",
-                "zh": "\u5947\u502b\u7d39\u592b\u9f4a"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5752859,
-            "lng": 16.289483399999995
-        },
-        "016": {
-            "name": "Municipality of \u010crna na Koro\u0161kem",
-            "code": "016",
-            "names": {
-                "geonames": "Crna na Koroskem",
-                "ru": "\u0427\u0440\u043d\u0430 \u043d\u0430 \u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c",
-                "en": "Municipality of \u010crna na Koro\u0161kem",
-                "de": "\u010crna na Koro\u0161kem",
-                "fr": "\u010crna na Koro\u0161kem",
-                "it": "\u010crna na Koro\u0161kem"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4708718,
-            "lng": 14.850492499999973
-        },
-        "017": {
-            "name": "Municipality of \u010crnomelj",
-            "code": "017",
-            "names": {
-                "geonames": "Crnomelj",
-                "ru": "\u0427\u0440\u043d\u043e\u043c\u0435\u043b\u044c",
-                "en": "Municipality of \u010crnomelj"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5727873,
-            "lng": 15.183541200000036
-        },
-        "018": {
-            "name": "Municipality of Destrnik",
-            "code": "018",
-            "names": {
-                "geonames": "Destrnik",
-                "ru": "\u0414\u0435\u0441\u0442\u0440\u043d\u0438\u043a",
-                "en": "Municipality of Destrnik",
-                "de": "Destrnik",
-                "fr": "Destrnik",
-                "it": "Destrnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4926493,
-            "lng": 15.876030700000001
-        },
-        "019": {
-            "name": "Municipality of Diva\u010da",
-            "code": "019",
-            "names": {
-                "geonames": "Divaca",
-                "ru": "\u0414\u0438\u0432\u0430\u0447\u0430",
-                "en": "Municipality of Diva\u010da"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.6815976,
-            "lng": 13.968624800000043
-        },
-        "020": {
-            "name": "Municipality of Dobrepolje",
-            "code": "020",
-            "names": {
-                "geonames": "Dobrepolje",
-                "ru": "\u0414\u043e\u0431\u0440\u0435\u043f\u043e\u043b\u044c\u0435",
-                "en": "Municipality of Dobrepolje",
-                "de": "Dobrepolje",
-                "fr": "Dobrepolje",
-                "it": "Dobrepolje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.85,
-            "lng": 14.700000000000045
-        },
-        "021": {
-            "name": "Municipality of Dobrova\u2013Polhov Gradec",
-            "code": "021",
-            "names": {
-                "geonames": "Dobrova-Horjul-Polhov Gradec",
-                "ru": "\u0414\u043e\u0431\u0440\u043e\u0432\u0430-\u041f\u043e\u043b\u0445\u043e\u0432 \u0413\u0440\u0430\u0434\u0435\u0446",
-                "en": "Municipality of Dobrova",
-                "de": "Dobrova-Polhov Gradec",
-                "fr": "Dobrova-Polhov Gradec",
-                "it": "Dobrova-Polhov Gradec"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0530102,
-            "lng": 14.417386699999952
-        },
-        "022": {
-            "name": "Municipality of Dol pri Ljubljani",
-            "code": "022",
-            "names": {
-                "geonames": "Dol pri Ljubljani",
-                "ru": "\u0414\u043e\u043b \u043f\u0440\u0438 \u041b\u044e\u0431\u043b\u044f\u043d\u0438",
-                "en": "Municipality of Dol pri Ljubljani",
-                "de": "Dol pri Ljubljani",
-                "fr": "Dol pri Ljubljani",
-                "it": "Dol pri Ljubljani"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0976409,
-            "lng": 14.692453099999966
-        },
-        "023": {
-            "name": "Municipality of Dom\u017eale",
-            "code": "023",
-            "names": {
-                "geonames": "Domzale",
-                "ru": "\u0414\u043e\u043c\u0436\u0430\u043b\u0435",
-                "en": "Municipality of Dom\u017eale"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1378807,
-            "lng": 14.593841500000053
-        },
-        "024": {
-            "name": "Municipality of Dornava",
-            "code": "024",
-            "names": {
-                "geonames": "Dornava",
-                "ru": "\u0414\u0440\u043e\u0432\u043d\u0430",
-                "en": "Municipality of Dornava",
-                "de": "Dornava",
-                "fr": "Dornava",
-                "it": "Dornava",
-                "zh": "\u591a\u723e\u7d0d\u74e6"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4352901,
-            "lng": 15.954785799999968
-        },
-        "025": {
-            "name": "Municipality of Dravograd",
-            "code": "025",
-            "names": {
-                "geonames": "Dravograd",
-                "ru": "\u0414\u0440\u0430\u0432\u043e\u0433\u0440\u0430\u0434",
-                "en": "Municipality of Dravograd"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.590269,
-            "lng": 15.017604800000072
-        },
-        "026": {
-            "name": "Municipality of Duplek",
-            "code": "026",
-            "names": {
-                "geonames": "Duplek",
-                "ru": "\u0414\u0443\u043f\u043b\u0435\u043a",
-                "en": "Municipality of Duplek",
-                "de": "Duplek",
-                "fr": "Duplek",
-                "it": "Duplek"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5166667,
-            "lng": 15.766666699999973
-        },
-        "027": {
-            "name": "Municipality of Gorenja Vas\u2013Poljane",
-            "code": "027",
-            "names": {
-                "geonames": "Gorenja Vas-Poljane",
-                "ru": "\u0413\u043e\u0440\u0435\u043d\u044c\u044f \u0412\u0430\u0441-\u041f\u043e\u043b\u044f\u043d\u0435",
-                "en": "Municipality of Gorenja Vas",
-                "de": "Gorenja vas-Poljane",
-                "fr": "Gorenja vas-Poljane",
-                "it": "Gorenja vas-Poljane"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1029807,
-            "lng": 14.140930400000002
-        },
-        "028": {
-            "name": "Municipality of Gori\u0161nica",
-            "code": "028",
-            "names": {
-                "geonames": "Gorisnica",
-                "ru": "\u0413\u043e\u0440\u0438\u0448\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Gori\u0161nica",
-                "de": "Gori\u0161nica",
-                "fr": "Gori\u0161nica",
-                "it": "Gori\u0161nica",
-                "zh": "\u6208\u91cc\u4ec0\u5c3c\u5bdf"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4082484,
-            "lng": 16.01298529999997
-        },
-        "029": {
-            "name": "Municipality of Gornja Radgona",
-            "code": "029",
-            "names": {
-                "geonames": "Gornja Radgona",
-                "ru": "\u0413\u043e\u0440\u043d\u044c\u044f \u0420\u0430\u0434\u0433\u043e\u043d\u0430",
-                "en": "Municipality of Gornja Radgona"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.676625,
-            "lng": 15.991160300000047
-        },
-        "030": {
-            "name": "Municipality of Gornji Grad",
-            "code": "030",
-            "names": {
-                "geonames": "Gornji Grad",
-                "ru": "\u0413\u043e\u0440\u043d\u044c\u0438 \u0413\u0440\u0430\u0434",
-                "en": "Municipality of Gornji Grad"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2962202,
-            "lng": 14.806298100000049
-        },
-        "031": {
-            "name": "Municipality of Gornji Petrovci",
-            "code": "031",
-            "names": {
-                "geonames": "Gornji Petrovci",
-                "ru": "\u0413\u043e\u0440\u043d\u044c\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0446\u0438",
-                "en": "Municipality of Gornji Petrovci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.8036323,
-            "lng": 16.21928509999998
-        },
-        "032": {
-            "name": "Municipality of Grosuplje",
-            "code": "032",
-            "names": {
-                "geonames": "Grosuplje",
-                "ru": "\u0413\u0440\u043e\u0441\u0443\u043f\u043b\u044c\u0435",
-                "en": "Municipality of Grosuplje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9567846,
-            "lng": 14.659297199999969
-        },
-        "033": {
-            "name": "\u0160alovci",
-            "code": "033",
-            "names": {
-                "geonames": "Salovci",
-                "ru": "\u0428\u0430\u043b\u043e\u0432\u0446\u0438",
-                "en": "\u0160alovci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.8444986,
-            "lng": 16.268826799999943
-        },
-        "034": {
-            "name": "Municipality of Hrastnik",
-            "code": "034",
-            "names": {
-                "geonames": "Hrastnik",
-                "ru": "\u0425\u0440\u0430\u0441\u0442\u043d\u0438\u043a",
-                "en": "Municipality of Hrastnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1463734,
-            "lng": 15.084632899999974
-        },
-        "035": {
-            "name": "Hrpelje-Kozina",
-            "code": "035",
-            "names": {
-                "geonames": "Hrpelje-Kozina",
-                "ru": "\u0425\u0440\u043f\u0435\u043b\u044c\u0435-\u041a\u043e\u0437\u0438\u043d\u0430",
-                "en": "Hrpelje-Kozina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.6069523,
-            "lng": 13.94337070000006
-        },
-        "036": {
-            "name": "Municipality of Idrija",
-            "code": "036",
-            "names": {
-                "geonames": "Idrija",
-                "ru": "\u0418\u0434\u0440\u0438\u044f",
-                "en": "Municipality of Idrija"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0029286,
-            "lng": 14.027864200000067
-        },
-        "037": {
-            "name": "Municipality of Ig",
-            "code": "037",
-            "names": {
-                "geonames": "Ig",
-                "ru": "\u0418\u0433",
-                "en": "Municipality of Ig",
-                "de": "Ig",
-                "fr": "Ig",
-                "it": "Ig"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9586223,
-            "lng": 14.527230400000008
-        },
-        "038": {
-            "name": "Municipality of Ilirska Bistrica",
-            "code": "038",
-            "names": {
-                "geonames": "Ilirska Bistrica",
-                "ru": "\u0418\u043b\u0438\u0440\u0441\u043a\u0430-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
-                "en": "Municipality of Ilirska Bistrica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5791323,
-            "lng": 14.280972900000052
-        },
-        "039": {
-            "name": "Ivan\u010dna Gorica",
-            "code": "039",
-            "names": {
-                "geonames": "Ivancna Gorica",
-                "ru": "\u0418\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u0430",
-                "en": "Ivan\u010dna Gorica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9384473,
-            "lng": 14.80510090000007
-        },
-        "040": {
-            "name": "Izola",
-            "code": "040",
-            "names": {
-                "geonames": "Izola-Isola",
-                "ru": "\u0418\u0437\u043e\u043b\u0430",
-                "en": "Izola"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5429828,
-            "lng": 13.686284200000046
-        },
-        "041": {
-            "name": "Municipality of Jesenice",
-            "code": "041",
-            "names": {
-                "geonames": "Jesenice",
-                "ru": "\u0415\u0441\u0435\u043d\u0438\u0446\u0435",
-                "en": "Municipality of Jesenice",
-                "de": "Jesenice",
-                "es": "Jesenice",
-                "fr": "Jesenice",
-                "it": "Jesenice",
-                "zh": "\u8036\u585e\u5c3c\u91c7"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4364207,
-            "lng": 14.055697399999985
-        },
-        "042": {
-            "name": "Jur\u0161inci",
-            "code": "042",
-            "names": {
-                "geonames": "Jursinci",
-                "ru": "\u042e\u0440\u0448\u0438\u043d\u0446\u0438",
-                "en": "Jur\u0161inci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4851219,
-            "lng": 15.97114780000004
-        },
-        "043": {
-            "name": "Municipality of Kamnik",
-            "code": "043",
-            "names": {
-                "geonames": "Kamnik",
-                "ru": "\u041a\u0430\u043c\u043d\u0438\u043a",
-                "en": "Municipality of Kamnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2258314,
-            "lng": 14.61169510000002
-        },
-        "044": {
-            "name": "Kanal",
-            "code": "044",
-            "names": {
-                "geonames": "Kanal",
-                "ru": "\u041a\u0430\u043d\u0430\u043b",
-                "en": "Kanal"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0864703,
-            "lng": 13.634685900000022
-        },
-        "045": {
-            "name": "Municipality of Kidri\u010devo",
-            "code": "045",
-            "names": {
-                "geonames": "Kidricevo",
-                "ru": "\u041a\u0438\u0434\u0440\u0438\u0447\u0435\u0432\u043e",
-                "en": "Municipality of Kidri\u010devo",
-                "de": "Kidri\u010devo",
-                "fr": "Kidri\u010devo",
-                "it": "Kidri\u010devo",
-                "zh": "\u57fa\u5fb7\u91cc\u5207\u6c83"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3876152,
-            "lng": 15.801058799999964
-        },
-        "046": {
-            "name": "Municipality of Kobarid",
-            "code": "046",
-            "names": {
-                "geonames": "Kobarid",
-                "ru": "\u041a\u043e\u0431\u0430\u0440\u0438\u0434",
-                "en": "Municipality of Kobarid"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.247653,
-            "lng": 13.579116999999997
-        },
-        "047": {
-            "name": "Kobilje",
-            "code": "047",
-            "names": {
-                "geonames": "Kobilje",
-                "ru": "\u041a\u043e\u0431\u0438\u043b\u044c\u0435",
-                "en": "Kobilje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.683008,
-            "lng": 16.388528800000017
-        },
-        "048": {
-            "name": "Municipality of Ko\u010devje",
-            "code": "048",
-            "names": {
-                "geonames": "Kocevje",
-                "ru": "\u041a\u043e\u0447\u0435\u0432\u044c\u0435",
-                "en": "Municipality of Ko\u010devje",
-                "de": "Ko\u010devje",
-                "es": "Ko\u010devje",
-                "fr": "Ko\u010devje",
-                "it": "Ko\u010devje",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.639196,
-            "lng": 14.864756299999954
-        },
-        "049": {
-            "name": "Municipality of Komen",
-            "code": "049",
-            "names": {
-                "geonames": "Komen",
-                "ru": "\u041a\u043e\u043c\u0435\u043d",
-                "en": "Municipality of Komen"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8166349,
-            "lng": 13.745314699999994
-        },
-        "050": {
-            "name": "Koper",
-            "code": "050",
-            "names": {
-                "geonames": "Koper-Capodistria",
-                "ru": "\u041a\u043e\u043f\u0435\u0440",
-                "en": "Koper"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5391667,
-            "lng": 13.738333300000022
-        },
-        "051": {
-            "name": "Kozje",
-            "code": "051",
-            "names": {
-                "geonames": "Kozje",
-                "ru": "\u041a\u043e\u0437\u044c\u0435",
-                "en": "Kozje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.071733,
-            "lng": 15.55596879999996
-        },
-        "052": {
-            "name": "Kranj",
-            "code": "052",
-            "names": {
-                "geonames": "Kranj",
-                "ru": "\u041a\u0440\u0430\u043d\u044c",
-                "en": "Kranj"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2392066,
-            "lng": 14.35565429999997
-        },
-        "053": {
-            "name": "Municipality of Kranjska Gora",
-            "code": "053",
-            "names": {
-                "geonames": "Kranjska Gora",
-                "ru": "\u041a\u0440\u0430\u043d\u044c\u0441\u043a\u0430-\u0413\u043e\u0440\u0430",
-                "en": "Municipality of Kranjska Gora",
-                "de": "Kranjska Gora",
-                "es": "Kranjska Gora",
-                "fr": "Kranjska Gora",
-                "it": "Kranjska Gora",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4859833,
-            "lng": 13.789816400000063
-        },
-        "054": {
-            "name": "Municipality of Kr\u0161ko",
-            "code": "054",
-            "names": {
-                "geonames": "Krsko",
-                "ru": "\u041a\u0440\u0448\u043a\u043e",
-                "en": "Municipality of Kr\u0161ko"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9592412,
-            "lng": 15.491847000000007
-        },
-        "055": {
-            "name": "Municipality of Kungota",
-            "code": "055",
-            "names": {
-                "geonames": "Kungota",
-                "ru": "\u041a\u0443\u043d\u0433\u043e\u0442\u0430",
-                "en": "Municipality of Kungota",
-                "de": "Kungota",
-                "fr": "Kungota",
-                "it": "Kungota",
-                "zh": "\u6606\u6208\u5854"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6453964,
-            "lng": 15.57837829999994
-        },
-        "056": {
-            "name": "Kuzma",
-            "code": "056",
-            "names": {
-                "geonames": "Kuzma",
-                "ru": "\u041a\u0443\u0437\u043c\u0430",
-                "en": "Kuzma"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.8343637,
-            "lng": 16.081556500000033
-        },
-        "057": {
-            "name": "Municipality of La\u0161ko",
-            "code": "057",
-            "names": {
-                "geonames": "Lasko",
-                "ru": "\u041b\u0430\u0448\u043a\u043e",
-                "en": "Municipality of La\u0161ko",
-                "de": "La\u0161ko",
-                "es": "La\u0161ko",
-                "fr": "La\u0161ko",
-                "it": "La\u0161ko",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1542535,
-            "lng": 15.235997699999984
-        },
-        "058": {
-            "name": "Municipality of Lenart",
-            "code": "058",
-            "names": {
-                "geonames": "Lenart",
-                "ru": "\u041b\u0435\u043d\u0442\u0430\u0440",
-                "en": "Municipality of Lenart",
-                "de": "Lenart",
-                "es": "Lenart",
-                "fr": "Lenart",
-                "it": "Lenart"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5741667,
-            "lng": 15.832222199999933
-        },
-        "059": {
-            "name": "Lendava",
-            "code": "059",
-            "names": {
-                "geonames": "Lendava-Lendva",
-                "ru": "\u041b\u0435\u043d\u0434\u0430\u0432\u0430",
-                "en": "Lendava"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5618398,
-            "lng": 16.45484239999996
-        },
-        "060": {
-            "name": "Litija",
-            "code": "060",
-            "names": {
-                "geonames": "Litija",
-                "ru": "\u041b\u0438\u0442\u0438\u044f",
-                "en": "Litija",
-                "de": "Litija",
-                "fr": "Litija",
-                "it": "Litija",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0581447,
-            "lng": 14.827769999999987
-        },
-        "061": {
-            "name": "City Municipality of Ljubljana",
-            "code": "061",
-            "names": {
-                "geonames": "Ljubljana",
-                "ru": "\u041b\u044e\u0431\u043b\u044f\u043d\u0430",
-                "en": "City Municipality of Ljubljana"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0514263,
-            "lng": 14.505965500000002
-        },
-        "062": {
-            "name": "Ljubno",
-            "code": "062",
-            "names": {
-                "geonames": "Ljubno",
-                "ru": "\u041b\u044e\u0431\u043d\u043e",
-                "en": "Ljubno"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3718998,
-            "lng": 14.837151100000028
-        },
-        "063": {
-            "name": "Municipality of Ljutomer",
-            "code": "063",
-            "names": {
-                "geonames": "Ljutomer",
-                "ru": "\u041b\u044e\u0442\u043e\u043c\u0435\u0440",
-                "en": "Municipality of Ljutomer",
-                "de": "Ljutomer",
-                "fr": "Ljutomer",
-                "it": "Ljutomer",
-                "zh": "\u67f3\u6258\u6885\u723e"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.51837,
-            "lng": 16.196279900000036
-        },
-        "064": {
-            "name": "Municipality of Logatec",
-            "code": "064",
-            "names": {
-                "geonames": "Logatec",
-                "ru": "\u041b\u043e\u0433\u0430\u0442\u0435\u0446",
-                "en": "Municipality of Logatec",
-                "de": "Logatec",
-                "fr": "Logatec",
-                "it": "Logatec",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.911864,
-            "lng": 14.205880200000024
-        },
-        "065": {
-            "name": "Municipality of Lo\u0161ka Dolina",
-            "code": "065",
-            "names": {
-                "geonames": "Loska Dolina",
-                "ru": "\u041b\u043e\u0448\u043a\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
-                "en": "Municipality of Lo\u0161ka Dolina",
-                "de": "Lo\u0161ka Dolina",
-                "fr": "Lo\u0161ka Dolina",
-                "it": "Lo\u0161ka Dolina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7122222,
-            "lng": 14.428333299999963
-        },
-        "066": {
-            "name": "Municipality of Lo\u0161ki Potok",
-            "code": "066",
-            "names": {
-                "geonames": "Loski Potok",
-                "ru": "\u041b\u043e\u0448\u043a\u0438\u0439 \u041f\u043e\u0442\u043e\u043a",
-                "en": "Municipality of Lo\u0161ki Potok",
-                "de": "Lo\u0161ki Potok",
-                "fr": "Lo\u0161ki Potok",
-                "it": "Lo\u0161ki Potok"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.664967,
-            "lng": 14.662226499999974
-        },
-        "067": {
-            "name": "Lu\u010de",
-            "code": "067",
-            "names": {
-                "geonames": "Luce",
-                "ru": "\u041b\u0443\u0447\u0435",
-                "en": "Lu\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3547354,
-            "lng": 14.744776600000023
-        },
-        "068": {
-            "name": "Municipality of Lukovica",
-            "code": "068",
-            "names": {
-                "geonames": "Lukovica",
-                "ru": "\u041b\u0443\u043a\u043e\u0432\u0438\u0446\u0430",
-                "en": "Municipality of Lukovica",
-                "de": "Lukovica",
-                "fr": "Lukovica",
-                "it": "Lukovica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1666667,
-            "lng": 14.700000000000045
-        },
-        "069": {
-            "name": "Municipality of Maj\u0161perk",
-            "code": "069",
-            "names": {
-                "geonames": "Majsperk",
-                "ru": "\u041c\u044f\u0448\u043f\u0435\u0440\u043a",
-                "en": "Municipality of Maj\u0161perk",
-                "de": "Maj\u0161perk",
-                "fr": "Maj\u0161perk",
-                "it": "Maj\u0161perk",
-                "zh": "\u99ac\u4f0a\u4ec0\u4f69\u514b"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3504305,
-            "lng": 15.73418659999993
-        },
-        "070": {
-            "name": "City Municipality of Maribor",
-            "code": "070",
-            "names": {
-                "geonames": "Maribor",
-                "ru": "\u041c\u0430\u0440\u0438\u0431\u043e\u0440",
-                "en": "City Municipality of Maribor"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5506496,
-            "lng": 15.62054390000003
-        },
-        "071": {
-            "name": "Medvode",
-            "code": "071",
-            "names": {
-                "geonames": "Medvode",
-                "ru": "\u041c\u0435\u0434\u0432\u043e\u0434\u0435",
-                "en": "Medvode"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1403981,
-            "lng": 14.41265670000007
-        },
-        "072": {
-            "name": "Municipality of Menge\u0161",
-            "code": "072",
-            "names": {
-                "geonames": "Menges",
-                "ru": "\u041c\u0435\u043d\u0433\u0435\u0448",
-                "en": "Municipality of Menge\u0161",
-                "de": "Menge\u0161",
-                "fr": "Menge\u0161",
-                "it": "Menge\u0161",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1639302,
-            "lng": 14.571179900000061
-        },
-        "073": {
-            "name": "Metlika",
-            "code": "073",
-            "names": {
-                "geonames": "Metlika",
-                "ru": "\u041c\u0435\u0442\u0435\u043b\u0438\u043a\u0430",
-                "en": "Metlika"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.6480221,
-            "lng": 15.294832499999984
-        },
-        "074": {
-            "name": "Me\u017eica",
-            "code": "074",
-            "names": {
-                "geonames": "Mezica",
-                "ru": "\u041c\u0435\u0436\u0438\u0446\u0430",
-                "en": "Me\u017eica",
-                "de": "Me\u017eica",
-                "fr": "Me\u017eica",
-                "it": "Me\u017eica",
-                "zh": "\u6885\u65e5\u5bdf"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5286515,
-            "lng": 14.840218499999992
-        },
-        "075": {
-            "name": "Miren-Kostanjevica",
-            "code": "075",
-            "names": {
-                "geonames": "Miren-Kostanjevica",
-                "ru": "\u041c\u0438\u0440\u0435\u043d-\u041a\u043e\u0441\u0442\u0430\u043d\u044c\u0435\u0432\u0438\u0446\u0430",
-                "en": "Miren-Kostanjevica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.85,
-            "lng": 13.633333300000004
-        },
-        "076": {
-            "name": "Mislinja",
-            "code": "076",
-            "names": {
-                "geonames": "Mislinja",
-                "ru": "\u041c\u0438\u0441\u043b\u0438\u043d\u044f",
-                "en": "Mislinja"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4429539,
-            "lng": 15.198778500000003
-        },
-        "077": {
-            "name": "Morav\u010de, Morav\u010de",
-            "code": "077",
-            "names": {
-                "geonames": "Moravce",
-                "ru": "\u041c\u043e\u0440\u0430\u0432\u0446\u0435",
-                "en": "Morav\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1356766,
-            "lng": 14.744527000000062
-        },
-        "078": {
-            "name": "Municipality of Moravske Toplice",
-            "code": "078",
-            "names": {
-                "geonames": "Moravske Toplice",
-                "ru": "\u041c\u043e\u0440\u0430\u0432\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435",
-                "en": "Municipality of Moravske Toplice",
-                "de": "Moravske Toplice",
-                "fr": "Moravske Toplice",
-                "it": "Moravske Toplice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.683189,
-            "lng": 16.22106819999999
-        },
-        "079": {
-            "name": "Mozirje",
-            "code": "079",
-            "names": {
-                "geonames": "Mozirje",
-                "ru": "\u041c\u043e\u0437\u044b\u0440\u044c\u0435",
-                "en": "Mozirje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3393102,
-            "lng": 14.959977900000013
-        },
-        "080": {
-            "name": "Murska Sobota",
-            "code": "080",
-            "names": {
-                "geonames": "Murska Sobota",
-                "ru": "\u041c\u0443\u0440\u0441\u043a\u0430 \u0421\u043e\u0431\u043e\u0442\u0430",
-                "en": "Murska Sobota"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6612399,
-            "lng": 16.164903699999968
-        },
-        "081": {
-            "name": "Muta",
-            "code": "081",
-            "names": {
-                "geonames": "Muta",
-                "ru": "\u041c\u0443\u0442\u0430",
-                "en": "Muta"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6272006,
-            "lng": 15.134866299999999
-        },
-        "082": {
-            "name": "Municipality of Naklo",
-            "code": "082",
-            "names": {
-                "geonames": "Naklo",
-                "ru": "\u041d\u0430\u043a\u043b\u043e",
-                "en": "Municipality of Naklo"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2733864,
-            "lng": 14.317309799999975
-        },
-        "083": {
-            "name": "Municipality of Nazarje",
-            "code": "083",
-            "names": {
-                "geonames": "Nazarje",
-                "ru": "\u041d\u0430\u0437\u0430\u0440\u044c\u0435",
-                "en": "Municipality of Nazarje",
-                "de": "Nazarje",
-                "fr": "Nazarje",
-                "it": "Nazarje",
-                "zh": "\u7d0d\u624e\u5217"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3181226,
-            "lng": 14.949070000000006
-        },
-        "084": {
-            "name": "Nova Gorica",
-            "code": "084",
-            "names": {
-                "geonames": "Nova Gorica",
-                "ru": "\u041d\u043e\u0432\u0430-\u0413\u043e\u0440\u0438\u0446\u0430",
-                "en": "Nova Gorica",
-                "de": "Nova Gorica",
-                "es": "Nova Gorica",
-                "fr": "Nova Gorica",
-                "it": "Nova Gorica",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9563414,
-            "lng": 13.647970299999997
-        },
-        "085": {
-            "name": "City Municipality of Novo Mesto",
-            "code": "085",
-            "names": {
-                "geonames": "Novo Mesto",
-                "ru": "\u041d\u043e\u0432\u043e \u041c\u0435\u0441\u0442\u043e",
-                "en": "City Municipality of Novo Mesto"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8041957,
-            "lng": 15.169678500000032
-        },
-        "086": {
-            "name": "Odranci",
-            "code": "086",
-            "names": {
-                "geonames": "Odranci",
-                "ru": "\u041e\u0434\u0440\u0430\u043d\u0446\u0438",
-                "en": "Odranci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5862016,
-            "lng": 16.27416370000003
-        },
-        "087": {
-            "name": "Ormo\u017e",
-            "code": "087",
-            "names": {
-                "geonames": "Ormoz",
-                "ru": "\u041e\u0440\u043c\u043e\u0436",
-                "en": "Ormo\u017e",
-                "de": "Ormo\u017e",
-                "fr": "Ormo\u017e",
-                "it": "Ormo\u017e",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4072538,
-            "lng": 16.149325299999987
-        },
-        "088": {
-            "name": "Osilnica",
-            "code": "088",
-            "names": {
-                "geonames": "Osilnica",
-                "ru": "\u041e\u0441\u0438\u043b\u043d\u0438\u0446\u0430",
-                "en": "Osilnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5291879,
-            "lng": 14.698401200000035
-        },
-        "089": {
-            "name": "Municipality of Pesnica",
-            "code": "089",
-            "names": {
-                "geonames": "Pesnica",
-                "ru": "\u041f\u0435\u0441\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Pesnica",
-                "de": "Pesnica",
-                "fr": "Pesnica",
-                "it": "Pesnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.617744,
-            "lng": 15.673751000000038
-        },
-        "090": {
-            "name": "Piran",
-            "code": "090",
-            "names": {
-                "geonames": "Piran-Pirano",
-                "ru": "\u041f\u0438\u0440\u0430\u043d",
-                "en": "Piran"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5289909,
-            "lng": 13.568428600000061
-        },
-        "091": {
-            "name": "Municipality of Pivka",
-            "code": "091",
-            "names": {
-                "geonames": "Pivka",
-                "ru": "\u041f\u0438\u0432\u043a\u0430",
-                "en": "Municipality of Pivka",
-                "de": "Pivka",
-                "fr": "Pivka",
-                "it": "San Pietro del Carso",
-                "zh": "\u76ae\u592b\u5361"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.6825035,
-            "lng": 14.196016099999952
-        },
-        "092": {
-            "name": "Pod\u010detrtek",
-            "code": "092",
-            "names": {
-                "geonames": "Podcetrtek",
-                "ru": "\u041f\u043e\u0434\u0447\u0435\u0442\u0440\u0442\u0435\u043a",
-                "en": "Pod\u010detrtek"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1531427,
-            "lng": 15.597185200000013
-        },
-        "093": {
-            "name": "Podvelka",
-            "code": "093",
-            "names": {
-                "geonames": "Podvelka",
-                "ru": "\u041f\u043e\u0434\u0432\u0435\u043b\u043a\u0430",
-                "en": "Podvelka"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5895331,
-            "lng": 15.328220099999953
-        },
-        "094": {
-            "name": "Municipality of Postojna",
-            "code": "094",
-            "names": {
-                "geonames": "Postojna",
-                "ru": "\u041f\u043e\u0441\u0442\u043e\u0439\u043d\u0430",
-                "en": "Municipality of Postojna"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7750626,
-            "lng": 14.213396999999986
-        },
-        "095": {
-            "name": "Municipality of Preddvor",
-            "code": "095",
-            "names": {
-                "geonames": "Preddvor",
-                "ru": "\u041f\u0440\u0435\u0434\u0434\u0432\u043e\u0440",
-                "en": "Municipality of Preddvor",
-                "de": "Preddvor",
-                "fr": "Preddvor",
-                "it": "Preddvor"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3027405,
-            "lng": 14.42205279999996
-        },
-        "096": {
-            "name": "Ptuj",
-            "code": "096",
-            "names": {
-                "geonames": "Ptuj",
-                "ru": "\u041f\u0442\u0443\u0439",
-                "en": "Ptuj"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4199885,
-            "lng": 15.869981300000063
-        },
-        "097": {
-            "name": "Puconci",
-            "code": "097",
-            "names": {
-                "geonames": "Puconci",
-                "ru": "\u041f\u0443\u0446\u043e\u0446\u0438",
-                "en": "Puconci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.7053502,
-            "lng": 16.158648599999992
-        },
-        "098": {
-            "name": "Municipality of Ra\u010de\u2013Fram",
-            "code": "098",
-            "names": {
-                "geonames": "Race-Fram",
-                "ru": "\u0420\u0430\u0447\u0435-\u0424\u0430\u0440\u043c",
-                "en": "Municipality of Ra\u010de",
-                "de": "Ra\u010de-Fram",
-                "fr": "Ra\u010de-Fram",
-                "it": "Ra\u010de-Fram"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4521724,
-            "lng": 15.681055199999946
-        },
-        "099": {
-            "name": "Rade\u010de",
-            "code": "099",
-            "names": {
-                "geonames": "Radece",
-                "ru": "\u0420\u0430\u0434\u0435\u0447\u0435",
-                "en": "Rade\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0654994,
-            "lng": 15.182011500000044
-        },
-        "100": {
-            "name": "Radenci",
-            "code": "100",
-            "names": {
-                "geonames": "Radenci",
-                "ru": "\u0420\u0430\u0434\u0435\u043d\u0446\u0438",
-                "en": "Radenci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6419309,
-            "lng": 16.039609799999994
-        },
-        "101": {
-            "name": "Municipality of Radlje ob Dravi",
-            "code": "101",
-            "names": {
-                "geonames": "Radlje ob Dravi",
-                "ru": "\u0420\u0430\u0434\u043b\u044c\u0435 \u0443 \u0414\u0440\u0430\u0432\u0438",
-                "en": "Municipality of Radlje ob Dravi",
-                "de": "Radlje ob Dravi",
-                "fr": "Radlje ob Dravi",
-                "it": "Radlje ob Dravi"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6135732,
-            "lng": 15.235443799999985
-        },
-        "102": {
-            "name": "Municipality of Radovljica",
-            "code": "102",
-            "names": {
-                "geonames": "Radovljica",
-                "ru": "\u0420\u0430\u0434\u043e\u0432\u043b\u0438\u0446\u0430",
-                "en": "Municipality of Radovljica",
-                "de": "Radovljica",
-                "fr": "Radovljica",
-                "it": "Radovljica",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3437099,
-            "lng": 14.171845299999973
-        },
-        "103": {
-            "name": "Ravne na Koro\u0161kem",
-            "code": "103",
-            "names": {
-                "geonames": "Ravne na Koroskem",
-                "ru": "\u0420\u0430\u0432\u043d\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u0448\u043a\u0435\u043c",
-                "en": "Ravne na Koro\u0161kem"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5521194,
-            "lng": 14.959908499999983
-        },
-        "104": {
-            "name": "Municipality of Ribnica",
-            "code": "104",
-            "names": {
-                "geonames": "Ribnica",
-                "ru": "\u0420\u0438\u0431\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Ribnica",
-                "de": "Ribnica",
-                "es": "Ribnica",
-                "fr": "Ribnica",
-                "it": "Ribnica",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7386474,
-            "lng": 14.727388399999995
-        },
-        "105": {
-            "name": "Roga\u0161ovci",
-            "code": "105",
-            "names": {
-                "geonames": "Rogasovci",
-                "ru": "\u0420\u043e\u0433\u0430\u0448\u043e\u0432\u0446\u0438",
-                "en": "Roga\u0161ovci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.800617,
-            "lng": 16.02233160000003
-        },
-        "106": {
-            "name": "Roga\u0161ka Slatina",
-            "code": "106",
-            "names": {
-                "geonames": "Rogaska Slatina",
-                "ru": "\u0420\u043e\u0433\u0430\u0448\u043a\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430",
-                "en": "Roga\u0161ka Slatina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2256738,
-            "lng": 15.639352400000007
-        },
-        "107": {
-            "name": "Municipality of Rogatec",
-            "code": "107",
-            "names": {
-                "geonames": "Rogatec",
-                "ru": "\u0420\u043e\u0433\u0430\u0442\u0435\u043a",
-                "en": "Municipality of Rogatec",
-                "de": "Rogatec",
-                "fr": "Rogatec",
-                "it": "Rogatec"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2285283,
-            "lng": 15.69908399999997
-        },
-        "108": {
-            "name": "Municipality of Ru\u0161e",
-            "code": "108",
-            "names": {
-                "geonames": "Ruse",
-                "ru": "\u0420\u0443\u0448\u0435",
-                "en": "Municipality of Ru\u0161e"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5384409,
-            "lng": 15.512385300000005
-        },
-        "109": {
-            "name": "Municipality of Semi\u010d",
-            "code": "109",
-            "names": {
-                "geonames": "Semic",
-                "ru": "\u0421\u0435\u043c\u0438\u0447",
-                "en": "Municipality of Semi\u010d",
-                "de": "Semi\u010d",
-                "fr": "Semi\u010d",
-                "it": "Semi\u010d"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.6519714,
-            "lng": 15.180966799999965
-        },
-        "110": {
-            "name": "Municipality of Sevnica",
-            "code": "110",
-            "names": {
-                "geonames": "Sevnica",
-                "ru": "\u0421\u0435\u0432\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Sevnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0073877,
-            "lng": 15.304539100000056
-        },
-        "111": {
-            "name": "Municipality of Se\u017eana",
-            "code": "111",
-            "names": {
-                "geonames": "Sezana",
-                "ru": "\u0421\u0435\u0436\u0430\u043d\u0430",
-                "en": "Municipality of Se\u017eana"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7091918,
-            "lng": 13.873486800000023
-        },
-        "112": {
-            "name": "City Municipality of Slovenj Gradec",
-            "code": "112",
-            "names": {
-                "geonames": "Slovenj Gradec",
-                "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u044c \u0413\u0440\u0430\u0434\u0435\u0446",
-                "en": "City Municipality of Slovenj Gradec"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5111299,
-            "lng": 15.080321899999944
-        },
-        "113": {
-            "name": "Slovenska Bistrica",
-            "code": "113",
-            "names": {
-                "geonames": "Slovenska Bistrica",
-                "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
-                "en": "Slovenska Bistrica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3920679,
-            "lng": 15.57240999999999
-        },
-        "114": {
-            "name": "Slovenske Konjice",
-            "code": "114",
-            "names": {
-                "geonames": "Slovenska Konjice",
-                "ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0435 \u041a\u043e\u043d\u044c\u0438\u0446\u0435",
-                "en": "Slovenske Konjice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3395379,
-            "lng": 15.425592999999935
-        },
-        "115": {
-            "name": "Star\u0161e",
-            "code": "115",
-            "names": {
-                "geonames": "Starse",
-                "ru": "\u0421\u0442\u0430\u0440\u0448\u0435",
-                "en": "Star\u0161e"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": null,
-            "lng": null
-        },
-        "116": {
-            "name": "Sveti Jurij",
-            "code": "116",
-            "names": {
-                "geonames": "Sveti Jurij",
-                "ru": "\u0421\u0432\u0435\u0442\u0438 \u042e\u0440\u0438\u0439",
-                "en": "Sveti Jurij"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5683333,
-            "lng": 16.02027780000003
-        },
-        "117": {
-            "name": "Municipality of \u0160en\u010dur",
-            "code": "117",
-            "names": {
-                "geonames": "Sencur",
-                "ru": "\u0428\u0435\u043d\u0446\u0443\u0440",
-                "en": "Municipality of \u0160en\u010dur",
-                "de": "\u0160en\u010dur",
-                "fr": "\u0160en\u010dur",
-                "it": "\u0160en\u010dur"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.243243,
-            "lng": 14.41925219999996
-        },
-        "118": {
-            "name": "Municipality of \u0160entilj",
-            "code": "118",
-            "names": {
-                "geonames": "Sentilj",
-                "ru": "\u0428\u0435\u043d\u0442\u0438\u043b\u044c",
-                "en": "Municipality of \u0160entilj",
-                "de": "\u0160entilj",
-                "fr": "\u0160entilj",
-                "it": "\u0160entilj"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6791651,
-            "lng": 15.760974600000054
-        },
-        "119": {
-            "name": "\u0160entjernej",
-            "code": "119",
-            "names": {
-                "geonames": "Sentjernej",
-                "ru": "\u0428\u0435\u043d\u0442\u044c\u0435\u0440\u0435\u043d\u044c\u0435",
-                "en": "\u0160entjernej"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8404089,
-            "lng": 15.338988699999959
-        },
-        "120": {
-            "name": "\u0160entjur",
-            "code": "120",
-            "names": {
-                "geonames": "Sentjur",
-                "ru": "\u0428\u0435\u043d\u0442\u044e\u0440",
-                "en": "\u0160entjur"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2157601,
-            "lng": 15.394576599999937
-        },
-        "121": {
-            "name": "Municipality of \u0160kocjan",
-            "code": "121",
-            "names": {
-                "geonames": "Skocjan",
-                "ru": "\u0428\u043a\u043e\u0446\u044c\u044f\u043d",
-                "en": "Municipality of \u0160kocjan",
-                "de": "\u0160kocjan",
-                "fr": "\u0160kocjan",
-                "it": "\u0160kocjan"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9065981,
-            "lng": 15.291150099999982
-        },
-        "122": {
-            "name": "Municipality of \u0160kofja Loka",
-            "code": "122",
-            "names": {
-                "geonames": "Skofja Loka",
-                "ru": "\u0428\u043a\u043e\u0444\u044c\u044f \u041b\u043e\u043a\u0430",
-                "en": "Municipality of \u0160kofja Loka"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1655408,
-            "lng": 14.306607699999972
-        },
-        "123": {
-            "name": "\u0160kofljica",
-            "code": "123",
-            "names": {
-                "geonames": "Skofljica",
-                "ru": "\u0428\u043a\u043e\u0444\u043b\u044c\u0438\u0446\u0430",
-                "en": "\u0160kofljica",
-                "de": "\u0160kofljica",
-                "es": "\u0160kofljica",
-                "fr": "\u0160kofljica",
-                "it": "\u0160kofljica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9860797,
-            "lng": 14.571385700000064
-        },
-        "124": {
-            "name": "\u0160marje pri Jel\u0161ah",
-            "code": "124",
-            "names": {
-                "geonames": "Smarje pri Jelsah",
-                "ru": "\u0428\u0430\u043c\u0430\u0440\u044c\u0435 \u043f\u0440\u0438 \u0415\u043b\u044c\u0448\u0430\u0445",
-                "en": "\u0160marje pri Jel\u0161ah"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2287041,
-            "lng": 15.519010200000025
-        },
-        "125": {
-            "name": "\u0160martno ob Paki",
-            "code": "125",
-            "names": {
-                "geonames": "Smartno ob Paki",
-                "ru": "\u0428\u043c\u0430\u0440\u0442\u043d\u043e \u0443 \u041f\u0430\u043a\u0438",
-                "en": "\u0160martno ob Paki"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3291081,
-            "lng": 15.033157800000026
-        },
-        "126": {
-            "name": "Municipality of \u0160o\u0161tanj",
-            "code": "126",
-            "names": {
-                "geonames": "Sostanj",
-                "ru": "\u0428\u043e\u0448\u0442\u0430\u043d\u044c\u0438",
-                "en": "Municipality of \u0160o\u0161tanj",
-                "de": "\u0160o\u0161tanj",
-                "fr": "\u0160o\u0161tanj",
-                "it": "\u0160o\u0161tanj",
-                "zh": "\u7d39\u4ec0\u5854\u5c3c"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.379495,
-            "lng": 15.048290700000052
-        },
-        "127": {
-            "name": "\u0160tore",
-            "code": "127",
-            "names": {
-                "geonames": "Store",
-                "ru": "\u0428\u0442\u043e\u0440\u0435",
-                "en": "\u0160tore"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2218038,
-            "lng": 15.310354299999972
-        },
-        "128": {
-            "name": "Municipality of Tolmin",
-            "code": "128",
-            "names": {
-                "geonames": "Tolmin",
-                "ru": "\u0422\u043e\u043b\u043c\u0438\u043d",
-                "en": "Municipality of Tolmin",
-                "de": "Tolmin",
-                "es": "Tolmin",
-                "fr": "Tolmin",
-                "it": "Tolmino",
-                "zh": "\u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.182804,
-            "lng": 13.733061200000066
-        },
-        "129": {
-            "name": "Trbovlje",
-            "code": "129",
-            "names": {
-                "geonames": "Trbovlje",
-                "ru": "\u0422\u0440\u0431\u043e\u0432\u043b\u0435",
-                "en": "Trbovlje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1594939,
-            "lng": 15.05451579999999
-        },
-        "130": {
-            "name": "Municipality of Trebnje",
-            "code": "130",
-            "names": {
-                "geonames": "Trebnje",
-                "ru": "\u0422\u0440\u0435\u0431\u043d\u044c\u0435",
-                "en": "Municipality of Trebnje",
-                "de": "Trebnje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9077066,
-            "lng": 15.005997500000035
-        },
-        "131": {
-            "name": "Tr\u017ei\u010d",
-            "code": "131",
-            "names": {
-                "geonames": "Trzic",
-                "ru": "\u0422\u0440\u0436\u0438\u0447",
-                "en": "Tr\u017ei\u010d"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3637233,
-            "lng": 14.310116999999991
-        },
-        "132": {
-            "name": "Municipality of Turni\u0161\u010de",
-            "code": "132",
-            "names": {
-                "geonames": "Turnisce",
-                "ru": "\u0422\u0443\u0440\u043d\u0438\u0448\u0447\u0435",
-                "en": "Municipality of Turni\u0161\u010de",
-                "de": "Turni\u0161\u010de",
-                "fr": "Turni\u0161\u010de",
-                "it": "Turni\u0161\u010de",
-                "zh": "\u5716\u723e\u5c3c\u4ec0\u5207"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6221324,
-            "lng": 16.31956420000006
-        },
-        "133": {
-            "name": "Velenje",
-            "code": "133",
-            "names": {
-                "geonames": "Velenje",
-                "ru": "\u0412\u0435\u043b\u0435\u043d\u044c\u0435",
-                "en": "Velenje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3587118,
-            "lng": 15.108000100000027
-        },
-        "134": {
-            "name": "Municipality of Velike La\u0161\u010de",
-            "code": "134",
-            "names": {
-                "geonames": "Velike Lasce",
-                "ru": "\u0412\u0435\u043b\u0438\u043a\u0435 \u041b\u0430\u0448\u0447\u0435",
-                "en": "Municipality of Velike La\u0161\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8337039,
-            "lng": 14.63629560000004
-        },
-        "135": {
-            "name": "Municipality of Videm",
-            "code": "135",
-            "names": {
-                "geonames": "Videm",
-                "ru": "\u0412\u0438\u0434\u0435\u043c",
-                "en": "Municipality of Videm",
-                "de": "Videm",
-                "fr": "Videm",
-                "it": "Videm"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3686111,
-            "lng": 15.906388900000024
-        },
-        "136": {
-            "name": "Municipality of Vipava",
-            "code": "136",
-            "names": {
-                "geonames": "Vipava",
-                "ru": "\u0412\u0438\u043f\u0430\u0432\u0430",
-                "en": "Municipality of Vipava"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8460932,
-            "lng": 13.962624099999971
-        },
-        "137": {
-            "name": "Vitanje",
-            "code": "137",
-            "names": {
-                "geonames": "Vitanje",
-                "ru": "\u0412\u0438\u0442\u0430\u043d\u044c\u0435",
-                "en": "Vitanje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3814328,
-            "lng": 15.295600599999943
-        },
-        "138": {
-            "name": "Vodice",
-            "code": "138",
-            "names": {
-                "geonames": "Vodice",
-                "ru": "\u0412\u043e\u0434\u0438\u0446\u0435",
-                "en": "Vodice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1908562,
-            "lng": 14.495423200000005
-        },
-        "139": {
-            "name": "Municipality of Vojnik",
-            "code": "139",
-            "names": {
-                "geonames": "Vojnik",
-                "ru": "\u0412\u043e\u0439\u043d\u0438\u043a",
-                "en": "Municipality of Vojnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2919373,
-            "lng": 15.302375999999981
-        },
-        "140": {
-            "name": "Municipality of Vrhnika",
-            "code": "140",
-            "names": {
-                "geonames": "Vrhnika",
-                "ru": "\u0412\u0440\u0445\u043d\u0438\u043a\u0430",
-                "en": "Municipality of Vrhnika"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9665107,
-            "lng": 14.298508200000015
-        },
-        "141": {
-            "name": "Vuzenica",
-            "code": "141",
-            "names": {
-                "geonames": "Vuzenica",
-                "ru": "\u0412\u0438\u0437\u0435\u043d\u0438\u0446\u0430",
-                "en": "Vuzenica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5953533,
-            "lng": 15.165847900000017
-        },
-        "142": {
-            "name": "Municipality of Zagorje ob Savi",
-            "code": "142",
-            "names": {
-                "geonames": "Zagorje ob Savi",
-                "ru": "\u0417\u0430\u0433\u043e\u0440\u044c\u0435 \u0443 \u0421\u0430\u0432\u0438",
-                "en": "Municipality of Zagorje ob Savi",
-                "es": "Zagorje ob Savi",
-                "fr": "Zagorje ob Savi",
-                "it": "Zagorje ob Savi"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1314485,
-            "lng": 14.996980200000053
-        },
-        "143": {
-            "name": "Zavr\u010d",
-            "code": "143",
-            "names": {
-                "geonames": "Zavrc",
-                "ru": "\u0417\u0430\u0432\u0440\u0438\u0447",
-                "en": "Zavr\u010d"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3860426,
-            "lng": 16.045966099999987
-        },
-        "144": {
-            "name": "Zre\u010de",
-            "code": "144",
-            "names": {
-                "geonames": "Zrece",
-                "ru": "\u0417\u0440\u0435\u0447\u0435",
-                "en": "Zre\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3696102,
-            "lng": 15.390951500000028
-        },
-        "146": {
-            "name": "Municipality of \u017delezniki",
-            "code": "146",
-            "names": {
-                "geonames": "Zelezniki",
-                "ru": "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a\u0438",
-                "en": "Municipality of \u017delezniki",
-                "de": "\u017delezniki",
-                "fr": "\u017delezniki",
-                "it": "\u017delezniki",
-                "zh": "\u71b1\u840a\u8332\u5c3c\u57fa"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2248839,
-            "lng": 14.167263300000059
-        },
-        "147": {
-            "name": "\u017diri",
-            "code": "147",
-            "names": {
-                "geonames": "Ziri",
-                "ru": "\u0416\u0438\u0440\u0438",
-                "en": "\u017diri"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0469744,
-            "lng": 14.11003489999996
-        },
-        "148": {
-            "name": "Municipality of Benedikt",
-            "code": "148",
-            "names": {
-                "geonames": "Benedikt",
-                "ru": "\u0411\u0435\u043d\u0435\u0434\u0438\u043a\u0442",
-                "en": "Municipality of Benedikt"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6077892,
-            "lng": 15.889349000000038
-        },
-        "149": {
-            "name": "Municipality of Bistrica ob Sotli",
-            "code": "149",
-            "names": {
-                "geonames": "Bistrica ob Sotli",
-                "ru": "\u0411\u044b\u0441\u0442\u0440\u0438\u0446\u0430 \u0443 \u0421\u043e\u0442\u043b\u0438",
-                "en": "Municipality of Bistrica ob Sotli",
-                "de": "Bistrica ob Sotli",
-                "fr": "Bistrica ob Sotli",
-                "it": "Bistrica ob Sotli"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.055744,
-            "lng": 15.66102109999997
-        },
-        "150": {
-            "name": "Municipality of Bloke",
-            "code": "150",
-            "names": {
-                "geonames": "Bloke",
-                "ru": "\u0411\u043b\u043e\u043a\u0435",
-                "en": "Municipality of Bloke",
-                "de": "Bloke",
-                "fr": "Bloke",
-                "it": "Bloke"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7833333,
-            "lng": 14.483333300000027
-        },
-        "151": {
-            "name": "Municipality of Braslov\u010de",
-            "code": "151",
-            "names": {
-                "geonames": "Braslovce",
-                "ru": "\u0411\u0440\u0430\u0441\u043b\u043e\u0432\u0447\u0435",
-                "en": "Municipality of Braslov\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2881266,
-            "lng": 15.039947600000005
-        },
-        "152": {
-            "name": "Municipality of Cankova",
-            "code": "152",
-            "names": {
-                "geonames": "Cankova",
-                "ru": "\u0426\u0430\u043d\u043a\u043e\u0432\u0430",
-                "en": "Municipality of Cankova"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.7181631,
-            "lng": 16.01965629999995
-        },
-        "153": {
-            "name": "Municipality of Cerkvenjak",
-            "code": "153",
-            "names": {
-                "geonames": "Cerkvenjak",
-                "ru": "\u0426\u0435\u0440\u043a\u0432\u0435\u043d\u044f\u043a",
-                "en": "Municipality of Cerkvenjak"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5674747,
-            "lng": 15.943222300000002
-        },
-        "154": {
-            "name": "Municipality of Dobje",
-            "code": "154",
-            "names": {
-                "geonames": "Dobje",
-                "ru": "\u0414\u043e\u0431\u044c\u0435",
-                "en": "Municipality of Dobje",
-                "de": "Dobje",
-                "fr": "Dobje",
-                "it": "Dobje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1369444,
-            "lng": 15.394444399999998
-        },
-        "155": {
-            "name": "Municipality of Dobrna",
-            "code": "155",
-            "names": {
-                "geonames": "Dobrna",
-                "ru": "\u0414\u043e\u0431\u0440\u043d\u0430",
-                "en": "Municipality of Dobrna",
-                "es": "Ob\u010dina Dobrna"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3583328,
-            "lng": 15.23084879999999
-        },
-        "156": {
-            "name": "Municipality of Dobrovnik",
-            "code": "156",
-            "names": {
-                "geonames": "Dobrovnik-Dobronak",
-                "ru": "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u043a",
-                "en": "Municipality of Dobrovnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6515911,
-            "lng": 16.350835899999993
-        },
-        "157": {
-            "name": "Municipality of Dolenjske Toplice",
-            "code": "157",
-            "names": {
-                "geonames": "Dolenjske Toplice",
-                "ru": "\u0414\u043e\u043b\u0435\u043d\u044c\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435",
-                "en": "Municipality of Dolenjske Toplice",
-                "de": "Dolenjske Toplice",
-                "fr": "Dolenjske Toplice",
-                "it": "Dolenjske Toplice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7568011,
-            "lng": 15.059260300000005
-        },
-        "158": {
-            "name": "Municipality of Grad",
-            "code": "158",
-            "names": {
-                "geonames": "Grad",
-                "ru": "\u0413\u0440\u0430\u0434",
-                "en": "Municipality of Grad",
-                "de": "Grad",
-                "fr": "Grad",
-                "it": "Grad"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.8023608,
-            "lng": 16.092084399999976
-        },
-        "159": {
-            "name": "Municipality of Hajdina",
-            "code": "159",
-            "names": {
-                "geonames": "Hajdina",
-                "ru": "\u0425\u044f\u0434\u0438\u043d\u0430",
-                "en": "Municipality of Hajdina",
-                "de": "Hajdina",
-                "fr": "Hajdina",
-                "it": "Hajdina"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4185014,
-            "lng": 15.824472199999946
-        },
-        "160": {
-            "name": "Municipality of Ho\u010de\u2013Slivnica",
-            "code": "160",
-            "names": {
-                "geonames": "Hoce-Slivnica",
-                "ru": "\u0425\u043e\u0447\u0435-\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430",
-                "en": "Municipality of Ho\u010de",
-                "de": "Ho\u010de-Slivnica",
-                "fr": "Ho\u010de-Slivnica",
-                "it": "Ho\u010de-Slivnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4833333,
-            "lng": 15.66666669999995
-        },
-        "161": {
-            "name": "Municipality of Hodo\u0161",
-            "code": "161",
-            "names": {
-                "geonames": "Hodos-Hodos",
-                "ru": "\u0425\u043e\u0434\u043e\u0441",
-                "en": "Municipality of Hodo\u0161"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.8225164,
-            "lng": 16.326308899999958
-        },
-        "162": {
-            "name": "Municipality of Horjul",
-            "code": "162",
-            "names": {
-                "geonames": "Horjul",
-                "ru": "\u0425\u043e\u0440\u044c\u044e\u043b",
-                "en": "Municipality of Horjul",
-                "de": "Horjul",
-                "fr": "Horjul",
-                "it": "Horjul"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0212303,
-            "lng": 14.300937999999974
-        },
-        "163": {
-            "name": "Municipality of Jezersko",
-            "code": "163",
-            "names": {
-                "geonames": "Jezersko",
-                "ru": "\u0415\u0437\u0435\u0440\u0441\u043a\u043e",
-                "en": "Municipality of Jezersko",
-                "de": "Jezersko",
-                "fr": "Jezersko",
-                "it": "Jezersko"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3927778,
-            "lng": 14.497499999999945
-        },
-        "164": {
-            "name": "Municipality of Komenda",
-            "code": "164",
-            "names": {
-                "geonames": "Komenda",
-                "ru": "\u041a\u043e\u043c\u0435\u043d\u0434\u0430",
-                "en": "Municipality of Komenda",
-                "de": "Komenda",
-                "fr": "Komenda",
-                "it": "Komenda"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2047455,
-            "lng": 14.538387499999999
-        },
-        "165": {
-            "name": "Municipality of Kostel",
-            "code": "165",
-            "names": {
-                "geonames": "Kostel",
-                "ru": "\u041a\u043e\u0441\u0442\u0435\u043b",
-                "en": "Municipality of Kostel"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.5082455,
-            "lng": 14.908496600000035
-        },
-        "166": {
-            "name": "Municipality of Kri\u017eevci",
-            "code": "166",
-            "names": {
-                "geonames": "Krizevci",
-                "ru": "\u041a\u0440\u0438\u0436\u0435\u0432\u0446\u0438",
-                "en": "Municipality of Kri\u017eevci",
-                "de": "Kri\u017eevci",
-                "fr": "Kri\u017eevci",
-                "it": "Kri\u017eevci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.55,
-            "lng": 16.133333300000004
-        },
-        "167": {
-            "name": "Municipality of Lovrenc na Pohorju",
-            "code": "167",
-            "names": {
-                "geonames": "Lovrenc na Pohorju",
-                "ru": "\u041b\u043e\u0432\u0440\u0435\u043d\u0446 \u043d\u0430 \u041f\u043e\u0445\u043e\u0440\u044c\u044e",
-                "en": "Municipality of Lovrenc na Pohorju",
-                "de": "Lovrenc na Pohorju",
-                "fr": "Lovrenc na Pohorju",
-                "it": "Lovrenc na Pohorju"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5392332,
-            "lng": 15.388817300000028
-        },
-        "168": {
-            "name": "Markovci",
-            "code": "168",
-            "names": {
-                "geonames": "Markovci",
-                "ru": "\u041c\u0430\u0440\u043a\u043e\u0432\u0438\u0446\u0438",
-                "en": "Markovci"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3947391,
-            "lng": 15.93013529999996
-        },
-        "169": {
-            "name": "Municipality of Miklav\u017e na Dravskem Polju",
-            "code": "169",
-            "names": {
-                "geonames": "Miklavz na Dravskem Polju",
-                "ru": "\u041c\u0438\u043a\u043b\u0430\u0432\u0436 \u043d\u0430 \u0414\u0440\u0430\u0432\u0441\u043a\u0435\u043c \u041f\u043e\u043b\u044e",
-                "en": "Municipality of Miklav\u017e na Dravskem Polju",
-                "de": "Miklav\u017e na Dravskem Polju",
-                "fr": "Miklav\u017e na Dravskem polju",
-                "it": "Miklav\u017e na Dravskem polju"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4945254,
-            "lng": 15.704466400000001
-        },
-        "170": {
-            "name": "Mirna Pe\u010d",
-            "code": "170",
-            "names": {
-                "geonames": "Mirna Pec",
-                "ru": "\u041c\u0438\u0440\u043d\u0430 \u041f\u0435\u0447",
-                "en": "Mirna Pe\u010d"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8595222,
-            "lng": 15.082435700000019
-        },
-        "171": {
-            "name": "Oplotnica",
-            "code": "171",
-            "names": {
-                "geonames": "Oplotnica",
-                "ru": "\u041e\u043f\u043b\u043e\u0442\u043d\u0438\u043a\u0430",
-                "en": "Oplotnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3870127,
-            "lng": 15.446710800000005
-        },
-        "172": {
-            "name": "Podlehnik",
-            "code": "172",
-            "names": {
-                "geonames": "Podlehnik",
-                "ru": "\u041f\u043e\u0434\u043b\u0435\u0445\u043d\u0438\u043a",
-                "en": "Podlehnik"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3356107,
-            "lng": 15.878911099999982
-        },
-        "173": {
-            "name": "Polzela",
-            "code": "173",
-            "names": {
-                "geonames": "Polzela",
-                "ru": "\u041f\u043e\u043b\u0437\u0435\u043b\u0430",
-                "en": "Polzela"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2795094,
-            "lng": 15.077113899999972
-        },
-        "174": {
-            "name": "Municipality of Prebold",
-            "code": "174",
-            "names": {
-                "geonames": "Prebold",
-                "ru": "\u041f\u0440\u0435\u0431\u043e\u043b\u0434",
-                "en": "Municipality of Prebold",
-                "de": "Prebold",
-                "fr": "Prebold",
-                "it": "Prebold"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2368401,
-            "lng": 15.093662900000027
-        },
-        "175": {
-            "name": "Prevalje",
-            "code": "175",
-            "names": {
-                "geonames": "Prevalje",
-                "ru": "\u041f\u0440\u0435\u0432\u0430\u043b\u044c\u0435",
-                "en": "Prevalje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5621146,
-            "lng": 14.884786099999928
-        },
-        "176": {
-            "name": "Municipality of Razkri\u017eje",
-            "code": "176",
-            "names": {
-                "geonames": "Razkrizje",
-                "ru": "\u0420\u0430\u0437\u043a\u0440\u0438\u0436\u044c\u0435",
-                "en": "Municipality of Razkri\u017eje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5226339,
-            "lng": 16.26686380000001
-        },
-        "177": {
-            "name": "Ribnica na Pohorju",
-            "code": "177",
-            "names": {
-                "geonames": "Ribnica na Pohorju",
-                "ru": "\u0420\u0438\u0431\u043d\u0438\u0446\u0430 \u043d\u0430 \u041f\u043e\u0445\u043e\u0440\u044c\u044e",
-                "en": "Ribnica na Pohorju"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5356214,
-            "lng": 15.26751319999994
-        },
-        "178": {
-            "name": "Selnica ob Dravi",
-            "code": "178",
-            "names": {
-                "geonames": "Selnica ob Dravi",
-                "ru": "\u0421\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0443 \u0414\u0440\u0430\u0432\u0438",
-                "en": "Selnica ob Dravi"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5790573,
-            "lng": 15.487115300000028
-        },
-        "179": {
-            "name": "Sodra\u017eica",
-            "code": "179",
-            "names": {
-                "geonames": "Sodrazica",
-                "ru": "\u0421\u043e\u0434\u0440\u0430\u0436\u0438\u0446\u0430",
-                "en": "Sodra\u017eica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7635514,
-            "lng": 14.632638300000053
-        },
-        "180": {
-            "name": "Sol\u010dava",
-            "code": "180",
-            "names": {
-                "geonames": "Solcava",
-                "ru": "\u0421\u043e\u043b\u0447\u0430\u0432\u0430",
-                "en": "Sol\u010dava"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4200317,
-            "lng": 14.691814799999975
-        },
-        "181": {
-            "name": "Sveta Ana v Slovenskih Goricah",
-            "code": "181",
-            "names": {
-                "geonames": "Sveta Ana",
-                "ru": "\u0421\u0432\u0435\u0442\u0430 \u0410\u043d\u0430",
-                "en": "Sveta Ana v Slovenskih Goricah"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.65,
-            "lng": 15.83333330000005
-        },
-        "182": {
-            "name": "Municipality of Sveti Andra\u017e v Slovenskih Goricah",
-            "code": "182",
-            "names": {
-                "geonames": "Sveti Andraz v Slovenskih Goricah",
-                "ru": "\u0421\u0432\u0435\u0442\u0438 \u0410\u043d\u0434\u0440\u0430\u0436 \u0432 \u0421\u043b\u043e\u0432\u0435\u043d\u0441\u0438\u043a\u0445 \u0413\u043e\u0440\u0438\u0446\u0430\u0445",
-                "en": "Municipality of Sveti Andra\u017e v Slovenskih Goricah",
-                "de": "Sveti Andra\u017e v Slovenskih goricah",
-                "fr": "Sveti Andra\u017e v Slovenskih goricah",
-                "it": "Sveti Andra\u017e v Slovenskih goricah"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5258736,
-            "lng": 15.933625799999959
-        },
-        "183": {
-            "name": "\u0160empeter-Vrtojba",
-            "code": "183",
-            "names": {
-                "geonames": "Sempeter-Vrtojba",
-                "ru": "\u0428\u0435\u043c\u043f\u0435\u0442\u0435\u0440-\u0412\u0440\u0442\u043e\u0439\u0431\u0430",
-                "en": "\u0160empeter-Vrtojba"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9138515,
-            "lng": 13.63619600000004
-        },
-        "184": {
-            "name": "Tabor, Tabor",
-            "code": "184",
-            "names": {
-                "geonames": "Tabor",
-                "en": "Tabor"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2347077,
-            "lng": 15.01574770000002
-        },
-        "185": {
-            "name": "Municipality of Trnovska Vas",
-            "code": "185",
-            "names": {
-                "geonames": "Trnovska Vas",
-                "ru": "\u0422\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u0412\u0430\u0441",
-                "en": "Municipality of Trnovska Vas",
-                "de": "Trnovska vas",
-                "fr": "Trnovska vas",
-                "it": "Trnovska vas"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5201222,
-            "lng": 15.886634500000014
-        },
-        "186": {
-            "name": "Trzin",
-            "code": "186",
-            "names": {
-                "geonames": "Trzin",
-                "ru": "\u0422\u0440\u0437\u0438\u043d",
-                "en": "Trzin",
-                "de": "Trzin",
-                "fr": "Trzin",
-                "it": "Trzin"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.1325499,
-            "lng": 14.562910500000044
-        },
-        "187": {
-            "name": "Velika Polana",
-            "code": "187",
-            "names": {
-                "geonames": "Velika Polana",
-                "ru": "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u0430\u043d\u0430",
-                "en": "Velika Polana"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5729566,
-            "lng": 16.344224899999972
-        },
-        "188": {
-            "name": "Municipality of Ver\u017eej",
-            "code": "188",
-            "names": {
-                "geonames": "Verzej",
-                "ru": "\u0412\u0435\u0440\u0436\u0435\u0439",
-                "en": "Municipality of Ver\u017eej",
-                "de": "Ver\u017eej",
-                "fr": "Ver\u017eej",
-                "it": "Ver\u017eej"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.5816923,
-            "lng": 16.16257369999994
-        },
-        "189": {
-            "name": "Vransko",
-            "code": "189",
-            "names": {
-                "geonames": "Vransko",
-                "ru": "\u0412\u0430\u0440\u0430\u043d\u0441\u043a\u043e",
-                "en": "Vransko"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.239006,
-            "lng": 14.952724900000021
-        },
-        "190": {
-            "name": "\u017dalec",
-            "code": "190",
-            "names": {
-                "geonames": "Zalec",
-                "ru": "\u0416\u0430\u043b\u0435\u0446",
-                "en": "\u017dalec"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2519829,
-            "lng": 15.164989800000058
-        },
-        "191": {
-            "name": "\u017detale",
-            "code": "191",
-            "names": {
-                "geonames": "Zetale",
-                "ru": "\u0416\u0435\u0442\u0430\u043b\u0435",
-                "en": "\u017detale"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.2753464,
-            "lng": 15.79350439999996
-        },
-        "192": {
-            "name": "Municipality of \u017dirovnica",
-            "code": "192",
-            "names": {
-                "geonames": "Zirovnica",
-                "ru": "\u0416\u0438\u0440\u043e\u0432\u043d\u0438\u0446\u0430",
-                "en": "Municipality of \u017dirovnica",
-                "de": "\u017dirovnica",
-                "fr": "\u017dirovnica",
-                "it": "\u017dirovnica"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4039232,
-            "lng": 14.135719300000005
-        },
-        "193": {
-            "name": "\u017du\u017eemberk",
-            "code": "193",
-            "names": {
-                "geonames": "Zuzemberk",
-                "ru": "\u0416\u0438\u0436\u0435\u043c\u0431\u0440\u0435\u043a",
-                "en": "\u017du\u017eemberk",
-                "de": "\u017du\u017eemberk",
-                "es": "\u017du\u017eemberk",
-                "fr": "\u017du\u017eemberk",
-                "it": "\u017du\u017eemberk"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8307574,
-            "lng": 14.929082600000015
-        },
-        "194": {
-            "name": "\u0160martno pri Litiji",
-            "code": "194",
-            "names": {
-                "geonames": "Smartno pri Litiji",
-                "ru": "\u0428\u043c\u0430\u0440\u0442\u043d\u043e \u043f\u0440\u0438 \u041b\u0438\u0442\u0438\u0438",
-                "en": "\u0160martno pri Litiji"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0441991,
-            "lng": 14.842945500000042
-        },
-        "195": {
-            "name": "Municipality of Apa\u010de",
-            "code": "195",
-            "names": {
-                "geonames": "Apace",
-                "ru": "\u0410\u043f\u0430\u0447\u0435",
-                "en": "Municipality of Apa\u010de"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.7014871,
-            "lng": 15.883117200000015
-        },
-        "196": {
-            "name": "Municipality of Cirkulane",
-            "code": "196",
-            "names": {
-                "geonames": "Kostanjevica na Krki",
-                "ru": "\u0426\u0438\u0440\u043a\u0443\u043b\u0430\u043d\u0435",
-                "en": "Municipality of Cirkulane"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3441802,
-            "lng": 15.994755299999952
-        },
-        "197": {
-            "name": "Municipality of Kostanjevica na Krki",
-            "code": "197",
-            "names": {
-                "geonames": "Cirkulane",
-                "ru": "\u041a\u043e\u0441\u0430\u043d\u044c\u0435\u0432\u0438\u0446\u0430 \u043d\u0430 \u041a\u0440\u043a\u0438",
-                "en": "Municipality of Kostanjevica na Krki",
-                "it": "Kostanjevica na Krki"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8449592,
-            "lng": 15.421690799999965
-        },
-        "198": {
-            "name": "Makole",
-            "code": "198",
-            "names": {
-                "geonames": "Makole",
-                "ru": "\u041c\u0430\u043a\u043e\u043b\u0435",
-                "en": "Makole"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3143815,
-            "lng": 15.691136599999936
-        },
-        "199": {
-            "name": "Mokronog-Trebelno",
-            "code": "199",
-            "names": {
-                "geonames": "Mokronog-Trebelno",
-                "ru": "\u041c\u043e\u043a\u0440\u043e\u043d\u043e\u0433-\u0422\u0440\u0435\u0431\u0435\u043b\u043d\u043e",
-                "en": "Mokronog-Trebelno"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9092113,
-            "lng": 15.149585600000023
-        },
-        "200": {
-            "name": "Polj\u010dane",
-            "code": "200",
-            "names": {
-                "geonames": "Poljcane",
-                "ru": "\u041f\u043e\u043b\u044c\u0447\u0430\u043d\u0435",
-                "en": "Polj\u010dane"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3186196,
-            "lng": 15.571760100000006
-        },
-        "201": {
-            "name": "Municipality of Ren\u010de\u2013Vogrsko",
-            "code": "201",
-            "names": {
-                "geonames": "Rence-Vogrsko",
-                "ru": "\u0420\u0435\u043d\u0447\u0435-\u0412\u043e\u0433\u0440\u0441\u043a\u043e",
-                "en": "Municipality of Ren\u010de",
-                "de": "Ren\u010de-Vogrsko",
-                "fr": "Ren\u010de-Vogrsko",
-                "it": "Ranziano-Voghersca"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9067492,
-            "lng": 13.694034299999998
-        },
-        "202": {
-            "name": "Sredi\u0161\u010de ob Dravi",
-            "code": "202",
-            "names": {
-                "geonames": "Sredisce ob Dravi",
-                "ru": "\u0421\u0440\u0435\u0434\u0438\u0448\u0447\u0435 \u0443 \u0414\u0440\u0430\u0432\u0438",
-                "en": "Sredi\u0161\u010de ob Dravi"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3959439,
-            "lng": 16.2705019
-        },
-        "203": {
-            "name": "Municipality of Stra\u017ea",
-            "code": "203",
-            "names": {
-                "geonames": "Straza",
-                "ru": "\u0421\u0442\u0440\u0430\u0436\u0430",
-                "en": "Municipality of Stra\u017ea",
-                "de": "Stra\u017ea",
-                "fr": "Stra\u017ea",
-                "it": "Stra\u017ea"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.7928814,
-            "lng": 15.083767899999998
-        },
-        "204": {
-            "name": "Sveta Trojica v Slovenskih Goricah",
-            "code": "204",
-            "names": {
-                "geonames": "Sv. Trojica v Slov. Goricah",
-                "ru": "\u0421\u0432\u0435\u0442\u0430 \u0422\u0440\u043e\u0439\u0446\u0430 \u0432 \u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u0430\u0445",
-                "en": "Sveta Trojica v Slovenskih Goricah"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.575449,
-            "lng": 15.876503100000036
-        },
-        "205": {
-            "name": "Municipality of Sveti Toma\u017e",
-            "code": "205",
-            "names": {
-                "geonames": "Sveti Tomaz",
-                "ru": "\u0421\u0432\u0435\u0442\u0438 \u0422\u043e\u043c\u0430\u0436",
-                "en": "Municipality of Sveti Toma\u017e",
-                "de": "Sveti Toma\u017e",
-                "fr": "Sveti Toma\u017e",
-                "it": "Sveti Toma\u017e"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.4844612,
-            "lng": 16.077959299999975
-        },
-        "206": {
-            "name": "Municipality of \u0160marje\u0161ke Toplice",
-            "code": "206",
-            "names": {
-                "geonames": "Smarjeske Toplice",
-                "ru": "\u0428\u043c\u0430\u0440\u044c\u0435\u0448\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435",
-                "en": "Municipality of \u0160marje\u0161ke Toplice"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.8684629,
-            "lng": 15.246153100000015
-        },
-        "207": {
-            "name": "Municipality of Gorje",
-            "code": "207",
-            "names": {
-                "geonames": "Gorje",
-                "ru": "\u0413\u043e\u0440\u044c\u0435",
-                "en": "Municipality of Gorje",
-                "de": "Gorje",
-                "fr": "Gorje",
-                "it": "Gorje"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3947222,
-            "lng": 14.087222200000042
-        },
-        "208": {
-            "name": "Log-Dragomer",
-            "code": "208",
-            "names": {
-                "geonames": "Log-Dragomer",
-                "ru": "\u041b\u043e\u0433-\u0414\u0440\u0430\u0433\u043e\u043c\u0435\u0440",
-                "en": "Log-Dragomer"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.0087572,
-            "lng": 14.370864200000028
-        },
-        "209": {
-            "name": "Re\u010dica ob Savinji",
-            "code": "209",
-            "names": {
-                "geonames": "Recica ob Savinji",
-                "ru": "\u0420\u0435\u0447\u0438\u0446\u0430 \u0443 \u0421\u0430\u0432\u0438\u043d\u044c\u0438",
-                "en": "Re\u010dica ob Savinji"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.3238912,
-            "lng": 14.922562200000016
-        },
-        "210": {
-            "name": "Municipality of Sveti Jurij v Slovenskih Goricah",
-            "code": "210",
-            "names": {
-                "geonames": "Sveti Jurij v Slovenskih Goricah",
-                "ru": "\u0421\u0432\u0435\u0442\u0438 \u042e\u0440\u0438\u0439 \u0432 \u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0445 \u0413\u043e\u0440\u0438\u0446\u0430\u0445",
-                "en": "Municipality of Sveti Jurij v Slovenskih Goricah",
-                "de": "Sveti Jurij v Slovenskih goricah",
-                "fr": "Sveti Jurij v Slovenskih goricah",
-                "it": "Sveti Jurij v Slovenskih goricah"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 46.6471348,
-            "lng": 15.843743600000039
-        },
-        "211": {
-            "name": "\u0160entrupert",
-            "code": "211",
-            "names": {
-                "geonames": "Sentrupert",
-                "ru": "\u0428\u0435\u043d\u0442\u0440\u0443\u043f\u0435\u0440\u0442",
-                "en": "\u0160entrupert"
-            },
-            "division": "municipalities",
-            "parent": "SI",
-            "lat": 45.9769769,
-            "lng": 15.090960699999982
-        },
-        "212": {
-            "name": "Mirna",
-            "code": "212",
-            "names": {
-                "geonames": "Mirna",
-                "en": "Mirna"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
-        },
-        "213": {
-            "name": "Ankaran",
-            "code": "213",
-            "names": {
-                "geonames": "Comune di Ancarano",
-                "en": "Ankaran"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "SI-001",
+            "names": "Ajdov\u0161\u010dina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-002",
+            "names": "Beltinci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-003",
+            "names": "Bled",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-004",
+            "names": "Bohinj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-005",
+            "names": "Borovnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-006",
+            "names": "Bovec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-007",
+            "names": "Brda",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-008",
+            "names": "Brezovica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-009",
+            "names": "Bre\u017eice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-010",
+            "names": "Ti\u0161ina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-011",
+            "names": "Celje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-012",
+            "names": "Cerklje na Gorenjskem",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-013",
+            "names": "Cerknica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-014",
+            "names": "Cerkno",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-015",
+            "names": "\u010cren\u0161ovci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-016",
+            "names": "\u010crna na Koro\u0161kem",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-017",
+            "names": "\u010crnomelj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-018",
+            "names": "Destrnik",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-019",
+            "names": "Diva\u010da",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-020",
+            "names": "Dobrepolje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-021",
+            "names": "Dobrova-Polhov Gradec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-022",
+            "names": "Dol pri Ljubljani",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-023",
+            "names": "Dom\u017eale",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-024",
+            "names": "Dornava",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-025",
+            "names": "Dravograd",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-026",
+            "names": "Duplek",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-027",
+            "names": "Gorenja vas-Poljane",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-028",
+            "names": "Gori\u0161nica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-029",
+            "names": "Gornja Radgona",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-030",
+            "names": "Gornji Grad",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-031",
+            "names": "Gornji Petrovci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-032",
+            "names": "Grosuplje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-033",
+            "names": "\u0160alovci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-034",
+            "names": "Hrastnik",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-035",
+            "names": "Hrpelje-Kozina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-036",
+            "names": "Idrija",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-037",
+            "names": "Ig",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-038",
+            "names": "Ilirska Bistrica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-039",
+            "names": "Ivan\u010dna Gorica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-040",
+            "names": "Izola\/Isola",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-041",
+            "names": "Jesenice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-042",
+            "names": "Jur\u0161inci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-043",
+            "names": "Kamnik",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-044",
+            "names": "Kanal",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-045",
+            "names": "Kidri\u010devo",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-046",
+            "names": "Kobarid",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-047",
+            "names": "Kobilje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-048",
+            "names": "Ko\u010devje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-049",
+            "names": "Komen",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-050",
+            "names": "Koper\/Capodistria",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-051",
+            "names": "Kozje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-052",
+            "names": "Kranj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-053",
+            "names": "Kranjska Gora",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-054",
+            "names": "Kr\u0161ko",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-055",
+            "names": "Kungota",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-056",
+            "names": "Kuzma",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-057",
+            "names": "La\u0161ko",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-058",
+            "names": "Lenart",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-059",
+            "names": "Lendava\/Lendva",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-060",
+            "names": "Litija",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-061",
+            "names": "Ljubljana",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-062",
+            "names": "Ljubno",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-063",
+            "names": "Ljutomer",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-064",
+            "names": "Logatec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-065",
+            "names": "Lo\u0161ka dolina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-066",
+            "names": "Lo\u0161ki Potok",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-067",
+            "names": "Lu\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-068",
+            "names": "Lukovica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-069",
+            "names": "Maj\u0161perk",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-070",
+            "names": "Maribor",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-071",
+            "names": "Medvode",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-072",
+            "names": "Menge\u0161",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-073",
+            "names": "Metlika",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-074",
+            "names": "Me\u017eica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-075",
+            "names": "Miren-Kostanjevica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-076",
+            "names": "Mislinja",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-077",
+            "names": "Morav\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-078",
+            "names": "Moravske Toplice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-079",
+            "names": "Mozirje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-080",
+            "names": "Murska Sobota",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-081",
+            "names": "Muta",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-082",
+            "names": "Naklo",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-083",
+            "names": "Nazarje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-084",
+            "names": "Nova Gorica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-085",
+            "names": "Novo mesto",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-086",
+            "names": "Odranci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-087",
+            "names": "Ormo\u017e",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-088",
+            "names": "Osilnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-089",
+            "names": "Pesnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-090",
+            "names": "Piran\/Pirano",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-091",
+            "names": "Pivka",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-092",
+            "names": "Pod\u010detrtek",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-093",
+            "names": "Podvelka",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-094",
+            "names": "Postojna",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-095",
+            "names": "Preddvor",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-096",
+            "names": "Ptuj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-097",
+            "names": "Puconci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-098",
+            "names": "Ra\u010de-Fram",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-099",
+            "names": "Rade\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-100",
+            "names": "Radenci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-101",
+            "names": "Radlje ob Dravi",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-102",
+            "names": "Radovljica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-103",
+            "names": "Ravne na Koro\u0161kem",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-104",
+            "names": "Ribnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-105",
+            "names": "Roga\u0161ovci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-106",
+            "names": "Roga\u0161ka Slatina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-107",
+            "names": "Rogatec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-108",
+            "names": "Ru\u0161e",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-109",
+            "names": "Semi\u010d",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-110",
+            "names": "Sevnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-111",
+            "names": "Se\u017eana",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-112",
+            "names": "Slovenj Gradec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-113",
+            "names": "Slovenska Bistrica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-114",
+            "names": "Slovenske Konjice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-115",
+            "names": "Star\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-116",
+            "names": "Sveti Jurij",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-117",
+            "names": "\u0160en\u010dur",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-118",
+            "names": "\u0160entilj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-119",
+            "names": "\u0160entjernej",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-120",
+            "names": "\u0160entjur",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-121",
+            "names": "\u0160kocjan",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-122",
+            "names": "\u0160kofja Loka",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-123",
+            "names": "\u0160kofljica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-124",
+            "names": "\u0160marje pri Jel\u0161ah",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-125",
+            "names": "\u0160martno ob Paki",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-126",
+            "names": "\u0160o\u0161tanj",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-127",
+            "names": "\u0160tore",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-128",
+            "names": "Tolmin",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-129",
+            "names": "Trbovlje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-130",
+            "names": "Trebnje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-131",
+            "names": "Tr\u017ei\u010d",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-132",
+            "names": "Turni\u0161\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-133",
+            "names": "Velenje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-134",
+            "names": "Velike La\u0161\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-135",
+            "names": "Videm",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-136",
+            "names": "Vipava",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-137",
+            "names": "Vitanje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-138",
+            "names": "Vodice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-139",
+            "names": "Vojnik",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-140",
+            "names": "Vrhnika",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-141",
+            "names": "Vuzenica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-142",
+            "names": "Zagorje ob Savi",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-143",
+            "names": "Zavr\u010d",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-144",
+            "names": "Zre\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-146",
+            "names": "\u017delezniki",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-147",
+            "names": "\u017diri",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-148",
+            "names": "Benedikt",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-149",
+            "names": "Bistrica ob Sotli",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-150",
+            "names": "Bloke",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-151",
+            "names": "Braslov\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-152",
+            "names": "Cankova",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-153",
+            "names": "Cerkvenjak",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-154",
+            "names": "Dobje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-155",
+            "names": "Dobrna",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-156",
+            "names": "Dobrovnik\/Dobronak",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-157",
+            "names": "Dolenjske Toplice",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-158",
+            "names": "Grad",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-159",
+            "names": "Hajdina",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-160",
+            "names": "Ho\u010de-Slivnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-161",
+            "names": "Hodo\u0161\/Hodos",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-162",
+            "names": "Horjul",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-163",
+            "names": "Jezersko",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-164",
+            "names": "Komenda",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-165",
+            "names": "Kostel",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-166",
+            "names": "Kri\u017eevci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-167",
+            "names": "Lovrenc na Pohorju",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-168",
+            "names": "Markovci",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-169",
+            "names": "Miklav\u017e na Dravskem polju",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-170",
+            "names": "Mirna Pe\u010d",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-171",
+            "names": "Oplotnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-172",
+            "names": "Podlehnik",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-173",
+            "names": "Polzela",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-174",
+            "names": "Prebold",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-175",
+            "names": "Prevalje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-176",
+            "names": "Razkri\u017eje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-177",
+            "names": "Ribnica na Pohorju",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-178",
+            "names": "Selnica ob Dravi",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-179",
+            "names": "Sodra\u017eica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-180",
+            "names": "Sol\u010dava",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-181",
+            "names": "Sveta Ana",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-182",
+            "names": "Sveta Andra\u017e v Slovenskih Goricah",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-183",
+            "names": "\u0160empeter-Vrtojba",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-184",
+            "names": "Tabor",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-185",
+            "names": "Trnovska vas",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-186",
+            "names": "Trzin",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-187",
+            "names": "Velika Polana",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-188",
+            "names": "Ver\u017eej",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-189",
+            "names": "Vransko",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-190",
+            "names": "\u017dalec",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-191",
+            "names": "\u017detale",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-192",
+            "names": "\u017dirovnica",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-193",
+            "names": "\u017du\u017eemberk",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-194",
+            "names": "\u0160martno pri Litiji",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-195",
+            "names": "Apa\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-196",
+            "names": "Cirkulane",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-197",
+            "names": "Kosanjevica na Krki",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-198",
+            "names": "Makole",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-199",
+            "names": "Mokronog-Trebelno",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-200",
+            "names": "Polj\u010dane",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-201",
+            "names": "Ren\u010de-Vogrsko",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-202",
+            "names": "Sredi\u0161\u010de ob Dravi",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-203",
+            "names": "Stra\u017ea",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-204",
+            "names": "Sveta Trojica v Slovenskih Goricah",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-205",
+            "names": "Sveti Toma\u017e",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-206",
+            "names": "\u0160marjeske Topli\u010de",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-207",
+            "names": "Gorje",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-208",
+            "names": "Log-Dragomer",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-209",
+            "names": "Re\u010dica ob Savinji",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-210",
+            "names": "Sveti Jurij v Slovenskih Goricah",
+            "type": "Municipality"
+        },
+        {
+            "code": "SI-211",
+            "names": "\u0160entrupert",
+            "type": "Municipality"
         }
-    }
+    ]
 }

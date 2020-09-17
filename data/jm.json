@@ -1,264 +1,203 @@
 {
     "alpha-2": "JM",
     "alpha-3": "JAM",
-    "numeric": 388,
-    "capital": "Kingston",
-    "currency": "JMD",
-    "languages": [
-        "en"
-    ],
-    "flag-icon": "\ud83c\uddef\ud83c\uddf2",
+    "numeric": "388",
     "names": {
-        "geonames": "Jamaica",
         "en": "Jamaica",
-        "ar": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627",
-        "de": "Jamaika",
-        "es": "Jamaica",
         "fr": "Jama\u00efque",
-        "it": "Giamaica",
-        "ru": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "ur": "\u062c\u0645\u0627\u0626\u06cc\u06a9\u0627",
+        "rn": "Jamayika",
+        "lv": "Jamaika",
+        "hy": "\u0543\u0561\u0574\u0561\u0575\u056f\u0561",
+        "sq": "Xhamajk\u00eb",
+        "jv": "Jamaika",
+        "or": "\u0b1c\u0b3e\u0b2e\u0b3e\u0b07\u0b15\u0b3e",
+        "mg": "Jama\u00efka",
+        "no": "Jamaica",
         "zh": "\u7259\u4e70\u52a0",
-        "he": "\u05d2'\u05de\u05d9\u05d9\u05e7\u05d4",
-        "hi": "\u091c\u092e\u0948\u0915\u093e",
+        "tr": "Jamaika",
+        "bs": "Jamajka",
         "ja": "\u30b8\u30e3\u30de\u30a4\u30ab",
-        "pt": "Jamaica"
+        "th": "\u0e08\u0e32\u0e40\u0e21\u0e01\u0e32",
+        "he": "\u05d2\u05f3\u05de\u05d9\u05d9\u05e7\u05d4",
+        "kk": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "mo": "Jamaica",
+        "ff": "Jamayka",
+        "ca": "Jamaica",
+        "ar": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627",
+        "eu": "Jamaika",
+        "ps": "\u062c\u0645\u06cc\u06a9\u0627",
+        "kn": "\u0c9c\u0cae\u0cc8\u0c95\u0cbe",
+        "si": "\u0da2\u0dd0\u0db8\u0dd9\u0dba\u0dd2\u0d9a\u0dcf\u0dc0",
+        "km": "\u17a0\u17d2\u179f\u17b6\u1798\u17c9\u17b6\u17a2\u17ca\u17b8\u1780",
+        "ne": "\u091c\u092e\u0948\u0915\u093e",
+        "fi": "Jamaika",
+        "hi": "\u091c\u092e\u0948\u0915\u093e",
+        "rm": "Giamaica",
+        "vi": "Jamaica",
+        "gl": "Xamaica",
+        "ig": "Jamaika",
+        "mr": "\u091c\u092e\u0948\u0915\u093e",
+        "es": "Jamaica",
+        "be": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "lg": "Jamayika",
+        "az": "\u0408\u0430\u043c\u0430\u0458\u043a\u0430",
+        "ce": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "mk": "\u0408\u0430\u043c\u0430\u0458\u043a\u0430",
+        "zu": "i-Jamaica",
+        "it": "Giamaica",
+        "ko": "\uc790\uba54\uc774\uce74",
+        "lo": "\u0e88\u0eb2\u0ec4\u0ea1\u0e84\u0eb2",
+        "lt": "Jamaika",
+        "dz": "\u0f47\u0f71\u0f0b\u0f58\u0f7b\u0f0b\u0f40",
+        "ln": "Zamaiki",
+        "hr": "Jamajka",
+        "ks": "\u062c\u064e\u0645\u0627\u06cc\u06a9\u0627",
+        "sv": "Jamaica",
+        "pl": "Jamajka",
+        "nb": "Jamaica",
+        "sh": "Jamajka",
+        "lu": "Jamaiki",
+        "nl": "Jamaica",
+        "ky": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "bn": "\u099c\u09be\u09ae\u09be\u0987\u0995\u09be",
+        "sd": "\u062c\u0645\u064a\u06aa\u0627",
+        "fa": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
+        "gd": "Diameuga",
+        "cs": "Jamajka",
+        "tk": "\u00ddama\u00fdka",
+        "eo": "Jamajko",
+        "mt": "il-\u0120amajka",
+        "sr": "Jamajka",
+        "wo": "Samayig",
+        "el": "\u03a4\u03b6\u03b1\u03bc\u03ac\u03b9\u03ba\u03b1",
+        "sn": "Jamaica",
+        "pt": "Jamaica",
+        "yi": "\u05d3\u05d6\u05e9\u05d0\u05b7\u05de\u05d9\u05d9\u05e7\u05e2",
+        "is": "Jama\u00edka",
+        "ta": "\u0b9c\u0bae\u0bc8\u0b95\u0bbe",
+        "br": "Jamaika",
+        "hu": "Jamaica",
+        "et": "Jamaica",
+        "ku": "Jama\u00eeka",
+        "sk": "Jamajka",
+        "sw": "Jamaika",
+        "te": "\u0c1c\u0c2e\u0c48\u0c15\u0c3e",
+        "ro": "Jamaica",
+        "ki": "Jamaika",
+        "ak": "Gyameka",
+        "tg": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "ml": "\u0d1c\u0d2e\u0d48\u0d15\u0d4d\u0d15",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Jamaika",
+        "de": "Jamaika",
+        "as": "\u099c\u09be\u09ae\u09be\u0987\u0995\u09be",
+        "am": "\u1303\u121b\u12ed\u12ab",
+        "se": "Jamaica",
+        "ti": "\u1303\u121b\u12ed\u12ab",
+        "ru": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "ga": "Iam\u00e1ice",
+        "bg": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "my": "\u1002\u103b\u1019\u1031\u1000\u102c",
+        "fy": "Jamaica",
+        "bm": "Zamayiki",
+        "gu": "\u0a9c\u0aae\u0ac8\u0a95\u0abe",
+        "uz": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "cy": "Jamaica",
+        "ug": "\u064a\u0627\u0645\u0627\u064a\u0643\u0627",
+        "nn": "Jamaica",
+        "uk": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "qu": "Jamaica",
+        "tl": "Jamaica",
+        "ms": "Jamaica",
+        "so": "Jamaaika",
+        "da": "Jamaica",
+        "tt": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "af": "Jamaika",
+        "ha": "Jamaika",
+        "iw": "\u05d2\u05f3\u05de\u05d9\u05d9\u05e7\u05d4",
+        "ee": "Dzamaika nutome",
+        "in": "Jamaika",
+        "to": "Samaika",
+        "sl": "Jamajka",
+        "sg": "Zama\u00eeka",
+        "lb": "Jamaika",
+        "fo": "Jamaika",
+        "mn": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "id": "Jamaika",
+        "pa": "\u0a1c\u0a2e\u0a3e\u0a07\u0a15\u0a3e",
+        "ka": "\u10d8\u10d0\u10db\u10d0\u10d8\u10d9\u10d0",
+        "nd": "Jamaica"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Kingston Parish",
-            "code": "01",
-            "names": {
-                "geonames": "Kingston",
-                "ru": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d",
-                "en": "Kingston Parish",
-                "de": "Kingston Parish",
-                "es": "Parroquia de Kingston",
-                "fr": "Paroisse de Kingston",
-                "it": "Parrocchia di Kingston",
-                "zh": "\u91d1\u65af\u6566\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9675315,
-            "lng": -76.77116260000003
+    "3166-2": [
+        {
+            "code": "JM-01",
+            "names": "Kingston",
+            "type": "Parish"
         },
-        "02": {
-            "name": "St. Andrew",
-            "code": "02",
-            "names": {
-                "geonames": "St. Andrew",
-                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u0434\u0440\u0443",
-                "en": "St. Andrew"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.992702,
-            "lng": -76.81010430000003
+        {
+            "code": "JM-02",
+            "names": "Saint Andrew",
+            "type": "Parish"
         },
-        "03": {
-            "name": "St. Thomas",
-            "code": "03",
-            "names": {
-                "geonames": "St. Thomas",
-                "ru": "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441",
-                "en": "St. Thomas"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9805489,
-            "lng": -76.87689060000002
+        {
+            "code": "JM-03",
+            "names": "Saint Thomas",
+            "type": "Parish"
         },
-        "04": {
-            "name": "Portland Parish",
-            "code": "04",
-            "names": {
-                "geonames": "Portland",
-                "ru": "\u041f\u043e\u0440\u0442\u043b\u0435\u043d\u0434",
-                "en": "Portland Parish",
-                "de": "Portland Parish",
-                "es": "Parroquia de Portland",
-                "fr": "Paroisse de Portland",
-                "it": "Parrocchia di Portland",
-                "zh": "\u6ce2\u7279\u862d\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9751092,
-            "lng": -76.77019559999997
+        {
+            "code": "JM-04",
+            "names": "Portland",
+            "type": "Parish"
         },
-        "05": {
-            "name": "St. Mary",
-            "code": "05",
-            "names": {
-                "geonames": "St. Mary",
-                "en": "St. Mary"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 18.26687,
-            "lng": -76.88641139999999
+        {
+            "code": "JM-05",
+            "names": "Saint Mary",
+            "type": "Parish"
         },
-        "06": {
-            "name": "Saint Ann Parish",
-            "code": "06",
-            "names": {
-                "geonames": "St Ann",
-                "ru": "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d",
-                "en": "Saint Ann Parish",
-                "de": "Saint Ann Parish",
-                "es": "Parroquia de Saint Ann",
-                "fr": "Paroisse de Saint Ann",
-                "it": "Parrocchia di Saint Ann",
-                "zh": "\u8056\u5b89\u5a1c\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 51.5335309,
-            "lng": 0.07964409999999589
+        {
+            "code": "JM-06",
+            "names": "Saint Ann",
+            "type": "Parish"
         },
-        "07": {
-            "name": "Trelawny Parish",
-            "code": "07",
-            "names": {
-                "geonames": "Trelawny",
-                "ru": "\u0422\u0440\u0435\u043b\u043e\u043d\u0438",
-                "en": "Trelawny Parish",
-                "ar": "\u0623\u0628\u0631\u0634\u064a\u0629 \u062a\u0631\u064a\u0644\u0627\u0648\u0646\u064a",
-                "de": "Trelawny Parish",
-                "es": "Parroquia de Trelawny",
-                "fr": "Paroisse de Trelawny",
-                "it": "Trelawny",
-                "zh": "\u7279\u91cc\u6d1b\u5c3c\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 18.4937466,
-            "lng": -77.65361430000002
+        {
+            "code": "JM-07",
+            "names": "Trelawny",
+            "type": "Parish"
         },
-        "08": {
-            "name": "Saint James Parish, Jamaica",
-            "code": "08",
-            "names": {
-                "geonames": "St. James",
-                "ru": "\u0421\u0435\u043d\u0442-\u0414\u0436\u0435\u0439\u043c\u0441",
-                "de": "Saint James Parish",
-                "en": "Saint James Parish",
-                "es": "Parroquia de Saint James",
-                "fr": "Paroisse de Saint James",
-                "it": "Parrocchia di Saint James",
-                "zh": "\u8056\u8a79\u59c6\u65af\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 18.4753556,
-            "lng": -77.92286039999999
+        {
+            "code": "JM-08",
+            "names": "Saint James",
+            "type": "Parish"
         },
-        "09": {
-            "name": "Hanover Parish",
-            "code": "09",
-            "names": {
-                "geonames": "Hanover",
-                "ru": "\u0425\u0430\u043d\u043e\u0432\u0435\u0440",
-                "en": "Hanover Parish",
-                "de": "Hanover Parish",
-                "es": "Parroquia de Hanover",
-                "fr": "Paroisse de Hanover",
-                "it": "Parrocchia di Hanover",
-                "zh": "\u6c49\u8bfa\u5a01\u533a"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9699234,
-            "lng": -76.7886145
+        {
+            "code": "JM-09",
+            "names": "Hanover",
+            "type": "Parish"
         },
-        "10": {
-            "name": "Westmoreland Parish",
-            "code": "10",
-            "names": {
-                "geonames": "Westmoreland",
-                "ru": "\u0423\u044d\u0441\u0442\u043c\u043e\u0440\u043b\u0435\u043d\u0434",
-                "en": "Westmoreland Parish",
-                "de": "Westmoreland Parish",
-                "es": "Parroquia de Westmoreland",
-                "fr": "Paroisse de Westmoreland",
-                "it": "Parrocchia di Westmoreland",
-                "zh": "\u5a01\u65af\u7279\u6469\u862d\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 30.181071,
-            "lng": -95.59546599999999
+        {
+            "code": "JM-10",
+            "names": "Westmoreland",
+            "type": "Parish"
         },
-        "11": {
-            "name": "Saint Elizabeth Parish",
-            "code": "11",
-            "names": {
-                "geonames": "St. Elizabeth",
-                "ru": "\u0421\u0435\u043d\u0442-\u042d\u043b\u0438\u0437\u0430\u0431\u0435\u0442",
-                "en": "Saint Elizabeth Parish",
-                "de": "Saint Elizabeth Parish",
-                "es": "Parroquia de Saint Elizabeth",
-                "fr": "Paroisse de Saint Elizabeth",
-                "it": "Parrocchia di Saint Elizabeth",
-                "zh": "\u8056\u4f0a\u9e97\u838e\u767d\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 53.468759,
-            "lng": -113.45165299999996
+        {
+            "code": "JM-11",
+            "names": "Saint Elizabeth",
+            "type": "Parish"
         },
-        "12": {
-            "name": "Manchester Parish",
-            "code": "12",
-            "names": {
-                "geonames": "Manchester",
-                "en": "Manchester Parish",
-                "de": "Manchester Parish",
-                "es": "Parroquia de Manchester",
-                "fr": "Paroisse de Manchester",
-                "it": "Parrocchia di Manchester",
-                "zh": "\u66fc\u5fb9\u65af\u7279\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9728756,
-            "lng": -77.2686496
+        {
+            "code": "JM-12",
+            "names": "Manchester",
+            "type": "Parish"
         },
-        "13": {
-            "name": "Clarendon Parish, Jamaica",
-            "code": "13",
-            "names": {
-                "geonames": "Clarendon",
-                "ru": "\u041a\u043b\u0430\u0440\u0435\u043d\u0434\u043e\u043d",
-                "en": "Clarendon Parish",
-                "de": "Clarendon Parish",
-                "es": "Parroquia de Clarendon",
-                "fr": "Paroisse de Clarendon",
-                "it": "Parrocchia di Clarendon",
-                "zh": "\u514b\u62c9\u502b\u767b\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9808262,
-            "lng": -76.87579820000002
+        {
+            "code": "JM-13",
+            "names": "Clarendon",
+            "type": "Parish"
         },
-        "14": {
-            "name": "Saint Catherine Parish",
-            "code": "14",
-            "names": {
-                "geonames": "Saint Catherine",
-                "ru": "\u0421\u0435\u043d\u0442-\u041a\u0430\u0442\u0435\u0440\u0438\u043d",
-                "en": "Saint Catherine Parish",
-                "de": "Saint Catherine Parish",
-                "es": "Parroquia de Saint Catherine",
-                "fr": "Paroisse de Sainte-Catherine",
-                "it": "Parrocchia di Saint Catherine",
-                "zh": "\u8056\u51f1\u745f\u7433\u5340"
-            },
-            "division": "parish",
-            "parent": "JM",
-            "lat": 17.9791011,
-            "lng": -76.88603369999998
+        {
+            "code": "JM-14",
+            "names": "Saint Catherine",
+            "type": "Parish"
         }
-    }
+    ]
 }

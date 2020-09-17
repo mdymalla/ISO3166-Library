@@ -1,1566 +1,539 @@
 {
     "alpha-2": "TR",
     "alpha-3": "TUR",
-    "numeric": 792,
-    "capital": "Ankara",
-    "currency": "TRY",
-    "languages": [
-        "tr"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddf7",
+    "numeric": "792",
     "names": {
-        "geonames": "Turkey",
         "en": "Turkey",
-        "ar": "\u062a\u0631\u0643\u064a\u0627",
-        "de": "T\u00fcrkei",
-        "es": "Turqu\u00eda",
         "fr": "Turquie",
-        "it": "Turchia",
-        "ru": "\u0422\u0443\u0440\u0446\u0438\u044f",
+        "ur": "\u062a\u0631\u06a9\u06cc",
+        "rn": "Turukiya",
+        "lv": "Turcija",
+        "hy": "\u0539\u0578\u0582\u0580\u0584\u056b\u0561",
+        "sq": "Turqi",
+        "jv": "Turki",
+        "or": "\u0b24\u0b41\u0b30\u0b4d\u0b15\u0b40",
+        "mg": "Torkia",
+        "no": "Tyrkia",
         "zh": "\u571f\u8033\u5176",
-        "he": "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d4",
-        "hi": "\u0924\u0941\u0930\u094d\u0915\u0940",
+        "tr": "T\u00fcrkiye",
+        "bs": "Turska",
         "ja": "\u30c8\u30eb\u30b3",
-        "pt": "Turquia"
+        "th": "\u0e15\u0e38\u0e23\u0e01\u0e35",
+        "he": "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d4",
+        "kk": "\u0422\u04af\u0440\u043a\u0438\u044f",
+        "mo": "Turcia",
+        "ff": "Turkii",
+        "ca": "Turquia",
+        "ar": "\u062a\u0631\u0643\u064a\u0627",
+        "eu": "Turkia",
+        "ps": "\u062a\u0631\u06a9\u064a",
+        "kn": "\u0c9f\u0cb0\u0ccd\u0c95\u0cbf",
+        "si": "\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2\u0dba",
+        "km": "\u178f\u17bd\u1780\u1782\u17b8",
+        "ne": "\u091f\u0930\u094d\u0915\u0940",
+        "fi": "Turkki",
+        "hi": "\u0924\u0941\u0930\u094d\u0915\u0940",
+        "rm": "Tirchia",
+        "vi": "Th\u1ed5 Nh\u0129 K\u1ef3",
+        "gl": "Turqu\u00eda",
+        "ig": "Obodo Turkey",
+        "mr": "\u0924\u0941\u0930\u094d\u0915\u0940",
+        "es": "Turqu\u00eda",
+        "be": "\u0422\u0443\u0440\u0446\u044b\u044f",
+        "lg": "Ttake",
+        "az": "\u0422\u04af\u0440\u043a\u0438\u0458\u04d9",
+        "ce": "\u0422\u0443\u0440\u043a\u043e\u0439\u0447\u043e\u044c",
+        "mk": "\u0422\u0443\u0440\u0446\u0438\u0458\u0430",
+        "zu": "i-Turkey",
+        "it": "Turchia",
+        "ko": "\ud130\ud0a4",
+        "lo": "\u0ec0\u0e97\u0eb5\u0e84\u0eb5",
+        "lt": "Turkija",
+        "dz": "\u0f4a\u0f71\u0f62\u0f0b\u0f40\u0f72",
+        "ln": "Tiliki",
+        "hr": "Turska",
+        "ks": "\u062a\u064f\u0631\u06a9\u06cc",
+        "sv": "Turkiet",
+        "pl": "Turcja",
+        "nb": "Tyrkia",
+        "sh": "Turska",
+        "lu": "Tuluki",
+        "nl": "Turkije",
+        "ky": "\u0422\u04af\u0440\u043a\u0438\u044f",
+        "bn": "\u09a4\u09c1\u09b0\u09b8\u09cd\u0995",
+        "sd": "\u062a\u0631\u06aa\u064a",
+        "fa": "\u062a\u0631\u06a9\u06cc\u0647",
+        "gd": "An Tuirc",
+        "cs": "Turecko",
+        "tk": "T\u00fcrki\u00fde",
+        "eo": "Turkujo",
+        "mt": "it-Turkija",
+        "sr": "Turska",
+        "wo": "Tirki",
+        "el": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1",
+        "sn": "Turkey",
+        "pt": "Turquia",
+        "yi": "\u05d8\u05e2\u05e8\u05e7\u05d9\u05d9",
+        "is": "Tyrkland",
+        "ta": "\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf",
+        "br": "Turkia",
+        "hu": "T\u00f6r\u00f6korsz\u00e1g",
+        "et": "T\u00fcrgi",
+        "ku": "Tirkiye",
+        "sk": "Turecko",
+        "sw": "Uturuki",
+        "te": "\u0c1f\u0c30\u0c4d\u0c15\u0c40",
+        "ro": "Turcia",
+        "ki": "Uturuki",
+        "ak": "T\u025b\u025bki",
+        "tg": "\u0422\u0443\u0440\u043a\u0438\u044f",
+        "ml": "\u0d24\u0d41\u0d7c\u0d15\u0d4d\u0d15\u0d3f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de T\u0254\u0254ki",
+        "de": "T\u00fcrkei",
+        "as": "\u09a4\u09c1\u09f0\u09cd\u0995\u09bf",
+        "am": "\u1271\u122d\u12ad",
+        "se": "Durka",
+        "ia": "Turchia",
+        "ti": "\u1271\u122d\u12ad",
+        "ru": "\u0422\u0443\u0440\u0446\u0438\u044f",
+        "ga": "an Tuirc",
+        "bg": "\u0422\u0443\u0440\u0446\u0438\u044f",
+        "my": "\u1010\u1030\u101b\u1000\u102e",
+        "fy": "Turkije",
+        "bm": "Turiki",
+        "gu": "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0ac0",
+        "uz": "\u0422\u0443\u0440\u043a\u0438\u044f",
+        "cy": "Twrci",
+        "ug": "\u062a\u06c8\u0631\u0643\u0649\u064a\u06d5",
+        "nn": "Tyrkia",
+        "uk": "\u0422\u0443\u0440\u0435\u0447\u0447\u0438\u043d\u0430",
+        "qu": "Turqu\u00eda",
+        "tl": "Turkey",
+        "ms": "Turki",
+        "so": "Turki",
+        "da": "Tyrkiet",
+        "tt": "\u0422\u04e9\u0440\u043a\u0438\u044f",
+        "af": "Turkye",
+        "ha": "Turkiyya",
+        "iw": "\u05d8\u05d5\u05e8\u05e7\u05d9\u05d4",
+        "ee": "T\u025bki nutome",
+        "in": "Turki",
+        "to": "Toake",
+        "sl": "Tur\u010dija",
+        "sg": "Turuk\u00efi",
+        "lb": "Tierkei",
+        "fo": "Turkaland",
+        "mn": "\u0422\u0443\u0440\u043a",
+        "id": "Turki",
+        "pa": "\u0a24\u0a41\u0a30\u0a15\u0a40",
+        "ka": "\u10d7\u10e3\u10e0\u10e5\u10d4\u10d7\u10d8",
+        "nd": "Thekhi"
     },
-    "ISO3166-2": {
-        "01": {
-            "name": "Adana Province",
-            "code": "01",
-            "names": {
-                "geonames": "Adana",
-                "ru": "\u0410\u0434\u0430\u043d\u0430",
-                "en": "Adana Province",
-                "ar": "\u0623\u0636\u0646\u0629",
-                "de": "Adana",
-                "es": "Provincia de Adana",
-                "fr": "Adana",
-                "it": "Provincia di Adana",
-                "zh": "\u963f\u8fbe\u7eb3\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 36.999981,
-            "lng": 35.32436000000007
-        },
-        "02": {
-            "name": "Ad\u0131yaman Province",
-            "code": "02",
-            "names": {
-                "geonames": "Adiyaman",
-                "ru": "\u0410\u0434\u044b\u044f\u043c\u0430\u043d",
-                "en": "Ad\u0131yaman Province",
-                "ar": "\u0623\u062f\u064a\u0627\u0645\u0627\u0646",
-                "de": "Ad\u0131yaman",
-                "es": "Provincia de Ad\u0131yaman",
-                "fr": "Ad\u0131yaman",
-                "it": "Provincia di Ad\u0131yaman",
-                "zh": "\u963f\u5fb7\u4e9a\u66fc\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.7641667,
-            "lng": 38.276166699999976
-        },
-        "03": {
-            "name": "Afyonkarahisar Province",
-            "code": "03",
-            "names": {
-                "geonames": "Afyonkarahisar",
-                "ru": "\u0410\u0444\u044c\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440",
-                "en": "Afyonkarahisar Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0641\u064a\u0648\u0646 \u0642\u0631\u0647 \u062d\u0635\u0627\u0631",
-                "de": "Afyonkarahisar",
-                "es": "Provincia de Afyonkarahisar",
-                "fr": "Afyonkarahisar",
-                "it": "Provincia di Afyonkarahisar",
-                "zh": "\u963f\u83f2\u6c38\u5361\u62c9\u5e0c\u8428\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.76376,
-            "lng": 30.540340000000015
-        },
-        "04": {
-            "name": "A\u011fr\u0131 Province",
-            "code": "04",
-            "names": {
-                "geonames": "Agri",
-                "ru": "\u0410\u0433\u0440\u044b",
-                "en": "A\u011fr\u0131 Province",
-                "ar": "\u0623\u063a\u0631\u064a",
-                "de": "A\u011fr\u0131",
-                "es": "Provincia de A\u011fr\u0131",
-                "fr": "A\u011fr\u0131",
-                "it": "Provincia di A\u011fr\u0131",
-                "zh": "\u963f\u52d2\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.7216667,
-            "lng": 43.05666670000005
-        },
-        "05": {
-            "name": "Amasya Province",
-            "code": "05",
-            "names": {
-                "geonames": "Amasya",
-                "ru": "\u0410\u043c\u0430\u0441\u044c\u044f",
-                "en": "Amasya Province",
-                "ar": "\u0623\u0645\u0627\u0635\u064a\u0627",
-                "de": "Amasya",
-                "es": "Provincia de Amasya",
-                "fr": "Amasya",
-                "it": "Provincia di Amasya",
-                "zh": "\u963f\u9a6c\u897f\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.65,
-            "lng": 35.83333330000005
-        },
-        "06": {
-            "name": "Ankara Province",
-            "code": "06",
-            "names": {
-                "geonames": "Ankara",
-                "ru": "\u0410\u043d\u043a\u0430\u0440\u0430",
-                "en": "Ankara Province",
-                "ar": "\u0623\u0646\u0642\u0631\u0629",
-                "de": "Ankara",
-                "es": "Provincia de Ankara",
-                "fr": "Ankara",
-                "it": "Provincia di Ankara",
-                "zh": "\u5b89\u5361\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.92077,
-            "lng": 32.85410999999999
-        },
-        "07": {
-            "name": "Antalya Province",
-            "code": "07",
-            "names": {
-                "geonames": "Antalya",
-                "ru": "\u0410\u043d\u0442\u0430\u043b\u044c\u044f",
-                "en": "Antalya Province",
-                "ar": "\u0623\u0646\u0637\u0627\u0644\u064a\u0627",
-                "de": "Antalya",
-                "es": "Provincia de Antalya",
-                "fr": "Antalya",
-                "it": "Provincia di Adalia",
-                "zh": "\u5b89\u5854\u5229\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 36.88414,
-            "lng": 30.70562999999993
-        },
-        "08": {
-            "name": "Artvin Province",
-            "code": "08",
-            "names": {
-                "geonames": "Artvin",
-                "ru": "\u0410\u0440\u0442\u0432\u0438\u043d",
-                "en": "Artvin Province",
-                "ar": "\u0623\u0631\u062a\u0648\u064a\u0646",
-                "de": "Artvin",
-                "es": "Provincia de Artvin",
-                "fr": "Artvin",
-                "it": "Provincia di Artvin",
-                "zh": "\u963f\u5c14\u7279\u6e29\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.1833333,
-            "lng": 41.81666670000004
-        },
-        "09": {
-            "name": "Ayd\u0131n Province",
-            "code": "09",
-            "names": {
-                "geonames": "Aydin",
-                "ru": "\u0410\u0439\u0434\u044b\u043d",
-                "en": "Ayd\u0131n Province",
-                "ar": "\u0623\u064a\u0637\u0646",
-                "de": "Ayd\u0131n",
-                "es": "Provincia de Aydin",
-                "fr": "Ayd\u0131n",
-                "it": "Provincia di Ayd\u0131n",
-                "zh": "\u827e\u767b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.8444,
-            "lng": 27.845800000000054
-        },
-        "10": {
-            "name": "Bal\u0131kesir Province",
-            "code": "10",
-            "names": {
-                "geonames": "Balikesir",
-                "ru": "\u0411\u0430\u043b\u044b\u043a\u0435\u0441\u0438\u0440",
-                "en": "Bal\u0131kesir Province",
-                "ar": "\u0628\u0627\u0644\u0642 \u0623\u0633\u064a\u0631",
-                "de": "Bal\u0131kesir",
-                "es": "Provincia de Bal\u0131kesir",
-                "fr": "Bal\u0131kesir",
-                "it": "Provincia di Bal\u0131kesir",
-                "zh": "\u5df4\u52d2\u514b\u57c3\u897f\u5c14"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.648369,
-            "lng": 27.88261
-        },
-        "11": {
-            "name": "Bilecik Province",
-            "code": "11",
-            "names": {
-                "geonames": "Bilecik",
-                "ru": "\u0411\u0438\u043b\u0435\u0434\u0436\u0438\u043a",
-                "en": "Bilecik Province",
-                "ar": "\u0628\u064a\u0644\u0647 \u062c\u0643",
-                "de": "Bilecik",
-                "es": "Provincia de Bilecik",
-                "fr": "Bilecik",
-                "it": "Provincia di Bilecik",
-                "zh": "\u6bd4\u83b1\u5409\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.150131,
-            "lng": 29.98306100000002
-        },
-        "12": {
-            "name": "Bing\u00f6l Province",
-            "code": "12",
-            "names": {
-                "geonames": "Bingoel",
-                "ru": "\u0411\u0438\u043d\u0433\u0451\u043b\u044c",
-                "en": "Bing\u00f6l Province",
-                "ar": "\u0628\u064a\u0646\u0643\u064f\u0644",
-                "de": "Bing\u00f6l",
-                "es": "Provincia de Bing\u00f6l",
-                "fr": "Bing\u00f6l",
-                "it": "Provincia di Bing\u00f6l",
-                "zh": "\u5bbe\u683c\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.885349,
-            "lng": 40.498290999999995
-        },
-        "13": {
-            "name": "Bitlis Province",
-            "code": "13",
-            "names": {
-                "geonames": "Bitlis",
-                "ru": "\u0411\u0438\u0442\u043b\u0438\u0441",
-                "en": "Bitlis Province",
-                "ar": "\u0628\u062f\u0644\u064a\u0633",
-                "de": "Bitlis",
-                "es": "Provincia de Bitlis",
-                "fr": "Bitlis",
-                "it": "Provincia di Bitlis",
-                "zh": "\u6bd4\u7279\u5229\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.4,
-            "lng": 42.116666699999996
-        },
-        "14": {
-            "name": "Bolu Province",
-            "code": "14",
-            "names": {
-                "geonames": "Bolu",
-                "ru": "\u0411\u043e\u043b\u0443",
-                "en": "Bolu Province",
-                "ar": "\u0628\u0648\u0644\u0649",
-                "de": "Bolu",
-                "es": "Provincia de Bolu",
-                "fr": "Bolu",
-                "it": "Provincia di Bolu",
-                "zh": "\u535a\u5362\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.739479,
-            "lng": 31.611560999999938
-        },
-        "15": {
-            "name": "Burdur Province",
-            "code": "15",
-            "names": {
-                "geonames": "Burdur",
-                "ru": "\u0411\u0443\u0440\u0434\u0443\u0440",
-                "en": "Burdur Province",
-                "ar": "\u0628\u0648\u0631\u062f\u0648\u0631",
-                "de": "Burdur",
-                "es": "Provincia de Burdur",
-                "fr": "Burdur",
-                "it": "Provincia di Burdur",
-                "zh": "\u5e03\u5c14\u675c\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.726909,
-            "lng": 30.28887599999996
-        },
-        "16": {
-            "name": "Bursa Province",
-            "code": "16",
-            "names": {
-                "geonames": "Bursa",
-                "ru": "\u0411\u0443\u0440\u0441\u0430",
-                "en": "Bursa Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0631\u0635\u0627",
-                "de": "Bursa",
-                "es": "Provincia de Bursa",
-                "fr": "Bursa",
-                "it": "Provincia di Bursa",
-                "zh": "\u5e03\u5c14\u8428\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.18257,
-            "lng": 29.066869999999994
-        },
-        "17": {
-            "name": "\u00c7anakkale Province",
-            "code": "17",
-            "names": {
-                "geonames": "Canakkale",
-                "ru": "\u0427\u0430\u043d\u0430\u043a\u043a\u0430\u043b\u0435",
-                "en": "\u00c7anakkale Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0642 \u0642\u0644\u0639\u0629",
-                "de": "\u00c7anakkale",
-                "es": "Provincia de \u00c7anakkale",
-                "fr": "\u00c7anakkale",
-                "it": "Provincia di \u00c7anakkale",
-                "zh": "\u6070\u7eb3\u5361\u83b1\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.155312,
-            "lng": 26.414160000000038
-        },
-        "18": {
-            "name": "\u00c7ank\u0131r\u0131 Province",
-            "code": "18",
-            "names": {
-                "geonames": "Cankiri",
-                "ru": "\u0427\u0430\u043d\u043a\u044b\u0440\u044b",
-                "en": "\u00c7ank\u0131r\u0131 Province",
-                "ar": "\u062c\u0627\u0646\u0642\u0631\u064a",
-                "de": "\u00c7ank\u0131r\u0131",
-                "es": "Provincia de \u00c7ank\u0131r\u0131",
-                "fr": "\u00c7ank\u0131r\u0131",
-                "it": "Provincia di \u00c7ank\u0131r\u0131",
-                "zh": "\u660c\u514b\u52d2\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.6,
-            "lng": 33.616666699999996
-        },
-        "19": {
-            "name": "\u00c7orum Province",
-            "code": "19",
-            "names": {
-                "geonames": "Corum",
-                "ru": "\u0427\u043e\u0440\u0443\u043c",
-                "en": "\u00c7orum Province",
-                "ar": "\u062c\u0648\u0631\u0648\u0645",
-                "de": "\u00c7orum",
-                "es": "Provincia de \u00c7orum",
-                "fr": "\u00c7orum",
-                "it": "Provincia di \u00c7orum",
-                "zh": "\u4e54\u9c81\u59c6\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.5505556,
-            "lng": 34.955555600000025
-        },
-        "20": {
-            "name": "Denizli Province",
-            "code": "20",
-            "names": {
-                "geonames": "Denizli",
-                "ru": "\u0414\u0435\u043d\u0438\u0437\u043b\u0438",
-                "en": "Denizli Province",
-                "ar": "\u062f\u0646\u064a\u0632\u0644\u064a",
-                "de": "Denizli",
-                "es": "Provincia de Denizli",
-                "fr": "Denizli",
-                "it": "Provincia di Denizli",
-                "zh": "\u4ee3\u5c3c\u5179\u5229\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.77652,
-            "lng": 29.086389999999938
-        },
-        "21": {
-            "name": "Diyarbak\u0131r Province",
-            "code": "21",
-            "names": {
-                "geonames": "Diyarbakir",
-                "ru": "\u0414\u0438\u044f\u0440\u0431\u0430\u043a\u044b\u0440",
-                "en": "Diyarbak\u0131r Province",
-                "ar": "\u062f\u064a\u0627\u0631\u0628\u0643\u0631",
-                "de": "Diyarbak\u0131r",
-                "es": "Provincia de Diyarbak\u0131r",
-                "fr": "Diyarbak\u0131r",
-                "it": "Provincia di Diyarbak\u0131r",
-                "zh": "\u8fea\u4e9a\u5df4\u514b\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.91441,
-            "lng": 40.23062900000002
-        },
-        "22": {
-            "name": "Edirne Province",
-            "code": "22",
-            "names": {
-                "geonames": "Edirne",
-                "ru": "\u042d\u0434\u0438\u0440\u043d\u0435",
-                "en": "Edirne Province",
-                "ar": "\u0627\u062f\u0631\u0646\u0629",
-                "de": "Edirne",
-                "es": "Provincia de Edirne",
-                "fr": "Edirne",
-                "it": "Provincia di Edirne",
-                "zh": "\u57c3\u8fea\u5c14\u5185\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.6666667,
-            "lng": 26.56666670000004
-        },
-        "23": {
-            "name": "Elaz\u0131\u011f Province",
-            "code": "23",
-            "names": {
-                "geonames": "Elazig",
-                "ru": "\u042d\u043b\u044f\u0437\u044b\u0433",
-                "en": "Elaz\u0131\u011f Province",
-                "ar": "\u0625\u0644\u0627\u0632\u0650\u063a",
-                "de": "Elaz\u0131\u011f",
-                "es": "Provincia de Elaz\u0131\u011f",
-                "fr": "Elaz\u0131\u011f",
-                "it": "Provincia di El\u00e2z\u0131\u011f",
-                "zh": "\u57c3\u62c9\u6cfd\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.680969,
-            "lng": 39.22639800000002
-        },
-        "24": {
-            "name": "Erzincan Province",
-            "code": "24",
-            "names": {
-                "geonames": "Erzincan",
-                "ru": "\u042d\u0440\u0437\u0438\u043d\u0434\u0436\u0430\u043d",
-                "en": "Erzincan Province",
-                "ar": "\u0623\u0631\u0632\u064a\u0646\u062c\u0627\u0646",
-                "de": "Erzincan",
-                "es": "Provincia de Erzincan",
-                "fr": "Erzincan",
-                "it": "Provincia di Erzincan",
-                "zh": "\u57c3\u5c14\u6d25\u8a79\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.739929,
-            "lng": 39.504501000000005
-        },
-        "25": {
-            "name": "Erzurum Province",
-            "code": "25",
-            "names": {
-                "geonames": "Erzurum",
-                "ru": "\u042d\u0440\u0437\u0443\u0440\u0443\u043c",
-                "en": "Erzurum Province",
-                "ar": "\u0623\u0631\u0636\u0631\u0648\u0645",
-                "de": "Erzurum",
-                "es": "Provincia de Erzurum",
-                "fr": "Erzurum",
-                "it": "Provincia di Erzurum",
-                "zh": "\u57c3\u5c14\u7956\u9c81\u59c6\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.9043189,
-            "lng": 41.26788529999999
-        },
-        "26": {
-            "name": "Eski\u015fehir Province",
-            "code": "26",
-            "names": {
-                "geonames": "Eskisehir",
-                "ru": "\u042d\u0441\u043a\u0438\u0448\u0435\u0445\u0438\u0440",
-                "en": "Eski\u015fehir Province",
-                "ar": "\u0623\u0633\u0643\u064a \u0634\u0647\u0631",
-                "de": "Eski\u015fehir",
-                "es": "Provincia de Eski\u015fehir",
-                "fr": "Eski\u015fehir",
-                "it": "Provincia di Eski\u015fehir",
-                "zh": "\u57c3\u65af\u57fa\u8c22\u5e0c\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.784302,
-            "lng": 30.51922000000002
-        },
-        "27": {
-            "name": "Gaziantep Province",
-            "code": "27",
-            "names": {
-                "geonames": "Gaziantep",
-                "ru": "\u0413\u0430\u0437\u0438\u0430\u043d\u0442\u0435\u043f",
-                "en": "Gaziantep Province",
-                "ar": "\u0639\u0646\u062a\u0627\u0628",
-                "de": "Gaziantep",
-                "es": "Provincia de Gaziantep",
-                "fr": "Gaziantep",
-                "it": "Provincia di Gaziantep",
-                "zh": "\u52a0\u6d4e\u5b89\u6cf0\u666e\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.06622,
-            "lng": 37.383320000000026
-        },
-        "28": {
-            "name": "Giresun Province",
-            "code": "28",
-            "names": {
-                "geonames": "Giresun",
-                "ru": "\u0413\u0438\u0440\u0435\u0441\u0443\u043d",
-                "en": "Giresun Province",
-                "ar": "\u063a\u064a\u0631\u0633\u0648\u0646",
-                "de": "Giresun",
-                "es": "Provincia de Giresun",
-                "fr": "Giresun",
-                "it": "Provincia di Giresun",
-                "zh": "\u5409\u96f7\u677e\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.912811,
-            "lng": 38.389530000000036
-        },
-        "29": {
-            "name": "G\u00fcm\u00fc\u015fhane Province",
-            "code": "29",
-            "names": {
-                "geonames": "Gumushane",
-                "ru": "\u0413\u044e\u043c\u044e\u0448\u0445\u0430\u043d\u0435",
-                "en": "G\u00fcm\u00fc\u015fhane Province",
-                "ar": "\u0643\u0648\u0645\u0648\u0634 \u062e\u0627\u0646\u0629",
-                "de": "G\u00fcm\u00fc\u015fhane",
-                "es": "Provincia de G\u00fcm\u00fc\u015fhane",
-                "fr": "G\u00fcm\u00fc\u015fhane",
-                "it": "Provincia di G\u00fcm\u00fc\u015fhane",
-                "zh": "\u5c45\u7c73\u4ec0\u54c8\u5185\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.4602778,
-            "lng": 39.481388899999956
-        },
-        "30": {
-            "name": "Hakk\u00e2ri Province",
-            "code": "30",
-            "names": {
-                "geonames": "Hakkari",
-                "ru": "\u0425\u0430\u043a\u043a\u044f\u0440\u0438",
-                "en": "Hakk\u00e2ri Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0643\u0627\u0631\u064a",
-                "de": "Hakk\u00e2ri",
-                "es": "Provincia de Hakk\u00e2ri",
-                "fr": "Hakkari",
-                "it": "Provincia di Hakk\u00e2ri",
-                "zh": "\u54c8\u5361\u91cc\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.5833333,
-            "lng": 43.73333330000003
-        },
-        "31": {
-            "name": "Hatay Province",
-            "code": "31",
-            "names": {
-                "geonames": "Hatay",
-                "ru": "\u0425\u0430\u0442\u0430\u0439",
-                "en": "Hatay Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u062a\u0627\u064a",
-                "de": "Hatay",
-                "es": "Provincia de Hatay",
-                "fr": "Hatay",
-                "it": "Provincia di Hatay",
-                "zh": "\u54c8\u5854\u4f0a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 36.2,
-            "lng": 36.16666669999995
-        },
-        "32": {
-            "name": "Isparta Province",
-            "code": "32",
-            "names": {
-                "geonames": "Isparta",
-                "ru": "\u042b\u0441\u043f\u0430\u0440\u0442\u0430",
-                "en": "Isparta Province",
-                "ar": "\u0625\u0633\u0628\u0631\u0637\u0629",
-                "de": "Isparta",
-                "es": "Provincia de Isparta",
-                "fr": "Isparta",
-                "it": "Provincia di Isparta",
-                "zh": "\u4f0a\u65af\u5e15\u5c14\u5854\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.764771,
-            "lng": 30.556560999999988
-        },
-        "33": {
-            "name": "Mersin Province",
-            "code": "33",
-            "names": {
-                "geonames": "Mersin",
-                "ru": "\u041c\u0435\u0440\u0441\u0438\u043d",
-                "en": "Mersin Province",
-                "ar": "\u0645\u0631\u0633\u064a\u0646",
-                "de": "Mersin",
-                "es": "Provincia de Mersin",
-                "fr": "Mersin",
-                "it": "Provincia di Mersin",
-                "zh": "\u6885\u5c14\u8f9b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 36.764291,
-            "lng": 34.550977999999986
-        },
-        "34": {
-            "name": "Istanbul Province",
-            "code": "34",
-            "names": {
-                "geonames": "Istanbul",
-                "en": "Istanbul Province",
-                "ar": "\u0625\u0633\u0637\u0646\u0628\u0648\u0644",
-                "de": "Istanbul",
-                "es": "Provincia de Estambul",
-                "fr": "Istanbul",
-                "it": "Provincia di Istanbul",
-                "ru": "\u0421\u0442\u0430\u043c\u0431\u0443\u043b",
-                "zh": "\u4f0a\u65af\u5766\u5821\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.00527,
-            "lng": 28.976959999999963
-        },
-        "35": {
-            "name": "\u0130zmir Province",
-            "code": "35",
-            "names": {
-                "geonames": "Izmir",
-                "ru": "\u0418\u0437\u043c\u0438\u0440",
-                "en": "\u0130zmir Province",
-                "ar": "\u0627\u0632\u0645\u064a\u0631",
-                "de": "Izmir",
-                "es": "Provincia de Esmirna",
-                "fr": "\u0130zmir",
-                "it": "Provincia di Smirne",
-                "zh": "\u4f0a\u5179\u5bc6\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.41885,
-            "lng": 27.12871999999993
-        },
-        "36": {
-            "name": "Kars Province",
-            "code": "36",
-            "names": {
-                "geonames": "Kars",
-                "ru": "\u041a\u0430\u0440\u0441",
-                "en": "Kars Province",
-                "ar": "\u0642\u0627\u0631\u0635",
-                "de": "Kars",
-                "es": "Provincia de Kars",
-                "fr": "Kars",
-                "it": "Provincia di Kars",
-                "zh": "\u5361\u5c14\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.59267,
-            "lng": 43.07783100000006
-        },
-        "37": {
-            "name": "Kastamonu Province",
-            "code": "37",
-            "names": {
-                "geonames": "Kastamonu",
-                "ru": "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443",
-                "en": "Kastamonu Province",
-                "ar": "\u0642\u0633\u0637\u0645\u0648\u0646\u064a",
-                "de": "Kastamonu",
-                "es": "Provincia de Kastamonu",
-                "fr": "Kastamonu",
-                "it": "Provincia di Kastamonu",
-                "zh": "\u5361\u65af\u5854\u83ab\u52aa\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.38871,
-            "lng": 33.782730000000015
-        },
-        "38": {
-            "name": "Kayseri Province",
-            "code": "38",
-            "names": {
-                "geonames": "Kayseri",
-                "ru": "\u041a\u0430\u0439\u0441\u0435\u0440\u0438",
-                "en": "Kayseri Province",
-                "ar": "\u0642\u064a\u0635\u0631\u064a\u0629",
-                "de": "Kayseri",
-                "es": "Provincia de Kayseri",
-                "fr": "Kayseri",
-                "it": "Provincia di Kayseri",
-                "zh": "\u5f00\u585e\u5229\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.73122,
-            "lng": 35.47872899999993
-        },
-        "39": {
-            "name": "K\u0131rklareli Province",
-            "code": "39",
-            "names": {
-                "geonames": "Kirklareli",
-                "ru": "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438",
-                "en": "K\u0131rklareli Province",
-                "ar": "\u0642\u0631\u0642\u0644\u0631 \u0627\u064a\u0644\u064a",
-                "de": "K\u0131rklareli",
-                "es": "Provincia de K\u0131rklareli",
-                "fr": "K\u0131rklareli",
-                "it": "Provincia di K\u0131rklareli",
-                "zh": "\u514b\u5c14\u514b\u62c9\u96f7\u5229\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.7333333,
-            "lng": 27.21666670000002
-        },
-        "40": {
-            "name": "K\u0131r\u015fehir Province",
-            "code": "40",
-            "names": {
-                "geonames": "Kirsehir",
-                "ru": "\u041a\u044b\u0440\u0448\u0435\u0445\u0438\u0440",
-                "en": "K\u0131r\u015fehir Province",
-                "ar": "\u0642\u0631\u0634\u0647\u0631",
-                "de": "K\u0131r\u015fehir",
-                "es": "Provincia de K\u0131r\u015fehir",
-                "fr": "K\u0131r\u015fehir",
-                "it": "Provincia di K\u0131r\u015fehir",
-                "zh": "\u514b\u5c14\u8c22\u5e0c\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.15,
-            "lng": 34.16666669999995
-        },
-        "41": {
-            "name": "Kocaeli Province",
-            "code": "41",
-            "names": {
-                "geonames": "Kocaeli",
-                "ru": "\u041a\u043e\u0434\u0436\u0430\u044d\u043b\u0438",
-                "en": "Kocaeli Province",
-                "ar": "\u0642\u0648\u062c\u0647 \u0627\u064a\u0644\u064a",
-                "de": "Kocaeli",
-                "es": "Provincia de Kocaeli",
-                "fr": "Kocaeli",
-                "it": "Provincia di Kocaeli",
-                "zh": "\u79d1\u8d3e\u57c3\u5229\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.77869,
-            "lng": 29.909470000000056
-        },
-        "42": {
-            "name": "Konya Province",
-            "code": "42",
-            "names": {
-                "geonames": "Konya",
-                "ru": "\u041a\u043e\u043d\u044c\u044f",
-                "en": "Konya Province",
-                "ar": "\u0642\u0648\u0646\u064a\u0629",
-                "de": "Konya",
-                "es": "Provincia de Konya",
-                "fr": "Konya",
-                "it": "Provincia di Konya",
-                "zh": "\u79d1\u5c3c\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.87759,
-            "lng": 32.48176999999998
-        },
-        "43": {
-            "name": "K\u00fctahya Province",
-            "code": "43",
-            "names": {
-                "geonames": "Kuetahya",
-                "ru": "\u041a\u044e\u0442\u0430\u0445\u044c\u044f",
-                "en": "K\u00fctahya Province",
-                "ar": "\u0643\u0648\u062a\u0627\u0647\u064a\u0627",
-                "de": "K\u00fctahya",
-                "es": "Provincia de K\u00fctahya",
-                "fr": "K\u00fctahya",
-                "it": "Provincia di K\u00fctahya",
-                "zh": "\u5c48\u5854\u5e0c\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.4166667,
-            "lng": 29.983333300000027
-        },
-        "44": {
-            "name": "Malatya Province",
-            "code": "44",
-            "names": {
-                "geonames": "Malatya",
-                "ru": "\u041c\u0430\u043b\u0430\u0442\u044c\u044f",
-                "en": "Malatya Province",
-                "ar": "\u0645\u0644\u0637\u064a\u0629",
-                "de": "Malatya",
-                "es": "Provincia de Malatya",
-                "fr": "Malatya",
-                "it": "Provincia di Malatya",
-                "zh": "\u9a6c\u62c9\u8482\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.35519,
-            "lng": 38.309459999999945
-        },
-        "45": {
-            "name": "Manisa Province",
-            "code": "45",
-            "names": {
-                "geonames": "Manisa",
-                "ru": "\u041c\u0430\u043d\u0438\u0441\u0430",
-                "en": "Manisa Province",
-                "ar": "\u0645\u0627\u0646\u064a\u0633\u0627",
-                "de": "Manisa",
-                "es": "Provincia de Manisa",
-                "fr": "Manisa",
-                "it": "Provincia di Manisa",
-                "zh": "\u9a6c\u5c3c\u8428\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.6138889,
-            "lng": 27.422222199999965
-        },
-        "46": {
-            "name": "Kahramanmara\u015f Province",
-            "code": "46",
-            "names": {
-                "geonames": "Kahramanmaras",
-                "ru": "\u041a\u0430\u0445\u0440\u0430\u043c\u0430\u043d\u043c\u0430\u0440\u0430\u0448",
-                "en": "Kahramanmara\u015f Province",
-                "ar": "\u0642\u0647\u0631\u0645\u0627\u0646 \u0645\u0631\u0639\ufffd\ufffd",
-                "de": "Kahramanmara\u015f",
-                "es": "Provincia de Kahramanmara\u015f",
-                "fr": "Kahramanmara\u015f",
-                "it": "Provincia di Kahramanmara\u015f",
-                "zh": "\u5361\u8d6b\u62c9\u66fc\u9a6c\u62c9\u4ec0\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.5833333,
-            "lng": 36.93333329999996
-        },
-        "47": {
-            "name": "Mardin Province",
-            "code": "47",
-            "names": {
-                "geonames": "Mardin",
-                "ru": "\u041c\u0430\u0440\u0434\u0438\u043d",
-                "en": "Mardin Province",
-                "ar": "\u0645\u0627\u0631\u062f\u064a\u0646",
-                "de": "Mardin",
-                "es": "Provincia de Mardin",
-                "fr": "Mardin",
-                "it": "Provincia di Mardin",
-                "zh": "\u9a6c\u5c14\u4e01\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.3122361,
-            "lng": 40.73511200000007
-        },
-        "48": {
-            "name": "Mu\u011fla Province",
-            "code": "48",
-            "names": {
-                "geonames": "Mugla",
-                "ru": "\u041c\u0443\u0433\u043b\u0430",
-                "en": "Mu\u011fla Province",
-                "ar": "\u0645\u0648\u063a\u0644\u0627",
-                "de": "Mu\u011fla",
-                "es": "Provincia de Mu\u011fla",
-                "fr": "Mu\u011fla",
-                "it": "Provincia di Mu\u011fla",
-                "zh": "\u7a46\u62c9\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.2152778,
-            "lng": 28.36361110000007
-        },
-        "49": {
-            "name": "Mu\u015f Province",
-            "code": "49",
-            "names": {
-                "geonames": "Mus",
-                "ru": "\u041c\u0443\u0448",
-                "en": "Mu\u015f Province",
-                "ar": "\u0645\u0648\u0634",
-                "de": "Mu\u015f",
-                "es": "Provincia de Mu\u015f",
-                "fr": "Mu\u015f",
-                "it": "Provincia di Mu\u015f",
-                "zh": "\u7a46\u4ec0\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.7432926,
-            "lng": 41.506482300000016
-        },
-        "50": {
-            "name": "Nev\u015fehir Province",
-            "code": "50",
-            "names": {
-                "geonames": "Nevsehir",
-                "ru": "\u041d\u0435\u0432\u0448\u0435\u0445\u0438\u0440",
-                "en": "Nev\u015fehir Province",
-                "ar": "\u0646\u0648\u0634\u0647\u0631",
-                "de": "Nev\u015fehir",
-                "es": "Provincia de Nev\u015fehir",
-                "fr": "Nev\u015fehir",
-                "it": "Provincia di Nev\u015fehir",
-                "zh": "\u5185\u592b\u8c22\u5e0c\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.62442,
-            "lng": 34.72396900000001
-        },
-        "51": {
-            "name": "Ni\u011fde Province",
-            "code": "51",
-            "names": {
-                "geonames": "Nigde",
-                "ru": "\u041d\u0438\u0433\u0434\u0435",
-                "en": "Ni\u011fde Province",
-                "ar": "\u0646\u064a\u063a\u062f\u0629",
-                "de": "Ni\u011fde",
-                "es": "Provincia de Ni\u011fde",
-                "fr": "Ni\u011fde",
-                "it": "Provincia di Ni\u011fde",
-                "zh": "\u5c3c\u4ee3\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.9666667,
-            "lng": 34.68333329999996
-        },
-        "52": {
-            "name": "Ordu Province",
-            "code": "52",
-            "names": {
-                "geonames": "Ordu",
-                "ru": "\u041e\u0440\u0434\u0443",
-                "en": "Ordu Province",
-                "ar": "\u0623\u0631\u062f\u0648",
-                "de": "Ordu",
-                "es": "Provincia de Ordu",
-                "fr": "Ordu",
-                "it": "Provincia di Ordu",
-                "zh": "\u5965\u5c14\u675c\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.9833333,
-            "lng": 37.883333300000004
-        },
-        "53": {
-            "name": "Rize Province",
-            "code": "53",
-            "names": {
-                "geonames": "Rize",
-                "ru": "\u0420\u0438\u0437\u0435",
-                "en": "Rize Province",
-                "ar": "\u0631\u064a\u0632\u0647",
-                "de": "Rize",
-                "es": "Provincia de Rize",
-                "fr": "Rize",
-                "it": "Provincia di Rize",
-                "zh": "\u91cc\u6cfd\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.02005,
-            "lng": 40.52344900000003
-        },
-        "54": {
-            "name": "Sakarya Province",
-            "code": "54",
-            "names": {
-                "geonames": "Sakarya",
-                "ru": "\u0421\u0430\u043a\u0430\u0440\u044c\u044f",
-                "en": "Sakarya Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0642\u0627\u0631\u064a\u0627",
-                "de": "Sakarya",
-                "es": "Provincia de Sakarya",
-                "fr": "Sakarya",
-                "it": "Provincia di Sakarya",
-                "zh": "\u8428\u5361\u91cc\u4e9a\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.7568793,
-            "lng": 30.378138000000035
-        },
-        "55": {
-            "name": "Samsun Province",
-            "code": "55",
-            "names": {
-                "geonames": "Samsun",
-                "ru": "\u0421\u0430\u043c\u0441\u0443\u043d",
-                "en": "Samsun Province",
-                "ar": "\u0633\u0627\u0645\u0633\u0648\u0646",
-                "de": "Samsun",
-                "es": "Provincia de Samsun",
-                "fr": "Samsun",
-                "it": "Provincia di Samsun",
-                "zh": "\u8428\u59c6\u677e\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.292782,
-            "lng": 36.33127999999999
-        },
-        "56": {
-            "name": "Siirt Province",
-            "code": "56",
-            "names": {
-                "geonames": "Siirt",
-                "ru": "\u0421\u0438\u0438\u0440\u0442",
-                "en": "Siirt Province",
-                "ar": "\u0633\u0639\u0631\u062f",
-                "de": "Siirt",
-                "es": "Provincia de Siirt",
-                "fr": "Siirt",
-                "it": "Provincia di Siirt",
-                "zh": "\u9521\u5c14\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.94429,
-            "lng": 41.93288000000007
-        },
-        "57": {
-            "name": "Sinop Province",
-            "code": "57",
-            "names": {
-                "geonames": "Sinop",
-                "ru": "\u0421\u0438\u043d\u043e\u043f",
-                "en": "Sinop Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0646\u0648\u0628",
-                "de": "Sinop",
-                "es": "Provincia de Sinope",
-                "fr": "Sinop",
-                "it": "Provincia di Sinope",
-                "zh": "\u9521\u8bfa\u666e\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 42.0264222,
-            "lng": 35.155074499999955
-        },
-        "58": {
-            "name": "Sivas Province",
-            "code": "58",
-            "names": {
-                "geonames": "Sivas",
-                "ru": "\u0421\u0438\u0432\u0430\u0441",
-                "en": "Sivas Province",
-                "ar": "\u0633\u064a\u0648\u0627\u0633",
-                "de": "Sivas",
-                "es": "Provincia de Sivas",
-                "fr": "Sivas",
-                "it": "Provincia di Sivas",
-                "zh": "\u932b\u74e6\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.747662,
-            "lng": 37.01787899999999
-        },
-        "59": {
-            "name": "Tekirda\u011f Province",
-            "code": "59",
-            "names": {
-                "geonames": "Tekirdag",
-                "ru": "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433",
-                "en": "Tekirda\u011f Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0643\u064a\u0631\u0637\u0627\u063a",
-                "de": "Tekirda\u011f",
-                "es": "Provincia de Tekirda\u011f",
-                "fr": "Tekirda\u011f",
-                "it": "Provincia di Tekirda\u011f",
-                "zh": "\u6cf0\u57fa\u5c14\u8fbe\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.9833333,
-            "lng": 27.516666699999973
-        },
-        "60": {
-            "name": "Tokat Province",
-            "code": "60",
-            "names": {
-                "geonames": "Tokat",
-                "ru": "\u0422\u043e\u043a\u0430\u0442",
-                "en": "Tokat Province",
-                "ar": "\u062a\u0648\u0642\u0627\u062a",
-                "de": "Tokat",
-                "es": "Provincia de Tokat",
-                "fr": "Tokat",
-                "it": "Provincia di Tokat",
-                "zh": "\u6258\u5361\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.3166667,
-            "lng": 36.549999999999955
-        },
-        "61": {
-            "name": "Trabzon Province",
-            "code": "61",
-            "names": {
-                "geonames": "Trabzon",
-                "ru": "\u0422\u0440\u0430\u0431\u0437\u043e\u043d",
-                "en": "Trabzon Province",
-                "ar": "\u0637\u0631\u0627\u0628\u0632\u0648\u0646",
-                "de": "Trabzon",
-                "es": "Provincia de Trabzon",
-                "fr": "Trabzon",
-                "it": "Provincia di Trebisonda",
-                "zh": "\u7279\u62c9\u5e03\u5b97\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41,
-            "lng": 39.73333330000003
-        },
-        "62": {
-            "name": "Tunceli Province",
-            "code": "62",
-            "names": {
-                "geonames": "Tunceli",
-                "ru": "\u0422\u0443\u043d\u0434\u0436\u0435\u043b\u0438",
-                "en": "Tunceli Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0648\u0646\u062c\u0644\u064a",
-                "de": "Tunceli",
-                "es": "Provincia de Tunceli",
-                "fr": "Tunceli",
-                "it": "Provincia di Tunceli",
-                "zh": "\u901a\u6770\u5229\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.1079868,
-            "lng": 39.54016720000004
-        },
-        "63": {
-            "name": "\u015eanl\u0131urfa Province",
-            "code": "63",
-            "names": {
-                "geonames": "Sanliurfa",
-                "ru": "\u0428\u0430\u043d\u043b\u044b\u0443\u0440\u0444\u0430",
-                "en": "\u015eanl\u0131urfa Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0648\u0631\u0641\u0629",
-                "de": "\u015eanl\u0131urfa",
-                "es": "Provincia de Sanliurfa",
-                "fr": "\u015eanl\u0131urfa",
-                "it": "Provincia di \u015eanl\u0131urfa",
-                "zh": "\u5c1a\u52d2\u4e4c\u5c14\u6cd5\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.15,
-            "lng": 38.799999999999955
-        },
-        "64": {
-            "name": "U\u015fak Province",
-            "code": "64",
-            "names": {
-                "geonames": "Usak",
-                "ru": "\u0423\u0448\u0430\u043a",
-                "en": "U\u015fak Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0634\u0627\u0642",
-                "de": "U\u015fak",
-                "es": "Provincia de U\u015fak",
-                "fr": "U\u015fak",
-                "it": "Provincia di U\u015fak",
-                "zh": "\u4e4c\u6c99\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.682301,
-            "lng": 29.40818999999999
-        },
-        "65": {
-            "name": "Van Province",
-            "code": "65",
-            "names": {
-                "geonames": "Van",
-                "ru": "\u0412\u0430\u043d",
-                "en": "Van Province",
-                "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u0646",
-                "de": "Van",
-                "es": "Provincia de Van",
-                "fr": "Van",
-                "it": "Provincia di Van",
-                "zh": "\u51e1\u57ce\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.4941667,
-            "lng": 43.379999999999995
-        },
-        "66": {
-            "name": "Yozgat Province",
-            "code": "66",
-            "names": {
-                "geonames": "Yozgat",
-                "ru": "\u0419\u043e\u0437\u0433\u0430\u0442",
-                "en": "Yozgat Province",
-                "ar": "\u064a\u0648\u0632\u063a\u0627\u062a",
-                "de": "Yozgat",
-                "es": "Provincia de Yozgat",
-                "fr": "Yozgat",
-                "it": "Provincia di Yozgat",
-                "zh": "\u7ea6\u5179\u52a0\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.82,
-            "lng": 34.804444399999966
-        },
-        "67": {
-            "name": "Zonguldak Province",
-            "code": "67",
-            "names": {
-                "geonames": "Zonguldak",
-                "ru": "\u0417\u043e\u043d\u0433\u0443\u043b\u0434\u0430\u043a",
-                "en": "Zonguldak Province",
-                "ar": "\u0632\u0627\u0646\u063a\u0648\u0644\u062f\u0627\u0643",
-                "de": "Zonguldak",
-                "es": "Provincia de Zonguldak",
-                "fr": "Zonguldak",
-                "it": "Provincia di Zonguldak",
-                "zh": "\u5b97\u53e4\u5c14\u8fbe\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.456409,
-            "lng": 31.798730999999975
-        },
-        "68": {
-            "name": "Aksaray Province",
-            "code": "68",
-            "names": {
-                "geonames": "Aksaray",
-                "ru": "\u0410\u043a\u0441\u0430\u0440\u0430\u0439",
-                "en": "Aksaray Province",
-                "ar": "\u0622\u0642 \u0633\u0631\u0627\u064a",
-                "de": "Aksaray",
-                "es": "Provincia de Aksaray",
-                "fr": "Aksaray",
-                "it": "Provincia di Aksaray",
-                "zh": "\u963f\u514b\u8428\u8d56\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 38.36869,
-            "lng": 34.03697999999997
-        },
-        "69": {
-            "name": "Bayburt Province",
-            "code": "69",
-            "names": {
-                "geonames": "Bayburt",
-                "ru": "\u0411\u0430\u0439\u0431\u0443\u0440\u0442",
-                "en": "Bayburt Province",
-                "ar": "\u0628\u0627\u064a\u0628\u0648\u0631\u062a",
-                "de": "Bayburt",
-                "es": "Provincia de Bayburt",
-                "fr": "Bayburt",
-                "it": "Provincia di Bayburt",
-                "zh": "\u5df4\u4f0a\u5e03\u5c14\u7279\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.255169,
-            "lng": 40.224879999999985
-        },
-        "70": {
-            "name": "Karaman Province",
-            "code": "70",
-            "names": {
-                "geonames": "Karaman",
-                "ru": "\u041a\u0430\u0440\u0430\u043c\u0430\u043d",
-                "en": "Karaman Province",
-                "ar": "\u0643\u0627\u0631\u0627\u0645\u0627\u0646",
-                "de": "Karaman",
-                "es": "Provincia de Karaman",
-                "fr": "Karaman",
-                "it": "Provincia di Karaman",
-                "zh": "\u5361\u62c9\u66fc\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.17593,
-            "lng": 33.228747999999996
-        },
-        "71": {
-            "name": "K\u0131r\u0131kkale Province",
-            "code": "71",
-            "names": {
-                "geonames": "Kirikkale",
-                "ru": "\u041a\u044b\u0440\u044b\u043a\u043a\u0430\u043b\u0435",
-                "en": "K\u0131r\u0131kkale Province",
-                "de": "K\u0131r\u0131kkale",
-                "es": "Provincia de K\u0131r\u0131kkale",
-                "fr": "K\u0131r\u0131kkale",
-                "it": "Provincia di K\u0131r\u0131kkale",
-                "zh": "\u514b\u52d2\u514b\u5361\u83b1\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.846821,
-            "lng": 33.515251000000035
-        },
-        "72": {
-            "name": "Batman Province",
-            "code": "72",
-            "names": {
-                "geonames": "Batman",
-                "ru": "\u0411\u0430\u0442\u043c\u0430\u043d",
-                "en": "Batman Province",
-                "ar": "\u0628\u0637\u0645\u0627\u0646",
-                "de": "Batman",
-                "es": "Provincia de Batman",
-                "fr": "Batman",
-                "it": "Provincia di Batman",
-                "zh": "\u5df4\u7279\u66fc\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.881168,
-            "lng": 41.13508999999999
-        },
-        "73": {
-            "name": "\u015e\u0131rnak Province",
-            "code": "73",
-            "names": {
-                "geonames": "Sirnak",
-                "ru": "\u0428\u0438\u0440\u043d\u0430\u043a",
-                "en": "\u015e\u0131rnak Province",
-                "ar": "\u0634\u0631\u0646\u0627\u0642",
-                "de": "\u015e\u0131rnak",
-                "es": "Provincia de \u015e\u0131rnak",
-                "fr": "\u015e\u0131rnak",
-                "it": "Provincia di \u015e\u0131rnak",
-                "zh": "\u820d\u5c14\u7eb3\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.5163889,
-            "lng": 42.461111099999926
-        },
-        "74": {
-            "name": "Bart\u0131n Province",
-            "code": "74",
-            "names": {
-                "geonames": "Bartin",
-                "ru": "\u0411\u0430\u0440\u0442\u044b\u043d",
-                "en": "Bart\u0131n Province",
-                "ar": "\u0628\u0627\u0631\u062a\u064a\u0646",
-                "de": "Bart\u0131n",
-                "es": "Provincia de Bart\u0131n",
-                "fr": "Bart\u0131n",
-                "it": "Provincia di Bart\u0131n",
-                "zh": "\u5df4\u5c14\u6ed5\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.6344444,
-            "lng": 32.33749999999998
-        },
-        "75": {
-            "name": "Ardahan Province",
-            "code": "75",
-            "names": {
-                "geonames": "Ardahan",
-                "ru": "\u0410\u0440\u0434\u0430\u0445\u0430\u043d",
-                "en": "Ardahan Province",
-                "ar": "\u0623\u0631\u062f\u0627\u0647\u0627\u0646",
-                "de": "Ardahan",
-                "es": "Provincia de Ardahan",
-                "fr": "Ardahan",
-                "it": "Provincia di Ardahan",
-                "zh": "\u963f\u5c14\u8fbe\u6c49\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.110481,
-            "lng": 42.70217100000002
-        },
-        "76": {
-            "name": "I\u011fd\u0131r Province",
-            "code": "76",
-            "names": {
-                "geonames": "Igdir",
-                "ru": "\u042b\u0433\u0434\u044b\u0440",
-                "en": "I\u011fd\u0131r Province",
-                "ar": "\u0627\u063a\u062f\u064a\u0631",
-                "de": "I\u011fd\u0131r",
-                "es": "Provincia de I\u011fd\u0131r",
-                "fr": "I\u011fd\u0131r",
-                "it": "Provincia di I\u011fd\u0131r",
-                "zh": "\u5384\u5fb7\u5c14\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 39.9166667,
-            "lng": 44.03333329999998
-        },
-        "77": {
-            "name": "Yalova Province",
-            "code": "77",
-            "names": {
-                "geonames": "Yalova",
-                "ru": "\u042f\u043b\u043e\u0432\u0430",
-                "en": "Yalova Province",
-                "ar": "\u064a\u0627\u0644\u0648\u0641\u0627",
-                "de": "Yalova",
-                "es": "Provincia de Yalova",
-                "fr": "Yalova",
-                "it": "Provincia di Yalova",
-                "zh": "\u4e9a\u6d1b\u74e6\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.65,
-            "lng": 29.266666699999973
-        },
-        "78": {
-            "name": "Karab\u00fck Province",
-            "code": "78",
-            "names": {
-                "geonames": "Karabuk",
-                "ru": "\u041a\u0430\u0440\u0430\u0431\u044e\u043a",
-                "en": "Karab\u00fck Province",
-                "ar": "\u0643\u0627\u0631\u0627\u0628\u0648\u0643",
-                "de": "Karab\u00fck",
-                "es": "Provincia de Karab\u00fck",
-                "fr": "Karab\u00fck",
-                "it": "Provincia di Karab\u00fck",
-                "zh": "\u5361\u62c9\u6bd4\u514b\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 41.2,
-            "lng": 32.633333300000004
-        },
-        "79": {
-            "name": "Kilis Province",
-            "code": "79",
-            "names": {
-                "geonames": "Kilis",
-                "ru": "\u041a\u0438\u043b\u0438\u0441",
-                "en": "Kilis Province",
-                "ar": "\u0643\u0644\u0633",
-                "de": "Kilis",
-                "es": "Provincia de Kilis",
-                "fr": "Kilis",
-                "it": "Provincia di Kilis",
-                "zh": "\u57fa\u5229\u65af\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 36.718399,
-            "lng": 37.121219999999994
-        },
-        "80": {
-            "name": "Osmaniye Province",
-            "code": "80",
-            "names": {
-                "geonames": "Osmaniye",
-                "ru": "\u041e\u0441\u043c\u0430\u043d\u0438\u0435",
-                "en": "Osmaniye Province",
-                "ar": "\u0639\u062b\u0645\u0627\u0646\u064a\u0629",
-                "de": "Osmaniye",
-                "es": "Provincia de Osmaniye",
-                "fr": "Osmaniye",
-                "it": "Provincia di Osmaniye",
-                "zh": "\u5967\u65af\u66fc\u5c3c\u8036\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 37.06805,
-            "lng": 36.26158899999996
-        },
-        "81": {
-            "name": "D\u00fczce Province",
-            "code": "81",
-            "names": {
-                "geonames": "Duzce",
-                "ru": "\u0414\u044e\u0437\u0434\u0436\u0435",
-                "en": "D\u00fczce Province",
-                "ar": "\u062f\u0648\u0632\u062c\u0647",
-                "de": "D\u00fczce",
-                "es": "Provincia de D\u00fczce",
-                "fr": "D\u00fczce",
-                "it": "Provincia di D\u00fczce",
-                "zh": "\u8fea\u5179\u6770\u7701"
-            },
-            "division": "province",
-            "parent": "TR",
-            "lat": 40.843849,
-            "lng": 31.15653999999995
+    "3166-2": [
+        {
+            "code": "TR-01",
+            "names": "Adana",
+            "type": "Province"
+        },
+        {
+            "code": "TR-02",
+            "names": "Ad\u0131yaman",
+            "type": "Province"
+        },
+        {
+            "code": "TR-03",
+            "names": "Afyonkarahisar",
+            "type": "Province"
+        },
+        {
+            "code": "TR-04",
+            "names": "A\u011fr\u0131",
+            "type": "Province"
+        },
+        {
+            "code": "TR-05",
+            "names": "Amasya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-06",
+            "names": "Ankara",
+            "type": "Province"
+        },
+        {
+            "code": "TR-07",
+            "names": "Antalya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-08",
+            "names": "Artvin",
+            "type": "Province"
+        },
+        {
+            "code": "TR-09",
+            "names": "Ayd\u0131n",
+            "type": "Province"
+        },
+        {
+            "code": "TR-10",
+            "names": "Bal\u0131kesir",
+            "type": "Province"
+        },
+        {
+            "code": "TR-11",
+            "names": "Bilecik",
+            "type": "Province"
+        },
+        {
+            "code": "TR-12",
+            "names": "Bing\u00f6l",
+            "type": "Province"
+        },
+        {
+            "code": "TR-13",
+            "names": "Bitlis",
+            "type": "Province"
+        },
+        {
+            "code": "TR-14",
+            "names": "Bolu",
+            "type": "Province"
+        },
+        {
+            "code": "TR-15",
+            "names": "Burdur",
+            "type": "Province"
+        },
+        {
+            "code": "TR-16",
+            "names": "Bursa",
+            "type": "Province"
+        },
+        {
+            "code": "TR-17",
+            "names": "\u00c7anakkale",
+            "type": "Province"
+        },
+        {
+            "code": "TR-18",
+            "names": "\u00c7ank\u0131r\u0131",
+            "type": "Province"
+        },
+        {
+            "code": "TR-19",
+            "names": "\u00c7orum",
+            "type": "Province"
+        },
+        {
+            "code": "TR-20",
+            "names": "Denizli",
+            "type": "Province"
+        },
+        {
+            "code": "TR-21",
+            "names": "Diyarbak\u0131r",
+            "type": "Province"
+        },
+        {
+            "code": "TR-22",
+            "names": "Edirne",
+            "type": "Province"
+        },
+        {
+            "code": "TR-23",
+            "names": "Elaz\u0131\u011f",
+            "type": "Province"
+        },
+        {
+            "code": "TR-24",
+            "names": "Erzincan",
+            "type": "Province"
+        },
+        {
+            "code": "TR-25",
+            "names": "Erzurum",
+            "type": "Province"
+        },
+        {
+            "code": "TR-26",
+            "names": "Eski\u015fehir",
+            "type": "Province"
+        },
+        {
+            "code": "TR-27",
+            "names": "Gaziantep",
+            "type": "Province"
+        },
+        {
+            "code": "TR-28",
+            "names": "Giresun",
+            "type": "Province"
+        },
+        {
+            "code": "TR-29",
+            "names": "G\u00fcm\u00fc\u015fhane",
+            "type": "Province"
+        },
+        {
+            "code": "TR-30",
+            "names": "Hakk\u00e2ri",
+            "type": "Province"
+        },
+        {
+            "code": "TR-31",
+            "names": "Hatay",
+            "type": "Province"
+        },
+        {
+            "code": "TR-32",
+            "names": "Isparta",
+            "type": "Province"
+        },
+        {
+            "code": "TR-33",
+            "names": "Mersin",
+            "type": "Province"
+        },
+        {
+            "code": "TR-34",
+            "names": "\u0130stanbul",
+            "type": "Province"
+        },
+        {
+            "code": "TR-35",
+            "names": "\u0130zmir",
+            "type": "Province"
+        },
+        {
+            "code": "TR-36",
+            "names": "Kars",
+            "type": "Province"
+        },
+        {
+            "code": "TR-37",
+            "names": "Kastamonu",
+            "type": "Province"
+        },
+        {
+            "code": "TR-38",
+            "names": "Kayseri",
+            "type": "Province"
+        },
+        {
+            "code": "TR-39",
+            "names": "K\u0131rklareli",
+            "type": "Province"
+        },
+        {
+            "code": "TR-40",
+            "names": "K\u0131r\u015fehir",
+            "type": "Province"
+        },
+        {
+            "code": "TR-41",
+            "names": "Kocaeli",
+            "type": "Province"
+        },
+        {
+            "code": "TR-42",
+            "names": "Konya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-43",
+            "names": "K\u00fctahya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-44",
+            "names": "Malatya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-45",
+            "names": "Manisa",
+            "type": "Province"
+        },
+        {
+            "code": "TR-46",
+            "names": "Kahramanmara\u015f",
+            "type": "Province"
+        },
+        {
+            "code": "TR-47",
+            "names": "Mardin",
+            "type": "Province"
+        },
+        {
+            "code": "TR-48",
+            "names": "Mu\u011fla",
+            "type": "Province"
+        },
+        {
+            "code": "TR-49",
+            "names": "Mu\u015f",
+            "type": "Province"
+        },
+        {
+            "code": "TR-50",
+            "names": "Nev\u015fehir",
+            "type": "Province"
+        },
+        {
+            "code": "TR-51",
+            "names": "Ni\u011fde",
+            "type": "Province"
+        },
+        {
+            "code": "TR-52",
+            "names": "Ordu",
+            "type": "Province"
+        },
+        {
+            "code": "TR-53",
+            "names": "Rize",
+            "type": "Province"
+        },
+        {
+            "code": "TR-54",
+            "names": "Sakarya",
+            "type": "Province"
+        },
+        {
+            "code": "TR-55",
+            "names": "Samsun",
+            "type": "Province"
+        },
+        {
+            "code": "TR-56",
+            "names": "Siirt",
+            "type": "Province"
+        },
+        {
+            "code": "TR-57",
+            "names": "Sinop",
+            "type": "Province"
+        },
+        {
+            "code": "TR-58",
+            "names": "Sivas",
+            "type": "Province"
+        },
+        {
+            "code": "TR-59",
+            "names": "Tekirda\u011f",
+            "type": "Province"
+        },
+        {
+            "code": "TR-60",
+            "names": "Tokat",
+            "type": "Province"
+        },
+        {
+            "code": "TR-61",
+            "names": "Trabzon",
+            "type": "Province"
+        },
+        {
+            "code": "TR-62",
+            "names": "Tunceli",
+            "type": "Province"
+        },
+        {
+            "code": "TR-63",
+            "names": "\u015eanl\u0131urfa",
+            "type": "Province"
+        },
+        {
+            "code": "TR-64",
+            "names": "U\u015fak",
+            "type": "Province"
+        },
+        {
+            "code": "TR-65",
+            "names": "Van",
+            "type": "Province"
+        },
+        {
+            "code": "TR-66",
+            "names": "Yozgat",
+            "type": "Province"
+        },
+        {
+            "code": "TR-67",
+            "names": "Zonguldak",
+            "type": "Province"
+        },
+        {
+            "code": "TR-68",
+            "names": "Aksaray",
+            "type": "Province"
+        },
+        {
+            "code": "TR-69",
+            "names": "Bayburt",
+            "type": "Province"
+        },
+        {
+            "code": "TR-70",
+            "names": "Karaman",
+            "type": "Province"
+        },
+        {
+            "code": "TR-71",
+            "names": "K\u0131r\u0131kkale",
+            "type": "Province"
+        },
+        {
+            "code": "TR-72",
+            "names": "Batman",
+            "type": "Province"
+        },
+        {
+            "code": "TR-73",
+            "names": "\u015e\u0131rnak",
+            "type": "Province"
+        },
+        {
+            "code": "TR-74",
+            "names": "Bart\u0131n",
+            "type": "Province"
+        },
+        {
+            "code": "TR-75",
+            "names": "Ardahan",
+            "type": "Province"
+        },
+        {
+            "code": "TR-76",
+            "names": "I\u011fd\u0131r",
+            "type": "Province"
+        },
+        {
+            "code": "TR-77",
+            "names": "Yalova",
+            "type": "Province"
+        },
+        {
+            "code": "TR-78",
+            "names": "Karab\u00fck",
+            "type": "Province"
+        },
+        {
+            "code": "TR-79",
+            "names": "Kilis",
+            "type": "Province"
+        },
+        {
+            "code": "TR-80",
+            "names": "Osmaniye",
+            "type": "Province"
+        },
+        {
+            "code": "TR-81",
+            "names": "D\u00fczce",
+            "type": "Province"
         }
-    }
+    ]
 }

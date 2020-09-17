@@ -1,6 +1,7 @@
 {
     "name": "mj-dymalla/iso3166-library",
-    "require": {
-        "guzzlehttp/guzzle": "^7.0"
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/symfony": "^5.1"
     }
 }

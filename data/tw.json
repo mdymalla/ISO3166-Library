@@ -1,320 +1,248 @@
 {
     "alpha-2": "TW",
     "alpha-3": "TWN",
-    "numeric": 158,
-    "capital": "Taipei",
-    "currency": "TWD",
-    "languages": [
-        "zh"
-    ],
-    "flag-icon": "\ud83c\uddf9\ud83c\uddfc",
+    "numeric": "158",
     "names": {
-        "geonames": "Taiwan",
         "en": "Taiwan",
-        "ar": "\u062a\u0627\u064a\u0648\u0627\u0646",
-        "de": "Taiwan",
-        "es": "Isla de Taiw\u00e1n",
         "fr": "Ta\u00efwan",
-        "it": "Isola di Formosa",
-        "ru": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
-        "zh": "\u81fa\u7063",
-        "he": "\u05d8\u05d0\u05d9\u05d5\u05d5\u05d0\u05df",
-        "hi": "\u0924\u093e\u0907\u0935\u093e\u0928",
+        "ur": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646",
+        "rn": "Tayiwani",
+        "lv": "Taiv\u0101na",
+        "hy": "\u0539\u0561\u0575\u057e\u0561\u0576",
+        "sq": "Tajvan",
+        "jv": "Taiwan",
+        "or": "\u0b24\u0b3e\u0b07\u0b71\u0b3e\u0b28",
+        "mg": "Taioana",
+        "no": "Taiwan",
+        "zh": "\u53f0\u6e7e",
+        "tr": "Tayvan",
+        "bs": "Tajvan",
         "ja": "\u53f0\u6e7e",
-        "pt": "Ilha Formosa"
+        "th": "\u0e44\u0e15\u0e49\u0e2b\u0e27\u0e31\u0e19",
+        "he": "\u05d8\u05d9\u05d9\u05d5\u05d5\u05d0\u05df",
+        "kk": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "mo": "Taiwan",
+        "ff": "Taywaan",
+        "ca": "Taiwan",
+        "ar": "\u062a\u0627\u064a\u0648\u0627\u0646",
+        "eu": "Taiwan",
+        "ps": "\u062a\u0627\u0626\u064a\u0648\u0627\u0646",
+        "kn": "\u0ca4\u0cc8\u0cb5\u0cbe\u0ca8\u0ccd",
+        "si": "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba",
+        "km": "\u178f\u17c3\u179c\u17c9\u17b6\u1793\u17cb",
+        "ne": "\u0924\u093e\u0907\u0935\u093e\u0928",
+        "fi": "Taiwan",
+        "hi": "\u0924\u093e\u0907\u0935\u093e\u0928",
+        "rm": "Taiwan",
+        "vi": "\u0110\u00e0i Loan",
+        "gl": "Taiw\u00e1n",
+        "ig": "Obodo Taiwan",
+        "mr": "\u0924\u0948\u0935\u093e\u0928",
+        "es": "Taiw\u00e1n",
+        "be": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "lg": "Tayiwani",
+        "az": "\u0422\u0430\u0458\u0432\u0430\u043d",
+        "ce": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "mk": "\u0422\u0430\u0458\u0432\u0430\u043d",
+        "zu": "i-Taiwan",
+        "it": "Taiwan",
+        "ko": "\ub300\ub9cc",
+        "lo": "\u0ec4\u0e95\u0ec9\u0eab\u0ea7\u0eb1\u0e99",
+        "lt": "Taivanas",
+        "dz": "\u0f4a\u0f71\u0f60\u0f72\u0f0b\u0f5d\u0f71\u0f53",
+        "ln": "Taiwanin",
+        "hr": "Tajvan",
+        "ks": "\u062a\u0627\u06cc\u0648\u0627\u0646",
+        "sv": "Taiwan",
+        "pl": "Tajwan",
+        "nb": "Taiwan",
+        "sh": "Tajvan",
+        "lu": "Taiwani",
+        "nl": "Taiwan",
+        "ky": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "bn": "\u09a4\u09be\u0987\u0993\u09af\u09bc\u09be\u09a8",
+        "sd": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646",
+        "fa": "\u062a\u0627\u06cc\u0648\u0627\u0646",
+        "gd": "Taidh-Bh\u00e0n",
+        "cs": "Tchaj-wan",
+        "tk": "Ta\u00fdwan",
+        "eo": "Tajvano",
+        "mt": "it-Tajwan",
+        "sr": "Tajvan",
+        "wo": "Taywan",
+        "el": "\u03a4\u03b1\u03ca\u03b2\u03ac\u03bd",
+        "sn": "Taiwan",
+        "pt": "Taiwan",
+        "is": "Ta\u00edvan",
+        "ta": "\u0ba4\u0bc8\u0bb5\u0bbe\u0ba9\u0bcd",
+        "br": "Taiwan",
+        "hu": "Tajvan",
+        "et": "Taiwan",
+        "ku": "Taywan",
+        "sk": "Taiwan",
+        "sw": "Taiwani",
+        "te": "\u0c24\u0c48\u0c35\u0c3e\u0c28\u0c4d",
+        "ro": "Taiwan",
+        "ki": "Taiwani",
+        "ak": "Taiwan",
+        "tg": "\u0422\u0430\u0439\u0432\u0430\u043d",
+        "ml": "\u0d24\u0d3e\u0d2f\u0d4d\u200c\u0d35\u0d3e\u0d7b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Taiwani",
+        "de": "Taiwan",
+        "as": "\u099f\u09be\u0987\u09f1\u09be\u09a8",
+        "am": "\u1273\u12ed\u12cb\u1295",
+        "se": "Taiwan",
+        "ia": "Taiwan",
+        "ti": "\u1273\u12ed\u12cb\u1295",
+        "ru": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "ga": "an T\u00e9av\u00e1in",
+        "bg": "\u0422\u0430\u0439\u0432\u0430\u043d",
+        "my": "\u1011\u102d\u102f\u1004\u103a\u101d\u1019\u103a",
+        "fy": "Taiwan",
+        "bm": "Tayiwani",
+        "gu": "\u0aa4\u0abe\u0a87\u0ab5\u0abe\u0aa8",
+        "uz": "\u0422\u0430\u0439\u0432\u0430\u043d",
+        "cy": "Taiwan",
+        "ug": "\u062a\u06d5\u064a\u06cb\u06d5\u0646",
+        "nn": "Taiwan",
+        "uk": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "qu": "Taiw\u00e1n",
+        "tl": "Taiwan",
+        "ms": "Taiwan",
+        "so": "Taywaan",
+        "da": "Taiwan",
+        "tt": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "af": "Taiwan",
+        "ha": "Taiwan",
+        "iw": "\u05d8\u05d9\u05d9\u05d5\u05d5\u05d0\u05df",
+        "ee": "Taiwan nutome",
+        "in": "Taiwan",
+        "to": "Taiuani",
+        "sl": "Tajvan",
+        "sg": "T\u00e2iw\u00e2ni",
+        "lb": "Taiwan",
+        "fo": "Taivan",
+        "mn": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "id": "Taiwan",
+        "pa": "\u0a24\u0a3e\u0a07\u0a35\u0a3e\u0a28",
+        "ka": "\u10e2\u10d0\u10d8\u10d5\u10d0\u10dc\u10d8",
+        "nd": "Thayiwani"
     },
-    "ISO3166-2": {
-        "CHA": {
-            "name": "Changhua",
-            "code": "CHA",
-            "names": {
-                "geonames": "Changhua",
-                "en": "Changhua"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.0716583,
-            "lng": 120.5624474
+    "3166-2": [
+        {
+            "code": "TW-CHA",
+            "names": "Changhua",
+            "type": "District"
         },
-        "CYI": {
-            "name": "Chiayi",
-            "code": "CYI",
-            "names": {
-                "geonames": "Chiayi",
-                "en": "Chiayi"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-CYI",
+            "names": "Chiay City",
+            "type": "Municipality"
         },
-        "CYQ": {
-            "name": "Chiayi",
-            "code": "CYQ",
-            "names": {
-                "geonames": "Chiayi",
-                "en": "Chiayi"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 23.4643073,
-            "lng": 120.39614860000006
+        {
+            "code": "TW-CYQ",
+            "names": "Chiayi",
+            "type": "District"
         },
-        "HSQ": {
-            "name": "Hsinchu",
-            "code": "HSQ",
-            "names": {
-                "geonames": "Hsinchu",
-                "en": "Hsinchu"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.816668,
-            "lng": 120.93333400000006
+        {
+            "code": "TW-HSQ",
+            "names": "Hsinchu",
+            "type": "District"
         },
-        "HSZ": {
-            "name": "Hsinchu",
-            "code": "HSZ",
-            "names": {
-                "geonames": "Hsinchu",
-                "en": "Hsinchu"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-HSZ",
+            "names": "Hsinchui City",
+            "type": "Municipality"
         },
-        "HUA": {
-            "name": "Hualien",
-            "code": "HUA",
-            "names": {
-                "geonames": "Hualien",
-                "en": "Hualien"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 23.9910732,
-            "lng": 121.61119489999999
+        {
+            "code": "TW-HUA",
+            "names": "Hualien",
+            "type": "District"
         },
-        "ILA": {
-            "name": "Yilan",
-            "code": "ILA",
-            "names": {
-                "geonames": "Yilan",
-                "en": "Yilan"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-ILA",
+            "names": "Ilan",
+            "type": "District"
         },
-        "KEE": {
-            "name": "Keelung",
-            "code": "KEE",
-            "names": {
-                "geonames": "Keelung",
-                "en": "Keelung"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": 25.1089809,
-            "lng": 121.70814540000003
+        {
+            "code": "TW-KEE",
+            "names": "Keelung City",
+            "type": "Municipality"
         },
-        "KHH": {
-            "name": "Kaohsiung",
-            "code": "KHH",
-            "names": {
-                "geonames": "Kaohsiung",
-                "en": "Kaohsiung"
-            },
-            "division": "special municipality",
-            "parent": "TW",
-            "lat": 23.0108714,
-            "lng": 120.66600440000002
+        {
+            "code": "TW-KHH",
+            "names": "Kaohsiung City",
+            "type": "Special Municipality"
         },
-        "KHQ": {
-            "name": "Kaohsiung",
-            "code": "KHQ",
-            "division": "district",
-            "parent": "TW"
+        {
+            "code": "TW-KHQ",
+            "names": "Kaohsiung",
+            "type": "District"
         },
-        "KIN": {
-            "name": "Kinmen",
-            "code": "KIN",
-            "names": {
-                "geonames": "Kinmen",
-                "en": "Kinmen"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-MIA",
+            "names": "Miaoli",
+            "type": "District"
         },
-        "LIE": {
-            "name": "Lienchiang",
-            "code": "LIE",
-            "names": {
-                "geonames": "Lienchiang",
-                "en": "Lienchiang"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-NAN",
+            "names": "Nantou",
+            "type": "District"
         },
-        "MIA": {
-            "name": "Miaoli",
-            "code": "MIA",
-            "names": {
-                "geonames": "Miaoli",
-                "en": "Miaoli"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.5711502,
-            "lng": 120.81543579999993
+        {
+            "code": "TW-PEN",
+            "names": "Penghu",
+            "type": "District"
         },
-        "NAN": {
-            "name": "Nantou",
-            "code": "NAN",
-            "names": {
-                "geonames": "Nantou",
-                "en": "Nantou"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 23.9179637,
-            "lng": 120.67750539999997
+        {
+            "code": "TW-PIF",
+            "names": "Pingtung",
+            "type": "District"
         },
-        "NWT": {
-            "name": "New Taipei",
-            "code": "NWT",
-            "names": {
-                "geonames": "New Taipei",
-                "en": "New Taipei"
-            },
-            "division": null,
-            "parent": null,
-            "lat": null,
-            "lng": null
+        {
+            "code": "TW-TAO",
+            "names": "Taoyuan",
+            "type": "District"
         },
-        "PEN": {
-            "name": "Penghu",
-            "code": "PEN",
-            "names": {
-                "geonames": "Penghu",
-                "en": "Penghu"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 23.480649,
-            "lng": 119.51761499999998
+        {
+            "code": "TW-TNN",
+            "names": "Tainan City",
+            "type": "Municipality"
         },
-        "PIF": {
-            "name": "Pingtung",
-            "code": "PIF",
-            "names": {
-                "geonames": "Pingtung",
-                "en": "Pingtung"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 22.6558442,
-            "lng": 120.47032579999996
+        {
+            "code": "TW-TNQ",
+            "names": "Tainan",
+            "type": "District"
         },
-        "TAO": {
-            "name": "Taoyuan",
-            "code": "TAO",
-            "names": {
-                "geonames": "Taoyuan",
-                "en": "Taoyuan"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.9934099,
-            "lng": 121.29696739999997
+        {
+            "code": "TW-TPE",
+            "names": "Taipei City",
+            "type": "Special Municipality"
         },
-        "TNN": {
-            "name": "Tainan",
-            "code": "TNN",
-            "names": {
-                "geonames": "Tainan",
-                "en": "Tainan"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": 23.1416985,
-            "lng": 120.25127279999992
+        {
+            "code": "TW-TPQ",
+            "names": "Taipei",
+            "type": "District"
         },
-        "TNQ": {
-            "name": "Tainan",
-            "code": "TNQ",
-            "division": "district",
-            "parent": "TW"
+        {
+            "code": "TW-TTT",
+            "names": "Taitung",
+            "type": "District"
         },
-        "TPE": {
-            "name": "Taipei",
-            "code": "TPE",
-            "names": {
-                "geonames": "Taipei",
-                "en": "Taipei"
-            },
-            "division": "special municipality",
-            "parent": "TW",
-            "lat": 25.091075,
-            "lng": 121.55983449999997
+        {
+            "code": "TW-TXG",
+            "names": "Taichung City",
+            "type": "Municipality"
         },
-        "TPQ": {
-            "name": "Taipei",
-            "code": "TPQ",
-            "division": "district",
-            "parent": "TW",
-            "lat": 25.065494,
-            "lng": 121.4256345
+        {
+            "code": "TW-TXQ",
+            "names": "Taichung",
+            "type": "District"
         },
-        "TTT": {
-            "name": "Taitung",
-            "code": "TTT",
-            "names": {
-                "geonames": "Taitung",
-                "en": "Taitung"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 22.7546009,
-            "lng": 121.11375440000006
-        },
-        "TXG": {
-            "name": "Taichung",
-            "code": "TXG",
-            "names": {
-                "geonames": "Taichung",
-                "en": "Taichung"
-            },
-            "division": "municipality",
-            "parent": "TW",
-            "lat": 24.2332076,
-            "lng": 120.94173679999994
-        },
-        "TXQ": {
-            "name": "Taichung",
-            "code": "TXQ",
-            "division": "district",
-            "parent": "TW",
-            "lat": 24.2332076,
-            "lng": 120.94173679999994
-        },
-        "YUN": {
-            "name": "Yunlin",
-            "code": "YUN",
-            "names": {
-                "geonames": "Yunlin",
-                "en": "Yunlin"
-            },
-            "division": "district",
-            "parent": "TW",
-            "lat": 23.6111111,
-            "lng": 120.73083329999997
+        {
+            "code": "TW-YUN",
+            "names": "Yunlin",
+            "type": "District"
         }
-    }
+    ]
 }

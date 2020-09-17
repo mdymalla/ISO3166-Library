@@ -1,276 +1,199 @@
 {
     "alpha-2": "CA",
     "alpha-3": "CAN",
-    "numeric": 124,
-    "capital": "Ottawa",
-    "currency": "CAD",
-    "languages": [
-        "en",
-        "fr"
-    ],
-    "flag-icon": "\ud83c\udde8\ud83c\udde6",
+    "numeric": "124",
     "names": {
-        "geonames": "Canada",
         "en": "Canada",
-        "ar": "\u0643\u0646\u062f\u0627",
-        "de": "Kanada",
-        "es": "Canad\u00e1",
         "fr": "Canada",
-        "it": "Canada",
-        "ru": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "ur": "\u06a9\u06cc\u0646\u06cc\u0688\u0627",
+        "rn": "Kanada",
+        "lv": "Kan\u0101da",
+        "hy": "\u053f\u0561\u0576\u0561\u0564\u0561",
+        "sq": "Kanada",
+        "jv": "Kanada",
+        "or": "\u0b15\u0b3e\u0b28\u0b3e\u0b21\u0b3e",
+        "mg": "Kanada",
+        "no": "Canada",
         "zh": "\u52a0\u62ff\u5927",
-        "he": "\u05e7\u05e0\u05d3\u05d4",
-        "hi": "\u0915\u0928\u093e\u0921\u093e",
+        "tr": "Kanada",
+        "bs": "Kanada",
         "ja": "\u30ab\u30ca\u30c0",
-        "pt": "Canad\u00e1"
+        "th": "\u0e41\u0e04\u0e19\u0e32\u0e14\u0e32",
+        "he": "\u05e7\u05e0\u05d3\u05d4",
+        "kk": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "mo": "Canada",
+        "ff": "\ud83a\udd11\ud83a\udd22\ud83a\udd32\ud83a\udd22\ud83a\udd23\ud83a\udd22\ud83a\udd44",
+        "ca": "Canad\u00e0",
+        "ar": "\u0643\u0646\u062f\u0627",
+        "eu": "Kanada",
+        "ps": "\u06a9\u0627\u0646\u0627\u0689\u0627",
+        "kn": "\u0c95\u0cc6\u0ca8\u0ca1\u0cbe",
+        "si": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf\u0dc0",
+        "km": "\u1780\u17b6\u178e\u17b6\u178a\u17b6",
+        "ne": "\u0915\u094d\u092f\u093e\u0928\u093e\u0921\u093e",
+        "fi": "Kanada",
+        "hi": "\u0915\u0928\u093e\u0921\u093e",
+        "rm": "Canada",
+        "vi": "Canada",
+        "gl": "O Canad\u00e1",
+        "ig": "Kanada",
+        "mr": "\u0915\u0945\u0928\u0921\u093e",
+        "es": "Canad\u00e1",
+        "be": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "lg": "Kanada",
+        "az": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "ce": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "mk": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "zu": "i-Canada",
+        "it": "Canada",
+        "ko": "\uce90\ub098\ub2e4",
+        "lo": "\u0ec1\u0e84\u0e99\u0eb2\u0e94\u0eb2",
+        "lt": "Kanada",
+        "dz": "\u0f40\u0f7a\u0f0b\u0f53\u0f0b\u0f4c",
+        "ln": "Kanada",
+        "hr": "Kanada",
+        "ks": "\u06a9\u06cc\u0646\u064e\u0691\u0627",
+        "sv": "Kanada",
+        "pl": "Kanada",
+        "nb": "Canada",
+        "sh": "Kanada",
+        "lu": "Kanada",
+        "nl": "Canada",
+        "ky": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "bn": "\u0995\u09be\u09a8\u09be\u09a1\u09be",
+        "sd": "\u06aa\u0626\u0646\u0627\u068a\u0627",
+        "fa": "\u06a9\u0627\u0646\u0627\u062f\u0627",
+        "gd": "Canada",
+        "cs": "Kanada",
+        "tk": "Kanada",
+        "eo": "Kanado",
+        "mt": "il-Kanada",
+        "sr": "Kanada",
+        "wo": "Kanadaa",
+        "el": "\u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2",
+        "sn": "Kanada",
+        "pt": "Canad\u00e1",
+        "yi": "\u05e7\u05d0\u05b7\u05e0\u05d0\u05b7\u05d3\u05e2",
+        "is": "Kanada",
+        "ta": "\u0b95\u0ba9\u0b9f\u0bbe",
+        "br": "Kanada",
+        "hu": "Kanada",
+        "et": "Kanada",
+        "ku": "Kanada",
+        "sk": "Kanada",
+        "sw": "Kanada",
+        "te": "\u0c15\u0c46\u0c28\u0c21\u0c3e",
+        "ro": "Canada",
+        "ki": "Kanada",
+        "ak": "Kanada",
+        "tg": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "ml": "\u0d15\u0d3e\u0d28\u0d21",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de K\u00e1n\u00e1d\u00e0",
+        "de": "Kanada",
+        "as": "\u0995\u09be\u09a8\u09be\u09a1\u09be",
+        "am": "\u12ab\u1293\u12f3",
+        "se": "Kan\u00e1da",
+        "ia": "Canada",
+        "ti": "\u12ab\u1293\u12f3",
+        "ru": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "ga": "Ceanada",
+        "bg": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "my": "\u1000\u1014\u1031\u1012\u102b",
+        "fy": "Canada",
+        "bm": "Kanada",
+        "gu": "\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0abe",
+        "uz": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "cy": "Canada",
+        "ug": "\u0643\u0627\u0646\u0627\u062f\u0627",
+        "nn": "Canada",
+        "uk": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "qu": "Canad\u00e1",
+        "tl": "Canada",
+        "ms": "Kanada",
+        "so": "Kanada",
+        "da": "Canada",
+        "tt": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "af": "Kanada",
+        "ha": "Kanada",
+        "iw": "\u05e7\u05e0\u05d3\u05d4",
+        "ee": "Canada nutome",
+        "in": "Kanada",
+        "to": "K\u0101nata",
+        "sl": "Kanada",
+        "sg": "Kanad\u00e4a",
+        "lb": "Kanada",
+        "fo": "Kanada",
+        "mn": "\u041a\u0430\u043d\u0430\u0434",
+        "id": "Kanada",
+        "pa": "\u0a15\u0a48\u0a28\u0a47\u0a21\u0a3e",
+        "ka": "\u10d9\u10d0\u10dc\u10d0\u10d3\u10d0",
+        "nd": "Khanada"
     },
-    "ISO3166-2": {
-        "AB": {
-            "name": "Alberta",
-            "code": "AB",
-            "names": {
-                "geonames": "Alberta",
-                "ru": "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430",
-                "en": "Alberta",
-                "ar": "\u0623\u0644\u0628\u0631\u062a\u0627",
-                "de": "Alberta",
-                "es": "Alberta",
-                "fr": "Alberta",
-                "it": "Alberta",
-                "zh": "\u827e\u4f2f\u5854"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 53.9332706,
-            "lng": -116.5765035
+    "3166-2": [
+        {
+            "code": "CA-AB",
+            "names": "Alberta",
+            "type": "Province"
         },
-        "BC": {
-            "name": "British Columbia",
-            "code": "BC",
-            "names": {
-                "geonames": "British Columbia",
-                "ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
-                "en": "British Columbia",
-                "ar": "\u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629",
-                "de": "British Columbia",
-                "es": "Columbia Brit\u00e1nica",
-                "fr": "Colombie-Britannique",
-                "it": "Columbia Britannica",
-                "zh": "\u4e0d\u5217\u98a0\u54e5\u4f26\u6bd4\u4e9a"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 53.7266683,
-            "lng": -127.64762059999998
+        {
+            "code": "CA-BC",
+            "names": "British Columbia",
+            "type": "Province"
         },
-        "MB": {
-            "name": "Manitoba",
-            "code": "MB",
-            "names": {
-                "geonames": "Manitoba",
-                "ru": "\u041c\u0430\u043d\u0438\u0442\u043e\u0431\u0430",
-                "en": "Manitoba",
-                "ar": "\u0645\u0627\u0646\u064a\u062a\u0648\u0628\u0627",
-                "de": "Manitoba",
-                "es": "Manitoba",
-                "fr": "Manitoba",
-                "it": "Manitoba",
-                "zh": "\u66fc\u5c3c\u6258\u5df4"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 53.7608608,
-            "lng": -98.8138763
+        {
+            "code": "CA-MB",
+            "names": "Manitoba",
+            "type": "Province"
         },
-        "NB": {
-            "name": "New Brunswick",
-            "code": "NB",
-            "names": {
-                "geonames": "New Brunswick",
-                "ru": "\u041d\u044c\u044e-\u0411\u0440\u0430\u043d\u0441\u0443\u0438\u043a",
-                "en": "New Brunswick",
-                "ar": "\u0646\u064a\u0648 \u0628\u0631\u0648\u0646\u0632\u0648\u064a\u0643",
-                "de": "New Brunswick",
-                "es": "Nuevo Brunswick",
-                "fr": "Nouveau-Brunswick",
-                "it": "Nuovo Brunswick",
-                "zh": "\u65b0\u4e0d\u502b\u745e\u514b"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 46.5653163,
-            "lng": -66.4619164
+        {
+            "code": "CA-NB",
+            "names": "New Brunswick",
+            "type": "Province"
         },
-        "NL": {
-            "name": "Newfoundland and Labrador",
-            "code": "NL",
-            "names": {
-                "geonames": "Newfoundland and Labrador",
-                "ru": "\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0438 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440",
-                "en": "Newfoundland and Labrador",
-                "ar": "\u0646\u064a\u0648\u0641\u0627\u0648\u0646\u062f\u0644\u0627\u0646\u062f \u0648\u0627\u0644\u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631",
-                "de": "Neufundland und Labrador",
-                "es": "Terranova y Labrador",
-                "fr": "Terre-Neuve-et-Labrador",
-                "it": "Terranova e Labrador",
-                "zh": "\u7d10\u82ac\u862d\u8207\u62c9\u5e03\u62c9\u591a"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 53.1355091,
-            "lng": -57.66043639999998
+        {
+            "code": "CA-NL",
+            "names": "Newfoundland and Labrador",
+            "type": "Province"
         },
-        "NS": {
-            "name": "Nova Scotia",
-            "code": "NS",
-            "names": {
-                "geonames": "Nova Scotia",
-                "ru": "\u041d\u043e\u0432\u0430\u044f \u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
-                "en": "Nova Scotia",
-                "ar": "\u0646\u0648\u0641\u0627 \u0633\u0643\u0648\u0634\u0627",
-                "de": "Nova Scotia",
-                "es": "Nueva Escocia",
-                "fr": "Nouvelle-\u00c9cosse",
-                "it": "Nuova Scozia",
-                "zh": "\u65b0\u65af\u79d1\u820d"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 44.5534208,
-            "lng": -63.41154540000002
+        {
+            "code": "CA-NS",
+            "names": "Nova Scotia",
+            "type": "Province"
         },
-        "NT": {
-            "name": "Northwest Territories",
-            "code": "NT",
-            "names": {
-                "geonames": "Northwest Territories",
-                "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438",
-                "en": "Northwest Territories",
-                "ar": "\u0627\u0644\u0623\u0642\u0627\u0644\u064a\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-                "de": "Nordwest-Territorien",
-                "es": "Territorios del Noroeste",
-                "fr": "Territoires du Nord-Ouest",
-                "it": "Territori del Nord-Ovest",
-                "zh": "\u897f\u5317\u5730\u533a"
-            },
-            "division": "territory",
-            "parent": "CA",
-            "lat": 64.8255441,
-            "lng": -124.84573339999997
+        {
+            "code": "CA-NT",
+            "names": "Northwest Territories",
+            "type": "Territory"
         },
-        "NU": {
-            "name": "Nunavut",
-            "code": "NU",
-            "names": {
-                "geonames": "Nunavut",
-                "ru": "\u041d\u0443\u043d\u0430\u0432\u0443\u0442",
-                "en": "Nunavut",
-                "ar": "\u0646\u0648\u0646\u0627\u0641\u0648\u062a",
-                "de": "Nunavut",
-                "es": "Nunavut",
-                "fr": "Nunavut",
-                "it": "Nunavut",
-                "zh": "\u52aa\u7d0d\u6b66\u7279"
-            },
-            "division": "territory",
-            "parent": "CA",
-            "lat": 70.2997711,
-            "lng": -83.10757690000003
+        {
+            "code": "CA-NU",
+            "names": "Nunavut",
+            "type": "Territory"
         },
-        "ON": {
-            "name": "Ontario",
-            "code": "ON",
-            "names": {
-                "geonames": "Ontario",
-                "ru": "\u041e\u043d\u0442\u0430\u0440\u0438\u043e",
-                "en": "Ontario",
-                "ar": "\u0623\u0648\u0646\u062a\u0627\u0631\u064a\u0648",
-                "de": "Ontario",
-                "es": "Ontario",
-                "fr": "Ontario",
-                "it": "Ontario",
-                "zh": "\u5b89\u5927\u7565"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 51.253775,
-            "lng": -85.32321389999998
+        {
+            "code": "CA-ON",
+            "names": "Ontario",
+            "type": "Province"
         },
-        "PE": {
-            "name": "Prince Edward Island",
-            "code": "PE",
-            "names": {
-                "geonames": "Prince Edward Island",
-                "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0440\u0438\u043d\u0446\u0430 \u042d\u0434\u0443\u0430\u0440\u0434\u0430",
-                "en": "Prince Edward Island",
-                "ar": "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0625\u062f\u0648\u0627\u0631\u062f",
-                "de": "Prince Edward Island",
-                "es": "Isla del Pr\u00edncipe Eduardo",
-                "fr": "\u00cele-du-Prince-\u00c9douard",
-                "it": "Isola del Principe Edoardo",
-                "zh": "\u611b\u5fb7\u83ef\u738b\u5b50\u5cf6"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 46.510712,
-            "lng": -63.41681360000001
+        {
+            "code": "CA-PE",
+            "names": "Prince Edward Island",
+            "type": "Province"
         },
-        "QC": {
-            "name": "Quebec",
-            "code": "QC",
-            "names": {
-                "geonames": "Quebec",
-                "ru": "\u041a\u0432\u0435\u0431\u0435\u043a",
-                "en": "Quebec",
-                "ar": "\u0643\u064a\u0628\u0643",
-                "de": "Qu\u00e9bec",
-                "es": "Quebec",
-                "fr": "Qu\u00e9bec",
-                "it": "Qu\u00e9bec",
-                "zh": "\u9b41\u5317\u514b"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 46.8032826,
-            "lng": -71.242796
+        {
+            "code": "CA-QC",
+            "names": "Quebec",
+            "type": "Province"
         },
-        "SK": {
-            "name": "Saskatchewan",
-            "code": "SK",
-            "names": {
-                "geonames": "Saskatchewan",
-                "ru": "\u0421\u0430\u0441\u043a\u0430\u0447\u0435\u0432\u0430\u043d",
-                "en": "Saskatchewan",
-                "ar": "\u0633\u0627\u0633\u0643\u0627\u062a\u0634\u0648\u0627\u0646",
-                "de": "Saskatchewan",
-                "es": "Saskatchewan",
-                "fr": "Saskatchewan",
-                "it": "Saskatchewan",
-                "zh": "\u85a9\u65af\u5580\u5fb9\u6eab"
-            },
-            "division": "province",
-            "parent": "CA",
-            "lat": 52.9399159,
-            "lng": -106.4508639
+        {
+            "code": "CA-SK",
+            "names": "Saskatchewan",
+            "type": "Province"
         },
-        "YT": {
-            "name": "Yukon",
-            "code": "YT",
-            "names": {
-                "geonames": "Yukon",
-                "ru": "\u042e\u043a\u043e\u043d",
-                "en": "Yukon",
-                "ar": "\u064a\u0648\u0643\u0648\u0646",
-                "de": "Yukon",
-                "es": "Yuk\u00f3n",
-                "fr": "Yukon",
-                "it": "Yukon",
-                "zh": "\u80b2\u7a7a"
-            },
-            "division": "territory",
-            "parent": "CA",
-            "lat": 64.2823274,
-            "lng": -135
+        {
+            "code": "CA-YT",
+            "names": "Yukon Territory",
+            "type": "Territory"
         }
-    }
+    ]
 }

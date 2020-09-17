@@ -1,299 +1,209 @@
 {
     "alpha-2": "EE",
     "alpha-3": "EST",
-    "numeric": 233,
-    "capital": "Tallinn",
-    "currency": "EUR",
-    "languages": [
-        "et"
-    ],
-    "flag-icon": "\ud83c\uddea\ud83c\uddea",
+    "numeric": "233",
     "names": {
-        "geonames": "Estonia",
         "en": "Estonia",
-        "ar": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627",
-        "de": "Estland",
-        "es": "Estonia",
         "fr": "Estonie",
-        "it": "Estonia",
-        "ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "ur": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627",
+        "rn": "Esitoniya",
+        "lv": "Igaunija",
+        "hy": "\u0537\u057d\u057f\u0578\u0576\u056b\u0561",
+        "sq": "Estoni",
+        "jv": "\u00c9stonia",
+        "or": "\u0b0f\u0b38\u0b4d\u0b24\u0b4b\u0b28\u0b3f\u0b06",
+        "mg": "Estonia",
+        "no": "Estland",
         "zh": "\u7231\u6c99\u5c3c\u4e9a",
-        "he": "\u05d0\u05e1\u05d8\u05d5\u05e0\u05d9\u05d4",
-        "hi": "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e",
+        "tr": "Estonya",
+        "bs": "Estonija",
         "ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
-        "pt": "Est\u00f3nia"
+        "th": "\u0e40\u0e2d\u0e2a\u0e42\u0e15\u0e40\u0e19\u0e35\u0e22",
+        "he": "\u05d0\u05e1\u05d8\u05d5\u05e0\u05d9\u05d4",
+        "fa": "\u0627\u0633\u062a\u0648\u0646\u06cc",
+        "kk": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "mo": "Estonia",
+        "ff": "Estoni",
+        "ca": "Est\u00f2nia",
+        "ar": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627",
+        "eu": "Estonia",
+        "ps": "\u0627\u0633\u062a\u0648\u0646\u06cc\u0627",
+        "kn": "\u0c8e\u0cb8\u0ccd\u0c9f\u0ccb\u0ca8\u0cbf\u0caf\u0cbe",
+        "si": "\u0d91\u0dc3\u0dca\u0dad\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+        "km": "\u17a2\u17c1\u179f\u17d2\u178f\u17bc\u1793\u17b8",
+        "ne": "\u0907\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e",
+        "fi": "Viro",
+        "hi": "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e",
+        "rm": "Estonia",
+        "vi": "Estonia",
+        "gl": "Estonia",
+        "ig": "Estonia",
+        "mr": "\u090f\u0938\u094d\u091f\u094b\u0928\u093f\u092f\u093e",
+        "es": "Estonia",
+        "be": "\u042d\u0441\u0442\u043e\u043d\u0456\u044f",
+        "lg": "Esitoniya",
+        "pt": "Est\u00f4nia",
+        "az": "\u0415\u0441\u0442\u043e\u043d\u0438\u0458\u0430",
+        "ce": "\u042d\u0441\u0442\u043e\u043d\u0438",
+        "mk": "\u0415\u0441\u0442\u043e\u043d\u0438\u0458\u0430",
+        "zu": "i-Estonia",
+        "it": "Estonia",
+        "ko": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544",
+        "lo": "\u0ec0\u0ead\u0eaa\u0ec2\u0e95\u0ec0\u0e99\u0e8d",
+        "lt": "Estija",
+        "dz": "\u0f68\u0f7a\u0f66\u0f0b\u0f4a\u0f7c\u0f0b\u0f53\u0f72\u0f0b\u0f61",
+        "ln": "Esitoni",
+        "hr": "Estonija",
+        "ks": "\u0627\u06cc\u0633\u0679\u0648\u0646\u0650\u06cc\u0627",
+        "sv": "Estland",
+        "pl": "Estonia",
+        "nb": "Estland",
+        "sh": "Estonija",
+        "lu": "Esitoni",
+        "nl": "Estland",
+        "ky": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "bn": "\u098f\u09b8\u09cd\u09a4\u09cb\u09a8\u09bf\u09af\u09bc\u09be",
+        "sd": "\u0627\u064a\u0633\u067d\u0648\u0646\u064a\u0627",
+        "gd": "An Eastoin",
+        "cs": "Estonsko",
+        "tk": "Estoni\u00fda",
+        "eo": "Estonujo",
+        "mt": "l-Estonja",
+        "sr": "Estonija",
+        "wo": "Estoni",
+        "el": "\u0395\u03c3\u03b8\u03bf\u03bd\u03af\u03b1",
+        "sn": "Estonia",
+        "yi": "\u05e2\u05e1\u05d8\u05dc\u05d0\u05b7\u05e0\u05d3",
+        "is": "Eistland",
+        "ta": "\u0b8e\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf\u0baf\u0bbe",
+        "br": "Estonia",
+        "hu": "\u00c9sztorsz\u00e1g",
+        "et": "Eesti",
+        "ku": "Estonya",
+        "sk": "Est\u00f3nsko",
+        "sw": "Estonia",
+        "te": "\u0c0e\u0c38\u0c4d\u0c1f\u0c4b\u0c28\u0c3f\u0c2f\u0c3e",
+        "ro": "Estonia",
+        "ki": "Estonia",
+        "ak": "\u0190stonia",
+        "tg": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "ml": "\u0d0e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d23\u0d3f\u0d2f\u200d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Esitonia",
+        "de": "Estland",
+        "as": "\u0987\u09b7\u09cd\u099f\u09cb\u09a8\u09bf\u09af\u09bc\u09be",
+        "am": "\u12a4\u1235\u1276\u1292\u12eb",
+        "se": "Estl\u00e1nda",
+        "ia": "Estonia",
+        "ti": "\u12a4\u1235\u1276\u1292\u12eb",
+        "ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "ga": "an East\u00f3in",
+        "bg": "\u0415\u0441\u0442\u043e\u043d\u0438\u044f",
+        "my": "\u1021\u1000\u103a\u1005\u1010\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038",
+        "fy": "Estl\u00e2n",
+        "bm": "Esetoni",
+        "gu": "\u0a8f\u0ab8\u0acd\u0a9f\u0acb\u0aa8\u0abf\u0aaf\u0abe",
+        "uz": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "cy": "Estonia",
+        "ug": "\u0626\u06d0\u0633\u062a\u0648\u0646\u0649\u064a\u06d5",
+        "nn": "Estland",
+        "uk": "\u0415\u0441\u0442\u043e\u043d\u0456\u044f",
+        "qu": "Estonia",
+        "tl": "Estonia",
+        "ms": "Estonia",
+        "so": "Estooniya",
+        "da": "Estland",
+        "tt": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "af": "Estland",
+        "ha": "Estoniya",
+        "iw": "\u05d0\u05e1\u05d8\u05d5\u05e0\u05d9\u05d4",
+        "ee": "Estonia nutome",
+        "in": "Estonia",
+        "to": "\u02bbEsit\u014dnia",
+        "sl": "Estonija",
+        "sg": "Eston\u00efi",
+        "lb": "Estland",
+        "fo": "Estland",
+        "mn": "\u042d\u0441\u0442\u043e\u043d\u0438",
+        "id": "Estonia",
+        "pa": "\u0a07\u0a38\u0a1f\u0a4b\u0a28\u0a40\u0a06",
+        "ka": "\u10d4\u10e1\u10e2\u10dd\u10dc\u10d4\u10d7\u10d8",
+        "nd": "Estonia"
     },
-    "ISO3166-2": {
-        "37": {
-            "name": "Harju County",
-            "code": "37",
-            "names": {
-                "geonames": "Harjumaa",
-                "ru": "\u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430",
-                "en": "Harju County",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0627\u0631\u064a\u0648",
-                "de": "Kreis Harju",
-                "es": "Condado de Harju",
-                "fr": "Comt\u00e9 de Harju",
-                "it": "Harjumaa",
-                "zh": "\u54c8\u723e\u5c24\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 59.3039486,
-            "lng": 24.43979730000001
+    "3166-2": [
+        {
+            "code": "EE-37",
+            "names": "Harjumaa",
+            "type": "County"
         },
-        "39": {
-            "name": "Hiiu County",
-            "code": "39",
-            "names": {
-                "geonames": "Hiiumaa",
-                "ru": "\u0425\u0438\u0439\u0443\u043c\u0430\u0430",
-                "en": "Hiiu County",
-                "de": "Kreis Hiiu",
-                "es": "Condado de Hiiu",
-                "fr": "Comt\u00e9 de Hiiu",
-                "it": "Hiiumaa",
-                "zh": "\u5e0c\u5c24\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.9239553,
-            "lng": 22.59194679999996
+        {
+            "code": "EE-39",
+            "names": "Hiiumaa",
+            "type": "County"
         },
-        "44": {
-            "name": "Ida-Viru County",
-            "code": "44",
-            "names": {
-                "geonames": "Ida-Virumaa",
-                "ru": "\u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
-                "en": "Ida-Viru County",
-                "de": "Kreis Ida-Viru",
-                "es": "Condado de Ida-Viru",
-                "fr": "Comt\u00e9 de Viru-Est",
-                "it": "Ida-Virumaa",
-                "zh": "\u6771\u7dad\u9b6f\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 59.3473967,
-            "lng": 28.168977199999972
+        {
+            "code": "EE-44",
+            "names": "Ida-Virumaa",
+            "type": "County"
         },
-        "49": {
-            "name": "J\u00f5geva County",
-            "code": "49",
-            "names": {
-                "geonames": "Jogevamaa",
-                "ru": "\u0419\u044b\u0433\u0435\u0432\u0430\u043c\u0430\u0430",
-                "en": "J\u00f5geva County",
-                "de": "Kreis J\u00f5geva",
-                "es": "Condado de J\u00f5geva",
-                "fr": "Comt\u00e9 de J\u00f5geva",
-                "it": "J\u00f5gevamaa",
-                "zh": "\u7d04\u683c\u74e6\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.7094265,
-            "lng": 25.747190300000057
+        {
+            "code": "EE-49",
+            "names": "J\u00f5gevamaa",
+            "type": "County"
         },
-        "51": {
-            "name": "J\u00e4rva County",
-            "code": "51",
-            "names": {
-                "geonames": "Jaervamaa",
-                "ru": "\u042f\u0440\u0432\u0430\u043c\u0430\u0430",
-                "en": "J\u00e4rva County",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0631\u0641\u0627",
-                "de": "Kreis J\u00e4rva",
-                "es": "Condado de J\u00e4rva",
-                "fr": "Comt\u00e9 de J\u00e4rva",
-                "it": "J\u00e4rvamaa",
-                "zh": "\u8036\u723e\u74e6\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.888928,
-            "lng": 25.55744149999998
+        {
+            "code": "EE-51",
+            "names": "J\u00e4rvamaa",
+            "type": "County"
         },
-        "57": {
-            "name": "L\u00e4\u00e4ne County",
-            "code": "57",
-            "names": {
-                "geonames": "Laeaene",
-                "ru": "\u041b\u044f\u044d\u043d\u0435\u043c\u0430\u0430",
-                "en": "L\u00e4\u00e4ne County",
-                "de": "Kreis L\u00e4\u00e4ne",
-                "es": "Condado de L\u00e4\u00e4ne",
-                "fr": "Comt\u00e9 de L\u00e4\u00e4ne",
-                "it": "L\u00e4\u00e4nemaa",
-                "zh": "\u840a\u5167\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.948764,
-            "lng": 23.54073399999993
+        {
+            "code": "EE-57",
+            "names": "L\u00e4\u00e4nemaa",
+            "type": "County"
         },
-        "59": {
-            "name": "L\u00e4\u00e4ne-Viru County",
-            "code": "59",
-            "names": {
-                "geonames": "Laeaene-Virumaa",
-                "ru": "\u041b\u044f\u044d\u043d\u0435-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
-                "en": "L\u00e4\u00e4ne-Viru County",
-                "de": "Kreis L\u00e4\u00e4ne-Viru",
-                "es": "Condado de L\u00e4\u00e4ne-Viru",
-                "fr": "Comt\u00e9 de Viru-Ouest",
-                "it": "L\u00e4\u00e4ne-Virumaa",
-                "zh": "\u897f\u7dad\u9b6f\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 59.3453739,
-            "lng": 26.83297749999997
+        {
+            "code": "EE-59",
+            "names": "L\u00e4\u00e4ne-Virumaa",
+            "type": "County"
         },
-        "65": {
-            "name": "P\u00f5lva County",
-            "code": "65",
-            "names": {
-                "geonames": "Polvamaa",
-                "ru": "\u041f\u044b\u043b\u0432\u0430\u043c\u0430\u0430",
-                "en": "P\u00f5lva County",
-                "de": "Kreis P\u00f5lva",
-                "es": "Condado de P\u00f5lva",
-                "fr": "Comt\u00e9 de P\u00f5lva",
-                "it": "P\u00f5lvamaa",
-                "zh": "\u73c0\u723e\u74e6\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.0024626,
-            "lng": 27.343599700000027
+        {
+            "code": "EE-65",
+            "names": "P\u00f5lvamaa",
+            "type": "County"
         },
-        "67": {
-            "name": "P\u00e4rnu County",
-            "code": "67",
-            "names": {
-                "geonames": "Paernumaa",
-                "ru": "\u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430",
-                "en": "P\u00e4rnu County",
-                "de": "Kreis P\u00e4rnu",
-                "es": "Condado de P\u00e4rnu",
-                "fr": "Comt\u00e9 de P\u00e4rnu",
-                "it": "P\u00e4rnumaa",
-                "zh": "\u6d3e\u723e\u52aa\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": null,
-            "lng": null
+        {
+            "code": "EE-67",
+            "names": "P\u00e4rnumaa",
+            "type": "County"
         },
-        "70": {
-            "name": "Rapla County",
-            "code": "70",
-            "names": {
-                "geonames": "Raplamaa",
-                "ru": "\u0420\u0430\u043f\u043b\u0430\u043c\u0430\u0430",
-                "en": "Rapla County",
-                "de": "Kreis Rapla",
-                "es": "Condado de Rapla",
-                "fr": "Comt\u00e9 de Rapla",
-                "it": "Raplamaa",
-                "zh": "\u62c9\u666e\u62c9\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": null,
-            "lng": null
+        {
+            "code": "EE-70",
+            "names": "Raplamaa",
+            "type": "County"
         },
-        "74": {
-            "name": "Saare County",
-            "code": "74",
-            "names": {
-                "geonames": "Saare",
-                "ru": "\u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430",
-                "en": "Saare County",
-                "es": "Condado de Saare",
-                "fr": "Comt\u00e9 de Saare",
-                "it": "Saaremaa",
-                "zh": "\u85a9\u96f7\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.4849721,
-            "lng": 22.61364070000002
+        {
+            "code": "EE-74",
+            "names": "Saaremaa",
+            "type": "County"
         },
-        "78": {
-            "name": "Tartu County",
-            "code": "78",
-            "names": {
-                "geonames": "Tartu",
-                "ru": "\u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430",
-                "en": "Tartu County",
-                "de": "Kreis Tartu",
-                "es": "Condado de Tartu",
-                "fr": "Comt\u00e9 de Tartu",
-                "it": "Tartumaa",
-                "zh": "\u5854\u723e\u5716\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.2247949,
-            "lng": 26.420096400000034
+        {
+            "code": "EE-78",
+            "names": "Tartumaa",
+            "type": "County"
         },
-        "82": {
-            "name": "Valga County",
-            "code": "82",
-            "names": {
-                "geonames": "Valgamaa",
-                "ru": "\u0412\u0430\u043b\u0433\u0430\u043c\u0430\u0430",
-                "en": "Valga County",
-                "de": "Kreis Valga",
-                "es": "Condado de Valga",
-                "fr": "Comt\u00e9 de Valga",
-                "it": "Valgamaa",
-                "zh": "\u74e6\u723e\u52a0\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": null,
-            "lng": null
+        {
+            "code": "EE-82",
+            "names": "Valgamaa",
+            "type": "County"
         },
-        "84": {
-            "name": "Viljandi County",
-            "code": "84",
-            "names": {
-                "geonames": "Viljandimaa",
-                "ru": "\u0412\u0438\u043b\u044c\u044f\u043d\u0434\u0438\u043c\u0430\u0430",
-                "en": "Viljandi County",
-                "de": "Kreis Viljandi",
-                "es": "Condado de Viljandi",
-                "fr": "Comt\u00e9 de Viljandi",
-                "it": "Viljandimaa",
-                "zh": "\u7dad\u723e\u63da\u8fea\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 58.7921895,
-            "lng": 25.421504400000003
+        {
+            "code": "EE-84",
+            "names": "Viljandimaa",
+            "type": "County"
         },
-        "86": {
-            "name": "V\u00f5ru County",
-            "code": "86",
-            "names": {
-                "geonames": "Vorumaa",
-                "ru": "\u0412\u044b\u0440\u0443\u043c\u0430\u0430",
-                "en": "V\u00f5ru County",
-                "de": "Kreis V\u00f5ru",
-                "es": "Condado de V\u00f5ru",
-                "fr": "Comt\u00e9 de V\u00f5ru",
-                "it": "V\u00f5rumaa",
-                "zh": "\u6c83\u9b6f\u7e23"
-            },
-            "division": "county",
-            "parent": "EE",
-            "lat": 57.7693312,
-            "lng": 26.06817849999993
+        {
+            "code": "EE-86",
+            "names": "V\u00f5rumaa",
+            "type": "County"
         }
-    }
+    ]
 }

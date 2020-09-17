@@ -1,244 +1,194 @@
 {
     "alpha-2": "BJ",
     "alpha-3": "BEN",
-    "numeric": 204,
-    "capital": "Porto-Novo",
-    "currency": "XOF",
-    "languages": [
-        "fr"
-    ],
-    "flag-icon": "\ud83c\udde7\ud83c\uddef",
+    "numeric": "204",
     "names": {
-        "geonames": "Benin",
         "en": "Benin",
-        "ar": "\u0628\u0646\u064a\u0646",
-        "de": "Benin",
-        "es": "Ben\u00edn",
         "fr": "B\u00e9nin",
-        "it": "Benin",
-        "ru": "\u0411\u0435\u043d\u0438\u043d",
+        "ur": "\u0628\u06cc\u0646\u0646",
+        "rn": "Bene",
+        "lv": "Benina",
+        "hy": "\u0532\u0565\u0576\u056b\u0576",
+        "sq": "Benin",
+        "jv": "B\u00e9nin",
+        "or": "\u0b2c\u0b47\u0b28\u0b3f\u0b28\u0b4d",
+        "mg": "Benin",
+        "no": "Benin",
         "zh": "\u8d1d\u5b81",
-        "he": "\u05d1\u05e0\u05d9\u05df",
-        "hi": "\u092c\u0947\u0928\u093f\u0928",
+        "tr": "Benin",
+        "bs": "Benin",
         "ja": "\u30d9\u30ca\u30f3",
-        "pt": "Benim"
+        "th": "\u0e40\u0e1a\u0e19\u0e34\u0e19",
+        "he": "\u05d1\u05e0\u05d9\u05df",
+        "kk": "\u0411\u0435\u043d\u0438\u043d",
+        "mo": "Benin",
+        "ff": "\ud83a\udd04\ud83a\udd2b\ud83a\udd32\ud83a\udd2b\ud83a\udd32",
+        "ca": "Ben\u00edn",
+        "ar": "\u0628\u0646\u064a\u0646",
+        "eu": "Benin",
+        "ps": "\u0628\u06cc\u0646\u0646",
+        "kn": "\u0cac\u0cc6\u0ca8\u0cbf\u0ca8\u0ccd",
+        "si": "\u0db6\u0dd9\u0db1\u0dd2\u0db1\u0dca",
+        "km": "\u1794\u17c1\u178e\u17b6\u17c6\u1784",
+        "ne": "\u092c\u0947\u0928\u093f\u0928",
+        "fi": "Benin",
+        "hi": "\u092c\u0947\u0928\u093f\u0928",
+        "rm": "Benin",
+        "vi": "Benin",
+        "gl": "Ben\u00edn",
+        "ig": "Binin",
+        "mr": "\u092c\u0947\u0928\u093f\u0928",
+        "es": "Ben\u00edn",
+        "be": "\u0411\u0435\u043d\u0456\u043d",
+        "lg": "Benini",
+        "pt": "Benin",
+        "az": "\u0411\u0435\u043d\u0438\u043d",
+        "ce": "\u0411\u0435\u043d\u0438\u043d",
+        "mk": "\u0411\u0435\u043d\u0438\u043d",
+        "zu": "i-Benin",
+        "it": "Benin",
+        "ko": "\ubca0\ub0c9",
+        "lo": "\u0ec0\u0e9a\u0e99\u0eb4\u0e99",
+        "lt": "Beninas",
+        "dz": "\u0f56\u0fb7\u0f7a\u0f0b\u0f53\u0f72\u0f53",
+        "ln": "Ben\u025b",
+        "hr": "Benin",
+        "sw": "Benini",
+        "ks": "\u0628\u0650\u0646\u0650\u0646",
+        "sv": "Benin",
+        "pl": "Benin",
+        "nb": "Benin",
+        "sh": "Benin",
+        "lu": "Bene",
+        "nl": "Benin",
+        "ky": "\u0411\u0435\u043d\u0438\u043d",
+        "bn": "\u09ac\u09c7\u09a8\u09bf\u09a8",
+        "sd": "\u0628\u064a\u0646\u0646",
+        "fa": "\u0628\u0646\u06cc\u0646",
+        "gd": "Beinin",
+        "cs": "Benin",
+        "tk": "Benin",
+        "eo": "Benino",
+        "mt": "il-Benin",
+        "sr": "Benin",
+        "wo": "Benee",
+        "el": "\u039c\u03c0\u03b5\u03bd\u03af\u03bd",
+        "sn": "Benini",
+        "yi": "\u05d1\u05e2\u05e0\u05d9\u05df",
+        "is": "Ben\u00edn",
+        "ta": "\u0baa\u0bc6\u0ba9\u0bbf\u0ba9\u0bcd",
+        "br": "Benin",
+        "hu": "Benin",
+        "et": "Benin",
+        "ku": "B\u00ean\u00een",
+        "sk": "Benin",
+        "te": "\u0c2c\u0c46\u0c28\u0c3f\u0c28\u0c4d",
+        "ro": "Benin",
+        "ki": "Benini",
+        "ak": "B\u025bnin",
+        "tg": "\u0411\u0435\u043d\u0438\u043d",
+        "ml": "\u0d2c\u0d46\u0d28\u0d3f\u0d7b",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de B\u025b\u0300n\u025b\u0300",
+        "de": "Benin",
+        "as": "\u09ac\u09c7\u09a8\u09bf\u09a8",
+        "am": "\u1264\u1292\u1295",
+        "se": "Benin",
+        "ia": "Benin",
+        "ti": "\u1264\u1292\u1295",
+        "ru": "\u0411\u0435\u043d\u0438\u043d",
+        "ga": "Beinin",
+        "bg": "\u0411\u0435\u043d\u0438\u043d",
+        "my": "\u1018\u102e\u1014\u1004\u103a",
+        "fy": "Benin",
+        "bm": "Ben\u025bn",
+        "gu": "\u0aac\u0ac7\u0aa8\u0abf\u0aa8",
+        "uz": "\u0411\u0435\u043d\u0438\u043d",
+        "cy": "Benin",
+        "ug": "\u0628\u06d0\u0646\u0649\u0646",
+        "nn": "Benin",
+        "uk": "\u0411\u0435\u043d\u0456\u043d",
+        "qu": "Ben\u00edn",
+        "tl": "Benin",
+        "ms": "Benin",
+        "so": "Biniin",
+        "da": "Benin",
+        "tt": "\u0411\u0435\u043d\u0438\u043d",
+        "af": "Benin",
+        "ha": "Binin",
+        "iw": "\u05d1\u05e0\u05d9\u05df",
+        "ee": "Benin nutome",
+        "in": "Benin",
+        "to": "Penini",
+        "sl": "Benin",
+        "sg": "Ben\u00eben",
+        "lb": "Benin",
+        "fo": "Benin",
+        "mn": "\u0411\u0435\u043d\u0438\u043d",
+        "id": "Benin",
+        "pa": "\u0a2c\u0a47\u0a28\u0a3f\u0a28",
+        "ka": "\u10d1\u10d4\u10dc\u10d8\u10dc\u10d8",
+        "nd": "Bhenini"
     },
-    "ISO3166-2": {
-        "AK": {
-            "name": "Atakora Department",
-            "code": "AK",
-            "names": {
-                "geonames": "Atakora",
-                "ru": "\u0410\u0442\u0430\u043a\u043e\u0440\u0430",
-                "en": "Atakora Department",
-                "de": "Atakora",
-                "es": "Atakora",
-                "fr": "Atacora",
-                "it": "Dipartimento di Atakora",
-                "zh": "\u963f\u5854\u79d1\u62c9\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+    "3166-2": [
+        {
+            "code": "BJ-AK",
+            "names": "Atakora",
+            "type": "Department"
         },
-        "AL": {
-            "name": "Alibori Department",
-            "code": "AL",
-            "names": {
-                "geonames": "Alibori",
-                "ru": "\u0410\u043b\u0438\u0431\u043e\u0440\u0438",
-                "en": "Alibori Department",
-                "de": "Alibori",
-                "es": "Alibori",
-                "fr": "Alibori",
-                "it": "Dipartimento di Alibori",
-                "zh": "\u963f\u9ece\u535a\u91cc\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": 32.3182314,
-            "lng": -86.90229799999997
+        {
+            "code": "BJ-AL",
+            "names": "Alibori",
+            "type": "Department"
         },
-        "AQ": {
-            "name": "Atlantique Department",
-            "code": "AQ",
-            "names": {
-                "geonames": "Atlantique",
-                "ru": "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439",
-                "en": "Atlantique Department",
-                "de": "Atlantique",
-                "es": "Atlantique",
-                "fr": "Atlantique",
-                "it": "Dipartimento dell'Atlantico",
-                "zh": "\u5927\u897f\u6d0b\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-AQ",
+            "names": "Atlantique",
+            "type": "Department"
         },
-        "BO": {
-            "name": "Borgou Department",
-            "code": "BO",
-            "names": {
-                "geonames": "Borgou",
-                "ru": "\u0411\u043e\u0440\u0433\u0443",
-                "en": "Borgou Department",
-                "de": "Borgou",
-                "es": "Borgou",
-                "fr": "Borgou",
-                "it": "Dipartimento di Borgou",
-                "zh": "\u535a\u723e\u53e4\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-BO",
+            "names": "Borgou",
+            "type": "Department"
         },
-        "CO": {
-            "name": "Collines Department",
-            "code": "CO",
-            "names": {
-                "geonames": "Collines",
-                "ru": "\u041a\u043e\u043b\u043b\u0438\u043d\u0437",
-                "en": "Collines Department",
-                "de": "Collines",
-                "es": "Collines",
-                "fr": "Collines",
-                "it": "Dipartimento delle Colline",
-                "zh": "\u4e18\u9675\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-CO",
+            "names": "Collines",
+            "type": "Department"
         },
-        "DO": {
-            "name": "Donga Department",
-            "code": "DO",
-            "names": {
-                "geonames": "Donga",
-                "ru": "\u0414\u043e\u043d\u0433\u0430",
-                "en": "Donga Department",
-                "de": "Donga",
-                "es": "Donga",
-                "fr": "Donga",
-                "it": "Dipartimento di Donga",
-                "zh": "\u5cfd\u8c37\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-DO",
+            "names": "Donga",
+            "type": "Department"
         },
-        "KO": {
-            "name": "Kouffo Department",
-            "code": "KO",
-            "names": {
-                "geonames": "Kouffo",
-                "ru": "\u041a\u0443\u0444\u0444\u043e",
-                "en": "Kouffo Department",
-                "de": "Couffo",
-                "es": "Kouffo",
-                "fr": "Couffo",
-                "it": "Dipartimento di Kouffo",
-                "zh": "\u5eab\u798f\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": 6.9374786,
-            "lng": 2.164672200000041
+        {
+            "code": "BJ-KO",
+            "names": "Kouffo",
+            "type": "Department"
         },
-        "LI": {
-            "name": "Littoral Department",
-            "code": "LI",
-            "names": {
-                "geonames": "Littoral",
-                "ru": "\u041b\u0438\u0442\u043e\u0440\u0430\u043b\u044c",
-                "en": "Littoral Department",
-                "de": "Littoral",
-                "es": "Littoral",
-                "fr": "Littoral",
-                "it": "Dipartimento del Litorale",
-                "zh": "\u6ff1\u6d77\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-LI",
+            "names": "Littoral",
+            "type": "Department"
         },
-        "MO": {
-            "name": "Mono Department",
-            "code": "MO",
-            "names": {
-                "geonames": "Mono",
-                "ru": "\u041c\u043e\u043d\u043e",
-                "en": "Mono Department",
-                "de": "Mono",
-                "es": "Mono",
-                "fr": "Mono",
-                "it": "Dipartimento di Mono",
-                "zh": "\u83ab\u8afe\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": 37.9642529,
-            "lng": -91.8318334
+        {
+            "code": "BJ-MO",
+            "names": "Mono",
+            "type": "Department"
         },
-        "OU": {
-            "name": "Ou\u00e9m\u00e9 Department",
-            "code": "OU",
-            "names": {
-                "geonames": "Oueme",
-                "ru": "\u0423\u044d\u043c\u0435",
-                "en": "Ou\u00e9m\u00e9 Department",
-                "de": "Ou\u00e9m\u00e9",
-                "es": "Ou\u00e9m\u00e9",
-                "fr": "Ou\u00e9m\u00e9",
-                "it": "Dipartimento di Ou\u00e9m\u00e9",
-                "zh": "\u97cb\u6885\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-OU",
+            "names": "Ou\u00e9m\u00e9",
+            "type": "Department"
         },
-        "PL": {
-            "name": "Plateau Department",
-            "code": "PL",
-            "names": {
-                "geonames": "Plateau",
-                "ru": "\u041f\u043b\u0430\u0442\u043e",
-                "en": "Plateau Department",
-                "de": "Plateau",
-                "es": "Plateau",
-                "fr": "Plateau",
-                "it": "Dipartimento dell'Altopiano",
-                "zh": "\u9ad8\u539f\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": 7.3445141,
-            "lng": 2.5396029999999428
+        {
+            "code": "BJ-PL",
+            "names": "Plateau",
+            "type": "Department"
         },
-        "ZO": {
-            "name": "Zou Department",
-            "code": "ZO",
-            "names": {
-                "geonames": "Zou",
-                "ru": "\u0417\u0443",
-                "en": "Zou Department",
-                "de": "Zou",
-                "es": "Zou",
-                "fr": "Zou",
-                "it": "Dipartimento di Zou",
-                "zh": "\u7956\u7701"
-            },
-            "division": "department",
-            "parent": "BJ",
-            "lat": null,
-            "lng": null
+        {
+            "code": "BJ-ZO",
+            "names": "Zou",
+            "type": "Department"
         }
-    }
+    ]
 }

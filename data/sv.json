@@ -1,256 +1,204 @@
 {
     "alpha-2": "SV",
     "alpha-3": "SLV",
-    "numeric": 222,
-    "capital": "San Salvador",
-    "currency": "SVC,USD",
-    "languages": [
-        "es"
-    ],
-    "flag-icon": "\ud83c\uddf8\ud83c\uddfb",
+    "numeric": "222",
     "names": {
-        "geonames": "El Salvador",
         "en": "El Salvador",
-        "ar": "\u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631",
-        "de": "El Salvador",
-        "es": "El Salvador",
         "fr": "Salvador",
-        "it": "El Salvador",
-        "ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "ur": "\u0627\u0644 \u0633\u0644\u0648\u0627\u0688\u0648\u0631",
+        "rn": "Eli Saluvatori",
+        "lv": "Salvadora",
+        "hy": "\u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580",
+        "sq": "Salvador",
+        "jv": "\u00c8l Salvador",
+        "or": "\u0b0f\u0b32\u0b4d \u0b38\u0b3e\u0b32\u0b2d\u0b3e\u0b21\u0b4b\u0b30\u0b4d",
+        "mg": "El Salvador",
+        "no": "El Salvador",
         "zh": "\u8428\u5c14\u74e6\u591a",
-        "he": "\u05d0\u05dc \u05e1\u05dc\u05d5\u05d5\u05d3\u05d5\u05e8",
-        "hi": "\u0905\u0932 \u0938\u093e\u0932\u094d\u0935\u093e\u0921\u094b\u0930",
+        "tr": "El Salvador",
+        "bs": "Salvador",
         "ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
-        "pt": "El Salvador"
+        "th": "\u0e40\u0e2d\u0e25\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c",
+        "he": "\u05d0\u05dc \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8",
+        "fa": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
+        "kk": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "mo": "El Salvador",
+        "ff": "El Salwador",
+        "ca": "El Salvador",
+        "ar": "\u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631",
+        "eu": "El Salvador",
+        "ps": "\u0633\u0627\u0644\u0648\u06d0\u0689\u0648\u0631",
+        "kn": "\u0c8e\u0cb2\u0ccd \u0cb8\u0cbe\u0cb2\u0ccd\u0cb5\u0cc7\u0ca1\u0cbe\u0cb0\u0ccd",
+        "si": "\u0d91\u0dbd\u0dca \u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba",
+        "km": "\u17a2\u17c2\u179b\u179f\u17b6\u179b\u17cb\u179c\u17c9\u17b6\u178c\u17d0\u179a",
+        "ne": "\u090f\u0932\u094d \u0938\u093e\u0932\u094d\u092d\u093e\u0921\u094b\u0930",
+        "fi": "El Salvador",
+        "hi": "\u0905\u0932 \u0938\u0932\u094d\u0935\u093e\u0921\u094b\u0930",
+        "rm": "El Salvador",
+        "vi": "El Salvador",
+        "gl": "O Salvador",
+        "ig": "El Salvador",
+        "mr": "\u0905\u0932 \u0938\u093e\u0932\u094d\u0935\u093e\u0921\u094b\u0930",
+        "es": "El Salvador",
+        "be": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "lg": "El salivado",
+        "pt": "El Salvador",
+        "az": "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+        "ce": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "mk": "\u0415\u043b \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+        "zu": "i-El Salvador",
+        "it": "El Salvador",
+        "ko": "\uc5d8\uc0b4\ubc14\ub3c4\ub974",
+        "lo": "\u0ec0\u0ead\u0ea7 \u0e8a\u0ecd\u0ea7\u0eb2\u0e94\u0ecd",
+        "lt": "Salvadoras",
+        "dz": "\u0f68\u0f7a\u0f63\u0f0b\u0f66\u0f63\u0f0b\u0f56\u0f0b\u0f4c\u0f7c\u0f62",
+        "ln": "Savad\u0254r\u025b",
+        "hr": "Salvador",
+        "ks": "\u0627\u0620\u0644 \u0633\u064e\u0644\u0648\u0627\u0691\u0648\u0631",
+        "sv": "El Salvador",
+        "pl": "Salwador",
+        "nb": "El Salvador",
+        "sh": "Salvador",
+        "lu": "Savadore",
+        "nl": "El Salvador",
+        "ky": "\u042d\u043b\u044c-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "bn": "\u098f\u09b2 \u09b8\u09be\u09b2\u09ad\u09c7\u09a6\u09b0",
+        "sd": "\u0627\u0644 \u0633\u0644\u0648\u0627\u068a\u0648\u0631",
+        "gd": "An Salbhador",
+        "cs": "Salvador",
+        "tk": "Salwador",
+        "eo": "Salvadoro",
+        "mt": "El Salvador",
+        "sr": "Salvador",
+        "wo": "El Salwadoor",
+        "el": "\u0395\u03bb \u03a3\u03b1\u03bb\u03b2\u03b1\u03b4\u03cc\u03c1",
+        "sn": "El Salvador",
+        "yi": "\u05e2\u05dc \u05e1\u05d0\u05b7\u05dc\u05d5\u05d5\u05d0\u05b7\u05d3\u05d0\u05e8",
+        "is": "El Salvador",
+        "ta": "\u0b8e\u0bb2\u0bcd \u0b9a\u0bbe\u0bb2\u0bcd\u0bb5\u0b9f\u0bbe\u0bb0\u0bcd",
+        "br": "Salvador",
+        "hu": "Salvador",
+        "et": "El Salvador",
+        "ku": "El Salvador",
+        "sk": "Salv\u00e1dor",
+        "sw": "El Salvador",
+        "te": "\u0c0e\u0c32\u0c4d \u0c38\u0c3e\u0c32\u0c4d\u0c35\u0c21\u0c4b\u0c30\u0c4d",
+        "ro": "El Salvador",
+        "ki": "Elsavado",
+        "ak": "\u0190l Salvad\u0254",
+        "tg": "\u042d\u043b-\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+        "ml": "\u0d0e\u0d7d \u0d38\u0d3e\u0d7d\u0d35\u0d26\u0d4b\u0d7c",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de \u0190\u025bs\u00e1f\u00e1d\u00f2",
+        "de": "El Salvador",
+        "as": "\u098f\u09b2 \u099b\u09c7\u09b2\u09ad\u09c7\u09a1\u2019\u09f0",
+        "am": "\u12a4\u120d \u1233\u120d\u126b\u12f6\u122d",
+        "se": "El Salvador",
+        "ia": "El Salvador",
+        "ti": "\u12a4\u120d \u1233\u120d\u126b\u12f6\u122d",
+        "ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "ga": "an tSalvad\u00f3ir",
+        "bg": "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+        "my": "\u1021\u101a\u103a\u101c\u103a\u1006\u102c\u1017\u1031\u1038\u1012\u102d\u102f\u1038",
+        "fy": "El Salvador",
+        "bm": "Salivad\u0254r",
+        "gu": "\u0a8f\u0ab2 \u0ab8\u0ac7\u0ab2\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0",
+        "uz": "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+        "cy": "El Salvador",
+        "ug": "\u0633\u0627\u0644\u06cb\u0627\u062f\u0648\u0631",
+        "nn": "El Salvador",
+        "uk": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "qu": "El Salvador",
+        "tl": "El Salvador",
+        "ms": "El Salvador",
+        "so": "El Salfadoor",
+        "da": "El Salvador",
+        "tt": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "af": "El Salvador",
+        "ha": "El Salbador",
+        "iw": "\u05d0\u05dc \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8",
+        "ee": "El Salvad\u0254 nutome",
+        "in": "El Salvador",
+        "to": "\u02bbEle Salavatoa",
+        "sl": "Salvador",
+        "sg": "Salvad\u00f6ro",
+        "lb": "El Salvador",
+        "fo": "El Salvador",
+        "mn": "\u042d\u043b\u044c \u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "id": "El Salvador",
+        "pa": "\u0a05\u0a32 \u0a38\u0a32\u0a35\u0a3e\u0a21\u0a4b\u0a30",
+        "ka": "\u10e1\u10d0\u10da\u10d5\u10d0\u10d3\u10dd\u10e0\u10d8",
+        "nd": "El Salvador"
     },
-    "ISO3166-2": {
-        "AH": {
-            "name": "Ahuachap\u00e1n Department",
-            "code": "AH",
-            "names": {
-                "geonames": "Ahuachapan",
-                "ru": "\u0410\u0443\u0430\u0447\u0430\u043f\u0430\u043d",
-                "en": "Ahuachap\u00e1n Department",
-                "de": "Departamento Ahuachap\u00e1n",
-                "es": "Ahuachap\u00e1n",
-                "fr": "D\u00e9partement d'Ahuachap\u00e1n",
-                "it": "Dipartimento di Ahuachap\u00e1n",
-                "zh": "\u963f\u74e6\u67e5\u6f58\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.91908,
-            "lng": -89.84528399999999
+    "3166-2": [
+        {
+            "code": "SV-AH",
+            "names": "Ahuachap\u00e1n",
+            "type": "Department"
         },
-        "CA": {
-            "name": "Caba\u00f1as Department",
-            "code": "CA",
-            "names": {
-                "geonames": "Cabanas",
-                "ru": "\u041a\u0430\u0431\u0430\u043d\u044c\u044f\u0441",
-                "en": "Caba\u00f1as Department",
-                "de": "Departamento Caba\u00f1as",
-                "es": "Caba\u00f1as",
-                "fr": "D\u00e9partement de Caba\u00f1as",
-                "it": "Dipartimento di Caba\u00f1as",
-                "zh": "\u5361\u74e6\u5c3c\u4e9a\u65af\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.7283294,
-            "lng": -88.87995790000002
+        {
+            "code": "SV-CA",
+            "names": "Caba\u00f1as",
+            "type": "Department"
         },
-        "CH": {
-            "name": "Chalatenango Department",
-            "code": "CH",
-            "names": {
-                "geonames": "Chalatenango",
-                "en": "Chalatenango Department",
-                "de": "Departamento Chalatenango",
-                "es": "Chalatenango",
-                "fr": "D\u00e9partement de Chalatenango",
-                "it": "Dipartimento di Chalatenango",
-                "ru": "\u0427\u0430\u043b\u0430\u0442\u0435\u043d\u0430\u043d\u0433\u043e",
-                "zh": "\u67e5\u62c9\u7279\u5357\u6208\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 14.03906,
-            "lng": -88.94136900000001
+        {
+            "code": "SV-CH",
+            "names": "Chalatenango",
+            "type": "Department"
         },
-        "CU": {
-            "name": "Cuscatl\u00e1n Department",
-            "code": "CU",
-            "names": {
-                "geonames": "Cuscatlan",
-                "en": "Cuscatl\u00e1n Department",
-                "de": "Departamento Cuscatl\u00e1n",
-                "es": "Cuscatl\u00e1n",
-                "fr": "D\u00e9partement de Cuscatl\u00e1n",
-                "it": "Dipartimento di Cuscatl\u00e1n",
-                "ru": "\u041a\u0443\u0441\u043a\u0430\u0442\u043b\u0430\u043d",
-                "zh": "\u5e93\u65af\u5361\u7279\u5170\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": null,
-            "lng": null
+        {
+            "code": "SV-CU",
+            "names": "Cuscatl\u00e1n",
+            "type": "Department"
         },
-        "LI": {
-            "name": "La Libertad",
-            "code": "LI",
-            "names": {
-                "geonames": "La Libertad",
-                "en": "La Libertad"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.4856,
-            "lng": -89.325737
+        {
+            "code": "SV-LI",
+            "names": "La Libertad",
+            "type": "Department"
         },
-        "MO": {
-            "name": "Moraz\u00e1n Department",
-            "code": "MO",
-            "names": {
-                "geonames": "Morazan",
-                "ru": "\u041c\u043e\u0440\u0430\u0441\u0430\u043d",
-                "en": "Moraz\u00e1n Department",
-                "de": "Departamento Moraz\u00e1n",
-                "es": "Moraz\u00e1n",
-                "fr": "D\u00e9partement de Moraz\u00e1n",
-                "it": "Dipartimento di Moraz\u00e1n",
-                "zh": "\u83ab\u62c9\u6851\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 37.9642529,
-            "lng": -91.8318334
+        {
+            "code": "SV-MO",
+            "names": "Moraz\u00e1n",
+            "type": "Department"
         },
-        "PA": {
-            "name": "La Paz",
-            "code": "PA",
-            "names": {
-                "geonames": "La Paz",
-                "en": "La Paz"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 41.2033216,
-            "lng": -77.19452469999999
+        {
+            "code": "SV-PA",
+            "names": "La Paz",
+            "type": "Department"
         },
-        "SA": {
-            "name": "Santa Ana Department",
-            "code": "SA",
-            "names": {
-                "geonames": "Santa Ana",
-                "ru": "\u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430",
-                "en": "Santa Ana Department",
-                "de": "Santa Ana",
-                "es": "Santa Ana",
-                "fr": "Santa Ana",
-                "it": "Santa Ana",
-                "zh": "\u5723\u5b89\u5a1c\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.99603,
-            "lng": -89.552551
+        {
+            "code": "SV-SA",
+            "names": "Santa Ana",
+            "type": "Department"
         },
-        "SM": {
-            "name": "San Miguel Department",
-            "code": "SM",
-            "names": {
-                "geonames": "San Miguel",
-                "ru": "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c",
-                "en": "San Miguel Department",
-                "de": "Departamento San Miguel",
-                "es": "San Miguel",
-                "fr": "D\u00e9partement de San Miguel",
-                "it": "Dipartimento di San Miguel",
-                "zh": "\u5723\u7c73\u683c\u5c14\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.47321,
-            "lng": -88.176987
+        {
+            "code": "SV-SM",
+            "names": "San Miguel",
+            "type": "Department"
         },
-        "SO": {
-            "name": "Sonsonate Department",
-            "code": "SO",
-            "names": {
-                "geonames": "Sonsonate",
-                "ru": "\u0421\u043e\u043d\u0441\u043e\u043d\u0430\u0442\u0435",
-                "en": "Sonsonate Department",
-                "de": "Sonsonate",
-                "es": "Sonsonate",
-                "fr": "Sonsonate",
-                "it": "Sonsonate",
-                "zh": "\u677e\u7d22\u7eb3\u7279\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.7166667,
-            "lng": -89.71666670000002
+        {
+            "code": "SV-SO",
+            "names": "Sonsonate",
+            "type": "Department"
         },
-        "SS": {
-            "name": "San Salvador",
-            "code": "SS",
-            "names": {
-                "geonames": "San Salvador",
-                "en": "San Salvador"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.69,
-            "lng": -89.1900028
+        {
+            "code": "SV-SS",
+            "names": "San Salvador",
+            "type": "Department"
         },
-        "SV": {
-            "name": "San Vicente",
-            "code": "SV",
-            "names": {
-                "geonames": "San Vicente",
-                "en": "San Vicente"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.64121,
-            "lng": -88.78542299999998
+        {
+            "code": "SV-SV",
+            "names": "San Vicente",
+            "type": "Department"
         },
-        "UN": {
-            "name": "La Uni\u00f3n Department",
-            "code": "UN",
-            "names": {
-                "geonames": "La Union",
-                "ru": "\u041b\u0430-\u0423\u043d\u044c\u043e\u043d",
-                "en": "La Uni\u00f3n Department",
-                "de": "Departamento La Uni\u00f3n",
-                "es": "La Uni\u00f3n",
-                "fr": "D\u00e9partement de La Uni\u00f3n",
-                "it": "Dipartimento di La Uni\u00f3n",
-                "zh": "\u62c9\u4e4c\u5c3c\u7fc1\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.331925,
-            "lng": -87.84533299999998
+        {
+            "code": "SV-UN",
+            "names": "La Uni\u00f3n",
+            "type": "Department"
         },
-        "US": {
-            "name": "Usulut\u00e1n Department",
-            "code": "US",
-            "names": {
-                "geonames": "Usulutan",
-                "ru": "\u0423\u0441\u0443\u043b\u0443\u0442\u0430\u043d",
-                "en": "Usulut\u00e1n Department",
-                "de": "Departamento Usulut\u00e1n",
-                "es": "Usulut\u00e1n",
-                "fr": "D\u00e9partement d'Usulut\u00e1n",
-                "it": "Dipartimento di Usulut\u00e1n",
-                "zh": "\u4e4c\u82cf\u5362\u5766\u7701"
-            },
-            "division": "department",
-            "parent": "SV",
-            "lat": 13.34604,
-            "lng": -88.43158699999998
+        {
+            "code": "SV-US",
+            "names": "Usulut\u00e1n",
+            "type": "Department"
         }
-    }
+    ]
 }

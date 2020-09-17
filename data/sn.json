@@ -1,281 +1,204 @@
 {
     "alpha-2": "SN",
     "alpha-3": "SEN",
-    "numeric": 686,
-    "capital": "Dakar",
-    "currency": "XOF",
-    "languages": [
-        "fr"
-    ],
-    "flag-icon": "\ud83c\uddf8\ud83c\uddf3",
+    "numeric": "686",
     "names": {
-        "geonames": "Senegal",
         "en": "Senegal",
-        "ar": "\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
-        "de": "Senegal",
-        "es": "Senegal",
         "fr": "S\u00e9n\u00e9gal",
-        "it": "Senegal",
-        "ru": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "ur": "\u0633\u06cc\u0646\u06cc\u06af\u0644",
+        "rn": "Senegali",
+        "lv": "Seneg\u0101la",
+        "hy": "\u054d\u0565\u0576\u0565\u0563\u0561\u056c",
+        "sq": "Senegal",
+        "jv": "S\u00e9n\u00e9gal",
+        "or": "\u0b38\u0b47\u0b28\u0b47\u0b17\u0b3e\u0b32\u0b4d",
+        "mg": "Senegal",
+        "no": "Senegal",
         "zh": "\u585e\u5185\u52a0\u5c14",
-        "he": "\u05e1\u05e0\u05d2\u05dc",
-        "hi": "\u0938\u0947\u0928\u0947\u0917\u0932",
+        "tr": "Senegal",
+        "bs": "Senegal",
         "ja": "\u30bb\u30cd\u30ac\u30eb",
-        "pt": "Senegal"
+        "th": "\u0e40\u0e0b\u0e40\u0e19\u0e01\u0e31\u0e25",
+        "he": "\u05e1\u05e0\u05d2\u05dc",
+        "fa": "\u0633\u0646\u06af\u0627\u0644",
+        "kk": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "mo": "Senegal",
+        "ff": "\ud83a\udd05\ud83a\udd2b\ud83a\udd32\ud83a\udd2b\ud83a\udd3a\ud83a\udd22\ud83a\udd44\ud83a\udd24",
+        "ca": "Senegal",
+        "ar": "\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+        "eu": "Senegal",
+        "ps": "\u0633\u064a\u0646\u064a\u06ab\u0627\u0644",
+        "kn": "\u0cb8\u0cc6\u0ca8\u0cc6\u0c97\u0cb2\u0ccd",
+        "si": "\u0dc3\u0dd9\u0db1\u0d9c\u0dcf\u0dbd\u0dba",
+        "km": "\u179f\u17c1\u178e\u17c1\u17a0\u17d2\u1782\u17b6\u179b\u17cb",
+        "ne": "\u0938\u0947\u0928\u0947\u0917\u0932",
+        "fi": "Senegal",
+        "hi": "\u0938\u0947\u0928\u0947\u0917\u0932",
+        "rm": "Senegal",
+        "vi": "Senegal",
+        "gl": "Senegal",
+        "ig": "Senegal",
+        "mr": "\u0938\u0947\u0928\u0947\u0917\u0932",
+        "es": "Senegal",
+        "be": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "lg": "Senegaalo",
+        "az": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "ce": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "mk": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "zu": "i-Senegal",
+        "it": "Senegal",
+        "ko": "\uc138\ub124\uac08",
+        "lo": "\u0ec0\u0e8a\u0e99\u0eb5\u0ec2\u0e81\u0ea5",
+        "lt": "Senegalas",
+        "dz": "\u0f66\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f42\u0fb7\u0f63",
+        "ln": "Senegal\u025b",
+        "hr": "Senegal",
+        "ks": "\u0633\u06cc\u0646\u06cc\u06af\u064e\u0644",
+        "sv": "Senegal",
+        "pl": "Senegal",
+        "nb": "Senegal",
+        "sh": "Senegal",
+        "lu": "Senegale",
+        "nl": "Senegal",
+        "ky": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "bn": "\u09b8\u09c7\u09a8\u09c7\u0997\u09be\u09b2",
+        "sd": "\u0633\u064a\u0646\u064a\u06af\u0627\u0644",
+        "gd": "Seanagal",
+        "cs": "Senegal",
+        "tk": "Senegal",
+        "eo": "Senegalo",
+        "mt": "is-Senegal",
+        "sr": "Senegal",
+        "wo": "Senegaal",
+        "el": "\u03a3\u03b5\u03bd\u03b5\u03b3\u03ac\u03bb\u03b7",
+        "sn": "Senegal",
+        "pt": "Senegal",
+        "yi": "\u05e1\u05e2\u05e0\u05e2\u05d2\u05d0\u05b7\u05dc",
+        "is": "Senegal",
+        "ta": "\u0b9a\u0bc6\u0ba9\u0bc6\u0b95\u0bb2\u0bcd",
+        "br": "Senegal",
+        "hu": "Szeneg\u00e1l",
+        "et": "Senegal",
+        "ku": "Senegal",
+        "sk": "Senegal",
+        "sw": "Senegali",
+        "te": "\u0c38\u0c46\u0c28\u0c46\u0c17\u0c32\u0c4d",
+        "ro": "Senegal",
+        "ki": "Senegali",
+        "ak": "Senegal",
+        "tg": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "ml": "\u0d38\u0d46\u0d28\u0d17\u0d7d",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de S\u025bn\u025bga",
+        "de": "Senegal",
+        "as": "\u099a\u09c7\u09a8\u09c7\u0997\u09be\u09b2",
+        "am": "\u1234\u1294\u130b\u120d",
+        "se": "Senegal",
+        "ia": "Senegal",
+        "ti": "\u1234\u1294\u130b\u120d",
+        "ru": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "ga": "an tSeineag\u00e1il",
+        "bg": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "my": "\u1006\u102e\u1014\u102e\u1002\u1031\u102b",
+        "fy": "Senegal",
+        "bm": "Senegali",
+        "gu": "\u0ab8\u0ac7\u0aa8\u0ac7\u0a97\u0ab2",
+        "uz": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "cy": "Senegal",
+        "ug": "\u0633\u06d0\u0646\u06d0\u06af\u0627\u0644",
+        "nn": "Senegal",
+        "uk": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "qu": "Senegal",
+        "tl": "Senegal",
+        "ms": "Senegal",
+        "so": "Sinigaal",
+        "da": "Senegal",
+        "tt": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "af": "Senegal",
+        "ha": "Sanigal",
+        "iw": "\u05e1\u05e0\u05d2\u05dc",
+        "ee": "Senegal nutome",
+        "in": "Senegal",
+        "to": "Senekalo",
+        "sl": "Senegal",
+        "sg": "Seneg\u00e4le",
+        "lb": "Senegal",
+        "fo": "Senegal",
+        "mn": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "id": "Senegal",
+        "pa": "\u0a38\u0a47\u0a28\u0a47\u0a17\u0a32",
+        "ka": "\u10e1\u10d4\u10dc\u10d4\u10d2\u10d0\u10da\u10d8",
+        "nd": "Senegali"
     },
-    "ISO3166-2": {
-        "DB": {
-            "name": "Diourbel Region",
-            "code": "DB",
-            "names": {
-                "geonames": "Diourbel",
-                "ru": "\u0414\u0438\u0443\u0440\u0431\u0435\u043b\u044c",
-                "en": "Diourbel Region",
-                "de": "Region Diourbel",
-                "es": "Regi\u00f3n de Diourbel",
-                "fr": "Diourbel",
-                "it": "Regione di Diourbel",
-                "zh": "\u4e45\u5c14\u8d1d\u52d2\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.65317,
-            "lng": -16.23376099999996
+    "3166-2": [
+        {
+            "code": "SN-DB",
+            "names": "Diourbel",
+            "type": "Region"
         },
-        "DK": {
-            "name": "Dakar Region",
-            "code": "DK",
-            "names": {
-                "geonames": "Dakar",
-                "ru": "\u0414\u0430\u043a\u0430\u0440",
-                "en": "Dakar Region",
-                "de": "Region Dakar",
-                "es": "Regi\u00f3n de Dakar",
-                "fr": "Dakar",
-                "it": "Regione di Dakar",
-                "zh": "\u8fbe\u5580\u5c14\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.75,
-            "lng": -17.33333330000005
+        {
+            "code": "SN-DK",
+            "names": "Dakar",
+            "type": "Region"
         },
-        "FK": {
-            "name": "Fatick Region",
-            "code": "FK",
-            "names": {
-                "geonames": "Fatick",
-                "ru": "\u0424\u0430\u0442\u0438\u043a",
-                "en": "Fatick Region",
-                "de": "Region Fatick",
-                "es": "Regi\u00f3n de Fatick",
-                "fr": "Fatick",
-                "it": "Regione di Fatick",
-                "zh": "\u6cd5\u8482\u514b\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.3390167,
-            "lng": -16.411142499999983
+        {
+            "code": "SN-FK",
+            "names": "Fatick",
+            "type": "Region"
         },
-        "KA": {
-            "name": "Kaffrine Region",
-            "code": "KA",
-            "names": {
-                "geonames": "Kaffrine",
-                "ru": "\u041a\u0430\u0444\u0440\u0438\u043d",
-                "en": "Kaffrine Region",
-                "de": "Region Kaffrine",
-                "es": "Regi\u00f3n de Kaffrine",
-                "fr": "Kaffrine",
-                "it": "Regione di Kaffrine",
-                "zh": "\u5361\u592b\u6797\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.10686,
-            "lng": -15.551979999999958
+        {
+            "code": "SN-KA",
+            "names": "Kaffrine",
+            "type": "Region"
         },
-        "KD": {
-            "name": "Kolda Region",
-            "code": "KD",
-            "names": {
-                "geonames": "Kolda",
-                "ru": "\u041a\u043e\u043b\u0434\u0430",
-                "en": "Kolda Region",
-                "de": "Region Kolda",
-                "es": "Regi\u00f3n de Kolda",
-                "fr": "Kolda",
-                "it": "Regione di Kolda",
-                "zh": "\u79d1\u723e\u9054\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.89952,
-            "lng": -14.94426999999996
+        {
+            "code": "SN-KD",
+            "names": "Kolda",
+            "type": "Region"
         },
-        "KE": {
-            "name": "K\u00e9dougou Region",
-            "code": "KE",
-            "names": {
-                "geonames": "Kedougou",
-                "ru": "\u041a\u0435\u0434\u0443\u0433\u0443",
-                "en": "K\u00e9dougou Region",
-                "de": "Region K\u00e9dougou",
-                "es": "Regi\u00f3n de K\u00e9dougou",
-                "fr": "K\u00e9dougou",
-                "it": "Regione di K\u00e9dougou",
-                "zh": "\u51f1\u675c\u53e4\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.55438,
-            "lng": -12.17322999999999
+        {
+            "code": "SN-KE",
+            "names": "K\u00e9dougou",
+            "type": "Region"
         },
-        "KL": {
-            "name": "Kaolack Region",
-            "code": "KL",
-            "names": {
-                "geonames": "Kaolack",
-                "ru": "\u041a\u0430\u043e\u043b\u0430\u043a",
-                "en": "Kaolack Region",
-                "de": "Region Kaolack",
-                "es": "Regi\u00f3n de Kaolack",
-                "fr": "Kaolack",
-                "it": "Regione di Kaolack",
-                "zh": "\u8003\u62c9\u514b\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.14322,
-            "lng": -16.096090000000004
+        {
+            "code": "SN-KL",
+            "names": "Kaolack",
+            "type": "Region"
         },
-        "LG": {
-            "name": "Louga Region",
-            "code": "LG",
-            "names": {
-                "geonames": "Louga",
-                "ru": "\u041b\u0443\u0433\u0430",
-                "en": "Louga Region",
-                "de": "Region Louga",
-                "es": "Regi\u00f3n de Louga",
-                "fr": "Louga",
-                "it": "Regione di Louga",
-                "zh": "\u76e7\u52a0\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 15.61468,
-            "lng": -16.245568999999932
+        {
+            "code": "SN-LG",
+            "names": "Louga",
+            "type": "Region"
         },
-        "MT": {
-            "name": "Matam Region",
-            "code": "MT",
-            "names": {
-                "geonames": "Matam",
-                "ru": "\u041c\u0430\u0442\u0430\u043c",
-                "en": "Matam Region",
-                "de": "Region Matam",
-                "es": "Regi\u00f3n de Matam",
-                "fr": "Matam",
-                "it": "Regione di Matam",
-                "zh": "\u99ac\u5854\u59c6\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 15.66322,
-            "lng": -13.260960000000068
+        {
+            "code": "SN-MT",
+            "names": "Matam",
+            "type": "Region"
         },
-        "SE": {
-            "name": "S\u00e9dhiou Region",
-            "code": "SE",
-            "names": {
-                "geonames": "Sedhiou",
-                "ru": "\u0421\u0435\u0434\u0438\u0443",
-                "en": "S\u00e9dhiou Region",
-                "de": "Region S\u00e9dhiou",
-                "es": "Regi\u00f3n de S\u00e9dhiou",
-                "fr": "S\u00e9dhiou",
-                "it": "Regione di S\u00e9dhiou",
-                "zh": "\u585e\u4e45\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.704604,
-            "lng": -15.556230400000004
+        {
+            "code": "SN-SE",
+            "names": "S\u00e9dhiou",
+            "type": "Region"
         },
-        "SL": {
-            "name": "Saint-Louis Region",
-            "code": "SL",
-            "names": {
-                "geonames": "Saint-Louis",
-                "en": "Saint-Louis Region",
-                "de": "Region Saint-Louis",
-                "es": "Regi\u00f3n de Saint-Louis",
-                "fr": "Saint-Louis",
-                "it": "Regione di Saint-Louis",
-                "ru": "\u0421\u0435\u043d-\u041b\u0443\u0438",
-                "zh": "\u8056\u8def\u6613\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 16.02463,
-            "lng": -16.489530999999943
+        {
+            "code": "SN-SL",
+            "names": "Saint-Louis",
+            "type": "Region"
         },
-        "TC": {
-            "name": "Tambacounda Region",
-            "code": "TC",
-            "names": {
-                "geonames": "Tambacounda",
-                "ru": "\u0422\u0430\u043c\u0431\u0430\u043a\u0443\u043d\u0434\u0430",
-                "en": "Tambacounda Region",
-                "de": "Region Tambacounda",
-                "es": "Regi\u00f3n de Tambacounda",
-                "fr": "Tambacounda",
-                "it": "Regione di Tambacounda",
-                "zh": "\u5766\u5df4\u6606\u9054\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 13.7688889,
-            "lng": -13.66722219999997
+        {
+            "code": "SN-TC",
+            "names": "Tambacounda",
+            "type": "Region"
         },
-        "TH": {
-            "name": "Thi\u00e8s Region",
-            "code": "TH",
-            "names": {
-                "geonames": "Thies",
-                "ru": "\u0422\u0438\u0435\u0441",
-                "en": "Thi\u00e8s Region",
-                "de": "Region Thi\u00e8s",
-                "es": "Regi\u00f3n de Thi\u00e8s",
-                "fr": "Thi\u00e8s",
-                "it": "Regione di Thi\u00e8s",
-                "zh": "\u6377\u65af\u5340"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 14.8047,
-            "lng": -16.92433900000003
+        {
+            "code": "SN-TH",
+            "names": "Thi\u00e8s",
+            "type": "Region"
         },
-        "ZG": {
-            "name": "Ziguinchor Region",
-            "code": "ZG",
-            "names": {
-                "geonames": "Ziguinchor",
-                "ru": "\u0417\u0438\u0433\u0438\u043d\u0448\u043e\u0440",
-                "en": "Ziguinchor Region",
-                "ar": "\u0632\u064a\u0646\u063a\u0634\u0648\u0631",
-                "de": "Region Ziguinchor",
-                "es": "Regi\u00f3n de Ziguinchor",
-                "fr": "Ziguinchor",
-                "it": "Regione di Ziguinchor",
-                "zh": "\u6d4e\u91d1\u7ecd\u5c14\u533a"
-            },
-            "division": "region",
-            "parent": "SN",
-            "lat": 12.57994,
-            "lng": -16.283951000000002
+        {
+            "code": "SN-ZG",
+            "names": "Ziguinchor",
+            "type": "Region"
         }
-    }
+    ]
 }

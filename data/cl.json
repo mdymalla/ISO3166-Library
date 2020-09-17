@@ -1,298 +1,209 @@
 {
     "alpha-2": "CL",
     "alpha-3": "CHL",
-    "numeric": 152,
-    "capital": "Santiago",
-    "currency": "CLF,CLP",
-    "languages": [
-        "es"
-    ],
-    "flag-icon": "\ud83c\udde8\ud83c\uddf1",
+    "numeric": "152",
     "names": {
-        "geonames": "Chile",
         "en": "Chile",
-        "ar": "\u062a\u0634\u064a\u0644\u064a",
-        "de": "Chile",
-        "es": "Chile",
         "fr": "Chili",
-        "it": "Cile",
-        "ru": "\u0427\u0438\u043b\u0438",
+        "ur": "\u0686\u0644\u06cc",
+        "rn": "Shili",
+        "lv": "\u010c\u012ble",
+        "hy": "\u0549\u056b\u056c\u056b",
+        "sq": "Kili",
+        "jv": "Cil\u00e9",
+        "or": "\u0b1a\u0b3f\u0b32\u0b4d\u0b32\u0b40",
+        "mg": "Shili",
+        "no": "Chile",
         "zh": "\u667a\u5229",
-        "he": "\u05e6'\u05d9\u05dc\u05d4",
-        "hi": "\u091a\u093f\u0932\u0940",
+        "tr": "\u015eili",
+        "bs": "\u010cile",
         "ja": "\u30c1\u30ea",
-        "pt": "Chile"
+        "th": "\u0e0a\u0e34\u0e25\u0e35",
+        "he": "\u05e6\u05f3\u05d9\u05dc\u05d4",
+        "fa": "\u0634\u06cc\u0644\u06cc",
+        "kk": "\u0427\u0438\u043b\u0438",
+        "mo": "Chile",
+        "ff": "Cilii",
+        "ca": "Xile",
+        "ar": "\u062a\u0634\u064a\u0644\u064a",
+        "eu": "Txile",
+        "ps": "\u0686\u06cc\u0644\u064a",
+        "kn": "\u0c9a\u0cbf\u0cb2\u0cbf",
+        "si": "\u0da0\u0dd2\u0dbd\u0dd3",
+        "km": "\u179f\u17ca\u17b8\u179b\u17b8",
+        "ne": "\u091a\u093f\u0932\u0940",
+        "fi": "Chile",
+        "hi": "\u091a\u093f\u0932\u0940",
+        "rm": "Chile",
+        "vi": "Chile",
+        "gl": "Chile",
+        "ig": "Chile",
+        "mr": "\u091a\u093f\u0932\u0940",
+        "es": "Chile",
+        "be": "\u0427\u044b\u043b\u0456",
+        "lg": "Cile",
+        "az": "\u0427\u0438\u043b\u0438",
+        "ce": "\u0427\u0438\u043b\u0438",
+        "mk": "\u0427\u0438\u043b\u0435",
+        "zu": "i-Chile",
+        "it": "Cile",
+        "ko": "\uce60\ub808",
+        "lo": "\u0e8a\u0eb4\u0ea5\u0eb5",
+        "lt": "\u010cil\u0117",
+        "dz": "\u0f45\u0f72\u0f0b\u0f63\u0f72",
+        "ln": "S\u00edli",
+        "hr": "\u010cile",
+        "ks": "\u0686\u0650\u0644\u06cc",
+        "sv": "Chile",
+        "pl": "Chile",
+        "nb": "Chile",
+        "sh": "\u010cile",
+        "lu": "Shili",
+        "nl": "Chili",
+        "ky": "\u0427\u0438\u043b\u0438",
+        "bn": "\u099a\u09bf\u09b2\u09bf",
+        "sd": "\u0686\u0644\u064a",
+        "gd": "An t-Sile",
+        "cs": "Chile",
+        "tk": "\u00c7ili",
+        "eo": "\u0108ilio",
+        "mt": "i\u010b-\u010aili",
+        "sr": "\u010cile",
+        "wo": "Sili",
+        "el": "\u03a7\u03b9\u03bb\u03ae",
+        "sn": "Chile",
+        "pt": "Chile",
+        "yi": "\u05d8\u05e9\u05d9\u05dc\u05e2",
+        "is": "S\u00edle",
+        "ta": "\u0b9a\u0bbf\u0bb2\u0bbf",
+        "br": "Chile",
+        "hu": "Chile",
+        "et": "T\u0161iili",
+        "ku": "\u015e\u00eele",
+        "sk": "\u010cile",
+        "sw": "Chile",
+        "te": "\u0c1a\u0c3f\u0c32\u0c40",
+        "ro": "Chile",
+        "ki": "Chile",
+        "ak": "Kyili",
+        "tg": "\u0427\u0438\u043b\u0438",
+        "ml": "\u0d1a\u0d3f\u0d32\u0d3f",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de sh\u00edl\u00e8",
+        "de": "Chile",
+        "as": "\u099a\u09bf\u09b2\u09bf",
+        "am": "\u127a\u120a",
+        "se": "\u010ciile",
+        "ia": "Chile",
+        "ti": "\u127a\u120a",
+        "ru": "\u0427\u0438\u043b\u0438",
+        "ga": "an tSile",
+        "bg": "\u0427\u0438\u043b\u0438",
+        "my": "\u1001\u103b\u102e\u101c\u102e",
+        "fy": "Chili",
+        "bm": "Sili",
+        "gu": "\u0a9a\u0abf\u0ab2\u0ac0",
+        "uz": "\u0427\u0438\u043b\u0438",
+        "cy": "Chile",
+        "ug": "\u0686\u0649\u0644\u0649",
+        "nn": "Chile",
+        "uk": "\u0427\u0456\u043b\u0456",
+        "qu": "Chile",
+        "tl": "Chile",
+        "ms": "Chile",
+        "so": "Jili",
+        "da": "Chile",
+        "tt": "\u0427\u0438\u043b\u0438",
+        "af": "Chili",
+        "ha": "Cayile",
+        "iw": "\u05e6\u05f3\u05d9\u05dc\u05d4",
+        "ee": "Tsile nutome",
+        "in": "Cile",
+        "to": "Sili",
+        "sl": "\u010cile",
+        "sg": "Shil\u00efi",
+        "lb": "Chile",
+        "fo": "Kili",
+        "mn": "\u0427\u0438\u043b\u0438",
+        "id": "Cile",
+        "pa": "\u0a1a\u0a3f\u0a32\u0a40",
+        "ka": "\u10e9\u10d8\u10da\u10d4",
+        "nd": "Chile"
     },
-    "ISO3166-2": {
-        "AI": {
-            "name": "Ays\u00e9n Region",
-            "code": "AI",
-            "names": {
-                "geonames": "Aisen",
-                "ru": "\u0410\u0439\u0441\u0435\u043d-\u0434\u0435\u043b\u044c-\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u041a\u0430\u0440\u043b\u043e\u0441-\u0418\u0431\u0430\u043d\u044c\u0435\u0441-\u0434\u0435\u043b\u044c-\u041a\u0430\u043c\u043f\u043e",
-                "en": "Ays\u00e9n Region",
-                "de": "Regi\u00f3n de Ays\u00e9n",
-                "es": "Regi\u00f3n Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
-                "fr": "R\u00e9gion Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
-                "it": "Regione di Ays\u00e9n",
-                "zh": "\u4f0a\u74e6\u6d85\u65af\u5c06\u519b\u827e\u68ee\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -46.378345,
-            "lng": -72.30076229999997
+    "3166-2": [
+        {
+            "code": "CL-AI",
+            "names": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "type": "Region"
         },
-        "AN": {
-            "name": "Antofagasta Region",
-            "code": "AN",
-            "names": {
-                "geonames": "Antofagasta",
-                "ru": "\u0410\u043d\u0442\u043e\u0444\u0430\u0433\u0430\u0441\u0442\u0430",
-                "en": "Antofagasta Region",
-                "de": "Regi\u00f3n de Antofagasta",
-                "es": "Regi\u00f3n de Antofagasta",
-                "fr": "R\u00e9gion d'Antofagasta",
-                "it": "Regione di Antofagasta",
-                "zh": "\u5b89\u6258\u6cd5\u52a0\u65af\u5854\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -23.6239214,
-            "lng": -70.40161269999999
+        {
+            "code": "CL-AN",
+            "names": "Antofagasta",
+            "type": "Region"
         },
-        "AP": {
-            "name": "Arica y Parinacota Region",
-            "code": "AP",
-            "names": {
-                "geonames": "Arica y Parinacota",
-                "ru": "\u0410\u0440\u0438\u043a\u0430-\u0438-\u041f\u0430\u0440\u0438\u043d\u0430\u043a\u043e\u0442\u0430",
-                "en": "Arica y Parinacota Region",
-                "de": "Regi\u00f3n de Arica y Parinacota",
-                "es": "Regi\u00f3n de Arica y Parinacota",
-                "fr": "R\u00e9gion d'Arica et Parinacota",
-                "it": "Regione di Arica e Parinacota",
-                "zh": "\u963f\u91cc\u5361\u548c\u5e15\u91cc\u7eb3\u79d1\u5854\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -18.2,
-            "lng": -69.26666699999998
+        {
+            "code": "CL-AP",
+            "names": "Arica y Parinacota",
+            "type": "Region"
         },
-        "AR": {
-            "name": "Araucan\u00eda Region",
-            "code": "AR",
-            "names": {
-                "geonames": "Araucania",
-                "ru": "\u0410\u0440\u0430\u0443\u043a\u0430\u043d\u0438\u044f",
-                "en": "Araucan\u00eda Region",
-                "de": "Regi\u00f3n de la Araucan\u00eda",
-                "es": "Regi\u00f3n de la Araucan\u00eda",
-                "fr": "R\u00e9gion d'Araucanie",
-                "it": "Regione dell'Araucan\u00eda",
-                "zh": "\u963f\u52b3\u5361\u5c3c\u4e9a\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -38.948921,
-            "lng": -72.33111300000002
+        {
+            "code": "CL-AR",
+            "names": "Araucan\u00eda",
+            "type": "Region"
         },
-        "AT": {
-            "name": "Atacama Region",
-            "code": "AT",
-            "names": {
-                "geonames": "Atacama",
-                "ru": "\u0410\u0442\u0430\u043a\u0430\u043c\u0430",
-                "en": "Atacama Region",
-                "de": "Regi\u00f3n de Atacama",
-                "es": "Regi\u00f3n de Atacama",
-                "fr": "R\u00e9gion d'Atacama",
-                "it": "Regione di Atacama",
-                "zh": "\u963f\u5854\u5361\u9a6c\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CL-AT",
+            "names": "Atacama",
+            "type": "Region"
         },
-        "BI": {
-            "name": "B\u00edo B\u00edo Region",
-            "code": "BI",
-            "names": {
-                "geonames": "Biobio",
-                "ru": "\u0411\u0438\u043e-\u0411\u0438\u043e",
-                "en": "B\u00edo B\u00edo Region",
-                "de": "Regi\u00f3n del B\u00edo-B\u00edo",
-                "es": "Regi\u00f3n del Biob\u00edo",
-                "fr": "R\u00e9gion du Biob\u00edo",
-                "it": "Regione del B\u00edo B\u00edo",
-                "zh": "\u6bd4\u5965\u6bd4\u5965\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CL-BI",
+            "names": "B\u00edo-B\u00edo",
+            "type": "Region"
         },
-        "CO": {
-            "name": "Coquimbo Region",
-            "code": "CO",
-            "names": {
-                "geonames": "Coquimbo",
-                "ru": "\u041a\u043e\u043a\u0438\u043c\u0431\u043e",
-                "en": "Coquimbo Region",
-                "de": "Regi\u00f3n de Coquimbo",
-                "es": "Regi\u00f3n de Coquimbo",
-                "fr": "R\u00e9gion de Coquimbo",
-                "it": "Regione di Coquimbo",
-                "zh": "\u79d1\u91d1\u535a\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -29.9711149,
-            "lng": -71.30716359999997
+        {
+            "code": "CL-CO",
+            "names": "Coquimbo",
+            "type": "Region"
         },
-        "LI": {
-            "name": "Libertador General Bernardo O'Higgins Region",
-            "code": "LI",
-            "names": {
-                "geonames": "O'Higgins",
-                "ru": "\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434\u043e\u0440-\u0425\u0435\u043d\u0435\u0440\u0430\u043b\u044c-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u043e-\u041e\u2019\u0425\u0438\u0433\u0433\u0438\u043d\u0441",
-                "en": "Libertador General Bernardo O'Higgins Region",
-                "de": "Regi\u00f3n del Libertador General Bernardo O\u2019Higgins",
-                "es": "Regi\u00f3n del Libertador General Bernardo O'Higgins",
-                "fr": "R\u00e9gion du Libertador General Bernardo O'Higgins",
-                "it": "Regione del Libertador General Bernardo O'Higgins",
-                "zh": "\u5965\u4f0a\u91d1\u65af\u5c06\u519b\u89e3\u653e\u8005\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -34.5755374,
-            "lng": -71.00223110000002
+        {
+            "code": "CL-LI",
+            "names": "Libertador General Bernardo O'Higgins",
+            "type": "Region"
         },
-        "LL": {
-            "name": "Los Lagos Region",
-            "code": "LL",
-            "names": {
-                "geonames": "Los Lagos",
-                "ru": "\u041b\u043e\u0441-\u041b\u0430\u0433\u043e\u0441",
-                "en": "Los Lagos Region",
-                "de": "Regi\u00f3n de los Lagos",
-                "es": "Regi\u00f3n de Los Lagos",
-                "fr": "R\u00e9gion des Lacs",
-                "it": "Regione di Los Lagos",
-                "zh": "\u6e56\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CL-LL",
+            "names": "Los Lagos",
+            "type": "Region"
         },
-        "LR": {
-            "name": "Los R\u00edos Region",
-            "code": "LR",
-            "names": {
-                "geonames": "Los Rios",
-                "ru": "\u041b\u043e\u0441-\u0420\u0438\u043e\u0441",
-                "en": "Los R\u00edos Region",
-                "de": "Regi\u00f3n de Los R\u00edos",
-                "es": "Regi\u00f3n de Los R\u00edos",
-                "fr": "R\u00e9gion des Fleuves",
-                "it": "Regione di Los R\u00edos",
-                "zh": "\u6cb3\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": null,
-            "lng": null
+        {
+            "code": "CL-LR",
+            "names": "Los R\u00edos",
+            "type": "Region"
         },
-        "MA": {
-            "name": "Magallanes y la Ant\u00e1rtica Chilena Region",
-            "code": "MA",
-            "names": {
-                "geonames": "Magallanes",
-                "ru": "\u041c\u0430\u0433\u0430\u043b\u044c\u044f\u043d\u0435\u0441-\u0438-\u043b\u0430-\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430-\u0427\u0438\u043b\u0435\u043d\u0430",
-                "en": "Magallanes y la Ant\u00e1rtica Chilena Region",
-                "de": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
-                "es": "Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena",
-                "fr": "R\u00e9gion de Magallanes et de l'Antarctique chilien",
-                "it": "Regione di Magellano e dell'Antartide Cilena",
-                "zh": "\u9ea6\u54f2\u4f26-\u667a\u5229\u5357\u6781\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": 42.4072107,
-            "lng": -71.38243740000001
+        {
+            "code": "CL-MA",
+            "names": "Magallanes y Ant\u00e1rtica Chilena",
+            "type": "Region"
         },
-        "ML": {
-            "name": "Maule Region",
-            "code": "ML",
-            "names": {
-                "geonames": "Maule",
-                "ru": "\u041c\u0430\u0443\u043b\u0435",
-                "en": "Maule Region",
-                "de": "Regi\u00f3n del Maule",
-                "es": "Regi\u00f3n del Maule",
-                "fr": "R\u00e9gion du Maule",
-                "it": "Regione del Maule",
-                "zh": "\u9a6c\u4e4c\u83b1\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -35.5118152,
-            "lng": -71.68910089999997
+        {
+            "code": "CL-ML",
+            "names": "Maule",
+            "type": "Region"
         },
-        "RM": {
-            "name": "Santiago Metropolitan Region",
-            "code": "RM",
-            "names": {
-                "geonames": "Santiago Metropolitan",
-                "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "en": "Santiago Metropolitan Region",
-                "de": "Regi\u00f3n Metropolitana de Santiago",
-                "es": "Regi\u00f3n Metropolitana de Santiago",
-                "fr": "R\u00e9gion m\u00e9tropolitaine de Santiago",
-                "it": "Regione Metropolitana di Santiago",
-                "zh": "\u5723\u5730\u4e9a\u54e5\u9996\u90fd\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -33.4253598,
-            "lng": -70.56646590000003
+        {
+            "code": "CL-RM",
+            "names": "Regi\u00f3n Metropolitana de Santiago",
+            "type": "Region"
         },
-        "TA": {
-            "name": "Tarapac\u00e1 Region",
-            "code": "TA",
-            "names": {
-                "geonames": "Tarapaca",
-                "ru": "\u0422\u0430\u0440\u0430\u043f\u0430\u043a\u0430",
-                "en": "Tarapac\u00e1 Region",
-                "de": "Regi\u00f3n de Tarapac\u00e1",
-                "es": "Regi\u00f3n de Tarapac\u00e1",
-                "fr": "R\u00e9gion de Tarapac\u00e1",
-                "it": "Regione di Tarapac\u00e1",
-                "zh": "\u5854\u62c9\u5e15\u5361\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -19.922211,
-            "lng": -69.505852
+        {
+            "code": "CL-TA",
+            "names": "Tarapac\u00e1",
+            "type": "Region"
         },
-        "VS": {
-            "name": "Valpara\u00edso Region",
-            "code": "VS",
-            "names": {
-                "geonames": "Valparaiso",
-                "ru": "\u0412\u0430\u043b\u044c\u043f\u0430\u0440\u0430\u0438\u0441\u043e",
-                "en": "Valpara\u00edso Region",
-                "de": "Regi\u00f3n de Valpara\u00edso",
-                "es": "Regi\u00f3n de Valpara\u00edso",
-                "fr": "R\u00e9gion de Valpara\u00edso",
-                "it": "Regione di Valpara\u00edso",
-                "zh": "\u74e6\u5c14\u5e15\u83b1\u7d22\u5927\u533a"
-            },
-            "division": "region",
-            "parent": "CL",
-            "lat": -33.0504619,
-            "lng": -71.61645149999998
+        {
+            "code": "CL-VS",
+            "names": "Valpara\u00edso",
+            "type": "Region"
         }
-    }
+    ]
 }

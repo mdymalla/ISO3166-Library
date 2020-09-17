@@ -1,335 +1,224 @@
 {
     "alpha-2": "PY",
     "alpha-3": "PRY",
-    "numeric": 600,
-    "capital": "Asunci\u00f3n",
-    "currency": "PYG",
-    "languages": [
-        "es",
-        "gn"
-    ],
-    "flag-icon": "\ud83c\uddf5\ud83c\uddfe",
+    "numeric": "600",
     "names": {
-        "geonames": "Paraguay",
         "en": "Paraguay",
-        "ar": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a",
-        "de": "Paraguay",
-        "es": "Paraguay",
         "fr": "Paraguay",
-        "it": "Paraguay",
-        "ru": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "ur": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2",
+        "rn": "Paragwe",
+        "lv": "Paragvaja",
+        "hy": "\u054a\u0561\u0580\u0561\u0563\u057e\u0561\u0575",
+        "sq": "Paraguai",
+        "jv": "Paraguay",
+        "or": "\u0b2a\u0b3e\u0b30\u0b3e\u0b17\u0b41\u0b0f",
+        "mg": "Paragoay",
+        "no": "Paraguay",
         "zh": "\u5df4\u62c9\u572d",
-        "he": "\u05e4\u05e8\u05d2\u05d5\u05d5\u05d0\u05d9",
-        "hi": "\u092a\u0948\u0930\u093e\u0917\u094d\u0935\u0947",
+        "tr": "Paraguay",
+        "bs": "Paragvaj",
         "ja": "\u30d1\u30e9\u30b0\u30a2\u30a4",
-        "pt": "Paraguai"
+        "th": "\u0e1b\u0e32\u0e23\u0e32\u0e01\u0e27\u0e31\u0e22",
+        "he": "\u05e4\u05e8\u05d2\u05d5\u05d5\u05d0\u05d9",
+        "fa": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+        "kk": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "mo": "Paraguay",
+        "ff": "Paraguwaay",
+        "ca": "Paraguai",
+        "ar": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a",
+        "eu": "Paraguai",
+        "ps": "\u067e\u0627\u0631\u0627\u06ab\u0648\u06cc",
+        "kn": "\u0caa\u0cb0\u0cbe\u0c97\u0ccd\u0cb5\u0cc7",
+        "si": "\u0db4\u0dd0\u0dbb\u0d9c\u0dd4\u0dc0\u0dda",
+        "km": "\u1794\u17c9\u17b6\u179a\u17c9\u17b6\u17a0\u17d2\u1782\u17b6\u1799",
+        "ne": "\u092a\u094d\u092f\u093e\u0930\u093e\u0917\u094d\u0935\u0947",
+        "fi": "Paraguay",
+        "hi": "\u092a\u0930\u093e\u0917\u094d\u0935\u0947",
+        "rm": "Paraguai",
+        "vi": "Paraguay",
+        "gl": "O Paraguai",
+        "ig": "Paraguay",
+        "mr": "\u092a\u0930\u093e\u0917\u094d\u0935\u0947",
+        "es": "Paraguay",
+        "be": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "lg": "Paragwayi",
+        "az": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458",
+        "ce": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "mk": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458",
+        "zu": "i-Paraguay",
+        "it": "Paraguay",
+        "ko": "\ud30c\ub77c\uacfc\uc774",
+        "lo": "\u0e9e\u0eb2\u0ea3\u0eb2\u0e81\u0ea7\u0e8d",
+        "lt": "Paragvajus",
+        "dz": "\u0f54\u0f0b\u0f62\u0f0b\u0f42\u0f74\u0f0b\u0f5d\u0f60\u0f72",
+        "ln": "Palagwei",
+        "hr": "Paragvaj",
+        "ks": "\u067e\u064e\u0631\u0627\u06af\u064f\u06d2",
+        "sv": "Paraguay",
+        "pl": "Paragwaj",
+        "nb": "Paraguay",
+        "sh": "Paragvaj",
+        "lu": "Palagwei",
+        "nl": "Paraguay",
+        "ky": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "bn": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u0997\u09c1\u09af\u09bc\u09c7",
+        "sd": "\u067e\u064a\u0631\u0627\u06af\u0648\u0621\u0650",
+        "gd": "Paraguaidh",
+        "cs": "Paraguay",
+        "tk": "Paragwa\u00fd",
+        "eo": "Paragvajo",
+        "mt": "il-Paragwaj",
+        "sr": "Paragvaj",
+        "wo": "Paraguwe",
+        "el": "\u03a0\u03b1\u03c1\u03b1\u03b3\u03bf\u03c5\u03ac\u03b7",
+        "sn": "Paraguay",
+        "pt": "Paraguai",
+        "yi": "\u05e4\u05bc\u05d0\u05b7\u05e8\u05d0\u05b7\u05d2\u05d5\u05d5\u05f2\u05b7",
+        "is": "Paragv\u00e6",
+        "ta": "\u0baa\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bc7",
+        "br": "Paraguay",
+        "hu": "Paraguay",
+        "et": "Paraguay",
+        "ku": "Paraguay",
+        "sk": "Paraguaj",
+        "sw": "Paragwai",
+        "te": "\u0c2a\u0c30\u0c3e\u0c17\u0c4d\u0c35\u0c47",
+        "ro": "Paraguay",
+        "ki": "Paragwai",
+        "ak": "Paraguay",
+        "tg": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "ml": "\u0d2a\u0d30\u0d3e\u0d17\u0d4d\u0d35\u0d47",
+        "yo": "Or\u00edl\u025b\u0301\u00e8de Paraguye",
+        "de": "Paraguay",
+        "as": "\u09aa\u09be\u09f0\u09be\u0997\u09c1\u09f1\u09c7",
+        "am": "\u1353\u122b\u1313\u12ed",
+        "se": "Paraguay",
+        "ia": "Paraguay",
+        "ti": "\u1353\u122b\u1313\u12ed",
+        "ru": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "ga": "Paragua",
+        "bg": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "my": "\u1015\u102b\u101b\u102c\u1002\u103d\u1031\u1038",
+        "fy": "Paraguay",
+        "bm": "Paraguwayi",
+        "gu": "\u0aaa\u0ac7\u0ab0\u0abe\u0a97\u0acd\u0ab5\u0ac7",
+        "uz": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "cy": "Paraguay",
+        "ug": "\u067e\u0627\u0631\u0627\u06af\u06cb\u0627\u064a",
+        "nn": "Paraguay",
+        "uk": "\u041f\u0430\u0440\u0430\u0491\u0432\u0430\u0439",
+        "qu": "Paraguay",
+        "tl": "Paraguay",
+        "ms": "Paraguay",
+        "so": "Baraguaay",
+        "da": "Paraguay",
+        "tt": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "af": "Paraguay",
+        "ha": "Faragwai",
+        "iw": "\u05e4\u05e8\u05d2\u05d5\u05d5\u05d0\u05d9",
+        "ee": "Paragua nutome",
+        "in": "Paraguay",
+        "to": "Palakuai",
+        "sl": "Paragvaj",
+        "sg": "Paragu\u00ebe",
+        "lb": "Paraguay",
+        "fo": "Paraguai",
+        "mn": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "id": "Paraguay",
+        "pa": "\u0a2a\u0a48\u0a30\u0a3e\u0a17\u0a35\u0a47",
+        "ka": "\u10de\u10d0\u10e0\u10d0\u10d2\u10d5\u10d0\u10d8",
+        "nd": "Paraguay"
     },
-    "ISO3166-2": {
-        "ASU": {
-            "name": "Asunci\u00f3n",
-            "code": "ASU",
-            "names": {
-                "geonames": "Asuncion",
-                "ru": "\u0410\u0441\u0443\u043d\u0441\u044c\u043e\u043d",
-                "en": "Asunci\u00f3n",
-                "ar": "\u0623\u0633\u0648\u0646\u0633\u064a\u0648\u0646",
-                "de": "Asunci\u00f3n",
-                "es": "Asunci\u00f3n",
-                "fr": "Asuncion",
-                "it": "Asunci\u00f3n",
-                "zh": "\u4e9e\u677e\u68ee"
-            },
-            "division": "capital district",
-            "parent": "PY",
-            "lat": -25.2821972,
-            "lng": -57.635099999999966
+    "3166-2": [
+        {
+            "code": "PY-1",
+            "names": "Concepci\u00f3n",
+            "type": "Department"
         },
-        "1": {
-            "name": "Concepci\u00f3n Department",
-            "code": "1",
-            "names": {
-                "geonames": "Concepcion",
-                "ru": "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u043e\u043d",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0646\u0633\u064a\u0628\u0633\u064a\u0648\u0646",
-                "de": "Departamento Concepci\u00f3n",
-                "en": "Concepci\u00f3n Department",
-                "es": "Departamento de Concepci\u00f3n",
-                "fr": "D\u00e9partement de Concepci\u00f3n",
-                "it": "Dipartimento di Concepci\u00f3n",
-                "zh": "\u5eb7\u585e\u666e\u897f\u7fc1\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -23.402901,
-            "lng": -57.42924900000003
+        {
+            "code": "PY-10",
+            "names": "Alto Paran\u00e1",
+            "type": "Department"
         },
-        "2": {
-            "name": "San Pedro Department, Paraguay",
-            "code": "2",
-            "names": {
-                "geonames": "San Pedro",
-                "ru": "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e",
-                "ar": "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648",
-                "de": "Departamento San Pedro",
-                "en": "San Pedro Department",
-                "es": "Departamento de San Pedro",
-                "fr": "D\u00e9partement de San Pedro",
-                "it": "Dipartimento di San Pedro",
-                "zh": "\u8056\u4f69\u5fb7\u7f85\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -24.08872,
-            "lng": -57.07651899999996
+        {
+            "code": "PY-11",
+            "names": "Central",
+            "type": "Department"
         },
-        "3": {
-            "name": "Cordillera",
-            "code": "3",
-            "names": {
-                "geonames": "Cordillera",
-                "ru": "\u041a\u043e\u0440\u0434\u0438\u043b\u044c\u0435\u0440\u0430",
-                "en": "Cordillera"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.0559201,
-            "lng": -57.1289706
+        {
+            "code": "PY-12",
+            "names": "\u00d1eembuc\u00fa",
+            "type": "Department"
         },
-        "4": {
-            "name": "Guaira",
-            "code": "4",
-            "names": {
-                "geonames": "Guaira",
-                "ru": "\u0413\u0443\u0430\u0439\u0440\u0430",
-                "en": "Guaira"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.4522441,
-            "lng": -56.44818470000001
+        {
+            "code": "PY-13",
+            "names": "Amambay",
+            "type": "Department"
         },
-        "5": {
-            "name": "Caaguaz\u00fa Department",
-            "code": "5",
-            "names": {
-                "geonames": "Caaguazu",
-                "ru": "\u041a\u0430\u0430\u0433\u0443\u0430\u0441\u0443",
-                "de": "Departamento Caaguaz\u00fa",
-                "en": "Caaguaz\u00fa Department",
-                "es": "Departamento de Caaguaz\u00fa",
-                "fr": "D\u00e9partement de Caaguaz\u00fa",
-                "it": "Dipartimento di Caaguaz\u00fa",
-                "zh": "\u5361\u74dc\u8607\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.46982,
-            "lng": -56.01535000000001
+        {
+            "code": "PY-14",
+            "names": "Canindey\u00fa",
+            "type": "Department"
         },
-        "6": {
-            "name": "Caazap\u00e1 Department",
-            "code": "6",
-            "names": {
-                "geonames": "Caazapa",
-                "ru": "\u041a\u0430\u0430\u0441\u0430\u043f\u0430",
-                "de": "Departamento Caazap\u00e1",
-                "en": "Caazap\u00e1 Department",
-                "es": "Departamento de Caazap\u00e1",
-                "fr": "D\u00e9partement de Caazap\u00e1",
-                "it": "Dipartimento di Caazap\u00e1",
-                "zh": "\u5361\u85a9\u5e15\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -26.199961,
-            "lng": -56.36806899999999
+        {
+            "code": "PY-15",
+            "names": "Presidente Hayes",
+            "type": "Department"
         },
-        "7": {
-            "name": "Itap\u00faa Department",
-            "code": "7",
-            "names": {
-                "geonames": "Itapua",
-                "ru": "\u0418\u0442\u0430\u043f\u0443\u0430",
-                "de": "Departamento Itap\u00faa",
-                "en": "Itap\u00faa Department",
-                "es": "Departamento de Itap\u00faa",
-                "fr": "D\u00e9partement d'Itap\u00faa",
-                "it": "Dipartimento di Itap\u00faa",
-                "zh": "\u4f0a\u5854\u666e\u963f\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -27.3559915,
-            "lng": -55.85420640000001
+        {
+            "code": "PY-16",
+            "names": "Alto Paraguay",
+            "type": "Department"
         },
-        "8": {
-            "name": "Misiones",
-            "code": "8",
-            "names": {
-                "geonames": "Misiones",
-                "en": "Misiones"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -26.6716775,
-            "lng": -57.144538799999964
+        {
+            "code": "PY-19",
+            "names": "Boquer\u00f3n",
+            "type": "Department"
         },
-        "9": {
-            "name": "Paraguar\u00ed",
-            "code": "9",
-            "names": {
-                "geonames": "Paraguari",
-                "ru": "\u041f\u0430\u0440\u0430\u0433\u0443\u0430\u0440\u0438",
-                "de": "Paraguar\u00ed",
-                "en": "Paraguar\u00ed",
-                "es": "Paraguar\u00ed",
-                "it": "Paraguar\u00ed",
-                "zh": "\u5df4\u62c9\u74dc\u91cc"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.624229,
-            "lng": -57.15063900000001
+        {
+            "code": "PY-2",
+            "names": "San Pedro",
+            "type": "Department"
         },
-        "10": {
-            "name": "Alto Paran\u00e1 Department",
-            "code": "10",
-            "names": {
-                "geonames": "Alto Parana",
-                "ru": "\u0410\u043b\u044c\u0442\u043e-\u041f\u0430\u0440\u0430\u043d\u0430",
-                "en": "Alto Paran\u00e1 Department",
-                "de": "Departamento Alto Paran\u00e1",
-                "es": "Departamento de Alto Paran\u00e1",
-                "fr": "D\u00e9partement de l'Alto Paran\u00e1",
-                "it": "Dipartimento dell'Alto Paran\u00e1",
-                "zh": "\u4e0a\u5df4\u62c9\u90a3\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -24.4653782,
-            "lng": -55.18089399999997
+        {
+            "code": "PY-3",
+            "names": "Cordillera",
+            "type": "Department"
         },
-        "11": {
-            "name": "Central",
-            "code": "11",
-            "names": {
-                "geonames": "Central",
-                "ru": "\u0421\u0435\u043d\u0442\u0440\u0430\u043b\u044c",
-                "en": "Central"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.3396895,
-            "lng": -57.55583150000001
+        {
+            "code": "PY-4",
+            "names": "Guair\u00e1",
+            "type": "Department"
         },
-        "12": {
-            "name": "\u00d1eembuc\u00fa Department",
-            "code": "12",
-            "names": {
-                "geonames": "Neembucu",
-                "ru": "\u041d\u044c\u0435\u044d\u043c\u0431\u0443\u043a\u0443",
-                "en": "\u00d1eembuc\u00fa Department",
-                "de": "Departamento \u00d1eembuc\u00fa",
-                "es": "Departamento de \u00d1eembuc\u00fa",
-                "fr": "D\u00e9partement de \u00d1eembuc\u00fa",
-                "it": "Dipartimento di \u00d1eembuc\u00fa",
-                "zh": "\u6d85\u6069\u5e03\u5eab\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -26.81666,
-            "lng": -57.98212769999998
+        {
+            "code": "PY-5",
+            "names": "Caaguaz\u00fa",
+            "type": "Department"
         },
-        "13": {
-            "name": "Amambay Department",
-            "code": "13",
-            "names": {
-                "geonames": "Amambay",
-                "ru": "\u0410\u043c\u0430\u043c\u0431\u0430\u0439",
-                "en": "Amambay Department",
-                "de": "Departamento Amambay",
-                "es": "Departamento Amambay",
-                "fr": "D\u00e9partement d'Amambay",
-                "it": "Dipartimento di Amambay",
-                "zh": "\u963f\u66fc\u62dc\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.3527087,
-            "lng": -57.61870440000001
+        {
+            "code": "PY-6",
+            "names": "Caazap\u00e1",
+            "type": "Department"
         },
-        "14": {
-            "name": "Canindey\u00fa Department",
-            "code": "14",
-            "names": {
-                "geonames": "Canindeyu",
-                "ru": "\u041a\u0430\u043d\u0435\u043d\u0434\u0438\u044e",
-                "en": "Canindey\u00fa Department",
-                "de": "Departamento Canindey\u00fa",
-                "es": "Departamento de Canindey\u00fa",
-                "fr": "D\u00e9partement de Canindey\u00fa",
-                "it": "Dipartimento di Canindey\u00fa",
-                "zh": "\u5361\u5be7\u5fb7\u5c24\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -24.4774429,
-            "lng": -56.08608479999998
+        {
+            "code": "PY-7",
+            "names": "Itap\u00faa",
+            "type": "Department"
         },
-        "15": {
-            "name": "Presidente Hayes Department",
-            "code": "15",
-            "names": {
-                "geonames": "Presidente Hayes",
-                "ru": "\u041f\u0440\u0435\u0441\u0438\u0434\u0435\u043d\u0442\u0435-\u0410\u0435\u0441",
-                "en": "Presidente Hayes Department",
-                "de": "Departamento Presidente Hayes",
-                "es": "Departamento Presidente Hayes",
-                "fr": "D\u00e9partement de Presidente Hayes",
-                "it": "Dipartimento Presidente Hayes",
-                "zh": "\u963f\u8036\u65af\u7e3d\u7d71\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -26.1960411,
-            "lng": -56.3665441
+        {
+            "code": "PY-8",
+            "names": "Misiones",
+            "type": "Department"
         },
-        "16": {
-            "name": "Alto Paraguay Department",
-            "code": "16",
-            "names": {
-                "geonames": "Alto Paraguay",
-                "ru": "\u0410\u043b\u044c\u0442\u043e-\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
-                "en": "Alto Paraguay Department",
-                "de": "Departamento Alto Paraguay",
-                "es": "Departamento de Alto Paraguay",
-                "fr": "D\u00e9partement de l'Alto Paraguay",
-                "it": "Dipartimento dell'Alto Paraguay",
-                "zh": "\u4e0a\u5df4\u62c9\u572d\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.3660952,
-            "lng": -57.54437619999999
+        {
+            "code": "PY-9",
+            "names": "Paraguar\u00ed",
+            "type": "Department"
         },
-        "19": {
-            "name": "Boquer\u00f3n department",
-            "code": "19",
-            "names": {
-                "geonames": "Boqueron",
-                "ru": "\u0411\u043e\u043a\u0435\u0440\u043e\u043d",
-                "en": "Boquer\u00f3n department",
-                "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0643\u0648\u064a\u0631\u0648\u0646",
-                "de": "Departamento Boquer\u00f3n",
-                "es": "Departamento de Boquer\u00f3n",
-                "fr": "D\u00e9partement de Boquer\u00f3n",
-                "it": "Dipartimento di Boquer\u00f3n",
-                "zh": "\u535a\u514b\u9f8d\u7701"
-            },
-            "division": "department",
-            "parent": "PY",
-            "lat": -25.0845446,
-            "lng": -57.520127900000034
+        {
+            "code": "PY-ASU",
+            "names": "Asunci\u00f3n",
+            "type": "Capital district"
         }
-    }
+    ]
 }
