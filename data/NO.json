@@ -1,0 +1,307 @@
+{
+    "alpha-2": "NO",
+    "alpha-3": "NOR",
+    "numeric": "578",
+    "names": {
+        "en": "Norway",
+        "kab": "Nurvij",
+        "bn": "\u09a8\u09b0\u0993\u09df\u09c7",
+        "as": "\u09a8\u09f0\u09f1\u09c7",
+        "ff": "Norwees",
+        "ca": "Noruega",
+        "wa": "Norvedje",
+        "uk": "\u041d\u043e\u0440\u0432\u0435\u0433\u0456\u044f",
+        "kw": "Norgagh",
+        "am": "\u1296\u1234\u1343",
+        "si": "\u0db1\u0ddd\u0dbb\u0dca\u0dc0\u0dda",
+        "ky": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "cy": "Norwy",
+        "hr": "Norve\u0161ka",
+        "eu": "Norvegia",
+        "ht": "N\u00f2v\u00e8j",
+        "nah": "Noruegia",
+        "gu": "\u0aa8\u0acb\u0ab0\u0acd\u0ab5\u0ac7",
+        "sd": "",
+        "ba": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "ia": "Norvegia",
+        "da": "Norge",
+        "ckb": "\u0646\u06c6\u0631\u0648\u06cc\u0698",
+        "sc": "Norv\u00e8gia",
+        "ach": "Nowei",
+        "zh_HK": "\u632a\u5a01",
+        "hy": "\u0546\u0578\u0580\u057e\u0565\u0563\u056b\u0561",
+        "ab": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u0430",
+        "ro": "Norvegia",
+        "be": "\u041d\u0430\u0440\u0432\u0435\u0433\u0456\u044f",
+        "pi": "\u0928\u093e\u0930\u094d\u0935\u0947",
+        "jam": "Naawie",
+        "nv": "Kingh\u0105\u0301\u0105\u0301\u02bc Haltsoo\u00ed Dine\u02bc\u00e9 Bik\u00e9yah",
+        "te": "\u0c28\u0c3e\u0c30\u0c4d\u0c35\u0c47",
+        "zu": "I-Noweyi",
+        "sr": "\u041d\u043e\u0440\u0432\u0435\u0448\u043a\u0430",
+        "bi": "Norway",
+        "hu": "Norv\u00e9gia",
+        "gez": "\u1296\u122d\u12cc",
+        "ay": "Nurweka",
+        "ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "th": "\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e27\u0e22\u0e4c",
+        "zh_TW": "\u632a\u5a01",
+        "ha": "Norway",
+        "ps": "\u0646\u0627\u0631\u0648\u06d0",
+        "mi": "N\u014dwei",
+        "lt": "Norvegija",
+        "is": "Noregur",
+        "pap": "Noruega",
+        "nl": "Noorwegen",
+        "ti": "\u1296\u122d\u12cc",
+        "oc": "Norv\u00e8gia",
+        "ak": "Norway",
+        "gv": "Norlynn",
+        "so": "Noorweey",
+        "an": "Noruega",
+        "ta": "\u0ba8\u0bbe\u0bb0\u0bcd\u0bb5\u0bc7",
+        "kk": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "mo": "",
+        "mhr": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u0439",
+        "cv": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438",
+        "uz": "Norvegiya",
+        "ne": "\u0928\u0930\u094d\u0935\u0947",
+        "tk": "Norwegi\u00fda",
+        "kl": "Norge",
+        "kn": "\u0ca8\u0cbe\u0cb0\u0ccd\u0cb5\u0cc7",
+        "ka": "\u10dc\u10dd\u10e0\u10d5\u10d4\u10d2\u10d8\u10d0",
+        "crh": "Norve\u00e7",
+        "ve": "Norway",
+        "nb": "Norge",
+        "my": "\u1014\u1031\u102c\u103a\u101d\u1031\u1014\u102d\u102f\u1004\u103a\u1004\u1036",
+        "ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
+        "csb": "Norwesk\u00f4",
+        "zh_CN": "\u632a\u5a01",
+        "dv": "\u0782\u07af\u0788\u07ad",
+        "cs": "Norsko",
+        "pa": "\u0a28\u0a3e\u0a30\u0a35\u0a47",
+        "fo": "Noreg",
+        "eo": "Norvegio",
+        "haw": "Nolewai",
+        "tl": "Norway",
+        "tr": "Norve\u00e7",
+        "mk": "\u041d\u043e\u0440\u0432\u0435\u0448\u043a\u0430",
+        "byn": "\u1296\u122d\u12cc",
+        "ur": "\u0646\u0627\u0631\u0648\u06d2",
+        "ug": "\u0646\u0648\u0631\u06cb\u06d0\u06af\u0649\u064a\u06d5",
+        "vi": "Na Uy",
+        "mn": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438",
+        "lo": "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e99\u0ead\u0e81\u0ec1\u0ea7\u0e94",
+        "fr": "Norv\u00e8ge",
+        "sv": "Norge",
+        "sq": "Norvegji",
+        "iu": "\u14c4\u1550\u148b\/nurgi",
+        "ko": "\ub178\ub974\uc6e8\uc774",
+        "tig": "\u1296\u122d\u12cc",
+        "wal": "\u1296\u122d\u12cc",
+        "ch": "",
+        "yo": "N\u1ecd\u0301rw\u00e8y",
+        "nn": "Noreg",
+        "ga": "An Iorua",
+        "bn_IN": "\u09a8\u09b0\u0993\u09df\u09c7",
+        "bs": "Norve\u0161ka",
+        "pt_BR": "Noruega",
+        "mr": "\u0928\u0949\u0930\u094d\u0935\u0947",
+        "ce": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438",
+        "af": "Noorwe\u00eb",
+        "ki": "Now\u0129",
+        "sw": "",
+        "fur": "",
+        "pt": "Noruega",
+        "dz": "\u0f53\u0f7c\u0f62\u0f0b\u0f5d\u0f7a\u0f0d",
+        "sl": "Norve\u0161ka",
+        "hi": "\u0928\u0949\u0930\u094d\u0935\u0947",
+        "et": "Norra",
+        "fy": "Noarwegen",
+        "frp": "Norv\u00e8g\u00b7e",
+        "br": "Norvegia",
+        "ee": "Norway",
+        "de": "Norwegen",
+        "lv": "Norv\u0113\u0123ija",
+        "bar": "Norwegn",
+        "es": "Noruega",
+        "rw": "Noruveje",
+        "tt@iqtelif": "Norway",
+        "fa": "\u0646\u0631\u0648\u0698",
+        "pl": "Norwegia",
+        "fil": "Norwega",
+        "ace": "Norw\u00e8gia",
+        "ku": "Norwe\u00e7",
+        "fi": "Norja",
+        "ml": "\u0d28\u0d4b\u0d30\u0d4d\u200d\u0d35\u0d47",
+        "xh": "Norway",
+        "io": "Norvegia",
+        "na": "Norwei",
+        "chr": "\u13c3\u13ea",
+        "gn": "Norway",
+        "mai": "",
+        "gl": "Noruega",
+        "kv": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "km": "\u1793\u17d0\u179a\u179c\u17c2\u179f",
+        "sk": "N\u00f3rsko",
+        "mt": "Norve\u0121ja",
+        "or": "\u0b28\u0b30\u0b71\u0b47",
+        "ms": "Norway",
+        "sr@latin": "Norve\u0161ka",
+        "it": "Norvegia",
+        "he": "\u05e0\u05d5\u05e8\u05d1\u05d2\u05d9\u05d4",
+        "az": "Norve\u00e7",
+        "son": "Norwee\u017ei",
+        "tt": "\u041d\u043e\u0440\u0432\u0430\u0439",
+        "bg": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "ast": "Noruega",
+        "el": "\u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03af\u03b1",
+        "id": "Norwegia",
+        "ar": "\u0627\u0644\u0646\u0651\u0631\u0648\u064a\u062c",
+        "tg": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "nso": "Norway",
+        "wo": "Norweej"
+    },
+    "3166-2": {
+        "NO-01": {
+            "code": "NO-01",
+            "type": "County",
+            "names": {
+                "en": "\u00d8stfold"
+            }
+        },
+        "NO-02": {
+            "code": "NO-02",
+            "type": "County",
+            "names": {
+                "en": "Akershus"
+            }
+        },
+        "NO-03": {
+            "code": "NO-03",
+            "type": "County",
+            "names": {
+                "en": "Oslo"
+            }
+        },
+        "NO-04": {
+            "code": "NO-04",
+            "type": "County",
+            "names": {
+                "en": "Hedmark"
+            }
+        },
+        "NO-05": {
+            "code": "NO-05",
+            "type": "County",
+            "names": {
+                "en": "Oppland"
+            }
+        },
+        "NO-06": {
+            "code": "NO-06",
+            "type": "County",
+            "names": {
+                "en": "Buskerud"
+            }
+        },
+        "NO-07": {
+            "code": "NO-07",
+            "type": "County",
+            "names": {
+                "en": "Vestfold"
+            }
+        },
+        "NO-08": {
+            "code": "NO-08",
+            "type": "County",
+            "names": {
+                "en": "Telemark"
+            }
+        },
+        "NO-09": {
+            "code": "NO-09",
+            "type": "County",
+            "names": {
+                "en": "Aust-Agder"
+            }
+        },
+        "NO-10": {
+            "code": "NO-10",
+            "type": "County",
+            "names": {
+                "en": "Vest-Agder"
+            }
+        },
+        "NO-11": {
+            "code": "NO-11",
+            "type": "County",
+            "names": {
+                "en": "Rogaland"
+            }
+        },
+        "NO-12": {
+            "code": "NO-12",
+            "type": "County",
+            "names": {
+                "en": "Hordaland"
+            }
+        },
+        "NO-14": {
+            "code": "NO-14",
+            "type": "County",
+            "names": {
+                "en": "Sogn og Fjordane"
+            }
+        },
+        "NO-15": {
+            "code": "NO-15",
+            "type": "County",
+            "names": {
+                "en": "M\u00f8re og Romsdal"
+            }
+        },
+        "NO-18": {
+            "code": "NO-18",
+            "type": "County",
+            "names": {
+                "en": "Nordland"
+            }
+        },
+        "NO-19": {
+            "code": "NO-19",
+            "type": "County",
+            "names": {
+                "en": "Troms"
+            }
+        },
+        "NO-20": {
+            "code": "NO-20",
+            "type": "County",
+            "names": {
+                "en": "Finnmark"
+            }
+        },
+        "NO-21": {
+            "code": "NO-21",
+            "type": "Arctic Region",
+            "names": {
+                "en": "Svalbard (Arctic Region)"
+            }
+        },
+        "NO-22": {
+            "code": "NO-22",
+            "type": "Arctic Region",
+            "names": {
+                "en": "Jan Mayen (Arctic Region)"
+            }
+        },
+        "NO-50": {
+            "code": "NO-50",
+            "type": "County",
+            "names": {
+                "en": "Tr\u00f8ndelag"
+            }
+        }
+    }
+}

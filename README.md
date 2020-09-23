@@ -1,5 +1,12 @@
 # ISO3166-Library
 
-## Includes
-ISO3166-1: Country codes, alpha-2, alpha-3, numeric, currency, languages, country name in en, ar, de, es, fr, it, ru, zh, he, hi, ja, pt <br/>
-ISO3166-2: Territory codes, division, parent, lat/lng, names in ru, en, ar, de, es, fr, it, zh
+## Data contains all ICU supported countries including iso3166-1 country codes and iso3166-2 region codes
+## Each country is separated into an individual file by its alpha-2 code which contains supported translations as well as region names and translations
+
+### Initial iso3166-1 data source:
+https://github.com/symfony/symfony
+
+### Initial iso3166-2 data as well as country and region translations source:
+https://salsa.debian.org/iso-codes-team/iso-codes
+
+

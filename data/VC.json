@@ -1,0 +1,140 @@
+{
+    "alpha-2": "VC",
+    "alpha-3": "VCT",
+    "numeric": "670",
+    "names": {
+        "en": "St. Vincent & Grenadines"
+    },
+    "3166-2": {
+        "VC-01": {
+            "code": "VC-01",
+            "type": "Parish",
+            "names": {
+                "en": "Charlotte",
+                "kab": "",
+                "uk": "\u0428\u0430\u0440\u043b\u043e\u0442\u0442",
+                "ky": "",
+                "hr": "",
+                "da": "Charlotte",
+                "sc": "",
+                "ro": "Charlotte",
+                "be": "\u0428\u0430\u0440\u043b\u043e\u0442\u0430",
+                "sr": "\u0428\u0430\u0440\u043b\u043e\u0442",
+                "hu": "Charlotte",
+                "th": "\u0e0a\u0e32\u0e23\u0e4c\u0e25\u0e2d\u0e15\u0e15\u0e4c",
+                "lt": "",
+                "is": "",
+                "bn_BD": "",
+                "nl": "Charlotte",
+                "oc": "",
+                "nb_NO": "",
+                "crh": "",
+                "ja": "",
+                "zh_CN": "\u6c99\u6d1b",
+                "tr": "Charlotte",
+                "vi": "Charlotte",
+                "fr": "Charlotte",
+                "sv": "Charlotte",
+                "sq": "",
+                "pt_BR": "",
+                "et": "",
+                "de": "Charlotte",
+                "pl": "Charlotte",
+                "fi": "",
+                "sk": "",
+                "sr@latin": "\u0160arlot",
+                "it": "Charlotte",
+                "he": "",
+                "ast": "",
+                "el": "",
+                "id": "Charlotte"
+            }
+        },
+        "VC-02": {
+            "code": "VC-02",
+            "type": "Parish",
+            "names": {
+                "en": "Saint Andrew"
+            }
+        },
+        "VC-03": {
+            "code": "VC-03",
+            "type": "Parish",
+            "names": {
+                "en": "Saint David"
+            }
+        },
+        "VC-04": {
+            "code": "VC-04",
+            "type": "Parish",
+            "names": {
+                "en": "Saint George"
+            }
+        },
+        "VC-05": {
+            "code": "VC-05",
+            "type": "Parish",
+            "names": {
+                "en": "Saint Patrick"
+            }
+        },
+        "VC-06": {
+            "code": "VC-06",
+            "type": "Parish",
+            "names": {
+                "en": "Grenadines",
+                "kab": "",
+                "ca": "",
+                "wa": "",
+                "uk": "\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0438",
+                "ky": "",
+                "hr": "",
+                "eu": "",
+                "da": "",
+                "sc": "",
+                "ro": "",
+                "be": "\u0413\u0440\u044d\u043d\u0430\u0434\u0437\u0456\u043d\u044b",
+                "sr": "\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0435",
+                "hu": "Grenadines",
+                "th": "\u0e40\u0e01\u0e23\u0e19\u0e32\u0e14\u0e35\u0e19\u0e2a\u0e4c",
+                "lt": "Grenadinai",
+                "is": "",
+                "bn_BD": "",
+                "nl": "Grenadines",
+                "oc": "",
+                "nb_NO": "",
+                "crh": "",
+                "ve": "",
+                "ja": "\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3",
+                "zh_CN": "\u683c\u745e\u90a3\u4e01",
+                "cs": "",
+                "eo": "",
+                "tr": "",
+                "vi": "Grenadines",
+                "fr": "Grenadines",
+                "sv": "Grenadinerna",
+                "sq": "",
+                "ko": "",
+                "ga": "",
+                "bs": "",
+                "pt_BR": "",
+                "et": "",
+                "de": "Grenadines",
+                "lv": "",
+                "es": "",
+                "pl": "Grenadyny",
+                "fi": "",
+                "sk": "",
+                "sr@latin": "Grenadine",
+                "it": "Grenadine",
+                "he": "",
+                "az": "",
+                "bg": "",
+                "ast": "",
+                "el": "",
+                "id": "Grenadines",
+                "nso": ""
+            }
+        }
+    }
+}

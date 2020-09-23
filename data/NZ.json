@@ -1,0 +1,300 @@
+{
+    "alpha-2": "NZ",
+    "alpha-3": "NZL",
+    "numeric": "554",
+    "names": {
+        "en": "New Zealand",
+        "kab": "Ziland Tamaynut",
+        "bn": "\u09a8\u09bf\u0989\u099c\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "as": "\u09a8\u09bf\u0989\u099c\u09bf\u09b2\u09c7\u09a3\u09cd\u09a1",
+        "ff": "",
+        "ca": "Nova Zelanda",
+        "wa": "Nouve Zelande",
+        "uk": "\u041d\u043e\u0432\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0456\u044f",
+        "kw": "Mordir Nowydh",
+        "am": "\u1292\u1344 \u1351\u1212\u1295\u1365",
+        "si": "\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba",
+        "ky": "\u0416\u0430\u04a3\u044b \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "cy": "Seland Newydd",
+        "hr": "Novi Zeland",
+        "eu": "Zeelanda Berria",
+        "ht": "Nouv\u00e8l Zelann",
+        "nah": "Yancu\u012bc Zetl\u0101lpan",
+        "gu": "\u0aa8\u0acd\u0aaf\u0ac1 \u0a9d\u0ac0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1",
+        "sd": "",
+        "ba": "\u042f\u04a3\u044b \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ia": "Nove Zelanda",
+        "da": "New Zealand",
+        "ckb": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0627\u0646\u062f",
+        "sc": "Zelanda Noa",
+        "ach": "Nio Jilan",
+        "zh_HK": "\u65b0\u897f\u862d",
+        "hy": "\u0546\u0578\u0580 \u0536\u0565\u056c\u0561\u0576\u0564\u056b\u0561",
+        "ab": "",
+        "ro": "Noua Zeeland\u0103",
+        "be": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u044b\u044f",
+        "pi": "\u0928\u094d\u092f\u0942-\u091c\u0940\u0932\u0948\u0902\u0921",
+        "jam": "Nyuu Ziilant",
+        "nv": "",
+        "te": "\u0c28\u0c4d\u0c2f\u0c42\u0c1c\u0c3f\u0c32\u0c3e\u0c02\u0c21\u0c4d",
+        "zu": "I-New Zealand",
+        "sr": "\u041d\u043e\u0432\u0438 \u0417\u0435\u043b\u0430\u043d\u0434",
+        "bi": "Niu Zilan",
+        "hu": "\u00daj-Z\u00e9land",
+        "gez": "\u1292\u12cd\u1361\u12da\u120b\u1295\u12f5",
+        "ay": "",
+        "ru": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "th": "\u0e19\u0e34\u0e27\u0e0b\u0e35\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "zh_TW": "\u7d10\u897f\u862d",
+        "ha": "",
+        "ps": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u0689",
+        "mi": "Aotearoa",
+        "lt": "Naujoji Zelandija",
+        "is": "N\u00fdja-Sj\u00e1land",
+        "pap": "Nueva Zelandia",
+        "nl": "Nieuw-Zeeland",
+        "ti": "\u1292\u12cd \u12da\u120b\u1295\u12f5",
+        "oc": "Nov\u00e8la Zelanda",
+        "ak": "",
+        "gv": "Yn Teelynn Noa",
+        "so": "Neyuusilaand",
+        "an": "Nueva Zelanda",
+        "ta": "\u0ba8\u0bbf\u0baf\u0bc2\u0b9a\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+        "kk": "\u0416\u0430\u04a3\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "mo": "",
+        "mhr": "",
+        "cv": "\u041a\u0435\u0440\u043b\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0438",
+        "uz": "Yangi Zelandiya",
+        "ne": "\u0928\u094d\u092f\u0941\u091c\u093f\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "tk": "T\u00e4ze Zelandi\u00fda",
+        "kl": "New Zealand",
+        "kn": "\u0ca8\u0ccd\u0caf\u0cc2 \u0c9c\u0cbf\u0cb2\u0ccd\u0caf\u0c82\u0ca1\u0ccd",
+        "ka": "\u10d0\u10ee\u10d0\u10da\u10d8 \u10d6\u10d4\u10da\u10d0\u10dc\u10d3\u10d8\u10d0",
+        "crh": "Yeni Zellanda",
+        "ve": "New Zealand",
+        "nb": "New Zealand",
+        "my": "\u1014\u101a\u1030\u1038\u1007\u102e\u101c\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036",
+        "ja": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+        "csb": "Now\u00f4 Zelandzk\u00f4",
+        "zh_CN": "\u65b0\u897f\u5170",
+        "dv": "\u0782\u07a8\u0787\u07aa\u0792\u07a8\u078d\u07ad\u0782\u07b0\u0791\u07aa",
+        "cs": "Nov\u00fd Z\u00e9land",
+        "pa": "\u0a28\u0a3f\u0a0a\u0a5b\u0a40\u0a32\u0a48\u0a02\u0a21",
+        "fo": "N\u00fd S\u00e6land",
+        "eo": "Nov-Zelando",
+        "haw": "Aotearoa",
+        "tl": "New Zealand",
+        "tr": "Yeni Zelanda",
+        "mk": "\u041d\u043e\u0432 \u0417\u0435\u043b\u0430\u043d\u0434",
+        "byn": "\u1292\u12cd \u12da\u120b\u1295\u12f5",
+        "ur": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688",
+        "ug": "\u064a\u06d0\u06ad\u0649 \u0632\u06d0\u0644\u0627\u0646\u062f\u0649\u064a\u06d5",
+        "vi": "Niu Xi-l\u00e2n",
+        "mn": "\u0428\u0438\u043d\u044d \u0437\u0435\u043b\u0430\u043d\u0434",
+        "lo": "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e99\u0eb9\u0ec1\u0ea7\u0e99 \u0ec0\u0e8a\u0ea5\u0eb1\u0e87",
+        "fr": "Nouvelle-Z\u00e9lande",
+        "sv": "Nya Zeeland",
+        "sq": "Zeland\u00eb e Re",
+        "iu": "",
+        "ko": "\ub274\uc9c8\ub79c\ub4dc",
+        "tig": "\u1292\u12cd \u12da\u120b\u1295\u12f5",
+        "wal": "\u1292\u12cd \u12da\u120b\u1295\u12f5",
+        "ch": "",
+        "yo": "New Zealand",
+        "nn": "New Zealand; Ny-Zealand",
+        "ga": "An Nua-Sh\u00e9alainn",
+        "bn_IN": "\u09a8\u09bf\u0989\u099c\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "bs": "Novi Zeland",
+        "pt_BR": "Nova Zel\u00e2ndia",
+        "mr": "\u0928\u094d\u092f\u0942\u091d\u093f\u0932\u0902\u0921",
+        "ce": "\u041a\u0435\u0440\u043b\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0438",
+        "af": "Nieu-Seeland",
+        "ki": "",
+        "sw": "New Zealand",
+        "fur": "",
+        "pt": "Nova Zel\u00e2ndia",
+        "dz": "\u0f53\u0f72\u0f60\u0f74\u0f0b\u0f5b\u0f72\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f72\u0f0d",
+        "sl": "Nova Zelandija",
+        "hi": "\u0928\u094d\u092f\u0942 \u091c\u093c\u0940\u0932\u0948\u0928\u094d\u0921",
+        "et": "Uus-Meremaa",
+        "fy": "Nij-Seel\u00e2n",
+        "frp": "Nov\u00e8la-Z\u00e8lande",
+        "br": "Zeland nevez",
+        "ee": "",
+        "de": "Neuseeland",
+        "lv": "Jaunz\u0113lande",
+        "bar": "Neiseeland",
+        "es": "Nueva Zelanda",
+        "rw": "Nuveli Zelande",
+        "tt@iqtelif": "Ya\u00f1a Zealand",
+        "fa": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f",
+        "pl": "Nowa Zelandia",
+        "fil": "Bagong Silandiya",
+        "ace": "Seulandia Bar\u00f4",
+        "ku": "Zelandaya N\u00fb",
+        "fi": "Uusi-Seelanti",
+        "ml": "\u0d28\u0d4d\u0d2f\u0d42\u0d38\u0d3f\u0d32\u0d3e\u0d28\u0d4d\u200d\u0d21\u0d4d",
+        "xh": "New Zealand (izealand entsha)",
+        "io": "Nova-Zelando",
+        "na": "Niu Djiran",
+        "chr": "",
+        "gn": "New Zealand",
+        "mai": "\u0928\u094d\u092f\u0941\u091c\u093f\u0932\u094d\u092f\u093e\u0928\u094d\u0921",
+        "gl": "Nova Celandia",
+        "kv": "\u0412\u044b\u043b\u044c \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "km": "\u1793\u17bc\u179c\u17c2\u179b\u17a0\u17d2\u179f\u17c1\u17a1\u1784\u17cb",
+        "sk": "Nov\u00fd Z\u00e9land",
+        "mt": "New Zealand",
+        "or": "\u0b28\u0b4d\u0b2f\u0b41\u0b1c\u0b40\u0b32\u0b4d\u0b2f\u0b3e\u0b23\u0b4d\u0b21",
+        "ms": "New Zealand",
+        "sr@latin": "Novi Zeland",
+        "it": "Nuova Zelanda",
+        "he": "\u05e0\u05d9\u05d5 \u05d6\u05d9\u05dc\u05e0\u05d3",
+        "az": "Yeni Zellandiya",
+        "son": "Niyu Zeelandu",
+        "tt": "\u042f\u04a3\u0430 \u0417\u0435\u0430\u043b\u0430\u043d\u0434",
+        "bg": "\u041d\u043e\u0432\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "ast": "Nueva Zelanda",
+        "el": "\u039d\u03ad\u03b1 \u0396\u03b7\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
+        "id": "Selandia Baru",
+        "ar": "\u0646\u064a\u0648\u0632\u064a\u0644\u0627\u0646\u062f\u0627",
+        "tg": "\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f\u0438 \u041d\u0430\u0432",
+        "nso": "Zealand ye Ntshwa",
+        "wo": "Nuweel Selaand"
+    },
+    "3166-2": {
+        "NZ-AUK": {
+            "code": "NZ-AUK",
+            "type": "Regional council",
+            "names": {
+                "en": "Auckland"
+            }
+        },
+        "NZ-BOP": {
+            "code": "NZ-BOP",
+            "type": "Regional council",
+            "names": {
+                "en": "Bay of Plenty"
+            }
+        },
+        "NZ-CAN": {
+            "code": "NZ-CAN",
+            "type": "Regional council",
+            "names": {
+                "en": "Canterbury"
+            }
+        },
+        "NZ-CIT": {
+            "code": "NZ-CIT",
+            "type": "Special island authority",
+            "names": {
+                "en": "Chatham Islands Territory"
+            }
+        },
+        "NZ-GIS": {
+            "code": "NZ-GIS",
+            "type": "Unitary authority",
+            "names": {
+                "en": "Gisborne District"
+            }
+        },
+        "NZ-HKB": {
+            "code": "NZ-HKB",
+            "type": "Regional council",
+            "names": {
+                "en": "Hawke's Bay"
+            }
+        },
+        "NZ-MBH": {
+            "code": "NZ-MBH",
+            "type": "Unitary authority",
+            "names": {
+                "en": "Marlborough District"
+            }
+        },
+        "NZ-MWT": {
+            "code": "NZ-MWT",
+            "type": "Regional council",
+            "names": {
+                "en": "Manawatu-Wanganui"
+            }
+        },
+        "NZ-N": {
+            "code": "NZ-N",
+            "type": "Island",
+            "names": {
+                "en": "North Island"
+            }
+        },
+        "NZ-NSN": {
+            "code": "NZ-NSN",
+            "type": "Unitary authority",
+            "names": {
+                "en": "Nelson City"
+            }
+        },
+        "NZ-NTL": {
+            "code": "NZ-NTL",
+            "type": "Regional council",
+            "names": {
+                "en": "Northland"
+            }
+        },
+        "NZ-OTA": {
+            "code": "NZ-OTA",
+            "type": "Regional council",
+            "names": {
+                "en": "Otago"
+            }
+        },
+        "NZ-S": {
+            "code": "NZ-S",
+            "type": "Island",
+            "names": {
+                "en": "South Island"
+            }
+        },
+        "NZ-STL": {
+            "code": "NZ-STL",
+            "type": "Regional council",
+            "names": {
+                "en": "Southland"
+            }
+        },
+        "NZ-TAS": {
+            "code": "NZ-TAS",
+            "type": "Unitary authority",
+            "names": {
+                "en": "Tasman District"
+            }
+        },
+        "NZ-TKI": {
+            "code": "NZ-TKI",
+            "type": "Regional council",
+            "names": {
+                "en": "Taranaki"
+            }
+        },
+        "NZ-WGN": {
+            "code": "NZ-WGN",
+            "type": "Regional council",
+            "names": {
+                "en": "Wellington"
+            }
+        },
+        "NZ-WKO": {
+            "code": "NZ-WKO",
+            "type": "Regional council",
+            "names": {
+                "en": "Waikato"
+            }
+        },
+        "NZ-WTC": {
+            "code": "NZ-WTC",
+            "type": "Regional council",
+            "names": {
+                "en": "West Coast"
+            }
+        }
+    }
+}

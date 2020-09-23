@@ -1,0 +1,286 @@
+{
+    "alpha-2": "NI",
+    "alpha-3": "NIC",
+    "numeric": "558",
+    "names": {
+        "en": "Nicaragua",
+        "kab": "Nikaragwa",
+        "bn": "\u09a8\u09bf\u0995\u09be\u09b0\u09be\u0997\u09c1\u09df\u09be",
+        "as": "\u09a8\u09bf\u0995\u09f0\u09cd\u0997\u09c1\u09f1\u09be",
+        "ff": "",
+        "ca": "Nicaragua",
+        "wa": "Nicaragwa",
+        "uk": "\u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "kw": "Nikaragwa",
+        "am": "\u1292\u12ab\u122b\u1313",
+        "si": "\u0db1\u0dd2\u0d9a\u0dbb\u0d9c\u0dd4\u0dc0\u0dcf",
+        "ky": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "cy": "Nicaragua",
+        "hr": "Nikaragva",
+        "eu": "Nikaragua",
+        "ht": "Nikaragwa",
+        "nah": "Nic\u0101n\u0101huac",
+        "gu": "\u0aa8\u0abf\u0a95\u0abe\u0ab0\u0abe\u0a97\u0ac1\u0a86",
+        "sd": "",
+        "ba": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "ia": "Nicaragua",
+        "da": "Nicaragua",
+        "ckb": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0627",
+        "sc": "Nicar\u00e0gua",
+        "ach": "Nikaragua",
+        "zh_HK": "\u5c3c\u52a0\u62c9\u74dc",
+        "hy": "\u0546\u056b\u056f\u0561\u0580\u0561\u0563\u0578\u0582\u0561",
+        "ab": "",
+        "ro": "Nicaragua",
+        "be": "\u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "pi": "\u0928\u093f\u0915\u093e\u0930\u0917\u0941\u0935\u093e",
+        "jam": "Nikaragua",
+        "nv": "",
+        "te": "\u0c28\u0c3f\u0c15\u0c3e\u0c30\u0c3e\u0c17\u0c4d\u0c35\u0c3e",
+        "zu": "",
+        "sr": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430",
+        "bi": "",
+        "hu": "Nicaragua",
+        "gez": "",
+        "ay": "Nikarwa",
+        "ru": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "th": "\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27",
+        "zh_TW": "\u5c3c\u52a0\u62c9\u74dc",
+        "ha": "",
+        "ps": "\u0646\u06a9\u0627\u0631\u0627\u06ab\u0648\u0627",
+        "mi": "Nikar\u0101hua",
+        "lt": "Nikaragva",
+        "is": "N\u00edkaragva",
+        "pap": "Nicaragua",
+        "nl": "Nicaragua",
+        "ti": "",
+        "oc": "Nicaragua",
+        "ak": "",
+        "gv": "Yn Nickeraag",
+        "so": "Nikaraaguwa",
+        "an": "Nicaragua",
+        "ta": "\u0ba8\u0bbf\u0b95\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bbe",
+        "kk": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "mo": "",
+        "mhr": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "cv": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "uz": "Nikaragua",
+        "ne": "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u0941\u0935\u093e",
+        "tk": "Nikaragua",
+        "kl": "",
+        "kn": "\u0ca8\u0cbf\u0c95\u0cb0\u0cbe\u0c97\u0cc1\u0cb5\u0cbe",
+        "ka": "\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0",
+        "crh": "Nikaragua",
+        "ve": "Nicaragua",
+        "nb": "Nicaragua",
+        "my": "\u1014\u102e\u1000\u102c\u101b\u102c\u1002\u103d\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036",
+        "ja": "\u30cb\u30ab\u30e9\u30b0\u30a2",
+        "csb": "",
+        "zh_CN": "\u5c3c\u52a0\u62c9\u74dc",
+        "dv": "\u0782\u07a8\u0786\u07a6\u0783\u07a7\u078e\u07aa\u0787\u07a7",
+        "cs": "Nikaragua",
+        "pa": "\u0a28\u0a3f\u0a15\u0a3e\u0a30\u0a17\u0a41\u0a06",
+        "fo": "Nikaragua",
+        "eo": "Nikaragvo",
+        "haw": "",
+        "tl": "Nicaragua",
+        "tr": "Nikaragua",
+        "mk": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430",
+        "byn": "",
+        "ur": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627",
+        "ug": "\u0646\u0649\u0643\u0627\u0631\u0627\u06af\u06c7\u0626\u0627",
+        "vi": "Ni-ca-ra-gua",
+        "mn": "\u041d\u0438\u043a\u0440\u0430\u0433\u0443\u0430",
+        "lo": "",
+        "fr": "Nicaragua",
+        "sv": "Nicaragua",
+        "sq": "Nikaragua",
+        "iu": "",
+        "ko": "\ub2c8\uce74\ub77c\uacfc",
+        "tig": "",
+        "wal": "",
+        "ch": "",
+        "yo": "Nikar\u00e1g\u00fa\u00e0",
+        "nn": "Nicaragua",
+        "ga": "Nicearagua",
+        "bn_IN": "\u09a8\u09bf\u0995\u09be\u09b0\u09be\u0997\u09c1\u09df\u09be",
+        "bs": "Nikaragva",
+        "pt_BR": "Nicar\u00e1gua",
+        "mr": "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u094d\u0935\u093e",
+        "ce": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "af": "Nicaragua",
+        "ki": "",
+        "sw": "",
+        "fur": "",
+        "pt": "Nicar\u00e1gua",
+        "dz": "\u0f53\u0f72\u0f0b\u0f40\u0f0b\u0f62\u0f0b\u0f42\u0f74\u0f0b\u0f5d\u0f0d",
+        "sl": "Nikaragva",
+        "hi": "\u0928\u093f\u0915\u093e\u0930\u093e\u0917\u0941\u0906",
+        "et": "Nicaragua",
+        "fy": "Nikarag\u00fba",
+        "frp": "Nicaragoa",
+        "br": "Nicaragua",
+        "ee": "Nicaragua",
+        "de": "Nicaragua",
+        "lv": "Nikaragva",
+        "bar": "Nicaragua",
+        "es": "Nicaragua",
+        "rw": "Nikaragwa",
+        "tt@iqtelif": "Nikaragua",
+        "fa": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+        "pl": "Nikaragua",
+        "fil": "Nicaragua",
+        "ace": "Nikaragua",
+        "ku": "N\u00eekarag\u00fba",
+        "fi": "Nicaragua",
+        "ml": "\u0d28\u0d3f\u0d15\u0d30\u0d3e\u0d17\u0d4d\u0d35",
+        "xh": "Paraguay",
+        "io": "Nikaragua",
+        "na": "Nikaragua",
+        "chr": "",
+        "gn": "Nicaragua",
+        "mai": "",
+        "gl": "Nicaragua",
+        "kv": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "km": "\u1793\u17b8\u1780\u17b6\u179a\u17c9\u17b6\u17a0\u17d2\u1782\u17d0\u179a",
+        "sk": "Nikaragua",
+        "mt": "Nikaragwa",
+        "or": "\u0b28\u0b3f\u0b15\u0b3e\u0b30\u0b3e\u0b17\u0b41\u0b06",
+        "ms": "Nicaragua",
+        "sr@latin": "Nikaragva",
+        "it": "Nicaragua",
+        "he": "\u05e0\u05d9\u05e7\u05e8\u05d2\u05d5\u05d0\u05d4",
+        "az": "Nikaraqua",
+        "son": "Nikaraaguwa",
+        "tt": "\u041d\u0438\u043a\u0430\u0440\u0430g\u0443\u0430",
+        "bg": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "ast": "Nicaragua",
+        "el": "\u039d\u03b9\u03ba\u03b1\u03c1\u03ac\u03b3\u03bf\u03c5\u03b1",
+        "id": "Nikaragua",
+        "ar": "\u0646\u064a\u0643\u0627\u0631\u0627\u062c\u0648\u0627",
+        "tg": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "nso": "Nicaragua",
+        "wo": "Nikaraaguwa"
+    },
+    "3166-2": {
+        "NI-AN": {
+            "code": "NI-AN",
+            "type": "Autonomous Region",
+            "names": {
+                "en": "Atl\u00e1ntico Norte"
+            }
+        },
+        "NI-AS": {
+            "code": "NI-AS",
+            "type": "Autonomous Region",
+            "names": {
+                "en": "Atl\u00e1ntico Sur"
+            }
+        },
+        "NI-BO": {
+            "code": "NI-BO",
+            "type": "Department",
+            "names": {
+                "en": "Boaco"
+            }
+        },
+        "NI-CA": {
+            "code": "NI-CA",
+            "type": "Department",
+            "names": {
+                "en": "Carazo"
+            }
+        },
+        "NI-CI": {
+            "code": "NI-CI",
+            "type": "Department",
+            "names": {
+                "en": "Chinandega"
+            }
+        },
+        "NI-CO": {
+            "code": "NI-CO",
+            "type": "Department",
+            "names": {
+                "en": "Chontales"
+            }
+        },
+        "NI-ES": {
+            "code": "NI-ES",
+            "type": "Department",
+            "names": {
+                "en": "Estel\u00ed"
+            }
+        },
+        "NI-GR": {
+            "code": "NI-GR",
+            "type": "Department",
+            "names": {
+                "en": "Granada"
+            }
+        },
+        "NI-JI": {
+            "code": "NI-JI",
+            "type": "Department",
+            "names": {
+                "en": "Jinotega"
+            }
+        },
+        "NI-LE": {
+            "code": "NI-LE",
+            "type": "Department",
+            "names": {
+                "en": "Le\u00f3n"
+            }
+        },
+        "NI-MD": {
+            "code": "NI-MD",
+            "type": "Department",
+            "names": {
+                "en": "Madriz"
+            }
+        },
+        "NI-MN": {
+            "code": "NI-MN",
+            "type": "Department",
+            "names": {
+                "en": "Managua"
+            }
+        },
+        "NI-MS": {
+            "code": "NI-MS",
+            "type": "Department",
+            "names": {
+                "en": "Masaya"
+            }
+        },
+        "NI-MT": {
+            "code": "NI-MT",
+            "type": "Department",
+            "names": {
+                "en": "Matagalpa"
+            }
+        },
+        "NI-NS": {
+            "code": "NI-NS",
+            "type": "Department",
+            "names": {
+                "en": "Nueva Segovia"
+            }
+        },
+        "NI-RI": {
+            "code": "NI-RI",
+            "type": "Department",
+            "names": {
+                "en": "Rivas"
+            }
+        },
+        "NI-SJ": {
+            "code": "NI-SJ",
+            "type": "Department",
+            "names": {
+                "en": "R\u00edo San Juan"
+            }
+        }
+    }
+}

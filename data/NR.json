@@ -1,0 +1,265 @@
+{
+    "alpha-2": "NR",
+    "alpha-3": "NRU",
+    "numeric": "520",
+    "names": {
+        "en": "Nauru",
+        "kab": "",
+        "bn": "\u09a8\u09be\u0989\u09b0\u09c1",
+        "as": "\u09a8\u09be\u0989\u09f0\u09c1",
+        "ff": "Nawru",
+        "ca": "Nauru",
+        "wa": "Nawouro",
+        "uk": "\u043d\u0430\u0443\u0440\u0443",
+        "kw": "Nauru",
+        "am": "\u1293\u12cd\u1229",
+        "si": "\u0db1\u0dcf\u0dc0\u0dd4\u0dbb\u0dd4",
+        "ky": "\u041d\u0430\u0443\u0440\u0443",
+        "cy": "Nauru",
+        "hr": "Nauru",
+        "eu": "Nauru",
+        "ht": "Naorou",
+        "nah": "Nauru",
+        "gu": "\u0aa8\u0abe\u0a89\u0ab0\u0ac1",
+        "sd": "",
+        "ba": "\u041d\u0430\u0443\u0440\u0443",
+        "ia": "Nauru",
+        "da": "Nauru",
+        "ckb": "\u0646\u0627\u0626\u0648\u0648\u0631\u0648\u0648",
+        "sc": "Nauru",
+        "ach": "Nauru",
+        "zh_HK": "\u7459\u9b6f",
+        "hy": "\u0546\u0561\u0578\u0582\u0580\u0578\u0582",
+        "ab": "",
+        "ro": "Nauru",
+        "be": "\u041d\u0430\u0443\u0440\u0443",
+        "pi": "\u0928\u094c\u0930\u0941",
+        "jam": "Nauru",
+        "nv": "",
+        "te": "\u0928\u094c\u0930\u0941",
+        "zu": "",
+        "sr": "\u041d\u0430\u0443\u0440\u0443",
+        "bi": "Nauru",
+        "hu": "Nauru",
+        "gez": "",
+        "ay": "",
+        "ru": "\u041d\u0430\u0443\u0440\u0443",
+        "th": "\u0e19\u0e32\u0e2d\u0e39\u0e23\u0e39",
+        "zh_TW": "\u8afe\u9b6f",
+        "ha": "",
+        "ps": "",
+        "mi": "Nauru",
+        "lt": "Nauru",
+        "is": "N\u00e1r\u00fa",
+        "pap": "Nauru",
+        "nl": "Nauru",
+        "ti": "",
+        "oc": "Nauru",
+        "ak": "",
+        "gv": "Naaroo",
+        "so": "",
+        "an": "Nauru",
+        "ta": "\u0ba8\u0bcc\u0bb0\u0bc1",
+        "kk": "\u041d\u0430\u0443\u0440\u0443",
+        "mo": "",
+        "mhr": "",
+        "cv": "\u041d\u0430\u0443\u0440\u0443",
+        "uz": "Nauru",
+        "ne": "\u0928\u093e\u0909\u0930\u0941",
+        "tk": "Nauru",
+        "kl": "",
+        "kn": "Nauru",
+        "ka": "\u10dc\u10d0\u10e3\u10e0\u10e3",
+        "crh": "Nauru",
+        "ve": "Nauru",
+        "nb": "Nauru",
+        "my": "\u1014\u1021\u1030\u101b\u1030\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036",
+        "ja": "\u30ca\u30a6\u30eb",
+        "csb": "",
+        "zh_CN": "\u7459\u9c81",
+        "dv": "\u0782\u07a6\u0787\u07aa\u0783\u07ab",
+        "cs": "Nauru",
+        "pa": "\u0a28\u0a3e\u0a09\u0a30\u0a42",
+        "fo": "",
+        "eo": "Nauro",
+        "haw": "",
+        "tl": "Nauru",
+        "tr": "Nauru",
+        "mk": "\u041d\u0430\u0443\u0440\u0443",
+        "byn": "",
+        "ur": "\u0646\u0627\u0648\u0631\u0648",
+        "ug": "\u0646\u0627\u06cb\u0631\u06c7",
+        "vi": "Nau-ru",
+        "mn": "\u041d\u0430\u0443\u0440\u0443",
+        "lo": "",
+        "fr": "Nauru",
+        "sv": "Nauru",
+        "sq": "Nauru",
+        "iu": "",
+        "ko": "\ub098\uc6b0\ub8e8",
+        "tig": "",
+        "wal": "",
+        "ch": "",
+        "yo": "N\u00e0\u00far\u00f9",
+        "nn": "Nauru",
+        "ga": "N\u00e1r\u00fa",
+        "bn_IN": "\u09a8\u09be\u0989\u09b0\u09c1",
+        "bs": "Nauru",
+        "pt_BR": "Nauru",
+        "mr": "\u0928\u094c\u0930\u0941",
+        "ce": "\u041d\u0430\u0443\u0440\u0443",
+        "af": "Naoeroe",
+        "ki": "",
+        "sw": "Nauru",
+        "fur": "",
+        "pt": "Nauru",
+        "dz": "\u0f53\u0f60\u0f74\u0f0b\u0f62\u0f74\u0f0d",
+        "sl": "Nauru",
+        "hi": "\u0928\u093e\u0909\u0930\u0941",
+        "et": "Nauru",
+        "fy": "Naur\u00fb",
+        "frp": "Naouru",
+        "br": "Nauru",
+        "ee": "",
+        "de": "Nauru",
+        "lv": "Nauru",
+        "bar": "Nauru",
+        "es": "Nauru",
+        "rw": "Nawuru",
+        "tt@iqtelif": "Nauru",
+        "fa": "\u0646\u0627\u0626\u0648\u0631\u0648",
+        "pl": "Nauru",
+        "fil": "Nauru",
+        "ace": "Nauru",
+        "ku": "Na\u00fbr\u00fb",
+        "fi": "Nauru",
+        "ml": "\u0d28\u0d4c\u0d31\u0d41",
+        "xh": "",
+        "io": "Nauru",
+        "na": "Naoero",
+        "chr": "",
+        "gn": "Nauru",
+        "mai": "",
+        "gl": "Nauru",
+        "kv": "",
+        "km": "\u178e\u17bc\u179a\u17bb",
+        "sk": "Nauru",
+        "mt": "Nauru",
+        "or": "\u0b28\u0b4c\u0b30\u0b41",
+        "ms": "Nauru",
+        "sr@latin": "Nauru",
+        "it": "Nauru",
+        "he": "\u05e0\u05d0\u05d5\u05e8\u05d5",
+        "az": "Nauru",
+        "son": "Nawuru",
+        "tt": "\u041d\u0430\u0443\u0440\u0443",
+        "bg": "\u041d\u0430\u0443\u0440\u0443",
+        "ast": "Nauru",
+        "el": "\u039d\u03b1\u03bf\u03c5\u03c1\u03bf\u03cd",
+        "id": "Nauru",
+        "ar": "\u0646\u0627\u0648\u0631\u0648",
+        "tg": "\u041d\u043e\u0432\u0443\u0440\u04ef",
+        "nso": "Nauru",
+        "wo": "Nauru"
+    },
+    "3166-2": {
+        "NR-01": {
+            "code": "NR-01",
+            "type": "District",
+            "names": {
+                "en": "Aiwo"
+            }
+        },
+        "NR-02": {
+            "code": "NR-02",
+            "type": "District",
+            "names": {
+                "en": "Anabar"
+            }
+        },
+        "NR-03": {
+            "code": "NR-03",
+            "type": "District",
+            "names": {
+                "en": "Anetan"
+            }
+        },
+        "NR-04": {
+            "code": "NR-04",
+            "type": "District",
+            "names": {
+                "en": "Anibare"
+            }
+        },
+        "NR-05": {
+            "code": "NR-05",
+            "type": "District",
+            "names": {
+                "en": "Baiti"
+            }
+        },
+        "NR-06": {
+            "code": "NR-06",
+            "type": "District",
+            "names": {
+                "en": "Boe"
+            }
+        },
+        "NR-07": {
+            "code": "NR-07",
+            "type": "District",
+            "names": {
+                "en": "Buada"
+            }
+        },
+        "NR-08": {
+            "code": "NR-08",
+            "type": "District",
+            "names": {
+                "en": "Denigomodu"
+            }
+        },
+        "NR-09": {
+            "code": "NR-09",
+            "type": "District",
+            "names": {
+                "en": "Ewa"
+            }
+        },
+        "NR-10": {
+            "code": "NR-10",
+            "type": "District",
+            "names": {
+                "en": "Ijuw"
+            }
+        },
+        "NR-11": {
+            "code": "NR-11",
+            "type": "District",
+            "names": {
+                "en": "Meneng"
+            }
+        },
+        "NR-12": {
+            "code": "NR-12",
+            "type": "District",
+            "names": {
+                "en": "Nibok"
+            }
+        },
+        "NR-13": {
+            "code": "NR-13",
+            "type": "District",
+            "names": {
+                "en": "Uaboe"
+            }
+        },
+        "NR-14": {
+            "code": "NR-14",
+            "type": "District",
+            "names": {
+                "en": "Yaren"
+            }
+        }
+    }
+}

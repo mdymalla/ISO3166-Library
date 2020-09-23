@@ -1,0 +1,150 @@
+{
+    "alpha-2": "BQ",
+    "alpha-3": "BES",
+    "numeric": "535",
+    "names": {
+        "en": "Caribbean Netherlands"
+    },
+    "3166-2": {
+        "BQ-BO": {
+            "code": "BQ-BO",
+            "type": "Special municipality",
+            "names": {
+                "en": "Bonaire"
+            }
+        },
+        "BQ-SA": {
+            "code": "BQ-SA",
+            "type": "Special municipality",
+            "names": {
+                "en": "Saba"
+            }
+        },
+        "BQ-SE": {
+            "code": "BQ-SE",
+            "type": "Special municipality",
+            "names": {
+                "en": "Sint Eustatius"
+            }
+        },
+        "BQ-BO, Name for NL-BQ1": {
+            "names": {
+                "kab": "",
+                "wa": "",
+                "uk": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435",
+                "ky": "",
+                "hr": "",
+                "eu": "Bonaire",
+                "da": "Bonaire",
+                "sc": "Bonaire",
+                "be": "\u0411\u0430\u043d\u0430\u0439\u0440\u044d",
+                "sr": "\u0411\u043e\u043d\u0435\u0440",
+                "hu": "",
+                "th": "",
+                "is": "",
+                "bn_BD": "",
+                "nl": "Bonaire",
+                "oc": "",
+                "nb_NO": "",
+                "ja": "",
+                "tr": "Bonaire",
+                "fr": "Bonaire",
+                "sv": "Bonaire",
+                "sq": "",
+                "pt_BR": "",
+                "et": "",
+                "de": "Bonaire",
+                "pl": "Bonaire",
+                "fi": "",
+                "sk": "",
+                "sr@latin": "Boner",
+                "it": "Bonaire",
+                "he": "",
+                "ast": "",
+                "id": "Bonaire"
+            }
+        },
+        "BQ-SA, Name for NL-BQ2": {
+            "names": {
+                "kab": "",
+                "wa": "",
+                "uk": "\u0421\u0430\u0431\u0430",
+                "ky": "",
+                "hr": "",
+                "eu": "Saba",
+                "da": "Saba",
+                "sc": "Saba",
+                "ro": "",
+                "be": "\u0421\u0430\u0431\u0430",
+                "sr": "\u0421\u0430\u0431\u0430",
+                "hu": "",
+                "th": "",
+                "is": "",
+                "bn_BD": "",
+                "nl": "Saba",
+                "oc": "",
+                "nb_NO": "",
+                "crh": "",
+                "ve": "",
+                "ja": "",
+                "tr": "Saba",
+                "fr": "Saba",
+                "sv": "Saba",
+                "sq": "",
+                "ga": "",
+                "pt_BR": "",
+                "et": "",
+                "de": "Saba",
+                "lv": "",
+                "pl": "Saba",
+                "fi": "",
+                "sk": "",
+                "sr@latin": "Saba",
+                "it": "Saba",
+                "he": "",
+                "ast": "",
+                "el": "",
+                "id": "Saba",
+                "nso": ""
+            }
+        },
+        "BQ-SE, Name for NL-BQ3": {
+            "names": {
+                "kab": "",
+                "wa": "",
+                "uk": "\u0421\u0456\u043d\u0442-\u0415\u0441\u0442\u0430\u0442\u0456\u0443\u0441",
+                "ky": "",
+                "hr": "",
+                "eu": "San Eustakio",
+                "da": "Sint Eustatius",
+                "sc": "Sint Eustatius",
+                "be": "\u0421\u0456\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u044b\u0443\u0441",
+                "sr": "\u0421\u0432\u0435\u0442\u0438 \u0415\u0443\u0441\u0442\u0430\u0445\u0438\u0458\u0435",
+                "th": "",
+                "is": "",
+                "bn_BD": "",
+                "nl": "Sint Eustatius",
+                "oc": "",
+                "nb_NO": "",
+                "crh": "",
+                "ja": "",
+                "tr": "Sint Eustatius",
+                "fr": "Saint Eustache",
+                "sv": "Sint Eustatius",
+                "sq": "",
+                "pt_BR": "",
+                "et": "",
+                "de": "Sint Eustatius",
+                "pl": "Sint Eustatius",
+                "fi": "",
+                "sk": "",
+                "sr@latin": "Sveti Eustahije",
+                "it": "Sint Eustatius",
+                "he": "",
+                "ast": "",
+                "el": "",
+                "id": "Sint Eustatius"
+            }
+        }
+    }
+}

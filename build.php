@@ -1,130 +1,170 @@
 <?php
 
-require_once "vendor/autoload.php";
+echo "Building 3166-1 & 3166-2 data\n";
 
-use GuzzleHttp\Client;
-use GuzzleHttp\Psr7;
+echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-$client = new Client();
+//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
-//chdir('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin');
-//system('php -f update-data.php');
+echo "Complete...\n";
 
-//chdir('~/ISO3166-Library');
+if (!file_exists('iso-codes')) {
+    echo "Cloning Debian iso-codes resource...\n";
 
-echo "Creating initial file structure...\n";
+    exec('git clone https://salsa.debian.org/iso-codes-team/iso-codes.git');
+
+    echo "Clone complete...\n";
+}
+
+echo "Creating initial country objects structure...\n";
 
 if (!file_exists('data')) {
     mkdir('data');
 }
 
+$countries = [];
+
 $country_codes = file_get_contents('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions/en.json');
 $decoded = json_decode($country_codes, true);
 
-// create initial file structure - using default en
+// create initial country object - locale agnostic
 foreach ($decoded["Names"] as $key => $value) {
-    $filename = strtolower($key).'.json';
-    $path = 'data/'.$filename;
-
-    $obj = ['alpha-2' => $key,
+    $countries[$key] = ['alpha-2' => $key,
         'alpha-3' => null,
         'numeric' => null,
         'names' => ['en' => $value],
         '3166-2' => []
     ];
-
-    file_put_contents($path, json_encode($obj, JSON_PRETTY_PRINT));
 }
 
-echo "Adding languages to country names...\n";
+echo "Countries created with alpha-2 mapping and name...\n";
+echo "Adding alpha-3 and numeric mapping...\n";
 
-// add languages
-// could remove duplicates, i.e. if name is the same as en it can be removed and fallback to default (en)
-$intl = 'vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions';
-$dir = new DirectoryIterator($intl);
-foreach ($dir as $fileinfo) {
-    if ($fileinfo->isDot()) {
-        continue;
+// get alpha-3 and numeric mapping for 3166-1
+$path = 'iso-codes/data/iso_3166-1.json';
+$content = file_get_contents($path);
+$decoded = json_decode($content, true);
+
+foreach ($decoded["3166-1"] as $country) {
+    $code = $country["alpha_2"];
+
+    if (array_key_exists($code, $countries)) {
+        $countries[$code]["alpha-3"] = $country["alpha_3"];
+        $countries[$code]["numeric"] = $country["numeric"];
+    } else {
+        // should show if there is any disparity between ICU and Debian source
+        echo "Missing ".$country["name"]."...\n";
     }
+}
 
-    $contents = file_get_contents($intl.'/'.$fileinfo->getFilename());
-    $decoded = json_decode($contents, true);
+echo "Starting 3166-2...\n";
 
-    $language = substr($fileinfo->getFilename(), 0, 2);
+// add 3166-2 codes
+$path = 'iso-codes/data/iso_3166-2.json';
+$content = file_get_contents($path);
+$decoded = json_decode($content, true);
 
-    if (!array_key_exists("Names", $decoded)) {
-        continue;
+foreach ($decoded["3166-2"] as $region) {
+    $code = substr($region["code"], 0, 2);
+
+    if (array_key_exists($code, $countries)) {
+        $obj = ['code' => $region['code'],
+            'type' => $region['type'],
+            'names' => ['en' => $region['name']]
+        ];
+
+        $countries[$code]["3166-2"][$region['code']] = $obj;
     }
+}
 
-    foreach ($decoded["Names"] as $key => $value) {
-        $country = strtolower($key);
+echo "3166-2 codes added...\n";
+echo "Adding 3166-1 translations, might take awhile...";
 
-        if (file_exists('data/'.$country.'.json')) {
-            $obj = json_decode(file_get_contents('data/'.$country.'.json'), true);
+// add 3166-1 translations
+$path = 'iso-codes/iso_3166-1';
+$dir = new DirectoryIterator($path);
 
-            $obj["names"][$language] = $value;
-            file_put_contents('data/'.$country.'.json', json_encode($obj, JSON_PRETTY_PRINT));
+foreach ($dir as $file) {
+    $type = substr(strrchr($file,'.'), 1);
+
+    if (0 === strcmp("po", $type)) {
+        $language = basename($file->getFilename(),".po");
+        $translations = file($path.'/'.$file->getFilename());
+
+        for ($i = 0; $i < count($translations); $i++) {
+            $line = "msgid ";
+
+            if (false !== strpos($translations[$i], $line)) {
+                $country = str_replace('"', '', substr($translations[$i], strpos($translations[$i], '"')));
+                $translation = str_replace('"', '', substr($translations[$i + 1], strpos($translations[$i], '"')));
+                $alpha2 = getAlpha2($countries, trim(preg_replace('/\s\s+/', '', $country)));
+
+                if (!empty($alpha2)) {
+                    $countries[$alpha2]["names"][$language] = trim(preg_replace('/\s\s+/', '', $translation));
+                }
+            }
         }
     }
 }
 
-echo "Checking ICU data against deb source...\n";
+echo "complete...\n";
+echo "Adding 3166-2 translations, might take awhile...";
 
-// check ICU data against debian source
-$response = $client->request('GET', 'https://salsa.debian.org/api/v4/projects/2957/repository/files/data%2Fiso_3166-1%2Ejson/raw?ref=main', [
-    'headers' => [ 'Accept' => 'application/vnd.github.v3+json' ]
-]);
+// add 3166-2 translations
+$path = 'iso-codes/iso_3166-2';
+$dir = new DirectoryIterator($path);
 
-$body = $response->getBody();
-$countries = json_decode($body, true);
+foreach ($dir as $file) {
+    $type = substr(strrchr($file,'.'), 1);
 
-foreach ($countries["3166-1"] as $country) {
-    $filename = strtolower($country["alpha_2"]).".json";
+    if (0 === strcmp("po", $type)) {
+        $language = basename($file->getFilename(),".po");
+        $translations = file($path.'/'.$file->getFilename());
 
-    if (file_exists('data/'.$filename)) {
-        $contents = file_get_contents('data/'.$filename);
-        $decoded = json_decode($contents, true);
+        for ($i = 0; $i < count($translations); $i++) {
+            $line = "msgid ";
 
-        $decoded["alpha-3"] = $country["alpha_3"];
-        $decoded["numeric"] = $country["numeric"];
+            if (false !== strpos($translations[$i], $line)) {
+                $region = str_replace('"', '', substr($translations[$i], strpos($translations[$i], '"')));
+                $translation = str_replace('"', '', substr($translations[$i + 1], strpos($translations[$i], '"')));
 
-        file_put_contents('data/'.$filename, json_encode($decoded, JSON_PRETTY_PRINT));
-    } else {
-        echo "cant find ".$country["name"]."...\n";
+                $regionCode = trim($translations[$i - 1], '#. Name for ');
+                $trimmed = trim(preg_replace('/\s\s+/', '', $regionCode));
+                $countryCode = substr($regionCode, 0, 2);
+
+                if (array_key_exists($countryCode, $countries)) {
+                    $countries[$countryCode]["3166-2"][$trimmed]["names"][$language] = trim(preg_replace('/\s\s+/', '', $translation));
+                }
+            }
+        }
     }
 }
 
-echo "Added alpha-3 mapping to countries...\n";
-echo "Finished 3166-1...\n";
+echo "complete...\n";
 
-// add intial 3166-2 data
-echo "Starting 3166-2...\n";
-$response = $client->request('GET', 'https://salsa.debian.org/api/v4/projects/2957/repository/files/data%2Fiso_3166-2%2Ejson/raw?ref=main', [
-    'headers' => [ 'Accept' => 'application/vnd.github.v3+json' ]
-]);
-
-$body = $response->getBody();
-$countries = json_decode($body, true);
-
-foreach ($countries["3166-2"] as $region) {
-    $country = strtolower(substr($region["code"], 0, 2));
-    $filename = $country.'.json';
-
-    if (file_exists('data/'.$filename)) {
-        $contents = file_get_contents('data/'.$filename);
-        $decoded = json_decode($contents, true);
-
-        $obj = ["code" => $region["code"], "names" => $region["name"], "type" => $region["type"]];
-
-        $decoded["3166-2"][] = $obj;
-
-        file_put_contents('data/'.$filename, json_encode($decoded, JSON_PRETTY_PRINT));
+function getAlpha2($objects, $name) {
+    foreach ($objects as $code) {
+        if (array_key_exists('en', $code['names'])) {
+            if (0 === strcmp($code['names']['en'], $name)) {
+                return $code["alpha-2"];
+            }
+        }
     }
+    return null;
+}
+
+echo "Creating file structure...\n";
+
+// create files
+foreach ($countries as $key => $value) {
+    $path = 'data/'.$key.'.json';
+    file_put_contents($path, json_encode($value, JSON_PRETTY_PRINT));
 }
 
 echo "Finished 3166-2...\n";
-echo "Build complete\n";
 
-
+echo "Cleaning...\n";
+exec('rm -rf iso-codes');
+echo "Complete\n";
 
 
