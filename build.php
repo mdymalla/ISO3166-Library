@@ -4,7 +4,7 @@ echo "Building 3166-1 & 3166-2 data\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
+//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
 echo "Complete...\n";
 
@@ -216,8 +216,4 @@ foreach ($countries as $key => $value) {
     file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
-echo "Cleaning...\n";
-exec('rm -rf iso-codes');
 echo "Complete\n";
-
-
