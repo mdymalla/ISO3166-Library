@@ -3,8 +3,6 @@ FROM php:7.4.10-cli
 # deps
 RUN apt-get update && apt-get upgrade -y
 
-RUN docker-php-ext-install gettext
-
 # core extensions
 RUN apt-get install -y --no-install-recommends \
 	git \

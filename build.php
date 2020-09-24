@@ -4,7 +4,7 @@ echo "Building 3166-1 & 3166-2 data\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
+exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
 echo "Complete...\n";
 
@@ -27,7 +27,7 @@ $countries = [];
 $country_codes = file_get_contents('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions/en.json');
 $decoded = json_decode($country_codes, true);
 
-// create initial country object - locale agnostic
+// create initial country object
 foreach ($decoded["Names"] as $key => $value) {
     $countries[$key] = ['alpha-2' => $key,
         'alpha-3' => null,
@@ -68,12 +68,11 @@ foreach ($decoded["3166-2"] as $region) {
     $code = substr($region["code"], 0, 2);
 
     if (array_key_exists($code, $countries)) {
-        $obj = ['code' => $region['code'],
+        $countries[$code]["3166-2"][$region['code']] = array(
+            'code' => $region['code'],
             'type' => $region['type'],
             'names' => ['en' => $region['name']]
-        ];
-
-        $countries[$code]["3166-2"][$region['code']] = $obj;
+        );
     }
 }
 
@@ -92,15 +91,27 @@ foreach ($dir as $file) {
         $translations = file($path.'/'.$file->getFilename());
 
         for ($i = 0; $i < count($translations); $i++) {
-            $line = "msgid ";
+            if (false !== strpos($translations[$i], "name for") || false !== strpos($translations[$i], "Name for")) {
+                $alpha3 = stripRegion($translations[$i]);
+                $alpha2 = alpha3to2($countries, $alpha3);
+                $translation = "";
 
-            if (false !== strpos($translations[$i], $line)) {
-                $country = str_replace('"', '', substr($translations[$i], strpos($translations[$i], '"')));
-                $translation = str_replace('"', '', substr($translations[$i + 1], strpos($translations[$i], '"')));
-                $alpha2 = getAlpha2($countries, trim(preg_replace('/\s\s+/', '', $country)));
+                $j = $i;
+                while ($j < $i + 4) {
+                    if (false !== strpos($translations[$j], "msgstr ")) {
+                        $translation = stripLine($translations[$j], 'msgstr ');
+                        break;
+                    } else {
+                        $j++;
+                    }
+                }
 
-                if (!empty($alpha2)) {
-                    $countries[$alpha2]["names"][$language] = trim(preg_replace('/\s\s+/', '', $translation));
+                if (array_key_exists($alpha2, $countries)) {
+                    if (empty($translation)) {
+                        $translation = "No translation";
+                    }
+
+                    $countries[$alpha2]["names"][$language] = $translation;
                 }
             }
         }
@@ -122,32 +133,51 @@ foreach ($dir as $file) {
         $translations = file($path.'/'.$file->getFilename());
 
         for ($i = 0; $i < count($translations); $i++) {
-            $line = "msgid ";
-
-            if (false !== strpos($translations[$i], $line)) {
-                $region = str_replace('"', '', substr($translations[$i], strpos($translations[$i], '"')));
-                $translation = str_replace('"', '', substr($translations[$i + 1], strpos($translations[$i], '"')));
-
-                $regionCode = trim($translations[$i - 1], '#. Name for ');
-                $trimmed = trim(preg_replace('/\s\s+/', '', $regionCode));
+            if (false !== strpos($translations[$i], "#. Name for")) {
+                $translation = "";
+                $regionCode = stripRegion($translations[$i]);
                 $countryCode = substr($regionCode, 0, 2);
 
+                $j = $i;
+                while ($j < $i + 4) {
+                    if (false !== strpos($translations[$j], "msgstr ")) {
+                        $translation = stripLine($translations[$j], 'msgstr ');
+                        break;
+                    } else {
+                        $j++;
+                    }
+                }
+
                 if (array_key_exists($countryCode, $countries)) {
-                    $countries[$countryCode]["3166-2"][$trimmed]["names"][$language] = trim(preg_replace('/\s\s+/', '', $translation));
+                    if (empty($translation)) {
+                        $translation = "No translation";
+                    }
+
+                    $countries[$countryCode]["3166-2"][$regionCode]["names"][$language] = $translation;
                 }
             }
         }
     }
 }
 
-echo "complete...\n";
+function stripRegion($region) {
+    $exploded = explode(' ', $region);
+    $region = $exploded[count($exploded) - 1];
+    $region = trim(preg_replace('/\s\s+/', '', $region));
+    return $region;
+}
 
-function getAlpha2($objects, $name) {
+function stripLine($translation, $strip) {
+    $translation = trim($translation, $strip);
+    $translation = str_replace('"', '', $translation);
+    $translation = trim(preg_replace('/\s\s+/', '', $translation));
+    return $translation;
+}
+
+function alpha3to2($objects, $alpha3) {
     foreach ($objects as $code) {
-        if (array_key_exists('en', $code['names'])) {
-            if (0 === strcmp($code['names']['en'], $name)) {
-                return $code["alpha-2"];
-            }
+        if (0 === strcmp($code['alpha-3'], $alpha3)) {
+            return $code["alpha-2"];
         }
     }
     return null;
@@ -158,7 +188,7 @@ echo "Creating file structure...\n";
 // create files
 foreach ($countries as $key => $value) {
     $path = 'data/'.$key.'.json';
-    file_put_contents($path, json_encode($value, JSON_PRETTY_PRINT));
+    file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
 echo "Finished 3166-2...\n";
