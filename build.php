@@ -37,10 +37,34 @@ foreach ($decoded["Names"] as $key => $value) {
     ];
 }
 
-echo "Countries created with alpha-2 mapping and name...\n";
-echo "Adding alpha-3 and numeric mapping...\n";
+echo "Adding initial translations from Symfony/Intl...\n";
 
-// get alpha-3 and numeric mapping for 3166-1
+// add initial 3166-1 translations from Symfony/Intl
+$path = 'vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions';
+$dir = new DirectoryIterator($path);
+
+foreach ($dir as $file) {
+    if (0 !== strcmp("json", substr(strrchr($file,'.'), 1))) {
+        continue;
+    }
+
+    $language = basename($file->getFilename(),".json");
+    $IntlTranslations = file_get_contents($path."/".$file->getFilename());
+    $json = json_decode($IntlTranslations, true);
+
+    if (!array_key_exists("Names", $json)) {
+        continue;
+    }
+
+    foreach ($json["Names"] as $country => $translation) {
+        if (array_key_exists($country, $countries)) {
+            $countries[$country]["names"][$language] = $translation;
+        }
+    }
+}
+
+
+// get 3166-1 alpha-3 and numeric mapping
 $path = 'iso-codes/data/iso_3166-1.json';
 $content = file_get_contents($path);
 $decoded = json_decode($content, true);
@@ -56,8 +80,6 @@ foreach ($decoded["3166-1"] as $country) {
         echo "Missing ".$country["name"]."...\n";
     }
 }
-
-echo "Starting 3166-2...\n";
 
 // add 3166-2 codes
 $path = 'iso-codes/data/iso_3166-2.json';
@@ -76,7 +98,6 @@ foreach ($decoded["3166-2"] as $region) {
     }
 }
 
-echo "3166-2 codes added...\n";
 echo "Adding 3166-1 translations, might take awhile...";
 
 // add 3166-1 translations
@@ -107,11 +128,13 @@ foreach ($dir as $file) {
                 }
 
                 if (array_key_exists($alpha2, $countries)) {
-                    if (empty($translation)) {
-                        $translation = "No translation";
+                    if (array_key_exists($language, $countries[$alpha2]["names"])) {
+                        continue;
                     }
 
                     $countries[$alpha2]["names"][$language] = $translation;
+                } else {
+                    echo "Can't find Country for - ".$alpha2."\n";
                 }
             }
         }
@@ -150,7 +173,7 @@ foreach ($dir as $file) {
 
                 if (array_key_exists($countryCode, $countries)) {
                     if (empty($translation)) {
-                        $translation = "No translation";
+                        continue;
                     }
 
                     $countries[$countryCode]["3166-2"][$regionCode]["names"][$language] = $translation;
@@ -159,6 +182,8 @@ foreach ($dir as $file) {
         }
     }
 }
+
+echo "complete...\n";
 
 function stripRegion($region) {
     $exploded = explode(' ', $region);
@@ -190,8 +215,6 @@ foreach ($countries as $key => $value) {
     $path = 'data/'.$key.'.json';
     file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
-
-echo "Finished 3166-2...\n";
 
 echo "Cleaning...\n";
 exec('rm -rf iso-codes');
