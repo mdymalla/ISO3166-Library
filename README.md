@@ -1,4 +1,5 @@
 # ISO3166-Library
+These codes are the standard for defining countries, dependent territories, special areas of geographical interest, and their principal subdivisions.
 
 ### Data 
 contains all ICU supported countries including iso3166-1 & iso3166-2 codes in addition to their supported translations.
@@ -26,10 +27,10 @@ Each country is separated into an individual file containing its Names, Alpha-2,
 }
 ```
 
-### Initial iso3166-1 data source:
+### Data Sources
+#### Symfony/Intl: 
 https://github.com/symfony/symfony
-
-### Initial iso3166-2 data as well as country and region translations source:
+#### Debain/iso-codes
 https://salsa.debian.org/iso-codes-team/iso-codes
 
 
