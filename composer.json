@@ -2,6 +2,9 @@
     "name": "mj-dymalla/iso3166-library",
     "require-dev": {
         "guzzlehttp/guzzle": "^7.0",
-        "symfony/symfony": "^5.1"
-    }
+        "symfony/symfony": "^5.1",
+        "sepia/po-parser": "^4.2",
+        "charles-rumley/php-po-to-json": "dev-master"
+    },
+    "minimum-stability": "dev"
 }

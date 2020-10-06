@@ -3,3 +3,7 @@
 /iso-codes
 
 /.vscode
+
+/composer.lock
+
+/test.php

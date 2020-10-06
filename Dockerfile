@@ -10,7 +10,8 @@ RUN apt-get install -y --no-install-recommends \
     && docker-php-ext-install \
         intl \
         opcache \
-        pcntl
+        pcntl \
+        gettext
 
 # pecl extensions
 RUN pecl channel-update pecl.php.net \
@@ -27,5 +28,5 @@ COPY . /app
 
 WORKDIR /home/mdymalla/src/ISO3166-Library
 
-RUN php -f /app/build.php
+RUN php -f /app/test.php
 

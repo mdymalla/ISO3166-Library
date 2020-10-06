@@ -1,5 +1,7 @@
 <?php
 
+require_once("Reader.php");
+
 echo "Building 3166-1 & 3166-2 data\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
@@ -22,52 +24,20 @@ if (!file_exists('data')) {
     mkdir('data');
 }
 
+// Create initial 3166-1 json file to maintain alpha-2, alpha-3, and numeric mapping
 $countries = [];
 
-$country_codes = file_get_contents('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions/en.json');
-$decoded = json_decode($country_codes, true);
+$decoded = Reader::read('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions/en.json');
 
-// create initial country object
 foreach ($decoded["Names"] as $key => $value) {
     $countries[$key] = ['alpha-2' => $key,
         'alpha-3' => null,
         'numeric' => null,
-        'names' => ['en' => $value],
-        '3166-2' => []
+        'name' => $value
     ];
 }
 
-echo "Adding initial translations from Symfony/Intl...\n";
-
-// add initial 3166-1 translations from Symfony/Intl
-$path = 'vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions';
-$dir = new DirectoryIterator($path);
-
-foreach ($dir as $file) {
-    if (0 !== strcmp("json", substr(strrchr($file,'.'), 1))) {
-        continue;
-    }
-
-    $language = basename($file->getFilename(),".json");
-    $IntlTranslations = file_get_contents($path."/".$file->getFilename());
-    $json = json_decode($IntlTranslations, true);
-
-    if (!array_key_exists("Names", $json)) {
-        continue;
-    }
-
-    foreach ($json["Names"] as $country => $translation) {
-        if (array_key_exists($country, $countries)) {
-            $countries[$country]["names"][$language] = $translation;
-        }
-    }
-}
-
-
-// get 3166-1 alpha-3 and numeric mapping
-$path = 'iso-codes/data/iso_3166-1.json';
-$content = file_get_contents($path);
-$decoded = json_decode($content, true);
+$decoded = Reader::read('iso-codes/data/iso_3166-1.json');
 
 foreach ($decoded["3166-1"] as $country) {
     $code = $country["alpha_2"];
@@ -76,90 +46,69 @@ foreach ($decoded["3166-1"] as $country) {
         $countries[$code]["alpha-3"] = $country["alpha_3"];
         $countries[$code]["numeric"] = $country["numeric"];
     } else {
-        // should show if there is any disparity between ICU and Debian source
         echo "Missing ".$country["name"]."...\n";
     }
 }
 
-// add 3166-2 codes
-$path = 'iso-codes/data/iso_3166-2.json';
-$content = file_get_contents($path);
-$decoded = json_decode($content, true);
+file_put_contents('data/iso3166-1.json', json_encode($countries, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+
+// Create intial 3166-2 json file to maintain type and admin level
+$regions = [];
+
+$decoded = Reader::read('iso-codes/data/iso_3166-2.json');
 
 foreach ($decoded["3166-2"] as $region) {
-    $code = substr($region["code"], 0, 2);
+    $admin = array_key_exists("parent", $region) ? 2 : 1;
 
-    if (array_key_exists($code, $countries)) {
-        $countries[$code]["3166-2"][$region['code']] = array(
-            'code' => $region['code'],
-            'type' => $region['type'],
-            'names' => ['en' => $region['name']]
-        );
-    }
+    $regions[$region['code']] = [
+        'name' => $region['name'],
+        'code' => $region['code'],
+        'type' => $region['type'],
+        'administration-level' => $admin
+    ];
 }
 
-echo "Adding 3166-1 translations, might take awhile...";
+file_put_contents('data/iso3166-2.json', json_encode($regions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 
-// add 3166-1 translations
-$path = 'iso-codes/iso_3166-1';
+// Create initial 3166-1 dir with locale based translations
+if (!file_exists("data/3166-1")) {
+    mkdir("data/3166-1");
+}
+
+$path = 'vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions';
 $dir = new DirectoryIterator($path);
 
 foreach ($dir as $file) {
-    $type = substr(strrchr($file,'.'), 1);
-
-    if (0 === strcmp("po", $type)) {
-        $language = basename($file->getFilename(),".po");
-        $translations = file($path.'/'.$file->getFilename());
-
-        for ($i = 0; $i < count($translations); $i++) {
-            if (false !== strpos($translations[$i], "name for") || false !== strpos($translations[$i], "Name for")) {
-                $alpha3 = stripRegion($translations[$i]);
-                $alpha2 = alpha3to2($countries, $alpha3);
-                $translation = "";
-
-                $j = $i;
-                while ($j < $i + 4) {
-                    if (false !== strpos($translations[$j], "msgstr ")) {
-                        $translation = stripLine($translations[$j], 'msgstr ');
-                        break;
-                    } else {
-                        $j++;
-                    }
-                }
-
-                if (array_key_exists($alpha2, $countries)) {
-                    if (array_key_exists($language, $countries[$alpha2]["names"])) {
-                        continue;
-                    }
-
-                    $countries[$alpha2]["names"][$language] = $translation;
-                } else {
-                    echo "Can't find Country for - ".$alpha2."\n";
-                }
-            }
-        }
+    if (0 !== strcmp("json", substr(strrchr($file,'.'), 1))) {
+        continue;
     }
+
+    $name = $file->getFilename();
+    copy($path."/".$name, "data/3166-1/".$name);
 }
 
-echo "complete...\n";
-echo "Adding 3166-2 translations, might take awhile...";
+// Create initial 3166-2 dir with locale based translations
+if (!file_exists("data/3166-2")) {
+    mkdir("data/3166-2");
+}
 
-// add 3166-2 translations
 $path = 'iso-codes/iso_3166-2';
 $dir = new DirectoryIterator($path);
 
 foreach ($dir as $file) {
+    $regions = [];
+
     $type = substr(strrchr($file,'.'), 1);
 
     if (0 === strcmp("po", $type)) {
-        $language = basename($file->getFilename(),".po");
+        $locale = basename($file->getFilename(),".po");
         $translations = file($path.'/'.$file->getFilename());
 
         for ($i = 0; $i < count($translations); $i++) {
             if (false !== strpos($translations[$i], "#. Name for")) {
                 $translation = "";
                 $regionCode = stripRegion($translations[$i]);
-                $countryCode = substr($regionCode, 0, 2);
+                $parent = substr($regionCode, 0, 2);
 
                 $j = $i;
                 while ($j < $i + 4) {
@@ -171,19 +120,84 @@ foreach ($dir as $file) {
                     }
                 }
 
-                if (array_key_exists($countryCode, $countries)) {
-                    if (empty($translation)) {
-                        continue;
-                    }
-
-                    $countries[$countryCode]["3166-2"][$regionCode]["names"][$language] = $translation;
+                if (empty($translation)) {
+                    continue;
                 }
+
+                $regions[$regionCode] = $translation;
             }
+        }
+
+        $names = array("Names" => $regions);
+        $filename = Locale::canonicalize($locale);
+        file_put_contents('data/3166-2/'.$filename.'.json', json_encode($names, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    }
+}
+
+//echo "Adding additional 3166-1 translations, might take awhile...";
+//
+//// add 3166-1 translations
+//$path = 'iso-codes/iso_3166-1';
+//$dir = new DirectoryIterator($path);
+//
+//foreach ($dir as $file) {
+//    $type = substr(strrchr($file,'.'), 1);
+//
+//    if (0 === strcmp("po", $type)) {
+//        $language = basename($file->getFilename(),".po");
+//        $translations = file($path.'/'.$file->getFilename());
+//
+//        for ($i = 0; $i < count($translations); $i++) {
+//            if (false !== strpos($translations[$i], "name for") || false !== strpos($translations[$i], "Name for")) {
+//                $alpha3 = stripRegion($translations[$i]);
+//                $alpha2 = alpha3to2($countries, $alpha3);
+//                $translation = "";
+//
+//                $j = $i;
+//                while ($j < $i + 4) {
+//                    if (false !== strpos($translations[$j], "msgstr ")) {
+//                        $translation = stripLine($translations[$j], 'msgstr ');
+//                        break;
+//                    } else {
+//                        $j++;
+//                    }
+//                }
+//
+//                if (array_key_exists($alpha2, $countries)) {
+//                    if (array_key_exists($language, $countries[$alpha2]["names"])) {
+//                        continue;
+//                    }
+//
+//                    $countries[$alpha2]["names"][$language] = $translation;
+//                } else {
+//                    echo "Can't find Country for - ".$alpha2."\n";
+//                }
+//            }
+//        }
+//    }
+//}
+//
+//echo "complete...\n";
+//echo "Adding 3166-2 translations, might take awhile...";
+
+// Create locale mapping file
+$decoded = Reader::read('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/locales/en.json');
+
+$locales = [];
+
+foreach ($decoded["Names"] as $locale => $name) {
+    if (strlen($locale) === 2) {
+        $locales[$locale] = [];
+    } else {
+        $parent = substr($locale, 0, 2);
+
+        if (array_key_exists($parent, $locales)) {
+            $locales[$parent][] = $locale;
         }
     }
 }
 
-echo "complete...\n";
+file_put_contents('data/locales.json', json_encode($locales, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 
 function stripRegion($region) {
     $exploded = explode(' ', $region);
@@ -207,13 +221,13 @@ function alpha3to2($objects, $alpha3) {
     }
     return null;
 }
-
-echo "Creating file structure...\n";
-
-// create files
-foreach ($countries as $key => $value) {
-    $path = 'data/'.$key.'.json';
-    file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-}
-
-echo "Complete\n";
+//
+//echo "Creating file structure...\n";
+//
+//// create files
+//foreach ($countries as $key => $value) {
+//    $path = 'data/'.$key.'.json';
+//    file_put_contents($path, json_encode($value, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+//}
+//
+//echo "Complete\n";
