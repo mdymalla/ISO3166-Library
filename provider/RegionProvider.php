@@ -2,34 +2,30 @@
 
 require_once("Region.php");
 require_once("Reader.php");
+require_once("LocaleMapper.php");
 
 class RegionProvider
 {
-    const REGIONPATH = "./data/iso3166-2.json";
-    const LOCALEPATH = "./data/3166-2/";
-
     /**
      * Return array of ISO3166-2 Region objects given locale, parent country, and administrative level
      * (if admin level is omitted we can probably default to 1)
      */
-    public static function getRegions(string $locale, string $country, ?int $adminLevel = 1): array
+    public static function getRegions(?string $locale = null, string $country, ?int $adminLevel = 1): array
     {
         $regions = [];
+        $locales = LocaleMapper::fallback($locale);
 
-        $translations = Reader::read(self::LOCALEPATH.$locale.'.json');
-
-        foreach (Reader::read(self::REGIONPATH) as $code => $region) {
+        foreach (self::getDefault() as $code => $region) {
             if ($region["administration-level"] !== $adminLevel) {
                 continue;
             }
 
             if (self::getAlpha2($code) === $country) {
-                $name = array_key_exists($code, $translations["Names"]) ? $translations["Names"][$code] : $region["name"];
-                $code = $region["code"];
-                $type = $region["type"];
-                $admin = $region["administration-level"];
-
-                $regions[] = new Region($name, $code, $type, $admin);
+                $regions[] = new Region(self::getLocaleName($code, $region["name"], $locales),
+                    $region["code"],
+                    $region["type"],
+                    $region["administration-level"]
+                );
             }
         }
 
@@ -43,12 +39,15 @@ class RegionProvider
     public static function getRegionNames(string $locale, string $country, int $adminLevel = 1): array
     {
         $regions = [];
+        $locales = LocaleMapper::fallback($locale);
 
-        foreach (Reader::read(self::LOCALEPATH.$locale.'.json')["Names"] as $code => $name) {
-            $parent = self::getAlpha2($code);
+        foreach (self::getDefault() as $code => $region) {
+            if ($region["administration-level"] !== $adminLevel) {
+                continue;
+            }
 
-            if ($country === $parent) {
-                $regions[] = $name;
+            if ($country === self::getAlpha2($code)) {
+                $regions[] = self::getLocaleName($code, $region["name"], $locales);
             }
         }
 
@@ -60,19 +59,48 @@ class RegionProvider
      */
     public static function getRegion(string $locale, string $code): Region
     {
-        $regions = Reader::read(self::REGIONPATH);
-        $translation = Reader::read(self::LOCALEPATH.$locale.'.json');
+        $locales = LocaleMapper::fallback($locale);
+        $regions = self::getDefault();
 
-        $name = array_key_exists($code, $translation["Names"]) ? $translation["Names"][$code] : $regions[$code]["name"];
-        $code = $regions[$code]["code"];
-        $type = $regions[$code]["type"];
-        $admin = $regions[$code]["administration-level"];
+        return new Region(self::getLocaleName($code, $regions[$code]["name"], $locales),
+            $regions[$code]["code"],
+            $regions[$code]["type"],
+            $regions[$code]["administration-level"]
+        );
+    }
 
-        return new Region($name, $code, $type, $admin);
+    public static function getRegionName(string $locale, string $code): string
+    {
+        return self::getRegion($locale, $code)->getName();
     }
 
     public static function getAlpha2(string $regionCode): string
     {
         return substr($regionCode, 0, 2);
+    }
+
+    /**
+     * Get array of regions (default)
+     */
+    public static function getDefault(): array
+    {
+        return Reader::read("./data/iso3166-2.json");
+    }
+
+    /**
+     * Look for translation from provided locales, if none are found return default name
+     */
+    public static function getLocaleName(string $code, string $default, array $locales): string
+    {
+        foreach ($locales as $locale) {
+            $current = Reader::read("./data/3166-2/".$locale.'.json')["Names"];
+
+            if (array_key_exists($code, $current)) {
+                $default = $current[$code];
+                break;
+            }
+        }
+
+        return $default;
     }
 }
