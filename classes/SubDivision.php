@@ -1,6 +1,6 @@
 <?php
 
-Class Region
+Class SubDivision
 {
     private string $name;
 

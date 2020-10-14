@@ -1,6 +1,6 @@
 <?php
 
-require_once("Country.php");
+require_once("classes/Country.php");
 require_once("Reader.php");
 require_once("LocaleMapper.php");
 

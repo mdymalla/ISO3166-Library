@@ -1,7 +1,5 @@
 <?php
 
-require_once("Region.php");
-
 Class Country
 {
     private string $name;
@@ -12,15 +10,15 @@ Class Country
 
     private string $numeric;
 
-    private $regions = [];
+    private $subDivisions = [];
 
-    function __construct($name, $alpha_2, $alpha_3, $numeric, $regions = null)
+    function __construct($name, $alpha_2, $alpha_3, $numeric, $subDivisions = null)
     {
         $this->name = $name;
         $this->alpha_2 = $alpha_2;
         $this->alpha_3 = $alpha_3;
         $this->numeric = $numeric;
-        $this->regions = $regions;
+        $this->$subDivisions = $subDivisions;
     }
 
     public function getName(): string
@@ -42,11 +40,4 @@ Class Country
     {
         return $this->numeric;
     }
-
-    public function getRegions(): array
-    {
-        return $this->regions;
-    }
-
-
 }

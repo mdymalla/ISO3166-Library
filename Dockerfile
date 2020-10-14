@@ -7,11 +7,11 @@ RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y --no-install-recommends \
 	git \
         libicu-dev \
+        translate-toolkit \
     && docker-php-ext-install \
         intl \
         opcache \
-        pcntl \
-        gettext
+        pcntl
 
 # pecl extensions
 RUN pecl channel-update pecl.php.net \
@@ -26,7 +26,5 @@ COPY docker/conf.d /usr/local/etc/php/conf.d
 
 COPY . /app
 
-WORKDIR /home/mdymalla/src/ISO3166-Library
-
-RUN php -f /app/test.php
+RUN php -f /app/build.php
 
