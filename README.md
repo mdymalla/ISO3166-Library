@@ -5,25 +5,44 @@ These codes are the standard for defining countries, dependent territories, spec
 contains all ICU supported countries including iso3166-1 & iso3166-2 codes in addition to their supported translations.
 
 ### Structure
-Each country is separated into an individual file containing its Names, Alpha-2, Alpha-3, Numeric, and 3166-2 territory/regions codes.
+Both 3166-1 and 3166-2 have a default json file which define each codes structure and data.
 
+ISO3166-1:
 ```json
-"alpha-2": "AU",
-"alpha-3": "AUD",
-"numeric": "036",
-"names": {
-    "en": "Australia",
-    "fr": "Australie"
-},
-"3166-2": {
-    "AU-QLD": {
-        "code": "AU-QLD",
-        "type": "State",
-        "names": {
-            "en": "Queensland",
-            "ja": "クインズランド"
-        }
-    }
+"AU": {
+    "alpha-2": "AU",
+    "alpha-3": "AUD",
+    "numeric": "036",
+    "name": "Australia"
+}
+```
+ISO3166-2:
+```json
+"AU-NSW": {
+    "name": "New South Wales",
+    "code": "AU-NSW",
+    "type": "State",
+    "administration-level": 1
+}
+```
+The proceeding directory from the default file contains locale separated translations for a countries name in 3166-1, or sub-division name in 3166-2.
+
+ISO3166-1:
+```json
+(ja)
+
+"Names": {
+    "AT": "オーストリア",
+    "AU": "オーストラリア",
+    "AW": "アルバ"
+}
+```
+ISO3166-2:
+```json
+(ja)
+
+"Names": {
+    "AU-NSW": "ニューサウスウェールズ"
 }
 ```
 
