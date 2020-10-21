@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bb2515363af4d88ef76cb5a5d32f2e84",
+    "content-hash": "740f9ec376ca3971d7709f0a54c4ed6c",
     "packages": [],
     "packages-dev": [
         {
@@ -60,12 +60,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/annotations.git",
-                "reference": "2dceb19ec1d2c264858d5d3740ebaea5713a868e"
+                "reference": "88fb6fb1dae011de24dd6b632811c1ff5c2928f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/annotations/zipball/2dceb19ec1d2c264858d5d3740ebaea5713a868e",
-                "reference": "2dceb19ec1d2c264858d5d3740ebaea5713a868e",
+                "url": "https://api.github.com/repos/doctrine/annotations/zipball/88fb6fb1dae011de24dd6b632811c1ff5c2928f5",
+                "reference": "88fb6fb1dae011de24dd6b632811c1ff5c2928f5",
                 "shasum": ""
             },
             "require": {
@@ -123,7 +123,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2020-08-20T21:05:01+00:00"
+            "time": "2020-10-17T22:05:33+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -292,12 +292,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/event-manager.git",
-                "reference": "41370af6a30faa9dc0368c4a6814d596e81aba7f"
+                "reference": "348f72ec92c7e0b1f5462f6616af2b448ba3cbb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/event-manager/zipball/41370af6a30faa9dc0368c4a6814d596e81aba7f",
-                "reference": "41370af6a30faa9dc0368c4a6814d596e81aba7f",
+                "url": "https://api.github.com/repos/doctrine/event-manager/zipball/348f72ec92c7e0b1f5462f6616af2b448ba3cbb1",
+                "reference": "348f72ec92c7e0b1f5462f6616af2b448ba3cbb1",
                 "shasum": ""
             },
             "require": {
@@ -374,7 +374,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-05-29T18:28:51+00:00"
+            "time": "2020-10-05T12:08:55+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -382,16 +382,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/lexer.git",
-                "reference": "ec953a1b157db060fc9576a6f6b6b1865a09aac9"
+                "reference": "4f8001a38062a3104c612ada5143b267eb57227f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/lexer/zipball/ec953a1b157db060fc9576a6f6b6b1865a09aac9",
-                "reference": "ec953a1b157db060fc9576a6f6b6b1865a09aac9",
+                "url": "https://api.github.com/repos/doctrine/lexer/zipball/4f8001a38062a3104c612ada5143b267eb57227f",
+                "reference": "4f8001a38062a3104c612ada5143b267eb57227f",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2"
+                "php": "^7.2 || ^8.0"
             },
             "require-dev": {
                 "doctrine/coding-standard": "^7.0.2",
@@ -450,7 +450,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-02-06T21:05:57+00:00"
+            "time": "2020-10-15T17:34:58+00:00"
         },
         {
             "name": "doctrine/persistence",
@@ -458,12 +458,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/persistence.git",
-                "reference": "a5842dc90c80b1374362fc66305597c741e31941"
+                "reference": "6e297e5cd2d8aedda49a5bc0fa39c6682583dc67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/persistence/zipball/a5842dc90c80b1374362fc66305597c741e31941",
-                "reference": "a5842dc90c80b1374362fc66305597c741e31941",
+                "url": "https://api.github.com/repos/doctrine/persistence/zipball/6e297e5cd2d8aedda49a5bc0fa39c6682583dc67",
+                "reference": "6e297e5cd2d8aedda49a5bc0fa39c6682583dc67",
                 "shasum": ""
             },
             "require": {
@@ -477,10 +477,10 @@
                 "doctrine/common": "<2.10@dev"
             },
             "require-dev": {
-                "doctrine/coding-standard": "^6.0",
+                "doctrine/coding-standard": "^6.0 || ^8.0",
                 "doctrine/common": "^3.0",
-                "phpstan/phpstan": "^0.11",
-                "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0",
+                "phpstan/phpstan": "^0.12",
+                "phpunit/phpunit": "^7.5.20 || ^8.0 || ^9.0",
                 "vimeo/psalm": "^3.11"
             },
             "type": "library",
@@ -534,20 +534,20 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2020-09-14T21:21:43+00:00"
+            "time": "2020-10-18T10:01:58+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "dev-master",
+            "version": "7.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "b22ead0a39ca708da0bfdbb3e83bc652f7a03f2a"
+                "reference": "0aa74dfb41ae110835923ef10a9d803a22d50e79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/b22ead0a39ca708da0bfdbb3e83bc652f7a03f2a",
-                "reference": "b22ead0a39ca708da0bfdbb3e83bc652f7a03f2a",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/0aa74dfb41ae110835923ef10a9d803a22d50e79",
+                "reference": "0aa74dfb41ae110835923ef10a9d803a22d50e79",
                 "shasum": ""
             },
             "require": {
@@ -632,7 +632,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-10-01T11:31:51+00:00"
+            "time": "2020-10-10T11:47:56+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -640,12 +640,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "60d379c243457e073cff02bc323a2a86cb355631"
+                "reference": "ddfeedfff2a52661429437da0702979f708e6ac6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/60d379c243457e073cff02bc323a2a86cb355631",
-                "reference": "60d379c243457e073cff02bc323a2a86cb355631",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/ddfeedfff2a52661429437da0702979f708e6ac6",
+                "reference": "ddfeedfff2a52661429437da0702979f708e6ac6",
                 "shasum": ""
             },
             "require": {
@@ -683,7 +683,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2020-09-30T07:37:28+00:00"
+            "time": "2020-10-19T16:50:15+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -758,24 +758,27 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v9.99.99.x-dev",
+            "version": "v9.99.100",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "0947f25b883d4172df340a0d95f1b7cdabc5368a"
+                "reference": "996434e5492cb4c3edcb9168db6fbb1359ef965a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/0947f25b883d4172df340a0d95f1b7cdabc5368a",
-                "reference": "0947f25b883d4172df340a0d95f1b7cdabc5368a",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/996434e5492cb4c3edcb9168db6fbb1359ef965a",
+                "reference": "996434e5492cb4c3edcb9168db6fbb1359ef965a",
                 "shasum": ""
             },
             "require": {
-                "php": "^7"
+                "php": ">= 7"
             },
             "require-dev": {
                 "phpunit/phpunit": "4.*|5.*",
                 "vimeo/psalm": "^1"
+            },
+            "suggest": {
+                "ext-libsodium": "Provides a modern crypto API that can be used to generate random bytes."
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -796,7 +799,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2018-08-07T13:07:48+00:00"
+            "time": "2020-10-15T08:29:30+00:00"
         },
         {
             "name": "psr/cache",
@@ -850,21 +853,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/container.git",
-                "reference": "b1fbdff230c2fae8b3e600ead18e711563f05a04"
+                "reference": "381524e8568e07f31d504a945b88556548c8c42e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/container/zipball/b1fbdff230c2fae8b3e600ead18e711563f05a04",
-                "reference": "b1fbdff230c2fae8b3e600ead18e711563f05a04",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/381524e8568e07f31d504a945b88556548c8c42e",
+                "reference": "381524e8568e07f31d504a945b88556548c8c42e",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": ">=7.2.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "autoload": {
@@ -891,7 +894,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2020-09-18T06:44:01+00:00"
+            "time": "2020-10-13T07:07:53+00:00"
         },
         {
             "name": "psr/event-dispatcher",
@@ -1198,7 +1201,7 @@
             },
             "type": "library",
             "autoload": {
-                "psr-4": {
+                "psr-0": {
                     "Sepia": "src/"
                 }
             },
@@ -2176,16 +2179,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "dev-master",
+            "version": "5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "5e48c1e1c633e90a01b30ccf03b9bbc5543d4609"
+                "reference": "1d445cce6349ab3cd3e260352ce3c0caf968b878"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/5e48c1e1c633e90a01b30ccf03b9bbc5543d4609",
-                "reference": "5e48c1e1c633e90a01b30ccf03b9bbc5543d4609",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/1d445cce6349ab3cd3e260352ce3c0caf968b878",
+                "reference": "1d445cce6349ab3cd3e260352ce3c0caf968b878",
                 "shasum": ""
             },
             "require": {
@@ -2321,9 +2324,7 @@
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-master": "5.2-dev"
-                }
+                "branch-version": "5.2"
             },
             "autoload": {
                 "psr-4": {
@@ -2374,7 +2375,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-10-02T14:25:10+00:00"
+            "time": "2020-10-19T06:28:41+00:00"
         },
         {
             "name": "twig/twig",
@@ -2382,12 +2383,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "dba3517f4b6a91fae8f3fdac279be42b67a365bd"
+                "reference": "9b76dcd70f1bb1638e19b6a597696615c344050d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/dba3517f4b6a91fae8f3fdac279be42b67a365bd",
-                "reference": "dba3517f4b6a91fae8f3fdac279be42b67a365bd",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/9b76dcd70f1bb1638e19b6a597696615c344050d",
+                "reference": "9b76dcd70f1bb1638e19b6a597696615c344050d",
                 "shasum": ""
             },
             "require": {
@@ -2446,7 +2447,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-09-27T05:01:41+00:00"
+            "time": "2020-10-14T06:38:04+00:00"
         }
     ],
     "aliases": [],

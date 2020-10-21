@@ -13,7 +13,7 @@ class CountryProvider
     public static function getCountries(?string $locale = null): array
     {
         $countries = [];
-        $locales = LocaleMapper::fallback($locale);
+        $locales = LocaleMapper::fallback($locale, '3166-1');
 
         foreach (self::getDefault() as $country) {
             $countries[] = new Country(self::getLocaleName($a2, $country["name"], $locales),
@@ -32,7 +32,7 @@ class CountryProvider
     public static function getCountryNames(?string $locale = null): array
     {
         $countries = [];
-        $locales = LocaleMapper::fallback($locale);
+        $locales = LocaleMapper::fallback($locale, '3166-1');
 
         foreach (self::getDefault() as $a2 => $country) {
             $countries[] = self::getLocaleName($a2, $country['name'], $locales);
@@ -43,10 +43,15 @@ class CountryProvider
 
     /**
      * Return Country object given locale and alpha 2 code
+     * Optional flag for getting sub-divisions for requested country
      */
-    public static function getCountry(?string $locale = null, string $a2): Country
+    public static function getCountry(?string $locale = null, string $a2): ?Country
     {
-        $locales = LocaleMapper::fallback($locale);
+        if (!self::validate($a2)) {
+            return null;
+        }
+
+        $locales = LocaleMapper::fallback($locale, '3166-1');
         $countries = self::getDefault();
 
         return new Country(self::getLocaleName($a2, $countries[$a2]['name'], $locales),
@@ -59,15 +64,19 @@ class CountryProvider
     /**
      * Return country name in given locale from provided alpha 2 code
      */
-    public static function getCountryName(?string $locale = null, string $a2): string
+    public static function getCountryName(?string $locale = null, string $a2): ?string
     {
+        if (!self::validate($a2)) {
+            return null;
+        }
+
         return self::getCountry($locale, $a2)->getName();
     }
 
     /**
      * Get array of countries (default)
      */
-    public static function getDefault(): array
+    private static function getDefault(): array
     {
         return Reader::read("./data/iso3166-1.json");
     }
@@ -75,7 +84,7 @@ class CountryProvider
     /**
      * Look for translation from provided locales, if none are found return default name
      */
-    public static function getLocaleName(string $a2, string $default, array $locales): string
+    private static function getLocaleName(string $a2, string $default, array $locales): string
     {
         foreach ($locales as $locale) {
             $current = Reader::read("./data/3166-1/".$locale.'.json')["Names"];
@@ -87,5 +96,17 @@ class CountryProvider
         }
 
         return $default;
+    }
+
+    /**
+     * Check if provided alpha-2 code is supported
+     */
+    private static function validate(string $a2): bool
+    {
+        if (array_key_exists($a2, self::getDefault())) {
+            return true;
+        }
+
+        return false;
     }
 }

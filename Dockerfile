@@ -1,14 +1,15 @@
 FROM php:7.4.10-cli
 
-# deps
+# apt dependancies
 RUN apt-get update && apt-get upgrade -y
-
-# core extensions
 RUN apt-get install -y --no-install-recommends \
-	git \
+        git \
         libicu-dev \
         translate-toolkit \
-    && docker-php-ext-install \
+        gettext
+
+# core extensions
+RUN docker-php-ext-install \
         intl \
         opcache \
         pcntl
@@ -26,5 +27,7 @@ COPY docker/conf.d /usr/local/etc/php/conf.d
 
 COPY . /app
 
-RUN php -f /app/build.php
+WORKDIR /app
+
+CMD ["php", "/app/build.php"]
 

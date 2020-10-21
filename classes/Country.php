@@ -12,13 +12,12 @@ Class Country
 
     private $subDivisions = [];
 
-    function __construct($name, $alpha_2, $alpha_3, $numeric, $subDivisions = null)
+    function __construct($name, $alpha_2, $alpha_3, $numeric)
     {
         $this->name = $name;
         $this->alpha_2 = $alpha_2;
         $this->alpha_3 = $alpha_3;
         $this->numeric = $numeric;
-        $this->$subDivisions = $subDivisions;
     }
 
     public function getName(): string
@@ -39,5 +38,10 @@ Class Country
     public function getNumeric(): string
     {
         return $this->numeric;
+    }
+
+    public function getSubDivisions(): array
+    {
+        return $this->subDivisions;
     }
 }

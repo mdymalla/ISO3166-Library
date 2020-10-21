@@ -1,6 +1,6 @@
 <?php
 
-require_once("classes/SubDivision.php");
+require "classes/SubDivision.php";
 require_once("Reader.php");
 require_once("LocaleMapper.php");
 
@@ -13,7 +13,7 @@ class SubDivisionProvider
     public static function getSubDivisions(?string $locale = null, string $country, ?int $adminLevel = 1): array
     {
         $subdivisions = [];
-        $locales = LocaleMapper::fallback($locale);
+        $locales = LocaleMapper::fallback($locale, '3166-2');
 
         foreach (self::getDefault() as $code => $subdivision) {
             if ($subdivision["administration-level"] !== $adminLevel) {
@@ -39,7 +39,7 @@ class SubDivisionProvider
     public static function getSubDivisionNames(string $locale, string $country, int $adminLevel = 1): array
     {
         $subdivisions = [];
-        $locales = LocaleMapper::fallback($locale);
+        $locales = LocaleMapper::fallback($locale, '3166-2');
 
         foreach (self::getDefault() as $code => $subdivision) {
             if ($subdivision["administration-level"] !== $adminLevel) {
@@ -59,7 +59,7 @@ class SubDivisionProvider
      */
     public static function getSubDivision(string $locale, string $code): SubDivision
     {
-        $locales = LocaleMapper::fallback($locale);
+        $locales = LocaleMapper::fallback($locale, '3166-2');
         $subdivisions = self::getDefault();
 
         return new SubDivision(self::getLocaleName($code, $subdivisions[$code]["name"], $locales),
@@ -74,7 +74,7 @@ class SubDivisionProvider
         return self::getSubDivision($locale, $code)->getName();
     }
 
-    public static function getAlpha2(string $regionCode): string
+    private static function getAlpha2(string $regionCode): string
     {
         return substr($regionCode, 0, 2);
     }
@@ -82,7 +82,7 @@ class SubDivisionProvider
     /**
      * Get array of regions (default)
      */
-    public static function getDefault(): array
+    private static function getDefault(): array
     {
         return Reader::read("./data/iso3166-2.json");
     }
@@ -90,7 +90,7 @@ class SubDivisionProvider
     /**
      * Look for translation from provided locales, if none are found return default name
      */
-    public static function getLocaleName(string $code, string $default, array $locales): string
+    private static function getLocaleName(string $code, string $default, array $locales): string
     {
         foreach ($locales as $locale) {
             $current = Reader::read("./data/3166-2/".$locale.'.json')["Names"];
