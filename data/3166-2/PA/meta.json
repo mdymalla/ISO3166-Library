@@ -1,0 +1,62 @@
+{
+    "PA-1": {
+        "code": "PA-1",
+        "name": "Bocas del Toro",
+        "type": "Province"
+    },
+    "PA-2": {
+        "code": "PA-2",
+        "name": "Coclé",
+        "type": "Province"
+    },
+    "PA-3": {
+        "code": "PA-3",
+        "name": "Colón",
+        "type": "Province"
+    },
+    "PA-4": {
+        "code": "PA-4",
+        "name": "Chiriquí",
+        "type": "Province"
+    },
+    "PA-5": {
+        "code": "PA-5",
+        "name": "Darién",
+        "type": "Province"
+    },
+    "PA-6": {
+        "code": "PA-6",
+        "name": "Herrera",
+        "type": "Province"
+    },
+    "PA-7": {
+        "code": "PA-7",
+        "name": "Los Santos",
+        "type": "Province"
+    },
+    "PA-8": {
+        "code": "PA-8",
+        "name": "Panamá",
+        "type": "Province"
+    },
+    "PA-9": {
+        "code": "PA-9",
+        "name": "Veraguas",
+        "type": "Province"
+    },
+    "PA-EM": {
+        "code": "PA-EM",
+        "name": "Emberá",
+        "type": "Indigenous region"
+    },
+    "PA-KY": {
+        "code": "PA-KY",
+        "name": "Kuna Yala",
+        "type": "Indigenous region"
+    },
+    "PA-NB": {
+        "code": "PA-NB",
+        "name": "Ngöbe-Buglé",
+        "type": "Indigenous region"
+    }
+}

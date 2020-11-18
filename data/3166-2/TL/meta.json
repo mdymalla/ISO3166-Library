@@ -1,0 +1,67 @@
+{
+    "TL-AL": {
+        "code": "TL-AL",
+        "name": "Aileu",
+        "type": "District"
+    },
+    "TL-AN": {
+        "code": "TL-AN",
+        "name": "Ainaro",
+        "type": "District"
+    },
+    "TL-BA": {
+        "code": "TL-BA",
+        "name": "Baucau",
+        "type": "District"
+    },
+    "TL-BO": {
+        "code": "TL-BO",
+        "name": "Bobonaro",
+        "type": "District"
+    },
+    "TL-CO": {
+        "code": "TL-CO",
+        "name": "Cova Lima",
+        "type": "District"
+    },
+    "TL-DI": {
+        "code": "TL-DI",
+        "name": "Díli",
+        "type": "District"
+    },
+    "TL-ER": {
+        "code": "TL-ER",
+        "name": "Ermera",
+        "type": "District"
+    },
+    "TL-LA": {
+        "code": "TL-LA",
+        "name": "Lautem",
+        "type": "District"
+    },
+    "TL-LI": {
+        "code": "TL-LI",
+        "name": "Liquiça",
+        "type": "District"
+    },
+    "TL-MF": {
+        "code": "TL-MF",
+        "name": "Manufahi",
+        "type": "District"
+    },
+    "TL-MT": {
+        "code": "TL-MT",
+        "name": "Manatuto",
+        "type": "District"
+    },
+    "TL-OE": {
+        "code": "TL-OE",
+        "name": "Oecussi",
+        "type": "District"
+    },
+    "TL-VI": {
+        "code": "TL-VI",
+        "name": "Viqueque",
+        "type": "District"
+    }
+}

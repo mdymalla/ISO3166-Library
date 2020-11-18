@@ -1,0 +1,42 @@
+{
+    "SK-BC": {
+        "code": "SK-BC",
+        "name": "Banskobystrický kraj",
+        "type": "Region"
+    },
+    "SK-BL": {
+        "code": "SK-BL",
+        "name": "Bratislavský kraj",
+        "type": "Region"
+    },
+    "SK-KI": {
+        "code": "SK-KI",
+        "name": "Košický kraj",
+        "type": "Region"
+    },
+    "SK-NI": {
+        "code": "SK-NI",
+        "name": "Nitriansky kraj",
+        "type": "Region"
+    },
+    "SK-PV": {
+        "code": "SK-PV",
+        "name": "Prešovský kraj",
+        "type": "Region"
+    },
+    "SK-TA": {
+        "code": "SK-TA",
+        "name": "Trnavský kraj",
+        "type": "Region"
+    },
+    "SK-TC": {
+        "code": "SK-TC",
+        "name": "Trenčiansky kraj",
+        "type": "Region"
+    },
+    "SK-ZI": {
+        "code": "SK-ZI",
+        "name": "Žilinský kraj",
+        "type": "Region"
+    }
+}

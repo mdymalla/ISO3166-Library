@@ -1,0 +1,27 @@
+{
+    "TO-01": {
+        "code": "TO-01",
+        "name": "'Eua",
+        "type": "Division"
+    },
+    "TO-02": {
+        "code": "TO-02",
+        "name": "Ha'apai",
+        "type": "Division"
+    },
+    "TO-03": {
+        "code": "TO-03",
+        "name": "Niuas",
+        "type": "Division"
+    },
+    "TO-04": {
+        "code": "TO-04",
+        "name": "Tongatapu",
+        "type": "Division"
+    },
+    "TO-05": {
+        "code": "TO-05",
+        "name": "Vava'u",
+        "type": "Division"
+    }
+}

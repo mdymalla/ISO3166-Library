@@ -1,0 +1,22 @@
+{
+    "SL-E": {
+        "code": "SL-E",
+        "name": "Eastern",
+        "type": "Province"
+    },
+    "SL-N": {
+        "code": "SL-N",
+        "name": "Northern",
+        "type": "Province"
+    },
+    "SL-S": {
+        "code": "SL-S",
+        "name": "Southern (Sierra Leone)",
+        "type": "Province"
+    },
+    "SL-W": {
+        "code": "SL-W",
+        "name": "Western Area (Freetown)",
+        "type": "Area"
+    }
+}

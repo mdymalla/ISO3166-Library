@@ -1,0 +1,67 @@
+{
+    "SA-01": {
+        "code": "SA-01",
+        "name": "Ar Riyāḍ",
+        "type": "Province"
+    },
+    "SA-02": {
+        "code": "SA-02",
+        "name": "Makkah",
+        "type": "Province"
+    },
+    "SA-03": {
+        "code": "SA-03",
+        "name": "Al Madīnah",
+        "type": "Province"
+    },
+    "SA-04": {
+        "code": "SA-04",
+        "name": "Ash Sharqīyah",
+        "type": "Province"
+    },
+    "SA-05": {
+        "code": "SA-05",
+        "name": "Al Qaşīm",
+        "type": "Province"
+    },
+    "SA-06": {
+        "code": "SA-06",
+        "name": "Ḥā'il",
+        "type": "Province"
+    },
+    "SA-07": {
+        "code": "SA-07",
+        "name": "Tabūk",
+        "type": "Province"
+    },
+    "SA-08": {
+        "code": "SA-08",
+        "name": "Al Ḥudūd ash Shamāliyah",
+        "type": "Province"
+    },
+    "SA-09": {
+        "code": "SA-09",
+        "name": "Jīzan",
+        "type": "Province"
+    },
+    "SA-10": {
+        "code": "SA-10",
+        "name": "Najrān",
+        "type": "Province"
+    },
+    "SA-11": {
+        "code": "SA-11",
+        "name": "Al Bāhah",
+        "type": "Province"
+    },
+    "SA-12": {
+        "code": "SA-12",
+        "name": "Al Jawf",
+        "type": "Province"
+    },
+    "SA-14": {
+        "code": "SA-14",
+        "name": "`Asīr",
+        "type": "Province"
+    }
+}

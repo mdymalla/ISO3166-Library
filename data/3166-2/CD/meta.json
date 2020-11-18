@@ -1,0 +1,57 @@
+{
+    "CD-BC": {
+        "code": "CD-BC",
+        "name": "Bas-Congo",
+        "type": "Province"
+    },
+    "CD-BN": {
+        "code": "CD-BN",
+        "name": "Bandundu",
+        "type": "Province"
+    },
+    "CD-EQ": {
+        "code": "CD-EQ",
+        "name": "Équateur",
+        "type": "Province"
+    },
+    "CD-KA": {
+        "code": "CD-KA",
+        "name": "Katanga",
+        "type": "Province"
+    },
+    "CD-KE": {
+        "code": "CD-KE",
+        "name": "Kasai-Oriental",
+        "type": "Province"
+    },
+    "CD-KN": {
+        "code": "CD-KN",
+        "name": "Kinshasa",
+        "type": "City"
+    },
+    "CD-KW": {
+        "code": "CD-KW",
+        "name": "Kasai-Occidental",
+        "type": "Province"
+    },
+    "CD-MA": {
+        "code": "CD-MA",
+        "name": "Maniema",
+        "type": "Province"
+    },
+    "CD-NK": {
+        "code": "CD-NK",
+        "name": "Nord-Kivu",
+        "type": "Province"
+    },
+    "CD-OR": {
+        "code": "CD-OR",
+        "name": "Orientale",
+        "type": "Province"
+    },
+    "CD-SK": {
+        "code": "CD-SK",
+        "name": "Sud-Kivu",
+        "type": "Province"
+    }
+}

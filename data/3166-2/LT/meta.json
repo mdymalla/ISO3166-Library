@@ -1,0 +1,52 @@
+{
+    "LT-AL": {
+        "code": "LT-AL",
+        "name": "Alytaus Apskritis",
+        "type": "County"
+    },
+    "LT-KL": {
+        "code": "LT-KL",
+        "name": "Klaipėdos Apskritis",
+        "type": "County"
+    },
+    "LT-KU": {
+        "code": "LT-KU",
+        "name": "Kauno Apskritis",
+        "type": "County"
+    },
+    "LT-MR": {
+        "code": "LT-MR",
+        "name": "Marijampolės Apskritis",
+        "type": "County"
+    },
+    "LT-PN": {
+        "code": "LT-PN",
+        "name": "Panevėžio Apskritis",
+        "type": "County"
+    },
+    "LT-SA": {
+        "code": "LT-SA",
+        "name": "Šiaulių Apskritis",
+        "type": "County"
+    },
+    "LT-TA": {
+        "code": "LT-TA",
+        "name": "Tauragés Apskritis",
+        "type": "County"
+    },
+    "LT-TE": {
+        "code": "LT-TE",
+        "name": "Telšių Apskritis",
+        "type": "County"
+    },
+    "LT-UT": {
+        "code": "LT-UT",
+        "name": "Utenos Apskritis",
+        "type": "County"
+    },
+    "LT-VL": {
+        "code": "LT-VL",
+        "name": "Vilniaus Apskritis",
+        "type": "County"
+    }
+}

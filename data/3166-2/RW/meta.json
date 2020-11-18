@@ -1,0 +1,27 @@
+{
+    "RW-01": {
+        "code": "RW-01",
+        "name": "Ville de Kigali",
+        "type": "Town council"
+    },
+    "RW-02": {
+        "code": "RW-02",
+        "name": "Est",
+        "type": "Province"
+    },
+    "RW-03": {
+        "code": "RW-03",
+        "name": "Nord",
+        "type": "Province"
+    },
+    "RW-04": {
+        "code": "RW-04",
+        "name": "Ouest",
+        "type": "Province"
+    },
+    "RW-05": {
+        "code": "RW-05",
+        "name": "Sud",
+        "type": "Province"
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "KE-01": {
+        "code": "KE-01",
+        "name": "Baringo",
+        "type": "County"
+    },
+    "KE-02": {
+        "code": "KE-02",
+        "name": "Bomet",
+        "type": "County"
+    },
+    "KE-03": {
+        "code": "KE-03",
+        "name": "Bungoma",
+        "type": "County"
+    },
+    "KE-04": {
+        "code": "KE-04",
+        "name": "Busia",
+        "type": "County"
+    },
+    "KE-05": {
+        "code": "KE-05",
+        "name": "Elgeyo\/Marakwet",
+        "type": "County"
+    },
+    "KE-06": {
+        "code": "KE-06",
+        "name": "Embu",
+        "type": "County"
+    },
+    "KE-07": {
+        "code": "KE-07",
+        "name": "Garissa",
+        "type": "County"
+    },
+    "KE-08": {
+        "code": "KE-08",
+        "name": "Homa Bay",
+        "type": "County"
+    },
+    "KE-09": {
+        "code": "KE-09",
+        "name": "Isiolo",
+        "type": "County"
+    },
+    "KE-10": {
+        "code": "KE-10",
+        "name": "Kajiado",
+        "type": "County"
+    },
+    "KE-11": {
+        "code": "KE-11",
+        "name": "Kakamega",
+        "type": "County"
+    },
+    "KE-12": {
+        "code": "KE-12",
+        "name": "Kericho",
+        "type": "County"
+    },
+    "KE-13": {
+        "code": "KE-13",
+        "name": "Kiambu",
+        "type": "County"
+    },
+    "KE-14": {
+        "code": "KE-14",
+        "name": "Kilifi",
+        "type": "County"
+    },
+    "KE-15": {
+        "code": "KE-15",
+        "name": "Kirinyaga",
+        "type": "County"
+    },
+    "KE-16": {
+        "code": "KE-16",
+        "name": "Kisii",
+        "type": "County"
+    },
+    "KE-17": {
+        "code": "KE-17",
+        "name": "Kisumu",
+        "type": "County"
+    },
+    "KE-18": {
+        "code": "KE-18",
+        "name": "Kitui",
+        "type": "County"
+    },
+    "KE-19": {
+        "code": "KE-19",
+        "name": "Kwale",
+        "type": "County"
+    },
+    "KE-20": {
+        "code": "KE-20",
+        "name": "Laikipia",
+        "type": "County"
+    },
+    "KE-21": {
+        "code": "KE-21",
+        "name": "Lamu",
+        "type": "County"
+    },
+    "KE-22": {
+        "code": "KE-22",
+        "name": "Machakos",
+        "type": "County"
+    },
+    "KE-23": {
+        "code": "KE-23",
+        "name": "Makueni",
+        "type": "County"
+    },
+    "KE-24": {
+        "code": "KE-24",
+        "name": "Mandera",
+        "type": "County"
+    },
+    "KE-25": {
+        "code": "KE-25",
+        "name": "Marsabit",
+        "type": "County"
+    },
+    "KE-26": {
+        "code": "KE-26",
+        "name": "Meru",
+        "type": "County"
+    },
+    "KE-27": {
+        "code": "KE-27",
+        "name": "Migori",
+        "type": "County"
+    },
+    "KE-28": {
+        "code": "KE-28",
+        "name": "Mombasa",
+        "type": "County"
+    },
+    "KE-29": {
+        "code": "KE-29",
+        "name": "Murang'a",
+        "type": "County"
+    },
+    "KE-30": {
+        "code": "KE-30",
+        "name": "Nairobi City",
+        "type": "County"
+    },
+    "KE-31": {
+        "code": "KE-31",
+        "name": "Nakuru",
+        "type": "County"
+    },
+    "KE-32": {
+        "code": "KE-32",
+        "name": "Nandi",
+        "type": "County"
+    },
+    "KE-33": {
+        "code": "KE-33",
+        "name": "Narok",
+        "type": "County"
+    },
+    "KE-34": {
+        "code": "KE-34",
+        "name": "Nyamira",
+        "type": "County"
+    },
+    "KE-35": {
+        "code": "KE-35",
+        "name": "Nyandarua",
+        "type": "County"
+    },
+    "KE-36": {
+        "code": "KE-36",
+        "name": "Nyeri",
+        "type": "County"
+    },
+    "KE-37": {
+        "code": "KE-37",
+        "name": "Samburu",
+        "type": "County"
+    },
+    "KE-38": {
+        "code": "KE-38",
+        "name": "Siaya",
+        "type": "County"
+    },
+    "KE-39": {
+        "code": "KE-39",
+        "name": "Taita\/Taveta",
+        "type": "County"
+    },
+    "KE-40": {
+        "code": "KE-40",
+        "name": "Tana River",
+        "type": "County"
+    },
+    "KE-41": {
+        "code": "KE-41",
+        "name": "Tharaka-Nithi",
+        "type": "County"
+    },
+    "KE-42": {
+        "code": "KE-42",
+        "name": "Trans Nzoia",
+        "type": "County"
+    },
+    "KE-43": {
+        "code": "KE-43",
+        "name": "Turkana",
+        "type": "County"
+    },
+    "KE-44": {
+        "code": "KE-44",
+        "name": "Uasin Gishu",
+        "type": "County"
+    },
+    "KE-45": {
+        "code": "KE-45",
+        "name": "Vihiga",
+        "type": "County"
+    },
+    "KE-46": {
+        "code": "KE-46",
+        "name": "Wajir",
+        "type": "County"
+    },
+    "KE-47": {
+        "code": "KE-47",
+        "name": "West Pokot",
+        "type": "County"
+    }
+}

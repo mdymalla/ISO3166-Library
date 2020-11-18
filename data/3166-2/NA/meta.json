@@ -1,0 +1,67 @@
+{
+    "NA-CA": {
+        "code": "NA-CA",
+        "name": "Caprivi",
+        "type": "Region"
+    },
+    "NA-ER": {
+        "code": "NA-ER",
+        "name": "Erongo",
+        "type": "Region"
+    },
+    "NA-HA": {
+        "code": "NA-HA",
+        "name": "Hardap",
+        "type": "Region"
+    },
+    "NA-KA": {
+        "code": "NA-KA",
+        "name": "Karas",
+        "type": "Region"
+    },
+    "NA-KH": {
+        "code": "NA-KH",
+        "name": "Khomas",
+        "type": "Region"
+    },
+    "NA-KU": {
+        "code": "NA-KU",
+        "name": "Kunene",
+        "type": "Region"
+    },
+    "NA-OD": {
+        "code": "NA-OD",
+        "name": "Otjozondjupa",
+        "type": "Region"
+    },
+    "NA-OH": {
+        "code": "NA-OH",
+        "name": "Omaheke",
+        "type": "Region"
+    },
+    "NA-OK": {
+        "code": "NA-OK",
+        "name": "Okavango",
+        "type": "Region"
+    },
+    "NA-ON": {
+        "code": "NA-ON",
+        "name": "Oshana",
+        "type": "Region"
+    },
+    "NA-OS": {
+        "code": "NA-OS",
+        "name": "Omusati",
+        "type": "Region"
+    },
+    "NA-OT": {
+        "code": "NA-OT",
+        "name": "Oshikoto",
+        "type": "Region"
+    },
+    "NA-OW": {
+        "code": "NA-OW",
+        "name": "Ohangwena",
+        "type": "Region"
+    }
+}

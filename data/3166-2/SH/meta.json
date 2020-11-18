@@ -1,0 +1,17 @@
+{
+    "SH-AC": {
+        "code": "SH-AC",
+        "name": "Ascension",
+        "type": "Geographical Entity"
+    },
+    "SH-HL": {
+        "code": "SH-HL",
+        "name": "Saint Helena",
+        "type": "Geographical Entity"
+    },
+    "SH-TA": {
+        "code": "SH-TA",
+        "name": "Tristan da Cunha",
+        "type": "Geographical Entity"
+    }
+}

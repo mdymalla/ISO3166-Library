@@ -1,0 +1,57 @@
+{
+    "MZ-A": {
+        "code": "MZ-A",
+        "name": "Niassa",
+        "type": "Province"
+    },
+    "MZ-B": {
+        "code": "MZ-B",
+        "name": "Manica",
+        "type": "Province"
+    },
+    "MZ-G": {
+        "code": "MZ-G",
+        "name": "Gaza",
+        "type": "Province"
+    },
+    "MZ-I": {
+        "code": "MZ-I",
+        "name": "Inhambane",
+        "type": "Province"
+    },
+    "MZ-L": {
+        "code": "MZ-L",
+        "name": "Maputo",
+        "type": "Province"
+    },
+    "MZ-MPM": {
+        "code": "MZ-MPM",
+        "name": "Maputo (city)",
+        "type": "City"
+    },
+    "MZ-N": {
+        "code": "MZ-N",
+        "name": "Numpula",
+        "type": "Province"
+    },
+    "MZ-P": {
+        "code": "MZ-P",
+        "name": "Cabo Delgado",
+        "type": "Province"
+    },
+    "MZ-Q": {
+        "code": "MZ-Q",
+        "name": "Zambezia",
+        "type": "Province"
+    },
+    "MZ-S": {
+        "code": "MZ-S",
+        "name": "Sofala",
+        "type": "Province"
+    },
+    "MZ-T": {
+        "code": "MZ-T",
+        "name": "Tete",
+        "type": "Province"
+    }
+}

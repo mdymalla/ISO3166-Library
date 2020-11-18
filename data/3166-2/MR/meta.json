@@ -1,0 +1,67 @@
+{
+    "MR-01": {
+        "code": "MR-01",
+        "name": "Hodh ech Chargui",
+        "type": "Region"
+    },
+    "MR-02": {
+        "code": "MR-02",
+        "name": "Hodh el Charbi",
+        "type": "Region"
+    },
+    "MR-03": {
+        "code": "MR-03",
+        "name": "Assaba",
+        "type": "Region"
+    },
+    "MR-04": {
+        "code": "MR-04",
+        "name": "Gorgol",
+        "type": "Region"
+    },
+    "MR-05": {
+        "code": "MR-05",
+        "name": "Brakna",
+        "type": "Region"
+    },
+    "MR-06": {
+        "code": "MR-06",
+        "name": "Trarza",
+        "type": "Region"
+    },
+    "MR-07": {
+        "code": "MR-07",
+        "name": "Adrar",
+        "type": "Region"
+    },
+    "MR-08": {
+        "code": "MR-08",
+        "name": "Dakhlet Nouadhibou",
+        "type": "Region"
+    },
+    "MR-09": {
+        "code": "MR-09",
+        "name": "Tagant",
+        "type": "Region"
+    },
+    "MR-10": {
+        "code": "MR-10",
+        "name": "Guidimaka",
+        "type": "Region"
+    },
+    "MR-11": {
+        "code": "MR-11",
+        "name": "Tiris Zemmour",
+        "type": "Region"
+    },
+    "MR-12": {
+        "code": "MR-12",
+        "name": "Inchiri",
+        "type": "Region"
+    },
+    "MR-NKC": {
+        "code": "MR-NKC",
+        "name": "Nouakchott",
+        "type": "District"
+    }
+}

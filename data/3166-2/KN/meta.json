@@ -1,0 +1,96 @@
+{
+    "KN-01": {
+        "code": "KN-01",
+        "name": "Christ Church Nichola Town",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-02": {
+        "code": "KN-02",
+        "name": "Saint Anne Sandy Point",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-03": {
+        "code": "KN-03",
+        "name": "Saint George Basseterre",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-04": {
+        "code": "KN-04",
+        "name": "Saint George Gingerland",
+        "type": "Parish",
+        "parent": "N"
+    },
+    "KN-05": {
+        "code": "KN-05",
+        "name": "Saint James Windward",
+        "type": "Parish",
+        "parent": "N"
+    },
+    "KN-06": {
+        "code": "KN-06",
+        "name": "Saint John Capisterre",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-07": {
+        "code": "KN-07",
+        "name": "Saint John Figtree",
+        "type": "Parish",
+        "parent": "N"
+    },
+    "KN-08": {
+        "code": "KN-08",
+        "name": "Saint Mary Cayon",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-09": {
+        "code": "KN-09",
+        "name": "Saint Paul Capisterre",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-10": {
+        "code": "KN-10",
+        "name": "Saint Paul Charlestown",
+        "type": "Parish",
+        "parent": "N"
+    },
+    "KN-11": {
+        "code": "KN-11",
+        "name": "Saint Peter Basseterre",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-12": {
+        "code": "KN-12",
+        "name": "Saint Thomas Lowland",
+        "type": "Parish",
+        "parent": "N"
+    },
+    "KN-13": {
+        "code": "KN-13",
+        "name": "Saint Thomas Middle Island",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-15": {
+        "code": "KN-15",
+        "name": "Trinity Palmetto Point",
+        "type": "Parish",
+        "parent": "K"
+    },
+    "KN-K": {
+        "code": "KN-K",
+        "name": "Saint Kitts",
+        "type": "State"
+    },
+    "KN-N": {
+        "code": "KN-N",
+        "name": "Nevis",
+        "type": "State"
+    }
+}

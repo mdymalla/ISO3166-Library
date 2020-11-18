@@ -1,0 +1,597 @@
+{
+    "LV-001": {
+        "code": "LV-001",
+        "name": "Aglonas novads",
+        "type": "Municipality"
+    },
+    "LV-002": {
+        "code": "LV-002",
+        "name": "Aizkraukles novads",
+        "type": "Municipality"
+    },
+    "LV-003": {
+        "code": "LV-003",
+        "name": "Aizputes novads",
+        "type": "Municipality"
+    },
+    "LV-004": {
+        "code": "LV-004",
+        "name": "Aknīstes novads",
+        "type": "Municipality"
+    },
+    "LV-005": {
+        "code": "LV-005",
+        "name": "Alojas novads",
+        "type": "Municipality"
+    },
+    "LV-006": {
+        "code": "LV-006",
+        "name": "Alsungas novads",
+        "type": "Municipality"
+    },
+    "LV-007": {
+        "code": "LV-007",
+        "name": "Alūksnes novads",
+        "type": "Municipality"
+    },
+    "LV-008": {
+        "code": "LV-008",
+        "name": "Amatas novads",
+        "type": "Municipality"
+    },
+    "LV-009": {
+        "code": "LV-009",
+        "name": "Apes novads",
+        "type": "Municipality"
+    },
+    "LV-010": {
+        "code": "LV-010",
+        "name": "Auces novads",
+        "type": "Municipality"
+    },
+    "LV-011": {
+        "code": "LV-011",
+        "name": "Ādažu novads",
+        "type": "Municipality"
+    },
+    "LV-012": {
+        "code": "LV-012",
+        "name": "Babītes novads",
+        "type": "Municipality"
+    },
+    "LV-013": {
+        "code": "LV-013",
+        "name": "Baldones novads",
+        "type": "Municipality"
+    },
+    "LV-014": {
+        "code": "LV-014",
+        "name": "Baltinavas novads",
+        "type": "Municipality"
+    },
+    "LV-015": {
+        "code": "LV-015",
+        "name": "Balvu novads",
+        "type": "Municipality"
+    },
+    "LV-016": {
+        "code": "LV-016",
+        "name": "Bauskas novads",
+        "type": "Municipality"
+    },
+    "LV-017": {
+        "code": "LV-017",
+        "name": "Beverīnas novads",
+        "type": "Municipality"
+    },
+    "LV-018": {
+        "code": "LV-018",
+        "name": "Brocēnu novads",
+        "type": "Municipality"
+    },
+    "LV-019": {
+        "code": "LV-019",
+        "name": "Burtnieku novads",
+        "type": "Municipality"
+    },
+    "LV-020": {
+        "code": "LV-020",
+        "name": "Carnikavas novads",
+        "type": "Municipality"
+    },
+    "LV-021": {
+        "code": "LV-021",
+        "name": "Cesvaines novads",
+        "type": "Municipality"
+    },
+    "LV-022": {
+        "code": "LV-022",
+        "name": "Cēsu novads",
+        "type": "Municipality"
+    },
+    "LV-023": {
+        "code": "LV-023",
+        "name": "Ciblas novads",
+        "type": "Municipality"
+    },
+    "LV-024": {
+        "code": "LV-024",
+        "name": "Dagdas novads",
+        "type": "Municipality"
+    },
+    "LV-025": {
+        "code": "LV-025",
+        "name": "Daugavpils novads",
+        "type": "Municipality"
+    },
+    "LV-026": {
+        "code": "LV-026",
+        "name": "Dobeles novads",
+        "type": "Municipality"
+    },
+    "LV-027": {
+        "code": "LV-027",
+        "name": "Dundagas novads",
+        "type": "Municipality"
+    },
+    "LV-028": {
+        "code": "LV-028",
+        "name": "Durbes novads",
+        "type": "Municipality"
+    },
+    "LV-029": {
+        "code": "LV-029",
+        "name": "Engures novads",
+        "type": "Municipality"
+    },
+    "LV-030": {
+        "code": "LV-030",
+        "name": "Ērgļu novads",
+        "type": "Municipality"
+    },
+    "LV-031": {
+        "code": "LV-031",
+        "name": "Garkalnes novads",
+        "type": "Municipality"
+    },
+    "LV-032": {
+        "code": "LV-032",
+        "name": "Grobiņas novads",
+        "type": "Municipality"
+    },
+    "LV-033": {
+        "code": "LV-033",
+        "name": "Gulbenes novads",
+        "type": "Municipality"
+    },
+    "LV-034": {
+        "code": "LV-034",
+        "name": "Iecavas novads",
+        "type": "Municipality"
+    },
+    "LV-035": {
+        "code": "LV-035",
+        "name": "Ikšķiles novads",
+        "type": "Municipality"
+    },
+    "LV-036": {
+        "code": "LV-036",
+        "name": "Ilūkstes novads",
+        "type": "Municipality"
+    },
+    "LV-037": {
+        "code": "LV-037",
+        "name": "Inčukalna novads",
+        "type": "Municipality"
+    },
+    "LV-038": {
+        "code": "LV-038",
+        "name": "Jaunjelgavas novads",
+        "type": "Municipality"
+    },
+    "LV-039": {
+        "code": "LV-039",
+        "name": "Jaunpiebalgas novads",
+        "type": "Municipality"
+    },
+    "LV-040": {
+        "code": "LV-040",
+        "name": "Jaunpils novads",
+        "type": "Municipality"
+    },
+    "LV-041": {
+        "code": "LV-041",
+        "name": "Jelgavas novads",
+        "type": "Municipality"
+    },
+    "LV-042": {
+        "code": "LV-042",
+        "name": "Jēkabpils novads",
+        "type": "Municipality"
+    },
+    "LV-043": {
+        "code": "LV-043",
+        "name": "Kandavas novads",
+        "type": "Municipality"
+    },
+    "LV-044": {
+        "code": "LV-044",
+        "name": "Kārsavas novads",
+        "type": "Municipality"
+    },
+    "LV-045": {
+        "code": "LV-045",
+        "name": "Kocēnu novads",
+        "type": "Municipality"
+    },
+    "LV-046": {
+        "code": "LV-046",
+        "name": "Kokneses novads",
+        "type": "Municipality"
+    },
+    "LV-047": {
+        "code": "LV-047",
+        "name": "Krāslavas novads",
+        "type": "Municipality"
+    },
+    "LV-048": {
+        "code": "LV-048",
+        "name": "Krimuldas novads",
+        "type": "Municipality"
+    },
+    "LV-049": {
+        "code": "LV-049",
+        "name": "Krustpils novads",
+        "type": "Municipality"
+    },
+    "LV-050": {
+        "code": "LV-050",
+        "name": "Kuldīgas novads",
+        "type": "Municipality"
+    },
+    "LV-051": {
+        "code": "LV-051",
+        "name": "Ķeguma novads",
+        "type": "Municipality"
+    },
+    "LV-052": {
+        "code": "LV-052",
+        "name": "Ķekavas novads",
+        "type": "Municipality"
+    },
+    "LV-053": {
+        "code": "LV-053",
+        "name": "Lielvārdes novads",
+        "type": "Municipality"
+    },
+    "LV-054": {
+        "code": "LV-054",
+        "name": "Limbažu novads",
+        "type": "Municipality"
+    },
+    "LV-055": {
+        "code": "LV-055",
+        "name": "Līgatnes novads",
+        "type": "Municipality"
+    },
+    "LV-056": {
+        "code": "LV-056",
+        "name": "Līvānu novads",
+        "type": "Municipality"
+    },
+    "LV-057": {
+        "code": "LV-057",
+        "name": "Lubānas novads",
+        "type": "Municipality"
+    },
+    "LV-058": {
+        "code": "LV-058",
+        "name": "Ludzas novads",
+        "type": "Municipality"
+    },
+    "LV-059": {
+        "code": "LV-059",
+        "name": "Madonas novads",
+        "type": "Municipality"
+    },
+    "LV-060": {
+        "code": "LV-060",
+        "name": "Mazsalacas novads",
+        "type": "Municipality"
+    },
+    "LV-061": {
+        "code": "LV-061",
+        "name": "Mālpils novads",
+        "type": "Municipality"
+    },
+    "LV-062": {
+        "code": "LV-062",
+        "name": "Mārupes novads",
+        "type": "Municipality"
+    },
+    "LV-063": {
+        "code": "LV-063",
+        "name": "Mērsraga novads",
+        "type": "Municipality"
+    },
+    "LV-064": {
+        "code": "LV-064",
+        "name": "Naukšēnu novads",
+        "type": "Municipality"
+    },
+    "LV-065": {
+        "code": "LV-065",
+        "name": "Neretas novads",
+        "type": "Municipality"
+    },
+    "LV-066": {
+        "code": "LV-066",
+        "name": "Nīcas novads",
+        "type": "Municipality"
+    },
+    "LV-067": {
+        "code": "LV-067",
+        "name": "Ogres novads",
+        "type": "Municipality"
+    },
+    "LV-068": {
+        "code": "LV-068",
+        "name": "Olaines novads",
+        "type": "Municipality"
+    },
+    "LV-069": {
+        "code": "LV-069",
+        "name": "Ozolnieku novads",
+        "type": "Municipality"
+    },
+    "LV-070": {
+        "code": "LV-070",
+        "name": "Pārgaujas novads",
+        "type": "Municipality"
+    },
+    "LV-071": {
+        "code": "LV-071",
+        "name": "Pāvilostas novads",
+        "type": "Municipality"
+    },
+    "LV-072": {
+        "code": "LV-072",
+        "name": "Pļaviņu novads",
+        "type": "Municipality"
+    },
+    "LV-073": {
+        "code": "LV-073",
+        "name": "Preiļu novads",
+        "type": "Municipality"
+    },
+    "LV-074": {
+        "code": "LV-074",
+        "name": "Priekules novads",
+        "type": "Municipality"
+    },
+    "LV-075": {
+        "code": "LV-075",
+        "name": "Priekuļu novads",
+        "type": "Municipality"
+    },
+    "LV-076": {
+        "code": "LV-076",
+        "name": "Raunas novads",
+        "type": "Municipality"
+    },
+    "LV-077": {
+        "code": "LV-077",
+        "name": "Rēzeknes novads",
+        "type": "Municipality"
+    },
+    "LV-078": {
+        "code": "LV-078",
+        "name": "Riebiņu novads",
+        "type": "Municipality"
+    },
+    "LV-079": {
+        "code": "LV-079",
+        "name": "Rojas novads",
+        "type": "Municipality"
+    },
+    "LV-080": {
+        "code": "LV-080",
+        "name": "Ropažu novads",
+        "type": "Municipality"
+    },
+    "LV-081": {
+        "code": "LV-081",
+        "name": "Rucavas novads",
+        "type": "Municipality"
+    },
+    "LV-082": {
+        "code": "LV-082",
+        "name": "Rugāju novads",
+        "type": "Municipality"
+    },
+    "LV-083": {
+        "code": "LV-083",
+        "name": "Rundāles novads",
+        "type": "Municipality"
+    },
+    "LV-084": {
+        "code": "LV-084",
+        "name": "Rūjienas novads",
+        "type": "Municipality"
+    },
+    "LV-085": {
+        "code": "LV-085",
+        "name": "Salas novads",
+        "type": "Municipality"
+    },
+    "LV-086": {
+        "code": "LV-086",
+        "name": "Salacgrīvas novads",
+        "type": "Municipality"
+    },
+    "LV-087": {
+        "code": "LV-087",
+        "name": "Salaspils novads",
+        "type": "Municipality"
+    },
+    "LV-088": {
+        "code": "LV-088",
+        "name": "Saldus novads",
+        "type": "Municipality"
+    },
+    "LV-089": {
+        "code": "LV-089",
+        "name": "Saulkrastu novads",
+        "type": "Municipality"
+    },
+    "LV-090": {
+        "code": "LV-090",
+        "name": "Sējas novads",
+        "type": "Municipality"
+    },
+    "LV-091": {
+        "code": "LV-091",
+        "name": "Siguldas novads",
+        "type": "Municipality"
+    },
+    "LV-092": {
+        "code": "LV-092",
+        "name": "Skrīveru novads",
+        "type": "Municipality"
+    },
+    "LV-093": {
+        "code": "LV-093",
+        "name": "Skrundas novads",
+        "type": "Municipality"
+    },
+    "LV-094": {
+        "code": "LV-094",
+        "name": "Smiltenes novads",
+        "type": "Municipality"
+    },
+    "LV-095": {
+        "code": "LV-095",
+        "name": "Stopiņu novads",
+        "type": "Municipality"
+    },
+    "LV-096": {
+        "code": "LV-096",
+        "name": "Strenču novads",
+        "type": "Municipality"
+    },
+    "LV-097": {
+        "code": "LV-097",
+        "name": "Talsu novads",
+        "type": "Municipality"
+    },
+    "LV-098": {
+        "code": "LV-098",
+        "name": "Tērvetes novads",
+        "type": "Municipality"
+    },
+    "LV-099": {
+        "code": "LV-099",
+        "name": "Tukuma novads",
+        "type": "Municipality"
+    },
+    "LV-100": {
+        "code": "LV-100",
+        "name": "Vaiņodes novads",
+        "type": "Municipality"
+    },
+    "LV-101": {
+        "code": "LV-101",
+        "name": "Valkas novads",
+        "type": "Municipality"
+    },
+    "LV-102": {
+        "code": "LV-102",
+        "name": "Varakļānu novads",
+        "type": "Municipality"
+    },
+    "LV-103": {
+        "code": "LV-103",
+        "name": "Vārkavas novads",
+        "type": "Municipality"
+    },
+    "LV-104": {
+        "code": "LV-104",
+        "name": "Vecpiebalgas novads",
+        "type": "Municipality"
+    },
+    "LV-105": {
+        "code": "LV-105",
+        "name": "Vecumnieku novads",
+        "type": "Municipality"
+    },
+    "LV-106": {
+        "code": "LV-106",
+        "name": "Ventspils novads",
+        "type": "Municipality"
+    },
+    "LV-107": {
+        "code": "LV-107",
+        "name": "Viesītes novads",
+        "type": "Municipality"
+    },
+    "LV-108": {
+        "code": "LV-108",
+        "name": "Viļakas novads",
+        "type": "Municipality"
+    },
+    "LV-109": {
+        "code": "LV-109",
+        "name": "Viļānu novads",
+        "type": "Municipality"
+    },
+    "LV-110": {
+        "code": "LV-110",
+        "name": "Zilupes novads",
+        "type": "Municipality"
+    },
+    "LV-DGV": {
+        "code": "LV-DGV",
+        "name": "Daugavpils",
+        "type": "Republican City"
+    },
+    "LV-JEL": {
+        "code": "LV-JEL",
+        "name": "Jelgava",
+        "type": "Republican City"
+    },
+    "LV-JKB": {
+        "code": "LV-JKB",
+        "name": "Jēkabpils",
+        "type": "Republican City"
+    },
+    "LV-JUR": {
+        "code": "LV-JUR",
+        "name": "Jūrmala",
+        "type": "Republican City"
+    },
+    "LV-LPX": {
+        "code": "LV-LPX",
+        "name": "Liepāja",
+        "type": "Republican City"
+    },
+    "LV-REZ": {
+        "code": "LV-REZ",
+        "name": "Rēzekne",
+        "type": "Republican City"
+    },
+    "LV-RIX": {
+        "code": "LV-RIX",
+        "name": "Rīga",
+        "type": "Republican City"
+    },
+    "LV-VEN": {
+        "code": "LV-VEN",
+        "name": "Ventspils",
+        "type": "Republican City"
+    },
+    "LV-VMR": {
+        "code": "LV-VMR",
+        "name": "Valmiera",
+        "type": "Republican City"
+    }
+}

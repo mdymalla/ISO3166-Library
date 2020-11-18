@@ -1,0 +1,117 @@
+{
+    "LY-BA": {
+        "code": "LY-BA",
+        "name": "Banghāzī",
+        "type": "Popularates"
+    },
+    "LY-BU": {
+        "code": "LY-BU",
+        "name": "Al Buţnān",
+        "type": "Popularates"
+    },
+    "LY-DR": {
+        "code": "LY-DR",
+        "name": "Darnah",
+        "type": "Popularates"
+    },
+    "LY-GT": {
+        "code": "LY-GT",
+        "name": "Ghāt",
+        "type": "Popularates"
+    },
+    "LY-JA": {
+        "code": "LY-JA",
+        "name": "Al Jabal al Akhḑar",
+        "type": "Popularates"
+    },
+    "LY-JB": {
+        "code": "LY-JB",
+        "name": "Jaghbūb",
+        "type": "Popularates"
+    },
+    "LY-JG": {
+        "code": "LY-JG",
+        "name": "Al Jabal al Gharbī",
+        "type": "Popularates"
+    },
+    "LY-JI": {
+        "code": "LY-JI",
+        "name": "Al Jifārah",
+        "type": "Popularates"
+    },
+    "LY-JU": {
+        "code": "LY-JU",
+        "name": "Al Jufrah",
+        "type": "Popularates"
+    },
+    "LY-KF": {
+        "code": "LY-KF",
+        "name": "Al Kufrah",
+        "type": "Popularates"
+    },
+    "LY-MB": {
+        "code": "LY-MB",
+        "name": "Al Marqab",
+        "type": "Popularates"
+    },
+    "LY-MI": {
+        "code": "LY-MI",
+        "name": "Mişrātah",
+        "type": "Popularates"
+    },
+    "LY-MJ": {
+        "code": "LY-MJ",
+        "name": "Al Marj",
+        "type": "Popularates"
+    },
+    "LY-MQ": {
+        "code": "LY-MQ",
+        "name": "Murzuq",
+        "type": "Popularates"
+    },
+    "LY-NL": {
+        "code": "LY-NL",
+        "name": "Nālūt",
+        "type": "Popularates"
+    },
+    "LY-NQ": {
+        "code": "LY-NQ",
+        "name": "An Nuqaţ al Khams",
+        "type": "Popularates"
+    },
+    "LY-SB": {
+        "code": "LY-SB",
+        "name": "Sabhā",
+        "type": "Popularates"
+    },
+    "LY-SR": {
+        "code": "LY-SR",
+        "name": "Surt",
+        "type": "Popularates"
+    },
+    "LY-TB": {
+        "code": "LY-TB",
+        "name": "Ţarābulus",
+        "type": "Popularates"
+    },
+    "LY-WA": {
+        "code": "LY-WA",
+        "name": "Al Wāḩāt",
+        "type": "Popularates"
+    },
+    "LY-WD": {
+        "code": "LY-WD",
+        "name": "Wādī al Ḩayāt",
+        "type": "Popularates"
+    },
+    "LY-WS": {
+        "code": "LY-WS",
+        "name": "Wādī ash Shāţiʾ",
+        "type": "Popularates"
+    },
+    "LY-ZA": {
+        "code": "LY-ZA",
+        "name": "Az Zāwiyah",
+        "type": "Popularates"
+    }
+}

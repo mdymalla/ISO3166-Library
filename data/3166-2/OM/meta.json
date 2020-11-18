@@ -1,0 +1,47 @@
+{
+    "OM-BA": {
+        "code": "OM-BA",
+        "name": "Al Bāţinah",
+        "type": "Region"
+    },
+    "OM-BU": {
+        "code": "OM-BU",
+        "name": "Al Buraymī",
+        "type": "Governorate"
+    },
+    "OM-DA": {
+        "code": "OM-DA",
+        "name": "Ad Dākhilīya",
+        "type": "Region"
+    },
+    "OM-MA": {
+        "code": "OM-MA",
+        "name": "Masqaţ",
+        "type": "Governorate"
+    },
+    "OM-MU": {
+        "code": "OM-MU",
+        "name": "Musandam",
+        "type": "Governorate"
+    },
+    "OM-SH": {
+        "code": "OM-SH",
+        "name": "Ash Sharqīyah",
+        "type": "Region"
+    },
+    "OM-WU": {
+        "code": "OM-WU",
+        "name": "Al Wusţá",
+        "type": "Region"
+    },
+    "OM-ZA": {
+        "code": "OM-ZA",
+        "name": "Az̧ Z̧āhirah",
+        "type": "Region"
+    },
+    "OM-ZU": {
+        "code": "OM-ZU",
+        "name": "Z̧ufār",
+        "type": "Governorate"
+    }
+}

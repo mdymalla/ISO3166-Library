@@ -1,0 +1,117 @@
+{
+    "TW-CHA": {
+        "code": "TW-CHA",
+        "name": "Changhua",
+        "type": "District"
+    },
+    "TW-CYI": {
+        "code": "TW-CYI",
+        "name": "Chiay City",
+        "type": "Municipality"
+    },
+    "TW-CYQ": {
+        "code": "TW-CYQ",
+        "name": "Chiayi",
+        "type": "District"
+    },
+    "TW-HSQ": {
+        "code": "TW-HSQ",
+        "name": "Hsinchu",
+        "type": "District"
+    },
+    "TW-HSZ": {
+        "code": "TW-HSZ",
+        "name": "Hsinchui City",
+        "type": "Municipality"
+    },
+    "TW-HUA": {
+        "code": "TW-HUA",
+        "name": "Hualien",
+        "type": "District"
+    },
+    "TW-ILA": {
+        "code": "TW-ILA",
+        "name": "Ilan",
+        "type": "District"
+    },
+    "TW-KEE": {
+        "code": "TW-KEE",
+        "name": "Keelung City",
+        "type": "Municipality"
+    },
+    "TW-KHH": {
+        "code": "TW-KHH",
+        "name": "Kaohsiung City",
+        "type": "Special Municipality"
+    },
+    "TW-KHQ": {
+        "code": "TW-KHQ",
+        "name": "Kaohsiung",
+        "type": "District"
+    },
+    "TW-MIA": {
+        "code": "TW-MIA",
+        "name": "Miaoli",
+        "type": "District"
+    },
+    "TW-NAN": {
+        "code": "TW-NAN",
+        "name": "Nantou",
+        "type": "District"
+    },
+    "TW-PEN": {
+        "code": "TW-PEN",
+        "name": "Penghu",
+        "type": "District"
+    },
+    "TW-PIF": {
+        "code": "TW-PIF",
+        "name": "Pingtung",
+        "type": "District"
+    },
+    "TW-TAO": {
+        "code": "TW-TAO",
+        "name": "Taoyuan",
+        "type": "District"
+    },
+    "TW-TNN": {
+        "code": "TW-TNN",
+        "name": "Tainan City",
+        "type": "Municipality"
+    },
+    "TW-TNQ": {
+        "code": "TW-TNQ",
+        "name": "Tainan",
+        "type": "District"
+    },
+    "TW-TPE": {
+        "code": "TW-TPE",
+        "name": "Taipei City",
+        "type": "Special Municipality"
+    },
+    "TW-TPQ": {
+        "code": "TW-TPQ",
+        "name": "Taipei",
+        "type": "District"
+    },
+    "TW-TTT": {
+        "code": "TW-TTT",
+        "name": "Taitung",
+        "type": "District"
+    },
+    "TW-TXG": {
+        "code": "TW-TXG",
+        "name": "Taichung City",
+        "type": "Municipality"
+    },
+    "TW-TXQ": {
+        "code": "TW-TXQ",
+        "name": "Taichung",
+        "type": "District"
+    },
+    "TW-YUN": {
+        "code": "TW-YUN",
+        "name": "Yunlin",
+        "type": "District"
+    }
+}

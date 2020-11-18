@@ -1,0 +1,52 @@
+{
+    "GH-AA": {
+        "code": "GH-AA",
+        "name": "Greater Accra",
+        "type": "Region"
+    },
+    "GH-AH": {
+        "code": "GH-AH",
+        "name": "Ashanti",
+        "type": "Region"
+    },
+    "GH-BA": {
+        "code": "GH-BA",
+        "name": "Brong-Ahafo",
+        "type": "Region"
+    },
+    "GH-CP": {
+        "code": "GH-CP",
+        "name": "Central",
+        "type": "Region"
+    },
+    "GH-EP": {
+        "code": "GH-EP",
+        "name": "Eastern",
+        "type": "Region"
+    },
+    "GH-NP": {
+        "code": "GH-NP",
+        "name": "Northern",
+        "type": "Region"
+    },
+    "GH-TV": {
+        "code": "GH-TV",
+        "name": "Volta",
+        "type": "Region"
+    },
+    "GH-UE": {
+        "code": "GH-UE",
+        "name": "Upper East",
+        "type": "Region"
+    },
+    "GH-UW": {
+        "code": "GH-UW",
+        "name": "Upper West",
+        "type": "Region"
+    },
+    "GH-WP": {
+        "code": "GH-WP",
+        "name": "Western",
+        "type": "Region"
+    }
+}

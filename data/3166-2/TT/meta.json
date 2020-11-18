@@ -1,0 +1,82 @@
+{
+    "TT-ARI": {
+        "code": "TT-ARI",
+        "name": "Arima",
+        "type": "Borough"
+    },
+    "TT-CHA": {
+        "code": "TT-CHA",
+        "name": "Chaguanas",
+        "type": "Borough"
+    },
+    "TT-CTT": {
+        "code": "TT-CTT",
+        "name": "Couva-Tabaquite-Talparo",
+        "type": "Region"
+    },
+    "TT-DMN": {
+        "code": "TT-DMN",
+        "name": "Diego Martin",
+        "type": "Region"
+    },
+    "TT-ETO": {
+        "code": "TT-ETO",
+        "name": "Eastern Tobago",
+        "type": "Region"
+    },
+    "TT-PED": {
+        "code": "TT-PED",
+        "name": "Penal-Debe",
+        "type": "Region"
+    },
+    "TT-POS": {
+        "code": "TT-POS",
+        "name": "Port of Spain",
+        "type": "City"
+    },
+    "TT-PRT": {
+        "code": "TT-PRT",
+        "name": "Princes Town",
+        "type": "Region"
+    },
+    "TT-PTF": {
+        "code": "TT-PTF",
+        "name": "Point Fortin",
+        "type": "Borough"
+    },
+    "TT-RCM": {
+        "code": "TT-RCM",
+        "name": "Rio Claro-Mayaro",
+        "type": "Region"
+    },
+    "TT-SFO": {
+        "code": "TT-SFO",
+        "name": "San Fernando",
+        "type": "City"
+    },
+    "TT-SGE": {
+        "code": "TT-SGE",
+        "name": "Sangre Grande",
+        "type": "Region"
+    },
+    "TT-SIP": {
+        "code": "TT-SIP",
+        "name": "Siparia",
+        "type": "Region"
+    },
+    "TT-SJL": {
+        "code": "TT-SJL",
+        "name": "San Juan-Laventille",
+        "type": "Region"
+    },
+    "TT-TUP": {
+        "code": "TT-TUP",
+        "name": "Tunapuna-Piarco",
+        "type": "Region"
+    },
+    "TT-WTO": {
+        "code": "TT-WTO",
+        "name": "Western Tobago",
+        "type": "Region"
+    }
+}

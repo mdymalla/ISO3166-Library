@@ -1,0 +1,72 @@
+{
+    "SY-DI": {
+        "code": "SY-DI",
+        "name": "Dimashq",
+        "type": "Governorate"
+    },
+    "SY-DR": {
+        "code": "SY-DR",
+        "name": "Dar'a",
+        "type": "Governorate"
+    },
+    "SY-DY": {
+        "code": "SY-DY",
+        "name": "Dayr az Zawr",
+        "type": "Governorate"
+    },
+    "SY-HA": {
+        "code": "SY-HA",
+        "name": "Al Hasakah",
+        "type": "Governorate"
+    },
+    "SY-HI": {
+        "code": "SY-HI",
+        "name": "Homs",
+        "type": "Governorate"
+    },
+    "SY-HL": {
+        "code": "SY-HL",
+        "name": "Halab",
+        "type": "Governorate"
+    },
+    "SY-HM": {
+        "code": "SY-HM",
+        "name": "Hamah",
+        "type": "Governorate"
+    },
+    "SY-ID": {
+        "code": "SY-ID",
+        "name": "Idlib",
+        "type": "Governorate"
+    },
+    "SY-LA": {
+        "code": "SY-LA",
+        "name": "Al Ladhiqiyah",
+        "type": "Governorate"
+    },
+    "SY-QU": {
+        "code": "SY-QU",
+        "name": "Al Qunaytirah",
+        "type": "Governorate"
+    },
+    "SY-RA": {
+        "code": "SY-RA",
+        "name": "Ar Raqqah",
+        "type": "Governorate"
+    },
+    "SY-RD": {
+        "code": "SY-RD",
+        "name": "Rif Dimashq",
+        "type": "Governorate"
+    },
+    "SY-SU": {
+        "code": "SY-SU",
+        "name": "As Suwayda'",
+        "type": "Governorate"
+    },
+    "SY-TA": {
+        "code": "SY-TA",
+        "name": "Tartus",
+        "type": "Governorate"
+    }
+}

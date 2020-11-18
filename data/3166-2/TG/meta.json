@@ -1,0 +1,27 @@
+{
+    "TG-C": {
+        "code": "TG-C",
+        "name": "Région du Centre",
+        "type": "Region"
+    },
+    "TG-K": {
+        "code": "TG-K",
+        "name": "Région de la Kara",
+        "type": "Region"
+    },
+    "TG-M": {
+        "code": "TG-M",
+        "name": "Région Maritime",
+        "type": "Region"
+    },
+    "TG-P": {
+        "code": "TG-P",
+        "name": "Région des Plateaux",
+        "type": "Region"
+    },
+    "TG-S": {
+        "code": "TG-S",
+        "name": "Région des Savannes",
+        "type": "Region"
+    }
+}

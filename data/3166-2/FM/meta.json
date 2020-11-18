@@ -1,0 +1,22 @@
+{
+    "FM-KSA": {
+        "code": "FM-KSA",
+        "name": "Kosrae",
+        "type": "State"
+    },
+    "FM-PNI": {
+        "code": "FM-PNI",
+        "name": "Pohnpei",
+        "type": "State"
+    },
+    "FM-TRK": {
+        "code": "FM-TRK",
+        "name": "Chuuk",
+        "type": "State"
+    },
+    "FM-YAP": {
+        "code": "FM-YAP",
+        "name": "Yap",
+        "type": "State"
+    }
+}

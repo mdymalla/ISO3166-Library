@@ -1,0 +1,42 @@
+{
+    "LB-AK": {
+        "code": "LB-AK",
+        "name": "Aakkâr",
+        "type": "Governorate"
+    },
+    "LB-AS": {
+        "code": "LB-AS",
+        "name": "Liban-Nord",
+        "type": "Governorate"
+    },
+    "LB-BA": {
+        "code": "LB-BA",
+        "name": "Beyrouth",
+        "type": "Governorate"
+    },
+    "LB-BH": {
+        "code": "LB-BH",
+        "name": "Baalbek-Hermel",
+        "type": "Governorate"
+    },
+    "LB-BI": {
+        "code": "LB-BI",
+        "name": "Béqaa",
+        "type": "Governorate"
+    },
+    "LB-JA": {
+        "code": "LB-JA",
+        "name": "Liban-Sud",
+        "type": "Governorate"
+    },
+    "LB-JL": {
+        "code": "LB-JL",
+        "name": "Mont-Liban",
+        "type": "Governorate"
+    },
+    "LB-NA": {
+        "code": "LB-NA",
+        "name": "Nabatîyé",
+        "type": "Governorate"
+    }
+}

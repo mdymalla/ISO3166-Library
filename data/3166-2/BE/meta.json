@@ -1,0 +1,77 @@
+{
+    "BE-BRU": {
+        "code": "BE-BRU",
+        "name": "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest",
+        "type": "Region"
+    },
+    "BE-VAN": {
+        "code": "BE-VAN",
+        "name": "Antwerpen",
+        "type": "Province",
+        "parent": "VLG"
+    },
+    "BE-VBR": {
+        "code": "BE-VBR",
+        "name": "Vlaams-Brabant",
+        "type": "Province",
+        "parent": "VLG"
+    },
+    "BE-VLG": {
+        "code": "BE-VLG",
+        "name": "Vlaams Gewest",
+        "type": "Region"
+    },
+    "BE-VLI": {
+        "code": "BE-VLI",
+        "name": "Limburg",
+        "type": "Province",
+        "parent": "VLG"
+    },
+    "BE-VOV": {
+        "code": "BE-VOV",
+        "name": "Oost-Vlaanderen",
+        "type": "Province",
+        "parent": "VLG"
+    },
+    "BE-VWV": {
+        "code": "BE-VWV",
+        "name": "West-Vlaanderen",
+        "type": "Province",
+        "parent": "VLG"
+    },
+    "BE-WAL": {
+        "code": "BE-WAL",
+        "name": "wallonne, Région",
+        "type": "Region"
+    },
+    "BE-WBR": {
+        "code": "BE-WBR",
+        "name": "Brabant wallon",
+        "type": "Province",
+        "parent": "WAL"
+    },
+    "BE-WHT": {
+        "code": "BE-WHT",
+        "name": "Hainaut",
+        "type": "Province",
+        "parent": "WAL"
+    },
+    "BE-WLG": {
+        "code": "BE-WLG",
+        "name": "Liège",
+        "type": "Province",
+        "parent": "WAL"
+    },
+    "BE-WLX": {
+        "code": "BE-WLX",
+        "name": "Luxembourg",
+        "type": "Province",
+        "parent": "WAL"
+    },
+    "BE-WNA": {
+        "code": "BE-WNA",
+        "name": "Namur",
+        "type": "Province",
+        "parent": "WAL"
+    }
+}

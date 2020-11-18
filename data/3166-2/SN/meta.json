@@ -1,0 +1,72 @@
+{
+    "SN-DB": {
+        "code": "SN-DB",
+        "name": "Diourbel",
+        "type": "Region"
+    },
+    "SN-DK": {
+        "code": "SN-DK",
+        "name": "Dakar",
+        "type": "Region"
+    },
+    "SN-FK": {
+        "code": "SN-FK",
+        "name": "Fatick",
+        "type": "Region"
+    },
+    "SN-KA": {
+        "code": "SN-KA",
+        "name": "Kaffrine",
+        "type": "Region"
+    },
+    "SN-KD": {
+        "code": "SN-KD",
+        "name": "Kolda",
+        "type": "Region"
+    },
+    "SN-KE": {
+        "code": "SN-KE",
+        "name": "Kédougou",
+        "type": "Region"
+    },
+    "SN-KL": {
+        "code": "SN-KL",
+        "name": "Kaolack",
+        "type": "Region"
+    },
+    "SN-LG": {
+        "code": "SN-LG",
+        "name": "Louga",
+        "type": "Region"
+    },
+    "SN-MT": {
+        "code": "SN-MT",
+        "name": "Matam",
+        "type": "Region"
+    },
+    "SN-SE": {
+        "code": "SN-SE",
+        "name": "Sédhiou",
+        "type": "Region"
+    },
+    "SN-SL": {
+        "code": "SN-SL",
+        "name": "Saint-Louis",
+        "type": "Region"
+    },
+    "SN-TC": {
+        "code": "SN-TC",
+        "name": "Tambacounda",
+        "type": "Region"
+    },
+    "SN-TH": {
+        "code": "SN-TH",
+        "name": "Thiès",
+        "type": "Region"
+    },
+    "SN-ZG": {
+        "code": "SN-ZG",
+        "name": "Ziguinchor",
+        "type": "Region"
+    }
+}

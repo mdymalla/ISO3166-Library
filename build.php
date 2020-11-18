@@ -3,14 +3,14 @@
 require 'vendor/autoload.php';
 
 use CharlesRumley\PoToJson;
-
-require_once("Reader.php");
+use MJDymalla\ISO3166Data\Helper;
+use MJDymalla\ISO3166Data\Normalizer;
 
 echo "Building 3166-1 & 3166-2 data\n\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
+exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
 echo "Complete...\n\n";
 
@@ -22,227 +22,182 @@ if (!file_exists('iso-codes')) {
     echo "Clone complete...\n\n";
 }
 
-echo "Creating initial country objects structure...\n\n";
+/**
+ * @var array $ISOData - will eventually hold all relevant data merged in singular denormalized Country objects by hierarchy
+ *
+ * this singular hierarchy will allow data to be written to files depending on use case
+ */
+$ISOData = [];
 
-if (!file_exists('data')) {
-    mkdir('data');
+/**
+ * @var array $denormalizedCountryMetadata - holds denormalized Model\Country meta data objects
+ */
+$denormalizedCountryMetadata = [];
+
+$countryMetaData = Helper::read(__DIR__.'/iso-codes/data/iso_3166-1.json');
+
+foreach ($countryMetaData["3166-1"] as $country) {
+    $A2 = $country["alpha_2"];
+    $denormalizedCountryMetadata[$A2] = Normalizer\CountryMetaData::denormalize($country);
 }
 
-// Create initial 3166-1 json file to maintain alpha-2, alpha-3, and numeric mapping
-$countries = [];
-
-$decoded = Reader::read('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions/en.json');
-
-foreach ($decoded["Names"] as $key => $value) {
-    $countries[$key] = ['alpha-2' => $key,
-        'alpha-3' => null,
-        'numeric' => null,
-        'name' => $value
-    ];
-}
-
-$decoded = Reader::read('iso-codes/data/iso_3166-1.json');
-
-foreach ($decoded["3166-1"] as $country) {
-    $code = $country["alpha_2"];
-
-    if (array_key_exists($code, $countries)) {
-        $countries[$code]["alpha-3"] = $country["alpha_3"];
-        $countries[$code]["numeric"] = $country["numeric"];
-    }
-}
-
-file_put_contents(__DIR__.'/data/iso3166-1.json', json_encode($countries, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-
-// Create intial 3166-2 json file to maintain type and admin level
-$regions = [];
-
-$decoded = Reader::read('iso-codes/data/iso_3166-2.json');
-
-foreach ($decoded["3166-2"] as $region) {
-    $admin = array_key_exists("parent", $region) ? 2 : 1;
-
-    $regions[$region['code']] = [
-        'name' => $region['name'],
-        'code' => $region['code'],
-        'type' => $region['type'],
-        'administration-level' => $admin
-    ];
-
-    if (array_key_exists("parent", $region)) {
-        $regions[$region['code']]['parent'] = $region['parent'];
-    }
-}
-
-file_put_contents(__DIR__.'/data/iso3166-2.json', json_encode($regions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-
-// Create initial 3166-1 dir with locale based translations
-if (!file_exists("data/3166-1")) {
-    mkdir("data/3166-1");
-}
+/**
+ * @var array $denormalizedCountryTranslations - holds denormalized Country Model\Translation objects
+ */
+$denormalizedCountryTranslations = [];
 
 $path = 'vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/regions';
-$dir = new DirectoryIterator($path);
+$dir = new \DirectoryIterator($path);
 
 foreach ($dir as $file) {
-    if (0 !== strcmp("json", substr(strrchr($file,'.'), 1))) {
+    if ($file->isDot()) {
         continue;
     }
 
-    $name = $file->getFilename();
-    copy($path."/".$name, "data/3166-1/".$name);
-}
+    $locale = basename($path."/".$file->getFilename(), ".json");
+    $translations = Helper::read($path."/".$file->getFilename());
 
-// Create 3166-2 ordering array
-// All locale based po files are built from iso_3166-2.pot file so they all have the same ordering
-// We can create an array to hold what that ordering looks like for mapping region codes to translations
-$ordering = [];
+    $denormalized = Normalizer\CountryTranslation::denormalizeArray($locale, $translations);
 
-$pot = file('iso-codes/iso_3166-2/iso_3166-2.pot');
-
-foreach ($pot as $line) {
-    if (strpos($line, '#. Name for ') === false) {
-        continue;
+    if (null !== $denormalized) {
+        $denormalizedCountryTranslations[$locale] = $denormalized;
     }
+}
 
-    $code = [];
+/**
+ * @var array $denormalizedSubDivisionMetaData - holds denormalized Model\SubDivision meta data objects
+ */
+$denormalizedSubDivisionMetaData = [];
 
-    foreach (explode(" ", $line) as $word) {
-        if (strpos($word, "-") !== false) {
-            $var = str_replace("\n","", $word);
-            $code[] = str_replace(",", "", $var);
-        }
+$subDivisionMetaData = Helper::read('iso-codes/data/iso_3166-2.json');
+
+foreach ($subDivisionMetaData["3166-2"] as $subdivision) {
+    $code = $subdivision["code"];
+    $A2 = substr($code, 0, 2);
+
+    $denormalizedSubDivisionMetaData[$A2][$code] = Normalizer\SubDivisionMetaData::denormalize($subdivision);
+}
+
+/**
+ * @var array $subDivisionNameIndex - holds mapping between iso3166-2 subdivision code and name
+ */
+$subDivisionNameIndex = [];
+
+foreach ($denormalizedSubDivisionMetaData as $country) {
+    foreach ($country as $subdivision) {
+        $subDivisionNameIndex[$subdivision->getCode()] = $subdivision->getName();
     }
-
-    $ordering[] = $code;
 }
 
-echo "Creating 3166-2 locale based translaions...";
+echo "Creating 3166-2 locale based translations, might take awhile...";
 
-// Create initial 3166-2 dir with locale based translations
-if (!file_exists("data/3166-2")) {
-    mkdir("data/3166-2");
-}
+/**
+ * @var array $denormalizedSubDivisionTranslations - holds denormalized SubDivision Model\Translation objects
+ */
+$denormalizedSubDivisionTranslations = [];
 
 $path = 'iso-codes/iso_3166-2';
-$dir = new DirectoryIterator($path);
+$dir = new \DirectoryIterator($path);
 $poToJson = new PoToJson();
-$subdivisions = [];
 
 foreach ($dir as $file) {
     $type = substr(strrchr($file,'.'), 1);
 
     if (0 === strcmp("po", $type)) {
-        $name = $file->getFilename();
-        $locale = basename($name,".po");
+        $filename = $file->getFilename();
+        $locale = basename($filename,".po");
 
-        $subdivision = [];
-
-        // To maintain ordering of subdivisions we need to initially include both fuzzy translations and empty ones
-        // toRawJson(fuzzy = true)
-        $rawJson = $poToJson->withPoFile($path.'/'.$name)->toRawJson(true);
+        $rawJson = $poToJson->withPoFile($path.'/'.$filename)->toRawJson();
         $translations = json_decode($rawJson, true);
 
-        $i = 0;
-        foreach ($translations as $translation) {
-            if (count($translation) > 2) {
-                continue;
-            }
-
-            if (count($ordering[$i]) > 1) {
-                foreach ($ordering[$i] as $code) {
-                    $subdivision["Names"][$code] = $translation[1];
-                }
-            } else {
-                $subdivision["Names"][$ordering[$i][0]] = $translation[1];
-            }
-
-            $i++;
-        }
-
-        ksort($subdivision["Names"]);
-        $subdivisions[$locale] = $subdivision;
+        $localeBasedTranslations = Normalizer\SubDivisionTranslation::denormalizeArray($locale, $subDivisionNameIndex, $translations);
+        $denormalizedSubDivisionTranslations[$locale] = $localeBasedTranslations;
     }
 }
 
 echo "Complete...\n\n";
-echo "Removing fuzzy, duplicate, and empty translations...";
 
-// Clean locale based data (remove fuzzy translations, duplicates, and empty)
-$path = 'iso-codes/iso_3166-2';
-$dir = new DirectoryIterator($path);
+// Merge denormalized arrays into complete hierarchal structure
+$ISOData = Helper::merge(
+    $denormalizedCountryMetadata,
+    $denormalizedSubDivisionMetaData,
+    $denormalizedCountryTranslations,
+    $denormalizedSubDivisionTranslations
+);
 
-$fuzzy = [];
+echo "Writing files...";
 
-foreach ($dir as $file) {
-    $type = substr(strrchr($file,'.'), 1);
+// Write files
+if (file_exists('data')) {
+    exec('rm -rf data');
+}
 
-    if (0 === strcmp("po", $type)) {
-        $name = $file->getFilename();
-        $locale = basename($name,".po");
-        $contents = file($path.'/'.$name);
+mkdir('data');
 
-        $code = [];
+if (file_exists("data/3166-1")) {
+    exec('rm -rf data/3166-1');
+}
 
-        // All po files follow same structure, if a translation is fuzzy it will be tagged underneath region code
-        // #. Name for AU-QLD
-        // #, fuzzy
-        // if a line provides a region code and the proceeding line is tagged as fuzzy we map the locale to that region
-        // so it can be removed from dataset
-        for ($i = 0; $i < count($contents); $i++) {
-            if (strpos($contents[$i], "#. Name for ") !== false && strpos($contents[$i + 1], "fuzzy") !== false) {
-                foreach (explode(" ", $contents[$i]) as $word) {
-                    if (strpos($word, "-") !== false) {
-                        $var = str_replace("\n","", $word);
-                        $code[] = str_replace(",", "", $var);
-                    }
-                }
-            }
-        }
+mkdir('data/3166-1');
 
-        if (!empty($code)) {
-            $fuzzy[$locale] = $code;
-        }
+if (file_exists("data/3166-2")) {
+    exec('rm -rf data/3166-2');
+}
+
+mkdir('data/3166-2');
+
+// Write Country meta data to single file
+$normalizedCountryMetaData = [];
+
+foreach ($denormalizedCountryMetadata as $A2 => $country) {
+    $normalizedCountryMetaData[$A2] = Normalizer\CountryMetaData::normalize($country);
+}
+
+ksort($normalizedCountryMetaData);
+
+file_put_contents(__DIR__."/data/3166-1/meta.json", json_encode($normalizedCountryMetaData, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+
+// Write SubDivision meta data to country separated files
+foreach ($denormalizedSubDivisionMetaData as $A2 => $subdivisions) {
+    $normalizedSubDivisions = [];
+
+    mkdir("data/3166-2/$A2");
+
+    foreach ($subdivisions as $subdivision) {
+        $normalizedSubDivisions[$subdivision->getCode()] = Normalizer\SubDivisionMetaData::normalize($subdivision);
+    }
+
+    file_put_contents(__DIR__."/data/3166-2/$A2/meta.json", json_encode($normalizedSubDivisions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+}
+
+// Write Country translations to locale separated files
+foreach ($denormalizedCountryTranslations as $locale => $translations) {
+    $normalizedCountryTranslations = [];
+
+    foreach ($translations as $translation) {
+        $normalizedCountryTranslations[$translation->getCode()] = Normalizer\CountryTranslation::normalize($translation);
+    }
+
+    file_put_contents(__DIR__."/data/3166-1/$locale.json", json_encode($normalizedCountryTranslations, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+}
+
+// Write SubDivision translations to country and locale separated files
+$normalizedSubDivisionTranslations = [];
+
+foreach ($denormalizedSubDivisionTranslations as $locale => $translations) {
+    foreach ($translations as $translation) {
+        $A2 = substr($translation->getCode(), 0 , 2);
+
+        $normalizedSubDivisionTranslations[$A2][$locale][$translation->getCode()] = Normalizer\CountryTranslation::normalize($translation);
     }
 }
 
-$path = 'data/3166-2';
-$dir = new DirectoryIterator($path);
-
-foreach ($subdivisions as $locale => $subdivision) {
-    foreach ($subdivision["Names"] as $code => $translation) {
-        if (empty($translation) || 0 === strcmp($regions[$code]["name"], $translation)) {
-            // remove empty translation or translation that is the same as default
-            unset($subdivision["Names"][$code]);
-        } elseif (array_key_exists($locale, $fuzzy) && in_array($code, $fuzzy[$locale])) {
-            // remove translation that is found to be fuzzy
-            unset($subdivision["Names"][$code]);
-        }
+foreach ($normalizedSubDivisionTranslations as $A2 => $localeSeparated) {
+    foreach ($localeSeparated as $locale => $translations) {
+        file_put_contents(__DIR__."/data/3166-2/$A2/$locale.json", json_encode($translations, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     }
-
-    $encoded = json_encode($subdivision, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    file_put_contents('data/3166-2/'.$locale.'.json', $encoded);
 }
 
 echo "Complete...\n\n";
-
-// Create locale mapping file
-$decoded = Reader::read('vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/data/locales/en.json');
-
-$locales = [];
-
-foreach ($decoded["Names"] as $locale => $name) {
-    if (strlen($locale) === 2) {
-        $locales[$locale] = [];
-    } else {
-        $parent = substr($locale, 0, 2);
-
-        if (array_key_exists($parent, $locales)) {
-            $locales[$parent][] = $locale;
-        }
-    }
-}
-
-file_put_contents(__DIR__.'/data/locales.json', json_encode($locales, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 
 echo "Build finished\n";

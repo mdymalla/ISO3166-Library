@@ -1,0 +1,87 @@
+{
+    "NI-AN": {
+        "code": "NI-AN",
+        "name": "Atlántico Norte",
+        "type": "Autonomous Region"
+    },
+    "NI-AS": {
+        "code": "NI-AS",
+        "name": "Atlántico Sur",
+        "type": "Autonomous Region"
+    },
+    "NI-BO": {
+        "code": "NI-BO",
+        "name": "Boaco",
+        "type": "Department"
+    },
+    "NI-CA": {
+        "code": "NI-CA",
+        "name": "Carazo",
+        "type": "Department"
+    },
+    "NI-CI": {
+        "code": "NI-CI",
+        "name": "Chinandega",
+        "type": "Department"
+    },
+    "NI-CO": {
+        "code": "NI-CO",
+        "name": "Chontales",
+        "type": "Department"
+    },
+    "NI-ES": {
+        "code": "NI-ES",
+        "name": "Estelí",
+        "type": "Department"
+    },
+    "NI-GR": {
+        "code": "NI-GR",
+        "name": "Granada",
+        "type": "Department"
+    },
+    "NI-JI": {
+        "code": "NI-JI",
+        "name": "Jinotega",
+        "type": "Department"
+    },
+    "NI-LE": {
+        "code": "NI-LE",
+        "name": "León",
+        "type": "Department"
+    },
+    "NI-MD": {
+        "code": "NI-MD",
+        "name": "Madriz",
+        "type": "Department"
+    },
+    "NI-MN": {
+        "code": "NI-MN",
+        "name": "Managua",
+        "type": "Department"
+    },
+    "NI-MS": {
+        "code": "NI-MS",
+        "name": "Masaya",
+        "type": "Department"
+    },
+    "NI-MT": {
+        "code": "NI-MT",
+        "name": "Matagalpa",
+        "type": "Department"
+    },
+    "NI-NS": {
+        "code": "NI-NS",
+        "name": "Nueva Segovia",
+        "type": "Department"
+    },
+    "NI-RI": {
+        "code": "NI-RI",
+        "name": "Rivas",
+        "type": "Department"
+    },
+    "NI-SJ": {
+        "code": "NI-SJ",
+        "name": "Río San Juan",
+        "type": "Department"
+    }
+}

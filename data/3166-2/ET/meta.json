@@ -1,0 +1,57 @@
+{
+    "ET-AA": {
+        "code": "ET-AA",
+        "name": "Ādīs Ābeba",
+        "type": "Administration"
+    },
+    "ET-AF": {
+        "code": "ET-AF",
+        "name": "Āfar",
+        "type": "State"
+    },
+    "ET-AM": {
+        "code": "ET-AM",
+        "name": "Āmara",
+        "type": "State"
+    },
+    "ET-BE": {
+        "code": "ET-BE",
+        "name": "Bīnshangul Gumuz",
+        "type": "State"
+    },
+    "ET-DD": {
+        "code": "ET-DD",
+        "name": "Dirē Dawa",
+        "type": "Administration"
+    },
+    "ET-GA": {
+        "code": "ET-GA",
+        "name": "Gambēla Hizboch",
+        "type": "State"
+    },
+    "ET-HA": {
+        "code": "ET-HA",
+        "name": "Hārerī Hizb",
+        "type": "State"
+    },
+    "ET-OR": {
+        "code": "ET-OR",
+        "name": "Oromīya",
+        "type": "State"
+    },
+    "ET-SN": {
+        "code": "ET-SN",
+        "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+        "type": "State"
+    },
+    "ET-SO": {
+        "code": "ET-SO",
+        "name": "Sumalē",
+        "type": "State"
+    },
+    "ET-TI": {
+        "code": "ET-TI",
+        "name": "Tigray",
+        "type": "State"
+    }
+}

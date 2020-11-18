@@ -1,0 +1,102 @@
+{
+    "PG-CPK": {
+        "code": "PG-CPK",
+        "name": "Chimbu",
+        "type": "Province"
+    },
+    "PG-CPM": {
+        "code": "PG-CPM",
+        "name": "Central",
+        "type": "Province"
+    },
+    "PG-EBR": {
+        "code": "PG-EBR",
+        "name": "East New Britain",
+        "type": "Province"
+    },
+    "PG-EHG": {
+        "code": "PG-EHG",
+        "name": "Eastern Highlands",
+        "type": "Province"
+    },
+    "PG-EPW": {
+        "code": "PG-EPW",
+        "name": "Enga",
+        "type": "Province"
+    },
+    "PG-ESW": {
+        "code": "PG-ESW",
+        "name": "East Sepik",
+        "type": "Province"
+    },
+    "PG-GPK": {
+        "code": "PG-GPK",
+        "name": "Gulf",
+        "type": "Province"
+    },
+    "PG-MBA": {
+        "code": "PG-MBA",
+        "name": "Milne Bay",
+        "type": "Province"
+    },
+    "PG-MPL": {
+        "code": "PG-MPL",
+        "name": "Morobe",
+        "type": "Province"
+    },
+    "PG-MPM": {
+        "code": "PG-MPM",
+        "name": "Madang",
+        "type": "Province"
+    },
+    "PG-MRL": {
+        "code": "PG-MRL",
+        "name": "Manus",
+        "type": "Province"
+    },
+    "PG-NCD": {
+        "code": "PG-NCD",
+        "name": "National Capital District (Port Moresby)",
+        "type": "District"
+    },
+    "PG-NIK": {
+        "code": "PG-NIK",
+        "name": "New Ireland",
+        "type": "Province"
+    },
+    "PG-NPP": {
+        "code": "PG-NPP",
+        "name": "Northern",
+        "type": "Province"
+    },
+    "PG-NSB": {
+        "code": "PG-NSB",
+        "name": "Bougainville",
+        "type": "Autonomous region"
+    },
+    "PG-SAN": {
+        "code": "PG-SAN",
+        "name": "Sandaun",
+        "type": "Province"
+    },
+    "PG-SHM": {
+        "code": "PG-SHM",
+        "name": "Southern Highlands",
+        "type": "Province"
+    },
+    "PG-WBK": {
+        "code": "PG-WBK",
+        "name": "West New Britain",
+        "type": "Province"
+    },
+    "PG-WHM": {
+        "code": "PG-WHM",
+        "name": "Western Highlands",
+        "type": "Province"
+    },
+    "PG-WPD": {
+        "code": "PG-WPD",
+        "name": "Western",
+        "type": "Province"
+    }
+}

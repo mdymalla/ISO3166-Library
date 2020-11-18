@@ -1,0 +1,57 @@
+{
+    "WS-AA": {
+        "code": "WS-AA",
+        "name": "A'ana",
+        "type": "District"
+    },
+    "WS-AL": {
+        "code": "WS-AL",
+        "name": "Aiga-i-le-Tai",
+        "type": "District"
+    },
+    "WS-AT": {
+        "code": "WS-AT",
+        "name": "Atua",
+        "type": "District"
+    },
+    "WS-FA": {
+        "code": "WS-FA",
+        "name": "Fa'asaleleaga",
+        "type": "District"
+    },
+    "WS-GE": {
+        "code": "WS-GE",
+        "name": "Gaga'emauga",
+        "type": "District"
+    },
+    "WS-GI": {
+        "code": "WS-GI",
+        "name": "Gagaifomauga",
+        "type": "District"
+    },
+    "WS-PA": {
+        "code": "WS-PA",
+        "name": "Palauli",
+        "type": "District"
+    },
+    "WS-SA": {
+        "code": "WS-SA",
+        "name": "Satupa'itea",
+        "type": "District"
+    },
+    "WS-TU": {
+        "code": "WS-TU",
+        "name": "Tuamasaga",
+        "type": "District"
+    },
+    "WS-VF": {
+        "code": "WS-VF",
+        "name": "Va'a-o-Fonoti",
+        "type": "District"
+    },
+    "WS-VS": {
+        "code": "WS-VS",
+        "name": "Vaisigano",
+        "type": "District"
+    }
+}

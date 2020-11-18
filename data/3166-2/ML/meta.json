@@ -1,0 +1,47 @@
+{
+    "ML-1": {
+        "code": "ML-1",
+        "name": "Kayes",
+        "type": "Region"
+    },
+    "ML-2": {
+        "code": "ML-2",
+        "name": "Koulikoro",
+        "type": "Region"
+    },
+    "ML-3": {
+        "code": "ML-3",
+        "name": "Sikasso",
+        "type": "Region"
+    },
+    "ML-4": {
+        "code": "ML-4",
+        "name": "Ségou",
+        "type": "Region"
+    },
+    "ML-5": {
+        "code": "ML-5",
+        "name": "Mopti",
+        "type": "Region"
+    },
+    "ML-6": {
+        "code": "ML-6",
+        "name": "Tombouctou",
+        "type": "Region"
+    },
+    "ML-7": {
+        "code": "ML-7",
+        "name": "Gao",
+        "type": "Region"
+    },
+    "ML-8": {
+        "code": "ML-8",
+        "name": "Kidal",
+        "type": "Region"
+    },
+    "ML-BK0": {
+        "code": "ML-BK0",
+        "name": "Bamako",
+        "type": "District"
+    }
+}

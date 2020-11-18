@@ -1,0 +1,82 @@
+{
+    "MY-01": {
+        "code": "MY-01",
+        "name": "Johor",
+        "type": "State"
+    },
+    "MY-02": {
+        "code": "MY-02",
+        "name": "Kedah",
+        "type": "State"
+    },
+    "MY-03": {
+        "code": "MY-03",
+        "name": "Kelantan",
+        "type": "State"
+    },
+    "MY-04": {
+        "code": "MY-04",
+        "name": "Melaka",
+        "type": "State"
+    },
+    "MY-05": {
+        "code": "MY-05",
+        "name": "Negeri Sembilan",
+        "type": "State"
+    },
+    "MY-06": {
+        "code": "MY-06",
+        "name": "Pahang",
+        "type": "State"
+    },
+    "MY-07": {
+        "code": "MY-07",
+        "name": "Pulau Pinang",
+        "type": "State"
+    },
+    "MY-08": {
+        "code": "MY-08",
+        "name": "Perak",
+        "type": "State"
+    },
+    "MY-09": {
+        "code": "MY-09",
+        "name": "Perlis",
+        "type": "State"
+    },
+    "MY-10": {
+        "code": "MY-10",
+        "name": "Selangor",
+        "type": "State"
+    },
+    "MY-11": {
+        "code": "MY-11",
+        "name": "Terengganu",
+        "type": "State"
+    },
+    "MY-12": {
+        "code": "MY-12",
+        "name": "Sabah",
+        "type": "State"
+    },
+    "MY-13": {
+        "code": "MY-13",
+        "name": "Sarawak",
+        "type": "State"
+    },
+    "MY-14": {
+        "code": "MY-14",
+        "name": "Wilayah Persekutuan Kuala Lumpur",
+        "type": "Federal Territories"
+    },
+    "MY-15": {
+        "code": "MY-15",
+        "name": "Wilayah Persekutuan Labuan",
+        "type": "Federal Territories"
+    },
+    "MY-16": {
+        "code": "MY-16",
+        "name": "Wilayah Persekutuan Putrajaya",
+        "type": "Federal Territories"
+    }
+}

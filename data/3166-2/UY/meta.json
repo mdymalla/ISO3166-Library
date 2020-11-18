@@ -1,0 +1,97 @@
+{
+    "UY-AR": {
+        "code": "UY-AR",
+        "name": "Artigas",
+        "type": "Department"
+    },
+    "UY-CA": {
+        "code": "UY-CA",
+        "name": "Canelones",
+        "type": "Department"
+    },
+    "UY-CL": {
+        "code": "UY-CL",
+        "name": "Cerro Largo",
+        "type": "Department"
+    },
+    "UY-CO": {
+        "code": "UY-CO",
+        "name": "Colonia",
+        "type": "Department"
+    },
+    "UY-DU": {
+        "code": "UY-DU",
+        "name": "Durazno",
+        "type": "Department"
+    },
+    "UY-FD": {
+        "code": "UY-FD",
+        "name": "Florida",
+        "type": "Department"
+    },
+    "UY-FS": {
+        "code": "UY-FS",
+        "name": "Flores",
+        "type": "Department"
+    },
+    "UY-LA": {
+        "code": "UY-LA",
+        "name": "Lavalleja",
+        "type": "Department"
+    },
+    "UY-MA": {
+        "code": "UY-MA",
+        "name": "Maldonado",
+        "type": "Department"
+    },
+    "UY-MO": {
+        "code": "UY-MO",
+        "name": "Montevideo",
+        "type": "Department"
+    },
+    "UY-PA": {
+        "code": "UY-PA",
+        "name": "Paysandú",
+        "type": "Department"
+    },
+    "UY-RN": {
+        "code": "UY-RN",
+        "name": "Río Negro",
+        "type": "Department"
+    },
+    "UY-RO": {
+        "code": "UY-RO",
+        "name": "Rocha",
+        "type": "Department"
+    },
+    "UY-RV": {
+        "code": "UY-RV",
+        "name": "Rivera",
+        "type": "Department"
+    },
+    "UY-SA": {
+        "code": "UY-SA",
+        "name": "Salto",
+        "type": "Department"
+    },
+    "UY-SJ": {
+        "code": "UY-SJ",
+        "name": "San José",
+        "type": "Department"
+    },
+    "UY-SO": {
+        "code": "UY-SO",
+        "name": "Soriano",
+        "type": "Department"
+    },
+    "UY-TA": {
+        "code": "UY-TA",
+        "name": "Tacuarembó",
+        "type": "Department"
+    },
+    "UY-TT": {
+        "code": "UY-TT",
+        "name": "Treinta y Tres",
+        "type": "Department"
+    }
+}

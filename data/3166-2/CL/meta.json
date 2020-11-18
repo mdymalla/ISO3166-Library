@@ -1,0 +1,77 @@
+{
+    "CL-AI": {
+        "code": "CL-AI",
+        "name": "Aisén del General Carlos Ibáñez del Campo",
+        "type": "Region"
+    },
+    "CL-AN": {
+        "code": "CL-AN",
+        "name": "Antofagasta",
+        "type": "Region"
+    },
+    "CL-AP": {
+        "code": "CL-AP",
+        "name": "Arica y Parinacota",
+        "type": "Region"
+    },
+    "CL-AR": {
+        "code": "CL-AR",
+        "name": "Araucanía",
+        "type": "Region"
+    },
+    "CL-AT": {
+        "code": "CL-AT",
+        "name": "Atacama",
+        "type": "Region"
+    },
+    "CL-BI": {
+        "code": "CL-BI",
+        "name": "Bío-Bío",
+        "type": "Region"
+    },
+    "CL-CO": {
+        "code": "CL-CO",
+        "name": "Coquimbo",
+        "type": "Region"
+    },
+    "CL-LI": {
+        "code": "CL-LI",
+        "name": "Libertador General Bernardo O'Higgins",
+        "type": "Region"
+    },
+    "CL-LL": {
+        "code": "CL-LL",
+        "name": "Los Lagos",
+        "type": "Region"
+    },
+    "CL-LR": {
+        "code": "CL-LR",
+        "name": "Los Ríos",
+        "type": "Region"
+    },
+    "CL-MA": {
+        "code": "CL-MA",
+        "name": "Magallanes y Antártica Chilena",
+        "type": "Region"
+    },
+    "CL-ML": {
+        "code": "CL-ML",
+        "name": "Maule",
+        "type": "Region"
+    },
+    "CL-RM": {
+        "code": "CL-RM",
+        "name": "Región Metropolitana de Santiago",
+        "type": "Region"
+    },
+    "CL-TA": {
+        "code": "CL-TA",
+        "name": "Tarapacá",
+        "type": "Region"
+    },
+    "CL-VS": {
+        "code": "CL-VS",
+        "name": "Valparaíso",
+        "type": "Region"
+    }
+}

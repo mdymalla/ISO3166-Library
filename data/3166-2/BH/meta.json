@@ -1,0 +1,27 @@
+{
+    "BH-13": {
+        "code": "BH-13",
+        "name": "Al Manāmah (Al ‘Āşimah)",
+        "type": "Governorate"
+    },
+    "BH-14": {
+        "code": "BH-14",
+        "name": "Al Janūbīyah",
+        "type": "Governorate"
+    },
+    "BH-15": {
+        "code": "BH-15",
+        "name": "Al Muḩarraq",
+        "type": "Governorate"
+    },
+    "BH-16": {
+        "code": "BH-16",
+        "name": "Al Wusţá",
+        "type": "Governorate"
+    },
+    "BH-17": {
+        "code": "BH-17",
+        "name": "Ash Shamālīyah",
+        "type": "Governorate"
+    }
+}

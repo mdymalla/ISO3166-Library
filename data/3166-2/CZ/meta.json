@@ -1,0 +1,660 @@
+{
+    "CZ-10": {
+        "code": "CZ-10",
+        "name": "Praha, Hlavní mešto",
+        "type": "capital city"
+    },
+    "CZ-101": {
+        "code": "CZ-101",
+        "name": "Praha 1",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-102": {
+        "code": "CZ-102",
+        "name": "Praha 2",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-103": {
+        "code": "CZ-103",
+        "name": "Praha 3",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-104": {
+        "code": "CZ-104",
+        "name": "Praha 4",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-105": {
+        "code": "CZ-105",
+        "name": "Praha 5",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-106": {
+        "code": "CZ-106",
+        "name": "Praha 6",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-107": {
+        "code": "CZ-107",
+        "name": "Praha 7",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-108": {
+        "code": "CZ-108",
+        "name": "Praha 8",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-109": {
+        "code": "CZ-109",
+        "name": "Praha 9",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-110": {
+        "code": "CZ-110",
+        "name": "Praha 10",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-111": {
+        "code": "CZ-111",
+        "name": "Praha 11",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-112": {
+        "code": "CZ-112",
+        "name": "Praha 12",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-113": {
+        "code": "CZ-113",
+        "name": "Praha 13",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-114": {
+        "code": "CZ-114",
+        "name": "Praha 14",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-115": {
+        "code": "CZ-115",
+        "name": "Praha 15",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-116": {
+        "code": "CZ-116",
+        "name": "Praha 16",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-117": {
+        "code": "CZ-117",
+        "name": "Praha 17",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-118": {
+        "code": "CZ-118",
+        "name": "Praha 18",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-119": {
+        "code": "CZ-119",
+        "name": "Praha 19",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-120": {
+        "code": "CZ-120",
+        "name": "Praha 20",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-121": {
+        "code": "CZ-121",
+        "name": "Praha 21",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-122": {
+        "code": "CZ-122",
+        "name": "Praha 22",
+        "type": "district",
+        "parent": "10"
+    },
+    "CZ-20": {
+        "code": "CZ-20",
+        "name": "Středočeský kraj",
+        "type": "region"
+    },
+    "CZ-201": {
+        "code": "CZ-201",
+        "name": "Benešov",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-202": {
+        "code": "CZ-202",
+        "name": "Beroun",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-203": {
+        "code": "CZ-203",
+        "name": "Kladno",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-204": {
+        "code": "CZ-204",
+        "name": "Kolín",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-205": {
+        "code": "CZ-205",
+        "name": "Kutná Hora",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-206": {
+        "code": "CZ-206",
+        "name": "Mělník",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-207": {
+        "code": "CZ-207",
+        "name": "Mladá Boleslav",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-208": {
+        "code": "CZ-208",
+        "name": "Nymburk",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-209": {
+        "code": "CZ-209",
+        "name": "Praha-východ",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-20A": {
+        "code": "CZ-20A",
+        "name": "Praha-západ",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-20B": {
+        "code": "CZ-20B",
+        "name": "Příbram",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-20C": {
+        "code": "CZ-20C",
+        "name": "Rakovník",
+        "type": "district",
+        "parent": "20"
+    },
+    "CZ-31": {
+        "code": "CZ-31",
+        "name": "Jihočeský kraj",
+        "type": "region"
+    },
+    "CZ-311": {
+        "code": "CZ-311",
+        "name": "České Budějovice",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-312": {
+        "code": "CZ-312",
+        "name": "Český Krumlov",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-313": {
+        "code": "CZ-313",
+        "name": "Jindřichův Hradec",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-314": {
+        "code": "CZ-314",
+        "name": "Písek",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-315": {
+        "code": "CZ-315",
+        "name": "Prachatice",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-316": {
+        "code": "CZ-316",
+        "name": "Strakonice",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-317": {
+        "code": "CZ-317",
+        "name": "Tábor",
+        "type": "district",
+        "parent": "31"
+    },
+    "CZ-32": {
+        "code": "CZ-32",
+        "name": "Plzeňský kraj",
+        "type": "region"
+    },
+    "CZ-321": {
+        "code": "CZ-321",
+        "name": "Domažlice",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-322": {
+        "code": "CZ-322",
+        "name": "Klatovy",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-323": {
+        "code": "CZ-323",
+        "name": "Plzeň-město",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-324": {
+        "code": "CZ-324",
+        "name": "Plzeň-jih",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-325": {
+        "code": "CZ-325",
+        "name": "Plzeň-sever",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-326": {
+        "code": "CZ-326",
+        "name": "Rokycany",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-327": {
+        "code": "CZ-327",
+        "name": "Tachov",
+        "type": "district",
+        "parent": "32"
+    },
+    "CZ-41": {
+        "code": "CZ-41",
+        "name": "Karlovarský kraj",
+        "type": "region"
+    },
+    "CZ-411": {
+        "code": "CZ-411",
+        "name": "Cheb",
+        "type": "district",
+        "parent": "41"
+    },
+    "CZ-412": {
+        "code": "CZ-412",
+        "name": "Karlovy Vary",
+        "type": "district",
+        "parent": "41"
+    },
+    "CZ-413": {
+        "code": "CZ-413",
+        "name": "Sokolov",
+        "type": "district",
+        "parent": "41"
+    },
+    "CZ-42": {
+        "code": "CZ-42",
+        "name": "Ústecký kraj",
+        "type": "region"
+    },
+    "CZ-421": {
+        "code": "CZ-421",
+        "name": "Děčín",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-422": {
+        "code": "CZ-422",
+        "name": "Chomutov",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-423": {
+        "code": "CZ-423",
+        "name": "Litoměřice",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-424": {
+        "code": "CZ-424",
+        "name": "Louny",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-425": {
+        "code": "CZ-425",
+        "name": "Most",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-426": {
+        "code": "CZ-426",
+        "name": "Teplice",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-427": {
+        "code": "CZ-427",
+        "name": "Ústí nad Labem",
+        "type": "district",
+        "parent": "42"
+    },
+    "CZ-51": {
+        "code": "CZ-51",
+        "name": "Liberecký kraj",
+        "type": "region"
+    },
+    "CZ-511": {
+        "code": "CZ-511",
+        "name": "Česká Lípa",
+        "type": "district",
+        "parent": "51"
+    },
+    "CZ-512": {
+        "code": "CZ-512",
+        "name": "Jablonec nad Nisou",
+        "type": "district",
+        "parent": "51"
+    },
+    "CZ-513": {
+        "code": "CZ-513",
+        "name": "Liberec",
+        "type": "district",
+        "parent": "51"
+    },
+    "CZ-514": {
+        "code": "CZ-514",
+        "name": "Semily",
+        "type": "district",
+        "parent": "51"
+    },
+    "CZ-52": {
+        "code": "CZ-52",
+        "name": "Královéhradecký kraj",
+        "type": "region"
+    },
+    "CZ-521": {
+        "code": "CZ-521",
+        "name": "Hradec Králové",
+        "type": "district",
+        "parent": "52"
+    },
+    "CZ-522": {
+        "code": "CZ-522",
+        "name": "Jičín",
+        "type": "district",
+        "parent": "52"
+    },
+    "CZ-523": {
+        "code": "CZ-523",
+        "name": "Náchod",
+        "type": "district",
+        "parent": "52"
+    },
+    "CZ-524": {
+        "code": "CZ-524",
+        "name": "Rychnov nad Kněžnou",
+        "type": "district",
+        "parent": "52"
+    },
+    "CZ-525": {
+        "code": "CZ-525",
+        "name": "Trutnov",
+        "type": "district",
+        "parent": "52"
+    },
+    "CZ-53": {
+        "code": "CZ-53",
+        "name": "Pardubický kraj",
+        "type": "region"
+    },
+    "CZ-531": {
+        "code": "CZ-531",
+        "name": "Chrudim",
+        "type": "district",
+        "parent": "53"
+    },
+    "CZ-532": {
+        "code": "CZ-532",
+        "name": "Pardubice",
+        "type": "district",
+        "parent": "53"
+    },
+    "CZ-533": {
+        "code": "CZ-533",
+        "name": "Svitavy",
+        "type": "district",
+        "parent": "53"
+    },
+    "CZ-534": {
+        "code": "CZ-534",
+        "name": "Ústí nad Orlicí",
+        "type": "district",
+        "parent": "53"
+    },
+    "CZ-63": {
+        "code": "CZ-63",
+        "name": "Kraj Vysočina",
+        "type": "region"
+    },
+    "CZ-631": {
+        "code": "CZ-631",
+        "name": "Havlíčkův Brod",
+        "type": "district",
+        "parent": "63"
+    },
+    "CZ-632": {
+        "code": "CZ-632",
+        "name": "Jihlava",
+        "type": "district",
+        "parent": "63"
+    },
+    "CZ-633": {
+        "code": "CZ-633",
+        "name": "Pelhřimov",
+        "type": "district",
+        "parent": "63"
+    },
+    "CZ-634": {
+        "code": "CZ-634",
+        "name": "Třebíč",
+        "type": "district",
+        "parent": "63"
+    },
+    "CZ-635": {
+        "code": "CZ-635",
+        "name": "Žďár nad Sázavou",
+        "type": "district",
+        "parent": "63"
+    },
+    "CZ-64": {
+        "code": "CZ-64",
+        "name": "Jihomoravský kraj",
+        "type": "region"
+    },
+    "CZ-641": {
+        "code": "CZ-641",
+        "name": "Blansko",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-642": {
+        "code": "CZ-642",
+        "name": "Brno-město",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-643": {
+        "code": "CZ-643",
+        "name": "Brno-venkov",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-644": {
+        "code": "CZ-644",
+        "name": "Břeclav",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-645": {
+        "code": "CZ-645",
+        "name": "Hodonín",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-646": {
+        "code": "CZ-646",
+        "name": "Vyškov",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-647": {
+        "code": "CZ-647",
+        "name": "Znojmo",
+        "type": "district",
+        "parent": "64"
+    },
+    "CZ-71": {
+        "code": "CZ-71",
+        "name": "Olomoucký kraj",
+        "type": "region"
+    },
+    "CZ-711": {
+        "code": "CZ-711",
+        "name": "Jeseník",
+        "type": "district",
+        "parent": "71"
+    },
+    "CZ-712": {
+        "code": "CZ-712",
+        "name": "Olomouc",
+        "type": "district",
+        "parent": "71"
+    },
+    "CZ-713": {
+        "code": "CZ-713",
+        "name": "Prostějov",
+        "type": "district",
+        "parent": "71"
+    },
+    "CZ-714": {
+        "code": "CZ-714",
+        "name": "Přerov",
+        "type": "district",
+        "parent": "71"
+    },
+    "CZ-715": {
+        "code": "CZ-715",
+        "name": "Šumperk",
+        "type": "district",
+        "parent": "71"
+    },
+    "CZ-72": {
+        "code": "CZ-72",
+        "name": "Zlínský kraj",
+        "type": "region"
+    },
+    "CZ-721": {
+        "code": "CZ-721",
+        "name": "Kroměříž",
+        "type": "district",
+        "parent": "72"
+    },
+    "CZ-722": {
+        "code": "CZ-722",
+        "name": "Uherské Hradiště",
+        "type": "district",
+        "parent": "72"
+    },
+    "CZ-723": {
+        "code": "CZ-723",
+        "name": "Vsetín",
+        "type": "district",
+        "parent": "72"
+    },
+    "CZ-724": {
+        "code": "CZ-724",
+        "name": "Zlín",
+        "type": "district",
+        "parent": "72"
+    },
+    "CZ-80": {
+        "code": "CZ-80",
+        "name": "Moravskoslezský kraj",
+        "type": "region"
+    },
+    "CZ-801": {
+        "code": "CZ-801",
+        "name": "Bruntál",
+        "type": "district",
+        "parent": "80"
+    },
+    "CZ-802": {
+        "code": "CZ-802",
+        "name": "Frýdek Místek",
+        "type": "district",
+        "parent": "80"
+    },
+    "CZ-803": {
+        "code": "CZ-803",
+        "name": "Karviná",
+        "type": "district",
+        "parent": "80"
+    },
+    "CZ-804": {
+        "code": "CZ-804",
+        "name": "Nový Jičín",
+        "type": "district",
+        "parent": "80"
+    },
+    "CZ-805": {
+        "code": "CZ-805",
+        "name": "Opava",
+        "type": "district",
+        "parent": "80"
+    },
+    "CZ-806": {
+        "code": "CZ-806",
+        "name": "Ostrava-město",
+        "type": "district",
+        "parent": "80"
+    }
+}

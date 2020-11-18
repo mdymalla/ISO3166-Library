@@ -1,0 +1,54 @@
+{
+    "GQ-AN": {
+        "code": "GQ-AN",
+        "name": "Annobón",
+        "type": "Province",
+        "parent": "I"
+    },
+    "GQ-BN": {
+        "code": "GQ-BN",
+        "name": "Bioko Norte",
+        "type": "Province",
+        "parent": "I"
+    },
+    "GQ-BS": {
+        "code": "GQ-BS",
+        "name": "Bioko Sur",
+        "type": "Province",
+        "parent": "I"
+    },
+    "GQ-C": {
+        "code": "GQ-C",
+        "name": "Región Continental",
+        "type": "Region"
+    },
+    "GQ-CS": {
+        "code": "GQ-CS",
+        "name": "Centro Sur",
+        "type": "Province",
+        "parent": "C"
+    },
+    "GQ-I": {
+        "code": "GQ-I",
+        "name": "Región Insular",
+        "type": "Region"
+    },
+    "GQ-KN": {
+        "code": "GQ-KN",
+        "name": "Kié-Ntem",
+        "type": "Province",
+        "parent": "C"
+    },
+    "GQ-LI": {
+        "code": "GQ-LI",
+        "name": "Litoral",
+        "type": "Province",
+        "parent": "C"
+    },
+    "GQ-WN": {
+        "code": "GQ-WN",
+        "name": "Wele-Nzas",
+        "type": "Province",
+        "parent": "C"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "PE-AMA": {
+        "code": "PE-AMA",
+        "name": "Amazonas",
+        "type": "Region"
+    },
+    "PE-ANC": {
+        "code": "PE-ANC",
+        "name": "Ancash",
+        "type": "Region"
+    },
+    "PE-APU": {
+        "code": "PE-APU",
+        "name": "Apurímac",
+        "type": "Region"
+    },
+    "PE-ARE": {
+        "code": "PE-ARE",
+        "name": "Arequipa",
+        "type": "Region"
+    },
+    "PE-AYA": {
+        "code": "PE-AYA",
+        "name": "Ayacucho",
+        "type": "Region"
+    },
+    "PE-CAJ": {
+        "code": "PE-CAJ",
+        "name": "Cajamarca",
+        "type": "Region"
+    },
+    "PE-CAL": {
+        "code": "PE-CAL",
+        "name": "El Callao",
+        "type": "Constitutional province"
+    },
+    "PE-CUS": {
+        "code": "PE-CUS",
+        "name": "Cusco [Cuzco]",
+        "type": "Region"
+    },
+    "PE-HUC": {
+        "code": "PE-HUC",
+        "name": "Huánuco",
+        "type": "Region"
+    },
+    "PE-HUV": {
+        "code": "PE-HUV",
+        "name": "Huancavelica",
+        "type": "Region"
+    },
+    "PE-ICA": {
+        "code": "PE-ICA",
+        "name": "Ica",
+        "type": "Region"
+    },
+    "PE-JUN": {
+        "code": "PE-JUN",
+        "name": "Junín",
+        "type": "Region"
+    },
+    "PE-LAL": {
+        "code": "PE-LAL",
+        "name": "La Libertad",
+        "type": "Region"
+    },
+    "PE-LAM": {
+        "code": "PE-LAM",
+        "name": "Lambayeque",
+        "type": "Region"
+    },
+    "PE-LIM": {
+        "code": "PE-LIM",
+        "name": "Lima",
+        "type": "Region"
+    },
+    "PE-LMA": {
+        "code": "PE-LMA",
+        "name": "Municipalidad Metropolitana de Lima",
+        "type": "Municipality"
+    },
+    "PE-LOR": {
+        "code": "PE-LOR",
+        "name": "Loreto",
+        "type": "Region"
+    },
+    "PE-MDD": {
+        "code": "PE-MDD",
+        "name": "Madre de Dios",
+        "type": "Region"
+    },
+    "PE-MOQ": {
+        "code": "PE-MOQ",
+        "name": "Moquegua",
+        "type": "Region"
+    },
+    "PE-PAS": {
+        "code": "PE-PAS",
+        "name": "Pasco",
+        "type": "Region"
+    },
+    "PE-PIU": {
+        "code": "PE-PIU",
+        "name": "Piura",
+        "type": "Region"
+    },
+    "PE-PUN": {
+        "code": "PE-PUN",
+        "name": "Puno",
+        "type": "Region"
+    },
+    "PE-SAM": {
+        "code": "PE-SAM",
+        "name": "San Martín",
+        "type": "Region"
+    },
+    "PE-TAC": {
+        "code": "PE-TAC",
+        "name": "Tacna",
+        "type": "Region"
+    },
+    "PE-TUM": {
+        "code": "PE-TUM",
+        "name": "Tumbes",
+        "type": "Region"
+    },
+    "PE-UCA": {
+        "code": "PE-UCA",
+        "name": "Ucayali",
+        "type": "Region"
+    }
+}

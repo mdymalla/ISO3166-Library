@@ -1,0 +1,185 @@
+{
+    "MW-BA": {
+        "code": "MW-BA",
+        "name": "Balaka",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-BL": {
+        "code": "MW-BL",
+        "name": "Blantyre",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-C": {
+        "code": "MW-C",
+        "name": "Central Region",
+        "type": "Region"
+    },
+    "MW-CK": {
+        "code": "MW-CK",
+        "name": "Chikwawa",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-CR": {
+        "code": "MW-CR",
+        "name": "Chiradzulu",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-CT": {
+        "code": "MW-CT",
+        "name": "Chitipa",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-DE": {
+        "code": "MW-DE",
+        "name": "Dedza",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-DO": {
+        "code": "MW-DO",
+        "name": "Dowa",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-KR": {
+        "code": "MW-KR",
+        "name": "Karonga",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-KS": {
+        "code": "MW-KS",
+        "name": "Kasungu",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-LI": {
+        "code": "MW-LI",
+        "name": "Lilongwe",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-LK": {
+        "code": "MW-LK",
+        "name": "Likoma",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-MC": {
+        "code": "MW-MC",
+        "name": "Mchinji",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-MG": {
+        "code": "MW-MG",
+        "name": "Mangochi",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-MH": {
+        "code": "MW-MH",
+        "name": "Machinga",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-MU": {
+        "code": "MW-MU",
+        "name": "Mulanje",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-MW": {
+        "code": "MW-MW",
+        "name": "Mwanza",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-MZ": {
+        "code": "MW-MZ",
+        "name": "Mzimba",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-N": {
+        "code": "MW-N",
+        "name": "Northern Region",
+        "type": "Region"
+    },
+    "MW-NB": {
+        "code": "MW-NB",
+        "name": "Nkhata Bay",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-NE": {
+        "code": "MW-NE",
+        "name": "Neno",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-NI": {
+        "code": "MW-NI",
+        "name": "Ntchisi",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-NK": {
+        "code": "MW-NK",
+        "name": "Nkhotakota",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-NS": {
+        "code": "MW-NS",
+        "name": "Nsanje",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-NU": {
+        "code": "MW-NU",
+        "name": "Ntcheu",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-PH": {
+        "code": "MW-PH",
+        "name": "Phalombe",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-RU": {
+        "code": "MW-RU",
+        "name": "Rumphi",
+        "type": "District",
+        "parent": "N"
+    },
+    "MW-S": {
+        "code": "MW-S",
+        "name": "Southern Region",
+        "type": "Region"
+    },
+    "MW-SA": {
+        "code": "MW-SA",
+        "name": "Salima",
+        "type": "District",
+        "parent": "C"
+    },
+    "MW-TH": {
+        "code": "MW-TH",
+        "name": "Thyolo",
+        "type": "District",
+        "parent": "S"
+    },
+    "MW-ZO": {
+        "code": "MW-ZO",
+        "name": "Zomba",
+        "type": "District",
+        "parent": "S"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "QA-DA": {
+        "code": "QA-DA",
+        "name": "Ad Dawhah",
+        "type": "Municipality"
+    },
+    "QA-KH": {
+        "code": "QA-KH",
+        "name": "Al Khawr wa adh Dhakhīrah",
+        "type": "Municipality"
+    },
+    "QA-MS": {
+        "code": "QA-MS",
+        "name": "Ash Shamal",
+        "type": "Municipality"
+    },
+    "QA-RA": {
+        "code": "QA-RA",
+        "name": "Ar Rayyan",
+        "type": "Municipality"
+    },
+    "QA-US": {
+        "code": "QA-US",
+        "name": "Umm Salal",
+        "type": "Municipality"
+    },
+    "QA-WA": {
+        "code": "QA-WA",
+        "name": "Al Wakrah",
+        "type": "Municipality"
+    },
+    "QA-ZA": {
+        "code": "QA-ZA",
+        "name": "Az̧ Z̧a‘āyin",
+        "type": "Municipality"
+    }
+}

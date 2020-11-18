@@ -1,0 +1,112 @@
+{
+    "GT-AV": {
+        "code": "GT-AV",
+        "name": "Alta Verapaz",
+        "type": "Department"
+    },
+    "GT-BV": {
+        "code": "GT-BV",
+        "name": "Baja Verapaz",
+        "type": "Department"
+    },
+    "GT-CM": {
+        "code": "GT-CM",
+        "name": "Chimaltenango",
+        "type": "Department"
+    },
+    "GT-CQ": {
+        "code": "GT-CQ",
+        "name": "Chiquimula",
+        "type": "Department"
+    },
+    "GT-ES": {
+        "code": "GT-ES",
+        "name": "Escuintla",
+        "type": "Department"
+    },
+    "GT-GU": {
+        "code": "GT-GU",
+        "name": "Guatemala",
+        "type": "Department"
+    },
+    "GT-HU": {
+        "code": "GT-HU",
+        "name": "Huehuetenango",
+        "type": "Department"
+    },
+    "GT-IZ": {
+        "code": "GT-IZ",
+        "name": "Izabal",
+        "type": "Department"
+    },
+    "GT-JA": {
+        "code": "GT-JA",
+        "name": "Jalapa",
+        "type": "Department"
+    },
+    "GT-JU": {
+        "code": "GT-JU",
+        "name": "Jutiapa",
+        "type": "Department"
+    },
+    "GT-PE": {
+        "code": "GT-PE",
+        "name": "Petén",
+        "type": "Department"
+    },
+    "GT-PR": {
+        "code": "GT-PR",
+        "name": "El Progreso",
+        "type": "Department"
+    },
+    "GT-QC": {
+        "code": "GT-QC",
+        "name": "Quiché",
+        "type": "Department"
+    },
+    "GT-QZ": {
+        "code": "GT-QZ",
+        "name": "Quetzaltenango",
+        "type": "Department"
+    },
+    "GT-RE": {
+        "code": "GT-RE",
+        "name": "Retalhuleu",
+        "type": "Department"
+    },
+    "GT-SA": {
+        "code": "GT-SA",
+        "name": "Sacatepéquez",
+        "type": "Department"
+    },
+    "GT-SM": {
+        "code": "GT-SM",
+        "name": "San Marcos",
+        "type": "Department"
+    },
+    "GT-SO": {
+        "code": "GT-SO",
+        "name": "Sololá",
+        "type": "Department"
+    },
+    "GT-SR": {
+        "code": "GT-SR",
+        "name": "Santa Rosa",
+        "type": "Department"
+    },
+    "GT-SU": {
+        "code": "GT-SU",
+        "name": "Suchitepéquez",
+        "type": "Department"
+    },
+    "GT-TO": {
+        "code": "GT-TO",
+        "name": "Totonicapán",
+        "type": "Department"
+    },
+    "GT-ZA": {
+        "code": "GT-ZA",
+        "name": "Zacapa",
+        "type": "Department"
+    }
+}

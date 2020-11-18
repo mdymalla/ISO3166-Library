@@ -1,0 +1,52 @@
+{
+    "SR-BR": {
+        "code": "SR-BR",
+        "name": "Brokopondo",
+        "type": "District"
+    },
+    "SR-CM": {
+        "code": "SR-CM",
+        "name": "Commewijne",
+        "type": "District"
+    },
+    "SR-CR": {
+        "code": "SR-CR",
+        "name": "Coronie",
+        "type": "District"
+    },
+    "SR-MA": {
+        "code": "SR-MA",
+        "name": "Marowijne",
+        "type": "District"
+    },
+    "SR-NI": {
+        "code": "SR-NI",
+        "name": "Nickerie",
+        "type": "District"
+    },
+    "SR-PM": {
+        "code": "SR-PM",
+        "name": "Paramaribo",
+        "type": "District"
+    },
+    "SR-PR": {
+        "code": "SR-PR",
+        "name": "Para",
+        "type": "District"
+    },
+    "SR-SA": {
+        "code": "SR-SA",
+        "name": "Saramacca",
+        "type": "District"
+    },
+    "SR-SI": {
+        "code": "SR-SI",
+        "name": "Sipaliwini",
+        "type": "District"
+    },
+    "SR-WA": {
+        "code": "SR-WA",
+        "name": "Wanica",
+        "type": "District"
+    }
+}

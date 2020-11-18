@@ -1,0 +1,77 @@
+{
+    "BA-01": {
+        "code": "BA-01",
+        "name": "Unsko-sanski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-02": {
+        "code": "BA-02",
+        "name": "Posavski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-03": {
+        "code": "BA-03",
+        "name": "Tuzlanski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-04": {
+        "code": "BA-04",
+        "name": "Zeničko-dobojski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-05": {
+        "code": "BA-05",
+        "name": "Bosansko-podrinjski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-06": {
+        "code": "BA-06",
+        "name": "Srednjobosanski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-07": {
+        "code": "BA-07",
+        "name": "Hercegovačko-neretvanski kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-08": {
+        "code": "BA-08",
+        "name": "Zapadnohercegovački kanton",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-09": {
+        "code": "BA-09",
+        "name": "Kanton Sarajevo",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-10": {
+        "code": "BA-10",
+        "name": "Kanton br. 10 (Livanjski kanton)",
+        "type": "Canton",
+        "parent": "BIH"
+    },
+    "BA-BIH": {
+        "code": "BA-BIH",
+        "name": "Federacija Bosne i Hercegovine",
+        "type": "Entity"
+    },
+    "BA-BRC": {
+        "code": "BA-BRC",
+        "name": "Brčko distrikt",
+        "type": "District"
+    },
+    "BA-SRP": {
+        "code": "BA-SRP",
+        "name": "Republika Srpska",
+        "type": "Entity"
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "GR-01": {
+        "code": "GR-01",
+        "name": "Aitolia kai Akarnania",
+        "type": "Department",
+        "parent": "G"
+    },
+    "GR-03": {
+        "code": "GR-03",
+        "name": "Voiotia",
+        "type": "Department",
+        "parent": "H"
+    },
+    "GR-04": {
+        "code": "GR-04",
+        "name": "Evvoias",
+        "type": "Department",
+        "parent": "H"
+    },
+    "GR-05": {
+        "code": "GR-05",
+        "name": "Evrytania",
+        "type": "Department",
+        "parent": "H"
+    },
+    "GR-06": {
+        "code": "GR-06",
+        "name": "Fthiotida",
+        "type": "Department",
+        "parent": "H"
+    },
+    "GR-07": {
+        "code": "GR-07",
+        "name": "Fokida",
+        "type": "Department",
+        "parent": "H"
+    },
+    "GR-11": {
+        "code": "GR-11",
+        "name": "Argolida",
+        "type": "Department",
+        "parent": "J"
+    },
+    "GR-12": {
+        "code": "GR-12",
+        "name": "Arkadia",
+        "type": "Department",
+        "parent": "J"
+    },
+    "GR-13": {
+        "code": "GR-13",
+        "name": "Achaïa",
+        "type": "Department",
+        "parent": "G"
+    },
+    "GR-14": {
+        "code": "GR-14",
+        "name": "Ileia",
+        "type": "Department",
+        "parent": "G"
+    },
+    "GR-15": {
+        "code": "GR-15",
+        "name": "Korinthia",
+        "type": "Department",
+        "parent": "J"
+    },
+    "GR-16": {
+        "code": "GR-16",
+        "name": "Lakonia",
+        "type": "Department",
+        "parent": "J"
+    },
+    "GR-17": {
+        "code": "GR-17",
+        "name": "Messinia",
+        "type": "Department",
+        "parent": "J"
+    },
+    "GR-21": {
+        "code": "GR-21",
+        "name": "Zakynthos",
+        "type": "Department",
+        "parent": "F"
+    },
+    "GR-22": {
+        "code": "GR-22",
+        "name": "Kerkyra",
+        "type": "Department",
+        "parent": "F"
+    },
+    "GR-23": {
+        "code": "GR-23",
+        "name": "Kefallonia",
+        "type": "Department",
+        "parent": "F"
+    },
+    "GR-24": {
+        "code": "GR-24",
+        "name": "Lefkada",
+        "type": "Department",
+        "parent": "F"
+    },
+    "GR-31": {
+        "code": "GR-31",
+        "name": "Arta",
+        "type": "Department",
+        "parent": "F"
+    },
+    "GR-32": {
+        "code": "GR-32",
+        "name": "Thesprotia",
+        "type": "Department",
+        "parent": "D"
+    },
+    "GR-33": {
+        "code": "GR-33",
+        "name": "Ioannina",
+        "type": "Department",
+        "parent": "D"
+    },
+    "GR-34": {
+        "code": "GR-34",
+        "name": "Preveza",
+        "type": "Department",
+        "parent": "D"
+    },
+    "GR-41": {
+        "code": "GR-41",
+        "name": "Karditsa",
+        "type": "Department",
+        "parent": "E"
+    },
+    "GR-42": {
+        "code": "GR-42",
+        "name": "Larisa",
+        "type": "Department",
+        "parent": "E"
+    },
+    "GR-43": {
+        "code": "GR-43",
+        "name": "Magnisia",
+        "type": "Department",
+        "parent": "E"
+    },
+    "GR-44": {
+        "code": "GR-44",
+        "name": "Trikala",
+        "type": "Department",
+        "parent": "E"
+    },
+    "GR-51": {
+        "code": "GR-51",
+        "name": "Grevena",
+        "type": "Department",
+        "parent": "C"
+    },
+    "GR-52": {
+        "code": "GR-52",
+        "name": "Drama",
+        "type": "Department",
+        "parent": "A"
+    },
+    "GR-53": {
+        "code": "GR-53",
+        "name": "Imathia",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-54": {
+        "code": "GR-54",
+        "name": "Thessaloniki",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-55": {
+        "code": "GR-55",
+        "name": "Kavala",
+        "type": "Department",
+        "parent": "A"
+    },
+    "GR-56": {
+        "code": "GR-56",
+        "name": "Kastoria",
+        "type": "Department",
+        "parent": "C"
+    },
+    "GR-57": {
+        "code": "GR-57",
+        "name": "Kilkis",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-58": {
+        "code": "GR-58",
+        "name": "Kozani",
+        "type": "Department",
+        "parent": "C"
+    },
+    "GR-59": {
+        "code": "GR-59",
+        "name": "Pella",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-61": {
+        "code": "GR-61",
+        "name": "Pieria",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-62": {
+        "code": "GR-62",
+        "name": "Serres",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-63": {
+        "code": "GR-63",
+        "name": "Florina",
+        "type": "Department",
+        "parent": "C"
+    },
+    "GR-64": {
+        "code": "GR-64",
+        "name": "Chalkidiki",
+        "type": "Department",
+        "parent": "B"
+    },
+    "GR-69": {
+        "code": "GR-69",
+        "name": "Agio Oros",
+        "type": "Self-governed part"
+    },
+    "GR-71": {
+        "code": "GR-71",
+        "name": "Evros",
+        "type": "Department",
+        "parent": "A"
+    },
+    "GR-72": {
+        "code": "GR-72",
+        "name": "Xanthi",
+        "type": "Department",
+        "parent": "A"
+    },
+    "GR-73": {
+        "code": "GR-73",
+        "name": "Rodopi",
+        "type": "Department",
+        "parent": "A"
+    },
+    "GR-81": {
+        "code": "GR-81",
+        "name": "Dodekanisos",
+        "type": "Department",
+        "parent": "L"
+    },
+    "GR-82": {
+        "code": "GR-82",
+        "name": "Kyklades",
+        "type": "Department",
+        "parent": "L"
+    },
+    "GR-83": {
+        "code": "GR-83",
+        "name": "Lesvos",
+        "type": "Department",
+        "parent": "K"
+    },
+    "GR-84": {
+        "code": "GR-84",
+        "name": "Samos",
+        "type": "Department",
+        "parent": "K"
+    },
+    "GR-85": {
+        "code": "GR-85",
+        "name": "Chios",
+        "type": "Department",
+        "parent": "K"
+    },
+    "GR-91": {
+        "code": "GR-91",
+        "name": "Irakleio",
+        "type": "Department",
+        "parent": "M"
+    },
+    "GR-92": {
+        "code": "GR-92",
+        "name": "Lasithi",
+        "type": "Department",
+        "parent": "M"
+    },
+    "GR-93": {
+        "code": "GR-93",
+        "name": "Rethymno",
+        "type": "Department",
+        "parent": "M"
+    },
+    "GR-94": {
+        "code": "GR-94",
+        "name": "Chania",
+        "type": "Department",
+        "parent": "M"
+    },
+    "GR-A": {
+        "code": "GR-A",
+        "name": "Anatoliki Makedonia kai Thraki",
+        "type": "Administrative region"
+    },
+    "GR-A1": {
+        "code": "GR-A1",
+        "name": "Attiki",
+        "type": "Department",
+        "parent": "I"
+    },
+    "GR-B": {
+        "code": "GR-B",
+        "name": "Kentriki Makedonia",
+        "type": "Administrative region"
+    },
+    "GR-C": {
+        "code": "GR-C",
+        "name": "Dytiki Makedonia",
+        "type": "Administrative region"
+    },
+    "GR-D": {
+        "code": "GR-D",
+        "name": "Ipeiros",
+        "type": "Administrative region"
+    },
+    "GR-E": {
+        "code": "GR-E",
+        "name": "Thessalia",
+        "type": "Administrative region"
+    },
+    "GR-F": {
+        "code": "GR-F",
+        "name": "Ionia Nisia",
+        "type": "Administrative region"
+    },
+    "GR-G": {
+        "code": "GR-G",
+        "name": "Dytiki Ellada",
+        "type": "Administrative region"
+    },
+    "GR-H": {
+        "code": "GR-H",
+        "name": "Sterea Ellada",
+        "type": "Administrative region"
+    },
+    "GR-I": {
+        "code": "GR-I",
+        "name": "Attiki",
+        "type": "Administrative region"
+    },
+    "GR-J": {
+        "code": "GR-J",
+        "name": "Peloponnisos",
+        "type": "Administrative region"
+    },
+    "GR-K": {
+        "code": "GR-K",
+        "name": "Voreio Aigaio",
+        "type": "Administrative region"
+    },
+    "GR-L": {
+        "code": "GR-L",
+        "name": "Notio Aigaio",
+        "type": "Administrative region"
+    },
+    "GR-M": {
+        "code": "GR-M",
+        "name": "Kriti",
+        "type": "Administrative region"
+    }
+}

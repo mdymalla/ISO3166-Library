@@ -1,0 +1,156 @@
+{
+    "MH-ALK": {
+        "code": "MH-ALK",
+        "name": "Ailuk",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-ALL": {
+        "code": "MH-ALL",
+        "name": "Ailinglaplap",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-ARN": {
+        "code": "MH-ARN",
+        "name": "Arno",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-AUR": {
+        "code": "MH-AUR",
+        "name": "Aur",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-EBO": {
+        "code": "MH-EBO",
+        "name": "Ebon",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-ENI": {
+        "code": "MH-ENI",
+        "name": "Enewetak",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-JAB": {
+        "code": "MH-JAB",
+        "name": "Jabat",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-JAL": {
+        "code": "MH-JAL",
+        "name": "Jaluit",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-KIL": {
+        "code": "MH-KIL",
+        "name": "Kili",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-KWA": {
+        "code": "MH-KWA",
+        "name": "Kwajalein",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-L": {
+        "code": "MH-L",
+        "name": "Ralik chain",
+        "type": "Chains (of islands)"
+    },
+    "MH-LAE": {
+        "code": "MH-LAE",
+        "name": "Lae",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-LIB": {
+        "code": "MH-LIB",
+        "name": "Lib",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-LIK": {
+        "code": "MH-LIK",
+        "name": "Likiep",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-MAJ": {
+        "code": "MH-MAJ",
+        "name": "Majuro",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-MAL": {
+        "code": "MH-MAL",
+        "name": "Maloelap",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-MEJ": {
+        "code": "MH-MEJ",
+        "name": "Mejit",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-MIL": {
+        "code": "MH-MIL",
+        "name": "Mili",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-NMK": {
+        "code": "MH-NMK",
+        "name": "Namdrik",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-NMU": {
+        "code": "MH-NMU",
+        "name": "Namu",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-RON": {
+        "code": "MH-RON",
+        "name": "Rongelap",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-T": {
+        "code": "MH-T",
+        "name": "Ratak chain",
+        "type": "Chains (of islands)"
+    },
+    "MH-UJA": {
+        "code": "MH-UJA",
+        "name": "Ujae",
+        "type": "Municipality",
+        "parent": "L"
+    },
+    "MH-UTI": {
+        "code": "MH-UTI",
+        "name": "Utirik",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-WTJ": {
+        "code": "MH-WTJ",
+        "name": "Wotje",
+        "type": "Municipality",
+        "parent": "T"
+    },
+    "MH-WTN": {
+        "code": "MH-WTN",
+        "name": "Wotho",
+        "type": "Municipality",
+        "parent": "L"
+    }
+}

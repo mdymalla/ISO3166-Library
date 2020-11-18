@@ -4,9 +4,9 @@ FROM php:7.4.10-cli
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y --no-install-recommends \
         git \
-        libicu-dev \
-        translate-toolkit \
-        gettext
+        libicu-dev
+
+RUN docker-php-ext-install gettext
 
 # core extensions
 RUN docker-php-ext-install \

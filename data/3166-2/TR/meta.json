@@ -1,0 +1,407 @@
+{
+    "TR-01": {
+        "code": "TR-01",
+        "name": "Adana",
+        "type": "Province"
+    },
+    "TR-02": {
+        "code": "TR-02",
+        "name": "Adıyaman",
+        "type": "Province"
+    },
+    "TR-03": {
+        "code": "TR-03",
+        "name": "Afyonkarahisar",
+        "type": "Province"
+    },
+    "TR-04": {
+        "code": "TR-04",
+        "name": "Ağrı",
+        "type": "Province"
+    },
+    "TR-05": {
+        "code": "TR-05",
+        "name": "Amasya",
+        "type": "Province"
+    },
+    "TR-06": {
+        "code": "TR-06",
+        "name": "Ankara",
+        "type": "Province"
+    },
+    "TR-07": {
+        "code": "TR-07",
+        "name": "Antalya",
+        "type": "Province"
+    },
+    "TR-08": {
+        "code": "TR-08",
+        "name": "Artvin",
+        "type": "Province"
+    },
+    "TR-09": {
+        "code": "TR-09",
+        "name": "Aydın",
+        "type": "Province"
+    },
+    "TR-10": {
+        "code": "TR-10",
+        "name": "Balıkesir",
+        "type": "Province"
+    },
+    "TR-11": {
+        "code": "TR-11",
+        "name": "Bilecik",
+        "type": "Province"
+    },
+    "TR-12": {
+        "code": "TR-12",
+        "name": "Bingöl",
+        "type": "Province"
+    },
+    "TR-13": {
+        "code": "TR-13",
+        "name": "Bitlis",
+        "type": "Province"
+    },
+    "TR-14": {
+        "code": "TR-14",
+        "name": "Bolu",
+        "type": "Province"
+    },
+    "TR-15": {
+        "code": "TR-15",
+        "name": "Burdur",
+        "type": "Province"
+    },
+    "TR-16": {
+        "code": "TR-16",
+        "name": "Bursa",
+        "type": "Province"
+    },
+    "TR-17": {
+        "code": "TR-17",
+        "name": "Çanakkale",
+        "type": "Province"
+    },
+    "TR-18": {
+        "code": "TR-18",
+        "name": "Çankırı",
+        "type": "Province"
+    },
+    "TR-19": {
+        "code": "TR-19",
+        "name": "Çorum",
+        "type": "Province"
+    },
+    "TR-20": {
+        "code": "TR-20",
+        "name": "Denizli",
+        "type": "Province"
+    },
+    "TR-21": {
+        "code": "TR-21",
+        "name": "Diyarbakır",
+        "type": "Province"
+    },
+    "TR-22": {
+        "code": "TR-22",
+        "name": "Edirne",
+        "type": "Province"
+    },
+    "TR-23": {
+        "code": "TR-23",
+        "name": "Elazığ",
+        "type": "Province"
+    },
+    "TR-24": {
+        "code": "TR-24",
+        "name": "Erzincan",
+        "type": "Province"
+    },
+    "TR-25": {
+        "code": "TR-25",
+        "name": "Erzurum",
+        "type": "Province"
+    },
+    "TR-26": {
+        "code": "TR-26",
+        "name": "Eskişehir",
+        "type": "Province"
+    },
+    "TR-27": {
+        "code": "TR-27",
+        "name": "Gaziantep",
+        "type": "Province"
+    },
+    "TR-28": {
+        "code": "TR-28",
+        "name": "Giresun",
+        "type": "Province"
+    },
+    "TR-29": {
+        "code": "TR-29",
+        "name": "Gümüşhane",
+        "type": "Province"
+    },
+    "TR-30": {
+        "code": "TR-30",
+        "name": "Hakkâri",
+        "type": "Province"
+    },
+    "TR-31": {
+        "code": "TR-31",
+        "name": "Hatay",
+        "type": "Province"
+    },
+    "TR-32": {
+        "code": "TR-32",
+        "name": "Isparta",
+        "type": "Province"
+    },
+    "TR-33": {
+        "code": "TR-33",
+        "name": "Mersin",
+        "type": "Province"
+    },
+    "TR-34": {
+        "code": "TR-34",
+        "name": "İstanbul",
+        "type": "Province"
+    },
+    "TR-35": {
+        "code": "TR-35",
+        "name": "İzmir",
+        "type": "Province"
+    },
+    "TR-36": {
+        "code": "TR-36",
+        "name": "Kars",
+        "type": "Province"
+    },
+    "TR-37": {
+        "code": "TR-37",
+        "name": "Kastamonu",
+        "type": "Province"
+    },
+    "TR-38": {
+        "code": "TR-38",
+        "name": "Kayseri",
+        "type": "Province"
+    },
+    "TR-39": {
+        "code": "TR-39",
+        "name": "Kırklareli",
+        "type": "Province"
+    },
+    "TR-40": {
+        "code": "TR-40",
+        "name": "Kırşehir",
+        "type": "Province"
+    },
+    "TR-41": {
+        "code": "TR-41",
+        "name": "Kocaeli",
+        "type": "Province"
+    },
+    "TR-42": {
+        "code": "TR-42",
+        "name": "Konya",
+        "type": "Province"
+    },
+    "TR-43": {
+        "code": "TR-43",
+        "name": "Kütahya",
+        "type": "Province"
+    },
+    "TR-44": {
+        "code": "TR-44",
+        "name": "Malatya",
+        "type": "Province"
+    },
+    "TR-45": {
+        "code": "TR-45",
+        "name": "Manisa",
+        "type": "Province"
+    },
+    "TR-46": {
+        "code": "TR-46",
+        "name": "Kahramanmaraş",
+        "type": "Province"
+    },
+    "TR-47": {
+        "code": "TR-47",
+        "name": "Mardin",
+        "type": "Province"
+    },
+    "TR-48": {
+        "code": "TR-48",
+        "name": "Muğla",
+        "type": "Province"
+    },
+    "TR-49": {
+        "code": "TR-49",
+        "name": "Muş",
+        "type": "Province"
+    },
+    "TR-50": {
+        "code": "TR-50",
+        "name": "Nevşehir",
+        "type": "Province"
+    },
+    "TR-51": {
+        "code": "TR-51",
+        "name": "Niğde",
+        "type": "Province"
+    },
+    "TR-52": {
+        "code": "TR-52",
+        "name": "Ordu",
+        "type": "Province"
+    },
+    "TR-53": {
+        "code": "TR-53",
+        "name": "Rize",
+        "type": "Province"
+    },
+    "TR-54": {
+        "code": "TR-54",
+        "name": "Sakarya",
+        "type": "Province"
+    },
+    "TR-55": {
+        "code": "TR-55",
+        "name": "Samsun",
+        "type": "Province"
+    },
+    "TR-56": {
+        "code": "TR-56",
+        "name": "Siirt",
+        "type": "Province"
+    },
+    "TR-57": {
+        "code": "TR-57",
+        "name": "Sinop",
+        "type": "Province"
+    },
+    "TR-58": {
+        "code": "TR-58",
+        "name": "Sivas",
+        "type": "Province"
+    },
+    "TR-59": {
+        "code": "TR-59",
+        "name": "Tekirdağ",
+        "type": "Province"
+    },
+    "TR-60": {
+        "code": "TR-60",
+        "name": "Tokat",
+        "type": "Province"
+    },
+    "TR-61": {
+        "code": "TR-61",
+        "name": "Trabzon",
+        "type": "Province"
+    },
+    "TR-62": {
+        "code": "TR-62",
+        "name": "Tunceli",
+        "type": "Province"
+    },
+    "TR-63": {
+        "code": "TR-63",
+        "name": "Şanlıurfa",
+        "type": "Province"
+    },
+    "TR-64": {
+        "code": "TR-64",
+        "name": "Uşak",
+        "type": "Province"
+    },
+    "TR-65": {
+        "code": "TR-65",
+        "name": "Van",
+        "type": "Province"
+    },
+    "TR-66": {
+        "code": "TR-66",
+        "name": "Yozgat",
+        "type": "Province"
+    },
+    "TR-67": {
+        "code": "TR-67",
+        "name": "Zonguldak",
+        "type": "Province"
+    },
+    "TR-68": {
+        "code": "TR-68",
+        "name": "Aksaray",
+        "type": "Province"
+    },
+    "TR-69": {
+        "code": "TR-69",
+        "name": "Bayburt",
+        "type": "Province"
+    },
+    "TR-70": {
+        "code": "TR-70",
+        "name": "Karaman",
+        "type": "Province"
+    },
+    "TR-71": {
+        "code": "TR-71",
+        "name": "Kırıkkale",
+        "type": "Province"
+    },
+    "TR-72": {
+        "code": "TR-72",
+        "name": "Batman",
+        "type": "Province"
+    },
+    "TR-73": {
+        "code": "TR-73",
+        "name": "Şırnak",
+        "type": "Province"
+    },
+    "TR-74": {
+        "code": "TR-74",
+        "name": "Bartın",
+        "type": "Province"
+    },
+    "TR-75": {
+        "code": "TR-75",
+        "name": "Ardahan",
+        "type": "Province"
+    },
+    "TR-76": {
+        "code": "TR-76",
+        "name": "Iğdır",
+        "type": "Province"
+    },
+    "TR-77": {
+        "code": "TR-77",
+        "name": "Yalova",
+        "type": "Province"
+    },
+    "TR-78": {
+        "code": "TR-78",
+        "name": "Karabük",
+        "type": "Province"
+    },
+    "TR-79": {
+        "code": "TR-79",
+        "name": "Kilis",
+        "type": "Province"
+    },
+    "TR-80": {
+        "code": "TR-80",
+        "name": "Osmaniye",
+        "type": "Province"
+    },
+    "TR-81": {
+        "code": "TR-81",
+        "name": "Düzce",
+        "type": "Province"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "KP-01": {
+        "code": "KP-01",
+        "name": "P’yŏngyang",
+        "type": "Capital city"
+    },
+    "KP-02": {
+        "code": "KP-02",
+        "name": "P’yŏngan-namdo",
+        "type": "Province"
+    },
+    "KP-03": {
+        "code": "KP-03",
+        "name": "P’yŏngan-bukto",
+        "type": "Province"
+    },
+    "KP-04": {
+        "code": "KP-04",
+        "name": "Chagang-do",
+        "type": "Province"
+    },
+    "KP-05": {
+        "code": "KP-05",
+        "name": "Hwanghae-namdo",
+        "type": "Province"
+    },
+    "KP-06": {
+        "code": "KP-06",
+        "name": "Hwanghae-bukto",
+        "type": "Province"
+    },
+    "KP-07": {
+        "code": "KP-07",
+        "name": "Kangwŏn-do",
+        "type": "Province"
+    },
+    "KP-08": {
+        "code": "KP-08",
+        "name": "Hamgyŏng-namdo",
+        "type": "Province"
+    },
+    "KP-09": {
+        "code": "KP-09",
+        "name": "Hamgyŏng-bukto",
+        "type": "Province"
+    },
+    "KP-10": {
+        "code": "KP-10",
+        "name": "Yanggang-do",
+        "type": "Province"
+    },
+    "KP-13": {
+        "code": "KP-13",
+        "name": "Nasŏn (Najin-Sŏnbong)",
+        "type": "Special city"
+    }
+}

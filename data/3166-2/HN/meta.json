@@ -1,0 +1,92 @@
+{
+    "HN-AT": {
+        "code": "HN-AT",
+        "name": "Atlántida",
+        "type": "Department"
+    },
+    "HN-CH": {
+        "code": "HN-CH",
+        "name": "Choluteca",
+        "type": "Department"
+    },
+    "HN-CL": {
+        "code": "HN-CL",
+        "name": "Colón",
+        "type": "Department"
+    },
+    "HN-CM": {
+        "code": "HN-CM",
+        "name": "Comayagua",
+        "type": "Department"
+    },
+    "HN-CP": {
+        "code": "HN-CP",
+        "name": "Copán",
+        "type": "Department"
+    },
+    "HN-CR": {
+        "code": "HN-CR",
+        "name": "Cortés",
+        "type": "Department"
+    },
+    "HN-EP": {
+        "code": "HN-EP",
+        "name": "El Paraíso",
+        "type": "Department"
+    },
+    "HN-FM": {
+        "code": "HN-FM",
+        "name": "Francisco Morazán",
+        "type": "Department"
+    },
+    "HN-GD": {
+        "code": "HN-GD",
+        "name": "Gracias a Dios",
+        "type": "Department"
+    },
+    "HN-IB": {
+        "code": "HN-IB",
+        "name": "Islas de la Bahía",
+        "type": "Department"
+    },
+    "HN-IN": {
+        "code": "HN-IN",
+        "name": "Intibucá",
+        "type": "Department"
+    },
+    "HN-LE": {
+        "code": "HN-LE",
+        "name": "Lempira",
+        "type": "Department"
+    },
+    "HN-LP": {
+        "code": "HN-LP",
+        "name": "La Paz",
+        "type": "Department"
+    },
+    "HN-OC": {
+        "code": "HN-OC",
+        "name": "Ocotepeque",
+        "type": "Department"
+    },
+    "HN-OL": {
+        "code": "HN-OL",
+        "name": "Olancho",
+        "type": "Department"
+    },
+    "HN-SB": {
+        "code": "HN-SB",
+        "name": "Santa Bárbara",
+        "type": "Department"
+    },
+    "HN-VA": {
+        "code": "HN-VA",
+        "name": "Valle",
+        "type": "Department"
+    },
+    "HN-YO": {
+        "code": "HN-YO",
+        "name": "Yoro",
+        "type": "Department"
+    }
+}

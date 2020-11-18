@@ -1,0 +1,187 @@
+{
+    "NG-AB": {
+        "code": "NG-AB",
+        "name": "Abia",
+        "type": "State"
+    },
+    "NG-AD": {
+        "code": "NG-AD",
+        "name": "Adamawa",
+        "type": "State"
+    },
+    "NG-AK": {
+        "code": "NG-AK",
+        "name": "Akwa Ibom",
+        "type": "State"
+    },
+    "NG-AN": {
+        "code": "NG-AN",
+        "name": "Anambra",
+        "type": "State"
+    },
+    "NG-BA": {
+        "code": "NG-BA",
+        "name": "Bauchi",
+        "type": "State"
+    },
+    "NG-BE": {
+        "code": "NG-BE",
+        "name": "Benue",
+        "type": "State"
+    },
+    "NG-BO": {
+        "code": "NG-BO",
+        "name": "Borno",
+        "type": "State"
+    },
+    "NG-BY": {
+        "code": "NG-BY",
+        "name": "Bayelsa",
+        "type": "State"
+    },
+    "NG-CR": {
+        "code": "NG-CR",
+        "name": "Cross River",
+        "type": "State"
+    },
+    "NG-DE": {
+        "code": "NG-DE",
+        "name": "Delta",
+        "type": "State"
+    },
+    "NG-EB": {
+        "code": "NG-EB",
+        "name": "Ebonyi",
+        "type": "State"
+    },
+    "NG-ED": {
+        "code": "NG-ED",
+        "name": "Edo",
+        "type": "State"
+    },
+    "NG-EK": {
+        "code": "NG-EK",
+        "name": "Ekiti",
+        "type": "State"
+    },
+    "NG-EN": {
+        "code": "NG-EN",
+        "name": "Enugu",
+        "type": "State"
+    },
+    "NG-FC": {
+        "code": "NG-FC",
+        "name": "Abuja Capital Territory",
+        "type": "Capital Territory"
+    },
+    "NG-GO": {
+        "code": "NG-GO",
+        "name": "Gombe",
+        "type": "State"
+    },
+    "NG-IM": {
+        "code": "NG-IM",
+        "name": "Imo",
+        "type": "State"
+    },
+    "NG-JI": {
+        "code": "NG-JI",
+        "name": "Jigawa",
+        "type": "State"
+    },
+    "NG-KD": {
+        "code": "NG-KD",
+        "name": "Kaduna",
+        "type": "State"
+    },
+    "NG-KE": {
+        "code": "NG-KE",
+        "name": "Kebbi",
+        "type": "State"
+    },
+    "NG-KN": {
+        "code": "NG-KN",
+        "name": "Kano",
+        "type": "State"
+    },
+    "NG-KO": {
+        "code": "NG-KO",
+        "name": "Kogi",
+        "type": "State"
+    },
+    "NG-KT": {
+        "code": "NG-KT",
+        "name": "Katsina",
+        "type": "State"
+    },
+    "NG-KW": {
+        "code": "NG-KW",
+        "name": "Kwara",
+        "type": "State"
+    },
+    "NG-LA": {
+        "code": "NG-LA",
+        "name": "Lagos",
+        "type": "State"
+    },
+    "NG-NA": {
+        "code": "NG-NA",
+        "name": "Nassarawa",
+        "type": "State"
+    },
+    "NG-NI": {
+        "code": "NG-NI",
+        "name": "Niger",
+        "type": "State"
+    },
+    "NG-OG": {
+        "code": "NG-OG",
+        "name": "Ogun",
+        "type": "State"
+    },
+    "NG-ON": {
+        "code": "NG-ON",
+        "name": "Ondo",
+        "type": "State"
+    },
+    "NG-OS": {
+        "code": "NG-OS",
+        "name": "Osun",
+        "type": "State"
+    },
+    "NG-OY": {
+        "code": "NG-OY",
+        "name": "Oyo",
+        "type": "State"
+    },
+    "NG-PL": {
+        "code": "NG-PL",
+        "name": "Plateau",
+        "type": "State"
+    },
+    "NG-RI": {
+        "code": "NG-RI",
+        "name": "Rivers",
+        "type": "State"
+    },
+    "NG-SO": {
+        "code": "NG-SO",
+        "name": "Sokoto",
+        "type": "State"
+    },
+    "NG-TA": {
+        "code": "NG-TA",
+        "name": "Taraba",
+        "type": "State"
+    },
+    "NG-YO": {
+        "code": "NG-YO",
+        "name": "Yobe",
+        "type": "State"
+    },
+    "NG-ZA": {
+        "code": "NG-ZA",
+        "name": "Zamfara",
+        "type": "State"
+    }
+}

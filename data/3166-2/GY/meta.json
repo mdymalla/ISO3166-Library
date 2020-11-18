@@ -1,0 +1,52 @@
+{
+    "GY-BA": {
+        "code": "GY-BA",
+        "name": "Barima-Waini",
+        "type": "Region"
+    },
+    "GY-CU": {
+        "code": "GY-CU",
+        "name": "Cuyuni-Mazaruni",
+        "type": "Region"
+    },
+    "GY-DE": {
+        "code": "GY-DE",
+        "name": "Demerara-Mahaica",
+        "type": "Region"
+    },
+    "GY-EB": {
+        "code": "GY-EB",
+        "name": "East Berbice-Corentyne",
+        "type": "Region"
+    },
+    "GY-ES": {
+        "code": "GY-ES",
+        "name": "Essequibo Islands-West Demerara",
+        "type": "Region"
+    },
+    "GY-MA": {
+        "code": "GY-MA",
+        "name": "Mahaica-Berbice",
+        "type": "Region"
+    },
+    "GY-PM": {
+        "code": "GY-PM",
+        "name": "Pomeroon-Supenaam",
+        "type": "Region"
+    },
+    "GY-PT": {
+        "code": "GY-PT",
+        "name": "Potaro-Siparuni",
+        "type": "Region"
+    },
+    "GY-UD": {
+        "code": "GY-UD",
+        "name": "Upper Demerara-Berbice",
+        "type": "Region"
+    },
+    "GY-UT": {
+        "code": "GY-UT",
+        "name": "Upper Takutu-Upper Essequibo",
+        "type": "Region"
+    }
+}

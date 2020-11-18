@@ -1,0 +1,57 @@
+{
+    "AM-AG": {
+        "code": "AM-AG",
+        "name": "Aragacotn",
+        "type": "Province"
+    },
+    "AM-AR": {
+        "code": "AM-AR",
+        "name": "Ararat",
+        "type": "Province"
+    },
+    "AM-AV": {
+        "code": "AM-AV",
+        "name": "Armavir",
+        "type": "Province"
+    },
+    "AM-ER": {
+        "code": "AM-ER",
+        "name": "Erevan",
+        "type": "Province"
+    },
+    "AM-GR": {
+        "code": "AM-GR",
+        "name": "Gegarkunik'",
+        "type": "Province"
+    },
+    "AM-KT": {
+        "code": "AM-KT",
+        "name": "Kotayk'",
+        "type": "Province"
+    },
+    "AM-LO": {
+        "code": "AM-LO",
+        "name": "Lory",
+        "type": "Province"
+    },
+    "AM-SH": {
+        "code": "AM-SH",
+        "name": "Sirak",
+        "type": "Province"
+    },
+    "AM-SU": {
+        "code": "AM-SU",
+        "name": "Syunik'",
+        "type": "Province"
+    },
+    "AM-TV": {
+        "code": "AM-TV",
+        "name": "Tavus",
+        "type": "Province"
+    },
+    "AM-VD": {
+        "code": "AM-VD",
+        "name": "Vayoc Jor",
+        "type": "Province"
+    }
+}

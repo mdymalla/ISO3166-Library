@@ -1,0 +1,32 @@
+{
+    "VU-MAP": {
+        "code": "VU-MAP",
+        "name": "Malampa",
+        "type": "Province"
+    },
+    "VU-PAM": {
+        "code": "VU-PAM",
+        "name": "Pénama",
+        "type": "Province"
+    },
+    "VU-SAM": {
+        "code": "VU-SAM",
+        "name": "Sanma",
+        "type": "Province"
+    },
+    "VU-SEE": {
+        "code": "VU-SEE",
+        "name": "Shéfa",
+        "type": "Province"
+    },
+    "VU-TAE": {
+        "code": "VU-TAE",
+        "name": "Taféa",
+        "type": "Province"
+    },
+    "VU-TOB": {
+        "code": "VU-TOB",
+        "name": "Torba",
+        "type": "Province"
+    }
+}
