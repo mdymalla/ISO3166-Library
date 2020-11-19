@@ -1,42 +1,34 @@
 {
     "NE-1": {
         "code": "NE-1",
-        "name": "Agadez",
         "type": "Department"
     },
     "NE-2": {
         "code": "NE-2",
-        "name": "Diffa",
         "type": "Department"
     },
     "NE-3": {
         "code": "NE-3",
-        "name": "Dosso",
         "type": "Department"
     },
     "NE-4": {
         "code": "NE-4",
-        "name": "Maradi",
         "type": "Department"
     },
     "NE-5": {
         "code": "NE-5",
-        "name": "Tahoua",
         "type": "Department"
     },
     "NE-6": {
         "code": "NE-6",
-        "name": "Tillabéri",
         "type": "Department"
     },
     "NE-7": {
         "code": "NE-7",
-        "name": "Zinder",
         "type": "Department"
     },
     "NE-8": {
         "code": "NE-8",
-        "name": "Niamey",
         "type": "Capital District"
     }
 }

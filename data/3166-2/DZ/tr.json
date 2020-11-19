@@ -1,25 +1,8 @@
 {
-    "DZ-01": "Adrar",
-    "DZ-02": "Chlef",
-    "DZ-05": "Batna",
     "DZ-08": "Bechar",
-    "DZ-09": "Blida",
-    "DZ-10": "Bouira",
     "DZ-12": "Tebessa",
-    "DZ-13": "Tlemcen",
     "DZ-16": "Cezayir",
     "DZ-20": "Saida",
-    "DZ-23": "Annaba",
-    "DZ-24": "Guelma",
     "DZ-26": "Medea",
-    "DZ-28": "Msila",
-    "DZ-29": "Mascara",
-    "DZ-31": "Oran",
-    "DZ-32": "El Bayadh",
-    "DZ-33": "Illizi",
-    "DZ-41": "Souk Ahras",
-    "DZ-43": "Mila",
-    "DZ-45": "Naama",
-    "DZ-47": "Ghardaia",
-    "DZ-48": "Relizane"
+    "DZ-47": "Ghardaia"
 }

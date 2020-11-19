@@ -1,17 +1,14 @@
 {
     "TJ-GB": {
         "code": "TJ-GB",
-        "name": "Gorno-Badakhshan",
         "type": "Autonomous region"
     },
     "TJ-KT": {
         "code": "TJ-KT",
-        "name": "Khatlon",
         "type": "Region"
     },
     "TJ-SU": {
         "code": "TJ-SU",
-        "name": "Sughd",
         "type": "Region"
     }
 }

@@ -1,502 +1,418 @@
 {
     "UG-101": {
         "code": "UG-101",
-        "name": "Kalangala",
         "type": "District",
         "parent": "C"
     },
     "UG-102": {
         "code": "UG-102",
-        "name": "Kampala",
         "type": "District",
         "parent": "C"
     },
     "UG-103": {
         "code": "UG-103",
-        "name": "Kiboga",
         "type": "District",
         "parent": "C"
     },
     "UG-104": {
         "code": "UG-104",
-        "name": "Luwero",
         "type": "District",
         "parent": "C"
     },
     "UG-105": {
         "code": "UG-105",
-        "name": "Masaka",
         "type": "District",
         "parent": "C"
     },
     "UG-106": {
         "code": "UG-106",
-        "name": "Mpigi",
         "type": "District",
         "parent": "C"
     },
     "UG-107": {
         "code": "UG-107",
-        "name": "Mubende",
         "type": "District",
         "parent": "C"
     },
     "UG-108": {
         "code": "UG-108",
-        "name": "Mukono",
         "type": "District",
         "parent": "C"
     },
     "UG-109": {
         "code": "UG-109",
-        "name": "Nakasongola",
         "type": "District",
         "parent": "C"
     },
     "UG-110": {
         "code": "UG-110",
-        "name": "Rakai",
         "type": "District",
         "parent": "C"
     },
     "UG-111": {
         "code": "UG-111",
-        "name": "Sembabule",
         "type": "District",
         "parent": "C"
     },
     "UG-112": {
         "code": "UG-112",
-        "name": "Kayunga",
         "type": "District",
         "parent": "C"
     },
     "UG-113": {
         "code": "UG-113",
-        "name": "Wakiso",
         "type": "District",
         "parent": "C"
     },
     "UG-114": {
         "code": "UG-114",
-        "name": "Mityana",
         "type": "District",
         "parent": "C"
     },
     "UG-115": {
         "code": "UG-115",
-        "name": "Nakaseke",
         "type": "District",
         "parent": "C"
     },
     "UG-116": {
         "code": "UG-116",
-        "name": "Lyantonde",
         "type": "District",
         "parent": "C"
     },
     "UG-201": {
         "code": "UG-201",
-        "name": "Bugiri",
         "type": "District",
         "parent": "E"
     },
     "UG-202": {
         "code": "UG-202",
-        "name": "Busia",
         "type": "District",
         "parent": "E"
     },
     "UG-203": {
         "code": "UG-203",
-        "name": "Iganga",
         "type": "District",
         "parent": "E"
     },
     "UG-204": {
         "code": "UG-204",
-        "name": "Jinja",
         "type": "District",
         "parent": "E"
     },
     "UG-205": {
         "code": "UG-205",
-        "name": "Kamuli",
         "type": "District",
         "parent": "E"
     },
     "UG-206": {
         "code": "UG-206",
-        "name": "Kapchorwa",
         "type": "District",
         "parent": "E"
     },
     "UG-207": {
         "code": "UG-207",
-        "name": "Katakwi",
         "type": "District",
         "parent": "E"
     },
     "UG-208": {
         "code": "UG-208",
-        "name": "Kumi",
         "type": "District",
         "parent": "E"
     },
     "UG-209": {
         "code": "UG-209",
-        "name": "Mbale",
         "type": "District",
         "parent": "E"
     },
     "UG-210": {
         "code": "UG-210",
-        "name": "Pallisa",
         "type": "District",
         "parent": "E"
     },
     "UG-211": {
         "code": "UG-211",
-        "name": "Soroti",
         "type": "District",
         "parent": "E"
     },
     "UG-212": {
         "code": "UG-212",
-        "name": "Tororo",
         "type": "District",
         "parent": "E"
     },
     "UG-213": {
         "code": "UG-213",
-        "name": "Kaberamaido",
         "type": "District",
         "parent": "E"
     },
     "UG-214": {
         "code": "UG-214",
-        "name": "Mayuge",
         "type": "District",
         "parent": "E"
     },
     "UG-215": {
         "code": "UG-215",
-        "name": "Sironko",
         "type": "District",
         "parent": "E"
     },
     "UG-216": {
         "code": "UG-216",
-        "name": "Amuria",
         "type": "District",
         "parent": "E"
     },
     "UG-217": {
         "code": "UG-217",
-        "name": "Budaka",
         "type": "District",
         "parent": "E"
     },
     "UG-218": {
         "code": "UG-218",
-        "name": "Bukwa",
         "type": "District",
         "parent": "E"
     },
     "UG-219": {
         "code": "UG-219",
-        "name": "Butaleja",
         "type": "District",
         "parent": "E"
     },
     "UG-220": {
         "code": "UG-220",
-        "name": "Kaliro",
         "type": "District",
         "parent": "E"
     },
     "UG-221": {
         "code": "UG-221",
-        "name": "Manafwa",
         "type": "District",
         "parent": "E"
     },
     "UG-222": {
         "code": "UG-222",
-        "name": "Namutumba",
         "type": "District",
         "parent": "E"
     },
     "UG-223": {
         "code": "UG-223",
-        "name": "Bududa",
         "type": "District",
         "parent": "E"
     },
     "UG-224": {
         "code": "UG-224",
-        "name": "Bukedea",
         "type": "District",
         "parent": "E"
     },
     "UG-301": {
         "code": "UG-301",
-        "name": "Adjumani",
         "type": "District",
         "parent": "N"
     },
     "UG-302": {
         "code": "UG-302",
-        "name": "Apac",
         "type": "District",
         "parent": "N"
     },
     "UG-303": {
         "code": "UG-303",
-        "name": "Arua",
         "type": "District",
         "parent": "N"
     },
     "UG-304": {
         "code": "UG-304",
-        "name": "Gulu",
         "type": "District",
         "parent": "N"
     },
     "UG-305": {
         "code": "UG-305",
-        "name": "Kitgum",
         "type": "District",
         "parent": "N"
     },
     "UG-306": {
         "code": "UG-306",
-        "name": "Kotido",
         "type": "District",
         "parent": "N"
     },
     "UG-307": {
         "code": "UG-307",
-        "name": "Lira",
         "type": "District",
         "parent": "N"
     },
     "UG-308": {
         "code": "UG-308",
-        "name": "Moroto",
         "type": "District",
         "parent": "N"
     },
     "UG-309": {
         "code": "UG-309",
-        "name": "Moyo",
         "type": "District",
         "parent": "N"
     },
     "UG-310": {
         "code": "UG-310",
-        "name": "Nebbi",
         "type": "District",
         "parent": "N"
     },
     "UG-311": {
         "code": "UG-311",
-        "name": "Nakapiripirit",
         "type": "District",
         "parent": "N"
     },
     "UG-312": {
         "code": "UG-312",
-        "name": "Pader",
         "type": "District",
         "parent": "N"
     },
     "UG-313": {
         "code": "UG-313",
-        "name": "Yumbe",
         "type": "District",
         "parent": "N"
     },
     "UG-314": {
         "code": "UG-314",
-        "name": "Amolatar",
         "type": "District",
         "parent": "N"
     },
     "UG-315": {
         "code": "UG-315",
-        "name": "Kaabong",
         "type": "District",
         "parent": "N"
     },
     "UG-316": {
         "code": "UG-316",
-        "name": "Koboko",
         "type": "District",
         "parent": "N"
     },
     "UG-317": {
         "code": "UG-317",
-        "name": "Abim",
         "type": "District",
         "parent": "N"
     },
     "UG-318": {
         "code": "UG-318",
-        "name": "Dokolo",
         "type": "District",
         "parent": "N"
     },
     "UG-319": {
         "code": "UG-319",
-        "name": "Amuru",
         "type": "District",
         "parent": "N"
     },
     "UG-320": {
         "code": "UG-320",
-        "name": "Maracha",
         "type": "District",
         "parent": "N"
     },
     "UG-321": {
         "code": "UG-321",
-        "name": "Oyam",
         "type": "District",
         "parent": "N"
     },
     "UG-401": {
         "code": "UG-401",
-        "name": "Bundibugyo",
         "type": "District",
         "parent": "W"
     },
     "UG-402": {
         "code": "UG-402",
-        "name": "Bushenyi",
         "type": "District",
         "parent": "W"
     },
     "UG-403": {
         "code": "UG-403",
-        "name": "Hoima",
         "type": "District",
         "parent": "W"
     },
     "UG-404": {
         "code": "UG-404",
-        "name": "Kabale",
         "type": "District",
         "parent": "W"
     },
     "UG-405": {
         "code": "UG-405",
-        "name": "Kabarole",
         "type": "District",
         "parent": "W"
     },
     "UG-406": {
         "code": "UG-406",
-        "name": "Kasese",
         "type": "District",
         "parent": "W"
     },
     "UG-407": {
         "code": "UG-407",
-        "name": "Kibaale",
         "type": "District",
         "parent": "W"
     },
     "UG-408": {
         "code": "UG-408",
-        "name": "Kisoro",
         "type": "District",
         "parent": "W"
     },
     "UG-409": {
         "code": "UG-409",
-        "name": "Masindi",
         "type": "District",
         "parent": "W"
     },
     "UG-410": {
         "code": "UG-410",
-        "name": "Mbarara",
         "type": "District",
         "parent": "W"
     },
     "UG-411": {
         "code": "UG-411",
-        "name": "Ntungamo",
         "type": "District",
         "parent": "W"
     },
     "UG-412": {
         "code": "UG-412",
-        "name": "Rukungiri",
         "type": "District",
         "parent": "W"
     },
     "UG-413": {
         "code": "UG-413",
-        "name": "Kamwenge",
         "type": "District",
         "parent": "W"
     },
     "UG-414": {
         "code": "UG-414",
-        "name": "Kanungu",
         "type": "District",
         "parent": "W"
     },
     "UG-415": {
         "code": "UG-415",
-        "name": "Kyenjojo",
         "type": "District",
         "parent": "W"
     },
     "UG-416": {
         "code": "UG-416",
-        "name": "Ibanda",
         "type": "District",
         "parent": "W"
     },
     "UG-417": {
         "code": "UG-417",
-        "name": "Isingiro",
         "type": "District",
         "parent": "W"
     },
     "UG-418": {
         "code": "UG-418",
-        "name": "Kiruhura",
         "type": "District",
         "parent": "W"
     },
     "UG-419": {
         "code": "UG-419",
-        "name": "Buliisa",
         "type": "District",
         "parent": "W"
     },
     "UG-C": {
         "code": "UG-C",
-        "name": "Central",
         "type": "Geographical region"
     },
     "UG-E": {
         "code": "UG-E",
-        "name": "Eastern",
         "type": "Geographical region"
     },
     "UG-N": {
         "code": "UG-N",
-        "name": "Northern",
         "type": "Geographical region"
     },
     "UG-W": {
         "code": "UG-W",
-        "name": "Western",
         "type": "Geographical region"
     }
 }

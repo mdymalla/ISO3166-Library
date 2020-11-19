@@ -1,14 +1,6 @@
 {
-    "NI-GR": "Granada",
     "NI-LE": "Leon",
     "NI-AN": "Atlantico Norte",
     "NI-AS": "Atlantico Sur",
-    "NI-BO": "Boaco",
-    "NI-CI": "Chinandega",
-    "NI-ES": "Esteli",
-    "NI-MD": "Madriz",
-    "NI-MN": "Managua",
-    "NI-MS": "Masaya",
-    "NI-MT": "Matagalpa",
-    "NI-NS": "Nueva Segovia"
+    "NI-ES": "Esteli"
 }

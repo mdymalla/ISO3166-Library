@@ -1,11 +1,4 @@
 {
-    "HT-CE": "Centre",
-    "HT-ND": "Nord",
-    "HT-AR": "Artibonite",
-    "HT-GA": "Grande-Anse",
-    "HT-NE": "Nord-Est",
     "HT-NO": "Nord-Ovest",
-    "HT-OU": "Ovest",
-    "HT-SD": "Sud",
-    "HT-SE": "Sud-Est"
+    "HT-OU": "Ovest"
 }

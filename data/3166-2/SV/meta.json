@@ -1,72 +1,58 @@
 {
     "SV-AH": {
         "code": "SV-AH",
-        "name": "Ahuachapán",
         "type": "Department"
     },
     "SV-CA": {
         "code": "SV-CA",
-        "name": "Cabañas",
         "type": "Department"
     },
     "SV-CH": {
         "code": "SV-CH",
-        "name": "Chalatenango",
         "type": "Department"
     },
     "SV-CU": {
         "code": "SV-CU",
-        "name": "Cuscatlán",
         "type": "Department"
     },
     "SV-LI": {
         "code": "SV-LI",
-        "name": "La Libertad",
         "type": "Department"
     },
     "SV-MO": {
         "code": "SV-MO",
-        "name": "Morazán",
         "type": "Department"
     },
     "SV-PA": {
         "code": "SV-PA",
-        "name": "La Paz",
         "type": "Department"
     },
     "SV-SA": {
         "code": "SV-SA",
-        "name": "Santa Ana",
         "type": "Department"
     },
     "SV-SM": {
         "code": "SV-SM",
-        "name": "San Miguel",
         "type": "Department"
     },
     "SV-SO": {
         "code": "SV-SO",
-        "name": "Sonsonate",
         "type": "Department"
     },
     "SV-SS": {
         "code": "SV-SS",
-        "name": "San Salvador",
         "type": "Department"
     },
     "SV-SV": {
         "code": "SV-SV",
-        "name": "San Vicente",
         "type": "Department"
     },
     "SV-UN": {
         "code": "SV-UN",
-        "name": "La Unión",
         "type": "Department"
     },
     "SV-US": {
         "code": "SV-US",
-        "name": "Usulután",
         "type": "Department"
     }
 }

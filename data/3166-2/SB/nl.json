@@ -1,12 +1,5 @@
 {
-    "SB-CE": "Central",
     "SB-WE": "West",
-    "SB-CH": "Choiseul",
     "SB-CT": "Hoofdstedelijk Gewest (Honiara)",
-    "SB-GU": "Guadalcanal",
-    "SB-IS": "Isabel",
-    "SB-MK": "Makira",
-    "SB-ML": "Malaita",
-    "SB-RB": "Rennell-Bellona",
-    "SB-TE": "Temotu"
+    "SB-RB": "Rennell-Bellona"
 }

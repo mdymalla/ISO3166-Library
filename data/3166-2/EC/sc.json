@@ -1,26 +1,7 @@
 {
     "EC-R": "Los Rios",
     "EC-B": "Bolivar",
-    "EC-A": "Azuay",
-    "EC-C": "Carchi",
-    "EC-D": "Orellana",
-    "EC-E": "Esmeraldas",
-    "EC-F": "Cañar",
-    "EC-G": "Guayas",
-    "EC-H": "Chimborazo",
-    "EC-I": "Imbabura",
-    "EC-L": "Loja",
     "EC-M": "Manabì",
-    "EC-N": "Napo",
-    "EC-O": "El Oro",
-    "EC-P": "Pichincha",
-    "EC-S": "Morona-Santiago",
-    "EC-SD": "Santo Domingo de los Tsáchilas",
-    "EC-SE": "Santa Elena",
-    "EC-T": "Tungurahua",
     "EC-U": "Sucumbìos",
-    "EC-W": "Galàpagos",
-    "EC-X": "Cotopaxi",
-    "EC-Y": "Pastaza",
-    "EC-Z": "Zamora-Chinchipe"
+    "EC-W": "Galàpagos"
 }

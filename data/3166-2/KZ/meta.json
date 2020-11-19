@@ -1,82 +1,66 @@
 {
     "KZ-AKM": {
         "code": "KZ-AKM",
-        "name": "Aqmola oblysy",
         "type": "Region"
     },
     "KZ-AKT": {
         "code": "KZ-AKT",
-        "name": "Aqtöbe oblysy",
         "type": "Region"
     },
     "KZ-ALA": {
         "code": "KZ-ALA",
-        "name": "Almaty",
         "type": "City"
     },
     "KZ-ALM": {
         "code": "KZ-ALM",
-        "name": "Almaty oblysy",
         "type": "Region"
     },
     "KZ-AST": {
         "code": "KZ-AST",
-        "name": "Astana",
         "type": "City"
     },
     "KZ-ATY": {
         "code": "KZ-ATY",
-        "name": "Atyraū oblysy",
         "type": "Region"
     },
     "KZ-KAR": {
         "code": "KZ-KAR",
-        "name": "Qaraghandy oblysy",
         "type": "Region"
     },
     "KZ-KUS": {
         "code": "KZ-KUS",
-        "name": "Qostanay oblysy",
         "type": "Region"
     },
     "KZ-KZY": {
         "code": "KZ-KZY",
-        "name": "Qyzylorda oblysy",
         "type": "Region"
     },
     "KZ-MAN": {
         "code": "KZ-MAN",
-        "name": "Mangghystaū oblysy",
         "type": "Region"
     },
     "KZ-PAV": {
         "code": "KZ-PAV",
-        "name": "Pavlodar oblysy",
         "type": "Region"
     },
     "KZ-SEV": {
         "code": "KZ-SEV",
-        "name": "Soltüstik Quzaqstan oblysy",
         "type": "Region"
     },
     "KZ-VOS": {
         "code": "KZ-VOS",
-        "name": "Shyghys Qazaqstan oblysy",
         "type": "Region"
     },
     "KZ-YUZ": {
         "code": "KZ-YUZ",
-        "name": "Ongtüstik Qazaqstan oblysy",
         "type": "Region"
     },
     "KZ-ZAP": {
         "code": "KZ-ZAP",
-        "name": "Batys Quzaqstan oblysy",
         "type": "Region"
     },
     "KZ-ZHA": {
         "code": "KZ-ZHA",
-        "name": "Zhambyl oblysy",
         "type": "Region"
     }
 }

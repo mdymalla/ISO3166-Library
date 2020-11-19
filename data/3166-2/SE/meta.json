@@ -1,107 +1,86 @@
 {
     "SE-AB": {
         "code": "SE-AB",
-        "name": "Stockholms län",
         "type": "County"
     },
     "SE-AC": {
         "code": "SE-AC",
-        "name": "Västerbottens län",
         "type": "County"
     },
     "SE-BD": {
         "code": "SE-BD",
-        "name": "Norrbottens län",
         "type": "County"
     },
     "SE-C": {
         "code": "SE-C",
-        "name": "Uppsala län",
         "type": "County"
     },
     "SE-D": {
         "code": "SE-D",
-        "name": "Södermanlands län",
         "type": "County"
     },
     "SE-E": {
         "code": "SE-E",
-        "name": "Östergötlands län",
         "type": "County"
     },
     "SE-F": {
         "code": "SE-F",
-        "name": "Jönköpings län",
         "type": "County"
     },
     "SE-G": {
         "code": "SE-G",
-        "name": "Kronobergs län",
         "type": "County"
     },
     "SE-H": {
         "code": "SE-H",
-        "name": "Kalmar län",
         "type": "County"
     },
     "SE-I": {
         "code": "SE-I",
-        "name": "Gotlands län",
         "type": "County"
     },
     "SE-K": {
         "code": "SE-K",
-        "name": "Blekinge län",
         "type": "County"
     },
     "SE-M": {
         "code": "SE-M",
-        "name": "Skåne län",
         "type": "County"
     },
     "SE-N": {
         "code": "SE-N",
-        "name": "Hallands län",
         "type": "County"
     },
     "SE-O": {
         "code": "SE-O",
-        "name": "Västra Götalands län",
         "type": "County"
     },
     "SE-S": {
         "code": "SE-S",
-        "name": "Värmlands län",
         "type": "County"
     },
     "SE-T": {
         "code": "SE-T",
-        "name": "Örebro län",
         "type": "County"
     },
     "SE-U": {
         "code": "SE-U",
-        "name": "Västmanlands län",
         "type": "County"
     },
     "SE-W": {
         "code": "SE-W",
-        "name": "Dalarnas län",
         "type": "County"
     },
     "SE-X": {
         "code": "SE-X",
-        "name": "Gävleborgs län",
         "type": "County"
     },
     "SE-Y": {
         "code": "SE-Y",
-        "name": "Västernorrlands län",
         "type": "County"
     },
     "SE-Z": {
         "code": "SE-Z",
-        "name": "Jämtlands län",
         "type": "County"
     }
 }

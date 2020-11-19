@@ -1,37 +1,30 @@
 {
     "CR-A": {
         "code": "CR-A",
-        "name": "Alajuela",
         "type": "Province"
     },
     "CR-C": {
         "code": "CR-C",
-        "name": "Cartago",
         "type": "Province"
     },
     "CR-G": {
         "code": "CR-G",
-        "name": "Guanacaste",
         "type": "Province"
     },
     "CR-H": {
         "code": "CR-H",
-        "name": "Heredia",
         "type": "Province"
     },
     "CR-L": {
         "code": "CR-L",
-        "name": "Limón",
         "type": "Province"
     },
     "CR-P": {
         "code": "CR-P",
-        "name": "Puntarenas",
         "type": "Province"
     },
     "CR-SJ": {
         "code": "CR-SJ",
-        "name": "San José",
         "type": "Province"
     }
 }

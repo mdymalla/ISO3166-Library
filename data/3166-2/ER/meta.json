@@ -1,32 +1,26 @@
 {
     "ER-AN": {
         "code": "ER-AN",
-        "name": "Ansabā",
         "type": "Province"
     },
     "ER-DK": {
         "code": "ER-DK",
-        "name": "Janūbī al Baḩrī al Aḩmar",
         "type": "Province"
     },
     "ER-DU": {
         "code": "ER-DU",
-        "name": "Al Janūbī",
         "type": "Province"
     },
     "ER-GB": {
         "code": "ER-GB",
-        "name": "Qāsh-Barkah",
         "type": "Province"
     },
     "ER-MA": {
         "code": "ER-MA",
-        "name": "Al Awsaţ",
         "type": "Province"
     },
     "ER-SK": {
         "code": "ER-SK",
-        "name": "Shimālī al Baḩrī al Aḩmar",
         "type": "Province"
     }
 }

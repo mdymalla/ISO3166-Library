@@ -1,152 +1,122 @@
 {
     "DO-01": {
         "code": "DO-01",
-        "name": "Distrito Nacional (Santo Domingo)",
         "type": "District"
     },
     "DO-02": {
         "code": "DO-02",
-        "name": "Azua",
         "type": "Province"
     },
     "DO-03": {
         "code": "DO-03",
-        "name": "Bahoruco",
         "type": "Province"
     },
     "DO-04": {
         "code": "DO-04",
-        "name": "Barahona",
         "type": "Province"
     },
     "DO-05": {
         "code": "DO-05",
-        "name": "Dajabón",
         "type": "Province"
     },
     "DO-06": {
         "code": "DO-06",
-        "name": "Duarte",
         "type": "Province"
     },
     "DO-07": {
         "code": "DO-07",
-        "name": "La Estrelleta [Elías Piña]",
         "type": "Province"
     },
     "DO-08": {
         "code": "DO-08",
-        "name": "El Seybo [El Seibo]",
         "type": "Province"
     },
     "DO-09": {
         "code": "DO-09",
-        "name": "Espaillat",
         "type": "Province"
     },
     "DO-10": {
         "code": "DO-10",
-        "name": "Independencia",
         "type": "Province"
     },
     "DO-11": {
         "code": "DO-11",
-        "name": "La Altagracia",
         "type": "Province"
     },
     "DO-12": {
         "code": "DO-12",
-        "name": "La Romana",
         "type": "Province"
     },
     "DO-13": {
         "code": "DO-13",
-        "name": "La Vega",
         "type": "Province"
     },
     "DO-14": {
         "code": "DO-14",
-        "name": "María Trinidad Sánchez",
         "type": "Province"
     },
     "DO-15": {
         "code": "DO-15",
-        "name": "Monte Cristi",
         "type": "Province"
     },
     "DO-16": {
         "code": "DO-16",
-        "name": "Pedernales",
         "type": "Province"
     },
     "DO-17": {
         "code": "DO-17",
-        "name": "Peravia",
         "type": "Province"
     },
     "DO-18": {
         "code": "DO-18",
-        "name": "Puerto Plata",
         "type": "Province"
     },
     "DO-19": {
         "code": "DO-19",
-        "name": "Salcedo",
         "type": "Province"
     },
     "DO-20": {
         "code": "DO-20",
-        "name": "Samaná",
         "type": "Province"
     },
     "DO-21": {
         "code": "DO-21",
-        "name": "San Cristóbal",
         "type": "Province"
     },
     "DO-22": {
         "code": "DO-22",
-        "name": "San Juan",
         "type": "Province"
     },
     "DO-23": {
         "code": "DO-23",
-        "name": "San Pedro de Macorís",
         "type": "Province"
     },
     "DO-24": {
         "code": "DO-24",
-        "name": "Sánchez Ramírez",
         "type": "Province"
     },
     "DO-25": {
         "code": "DO-25",
-        "name": "Santiago",
         "type": "Province"
     },
     "DO-26": {
         "code": "DO-26",
-        "name": "Santiago Rodríguez",
         "type": "Province"
     },
     "DO-27": {
         "code": "DO-27",
-        "name": "Valverde",
         "type": "Province"
     },
     "DO-28": {
         "code": "DO-28",
-        "name": "Monseñor Nouel",
         "type": "Province"
     },
     "DO-29": {
         "code": "DO-29",
-        "name": "Monte Plata",
         "type": "Province"
     },
     "DO-30": {
         "code": "DO-30",
-        "name": "Hato Mayor",
         "type": "Province"
     }
 }

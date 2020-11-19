@@ -10,7 +10,6 @@ class SubDivisionMetaData
     {
         $normalized = [
             "code" => $subdivision->getCode(),
-            "name" => $subdivision->getName(),
             "type" =>$subdivision->getType()
         ];
 

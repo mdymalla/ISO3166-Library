@@ -1,52 +1,42 @@
 {
     "ZW-BU": {
         "code": "ZW-BU",
-        "name": "Bulawayo",
         "type": "City"
     },
     "ZW-HA": {
         "code": "ZW-HA",
-        "name": "Harare",
         "type": "City"
     },
     "ZW-MA": {
         "code": "ZW-MA",
-        "name": "Manicaland",
         "type": "Province"
     },
     "ZW-MC": {
         "code": "ZW-MC",
-        "name": "Mashonaland Central",
         "type": "Province"
     },
     "ZW-ME": {
         "code": "ZW-ME",
-        "name": "Mashonaland East",
         "type": "Province"
     },
     "ZW-MI": {
         "code": "ZW-MI",
-        "name": "Midlands",
         "type": "Province"
     },
     "ZW-MN": {
         "code": "ZW-MN",
-        "name": "Matabeleland North",
         "type": "Province"
     },
     "ZW-MS": {
         "code": "ZW-MS",
-        "name": "Matabeleland South",
         "type": "Province"
     },
     "ZW-MV": {
         "code": "ZW-MV",
-        "name": "Masvingo",
         "type": "Province"
     },
     "ZW-MW": {
         "code": "ZW-MW",
-        "name": "Mashonaland West",
         "type": "Province"
     }
 }

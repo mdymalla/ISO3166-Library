@@ -1,142 +1,114 @@
 {
     "BR-AC": {
         "code": "BR-AC",
-        "name": "Acre",
         "type": "State"
     },
     "BR-AL": {
         "code": "BR-AL",
-        "name": "Alagoas",
         "type": "State"
     },
     "BR-AM": {
         "code": "BR-AM",
-        "name": "Amazonas",
         "type": "State"
     },
     "BR-AP": {
         "code": "BR-AP",
-        "name": "Amapá",
         "type": "State"
     },
     "BR-BA": {
         "code": "BR-BA",
-        "name": "Bahia",
         "type": "State"
     },
     "BR-CE": {
         "code": "BR-CE",
-        "name": "Ceará",
         "type": "State"
     },
     "BR-DF": {
         "code": "BR-DF",
-        "name": "Distrito Federal",
         "type": "Federal District"
     },
     "BR-ES": {
         "code": "BR-ES",
-        "name": "Espírito Santo",
         "type": "State"
     },
     "BR-FN": {
         "code": "BR-FN",
-        "name": "Fernando de Noronha",
         "type": "State"
     },
     "BR-GO": {
         "code": "BR-GO",
-        "name": "Goiás",
         "type": "State"
     },
     "BR-MA": {
         "code": "BR-MA",
-        "name": "Maranhão",
         "type": "State"
     },
     "BR-MG": {
         "code": "BR-MG",
-        "name": "Minas Gerais",
         "type": "State"
     },
     "BR-MS": {
         "code": "BR-MS",
-        "name": "Mato Grosso do Sul",
         "type": "State"
     },
     "BR-MT": {
         "code": "BR-MT",
-        "name": "Mato Grosso",
         "type": "State"
     },
     "BR-PA": {
         "code": "BR-PA",
-        "name": "Pará",
         "type": "State"
     },
     "BR-PB": {
         "code": "BR-PB",
-        "name": "Paraíba",
         "type": "State"
     },
     "BR-PE": {
         "code": "BR-PE",
-        "name": "Pernambuco",
         "type": "State"
     },
     "BR-PI": {
         "code": "BR-PI",
-        "name": "Piauí",
         "type": "State"
     },
     "BR-PR": {
         "code": "BR-PR",
-        "name": "Paraná",
         "type": "State"
     },
     "BR-RJ": {
         "code": "BR-RJ",
-        "name": "Rio de Janeiro",
         "type": "State"
     },
     "BR-RN": {
         "code": "BR-RN",
-        "name": "Rio Grande do Norte",
         "type": "State"
     },
     "BR-RO": {
         "code": "BR-RO",
-        "name": "Rondônia",
         "type": "State"
     },
     "BR-RR": {
         "code": "BR-RR",
-        "name": "Roraima",
         "type": "State"
     },
     "BR-RS": {
         "code": "BR-RS",
-        "name": "Rio Grande do Sul",
         "type": "State"
     },
     "BR-SC": {
         "code": "BR-SC",
-        "name": "Santa Catarina",
         "type": "State"
     },
     "BR-SE": {
         "code": "BR-SE",
-        "name": "Sergipe",
         "type": "State"
     },
     "BR-SP": {
         "code": "BR-SP",
-        "name": "São Paulo",
         "type": "State"
     },
     "BR-TO": {
         "code": "BR-TO",
-        "name": "Tocantins",
         "type": "State"
     }
 }

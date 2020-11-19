@@ -1,22 +1,18 @@
 {
     "BN-BE": {
         "code": "BN-BE",
-        "name": "Belait",
         "type": "District"
     },
     "BN-BM": {
         "code": "BN-BM",
-        "name": "Brunei-Muara",
         "type": "District"
     },
     "BN-TE": {
         "code": "BN-TE",
-        "name": "Temburong",
         "type": "District"
     },
     "BN-TU": {
         "code": "BN-TU",
-        "name": "Tutong",
         "type": "District"
     }
 }

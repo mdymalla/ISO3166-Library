@@ -1,47 +1,38 @@
 {
     "ZA-EC": {
         "code": "ZA-EC",
-        "name": "Eastern Cape",
         "type": "Province"
     },
     "ZA-FS": {
         "code": "ZA-FS",
-        "name": "Free State",
         "type": "Province"
     },
     "ZA-GT": {
         "code": "ZA-GT",
-        "name": "Gauteng",
         "type": "Province"
     },
     "ZA-LP": {
         "code": "ZA-LP",
-        "name": "Limpopo",
         "type": "Province"
     },
     "ZA-MP": {
         "code": "ZA-MP",
-        "name": "Mpumalanga",
         "type": "Province"
     },
     "ZA-NC": {
         "code": "ZA-NC",
-        "name": "Northern Cape",
         "type": "Province"
     },
     "ZA-NL": {
         "code": "ZA-NL",
-        "name": "Kwazulu-Natal",
         "type": "Province"
     },
     "ZA-NW": {
         "code": "ZA-NW",
-        "name": "North-West (South Africa)",
         "type": "Province"
     },
     "ZA-WC": {
         "code": "ZA-WC",
-        "name": "Western Cape",
         "type": "Province"
     }
 }

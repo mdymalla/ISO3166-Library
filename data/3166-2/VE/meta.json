@@ -1,127 +1,102 @@
 {
     "VE-A": {
         "code": "VE-A",
-        "name": "Distrito Federal",
         "type": "Federal District"
     },
     "VE-B": {
         "code": "VE-B",
-        "name": "Anzoátegui",
         "type": "State"
     },
     "VE-C": {
         "code": "VE-C",
-        "name": "Apure",
         "type": "State"
     },
     "VE-D": {
         "code": "VE-D",
-        "name": "Aragua",
         "type": "State"
     },
     "VE-E": {
         "code": "VE-E",
-        "name": "Barinas",
         "type": "State"
     },
     "VE-F": {
         "code": "VE-F",
-        "name": "Bolívar",
         "type": "State"
     },
     "VE-G": {
         "code": "VE-G",
-        "name": "Carabobo",
         "type": "State"
     },
     "VE-H": {
         "code": "VE-H",
-        "name": "Cojedes",
         "type": "State"
     },
     "VE-I": {
         "code": "VE-I",
-        "name": "Falcón",
         "type": "State"
     },
     "VE-J": {
         "code": "VE-J",
-        "name": "Guárico",
         "type": "State"
     },
     "VE-K": {
         "code": "VE-K",
-        "name": "Lara",
         "type": "State"
     },
     "VE-L": {
         "code": "VE-L",
-        "name": "Mérida",
         "type": "State"
     },
     "VE-M": {
         "code": "VE-M",
-        "name": "Miranda",
         "type": "State"
     },
     "VE-N": {
         "code": "VE-N",
-        "name": "Monagas",
         "type": "State"
     },
     "VE-O": {
         "code": "VE-O",
-        "name": "Nueva Esparta",
         "type": "State"
     },
     "VE-P": {
         "code": "VE-P",
-        "name": "Portuguesa",
         "type": "State"
     },
     "VE-R": {
         "code": "VE-R",
-        "name": "Sucre",
         "type": "State"
     },
     "VE-S": {
         "code": "VE-S",
-        "name": "Táchira",
         "type": "State"
     },
     "VE-T": {
         "code": "VE-T",
-        "name": "Trujillo",
         "type": "State"
     },
     "VE-U": {
         "code": "VE-U",
-        "name": "Yaracuy",
         "type": "State"
     },
     "VE-V": {
         "code": "VE-V",
-        "name": "Zulia",
         "type": "State"
     },
     "VE-W": {
         "code": "VE-W",
-        "name": "Dependencias Federales",
         "type": "Federal Dependency"
     },
     "VE-X": {
         "code": "VE-X",
-        "name": "Vargas",
         "type": "State"
     },
     "VE-Y": {
         "code": "VE-Y",
-        "name": "Delta Amacuro",
         "type": "State"
     },
     "VE-Z": {
         "code": "VE-Z",
-        "name": "Amazonas",
         "type": "State"
     }
 }

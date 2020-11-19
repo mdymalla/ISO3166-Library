@@ -1,24 +1,4 @@
 {
-    "JP-02": "Aomori",
-    "JP-05": "Akita",
-    "JP-06": "Yamagata",
-    "JP-07": "Fukushima",
     "JP-13": "Tokio",
-    "JP-15": "Niigata",
-    "JP-16": "Toyama",
-    "JP-18": "Fukui",
-    "JP-21": "Gifu",
-    "JP-27": "Osaka",
-    "JP-31": "Tottori",
-    "JP-33": "Okayama",
-    "JP-34": "Hiroșima",
-    "JP-35": "Yamaguchi",
-    "JP-39": "Kochi",
-    "JP-40": "Fukuoka",
-    "JP-41": "Saga",
-    "JP-42": "Nagasaki",
-    "JP-43": "Kumamoto",
-    "JP-44": "Oita",
-    "JP-45": "Miyazaki",
-    "JP-46": "Kagoshima"
+    "JP-34": "Hiroșima"
 }

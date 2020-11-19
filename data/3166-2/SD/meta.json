@@ -1,87 +1,70 @@
 {
     "SD-DC": {
         "code": "SD-DC",
-        "name": "Zalingei",
         "type": "State"
     },
     "SD-DE": {
         "code": "SD-DE",
-        "name": "Sharq Dārfūr",
         "type": "State"
     },
     "SD-DN": {
         "code": "SD-DN",
-        "name": "Shamāl Dārfūr",
         "type": "State"
     },
     "SD-DS": {
         "code": "SD-DS",
-        "name": "Janūb Dārfūr",
         "type": "State"
     },
     "SD-DW": {
         "code": "SD-DW",
-        "name": "Gharb Dārfūr",
         "type": "State"
     },
     "SD-GD": {
         "code": "SD-GD",
-        "name": "Al Qaḑārif",
         "type": "State"
     },
     "SD-GZ": {
         "code": "SD-GZ",
-        "name": "Al Jazīrah",
         "type": "State"
     },
     "SD-KA": {
         "code": "SD-KA",
-        "name": "Kassalā",
         "type": "State"
     },
     "SD-KH": {
         "code": "SD-KH",
-        "name": "Al Kharţūm",
         "type": "State"
     },
     "SD-KN": {
         "code": "SD-KN",
-        "name": "Shamāl Kurdufān",
         "type": "State"
     },
     "SD-KS": {
         "code": "SD-KS",
-        "name": "Janūb Kurdufān",
         "type": "State"
     },
     "SD-NB": {
         "code": "SD-NB",
-        "name": "An Nīl al Azraq",
         "type": "State"
     },
     "SD-NO": {
         "code": "SD-NO",
-        "name": "Ash Shamālīyah",
         "type": "State"
     },
     "SD-NR": {
         "code": "SD-NR",
-        "name": "An Nīl",
         "type": "State"
     },
     "SD-NW": {
         "code": "SD-NW",
-        "name": "An Nīl al Abyaḑ",
         "type": "State"
     },
     "SD-RS": {
         "code": "SD-RS",
-        "name": "Al Baḩr al Aḩmar",
         "type": "State"
     },
     "SD-SI": {
         "code": "SD-SI",
-        "name": "Sinnār",
         "type": "State"
     }
 }

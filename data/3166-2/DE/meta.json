@@ -1,82 +1,66 @@
 {
     "DE-BB": {
         "code": "DE-BB",
-        "name": "Brandenburg",
         "type": "State"
     },
     "DE-BE": {
         "code": "DE-BE",
-        "name": "Berlin",
         "type": "State"
     },
     "DE-BW": {
         "code": "DE-BW",
-        "name": "Baden-Württemberg",
         "type": "State"
     },
     "DE-BY": {
         "code": "DE-BY",
-        "name": "Bayern",
         "type": "State"
     },
     "DE-HB": {
         "code": "DE-HB",
-        "name": "Bremen",
         "type": "State"
     },
     "DE-HE": {
         "code": "DE-HE",
-        "name": "Hessen",
         "type": "State"
     },
     "DE-HH": {
         "code": "DE-HH",
-        "name": "Hamburg",
         "type": "State"
     },
     "DE-MV": {
         "code": "DE-MV",
-        "name": "Mecklenburg-Vorpommern",
         "type": "State"
     },
     "DE-NI": {
         "code": "DE-NI",
-        "name": "Niedersachsen",
         "type": "State"
     },
     "DE-NW": {
         "code": "DE-NW",
-        "name": "Nordrhein-Westfalen",
         "type": "State"
     },
     "DE-RP": {
         "code": "DE-RP",
-        "name": "Rheinland-Pfalz",
         "type": "State"
     },
     "DE-SH": {
         "code": "DE-SH",
-        "name": "Schleswig-Holstein",
         "type": "State"
     },
     "DE-SL": {
         "code": "DE-SL",
-        "name": "Saarland",
         "type": "State"
     },
     "DE-SN": {
         "code": "DE-SN",
-        "name": "Sachsen",
         "type": "State"
     },
     "DE-ST": {
         "code": "DE-ST",
-        "name": "Sachsen-Anhalt",
         "type": "State"
     },
     "DE-TH": {
         "code": "DE-TH",
-        "name": "Thüringen",
         "type": "State"
     }
 }

@@ -1,62 +1,50 @@
 {
     "GE-AB": {
         "code": "GE-AB",
-        "name": "Abkhazia",
         "type": "Autonomous republic"
     },
     "GE-AJ": {
         "code": "GE-AJ",
-        "name": "Ajaria",
         "type": "Autonomous republic"
     },
     "GE-GU": {
         "code": "GE-GU",
-        "name": "Guria",
         "type": "Region"
     },
     "GE-IM": {
         "code": "GE-IM",
-        "name": "Imeret’i",
         "type": "Region"
     },
     "GE-KA": {
         "code": "GE-KA",
-        "name": "Kakhet’i",
         "type": "Region"
     },
     "GE-KK": {
         "code": "GE-KK",
-        "name": "K’vemo K’art’li",
         "type": "Region"
     },
     "GE-MM": {
         "code": "GE-MM",
-        "name": "Mts’khet’a-Mt’ianet’i",
         "type": "Region"
     },
     "GE-RL": {
         "code": "GE-RL",
-        "name": "Racha-Lech’khumi-K’vemo Svanet’i",
         "type": "Region"
     },
     "GE-SJ": {
         "code": "GE-SJ",
-        "name": "Samts’khe-Javakhet’i",
         "type": "Region"
     },
     "GE-SK": {
         "code": "GE-SK",
-        "name": "Shida K’art’li",
         "type": "Region"
     },
     "GE-SZ": {
         "code": "GE-SZ",
-        "name": "Samegrelo-Zemo Svanet’i",
         "type": "Region"
     },
     "GE-TB": {
         "code": "GE-TB",
-        "name": "T’bilisi",
         "type": "City"
     }
 }

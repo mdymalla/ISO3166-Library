@@ -1,5 +1,4 @@
 {
-    "AF-BAL": "Balkh",
     "AF-BAM": "Bamyan",
     "AF-BDG": "Badghis",
     "AF-BDS": "Badakhshan",
@@ -9,15 +8,12 @@
     "AF-FYB": "Faryab",
     "AF-GHA": "Ghazni",
     "AF-GHO": "Ghowr",
-    "AF-HEL": "Helmand",
     "AF-HER": "Herat",
     "AF-JOW": "Jowzjan",
     "AF-KAB": "Kaboel",
     "AF-KAN": "Kandahar",
     "AF-KAP": "Kapisa",
-    "AF-KDZ": "Kunduz",
     "AF-KHO": "Khost",
-    "AF-KNR": "Kunar",
     "AF-LAG": "Laghman",
     "AF-LOG": "Logar",
     "AF-NAN": "Nangarhar",
@@ -29,8 +25,6 @@
     "AF-PKA": "Paktika",
     "AF-SAM": "Samangan",
     "AF-SAR": "Sar-e Pol",
-    "AF-TAK": "Takhār",
     "AF-URU": "Uruzgan",
-    "AF-WAR": "Wardak",
     "AF-ZAB": "Zabul"
 }

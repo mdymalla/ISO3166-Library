@@ -1,132 +1,106 @@
 {
     "CH-AG": {
         "code": "CH-AG",
-        "name": "Aargau",
         "type": "Canton"
     },
     "CH-AI": {
         "code": "CH-AI",
-        "name": "Appenzell Innerrhoden",
         "type": "Canton"
     },
     "CH-AR": {
         "code": "CH-AR",
-        "name": "Appenzell Ausserrhoden",
         "type": "Canton"
     },
     "CH-BE": {
         "code": "CH-BE",
-        "name": "Bern",
         "type": "Canton"
     },
     "CH-BL": {
         "code": "CH-BL",
-        "name": "Basel-Landschaft",
         "type": "Canton"
     },
     "CH-BS": {
         "code": "CH-BS",
-        "name": "Basel-Stadt",
         "type": "Canton"
     },
     "CH-FR": {
         "code": "CH-FR",
-        "name": "Fribourg",
         "type": "Canton"
     },
     "CH-GE": {
         "code": "CH-GE",
-        "name": "Genève",
         "type": "Canton"
     },
     "CH-GL": {
         "code": "CH-GL",
-        "name": "Glarus",
         "type": "Canton"
     },
     "CH-GR": {
         "code": "CH-GR",
-        "name": "Graubünden",
         "type": "Canton"
     },
     "CH-JU": {
         "code": "CH-JU",
-        "name": "Jura",
         "type": "Canton"
     },
     "CH-LU": {
         "code": "CH-LU",
-        "name": "Luzern",
         "type": "Canton"
     },
     "CH-NE": {
         "code": "CH-NE",
-        "name": "Neuchâtel",
         "type": "Canton"
     },
     "CH-NW": {
         "code": "CH-NW",
-        "name": "Nidwalden",
         "type": "Canton"
     },
     "CH-OW": {
         "code": "CH-OW",
-        "name": "Obwalden",
         "type": "Canton"
     },
     "CH-SG": {
         "code": "CH-SG",
-        "name": "Sankt Gallen",
         "type": "Canton"
     },
     "CH-SH": {
         "code": "CH-SH",
-        "name": "Schaffhausen",
         "type": "Canton"
     },
     "CH-SO": {
         "code": "CH-SO",
-        "name": "Solothurn",
         "type": "Canton"
     },
     "CH-SZ": {
         "code": "CH-SZ",
-        "name": "Schwyz",
         "type": "Canton"
     },
     "CH-TG": {
         "code": "CH-TG",
-        "name": "Thurgau",
         "type": "Canton"
     },
     "CH-TI": {
         "code": "CH-TI",
-        "name": "Ticino",
         "type": "Canton"
     },
     "CH-UR": {
         "code": "CH-UR",
-        "name": "Uri",
         "type": "Canton"
     },
     "CH-VD": {
         "code": "CH-VD",
-        "name": "Vaud",
         "type": "Canton"
     },
     "CH-VS": {
         "code": "CH-VS",
-        "name": "Valais",
         "type": "Canton"
     },
     "CH-ZG": {
         "code": "CH-ZG",
-        "name": "Zug",
         "type": "Canton"
     },
     "CH-ZH": {
         "code": "CH-ZH",
-        "name": "Zürich",
         "type": "Canton"
     }
 }

@@ -1,47 +1,38 @@
 {
     "GA-1": {
         "code": "GA-1",
-        "name": "Estuaire",
         "type": "Province"
     },
     "GA-2": {
         "code": "GA-2",
-        "name": "Haut-Ogooué",
         "type": "Province"
     },
     "GA-3": {
         "code": "GA-3",
-        "name": "Moyen-Ogooué",
         "type": "Province"
     },
     "GA-4": {
         "code": "GA-4",
-        "name": "Ngounié",
         "type": "Province"
     },
     "GA-5": {
         "code": "GA-5",
-        "name": "Nyanga",
         "type": "Province"
     },
     "GA-6": {
         "code": "GA-6",
-        "name": "Ogooué-Ivindo",
         "type": "Province"
     },
     "GA-7": {
         "code": "GA-7",
-        "name": "Ogooué-Lolo",
         "type": "Province"
     },
     "GA-8": {
         "code": "GA-8",
-        "name": "Ogooué-Maritime",
         "type": "Province"
     },
     "GA-9": {
         "code": "GA-9",
-        "name": "Woleu-Ntem",
         "type": "Province"
     }
 }

@@ -5,13 +5,9 @@
     "CH-BE": "Berne",
     "CH-BL": "Bâle-Campagne",
     "CH-BS": "Bâle-Ville",
-    "CH-FR": "Fribourg",
-    "CH-GE": "Genève",
     "CH-GL": "Glaris",
     "CH-GR": "Grisons",
-    "CH-JU": "Jura",
     "CH-LU": "Lucerne",
-    "CH-NE": "Neuchâtel",
     "CH-NW": "Nidwald",
     "CH-OW": "Obwald",
     "CH-SG": "Saint-Gall",
@@ -20,9 +16,6 @@
     "CH-SZ": "Schwytz",
     "CH-TG": "Thurgovie",
     "CH-TI": "Tessin",
-    "CH-UR": "Uri",
-    "CH-VD": "Vaud",
-    "CH-VS": "Valais",
     "CH-ZG": "Zoug",
     "CH-ZH": "Zurich"
 }

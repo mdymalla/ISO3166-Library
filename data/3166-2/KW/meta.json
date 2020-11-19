@@ -1,32 +1,26 @@
 {
     "KW-AH": {
         "code": "KW-AH",
-        "name": "Al Ahmadi",
         "type": "Governorate"
     },
     "KW-FA": {
         "code": "KW-FA",
-        "name": "Al Farwānīyah",
         "type": "Governorate"
     },
     "KW-HA": {
         "code": "KW-HA",
-        "name": "Hawallī",
         "type": "Governorate"
     },
     "KW-JA": {
         "code": "KW-JA",
-        "name": "Al Jahrrā’",
         "type": "Governorate"
     },
     "KW-KU": {
         "code": "KW-KU",
-        "name": "Al Kuwayt (Al ‘Āşimah)",
         "type": "Governorate"
     },
     "KW-MU": {
         "code": "KW-MU",
-        "name": "Mubārak al Kabīr",
         "type": "Governorate"
     }
 }

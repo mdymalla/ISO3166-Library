@@ -1,239 +1,198 @@
 {
     "GN-B": {
         "code": "GN-B",
-        "name": "Boké",
         "type": "Governorate"
     },
     "GN-BE": {
         "code": "GN-BE",
-        "name": "Beyla",
         "type": "Prefecture",
         "parent": "N"
     },
     "GN-BF": {
         "code": "GN-BF",
-        "name": "Boffa",
         "type": "Prefecture",
         "parent": "B"
     },
     "GN-BK": {
         "code": "GN-BK",
-        "name": "Boké",
         "type": "Prefecture",
         "parent": "B"
     },
     "GN-C": {
         "code": "GN-C",
-        "name": "Conakry",
         "type": "Special zone"
     },
     "GN-CO": {
         "code": "GN-CO",
-        "name": "Coyah",
         "type": "Prefecture",
         "parent": "D"
     },
     "GN-D": {
         "code": "GN-D",
-        "name": "Kindia",
         "type": "Governorate"
     },
     "GN-DB": {
         "code": "GN-DB",
-        "name": "Dabola",
         "type": "Prefecture",
         "parent": "F"
     },
     "GN-DI": {
         "code": "GN-DI",
-        "name": "Dinguiraye",
         "type": "Prefecture",
         "parent": "F"
     },
     "GN-DL": {
         "code": "GN-DL",
-        "name": "Dalaba",
         "type": "Prefecture",
         "parent": "M"
     },
     "GN-DU": {
         "code": "GN-DU",
-        "name": "Dubréka",
         "type": "Prefecture",
         "parent": "D"
     },
     "GN-F": {
         "code": "GN-F",
-        "name": "Faranah",
         "type": "Governorate"
     },
     "GN-FA": {
         "code": "GN-FA",
-        "name": "Faranah",
         "type": "Prefecture",
         "parent": "F"
     },
     "GN-FO": {
         "code": "GN-FO",
-        "name": "Forécariah",
         "type": "Prefecture",
         "parent": "D"
     },
     "GN-FR": {
         "code": "GN-FR",
-        "name": "Fria",
         "type": "Prefecture",
         "parent": "B"
     },
     "GN-GA": {
         "code": "GN-GA",
-        "name": "Gaoual",
         "type": "Prefecture",
         "parent": "B"
     },
     "GN-GU": {
         "code": "GN-GU",
-        "name": "Guékédou",
         "type": "Prefecture",
         "parent": "N"
     },
     "GN-K": {
         "code": "GN-K",
-        "name": "Kankan",
         "type": "Governorate"
     },
     "GN-KA": {
         "code": "GN-KA",
-        "name": "Kankan",
         "type": "Prefecture",
         "parent": "K"
     },
     "GN-KB": {
         "code": "GN-KB",
-        "name": "Koubia",
         "type": "Prefecture",
         "parent": "L"
     },
     "GN-KD": {
         "code": "GN-KD",
-        "name": "Kindia",
         "type": "Prefecture",
         "parent": "D"
     },
     "GN-KE": {
         "code": "GN-KE",
-        "name": "Kérouané",
         "type": "Prefecture",
         "parent": "K"
     },
     "GN-KN": {
         "code": "GN-KN",
-        "name": "Koundara",
         "type": "Prefecture",
         "parent": "B"
     },
     "GN-KO": {
         "code": "GN-KO",
-        "name": "Kouroussa",
         "type": "Prefecture",
         "parent": "K"
     },
     "GN-KS": {
         "code": "GN-KS",
-        "name": "Kissidougou",
         "type": "Prefecture",
         "parent": "F"
     },
     "GN-L": {
         "code": "GN-L",
-        "name": "Labé",
         "type": "Governorate"
     },
     "GN-LA": {
         "code": "GN-LA",
-        "name": "Labé",
         "type": "Prefecture",
         "parent": "L"
     },
     "GN-LE": {
         "code": "GN-LE",
-        "name": "Lélouma",
         "type": "Prefecture",
         "parent": "L"
     },
     "GN-LO": {
         "code": "GN-LO",
-        "name": "Lola",
         "type": "Prefecture",
         "parent": "N"
     },
     "GN-M": {
         "code": "GN-M",
-        "name": "Mamou",
         "type": "Governorate"
     },
     "GN-MC": {
         "code": "GN-MC",
-        "name": "Macenta",
         "type": "Prefecture",
         "parent": "N"
     },
     "GN-MD": {
         "code": "GN-MD",
-        "name": "Mandiana",
         "type": "Prefecture",
         "parent": "K"
     },
     "GN-ML": {
         "code": "GN-ML",
-        "name": "Mali",
         "type": "Prefecture",
         "parent": "L"
     },
     "GN-MM": {
         "code": "GN-MM",
-        "name": "Mamou",
         "type": "Prefecture",
         "parent": "M"
     },
     "GN-N": {
         "code": "GN-N",
-        "name": "Nzérékoré",
         "type": "Governorate"
     },
     "GN-NZ": {
         "code": "GN-NZ",
-        "name": "Nzérékoré",
         "type": "Prefecture",
         "parent": "N"
     },
     "GN-PI": {
         "code": "GN-PI",
-        "name": "Pita",
         "type": "Prefecture",
         "parent": "M"
     },
     "GN-SI": {
         "code": "GN-SI",
-        "name": "Siguiri",
         "type": "Prefecture",
         "parent": "K"
     },
     "GN-TE": {
         "code": "GN-TE",
-        "name": "Télimélé",
         "type": "Prefecture",
         "parent": "D"
     },
     "GN-TO": {
         "code": "GN-TO",
-        "name": "Tougué",
         "type": "Prefecture",
         "parent": "L"
     },
     "GN-YO": {
         "code": "GN-YO",
-        "name": "Yomou",
         "type": "Prefecture",
         "parent": "N"
     }

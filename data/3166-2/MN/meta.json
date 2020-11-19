@@ -1,112 +1,90 @@
 {
     "MN-035": {
         "code": "MN-035",
-        "name": "Orhon",
         "type": "Municipality"
     },
     "MN-037": {
         "code": "MN-037",
-        "name": "Darhan uul",
         "type": "Municipality"
     },
     "MN-039": {
         "code": "MN-039",
-        "name": "Hentiy",
         "type": "Province"
     },
     "MN-041": {
         "code": "MN-041",
-        "name": "Hövsgöl",
         "type": "Province"
     },
     "MN-043": {
         "code": "MN-043",
-        "name": "Hovd",
         "type": "Province"
     },
     "MN-046": {
         "code": "MN-046",
-        "name": "Uvs",
         "type": "Province"
     },
     "MN-047": {
         "code": "MN-047",
-        "name": "Töv",
         "type": "Province"
     },
     "MN-049": {
         "code": "MN-049",
-        "name": "Selenge",
         "type": "Province"
     },
     "MN-051": {
         "code": "MN-051",
-        "name": "Sühbaatar",
         "type": "Province"
     },
     "MN-053": {
         "code": "MN-053",
-        "name": "Ömnögovi",
         "type": "Province"
     },
     "MN-055": {
         "code": "MN-055",
-        "name": "Övörhangay",
         "type": "Province"
     },
     "MN-057": {
         "code": "MN-057",
-        "name": "Dzavhan",
         "type": "Province"
     },
     "MN-059": {
         "code": "MN-059",
-        "name": "Dundgovi",
         "type": "Province"
     },
     "MN-061": {
         "code": "MN-061",
-        "name": "Dornod",
         "type": "Province"
     },
     "MN-063": {
         "code": "MN-063",
-        "name": "Dornogovi",
         "type": "Province"
     },
     "MN-064": {
         "code": "MN-064",
-        "name": "Govi-Sumber",
         "type": "Municipality"
     },
     "MN-065": {
         "code": "MN-065",
-        "name": "Govi-Altay",
         "type": "Province"
     },
     "MN-067": {
         "code": "MN-067",
-        "name": "Bulgan",
         "type": "Province"
     },
     "MN-069": {
         "code": "MN-069",
-        "name": "Bayanhongor",
         "type": "Province"
     },
     "MN-071": {
         "code": "MN-071",
-        "name": "Bayan-Ölgiy",
         "type": "Province"
     },
     "MN-073": {
         "code": "MN-073",
-        "name": "Arhangay",
         "type": "Province"
     },
     "MN-1": {
         "code": "MN-1",
-        "name": "Ulanbaatar",
         "type": "Municipality"
     }
 }

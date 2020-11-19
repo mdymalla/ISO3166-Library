@@ -1,82 +1,66 @@
 {
     "PS-BTH": {
         "code": "PS-BTH",
-        "name": "Bethlehem",
         "type": "Governorate"
     },
     "PS-DEB": {
         "code": "PS-DEB",
-        "name": "Deir El Balah",
         "type": "Governorate"
     },
     "PS-GZA": {
         "code": "PS-GZA",
-        "name": "Gaza",
         "type": "Governorate"
     },
     "PS-HBN": {
         "code": "PS-HBN",
-        "name": "Hebron",
         "type": "Governorate"
     },
     "PS-JEM": {
         "code": "PS-JEM",
-        "name": "Jerusalem",
         "type": "Governorate"
     },
     "PS-JEN": {
         "code": "PS-JEN",
-        "name": "Jenin",
         "type": "Governorate"
     },
     "PS-JRH": {
         "code": "PS-JRH",
-        "name": "Jericho - Al Aghwar",
         "type": "Governorate"
     },
     "PS-KYS": {
         "code": "PS-KYS",
-        "name": "Khan Yunis",
         "type": "Governorate"
     },
     "PS-NBS": {
         "code": "PS-NBS",
-        "name": "Nablus",
         "type": "Governorate"
     },
     "PS-NGZ": {
         "code": "PS-NGZ",
-        "name": "North Gaza",
         "type": "Governorate"
     },
     "PS-QQA": {
         "code": "PS-QQA",
-        "name": "Qalqilya",
         "type": "Governorate"
     },
     "PS-RBH": {
         "code": "PS-RBH",
-        "name": "Ramallah",
         "type": "Governorate"
     },
     "PS-RFH": {
         "code": "PS-RFH",
-        "name": "Rafah",
         "type": "Governorate"
     },
     "PS-SLT": {
         "code": "PS-SLT",
-        "name": "Salfit",
         "type": "Governorate"
     },
     "PS-TBS": {
         "code": "PS-TBS",
-        "name": "Tubas",
         "type": "Governorate"
     },
     "PS-TKM": {
         "code": "PS-TKM",
-        "name": "Tulkarm",
         "type": "Governorate"
     }
 }

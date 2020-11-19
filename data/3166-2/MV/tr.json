@@ -1,17 +1,3 @@
 {
-    "MV-CE": "Merkezi",
-    "MV-01": "Seenu",
-    "MV-03": "Lhaviyani",
-    "MV-04": "Vaavu",
-    "MV-05": "Laamu",
-    "MV-08": "Thaa",
-    "MV-13": "Raa",
-    "MV-14": "Faafu",
-    "MV-20": "Baa",
-    "MV-25": "Noonu",
-    "MV-26": "Kaafu",
-    "MV-MLE": "Male",
-    "MV-NC": "North Central",
-    "MV-SC": "South Central",
-    "MV-US": "Upper South"
+    "MV-CE": "Merkezi"
 }

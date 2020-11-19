@@ -1,27 +1,22 @@
 {
     "SG-01": {
         "code": "SG-01",
-        "name": "Central Singapore",
         "type": "district"
     },
     "SG-02": {
         "code": "SG-02",
-        "name": "North East",
         "type": "district"
     },
     "SG-03": {
         "code": "SG-03",
-        "name": "North West",
         "type": "district"
     },
     "SG-04": {
         "code": "SG-04",
-        "name": "South East",
         "type": "district"
     },
     "SG-05": {
         "code": "SG-05",
-        "name": "South West",
         "type": "district"
     }
 }

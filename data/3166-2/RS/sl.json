@@ -1,5 +1,4 @@
 {
-    "RS-00": "Beograd",
     "RS-01": "Severnobaški okraj",
     "RS-02": "Osrednjebanatski okraj",
     "RS-03": "Severnobanatski okraj",
@@ -28,7 +27,5 @@
     "RS-26": "Peški okraj",
     "RS-27": "Prizrenski okraj",
     "RS-28": "Kosovsko-Mitroviški okraj",
-    "RS-29": "Kosovsko-Pomoravski okraj",
-    "RS-KM": "Kosovo-Metohija",
-    "RS-VO": "Vojvodina"
+    "RS-29": "Kosovsko-Pomoravski okraj"
 }

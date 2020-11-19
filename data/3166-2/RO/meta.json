@@ -1,212 +1,170 @@
 {
     "RO-AB": {
         "code": "RO-AB",
-        "name": "Alba",
         "type": "Department"
     },
     "RO-AG": {
         "code": "RO-AG",
-        "name": "Argeș",
         "type": "Department"
     },
     "RO-AR": {
         "code": "RO-AR",
-        "name": "Arad",
         "type": "Department"
     },
     "RO-B": {
         "code": "RO-B",
-        "name": "București",
         "type": "Municipality"
     },
     "RO-BC": {
         "code": "RO-BC",
-        "name": "Bacău",
         "type": "Department"
     },
     "RO-BH": {
         "code": "RO-BH",
-        "name": "Bihor",
         "type": "Department"
     },
     "RO-BN": {
         "code": "RO-BN",
-        "name": "Bistrița-Năsăud",
         "type": "Department"
     },
     "RO-BR": {
         "code": "RO-BR",
-        "name": "Brăila",
         "type": "Department"
     },
     "RO-BT": {
         "code": "RO-BT",
-        "name": "Botoșani",
         "type": "Department"
     },
     "RO-BV": {
         "code": "RO-BV",
-        "name": "Brașov",
         "type": "Department"
     },
     "RO-BZ": {
         "code": "RO-BZ",
-        "name": "Buzău",
         "type": "Department"
     },
     "RO-CJ": {
         "code": "RO-CJ",
-        "name": "Cluj",
         "type": "Department"
     },
     "RO-CL": {
         "code": "RO-CL",
-        "name": "Călărași",
         "type": "Department"
     },
     "RO-CS": {
         "code": "RO-CS",
-        "name": "Caraș-Severin",
         "type": "Department"
     },
     "RO-CT": {
         "code": "RO-CT",
-        "name": "Constanța",
         "type": "Department"
     },
     "RO-CV": {
         "code": "RO-CV",
-        "name": "Covasna",
         "type": "Department"
     },
     "RO-DB": {
         "code": "RO-DB",
-        "name": "Dâmbovița",
         "type": "Department"
     },
     "RO-DJ": {
         "code": "RO-DJ",
-        "name": "Dolj",
         "type": "Department"
     },
     "RO-GJ": {
         "code": "RO-GJ",
-        "name": "Gorj",
         "type": "Department"
     },
     "RO-GL": {
         "code": "RO-GL",
-        "name": "Galați",
         "type": "Department"
     },
     "RO-GR": {
         "code": "RO-GR",
-        "name": "Giurgiu",
         "type": "Department"
     },
     "RO-HD": {
         "code": "RO-HD",
-        "name": "Hunedoara",
         "type": "Department"
     },
     "RO-HR": {
         "code": "RO-HR",
-        "name": "Harghita",
         "type": "Department"
     },
     "RO-IF": {
         "code": "RO-IF",
-        "name": "Ilfov",
         "type": "Department"
     },
     "RO-IL": {
         "code": "RO-IL",
-        "name": "Ialomița",
         "type": "Department"
     },
     "RO-IS": {
         "code": "RO-IS",
-        "name": "Iași",
         "type": "Department"
     },
     "RO-MH": {
         "code": "RO-MH",
-        "name": "Mehedinți",
         "type": "Department"
     },
     "RO-MM": {
         "code": "RO-MM",
-        "name": "Maramureș",
         "type": "Department"
     },
     "RO-MS": {
         "code": "RO-MS",
-        "name": "Mureș",
         "type": "Department"
     },
     "RO-NT": {
         "code": "RO-NT",
-        "name": "Neamț",
         "type": "Department"
     },
     "RO-OT": {
         "code": "RO-OT",
-        "name": "Olt",
         "type": "Department"
     },
     "RO-PH": {
         "code": "RO-PH",
-        "name": "Prahova",
         "type": "Department"
     },
     "RO-SB": {
         "code": "RO-SB",
-        "name": "Sibiu",
         "type": "Department"
     },
     "RO-SJ": {
         "code": "RO-SJ",
-        "name": "Sălaj",
         "type": "Department"
     },
     "RO-SM": {
         "code": "RO-SM",
-        "name": "Satu Mare",
         "type": "Department"
     },
     "RO-SV": {
         "code": "RO-SV",
-        "name": "Suceava",
         "type": "Department"
     },
     "RO-TL": {
         "code": "RO-TL",
-        "name": "Tulcea",
         "type": "Department"
     },
     "RO-TM": {
         "code": "RO-TM",
-        "name": "Timiș",
         "type": "Department"
     },
     "RO-TR": {
         "code": "RO-TR",
-        "name": "Teleorman",
         "type": "Department"
     },
     "RO-VL": {
         "code": "RO-VL",
-        "name": "Vâlcea",
         "type": "Department"
     },
     "RO-VN": {
         "code": "RO-VN",
-        "name": "Vrancea",
         "type": "Department"
     },
     "RO-VS": {
         "code": "RO-VS",
-        "name": "Vaslui",
         "type": "Department"
     }
 }

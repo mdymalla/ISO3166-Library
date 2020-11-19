@@ -1,62 +1,50 @@
 {
     "JO-AJ": {
         "code": "JO-AJ",
-        "name": "‘Ajlūn",
         "type": "Governorate"
     },
     "JO-AM": {
         "code": "JO-AM",
-        "name": "‘Ammān (Al ‘Aşimah)",
         "type": "Governorate"
     },
     "JO-AQ": {
         "code": "JO-AQ",
-        "name": "Al ‘Aqabah",
         "type": "Governorate"
     },
     "JO-AT": {
         "code": "JO-AT",
-        "name": "Aţ Ţafīlah",
         "type": "Governorate"
     },
     "JO-AZ": {
         "code": "JO-AZ",
-        "name": "Az Zarqā'",
         "type": "Governorate"
     },
     "JO-BA": {
         "code": "JO-BA",
-        "name": "Al Balqā'",
         "type": "Governorate"
     },
     "JO-IR": {
         "code": "JO-IR",
-        "name": "Irbid",
         "type": "Governorate"
     },
     "JO-JA": {
         "code": "JO-JA",
-        "name": "Jarash",
         "type": "Governorate"
     },
     "JO-KA": {
         "code": "JO-KA",
-        "name": "Al Karak",
         "type": "Governorate"
     },
     "JO-MA": {
         "code": "JO-MA",
-        "name": "Al Mafraq",
         "type": "Governorate"
     },
     "JO-MD": {
         "code": "JO-MD",
-        "name": "Mādabā",
         "type": "Governorate"
     },
     "JO-MN": {
         "code": "JO-MN",
-        "name": "Ma‘ān",
         "type": "Governorate"
     }
 }

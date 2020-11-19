@@ -1,112 +1,90 @@
 {
     "TD-BA": {
         "code": "TD-BA",
-        "name": "Al Baṭḩah",
         "type": "Region"
     },
     "TD-BG": {
         "code": "TD-BG",
-        "name": "Baḩr al Ghazāl",
         "type": "Region"
     },
     "TD-BO": {
         "code": "TD-BO",
-        "name": "Būrkū",
         "type": "Region"
     },
     "TD-CB": {
         "code": "TD-CB",
-        "name": "Shārī Bāqirmī",
         "type": "Region"
     },
     "TD-EN": {
         "code": "TD-EN",
-        "name": "Innīdī",
         "type": "Region"
     },
     "TD-GR": {
         "code": "TD-GR",
-        "name": "Qīrā",
         "type": "Region"
     },
     "TD-HL": {
         "code": "TD-HL",
-        "name": "Ḥajjar Lamīs",
         "type": "Region"
     },
     "TD-KA": {
         "code": "TD-KA",
-        "name": "Kānim",
         "type": "Region"
     },
     "TD-LC": {
         "code": "TD-LC",
-        "name": "Al Buḩayrah",
         "type": "Region"
     },
     "TD-LO": {
         "code": "TD-LO",
-        "name": "Lūqūn al Gharbī",
         "type": "Region"
     },
     "TD-LR": {
         "code": "TD-LR",
-        "name": "Lūqūn ash Sharqī",
         "type": "Region"
     },
     "TD-MA": {
         "code": "TD-MA",
-        "name": "Māndūl",
         "type": "Region"
     },
     "TD-MC": {
         "code": "TD-MC",
-        "name": "Shārī al Awsaṭ",
         "type": "Region"
     },
     "TD-ME": {
         "code": "TD-ME",
-        "name": "Māyū Kībbī ash Sharqī",
         "type": "Region"
     },
     "TD-MO": {
         "code": "TD-MO",
-        "name": "Māyū Kībbī al Gharbī",
         "type": "Region"
     },
     "TD-ND": {
         "code": "TD-ND",
-        "name": "Madīnat Injamīnā",
         "type": "Region"
     },
     "TD-OD": {
         "code": "TD-OD",
-        "name": "Waddāy",
         "type": "Region"
     },
     "TD-SA": {
         "code": "TD-SA",
-        "name": "Salāmāt",
         "type": "Region"
     },
     "TD-SI": {
         "code": "TD-SI",
-        "name": "Sīlā",
         "type": "Region"
     },
     "TD-TA": {
         "code": "TD-TA",
-        "name": "Tānjilī",
         "type": "Region"
     },
     "TD-TI": {
         "code": "TD-TI",
-        "name": "Tibastī",
         "type": "Region"
     },
     "TD-WF": {
         "code": "TD-WF",
-        "name": "Wādī Fīrā",
         "type": "Region"
     }
 }

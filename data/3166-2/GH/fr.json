@@ -1,12 +1,8 @@
 {
-    "GH-CP": "Central",
     "GH-EP": "Est",
     "GH-NP": "Nord",
     "GH-WP": "Ouest",
     "GH-AA": "Grand Accra",
-    "GH-AH": "Ashanti",
-    "GH-BA": "Brong-Ahafo",
-    "GH-TV": "Volta",
     "GH-UE": "Haut Ghana oriental",
     "GH-UW": "Haut Ghana Occidental"
 }

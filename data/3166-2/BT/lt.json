@@ -1,15 +1,11 @@
 {
-    "BT-11": "Paro",
     "BT-12": "Čukcha",
     "BT-13": "Haa",
     "BT-14": "Samcė",
     "BT-15": "Timpu",
     "BT-21": "Tsirangas",
-    "BT-22": "Dagana",
-    "BT-23": "Punakha",
     "BT-24": "Vangdue Phodrangas",
     "BT-31": "Sarpangas",
-    "BT-32": "Trongsa",
     "BT-33": "Bumtangas",
     "BT-34": "Žemgangas",
     "BT-41": "Trašigangas",
@@ -17,6 +13,5 @@
     "BT-43": "Pemagačelas",
     "BT-44": "Lhuncė",
     "BT-45": "Samdrupas Džongkharas",
-    "BT-GA": "Gasa",
     "BT-TY": "Trašijangcė"
 }

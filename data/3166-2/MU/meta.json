@@ -1,87 +1,70 @@
 {
     "MU-AG": {
         "code": "MU-AG",
-        "name": "Agalega Islands",
         "type": "Dependency"
     },
     "MU-BL": {
         "code": "MU-BL",
-        "name": "Black River",
         "type": "District"
     },
     "MU-BR": {
         "code": "MU-BR",
-        "name": "Beau Bassin-Rose Hill",
         "type": "City"
     },
     "MU-CC": {
         "code": "MU-CC",
-        "name": "Cargados Carajos Shoals",
         "type": "Dependency"
     },
     "MU-CU": {
         "code": "MU-CU",
-        "name": "Curepipe",
         "type": "City"
     },
     "MU-FL": {
         "code": "MU-FL",
-        "name": "Flacq",
         "type": "District"
     },
     "MU-GP": {
         "code": "MU-GP",
-        "name": "Grand Port",
         "type": "District"
     },
     "MU-MO": {
         "code": "MU-MO",
-        "name": "Moka",
         "type": "District"
     },
     "MU-PA": {
         "code": "MU-PA",
-        "name": "Pamplemousses",
         "type": "District"
     },
     "MU-PL": {
         "code": "MU-PL",
-        "name": "Port Louis",
         "type": "District"
     },
     "MU-PU": {
         "code": "MU-PU",
-        "name": "Port Louis",
         "type": "City"
     },
     "MU-PW": {
         "code": "MU-PW",
-        "name": "Plaines Wilhems",
         "type": "District"
     },
     "MU-QB": {
         "code": "MU-QB",
-        "name": "Quatre Bornes",
         "type": "City"
     },
     "MU-RO": {
         "code": "MU-RO",
-        "name": "Rodrigues Island",
         "type": "Dependency"
     },
     "MU-RP": {
         "code": "MU-RP",
-        "name": "Rivière du Rempart",
         "type": "District"
     },
     "MU-SA": {
         "code": "MU-SA",
-        "name": "Savanne",
         "type": "District"
     },
     "MU-VP": {
         "code": "MU-VP",
-        "name": "Vacoas-Phoenix",
         "type": "City"
     }
 }

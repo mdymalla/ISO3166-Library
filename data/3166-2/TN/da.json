@@ -1,25 +1,4 @@
 {
-    "TN-11": "Tunis",
-    "TN-13": "Ben Arous",
-    "TN-14": "La Manouba",
-    "TN-21": "Nabeul",
-    "TN-22": "Zaghouan",
-    "TN-23": "Bizerte",
     "TN-31": "Beja",
-    "TN-32": "Jendouba",
-    "TN-33": "Le Kef",
-    "TN-34": "Siliana",
-    "TN-41": "Kairouan",
-    "TN-42": "Kasserine",
-    "TN-43": "Sidi Bouzid",
-    "TN-51": "Sousse",
-    "TN-52": "Monastir",
-    "TN-53": "Mahdia",
-    "TN-61": "Sfax",
-    "TN-71": "Gafsa",
-    "TN-72": "Tozeur",
-    "TN-73": "Kebili",
-    "TN-81": "Gabes",
-    "TN-82": "Medenine",
-    "TN-83": "Tataouine"
+    "TN-81": "Gabes"
 }

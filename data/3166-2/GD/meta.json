@@ -1,37 +1,30 @@
 {
     "GD-01": {
         "code": "GD-01",
-        "name": "Saint Andrew",
         "type": "Parish"
     },
     "GD-02": {
         "code": "GD-02",
-        "name": "Saint David",
         "type": "Parish"
     },
     "GD-03": {
         "code": "GD-03",
-        "name": "Saint George",
         "type": "Parish"
     },
     "GD-04": {
         "code": "GD-04",
-        "name": "Saint John",
         "type": "Parish"
     },
     "GD-05": {
         "code": "GD-05",
-        "name": "Saint Mark",
         "type": "Parish"
     },
     "GD-06": {
         "code": "GD-06",
-        "name": "Saint Patrick",
         "type": "Parish"
     },
     "GD-10": {
         "code": "GD-10",
-        "name": "Southern Grenadine Islands",
         "type": "Dependency"
     }
 }

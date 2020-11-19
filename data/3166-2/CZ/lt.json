@@ -1,19 +1,4 @@
 {
-    "CZ-101": "Praha 1",
-    "CZ-102": "Praha 2",
-    "CZ-103": "Praha 3",
-    "CZ-104": "Praha 4",
-    "CZ-105": "Praha 5",
-    "CZ-106": "Praha 6",
-    "CZ-107": "Praha 7",
-    "CZ-108": "Praha 8",
-    "CZ-109": "Praha 9",
-    "CZ-110": "Praha 10",
-    "CZ-111": "Praha 11",
-    "CZ-112": "Praha 12",
-    "CZ-113": "Praha 13",
-    "CZ-114": "Praha 14",
-    "CZ-115": "Praha 15",
     "CZ-20": "Vidurio Čekijos kraštas",
     "CZ-203": "Kladnas",
     "CZ-204": "Kolynas",
@@ -27,7 +12,6 @@
     "CZ-316": "Strakonicės",
     "CZ-317": "Taboras",
     "CZ-32": "Pilzeno kraštas",
-    "CZ-321": "Domažlice",
     "CZ-322": "Klatovai",
     "CZ-41": "Karlovi Varų kraštas",
     "CZ-411": "Chebas",
@@ -51,7 +35,6 @@
     "CZ-531": "Chrudimas",
     "CZ-532": "Pardubicės",
     "CZ-631": "Havličkūv Brodas",
-    "CZ-632": "Jihlava",
     "CZ-634": "Tršebyčius",
     "CZ-64": "Pietų Moravijos kraštas",
     "CZ-641": "Blanskas",
@@ -67,6 +50,5 @@
     "CZ-724": "Zlynas",
     "CZ-80": "Moravijos-Silezijos kraštas",
     "CZ-803": "Karvina",
-    "CZ-804": "Jovy Jičynas",
-    "CZ-805": "Opava"
+    "CZ-804": "Jovy Jičynas"
 }

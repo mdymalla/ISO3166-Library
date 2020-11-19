@@ -1,17 +1,14 @@
 {
     "KM-A": {
         "code": "KM-A",
-        "name": "Andjouân (Anjwān)",
         "type": "Island"
     },
     "KM-G": {
         "code": "KM-G",
-        "name": "Andjazîdja (Anjazījah)",
         "type": "Island"
     },
     "KM-M": {
         "code": "KM-M",
-        "name": "Moûhîlî (Mūhīlī)",
         "type": "Island"
     }
 }

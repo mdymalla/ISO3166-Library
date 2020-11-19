@@ -1,17 +1,14 @@
 {
     "LU-D": {
         "code": "LU-D",
-        "name": "Diekirch",
         "type": "District"
     },
     "LU-G": {
         "code": "LU-G",
-        "name": "Grevenmacher",
         "type": "District"
     },
     "LU-L": {
         "code": "LU-L",
-        "name": "Luxembourg",
         "type": "District"
     }
 }

@@ -1,62 +1,50 @@
 {
     "BJ-AK": {
         "code": "BJ-AK",
-        "name": "Atakora",
         "type": "Department"
     },
     "BJ-AL": {
         "code": "BJ-AL",
-        "name": "Alibori",
         "type": "Department"
     },
     "BJ-AQ": {
         "code": "BJ-AQ",
-        "name": "Atlantique",
         "type": "Department"
     },
     "BJ-BO": {
         "code": "BJ-BO",
-        "name": "Borgou",
         "type": "Department"
     },
     "BJ-CO": {
         "code": "BJ-CO",
-        "name": "Collines",
         "type": "Department"
     },
     "BJ-DO": {
         "code": "BJ-DO",
-        "name": "Donga",
         "type": "Department"
     },
     "BJ-KO": {
         "code": "BJ-KO",
-        "name": "Kouffo",
         "type": "Department"
     },
     "BJ-LI": {
         "code": "BJ-LI",
-        "name": "Littoral",
         "type": "Department"
     },
     "BJ-MO": {
         "code": "BJ-MO",
-        "name": "Mono",
         "type": "Department"
     },
     "BJ-OU": {
         "code": "BJ-OU",
-        "name": "Ouémé",
         "type": "Department"
     },
     "BJ-PL": {
         "code": "BJ-PL",
-        "name": "Plateau",
         "type": "Department"
     },
     "BJ-ZO": {
         "code": "BJ-ZO",
-        "name": "Zou",
         "type": "Department"
     }
 }

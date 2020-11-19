@@ -2,9 +2,7 @@
     "IQ-AN": "Al-Anbar",
     "IQ-AR": "Irbil",
     "IQ-BA": "Basra",
-    "IQ-BB": "Babil",
     "IQ-BG": "Bagdad",
-    "IQ-DA": "Dahuk",
     "IQ-DI": "Dijala",
     "IQ-DQ": "Zi Kar",
     "IQ-KA": "Karbala",
@@ -15,6 +13,5 @@
     "IQ-QA": "Al-Kadisijja",
     "IQ-SD": "Salah Ad-Din",
     "IQ-SW": "As-Sulajmanijja",
-    "IQ-TS": "At-Tamim",
-    "IQ-WA": "Wasit"
+    "IQ-TS": "At-Tamim"
 }

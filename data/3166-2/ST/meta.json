@@ -1,12 +1,10 @@
 {
     "ST-P": {
         "code": "ST-P",
-        "name": "Príncipe",
         "type": "Municipality"
     },
     "ST-S": {
         "code": "ST-S",
-        "name": "São Tomé",
         "type": "Municipality"
     }
 }

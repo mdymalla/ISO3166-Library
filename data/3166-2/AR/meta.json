@@ -1,117 +1,94 @@
 {
     "AR-A": {
         "code": "AR-A",
-        "name": "Salta",
         "type": "Province"
     },
     "AR-B": {
         "code": "AR-B",
-        "name": "Buenos Aires",
         "type": "Province"
     },
     "AR-C": {
         "code": "AR-C",
-        "name": "Ciudad Autónoma de Buenos Aires",
         "type": "City"
     },
     "AR-D": {
         "code": "AR-D",
-        "name": "San Luis",
         "type": "Province"
     },
     "AR-E": {
         "code": "AR-E",
-        "name": "Entre Rios",
         "type": "Province"
     },
     "AR-G": {
         "code": "AR-G",
-        "name": "Santiago del Estero",
         "type": "Province"
     },
     "AR-H": {
         "code": "AR-H",
-        "name": "Chaco",
         "type": "Province"
     },
     "AR-J": {
         "code": "AR-J",
-        "name": "San Juan",
         "type": "Province"
     },
     "AR-K": {
         "code": "AR-K",
-        "name": "Catamarca",
         "type": "Province"
     },
     "AR-L": {
         "code": "AR-L",
-        "name": "La Pampa",
         "type": "Province"
     },
     "AR-M": {
         "code": "AR-M",
-        "name": "Mendoza",
         "type": "Province"
     },
     "AR-N": {
         "code": "AR-N",
-        "name": "Misiones",
         "type": "Province"
     },
     "AR-P": {
         "code": "AR-P",
-        "name": "Formosa",
         "type": "Province"
     },
     "AR-Q": {
         "code": "AR-Q",
-        "name": "Neuquen",
         "type": "Province"
     },
     "AR-R": {
         "code": "AR-R",
-        "name": "Rio Negro",
         "type": "Province"
     },
     "AR-S": {
         "code": "AR-S",
-        "name": "Santa Fe",
         "type": "Province"
     },
     "AR-T": {
         "code": "AR-T",
-        "name": "Tucuman",
         "type": "Province"
     },
     "AR-U": {
         "code": "AR-U",
-        "name": "Chubut",
         "type": "Province"
     },
     "AR-V": {
         "code": "AR-V",
-        "name": "Tierra del Fuego",
         "type": "Province"
     },
     "AR-W": {
         "code": "AR-W",
-        "name": "Corrientes",
         "type": "Province"
     },
     "AR-X": {
         "code": "AR-X",
-        "name": "Cordoba",
         "type": "Province"
     },
     "AR-Y": {
         "code": "AR-Y",
-        "name": "Jujuy",
         "type": "Province"
     },
     "AR-Z": {
         "code": "AR-Z",
-        "name": "Santa Cruz",
         "type": "Province"
     }
 }

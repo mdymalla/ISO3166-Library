@@ -1,82 +1,66 @@
 {
     "PW-002": {
         "code": "PW-002",
-        "name": "Aimeliik",
         "type": "State"
     },
     "PW-004": {
         "code": "PW-004",
-        "name": "Airai",
         "type": "State"
     },
     "PW-010": {
         "code": "PW-010",
-        "name": "Angaur",
         "type": "State"
     },
     "PW-050": {
         "code": "PW-050",
-        "name": "Hatobohei",
         "type": "State"
     },
     "PW-100": {
         "code": "PW-100",
-        "name": "Kayangel",
         "type": "State"
     },
     "PW-150": {
         "code": "PW-150",
-        "name": "Koror",
         "type": "State"
     },
     "PW-212": {
         "code": "PW-212",
-        "name": "Melekeok",
         "type": "State"
     },
     "PW-214": {
         "code": "PW-214",
-        "name": "Ngaraard",
         "type": "State"
     },
     "PW-218": {
         "code": "PW-218",
-        "name": "Ngarchelong",
         "type": "State"
     },
     "PW-222": {
         "code": "PW-222",
-        "name": "Ngardmau",
         "type": "State"
     },
     "PW-224": {
         "code": "PW-224",
-        "name": "Ngatpang",
         "type": "State"
     },
     "PW-226": {
         "code": "PW-226",
-        "name": "Ngchesar",
         "type": "State"
     },
     "PW-227": {
         "code": "PW-227",
-        "name": "Ngeremlengui",
         "type": "State"
     },
     "PW-228": {
         "code": "PW-228",
-        "name": "Ngiwal",
         "type": "State"
     },
     "PW-350": {
         "code": "PW-350",
-        "name": "Peleliu",
         "type": "State"
     },
     "PW-370": {
         "code": "PW-370",
-        "name": "Sonsorol",
         "type": "State"
     }
 }

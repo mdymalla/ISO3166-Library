@@ -1,143 +1,119 @@
 {
     "CV-B": {
         "code": "CV-B",
-        "name": "Ilhas de Barlavento",
         "type": "Geographical region"
     },
     "CV-BR": {
         "code": "CV-BR",
-        "name": "Brava",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-BV": {
         "code": "CV-BV",
-        "name": "Boa Vista",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-CA": {
         "code": "CV-CA",
-        "name": "Santa Catarina",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-CF": {
         "code": "CV-CF",
-        "name": "Santa Catarina de Fogo",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-CR": {
         "code": "CV-CR",
-        "name": "Santa Cruz",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-MA": {
         "code": "CV-MA",
-        "name": "Maio",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-MO": {
         "code": "CV-MO",
-        "name": "Mosteiros",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-PA": {
         "code": "CV-PA",
-        "name": "Paul",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-PN": {
         "code": "CV-PN",
-        "name": "Porto Novo",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-PR": {
         "code": "CV-PR",
-        "name": "Praia",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-RB": {
         "code": "CV-RB",
-        "name": "Ribeira Brava",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-RG": {
         "code": "CV-RG",
-        "name": "Ribeira Grande",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-RS": {
         "code": "CV-RS",
-        "name": "Ribeira Grande de Santiago",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-S": {
         "code": "CV-S",
-        "name": "Ilhas de Sotavento",
         "type": "Geographical region"
     },
     "CV-SD": {
         "code": "CV-SD",
-        "name": "São Domingos",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-SF": {
         "code": "CV-SF",
-        "name": "São Filipe",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-SL": {
         "code": "CV-SL",
-        "name": "Sal",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-SM": {
         "code": "CV-SM",
-        "name": "São Miguel",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-SO": {
         "code": "CV-SO",
-        "name": "São Lourenço dos Órgãos",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-SS": {
         "code": "CV-SS",
-        "name": "São Salvador do Mundo",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-SV": {
         "code": "CV-SV",
-        "name": "São Vicente",
         "type": "Municipality",
         "parent": "B"
     },
     "CV-TA": {
         "code": "CV-TA",
-        "name": "Tarrafal",
         "type": "Municipality",
         "parent": "S"
     },
     "CV-TS": {
         "code": "CV-TS",
-        "name": "Tarrafal de São Nicolau",
         "type": "Municipality",
         "parent": "S"
     }

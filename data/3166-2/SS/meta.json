@@ -1,52 +1,42 @@
 {
     "SS-BN": {
         "code": "SS-BN",
-        "name": "Northern Bahr el Ghazal",
         "type": "State"
     },
     "SS-BW": {
         "code": "SS-BW",
-        "name": "Western Bahr el Ghazal",
         "type": "State"
     },
     "SS-EC": {
         "code": "SS-EC",
-        "name": "Central Equatoria",
         "type": "State"
     },
     "SS-EE": {
         "code": "SS-EE",
-        "name": "Eastern Equatoria",
         "type": "State"
     },
     "SS-EW": {
         "code": "SS-EW",
-        "name": "Western Equatoria",
         "type": "State"
     },
     "SS-JG": {
         "code": "SS-JG",
-        "name": "Jonglei",
         "type": "State"
     },
     "SS-LK": {
         "code": "SS-LK",
-        "name": "Lakes",
         "type": "State"
     },
     "SS-NU": {
         "code": "SS-NU",
-        "name": "Upper Nile",
         "type": "State"
     },
     "SS-UY": {
         "code": "SS-UY",
-        "name": "Unity",
         "type": "State"
     },
     "SS-WR": {
         "code": "SS-WR",
-        "name": "Warrap",
         "type": "State"
     }
 }

@@ -1,97 +1,78 @@
 {
     "FI-01": {
         "code": "FI-01",
-        "name": "Ahvenanmaan maakunta",
         "type": "Region"
     },
     "FI-02": {
         "code": "FI-02",
-        "name": "Etelä-Karjala",
         "type": "Region"
     },
     "FI-03": {
         "code": "FI-03",
-        "name": "Etelä-Pohjanmaa",
         "type": "Region"
     },
     "FI-04": {
         "code": "FI-04",
-        "name": "Etelä-Savo",
         "type": "Region"
     },
     "FI-05": {
         "code": "FI-05",
-        "name": "Kainuu",
         "type": "Region"
     },
     "FI-06": {
         "code": "FI-06",
-        "name": "Kanta-Häme",
         "type": "Region"
     },
     "FI-07": {
         "code": "FI-07",
-        "name": "Keski-Pohjanmaa",
         "type": "Region"
     },
     "FI-08": {
         "code": "FI-08",
-        "name": "Keski-Suomi",
         "type": "Region"
     },
     "FI-09": {
         "code": "FI-09",
-        "name": "Kymenlaakso",
         "type": "Region"
     },
     "FI-10": {
         "code": "FI-10",
-        "name": "Lappi",
         "type": "Region"
     },
     "FI-11": {
         "code": "FI-11",
-        "name": "Pirkanmaa",
         "type": "Region"
     },
     "FI-12": {
         "code": "FI-12",
-        "name": "Pohjanmaa",
         "type": "Region"
     },
     "FI-13": {
         "code": "FI-13",
-        "name": "Pohjois-Karjala",
         "type": "Region"
     },
     "FI-14": {
         "code": "FI-14",
-        "name": "Pohjois-Pohjanmaa",
         "type": "Region"
     },
     "FI-15": {
         "code": "FI-15",
-        "name": "Pohjois-Savo",
         "type": "Region"
     },
     "FI-16": {
         "code": "FI-16",
-        "name": "Päijät-Häme",
         "type": "Region"
     },
     "FI-17": {
         "code": "FI-17",
-        "name": "Satakunta",
         "type": "Region"
     },
     "FI-18": {
         "code": "FI-18",
-        "name": "Uusimaa",
         "type": "Region"
     },
     "FI-19": {
         "code": "FI-19",
-        "name": "Varsinais-Suomi",
         "type": "Region"
     }
 }

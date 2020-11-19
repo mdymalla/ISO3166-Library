@@ -6,9 +6,9 @@ use MJDymalla\ISO3166Data\Model\Translation;
 
 class SubDivisionTranslation
 {
-    public static function normalize(Translation $translation): array
+    public static function normalize(Translation $translation): string
     {
-
+        return $translation->getTranslation();
     }
 
     public static function denormalize(string $A2, string $locale, string $translation): Translation

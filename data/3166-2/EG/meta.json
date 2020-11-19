@@ -1,142 +1,114 @@
 {
     "EG-ALX": {
         "code": "EG-ALX",
-        "name": "Al Iskandarīyah",
         "type": "Governorate"
     },
     "EG-ASN": {
         "code": "EG-ASN",
-        "name": "Aswān",
         "type": "Governorate"
     },
     "EG-AST": {
         "code": "EG-AST",
-        "name": "Asyūt",
         "type": "Governorate"
     },
     "EG-BA": {
         "code": "EG-BA",
-        "name": "Al Bahr al Ahmar",
         "type": "Governorate"
     },
     "EG-BH": {
         "code": "EG-BH",
-        "name": "Al Buhayrah",
         "type": "Governorate"
     },
     "EG-BNS": {
         "code": "EG-BNS",
-        "name": "Banī Suwayf",
         "type": "Governorate"
     },
     "EG-C": {
         "code": "EG-C",
-        "name": "Al Qāhirah",
         "type": "Governorate"
     },
     "EG-DK": {
         "code": "EG-DK",
-        "name": "Ad Daqahlīyah",
         "type": "Governorate"
     },
     "EG-DT": {
         "code": "EG-DT",
-        "name": "Dumyāt",
         "type": "Governorate"
     },
     "EG-FYM": {
         "code": "EG-FYM",
-        "name": "Al Fayyūm",
         "type": "Governorate"
     },
     "EG-GH": {
         "code": "EG-GH",
-        "name": "Al Gharbīyah",
         "type": "Governorate"
     },
     "EG-GZ": {
         "code": "EG-GZ",
-        "name": "Al Jīzah",
         "type": "Governorate"
     },
     "EG-HU": {
         "code": "EG-HU",
-        "name": "Ḩulwān",
         "type": "Governorate"
     },
     "EG-IS": {
         "code": "EG-IS",
-        "name": "Al Ismā`īlīyah",
         "type": "Governorate"
     },
     "EG-JS": {
         "code": "EG-JS",
-        "name": "Janūb Sīnā'",
         "type": "Governorate"
     },
     "EG-KB": {
         "code": "EG-KB",
-        "name": "Al Qalyūbīyah",
         "type": "Governorate"
     },
     "EG-KFS": {
         "code": "EG-KFS",
-        "name": "Kafr ash Shaykh",
         "type": "Governorate"
     },
     "EG-KN": {
         "code": "EG-KN",
-        "name": "Qinā",
         "type": "Governorate"
     },
     "EG-MN": {
         "code": "EG-MN",
-        "name": "Al Minyā",
         "type": "Governorate"
     },
     "EG-MNF": {
         "code": "EG-MNF",
-        "name": "Al Minūfīyah",
         "type": "Governorate"
     },
     "EG-MT": {
         "code": "EG-MT",
-        "name": "Matrūh",
         "type": "Governorate"
     },
     "EG-PTS": {
         "code": "EG-PTS",
-        "name": "Būr Sa`īd",
         "type": "Governorate"
     },
     "EG-SHG": {
         "code": "EG-SHG",
-        "name": "Sūhāj",
         "type": "Governorate"
     },
     "EG-SHR": {
         "code": "EG-SHR",
-        "name": "Ash Sharqīyah",
         "type": "Governorate"
     },
     "EG-SIN": {
         "code": "EG-SIN",
-        "name": "Shamal Sīnā'",
         "type": "Governorate"
     },
     "EG-SU": {
         "code": "EG-SU",
-        "name": "As Sādis min Uktūbar",
         "type": "Governorate"
     },
     "EG-SUZ": {
         "code": "EG-SUZ",
-        "name": "As Suways",
         "type": "Governorate"
     },
     "EG-WAD": {
         "code": "EG-WAD",
-        "name": "Al Wādī al Jadīd",
         "type": "Governorate"
     }
 }

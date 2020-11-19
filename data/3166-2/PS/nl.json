@@ -1,18 +1,5 @@
 {
-    "PS-GZA": "Gaza",
-    "PS-BTH": "Bethlehem",
-    "PS-DEB": "Deir El Balah",
-    "PS-HBN": "Hebron",
     "PS-JEM": "Jeruzalem",
-    "PS-JEN": "Jenin",
     "PS-JRH": "Jericho",
-    "PS-KYS": "Khan Yunis",
-    "PS-NBS": "Nablus",
-    "PS-NGZ": "Noord-Gaza",
-    "PS-QQA": "Qalqilya",
-    "PS-RBH": "Ramallah",
-    "PS-RFH": "Rafah",
-    "PS-SLT": "Salfit",
-    "PS-TBS": "Tubas",
-    "PS-TKM": "Tulkarm"
+    "PS-NGZ": "Noord-Gaza"
 }

@@ -1,15 +1,5 @@
 {
     "PG-CPM": "Merkezi",
     "PG-NPP": "Kuzey",
-    "PG-WPD": "Batı",
-    "PG-EPW": "Enga",
-    "PG-ESW": "East Sepik",
-    "PG-MPL": "Morobe",
-    "PG-MPM": "Madang",
-    "PG-MRL": "Manus",
-    "PG-NIK": "New Ireland",
-    "PG-NSB": "Bougainville",
-    "PG-SAN": "Sandaun",
-    "PG-SHM": "Southern Highlands",
-    "PG-WHM": "Western Highlands"
+    "PG-WPD": "Batı"
 }

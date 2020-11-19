@@ -1,172 +1,138 @@
 {
     "CN-AH": {
         "code": "CN-AH",
-        "name": "Anhui Sheng",
         "type": "Province"
     },
     "CN-BJ": {
         "code": "CN-BJ",
-        "name": "Beijing Shi",
         "type": "Municipality"
     },
     "CN-CQ": {
         "code": "CN-CQ",
-        "name": "Chongqing Shi",
         "type": "Municipality"
     },
     "CN-FJ": {
         "code": "CN-FJ",
-        "name": "Fujian Sheng",
         "type": "Province"
     },
     "CN-GD": {
         "code": "CN-GD",
-        "name": "Guangdong Sheng",
         "type": "Province"
     },
     "CN-GS": {
         "code": "CN-GS",
-        "name": "Gansu Sheng",
         "type": "Province"
     },
     "CN-GX": {
         "code": "CN-GX",
-        "name": "Guangxi Zhuangzu Zizhiqu",
         "type": "Autonomous region"
     },
     "CN-GZ": {
         "code": "CN-GZ",
-        "name": "Guizhou Sheng",
         "type": "Province"
     },
     "CN-HA": {
         "code": "CN-HA",
-        "name": "Henan Sheng",
         "type": "Province"
     },
     "CN-HB": {
         "code": "CN-HB",
-        "name": "Hubei Sheng",
         "type": "Province"
     },
     "CN-HE": {
         "code": "CN-HE",
-        "name": "Hebei Sheng",
         "type": "Province"
     },
     "CN-HI": {
         "code": "CN-HI",
-        "name": "Hainan Sheng",
         "type": "Province"
     },
     "CN-HK": {
         "code": "CN-HK",
-        "name": "Hong Kong SAR (see also separate country code entry under HK)",
         "type": "Special administrative region"
     },
     "CN-HL": {
         "code": "CN-HL",
-        "name": "Heilongjiang Sheng",
         "type": "Province"
     },
     "CN-HN": {
         "code": "CN-HN",
-        "name": "Hunan Sheng",
         "type": "Province"
     },
     "CN-JL": {
         "code": "CN-JL",
-        "name": "Jilin Sheng",
         "type": "Province"
     },
     "CN-JS": {
         "code": "CN-JS",
-        "name": "Jiangsu Sheng",
         "type": "Province"
     },
     "CN-JX": {
         "code": "CN-JX",
-        "name": "Jiangxi Sheng",
         "type": "Province"
     },
     "CN-LN": {
         "code": "CN-LN",
-        "name": "Liaoning Sheng",
         "type": "Province"
     },
     "CN-MO": {
         "code": "CN-MO",
-        "name": "Macao SAR (see also separate country code entry under MO)",
         "type": "Special administrative region"
     },
     "CN-NM": {
         "code": "CN-NM",
-        "name": "Nei Mongol Zizhiqu",
         "type": "Autonomous region"
     },
     "CN-NX": {
         "code": "CN-NX",
-        "name": "Ningxia Huizi Zizhiqu",
         "type": "Autonomous region"
     },
     "CN-QH": {
         "code": "CN-QH",
-        "name": "Qinghai Sheng",
         "type": "Province"
     },
     "CN-SC": {
         "code": "CN-SC",
-        "name": "Sichuan Sheng",
         "type": "Province"
     },
     "CN-SD": {
         "code": "CN-SD",
-        "name": "Shandong Sheng",
         "type": "Province"
     },
     "CN-SH": {
         "code": "CN-SH",
-        "name": "Shanghai Shi",
         "type": "Municipality"
     },
     "CN-SN": {
         "code": "CN-SN",
-        "name": "Shaanxi Sheng",
         "type": "Province"
     },
     "CN-SX": {
         "code": "CN-SX",
-        "name": "Shanxi Sheng",
         "type": "Province"
     },
     "CN-TJ": {
         "code": "CN-TJ",
-        "name": "Tianjin Shi",
         "type": "Municipality"
     },
     "CN-TW": {
         "code": "CN-TW",
-        "name": "Taiwan Sheng (see also separate country code entry under TW)",
         "type": "Province"
     },
     "CN-XJ": {
         "code": "CN-XJ",
-        "name": "Xinjiang Uygur Zizhiqu",
         "type": "Autonomous region"
     },
     "CN-XZ": {
         "code": "CN-XZ",
-        "name": "Xizang Zizhiqu",
         "type": "Autonomous region"
     },
     "CN-YN": {
         "code": "CN-YN",
-        "name": "Yunnan Sheng",
         "type": "Province"
     },
     "CN-ZJ": {
         "code": "CN-ZJ",
-        "name": "Zhejiang Sheng",
         "type": "Province"
     }
 }

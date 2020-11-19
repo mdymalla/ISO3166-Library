@@ -1,110 +1,91 @@
 {
     "NP-1": {
         "code": "NP-1",
-        "name": "Madhyamanchal",
         "type": "Development region"
     },
     "NP-2": {
         "code": "NP-2",
-        "name": "Madhya Pashchimanchal",
         "type": "Development region"
     },
     "NP-3": {
         "code": "NP-3",
-        "name": "Pashchimanchal",
         "type": "Development region"
     },
     "NP-4": {
         "code": "NP-4",
-        "name": "Purwanchal",
         "type": "Development region"
     },
     "NP-5": {
         "code": "NP-5",
-        "name": "Sudur Pashchimanchal",
         "type": "Development region"
     },
     "NP-BA": {
         "code": "NP-BA",
-        "name": "Bagmati",
         "type": "Zone",
         "parent": "1"
     },
     "NP-BH": {
         "code": "NP-BH",
-        "name": "Bheri",
         "type": "Zone",
         "parent": "2"
     },
     "NP-DH": {
         "code": "NP-DH",
-        "name": "Dhawalagiri",
         "type": "Zone",
         "parent": "3"
     },
     "NP-GA": {
         "code": "NP-GA",
-        "name": "Gandaki",
         "type": "Zone",
         "parent": "3"
     },
     "NP-JA": {
         "code": "NP-JA",
-        "name": "Janakpur",
         "type": "Zone",
         "parent": "1"
     },
     "NP-KA": {
         "code": "NP-KA",
-        "name": "Karnali",
         "type": "Zone",
         "parent": "2"
     },
     "NP-KO": {
         "code": "NP-KO",
-        "name": "Kosi",
         "type": "Zone",
         "parent": "4"
     },
     "NP-LU": {
         "code": "NP-LU",
-        "name": "Lumbini",
         "type": "Zone",
         "parent": "3"
     },
     "NP-MA": {
         "code": "NP-MA",
-        "name": "Mahakali",
         "type": "Zone",
         "parent": "5"
     },
     "NP-ME": {
         "code": "NP-ME",
-        "name": "Mechi",
         "type": "Zone",
         "parent": "4"
     },
     "NP-NA": {
         "code": "NP-NA",
-        "name": "Narayani",
         "type": "Zone",
         "parent": "1"
     },
     "NP-RA": {
         "code": "NP-RA",
-        "name": "Rapti",
         "type": "Zone",
         "parent": "2"
     },
     "NP-SA": {
         "code": "NP-SA",
-        "name": "Sagarmatha",
         "type": "Zone",
         "parent": "4"
     },
     "NP-SE": {
         "code": "NP-SE",
-        "name": "Seti",
         "type": "Zone",
         "parent": "5"
     }

@@ -1,37 +1,30 @@
 {
     "AE-AJ": {
         "code": "AE-AJ",
-        "name": "'Ajmān",
         "type": "Emirate"
     },
     "AE-AZ": {
         "code": "AE-AZ",
-        "name": "Abū Ȥaby [Abu Dhabi]",
         "type": "Emirate"
     },
     "AE-DU": {
         "code": "AE-DU",
-        "name": "Dubayy",
         "type": "Emirate"
     },
     "AE-FU": {
         "code": "AE-FU",
-        "name": "Al Fujayrah",
         "type": "Emirate"
     },
     "AE-RK": {
         "code": "AE-RK",
-        "name": "Ra’s al Khaymah",
         "type": "Emirate"
     },
     "AE-SH": {
         "code": "AE-SH",
-        "name": "Ash Shāriqah",
         "type": "Emirate"
     },
     "AE-UQ": {
         "code": "AE-UQ",
-        "name": "Umm al Qaywayn",
         "type": "Emirate"
     }
 }

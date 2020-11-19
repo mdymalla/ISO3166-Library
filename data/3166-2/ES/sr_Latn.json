@@ -1,5 +1,4 @@
 {
-    "ES-TO": "Toledo",
     "ES-CO": "Kordoba",
     "ES-A": "Alikante",
     "ES-AB": "Albasete",
@@ -9,7 +8,6 @@
     "ES-AS": "Asturija, Principat",
     "ES-B": "Barselona",
     "ES-BA": "Badahoz",
-    "ES-BU": "Burgos",
     "ES-C": "Korunja",
     "ES-CA": "Kadiz",
     "ES-CB": "Kantabria",
@@ -24,11 +22,9 @@
     "ES-CU": "Kvenka",
     "ES-EX": "Ekstremadura",
     "ES-GA": "Galicija",
-    "ES-GC": "Las Palmas",
     "ES-GI": "Gerona",
     "ES-GR": "Grenada",
     "ES-GU": "Gvadalahara",
-    "ES-H": "Huelva",
     "ES-HU": "Hueska",
     "ES-IB": "Balnearska ostrva",
     "ES-J": "Haen",
@@ -36,8 +32,6 @@
     "ES-LE": "Leon",
     "ES-LO": "La Rioha",
     "ES-RI": "La Rioha",
-    "ES-LU": "Lugo",
-    "ES-M": "Madrid",
     "ES-MA": "Malaga",
     "ES-MC": "Mursija, Oblast",
     "ES-ML": "Melila",
@@ -46,7 +40,6 @@
     "ES-OR": "Orense",
     "ES-P": "Palensija",
     "ES-PM": "Baleari",
-    "ES-PO": "Pontevedra",
     "ES-SA": "Salamanka",
     "ES-SE": "Sevilja",
     "ES-SG": "Segovija",
@@ -56,6 +49,5 @@
     "ES-V": "Valensija",
     "ES-VA": "Valjadolid",
     "ES-VI": "Alava",
-    "ES-Z": "Saragosa",
-    "ES-ZA": "Zamora"
+    "ES-Z": "Saragosa"
 }

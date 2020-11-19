@@ -4,7 +4,6 @@
     "TD-BO": "Borkou",
     "TD-CB": "Chārī-Bāquirmī",
     "TD-EN": "Ennedi",
-    "TD-GR": "Qīrā",
     "TD-HL": "Hadjer-Lamis",
     "TD-KA": "Kanem",
     "TD-LC": "Lac",
@@ -14,11 +13,6 @@
     "TD-MC": "Shārī al-Awsaṭ",
     "TD-ME": "Māyū Kībbī asch-Scharqī",
     "TD-MO": "Māyū Kībbī al-Gharbī",
-    "TD-ND": "Madīnat Injamīnā",
     "TD-OD": "Waddāi",
-    "TD-SA": "Salāmāt",
-    "TD-SI": "Sīlā",
-    "TD-TA": "Tānjilī",
-    "TD-TI": "Tibestī",
-    "TD-WF": "Wādī Fīrā"
+    "TD-TI": "Tibestī"
 }

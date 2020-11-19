@@ -1,167 +1,134 @@
 {
     "CO-AMA": {
         "code": "CO-AMA",
-        "name": "Amazonas",
         "type": "Department"
     },
     "CO-ANT": {
         "code": "CO-ANT",
-        "name": "Antioquia",
         "type": "Department"
     },
     "CO-ARA": {
         "code": "CO-ARA",
-        "name": "Arauca",
         "type": "Department"
     },
     "CO-ATL": {
         "code": "CO-ATL",
-        "name": "Atlántico",
         "type": "Department"
     },
     "CO-BOL": {
         "code": "CO-BOL",
-        "name": "Bolívar",
         "type": "Department"
     },
     "CO-BOY": {
         "code": "CO-BOY",
-        "name": "Boyacá",
         "type": "Department"
     },
     "CO-CAL": {
         "code": "CO-CAL",
-        "name": "Caldas",
         "type": "Department"
     },
     "CO-CAQ": {
         "code": "CO-CAQ",
-        "name": "Caquetá",
         "type": "Department"
     },
     "CO-CAS": {
         "code": "CO-CAS",
-        "name": "Casanare",
         "type": "Department"
     },
     "CO-CAU": {
         "code": "CO-CAU",
-        "name": "Cauca",
         "type": "Department"
     },
     "CO-CES": {
         "code": "CO-CES",
-        "name": "Cesar",
         "type": "Department"
     },
     "CO-CHO": {
         "code": "CO-CHO",
-        "name": "Chocó",
         "type": "Department"
     },
     "CO-COR": {
         "code": "CO-COR",
-        "name": "Córdoba",
         "type": "Department"
     },
     "CO-CUN": {
         "code": "CO-CUN",
-        "name": "Cundinamarca",
         "type": "Department"
     },
     "CO-DC": {
         "code": "CO-DC",
-        "name": "Distrito Capital de Bogotá",
         "type": "Capital district"
     },
     "CO-GUA": {
         "code": "CO-GUA",
-        "name": "Guainía",
         "type": "Department"
     },
     "CO-GUV": {
         "code": "CO-GUV",
-        "name": "Guaviare",
         "type": "Department"
     },
     "CO-HUI": {
         "code": "CO-HUI",
-        "name": "Huila",
         "type": "Department"
     },
     "CO-LAG": {
         "code": "CO-LAG",
-        "name": "La Guajira",
         "type": "Department"
     },
     "CO-MAG": {
         "code": "CO-MAG",
-        "name": "Magdalena",
         "type": "Department"
     },
     "CO-MET": {
         "code": "CO-MET",
-        "name": "Meta",
         "type": "Department"
     },
     "CO-NAR": {
         "code": "CO-NAR",
-        "name": "Nariño",
         "type": "Department"
     },
     "CO-NSA": {
         "code": "CO-NSA",
-        "name": "Norte de Santander",
         "type": "Department"
     },
     "CO-PUT": {
         "code": "CO-PUT",
-        "name": "Putumayo",
         "type": "Department"
     },
     "CO-QUI": {
         "code": "CO-QUI",
-        "name": "Quindío",
         "type": "Department"
     },
     "CO-RIS": {
         "code": "CO-RIS",
-        "name": "Risaralda",
         "type": "Department"
     },
     "CO-SAN": {
         "code": "CO-SAN",
-        "name": "Santander",
         "type": "Department"
     },
     "CO-SAP": {
         "code": "CO-SAP",
-        "name": "San Andrés, Providencia y Santa Catalina",
         "type": "Department"
     },
     "CO-SUC": {
         "code": "CO-SUC",
-        "name": "Sucre",
         "type": "Department"
     },
     "CO-TOL": {
         "code": "CO-TOL",
-        "name": "Tolima",
         "type": "Department"
     },
     "CO-VAC": {
         "code": "CO-VAC",
-        "name": "Valle del Cauca",
         "type": "Department"
     },
     "CO-VAU": {
         "code": "CO-VAU",
-        "name": "Vaupés",
         "type": "Department"
     },
     "CO-VID": {
         "code": "CO-VID",
-        "name": "Vichada",
         "type": "Department"
     }
 }

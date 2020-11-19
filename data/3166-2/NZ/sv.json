@@ -1,21 +1,9 @@
 {
-    "NZ-AUK": "Auckland",
-    "NZ-BOP": "Bay of Plenty",
-    "NZ-CAN": "Canterbury",
     "NZ-CIT": "Chatham Islands (territorium)",
     "NZ-GIS": "Gisborne (distrikt)",
-    "NZ-HKB": "Hawke's Bay",
     "NZ-MBH": "Marlborough (distrikt)",
-    "NZ-MWT": "Manawatu-Wanganui",
     "NZ-N": "Nordön",
     "NZ-NSN": "Nelson (stad)",
-    "NZ-NTL": "Northland",
-    "NZ-OTA": "Otago",
     "NZ-S": "Sydön",
-    "NZ-STL": "Southland",
-    "NZ-TAS": "Tasman (distrikt)",
-    "NZ-TKI": "Taranaki",
-    "NZ-WGN": "Wellington",
-    "NZ-WKO": "Waikato",
-    "NZ-WTC": "West Coast"
+    "NZ-TAS": "Tasman (distrikt)"
 }

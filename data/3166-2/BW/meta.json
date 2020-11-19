@@ -1,47 +1,38 @@
 {
     "BW-CE": {
         "code": "BW-CE",
-        "name": "Central",
         "type": "District"
     },
     "BW-GH": {
         "code": "BW-GH",
-        "name": "Ghanzi",
         "type": "District"
     },
     "BW-KG": {
         "code": "BW-KG",
-        "name": "Kgalagadi",
         "type": "District"
     },
     "BW-KL": {
         "code": "BW-KL",
-        "name": "Kgatleng",
         "type": "District"
     },
     "BW-KW": {
         "code": "BW-KW",
-        "name": "Kweneng",
         "type": "District"
     },
     "BW-NE": {
         "code": "BW-NE",
-        "name": "North-East",
         "type": "District"
     },
     "BW-NW": {
         "code": "BW-NW",
-        "name": "North-West",
         "type": "District"
     },
     "BW-SE": {
         "code": "BW-SE",
-        "name": "South-East",
         "type": "District"
     },
     "BW-SO": {
         "code": "BW-SO",
-        "name": "Southern",
         "type": "District"
     }
 }

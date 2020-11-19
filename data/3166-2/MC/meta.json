@@ -1,87 +1,70 @@
 {
     "MC-CL": {
         "code": "MC-CL",
-        "name": "La Colle",
         "type": "Quarter"
     },
     "MC-CO": {
         "code": "MC-CO",
-        "name": "La Condamine",
         "type": "Quarter"
     },
     "MC-FO": {
         "code": "MC-FO",
-        "name": "Fontvieille",
         "type": "Quarter"
     },
     "MC-GA": {
         "code": "MC-GA",
-        "name": "La Gare",
         "type": "Quarter"
     },
     "MC-JE": {
         "code": "MC-JE",
-        "name": "Jardin Exotique",
         "type": "Quarter"
     },
     "MC-LA": {
         "code": "MC-LA",
-        "name": "Larvotto",
         "type": "Quarter"
     },
     "MC-MA": {
         "code": "MC-MA",
-        "name": "Malbousquet",
         "type": "Quarter"
     },
     "MC-MC": {
         "code": "MC-MC",
-        "name": "Monte-Carlo",
         "type": "Quarter"
     },
     "MC-MG": {
         "code": "MC-MG",
-        "name": "Moneghetti",
         "type": "Quarter"
     },
     "MC-MO": {
         "code": "MC-MO",
-        "name": "Monaco-Ville",
         "type": "Quarter"
     },
     "MC-MU": {
         "code": "MC-MU",
-        "name": "Moulins",
         "type": "Quarter"
     },
     "MC-PH": {
         "code": "MC-PH",
-        "name": "Port-Hercule",
         "type": "Quarter"
     },
     "MC-SD": {
         "code": "MC-SD",
-        "name": "Sainte-Dévote",
         "type": "Quarter"
     },
     "MC-SO": {
         "code": "MC-SO",
-        "name": "La Source",
         "type": "Quarter"
     },
     "MC-SP": {
         "code": "MC-SP",
-        "name": "Spélugues",
         "type": "Quarter"
     },
     "MC-SR": {
         "code": "MC-SR",
-        "name": "Saint-Roman",
         "type": "Quarter"
     },
     "MC-VR": {
         "code": "MC-VR",
-        "name": "Vallon de la Rousse",
         "type": "Quarter"
     }
 }

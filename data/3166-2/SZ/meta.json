@@ -1,22 +1,18 @@
 {
     "SZ-HH": {
         "code": "SZ-HH",
-        "name": "Hhohho",
         "type": "District"
     },
     "SZ-LU": {
         "code": "SZ-LU",
-        "name": "Lubombo",
         "type": "District"
     },
     "SZ-MA": {
         "code": "SZ-MA",
-        "name": "Manzini",
         "type": "District"
     },
     "SZ-SH": {
         "code": "SZ-SH",
-        "name": "Shiselweni",
         "type": "District"
     }
 }

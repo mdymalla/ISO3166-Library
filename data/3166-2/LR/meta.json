@@ -1,67 +1,54 @@
 {
     "LR-BG": {
         "code": "LR-BG",
-        "name": "Bong",
         "type": "County"
     },
     "LR-BM": {
         "code": "LR-BM",
-        "name": "Bomi",
         "type": "County"
     },
     "LR-CM": {
         "code": "LR-CM",
-        "name": "Grand Cape Mount",
         "type": "County"
     },
     "LR-GB": {
         "code": "LR-GB",
-        "name": "Grand Bassa",
         "type": "County"
     },
     "LR-GG": {
         "code": "LR-GG",
-        "name": "Grand Gedeh",
         "type": "County"
     },
     "LR-GK": {
         "code": "LR-GK",
-        "name": "Grand Kru",
         "type": "County"
     },
     "LR-LO": {
         "code": "LR-LO",
-        "name": "Lofa",
         "type": "County"
     },
     "LR-MG": {
         "code": "LR-MG",
-        "name": "Margibi",
         "type": "County"
     },
     "LR-MO": {
         "code": "LR-MO",
-        "name": "Montserrado",
         "type": "County"
     },
     "LR-MY": {
         "code": "LR-MY",
-        "name": "Maryland",
         "type": "County"
     },
     "LR-NI": {
         "code": "LR-NI",
-        "name": "Nimba",
         "type": "County"
     },
     "LR-RI": {
         "code": "LR-RI",
-        "name": "Rivercess",
         "type": "County"
     },
     "LR-SI": {
         "code": "LR-SI",
-        "name": "Sinoe",
         "type": "County"
     }
 }

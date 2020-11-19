@@ -1,10 +1,6 @@
 {
-    "PS-GZA": "Gaza",
     "PS-BTH": "Betlehem",
-    "PS-DEB": "Deir El Balah",
-    "PS-HBN": "Hebron",
     "PS-JEM": "Jerusalems provins",
-    "PS-JEN": "Jenin",
     "PS-JRH": "Jerikos provins",
     "PS-KYS": "Khan Yunis provins",
     "PS-NBS": "Nablus provins",
@@ -12,7 +8,6 @@
     "PS-QQA": "Qalqilya provins",
     "PS-RBH": "Ramallah och Al-Birahs provins",
     "PS-RFH": "Rafahs provins",
-    "PS-SLT": "Salfit",
     "PS-TBS": "Tubas provins",
     "PS-TKM": "Tulkarm provins"
 }

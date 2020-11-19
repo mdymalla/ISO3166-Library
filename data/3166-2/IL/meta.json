@@ -1,32 +1,26 @@
 {
     "IL-D": {
         "code": "IL-D",
-        "name": "HaDarom",
         "type": "District"
     },
     "IL-HA": {
         "code": "IL-HA",
-        "name": "Hefa",
         "type": "District"
     },
     "IL-JM": {
         "code": "IL-JM",
-        "name": "Yerushalayim Al Quds",
         "type": "District"
     },
     "IL-M": {
         "code": "IL-M",
-        "name": "HaMerkaz",
         "type": "District"
     },
     "IL-TA": {
         "code": "IL-TA",
-        "name": "Tel-Aviv",
         "type": "District"
     },
     "IL-Z": {
         "code": "IL-Z",
-        "name": "HaZafon",
         "type": "District"
     }
 }

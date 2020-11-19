@@ -1,102 +1,82 @@
 {
     "YE-AB": {
         "code": "YE-AB",
-        "name": "Abyān",
         "type": "Governorate"
     },
     "YE-AD": {
         "code": "YE-AD",
-        "name": "'Adan",
         "type": "Governorate"
     },
     "YE-AM": {
         "code": "YE-AM",
-        "name": "'Amrān",
         "type": "Governorate"
     },
     "YE-BA": {
         "code": "YE-BA",
-        "name": "Al Bayḑā'",
         "type": "Governorate"
     },
     "YE-DA": {
         "code": "YE-DA",
-        "name": "Aḑ Ḑāli‘",
         "type": "Governorate"
     },
     "YE-DH": {
         "code": "YE-DH",
-        "name": "Dhamār",
         "type": "Governorate"
     },
     "YE-HD": {
         "code": "YE-HD",
-        "name": "Ḩaḑramawt",
         "type": "Governorate"
     },
     "YE-HJ": {
         "code": "YE-HJ",
-        "name": "Ḩajjah",
         "type": "Governorate"
     },
     "YE-IB": {
         "code": "YE-IB",
-        "name": "Ibb",
         "type": "Governorate"
     },
     "YE-JA": {
         "code": "YE-JA",
-        "name": "Al Jawf",
         "type": "Governorate"
     },
     "YE-LA": {
         "code": "YE-LA",
-        "name": "Laḩij",
         "type": "Governorate"
     },
     "YE-MA": {
         "code": "YE-MA",
-        "name": "Ma'rib",
         "type": "Governorate"
     },
     "YE-MR": {
         "code": "YE-MR",
-        "name": "Al Mahrah",
         "type": "Governorate"
     },
     "YE-MU": {
         "code": "YE-MU",
-        "name": "Al Ḩudaydah",
         "type": "Governorate"
     },
     "YE-MW": {
         "code": "YE-MW",
-        "name": "Al Maḩwīt",
         "type": "Governorate"
     },
     "YE-RA": {
         "code": "YE-RA",
-        "name": "Raymah",
         "type": "Governorate"
     },
     "YE-SD": {
         "code": "YE-SD",
-        "name": "Şa'dah",
         "type": "Governorate"
     },
     "YE-SH": {
         "code": "YE-SH",
-        "name": "Shabwah",
         "type": "Governorate"
     },
     "YE-SN": {
         "code": "YE-SN",
-        "name": "Şan'ā'",
         "type": "Governorate"
     },
     "YE-TA": {
         "code": "YE-TA",
-        "name": "Tā'izz",
         "type": "Governorate"
     }
 }

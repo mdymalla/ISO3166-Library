@@ -1,13 +1,6 @@
 {
-    "EC-B": "Bolívar",
     "EC-A": "Azuay (province)",
     "EC-C": "Carchi (province)",
-    "EC-E": "Esmeraldas",
-    "EC-F": "Cañar",
-    "EC-G": "Guayas",
     "EC-H": "Chimborazo (province)",
-    "EC-I": "Imbabura",
-    "EC-O": "El Oro",
-    "EC-W": "Galápagos-szigetek",
-    "EC-X": "Cotopaxi"
+    "EC-W": "Galápagos-szigetek"
 }

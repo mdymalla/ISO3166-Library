@@ -1,127 +1,102 @@
 {
     "SC-01": {
         "code": "SC-01",
-        "name": "Anse aux Pins",
         "type": "District"
     },
     "SC-02": {
         "code": "SC-02",
-        "name": "Anse Boileau",
         "type": "District"
     },
     "SC-03": {
         "code": "SC-03",
-        "name": "Anse Etoile",
         "type": "District"
     },
     "SC-04": {
         "code": "SC-04",
-        "name": "Anse Louis",
         "type": "District"
     },
     "SC-05": {
         "code": "SC-05",
-        "name": "Anse Royale",
         "type": "District"
     },
     "SC-06": {
         "code": "SC-06",
-        "name": "Baie Lazare",
         "type": "District"
     },
     "SC-07": {
         "code": "SC-07",
-        "name": "Baie Sainte Anne",
         "type": "District"
     },
     "SC-08": {
         "code": "SC-08",
-        "name": "Beau Vallon",
         "type": "District"
     },
     "SC-09": {
         "code": "SC-09",
-        "name": "Bel Air",
         "type": "District"
     },
     "SC-10": {
         "code": "SC-10",
-        "name": "Bel Ombre",
         "type": "District"
     },
     "SC-11": {
         "code": "SC-11",
-        "name": "Cascade",
         "type": "District"
     },
     "SC-12": {
         "code": "SC-12",
-        "name": "Glacis",
         "type": "District"
     },
     "SC-13": {
         "code": "SC-13",
-        "name": "Grand Anse Mahe",
         "type": "District"
     },
     "SC-14": {
         "code": "SC-14",
-        "name": "Grand Anse Praslin",
         "type": "District"
     },
     "SC-15": {
         "code": "SC-15",
-        "name": "La Digue",
         "type": "District"
     },
     "SC-16": {
         "code": "SC-16",
-        "name": "English River",
         "type": "District"
     },
     "SC-17": {
         "code": "SC-17",
-        "name": "Mont Buxton",
         "type": "District"
     },
     "SC-18": {
         "code": "SC-18",
-        "name": "Mont Fleuri",
         "type": "District"
     },
     "SC-19": {
         "code": "SC-19",
-        "name": "Plaisance",
         "type": "District"
     },
     "SC-20": {
         "code": "SC-20",
-        "name": "Pointe Larue",
         "type": "District"
     },
     "SC-21": {
         "code": "SC-21",
-        "name": "Port Glaud",
         "type": "District"
     },
     "SC-22": {
         "code": "SC-22",
-        "name": "Saint Louis",
         "type": "District"
     },
     "SC-23": {
         "code": "SC-23",
-        "name": "Takamaka",
         "type": "District"
     },
     "SC-24": {
         "code": "SC-24",
-        "name": "Les Mamelles",
         "type": "District"
     },
     "SC-25": {
         "code": "SC-25",
-        "name": "Roche Caiman",
         "type": "District"
     }
 }

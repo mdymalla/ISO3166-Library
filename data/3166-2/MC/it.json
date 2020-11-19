@@ -1,19 +1,5 @@
 {
-    "MC-CL": "La Colle",
     "MC-CO": "La Condamina",
     "MC-FO": "Fontevecchia",
-    "MC-GA": "La Gare",
-    "MC-JE": "Jardin Exotique",
-    "MC-LA": "Larvotto",
-    "MC-MA": "Malbousquet",
-    "MC-MC": "Monte Carlo",
-    "MC-MG": "Moneghetti",
-    "MC-MO": "Monaco-Ville",
-    "MC-MU": "Moulins",
-    "MC-PH": "Port-Hercule",
-    "MC-SD": "Sainte-Dévote",
-    "MC-SO": "La Source",
-    "MC-SP": "Spélugues",
-    "MC-SR": "Saint-Roman",
-    "MC-VR": "Vallon de la Rousse"
+    "MC-MC": "Monte Carlo"
 }

@@ -1,92 +1,74 @@
 {
     "LA-AT": {
         "code": "LA-AT",
-        "name": "Attapu",
         "type": "Province"
     },
     "LA-BK": {
         "code": "LA-BK",
-        "name": "Bokèo",
         "type": "Province"
     },
     "LA-BL": {
         "code": "LA-BL",
-        "name": "Bolikhamxai",
         "type": "Province"
     },
     "LA-CH": {
         "code": "LA-CH",
-        "name": "Champasak",
         "type": "Province"
     },
     "LA-HO": {
         "code": "LA-HO",
-        "name": "Houaphan",
         "type": "Province"
     },
     "LA-KH": {
         "code": "LA-KH",
-        "name": "Khammouan",
         "type": "Province"
     },
     "LA-LM": {
         "code": "LA-LM",
-        "name": "Louang Namtha",
         "type": "Province"
     },
     "LA-LP": {
         "code": "LA-LP",
-        "name": "Louangphabang",
         "type": "Province"
     },
     "LA-OU": {
         "code": "LA-OU",
-        "name": "Oudômxai",
         "type": "Province"
     },
     "LA-PH": {
         "code": "LA-PH",
-        "name": "Phôngsali",
         "type": "Province"
     },
     "LA-SL": {
         "code": "LA-SL",
-        "name": "Salavan",
         "type": "Province"
     },
     "LA-SV": {
         "code": "LA-SV",
-        "name": "Savannakhét",
         "type": "Province"
     },
     "LA-VI": {
         "code": "LA-VI",
-        "name": "Vientiane",
         "type": "Province"
     },
     "LA-VT": {
         "code": "LA-VT",
-        "name": "Vientiane",
         "type": "Prefecture"
     },
     "LA-XA": {
         "code": "LA-XA",
-        "name": "Xaignabouli",
         "type": "Province"
     },
     "LA-XE": {
         "code": "LA-XE",
-        "name": "Xékong",
         "type": "Province"
     },
     "LA-XI": {
         "code": "LA-XI",
-        "name": "Xiangkhouang",
         "type": "Province"
     },
     "LA-XS": {
         "code": "LA-XS",
-        "name": "Xaisômboun",
         "type": "Province"
     }
 }

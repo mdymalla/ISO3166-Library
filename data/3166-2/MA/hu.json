@@ -1,21 +1,4 @@
 {
-    "MA-02": "L'Oriental",
-    "MA-AZI": "Azilal",
-    "MA-BER": "Berkane",
-    "MA-BOD": "Boujdour (EH)",
-    "MA-BOM": "Boulemane",
-    "MA-CHI": "Chichaoua",
-    "MA-ERR": "Errachidia",
-    "MA-ESI": "Essaouira",
-    "MA-FIG": "Figuig",
-    "MA-GUE": "Guelmim",
-    "MA-HAJ": "El Hajeb",
     "MA-HAO": "Province of Al Haouz",
-    "MA-HOC": "Al Hoceima",
-    "MA-IFR": "Ifrane",
-    "MA-JDI": "El Jadida",
-    "MA-KEN": "Kénitra",
-    "MA-KHN": "Khenifra",
-    "MA-KHO": "Khouribga",
-    "MA-LAA": "Laâyoune (EH)"
+    "MA-HOC": "Al Hoceima"
 }

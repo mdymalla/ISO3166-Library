@@ -2,8 +2,6 @@
     "EG-ALX": "Al Iskandariyah",
     "EG-ASN": "Aswan",
     "EG-AST": "Asyut",
-    "EG-BA": "Al Bahr al Ahmar",
-    "EG-BH": "Al Buhayrah",
     "EG-BNS": "Bani Suwayf",
     "EG-C": "Al Qahirah",
     "EG-DK": "Ad Daqahliyah",
@@ -11,11 +9,9 @@
     "EG-FYM": "Al Fayyum",
     "EG-GH": "Al Gharbiyah",
     "EG-GZ": "Al Jizah",
-    "EG-HU": "Ḩulwān",
     "EG-IS": "Al Ismailiyah",
     "EG-JS": "Janub Sina",
     "EG-KB": "Al Qalyubiyah",
-    "EG-KFS": "Kafr ash Shaykh",
     "EG-KN": "Qina",
     "EG-MN": "Al Minya",
     "EG-MNF": "Al Minufiyah",
@@ -24,7 +20,5 @@
     "EG-SHG": "Suhaj",
     "EG-SHR": "Ash Sharqiyah",
     "EG-SIN": "Shamal Sina",
-    "EG-SU": "As Sādis min Uktūbar",
-    "EG-SUZ": "As Suways",
     "EG-WAD": "Al Wadi al Jadid"
 }

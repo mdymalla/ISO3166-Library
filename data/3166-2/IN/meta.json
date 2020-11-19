@@ -1,182 +1,146 @@
 {
     "IN-AN": {
         "code": "IN-AN",
-        "name": "Andaman and Nicobar Islands",
         "type": "Union territory"
     },
     "IN-AP": {
         "code": "IN-AP",
-        "name": "Andhra Pradesh",
         "type": "State"
     },
     "IN-AR": {
         "code": "IN-AR",
-        "name": "Arunachal Pradesh",
         "type": "State"
     },
     "IN-AS": {
         "code": "IN-AS",
-        "name": "Assam",
         "type": "State"
     },
     "IN-BR": {
         "code": "IN-BR",
-        "name": "Bihar",
         "type": "State"
     },
     "IN-CH": {
         "code": "IN-CH",
-        "name": "Chandigarh",
         "type": "Union territory"
     },
     "IN-CT": {
         "code": "IN-CT",
-        "name": "Chhattisgarh",
         "type": "State"
     },
     "IN-DD": {
         "code": "IN-DD",
-        "name": "Daman and Diu",
         "type": "Union territory"
     },
     "IN-DL": {
         "code": "IN-DL",
-        "name": "Delhi",
         "type": "Union territory"
     },
     "IN-DN": {
         "code": "IN-DN",
-        "name": "Dadra and Nagar Haveli",
         "type": "Union territory"
     },
     "IN-GA": {
         "code": "IN-GA",
-        "name": "Goa",
         "type": "State"
     },
     "IN-GJ": {
         "code": "IN-GJ",
-        "name": "Gujarat",
         "type": "State"
     },
     "IN-HP": {
         "code": "IN-HP",
-        "name": "Himachal Pradesh",
         "type": "State"
     },
     "IN-HR": {
         "code": "IN-HR",
-        "name": "Haryana",
         "type": "State"
     },
     "IN-JH": {
         "code": "IN-JH",
-        "name": "Jharkhand",
         "type": "State"
     },
     "IN-JK": {
         "code": "IN-JK",
-        "name": "Jammu and Kashmir",
         "type": "State"
     },
     "IN-KA": {
         "code": "IN-KA",
-        "name": "Karnataka",
         "type": "State"
     },
     "IN-KL": {
         "code": "IN-KL",
-        "name": "Kerala",
         "type": "State"
     },
     "IN-LD": {
         "code": "IN-LD",
-        "name": "Lakshadweep",
         "type": "Union territory"
     },
     "IN-MH": {
         "code": "IN-MH",
-        "name": "Maharashtra",
         "type": "State"
     },
     "IN-ML": {
         "code": "IN-ML",
-        "name": "Meghalaya",
         "type": "State"
     },
     "IN-MN": {
         "code": "IN-MN",
-        "name": "Manipur",
         "type": "State"
     },
     "IN-MP": {
         "code": "IN-MP",
-        "name": "Madhya Pradesh",
         "type": "State"
     },
     "IN-MZ": {
         "code": "IN-MZ",
-        "name": "Mizoram",
         "type": "State"
     },
     "IN-NL": {
         "code": "IN-NL",
-        "name": "Nagaland",
         "type": "State"
     },
     "IN-OR": {
         "code": "IN-OR",
-        "name": "Odisha",
         "type": "State"
     },
     "IN-PB": {
         "code": "IN-PB",
-        "name": "Punjab",
         "type": "State"
     },
     "IN-PY": {
         "code": "IN-PY",
-        "name": "Puducherry",
         "type": "Union territory"
     },
     "IN-RJ": {
         "code": "IN-RJ",
-        "name": "Rajasthan",
         "type": "State"
     },
     "IN-SK": {
         "code": "IN-SK",
-        "name": "Sikkim",
         "type": "State"
     },
     "IN-TG": {
         "code": "IN-TG",
-        "name": "Telangana",
         "type": "State"
     },
     "IN-TN": {
         "code": "IN-TN",
-        "name": "Tamil Nadu",
         "type": "State"
     },
     "IN-TR": {
         "code": "IN-TR",
-        "name": "Tripura",
         "type": "State"
     },
     "IN-UP": {
         "code": "IN-UP",
-        "name": "Uttar Pradesh",
         "type": "State"
     },
     "IN-UT": {
         "code": "IN-UT",
-        "name": "Uttarakhand",
         "type": "State"
     },
     "IN-WB": {
         "code": "IN-WB",
-        "name": "West Bengal",
         "type": "State"
     }
 }

@@ -1,10 +1,8 @@
 {
     "LK-1": "Västprovinsen",
     "LK-11": "Kolamba",
-    "LK-12": "Gampaha",
     "LK-13": "Kalutara",
     "LK-2": "Centralprovinsen",
-    "LK-21": "Mahanuvara",
     "LK-22": "Matale",
     "LK-23": "Nuwara Eliya",
     "LK-3": "Sydprovinsen",
@@ -23,14 +21,11 @@
     "LK-53": "Trikunamalaya",
     "LK-6": "Nordvästprovinsen",
     "LK-61": "Kurunegala",
-    "LK-62": "Puttalama",
     "LK-7": "Norra centralprovinsen",
     "LK-71": "Anuradhapura",
     "LK-72": "Polonnaruwa",
     "LK-8": "Uvaprovinsen",
-    "LK-81": "Badulla",
     "LK-82": "Monaragala",
     "LK-9": "Sabaragamuwa",
-    "LK-91": "Ratnapura",
     "LK-92": "Kegalle"
 }

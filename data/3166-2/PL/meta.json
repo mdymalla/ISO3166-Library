@@ -1,82 +1,66 @@
 {
     "PL-DS": {
         "code": "PL-DS",
-        "name": "Dolnośląskie",
         "type": "Province"
     },
     "PL-KP": {
         "code": "PL-KP",
-        "name": "Kujawsko-pomorskie",
         "type": "Province"
     },
     "PL-LB": {
         "code": "PL-LB",
-        "name": "Lubuskie",
         "type": "Province"
     },
     "PL-LD": {
         "code": "PL-LD",
-        "name": "Łódzkie",
         "type": "Province"
     },
     "PL-LU": {
         "code": "PL-LU",
-        "name": "Lubelskie",
         "type": "Province"
     },
     "PL-MA": {
         "code": "PL-MA",
-        "name": "Małopolskie",
         "type": "Province"
     },
     "PL-MZ": {
         "code": "PL-MZ",
-        "name": "Mazowieckie",
         "type": "Province"
     },
     "PL-OP": {
         "code": "PL-OP",
-        "name": "Opolskie",
         "type": "Province"
     },
     "PL-PD": {
         "code": "PL-PD",
-        "name": "Podlaskie",
         "type": "Province"
     },
     "PL-PK": {
         "code": "PL-PK",
-        "name": "Podkarpackie",
         "type": "Province"
     },
     "PL-PM": {
         "code": "PL-PM",
-        "name": "Pomorskie",
         "type": "Province"
     },
     "PL-SK": {
         "code": "PL-SK",
-        "name": "Świętokrzyskie",
         "type": "Province"
     },
     "PL-SL": {
         "code": "PL-SL",
-        "name": "Śląskie",
         "type": "Province"
     },
     "PL-WN": {
         "code": "PL-WN",
-        "name": "Warmińsko-mazurskie",
         "type": "Province"
     },
     "PL-WP": {
         "code": "PL-WP",
-        "name": "Wielkopolskie",
         "type": "Province"
     },
     "PL-ZP": {
         "code": "PL-ZP",
-        "name": "Zachodniopomorskie",
         "type": "Province"
     }
 }

@@ -1,17 +1,14 @@
 {
     "KI-G": {
         "code": "KI-G",
-        "name": "Gilbert Islands",
         "type": "Island group"
     },
     "KI-L": {
         "code": "KI-L",
-        "name": "Line Islands",
         "type": "Island group"
     },
     "KI-P": {
         "code": "KI-P",
-        "name": "Phoenix Islands",
         "type": "Island group"
     }
 }

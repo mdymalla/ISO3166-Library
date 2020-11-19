@@ -1,152 +1,122 @@
 {
     "IR-01": {
         "code": "IR-01",
-        "name": "Āzarbāyjān-e Sharqī",
         "type": "Province"
     },
     "IR-02": {
         "code": "IR-02",
-        "name": "Āzarbāyjān-e Gharbī",
         "type": "Province"
     },
     "IR-03": {
         "code": "IR-03",
-        "name": "Ardabīl",
         "type": "Province"
     },
     "IR-04": {
         "code": "IR-04",
-        "name": "Eşfahān",
         "type": "Province"
     },
     "IR-05": {
         "code": "IR-05",
-        "name": "Īlām",
         "type": "Province"
     },
     "IR-06": {
         "code": "IR-06",
-        "name": "Būshehr",
         "type": "Province"
     },
     "IR-07": {
         "code": "IR-07",
-        "name": "Tehrān",
         "type": "Province"
     },
     "IR-08": {
         "code": "IR-08",
-        "name": "Chahār Mahāll va Bakhtīārī",
         "type": "Province"
     },
     "IR-10": {
         "code": "IR-10",
-        "name": "Khūzestān",
         "type": "Province"
     },
     "IR-11": {
         "code": "IR-11",
-        "name": "Zanjān",
         "type": "Province"
     },
     "IR-12": {
         "code": "IR-12",
-        "name": "Semnān",
         "type": "Province"
     },
     "IR-13": {
         "code": "IR-13",
-        "name": "Sīstān va Balūchestān",
         "type": "Province"
     },
     "IR-14": {
         "code": "IR-14",
-        "name": "Fārs",
         "type": "Province"
     },
     "IR-15": {
         "code": "IR-15",
-        "name": "Kermān",
         "type": "Province"
     },
     "IR-16": {
         "code": "IR-16",
-        "name": "Kordestān",
         "type": "Province"
     },
     "IR-17": {
         "code": "IR-17",
-        "name": "Kermānshāh",
         "type": "Province"
     },
     "IR-18": {
         "code": "IR-18",
-        "name": "Kohgīlūyeh va Būyer Ahmad",
         "type": "Province"
     },
     "IR-19": {
         "code": "IR-19",
-        "name": "Gīlān",
         "type": "Province"
     },
     "IR-20": {
         "code": "IR-20",
-        "name": "Lorestān",
         "type": "Province"
     },
     "IR-21": {
         "code": "IR-21",
-        "name": "Māzandarān",
         "type": "Province"
     },
     "IR-22": {
         "code": "IR-22",
-        "name": "Markazī",
         "type": "Province"
     },
     "IR-23": {
         "code": "IR-23",
-        "name": "Hormozgān",
         "type": "Province"
     },
     "IR-24": {
         "code": "IR-24",
-        "name": "Hamadān",
         "type": "Province"
     },
     "IR-25": {
         "code": "IR-25",
-        "name": "Yazd",
         "type": "Province"
     },
     "IR-26": {
         "code": "IR-26",
-        "name": "Qom",
         "type": "Province"
     },
     "IR-27": {
         "code": "IR-27",
-        "name": "Golestān",
         "type": "Province"
     },
     "IR-28": {
         "code": "IR-28",
-        "name": "Qazvīn",
         "type": "Province"
     },
     "IR-29": {
         "code": "IR-29",
-        "name": "Khorāsān-e Janūbī",
         "type": "Province"
     },
     "IR-30": {
         "code": "IR-30",
-        "name": "Khorāsān-e Razavī",
         "type": "Province"
     },
     "IR-31": {
         "code": "IR-31",
-        "name": "Khorāsān-e Shemālī",
         "type": "Province"
     }
 }

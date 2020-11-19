@@ -1,57 +1,46 @@
 {
     "LI-01": {
         "code": "LI-01",
-        "name": "Balzers",
         "type": "Commune"
     },
     "LI-02": {
         "code": "LI-02",
-        "name": "Eschen",
         "type": "Commune"
     },
     "LI-03": {
         "code": "LI-03",
-        "name": "Gamprin",
         "type": "Commune"
     },
     "LI-04": {
         "code": "LI-04",
-        "name": "Mauren",
         "type": "Commune"
     },
     "LI-05": {
         "code": "LI-05",
-        "name": "Planken",
         "type": "Commune"
     },
     "LI-06": {
         "code": "LI-06",
-        "name": "Ruggell",
         "type": "Commune"
     },
     "LI-07": {
         "code": "LI-07",
-        "name": "Schaan",
         "type": "Commune"
     },
     "LI-08": {
         "code": "LI-08",
-        "name": "Schellenberg",
         "type": "Commune"
     },
     "LI-09": {
         "code": "LI-09",
-        "name": "Triesen",
         "type": "Commune"
     },
     "LI-10": {
         "code": "LI-10",
-        "name": "Triesenberg",
         "type": "Commune"
     },
     "LI-11": {
         "code": "LI-11",
-        "name": "Vaduz",
         "type": "Commune"
     }
 }

@@ -1,6 +1,5 @@
 {
     "LA-AT": "Attapeu",
-    "LA-BK": "Bokèo",
     "LA-BL": "Bolikhamsai",
     "LA-CH": "Champassak",
     "LA-HO": "Hua Phan",
@@ -11,10 +10,7 @@
     "LA-PH": "Phongsali",
     "LA-SL": "Saravane",
     "LA-SV": "Savannakhet",
-    "LA-VI": "Vientiane",
-    "LA-VT": "Vientiane",
     "LA-XA": "Sainyabuli",
     "LA-XE": "Sekong",
-    "LA-XI": "Xieng Khouang",
-    "LA-XS": "Xaisômboun"
+    "LA-XI": "Xieng Khouang"
 }

@@ -1,32 +1,26 @@
 {
     "CY-01": {
         "code": "CY-01",
-        "name": "Lefkosía",
         "type": "District"
     },
     "CY-02": {
         "code": "CY-02",
-        "name": "Lemesós",
         "type": "District"
     },
     "CY-03": {
         "code": "CY-03",
-        "name": "Lárnaka",
         "type": "District"
     },
     "CY-04": {
         "code": "CY-04",
-        "name": "Ammóchostos",
         "type": "District"
     },
     "CY-05": {
         "code": "CY-05",
-        "name": "Páfos",
         "type": "District"
     },
     "CY-06": {
         "code": "CY-06",
-        "name": "Kerýneia",
         "type": "District"
     }
 }

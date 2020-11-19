@@ -1,82 +1,66 @@
 {
     "BI-BB": {
         "code": "BI-BB",
-        "name": "Bubanza",
         "type": "Province"
     },
     "BI-BL": {
         "code": "BI-BL",
-        "name": "Bujumbura Rural",
         "type": "Province"
     },
     "BI-BM": {
         "code": "BI-BM",
-        "name": "Bujumbura Mairie",
         "type": "Province"
     },
     "BI-BR": {
         "code": "BI-BR",
-        "name": "Bururi",
         "type": "Province"
     },
     "BI-CA": {
         "code": "BI-CA",
-        "name": "Cankuzo",
         "type": "Province"
     },
     "BI-CI": {
         "code": "BI-CI",
-        "name": "Cibitoke",
         "type": "Province"
     },
     "BI-GI": {
         "code": "BI-GI",
-        "name": "Gitega",
         "type": "Province"
     },
     "BI-KI": {
         "code": "BI-KI",
-        "name": "Kirundo",
         "type": "Province"
     },
     "BI-KR": {
         "code": "BI-KR",
-        "name": "Karuzi",
         "type": "Province"
     },
     "BI-KY": {
         "code": "BI-KY",
-        "name": "Kayanza",
         "type": "Province"
     },
     "BI-MA": {
         "code": "BI-MA",
-        "name": "Makamba",
         "type": "Province"
     },
     "BI-MU": {
         "code": "BI-MU",
-        "name": "Muramvya",
         "type": "Province"
     },
     "BI-MW": {
         "code": "BI-MW",
-        "name": "Mwaro",
         "type": "Province"
     },
     "BI-NG": {
         "code": "BI-NG",
-        "name": "Ngozi",
         "type": "Province"
     },
     "BI-RT": {
         "code": "BI-RT",
-        "name": "Rutana",
         "type": "Province"
     },
     "BI-RY": {
         "code": "BI-RY",
-        "name": "Ruyigi",
         "type": "Province"
     }
 }

@@ -1,26 +1,8 @@
 {
-    "VE-Z": "Amazonas",
-    "VE-A": "Distrito Federal",
     "VE-F": "Bolivar",
-    "VE-R": "Sucre",
     "VE-B": "Anzoategui",
-    "VE-C": "Apure",
-    "VE-D": "Aragua",
-    "VE-E": "Barinas",
-    "VE-G": "Carabobo",
-    "VE-H": "Cojedes",
     "VE-I": "Falcon",
     "VE-J": "Guarico",
-    "VE-K": "Lara",
     "VE-L": "Merida",
-    "VE-M": "Miranda",
-    "VE-N": "Monagas",
-    "VE-O": "Nueva Esparta",
-    "VE-P": "Portuguesa",
-    "VE-S": "Tachira",
-    "VE-T": "Trujillo",
-    "VE-U": "Yaracuy",
-    "VE-V": "Zulia",
-    "VE-X": "Vargas",
-    "VE-Y": "Delta Amacuro"
+    "VE-S": "Tachira"
 }

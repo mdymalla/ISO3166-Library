@@ -1,20 +1,4 @@
 {
-    "IQ-AN": "Al Anbar",
-    "IQ-AR": "Arbil",
-    "IQ-BA": "Al Basrah",
-    "IQ-BB": "Babil",
     "IQ-BG": "Bagdad",
-    "IQ-DA": "Dahuk",
-    "IQ-DI": "Diyala",
-    "IQ-DQ": "Dhi Qar",
-    "IQ-KA": "Karbala",
-    "IQ-MA": "Maysan",
-    "IQ-MU": "Al Muthanna",
-    "IQ-NA": "An Najef",
-    "IQ-NI": "Ninawa",
-    "IQ-QA": "Al Qadisiyah",
-    "IQ-SD": "Salah ad Din",
-    "IQ-SW": "As Sulaymaniyah",
-    "IQ-TS": "At Ta'mim",
-    "IQ-WA": "Wasit"
+    "IQ-KA": "Karbala"
 }

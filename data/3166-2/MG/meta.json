@@ -1,32 +1,26 @@
 {
     "MG-A": {
         "code": "MG-A",
-        "name": "Toamasina",
         "type": "Autonomous province"
     },
     "MG-D": {
         "code": "MG-D",
-        "name": "Antsiranana",
         "type": "Autonomous province"
     },
     "MG-F": {
         "code": "MG-F",
-        "name": "Fianarantsoa",
         "type": "Autonomous province"
     },
     "MG-M": {
         "code": "MG-M",
-        "name": "Mahajanga",
         "type": "Autonomous province"
     },
     "MG-T": {
         "code": "MG-T",
-        "name": "Antananarivo",
         "type": "Autonomous province"
     },
     "MG-U": {
         "code": "MG-U",
-        "name": "Toliara",
         "type": "Autonomous province"
     }
 }

@@ -1,102 +1,82 @@
 {
     "NO-01": {
         "code": "NO-01",
-        "name": "Østfold",
         "type": "County"
     },
     "NO-02": {
         "code": "NO-02",
-        "name": "Akershus",
         "type": "County"
     },
     "NO-03": {
         "code": "NO-03",
-        "name": "Oslo",
         "type": "County"
     },
     "NO-04": {
         "code": "NO-04",
-        "name": "Hedmark",
         "type": "County"
     },
     "NO-05": {
         "code": "NO-05",
-        "name": "Oppland",
         "type": "County"
     },
     "NO-06": {
         "code": "NO-06",
-        "name": "Buskerud",
         "type": "County"
     },
     "NO-07": {
         "code": "NO-07",
-        "name": "Vestfold",
         "type": "County"
     },
     "NO-08": {
         "code": "NO-08",
-        "name": "Telemark",
         "type": "County"
     },
     "NO-09": {
         "code": "NO-09",
-        "name": "Aust-Agder",
         "type": "County"
     },
     "NO-10": {
         "code": "NO-10",
-        "name": "Vest-Agder",
         "type": "County"
     },
     "NO-11": {
         "code": "NO-11",
-        "name": "Rogaland",
         "type": "County"
     },
     "NO-12": {
         "code": "NO-12",
-        "name": "Hordaland",
         "type": "County"
     },
     "NO-14": {
         "code": "NO-14",
-        "name": "Sogn og Fjordane",
         "type": "County"
     },
     "NO-15": {
         "code": "NO-15",
-        "name": "Møre og Romsdal",
         "type": "County"
     },
     "NO-18": {
         "code": "NO-18",
-        "name": "Nordland",
         "type": "County"
     },
     "NO-19": {
         "code": "NO-19",
-        "name": "Troms",
         "type": "County"
     },
     "NO-20": {
         "code": "NO-20",
-        "name": "Finnmark",
         "type": "County"
     },
     "NO-21": {
         "code": "NO-21",
-        "name": "Svalbard (Arctic Region)",
         "type": "Arctic Region"
     },
     "NO-22": {
         "code": "NO-22",
-        "name": "Jan Mayen (Arctic Region)",
         "type": "Arctic Region"
     },
     "NO-50": {
         "code": "NO-50",
-        "name": "Trøndelag",
         "type": "County"
     }
 }

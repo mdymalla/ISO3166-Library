@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 
 use CharlesRumley\PoToJson;
 use MJDymalla\ISO3166Data\Helper;
+use MJDymalla\ISO3166Data\Model;
 use MJDymalla\ISO3166Data\Normalizer;
 use MJDymalla\ISO3166Data\Validator\LocaleValidator;
 
@@ -24,14 +25,7 @@ if (!file_exists('iso-codes')) {
 }
 
 /**
- * @var array $ISOData - will eventually hold all relevant data merged in singular denormalized Country objects by hierarchy
- *
- * this singular hierarchy will allow data to be written to files depending on use case
- */
-$ISOData = [];
-
-/**
- * @var array $denormalizedCountryMetadata - holds denormalized Model\Country meta data objects
+ * @var array $denormalizedCountryMetadata - denormalized Model\Country meta data objects
  */
 $denormalizedCountryMetadata = [];
 
@@ -43,7 +37,7 @@ foreach ($countryMetaData["3166-1"] as $country) {
 }
 
 /**
- * @var array $denormalizedCountryTranslations - holds denormalized Country Model\Translation objects
+ * @var array $denormalizedCountryTranslations - denormalized Country Model\Translation objects
  */
 $denormalizedCountryTranslations = [];
 
@@ -66,7 +60,7 @@ foreach ($dir as $file) {
 }
 
 /**
- * @var array $denormalizedSubDivisionMetaData - holds denormalized Model\SubDivision meta data objects
+ * @var array $denormalizedSubDivisionMetaData - denormalized Model\SubDivision meta data objects
  */
 $denormalizedSubDivisionMetaData = [];
 
@@ -80,7 +74,7 @@ foreach ($subDivisionMetaData["3166-2"] as $subdivision) {
 }
 
 /**
- * @var array $subDivisionNameIndex - holds mapping between iso3166-2 subdivision code and name
+ * @var array $subDivisionNameIndex - mapping between iso3166-2 subdivision code and name
  */
 $subDivisionNameIndex = [];
 
@@ -93,7 +87,7 @@ foreach ($denormalizedSubDivisionMetaData as $country) {
 echo "Creating 3166-2 locale based translations, might take awhile...";
 
 /**
- * @var array $denormalizedSubDivisionTranslations - holds denormalized SubDivision Model\Translation objects
+ * @var array $denormalizedSubDivisionTranslations - denormalized SubDivision Model\Translation objects
  */
 $denormalizedSubDivisionTranslations = [];
 
@@ -120,9 +114,20 @@ foreach ($dir as $file) {
     }
 }
 
+// Use SubDivision meta data name as "mul_Latn" translation
+foreach ($denormalizedSubDivisionMetaData as $A2 => $subdivisions) {
+    foreach ($subdivisions as $subdivision) {
+        $mulLatnTranslation = new Model\Translation($subdivision->getCode(), "mul_Latn", $subdivision->getName());
+        $denormalizedSubDivisionTranslations["mul_Latn"][] = $mulLatnTranslation;
+    }
+}
+
 echo "Complete...\n\n";
 
-// Merge denormalized arrays into complete hierarchal structure
+/**
+ * @var array $ISOData - Country & SubDivision meta data as well as corresponding translations merged into singular
+ *                       hierarchical strucure
+ */
 $ISOData = Helper::merge(
     $denormalizedCountryMetadata,
     $denormalizedSubDivisionMetaData,
@@ -151,29 +156,35 @@ if (file_exists("data/3166-2")) {
 
 mkdir('data/3166-2');
 
-// Write Country meta data to single file
+/**
+ * @var array $normalizedCountryMetaData - normalized structure of country meta data
+ */
 $normalizedCountryMetaData = [];
 
-foreach ($denormalizedCountryMetadata as $A2 => $country) {
+foreach ($ISOData as $A2 => $country) {
     $normalizedCountryMetaData[$A2] = Normalizer\CountryMetaData::normalize($country);
+
+    /**
+     * @var array $normalizedSubDivisions - normalized structure of a countries subdivisions meta data
+     */
+    $normalizedSubDivisions = [];
+
+    foreach ($country->getSubdivisions() as $subdivision) {
+        $normalizedSubDivisions[$subdivision->getCode()] = Normalizer\SubDivisionMetaData::normalize($subdivision);
+    }
+
+    if (empty($normalizedSubDivisions)) {
+        continue;
+    }
+
+    mkdir("data/3166-2/$A2");
+    file_put_contents(__DIR__."/data/3166-2/$A2/meta.json", json_encode($normalizedSubDivisions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
 ksort($normalizedCountryMetaData);
 
 file_put_contents(__DIR__."/data/3166-1/meta.json", json_encode($normalizedCountryMetaData, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 
-// Write SubDivision meta data to country separated files
-foreach ($denormalizedSubDivisionMetaData as $A2 => $subdivisions) {
-    $normalizedSubDivisions = [];
-
-    mkdir("data/3166-2/$A2");
-
-    foreach ($subdivisions as $subdivision) {
-        $normalizedSubDivisions[$subdivision->getCode()] = Normalizer\SubDivisionMetaData::normalize($subdivision);
-    }
-
-    file_put_contents(__DIR__."/data/3166-2/$A2/meta.json", json_encode($normalizedSubDivisions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-}
 
 // Write Country translations to locale separated files
 foreach ($denormalizedCountryTranslations as $locale => $translations) {
@@ -193,7 +204,13 @@ foreach ($denormalizedSubDivisionTranslations as $locale => $translations) {
     foreach ($translations as $translation) {
         $A2 = substr($translation->getCode(), 0 , 2);
 
-        $normalizedSubDivisionTranslations[$A2][$locale][$translation->getCode()] = Normalizer\CountryTranslation::normalize($translation);
+        // if translation is the same as native translation in latin script (mul_Latn) translation skip it
+        if ($translation->getTranslation() === $denormalizedSubDivisionMetaData[$A2][$translation->getCode()]->getName()
+            && $translation->getLocale() !== "mul_Latn") {
+            continue;
+        }
+
+        $normalizedSubDivisionTranslations[$A2][$locale][$translation->getCode()] = Normalizer\SubDivisionTranslation::normalize($translation);
     }
 }
 
@@ -202,6 +219,7 @@ foreach ($normalizedSubDivisionTranslations as $A2 => $localeSeparated) {
         file_put_contents(__DIR__."/data/3166-2/$A2/$locale.json", json_encode($translations, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     }
 }
+
 
 echo "Complete...\n\n";
 

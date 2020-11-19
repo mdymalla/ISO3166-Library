@@ -43,7 +43,6 @@
     "LV-042": "Jēkabpils",
     "LV-043": "Kandava",
     "LV-044": "Kārsava",
-    "LV-045": "Kocēnu novads",
     "LV-046": "Koknese",
     "LV-047": "Krāslava",
     "LV-048": "Krimulda",
@@ -61,7 +60,6 @@
     "LV-060": "Mazsalaca",
     "LV-061": "Mālpils",
     "LV-062": "Mārupe",
-    "LV-063": "Mērsraga novads",
     "LV-064": "Naukšēni",
     "LV-065": "Nereta",
     "LV-066": "Nīca",
@@ -109,13 +107,5 @@
     "LV-108": "Viļaka",
     "LV-109": "Viļāni",
     "LV-110": "Zilupe",
-    "LV-DGV": "Daugavpils",
-    "LV-JEL": "Jelgava",
-    "LV-JKB": "Jēkabpils",
-    "LV-JUR": "Jūrmala",
-    "LV-LPX": "Liepāja",
-    "LV-REZ": "Rēzekne",
-    "LV-RIX": "Riga",
-    "LV-VEN": "Ventspils",
-    "LV-VMR": "Valmiera"
+    "LV-RIX": "Riga"
 }

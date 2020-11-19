@@ -1,82 +1,66 @@
 {
     "KR-11": {
         "code": "KR-11",
-        "name": "Seoul Teugbyeolsi",
         "type": "Capital Metropolitan City"
     },
     "KR-26": {
         "code": "KR-26",
-        "name": "Busan Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-27": {
         "code": "KR-27",
-        "name": "Daegu Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-28": {
         "code": "KR-28",
-        "name": "Incheon Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-29": {
         "code": "KR-29",
-        "name": "Gwangju Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-30": {
         "code": "KR-30",
-        "name": "Daejeon Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-31": {
         "code": "KR-31",
-        "name": "Ulsan Gwang'yeogsi",
         "type": "Metropolitan cities"
     },
     "KR-41": {
         "code": "KR-41",
-        "name": "Gyeonggido",
         "type": "Province"
     },
     "KR-42": {
         "code": "KR-42",
-        "name": "Gang'weondo",
         "type": "Province"
     },
     "KR-43": {
         "code": "KR-43",
-        "name": "Chungcheongbukdo",
         "type": "Province"
     },
     "KR-44": {
         "code": "KR-44",
-        "name": "Chungcheongnamdo",
         "type": "Province"
     },
     "KR-45": {
         "code": "KR-45",
-        "name": "Jeonrabukdo",
         "type": "Province"
     },
     "KR-46": {
         "code": "KR-46",
-        "name": "Jeonranamdo",
         "type": "Province"
     },
     "KR-47": {
         "code": "KR-47",
-        "name": "Gyeongsangbukdo",
         "type": "Province"
     },
     "KR-48": {
         "code": "KR-48",
-        "name": "Gyeongsangnamdo",
         "type": "Province"
     },
     "KR-49": {
         "code": "KR-49",
-        "name": "Jejudo",
         "type": "Province"
     }
 }

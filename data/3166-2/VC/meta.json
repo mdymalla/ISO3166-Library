@@ -1,32 +1,26 @@
 {
     "VC-01": {
         "code": "VC-01",
-        "name": "Charlotte",
         "type": "Parish"
     },
     "VC-02": {
         "code": "VC-02",
-        "name": "Saint Andrew",
         "type": "Parish"
     },
     "VC-03": {
         "code": "VC-03",
-        "name": "Saint David",
         "type": "Parish"
     },
     "VC-04": {
         "code": "VC-04",
-        "name": "Saint George",
         "type": "Parish"
     },
     "VC-05": {
         "code": "VC-05",
-        "name": "Saint Patrick",
         "type": "Parish"
     },
     "VC-06": {
         "code": "VC-06",
-        "name": "Grenadines",
         "type": "Parish"
     }
 }

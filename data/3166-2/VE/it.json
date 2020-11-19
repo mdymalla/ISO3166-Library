@@ -1,27 +1,5 @@
 {
-    "VE-Z": "Amazonas",
     "VE-A": "Distretto Federale",
     "VE-F": "Bolivar",
-    "VE-R": "Sucre",
-    "VE-B": "Anzoátegui",
-    "VE-C": "Apure",
-    "VE-D": "Aragua",
-    "VE-E": "Barinas",
-    "VE-G": "Carabobo",
-    "VE-H": "Cojedes",
-    "VE-I": "Falcón",
-    "VE-J": "Guárico",
-    "VE-K": "Lara",
-    "VE-L": "Mérida",
-    "VE-M": "Miranda",
-    "VE-N": "Monagas",
-    "VE-O": "Nueva Esparta",
-    "VE-P": "Portuguesa",
-    "VE-S": "Táchira",
-    "VE-T": "Trujillo",
-    "VE-U": "Yaracuy",
-    "VE-V": "Zulia",
-    "VE-W": "Dipendenze Federali",
-    "VE-X": "Vargas",
-    "VE-Y": "Delta Amacuro"
+    "VE-W": "Dipendenze Federali"
 }

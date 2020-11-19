@@ -1,22 +1,18 @@
 {
     "GL-KU": {
         "code": "GL-KU",
-        "name": "Kommune Kujalleq",
         "type": "Municipality"
     },
     "GL-QA": {
         "code": "GL-QA",
-        "name": "Qaasuitsup Kommunia",
         "type": "Municipality"
     },
     "GL-QE": {
         "code": "GL-QE",
-        "name": "Qeqqata Kommunia",
         "type": "Municipality"
     },
     "GL-SM": {
         "code": "GL-SM",
-        "name": "Kommuneqarfik Sermersooq",
         "type": "Municipality"
     }
 }

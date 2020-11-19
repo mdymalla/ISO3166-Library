@@ -1,5 +1,4 @@
 {
-    "CH-AG": "Aargau",
     "CH-AI": "Vidinis Rodas",
     "CH-AR": "Vidinis Rodas",
     "CH-BE": "Bernas",
@@ -7,9 +6,7 @@
     "CH-BS": "Bazelio miestas",
     "CH-FR": "Fribūras",
     "CH-GE": "Ženeva",
-    "CH-GL": "Glarus",
     "CH-GR": "Graubiundenas",
-    "CH-JU": "Jura",
     "CH-LU": "Liucerna",
     "CH-NE": "Nešatelis",
     "CH-NW": "Nidvaldenas",
@@ -20,7 +17,6 @@
     "CH-SZ": "Švicas",
     "CH-TG": "Turgau",
     "CH-TI": "Tičinas",
-    "CH-UR": "Uri",
     "CH-VD": "Vo",
     "CH-VS": "Valė",
     "CH-ZH": "Ciūrichas"

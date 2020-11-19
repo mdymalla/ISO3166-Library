@@ -1,421 +1,350 @@
 {
     "BD-01": {
         "code": "BD-01",
-        "name": "Bandarban",
         "type": "District",
         "parent": "B"
     },
     "BD-02": {
         "code": "BD-02",
-        "name": "Barguna",
         "type": "District",
         "parent": "A"
     },
     "BD-03": {
         "code": "BD-03",
-        "name": "Bogra",
         "type": "District",
         "parent": "E"
     },
     "BD-04": {
         "code": "BD-04",
-        "name": "Brahmanbaria",
         "type": "District",
         "parent": "B"
     },
     "BD-05": {
         "code": "BD-05",
-        "name": "Bagerhat",
         "type": "District",
         "parent": "D"
     },
     "BD-06": {
         "code": "BD-06",
-        "name": "Barisal",
         "type": "District",
         "parent": "A"
     },
     "BD-07": {
         "code": "BD-07",
-        "name": "Bhola",
         "type": "District",
         "parent": "A"
     },
     "BD-08": {
         "code": "BD-08",
-        "name": "Comilla",
         "type": "District",
         "parent": "B"
     },
     "BD-09": {
         "code": "BD-09",
-        "name": "Chandpur",
         "type": "District",
         "parent": "B"
     },
     "BD-10": {
         "code": "BD-10",
-        "name": "Chittagong",
         "type": "District",
         "parent": "B"
     },
     "BD-11": {
         "code": "BD-11",
-        "name": "Cox's Bazar",
         "type": "District",
         "parent": "B"
     },
     "BD-12": {
         "code": "BD-12",
-        "name": "Chuadanga",
         "type": "District",
         "parent": "D"
     },
     "BD-13": {
         "code": "BD-13",
-        "name": "Dhaka",
         "type": "District",
         "parent": "C"
     },
     "BD-14": {
         "code": "BD-14",
-        "name": "Dinajpur",
         "type": "District",
         "parent": "F"
     },
     "BD-15": {
         "code": "BD-15",
-        "name": "Faridpur",
         "type": "District",
         "parent": "C"
     },
     "BD-16": {
         "code": "BD-16",
-        "name": "Feni",
         "type": "District",
         "parent": "B"
     },
     "BD-17": {
         "code": "BD-17",
-        "name": "Gopalganj",
         "type": "District",
         "parent": "C"
     },
     "BD-18": {
         "code": "BD-18",
-        "name": "Gazipur",
         "type": "District",
         "parent": "C"
     },
     "BD-19": {
         "code": "BD-19",
-        "name": "Gaibandha",
         "type": "District",
         "parent": "F"
     },
     "BD-20": {
         "code": "BD-20",
-        "name": "Habiganj",
         "type": "District",
         "parent": "G"
     },
     "BD-21": {
         "code": "BD-21",
-        "name": "Jamalpur",
         "type": "District",
         "parent": "C"
     },
     "BD-22": {
         "code": "BD-22",
-        "name": "Jessore",
         "type": "District",
         "parent": "D"
     },
     "BD-23": {
         "code": "BD-23",
-        "name": "Jhenaidah",
         "type": "District",
         "parent": "D"
     },
     "BD-24": {
         "code": "BD-24",
-        "name": "Jaipurhat",
         "type": "District",
         "parent": "E"
     },
     "BD-25": {
         "code": "BD-25",
-        "name": "Jhalakati",
         "type": "District",
         "parent": "A"
     },
     "BD-26": {
         "code": "BD-26",
-        "name": "Kishorganj",
         "type": "District",
         "parent": "C"
     },
     "BD-27": {
         "code": "BD-27",
-        "name": "Khulna",
         "type": "District",
         "parent": "D"
     },
     "BD-28": {
         "code": "BD-28",
-        "name": "Kurigram",
         "type": "District",
         "parent": "F"
     },
     "BD-29": {
         "code": "BD-29",
-        "name": "Khagrachari",
         "type": "District",
         "parent": "B"
     },
     "BD-30": {
         "code": "BD-30",
-        "name": "Kushtia",
         "type": "District",
         "parent": "D"
     },
     "BD-31": {
         "code": "BD-31",
-        "name": "Lakshmipur",
         "type": "District",
         "parent": "B"
     },
     "BD-32": {
         "code": "BD-32",
-        "name": "Lalmonirhat",
         "type": "District",
         "parent": "F"
     },
     "BD-33": {
         "code": "BD-33",
-        "name": "Manikganj",
         "type": "District",
         "parent": "C"
     },
     "BD-34": {
         "code": "BD-34",
-        "name": "Mymensingh",
         "type": "District",
         "parent": "C"
     },
     "BD-35": {
         "code": "BD-35",
-        "name": "Munshiganj",
         "type": "District",
         "parent": "C"
     },
     "BD-36": {
         "code": "BD-36",
-        "name": "Madaripur",
         "type": "District",
         "parent": "C"
     },
     "BD-37": {
         "code": "BD-37",
-        "name": "Magura",
         "type": "District",
         "parent": "D"
     },
     "BD-38": {
         "code": "BD-38",
-        "name": "Moulvibazar",
         "type": "District",
         "parent": "G"
     },
     "BD-39": {
         "code": "BD-39",
-        "name": "Meherpur",
         "type": "District",
         "parent": "D"
     },
     "BD-40": {
         "code": "BD-40",
-        "name": "Narayanganj",
         "type": "District",
         "parent": "C"
     },
     "BD-41": {
         "code": "BD-41",
-        "name": "Netrakona",
         "type": "District",
         "parent": "C"
     },
     "BD-42": {
         "code": "BD-42",
-        "name": "Narsingdi",
         "type": "District",
         "parent": "C"
     },
     "BD-43": {
         "code": "BD-43",
-        "name": "Narail",
         "type": "District",
         "parent": "D"
     },
     "BD-44": {
         "code": "BD-44",
-        "name": "Natore",
         "type": "District",
         "parent": "E"
     },
     "BD-45": {
         "code": "BD-45",
-        "name": "Nawabganj",
         "type": "District",
         "parent": "E"
     },
     "BD-46": {
         "code": "BD-46",
-        "name": "Nilphamari",
         "type": "District",
         "parent": "F"
     },
     "BD-47": {
         "code": "BD-47",
-        "name": "Noakhali",
         "type": "District",
         "parent": "B"
     },
     "BD-48": {
         "code": "BD-48",
-        "name": "Naogaon",
         "type": "District",
         "parent": "E"
     },
     "BD-49": {
         "code": "BD-49",
-        "name": "Pabna",
         "type": "District",
         "parent": "E"
     },
     "BD-50": {
         "code": "BD-50",
-        "name": "Pirojpur",
         "type": "District",
         "parent": "A"
     },
     "BD-51": {
         "code": "BD-51",
-        "name": "Patuakhali",
         "type": "District",
         "parent": "A"
     },
     "BD-52": {
         "code": "BD-52",
-        "name": "Panchagarh",
         "type": "District",
         "parent": "F"
     },
     "BD-53": {
         "code": "BD-53",
-        "name": "Rajbari",
         "type": "District",
         "parent": "C"
     },
     "BD-54": {
         "code": "BD-54",
-        "name": "Rajshahi",
         "type": "District",
         "parent": "E"
     },
     "BD-55": {
         "code": "BD-55",
-        "name": "Rangpur",
         "type": "District",
         "parent": "F"
     },
     "BD-56": {
         "code": "BD-56",
-        "name": "Rangamati",
         "type": "District",
         "parent": "B"
     },
     "BD-57": {
         "code": "BD-57",
-        "name": "Sherpur",
         "type": "District",
         "parent": "C"
     },
     "BD-58": {
         "code": "BD-58",
-        "name": "Satkhira",
         "type": "District",
         "parent": "D"
     },
     "BD-59": {
         "code": "BD-59",
-        "name": "Sirajganj",
         "type": "District",
         "parent": "E"
     },
     "BD-60": {
         "code": "BD-60",
-        "name": "Sylhet",
         "type": "District",
         "parent": "G"
     },
     "BD-61": {
         "code": "BD-61",
-        "name": "Sunamganj",
         "type": "District",
         "parent": "G"
     },
     "BD-62": {
         "code": "BD-62",
-        "name": "Shariatpur",
         "type": "District",
         "parent": "C"
     },
     "BD-63": {
         "code": "BD-63",
-        "name": "Tangail",
         "type": "District",
         "parent": "C"
     },
     "BD-64": {
         "code": "BD-64",
-        "name": "Thakurgaon",
         "type": "District",
         "parent": "F"
     },
     "BD-A": {
         "code": "BD-A",
-        "name": "Barisal",
         "type": "Division"
     },
     "BD-B": {
         "code": "BD-B",
-        "name": "Chittagong",
         "type": "Division"
     },
     "BD-C": {
         "code": "BD-C",
-        "name": "Dhaka",
         "type": "Division"
     },
     "BD-D": {
         "code": "BD-D",
-        "name": "Khulna",
         "type": "Division"
     },
     "BD-E": {
         "code": "BD-E",
-        "name": "Rajshahi",
         "type": "Division"
     },
     "BD-F": {
         "code": "BD-F",
-        "name": "Rangpur",
         "type": "Division"
     },
     "BD-G": {
         "code": "BD-G",
-        "name": "Sylhet",
         "type": "Division"
     }
 }

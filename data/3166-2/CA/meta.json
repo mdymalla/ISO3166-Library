@@ -1,67 +1,54 @@
 {
     "CA-AB": {
         "code": "CA-AB",
-        "name": "Alberta",
         "type": "Province"
     },
     "CA-BC": {
         "code": "CA-BC",
-        "name": "British Columbia",
         "type": "Province"
     },
     "CA-MB": {
         "code": "CA-MB",
-        "name": "Manitoba",
         "type": "Province"
     },
     "CA-NB": {
         "code": "CA-NB",
-        "name": "New Brunswick",
         "type": "Province"
     },
     "CA-NL": {
         "code": "CA-NL",
-        "name": "Newfoundland and Labrador",
         "type": "Province"
     },
     "CA-NS": {
         "code": "CA-NS",
-        "name": "Nova Scotia",
         "type": "Province"
     },
     "CA-NT": {
         "code": "CA-NT",
-        "name": "Northwest Territories",
         "type": "Territory"
     },
     "CA-NU": {
         "code": "CA-NU",
-        "name": "Nunavut",
         "type": "Territory"
     },
     "CA-ON": {
         "code": "CA-ON",
-        "name": "Ontario",
         "type": "Province"
     },
     "CA-PE": {
         "code": "CA-PE",
-        "name": "Prince Edward Island",
         "type": "Province"
     },
     "CA-QC": {
         "code": "CA-QC",
-        "name": "Quebec",
         "type": "Province"
     },
     "CA-SK": {
         "code": "CA-SK",
-        "name": "Saskatchewan",
         "type": "Province"
     },
     "CA-YT": {
         "code": "CA-YT",
-        "name": "Yukon Territory",
         "type": "Territory"
     }
 }

@@ -1,162 +1,134 @@
 {
     "MV-00": {
         "code": "MV-00",
-        "name": "Alifu Dhaalu",
         "type": "Administrative atoll",
         "parent": "NC"
     },
     "MV-01": {
         "code": "MV-01",
-        "name": "Seenu",
         "type": "Administrative atoll",
         "parent": "SU"
     },
     "MV-02": {
         "code": "MV-02",
-        "name": "Alifu Alifu",
         "type": "Administrative atoll",
         "parent": "NC"
     },
     "MV-03": {
         "code": "MV-03",
-        "name": "Lhaviyani",
         "type": "Administrative atoll",
         "parent": "NO"
     },
     "MV-04": {
         "code": "MV-04",
-        "name": "Vaavu",
         "type": "Administrative atoll",
         "parent": "NC"
     },
     "MV-05": {
         "code": "MV-05",
-        "name": "Laamu",
         "type": "Administrative atoll",
         "parent": "US"
     },
     "MV-07": {
         "code": "MV-07",
-        "name": "Haa Alifu",
         "type": "Administrative atoll",
         "parent": "UN"
     },
     "MV-08": {
         "code": "MV-08",
-        "name": "Thaa",
         "type": "Administrative atoll",
         "parent": "US"
     },
     "MV-12": {
         "code": "MV-12",
-        "name": "Meemu",
         "type": "Administrative atoll",
         "parent": "CE"
     },
     "MV-13": {
         "code": "MV-13",
-        "name": "Raa",
         "type": "Administrative atoll",
         "parent": "NO"
     },
     "MV-14": {
         "code": "MV-14",
-        "name": "Faafu",
         "type": "Administrative atoll",
         "parent": "CE"
     },
     "MV-17": {
         "code": "MV-17",
-        "name": "Dhaalu",
         "type": "Administrative atoll",
         "parent": "CE"
     },
     "MV-20": {
         "code": "MV-20",
-        "name": "Baa",
         "type": "Administrative atoll",
         "parent": "NO"
     },
     "MV-23": {
         "code": "MV-23",
-        "name": "Haa Dhaalu",
         "type": "Administrative atoll",
         "parent": "UN"
     },
     "MV-24": {
         "code": "MV-24",
-        "name": "Shaviyani",
         "type": "Administrative atoll",
         "parent": "UN"
     },
     "MV-25": {
         "code": "MV-25",
-        "name": "Noonu",
         "type": "Administrative atoll",
         "parent": "NO"
     },
     "MV-26": {
         "code": "MV-26",
-        "name": "Kaafu",
         "type": "Administrative atoll",
         "parent": "NC"
     },
     "MV-27": {
         "code": "MV-27",
-        "name": "Gaafu Alifu",
         "type": "Administrative atoll",
         "parent": "SC"
     },
     "MV-28": {
         "code": "MV-28",
-        "name": "Gaafu Dhaalu",
         "type": "Administrative atoll",
         "parent": "SC"
     },
     "MV-29": {
         "code": "MV-29",
-        "name": "Gnaviyani",
         "type": "Administrative atoll",
         "parent": "SU"
     },
     "MV-CE": {
         "code": "MV-CE",
-        "name": "Central",
         "type": "Province"
     },
     "MV-MLE": {
         "code": "MV-MLE",
-        "name": "Male",
         "type": "City"
     },
     "MV-NC": {
         "code": "MV-NC",
-        "name": "North Central",
         "type": "Province"
     },
     "MV-NO": {
         "code": "MV-NO",
-        "name": "North",
         "type": "Province"
     },
     "MV-SC": {
         "code": "MV-SC",
-        "name": "South Central",
         "type": "Province"
     },
     "MV-SU": {
         "code": "MV-SU",
-        "name": "South",
         "type": "Province"
     },
     "MV-UN": {
         "code": "MV-UN",
-        "name": "Upper North",
         "type": "Province"
     },
     "MV-US": {
         "code": "MV-US",
-        "name": "Upper South",
         "type": "Province"
     }
 }

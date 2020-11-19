@@ -1,177 +1,147 @@
 {
     "IE-C": {
         "code": "IE-C",
-        "name": "Connacht",
         "type": "Province"
     },
     "IE-CE": {
         "code": "IE-CE",
-        "name": "Clare",
         "type": "County",
         "parent": "M"
     },
     "IE-CN": {
         "code": "IE-CN",
-        "name": "Cavan",
         "type": "County",
         "parent": "U"
     },
     "IE-CO": {
         "code": "IE-CO",
-        "name": "Cork",
         "type": "County",
         "parent": "M"
     },
     "IE-CW": {
         "code": "IE-CW",
-        "name": "Carlow",
         "type": "County",
         "parent": "L"
     },
     "IE-D": {
         "code": "IE-D",
-        "name": "Dublin",
         "type": "County",
         "parent": "L"
     },
     "IE-DL": {
         "code": "IE-DL",
-        "name": "Donegal",
         "type": "County",
         "parent": "U"
     },
     "IE-G": {
         "code": "IE-G",
-        "name": "Galway",
         "type": "County",
         "parent": "C"
     },
     "IE-KE": {
         "code": "IE-KE",
-        "name": "Kildare",
         "type": "County",
         "parent": "L"
     },
     "IE-KK": {
         "code": "IE-KK",
-        "name": "Kilkenny",
         "type": "County",
         "parent": "L"
     },
     "IE-KY": {
         "code": "IE-KY",
-        "name": "Kerry",
         "type": "County",
         "parent": "M"
     },
     "IE-L": {
         "code": "IE-L",
-        "name": "Leinster",
         "type": "Province"
     },
     "IE-LD": {
         "code": "IE-LD",
-        "name": "Longford",
         "type": "County",
         "parent": "L"
     },
     "IE-LH": {
         "code": "IE-LH",
-        "name": "Louth",
         "type": "County",
         "parent": "L"
     },
     "IE-LK": {
         "code": "IE-LK",
-        "name": "Limerick",
         "type": "County",
         "parent": "M"
     },
     "IE-LM": {
         "code": "IE-LM",
-        "name": "Leitrim",
         "type": "County",
         "parent": "C"
     },
     "IE-LS": {
         "code": "IE-LS",
-        "name": "Laois",
         "type": "County",
         "parent": "L"
     },
     "IE-M": {
         "code": "IE-M",
-        "name": "Munster",
         "type": "Province"
     },
     "IE-MH": {
         "code": "IE-MH",
-        "name": "Meath",
         "type": "County",
         "parent": "L"
     },
     "IE-MN": {
         "code": "IE-MN",
-        "name": "Monaghan",
         "type": "County",
         "parent": "U"
     },
     "IE-MO": {
         "code": "IE-MO",
-        "name": "Mayo",
         "type": "County",
         "parent": "C"
     },
     "IE-OY": {
         "code": "IE-OY",
-        "name": "Offaly",
         "type": "County",
         "parent": "L"
     },
     "IE-RN": {
         "code": "IE-RN",
-        "name": "Roscommon",
         "type": "County",
         "parent": "C"
     },
     "IE-SO": {
         "code": "IE-SO",
-        "name": "Sligo",
         "type": "County",
         "parent": "C"
     },
     "IE-TA": {
         "code": "IE-TA",
-        "name": "Tipperary",
         "type": "County",
         "parent": "M"
     },
     "IE-U": {
         "code": "IE-U",
-        "name": "Ulster",
         "type": "Province"
     },
     "IE-WD": {
         "code": "IE-WD",
-        "name": "Waterford",
         "type": "County",
         "parent": "M"
     },
     "IE-WH": {
         "code": "IE-WH",
-        "name": "Westmeath",
         "type": "County",
         "parent": "L"
     },
     "IE-WW": {
         "code": "IE-WW",
-        "name": "Wicklow",
         "type": "County",
         "parent": "L"
     },
     "IE-WX": {
         "code": "IE-WX",
-        "name": "Wexford",
         "type": "County",
         "parent": "L"
     }

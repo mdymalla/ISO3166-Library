@@ -1,172 +1,138 @@
 {
     "AF-BAL": {
         "code": "AF-BAL",
-        "name": "Balkh",
         "type": "Province"
     },
     "AF-BAM": {
         "code": "AF-BAM",
-        "name": "Bāmyān",
         "type": "Province"
     },
     "AF-BDG": {
         "code": "AF-BDG",
-        "name": "Bādghīs",
         "type": "Province"
     },
     "AF-BDS": {
         "code": "AF-BDS",
-        "name": "Badakhshān",
         "type": "Province"
     },
     "AF-BGL": {
         "code": "AF-BGL",
-        "name": "Baghlān",
         "type": "Province"
     },
     "AF-DAY": {
         "code": "AF-DAY",
-        "name": "Dāykundī",
         "type": "Province"
     },
     "AF-FRA": {
         "code": "AF-FRA",
-        "name": "Farāh",
         "type": "Province"
     },
     "AF-FYB": {
         "code": "AF-FYB",
-        "name": "Fāryāb",
         "type": "Province"
     },
     "AF-GHA": {
         "code": "AF-GHA",
-        "name": "Ghaznī",
         "type": "Province"
     },
     "AF-GHO": {
         "code": "AF-GHO",
-        "name": "Ghōr",
         "type": "Province"
     },
     "AF-HEL": {
         "code": "AF-HEL",
-        "name": "Helmand",
         "type": "Province"
     },
     "AF-HER": {
         "code": "AF-HER",
-        "name": "Herāt",
         "type": "Province"
     },
     "AF-JOW": {
         "code": "AF-JOW",
-        "name": "Jowzjān",
         "type": "Province"
     },
     "AF-KAB": {
         "code": "AF-KAB",
-        "name": "Kābul",
         "type": "Province"
     },
     "AF-KAN": {
         "code": "AF-KAN",
-        "name": "Kandahār",
         "type": "Province"
     },
     "AF-KAP": {
         "code": "AF-KAP",
-        "name": "Kāpīsā",
         "type": "Province"
     },
     "AF-KDZ": {
         "code": "AF-KDZ",
-        "name": "Kunduz",
         "type": "Province"
     },
     "AF-KHO": {
         "code": "AF-KHO",
-        "name": "Khōst",
         "type": "Province"
     },
     "AF-KNR": {
         "code": "AF-KNR",
-        "name": "Kunar",
         "type": "Province"
     },
     "AF-LAG": {
         "code": "AF-LAG",
-        "name": "Laghmān",
         "type": "Province"
     },
     "AF-LOG": {
         "code": "AF-LOG",
-        "name": "Lōgar",
         "type": "Province"
     },
     "AF-NAN": {
         "code": "AF-NAN",
-        "name": "Nangarhār",
         "type": "Province"
     },
     "AF-NIM": {
         "code": "AF-NIM",
-        "name": "Nīmrōz",
         "type": "Province"
     },
     "AF-NUR": {
         "code": "AF-NUR",
-        "name": "Nūristān",
         "type": "Province"
     },
     "AF-PAN": {
         "code": "AF-PAN",
-        "name": "Panjshayr",
         "type": "Province"
     },
     "AF-PAR": {
         "code": "AF-PAR",
-        "name": "Parwān",
         "type": "Province"
     },
     "AF-PIA": {
         "code": "AF-PIA",
-        "name": "Paktiyā",
         "type": "Province"
     },
     "AF-PKA": {
         "code": "AF-PKA",
-        "name": "Paktīkā",
         "type": "Province"
     },
     "AF-SAM": {
         "code": "AF-SAM",
-        "name": "Samangān",
         "type": "Province"
     },
     "AF-SAR": {
         "code": "AF-SAR",
-        "name": "Sar-e Pul",
         "type": "Province"
     },
     "AF-TAK": {
         "code": "AF-TAK",
-        "name": "Takhār",
         "type": "Province"
     },
     "AF-URU": {
         "code": "AF-URU",
-        "name": "Uruzgān",
         "type": "Province"
     },
     "AF-WAR": {
         "code": "AF-WAR",
-        "name": "Wardak",
         "type": "Province"
     },
     "AF-ZAB": {
         "code": "AF-ZAB",
-        "name": "Zābul",
         "type": "Province"
     }
 }

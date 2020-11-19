@@ -1,92 +1,74 @@
 {
     "IQ-AN": {
         "code": "IQ-AN",
-        "name": "Al Anbar",
         "type": "Governorate"
     },
     "IQ-AR": {
         "code": "IQ-AR",
-        "name": "Arbil",
         "type": "Governorate"
     },
     "IQ-BA": {
         "code": "IQ-BA",
-        "name": "Al Basrah",
         "type": "Governorate"
     },
     "IQ-BB": {
         "code": "IQ-BB",
-        "name": "Babil",
         "type": "Governorate"
     },
     "IQ-BG": {
         "code": "IQ-BG",
-        "name": "Baghdad",
         "type": "Governorate"
     },
     "IQ-DA": {
         "code": "IQ-DA",
-        "name": "Dahuk",
         "type": "Governorate"
     },
     "IQ-DI": {
         "code": "IQ-DI",
-        "name": "Diyala",
         "type": "Governorate"
     },
     "IQ-DQ": {
         "code": "IQ-DQ",
-        "name": "Dhi Qar",
         "type": "Governorate"
     },
     "IQ-KA": {
         "code": "IQ-KA",
-        "name": "Karbala'",
         "type": "Governorate"
     },
     "IQ-MA": {
         "code": "IQ-MA",
-        "name": "Maysan",
         "type": "Governorate"
     },
     "IQ-MU": {
         "code": "IQ-MU",
-        "name": "Al Muthanna",
         "type": "Governorate"
     },
     "IQ-NA": {
         "code": "IQ-NA",
-        "name": "An Najef",
         "type": "Governorate"
     },
     "IQ-NI": {
         "code": "IQ-NI",
-        "name": "Ninawa",
         "type": "Governorate"
     },
     "IQ-QA": {
         "code": "IQ-QA",
-        "name": "Al Qadisiyah",
         "type": "Governorate"
     },
     "IQ-SD": {
         "code": "IQ-SD",
-        "name": "Salah ad Din",
         "type": "Governorate"
     },
     "IQ-SW": {
         "code": "IQ-SW",
-        "name": "As Sulaymaniyah",
         "type": "Governorate"
     },
     "IQ-TS": {
         "code": "IQ-TS",
-        "name": "At Ta'mim",
         "type": "Governorate"
     },
     "IQ-WA": {
         "code": "IQ-WA",
-        "name": "Wasit",
         "type": "Governorate"
     }
 }

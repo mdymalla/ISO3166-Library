@@ -1,92 +1,74 @@
 {
     "AO-BGO": {
         "code": "AO-BGO",
-        "name": "Bengo",
         "type": "Province"
     },
     "AO-BGU": {
         "code": "AO-BGU",
-        "name": "Benguela",
         "type": "Province"
     },
     "AO-BIE": {
         "code": "AO-BIE",
-        "name": "Bié",
         "type": "Province"
     },
     "AO-CAB": {
         "code": "AO-CAB",
-        "name": "Cabinda",
         "type": "Province"
     },
     "AO-CCU": {
         "code": "AO-CCU",
-        "name": "Cuando-Cubango",
         "type": "Province"
     },
     "AO-CNN": {
         "code": "AO-CNN",
-        "name": "Cunene",
         "type": "Province"
     },
     "AO-CNO": {
         "code": "AO-CNO",
-        "name": "Cuanza Norte",
         "type": "Province"
     },
     "AO-CUS": {
         "code": "AO-CUS",
-        "name": "Cuanza Sul",
         "type": "Province"
     },
     "AO-HUA": {
         "code": "AO-HUA",
-        "name": "Huambo",
         "type": "Province"
     },
     "AO-HUI": {
         "code": "AO-HUI",
-        "name": "Huíla",
         "type": "Province"
     },
     "AO-LNO": {
         "code": "AO-LNO",
-        "name": "Lunda Norte",
         "type": "Province"
     },
     "AO-LSU": {
         "code": "AO-LSU",
-        "name": "Lunda Sul",
         "type": "Province"
     },
     "AO-LUA": {
         "code": "AO-LUA",
-        "name": "Luanda",
         "type": "Province"
     },
     "AO-MAL": {
         "code": "AO-MAL",
-        "name": "Malange",
         "type": "Province"
     },
     "AO-MOX": {
         "code": "AO-MOX",
-        "name": "Moxico",
         "type": "Province"
     },
     "AO-NAM": {
         "code": "AO-NAM",
-        "name": "Namibe",
         "type": "Province"
     },
     "AO-UIG": {
         "code": "AO-UIG",
-        "name": "Uíge",
         "type": "Province"
     },
     "AO-ZAI": {
         "code": "AO-ZAI",
-        "name": "Zaire",
         "type": "Province"
     }
 }

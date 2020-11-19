@@ -1,11 +1,3 @@
 {
-    "BW-CE": "Central",
-    "BW-GH": "Ghanzi",
-    "BW-KG": "Kgalagadi",
-    "BW-KL": "Kgatleng",
-    "BW-KW": "Kweneng",
-    "BW-NE": "Nort-East",
-    "BW-NW": "North-West",
-    "BW-SE": "South-East",
-    "BW-SO": "Southern"
+    "BW-NE": "Nort-East"
 }

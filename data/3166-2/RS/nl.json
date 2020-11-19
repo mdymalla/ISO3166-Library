@@ -1,5 +1,4 @@
 {
-    "RS-00": "Beograd",
     "RS-01": "Noord-Bačka",
     "RS-02": "Centraal-Banaat",
     "RS-03": "Noord-Banaat",
@@ -28,7 +27,5 @@
     "RS-26": "Peć",
     "RS-27": "Prizren",
     "RS-28": "Kosovska Mitrovica",
-    "RS-29": "Kosovo-Pomoravlje",
-    "RS-KM": "Kosovo-Metohija",
-    "RS-VO": "Vojvodina"
+    "RS-29": "Kosovo-Pomoravlje"
 }

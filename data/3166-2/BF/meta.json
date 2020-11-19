@@ -1,336 +1,278 @@
 {
     "BF-01": {
         "code": "BF-01",
-        "name": "Boucle du Mouhoun",
         "type": "Region"
     },
     "BF-02": {
         "code": "BF-02",
-        "name": "Cascades",
         "type": "Region"
     },
     "BF-03": {
         "code": "BF-03",
-        "name": "Centre",
         "type": "Region"
     },
     "BF-04": {
         "code": "BF-04",
-        "name": "Centre-Est",
         "type": "Region"
     },
     "BF-05": {
         "code": "BF-05",
-        "name": "Centre-Nord",
         "type": "Region"
     },
     "BF-06": {
         "code": "BF-06",
-        "name": "Centre-Ouest",
         "type": "Region"
     },
     "BF-07": {
         "code": "BF-07",
-        "name": "Centre-Sud",
         "type": "Region"
     },
     "BF-08": {
         "code": "BF-08",
-        "name": "Est",
         "type": "Region"
     },
     "BF-09": {
         "code": "BF-09",
-        "name": "Hauts-Bassins",
         "type": "Region"
     },
     "BF-10": {
         "code": "BF-10",
-        "name": "Nord",
         "type": "Region"
     },
     "BF-11": {
         "code": "BF-11",
-        "name": "Plateau-Central",
         "type": "Region"
     },
     "BF-12": {
         "code": "BF-12",
-        "name": "Sahel",
         "type": "Region"
     },
     "BF-13": {
         "code": "BF-13",
-        "name": "Sud-Ouest",
         "type": "Region"
     },
     "BF-BAL": {
         "code": "BF-BAL",
-        "name": "Balé",
         "type": "Province",
         "parent": "01"
     },
     "BF-BAM": {
         "code": "BF-BAM",
-        "name": "Bam",
         "type": "Province",
         "parent": "05"
     },
     "BF-BAN": {
         "code": "BF-BAN",
-        "name": "Banwa",
         "type": "Province",
         "parent": "01"
     },
     "BF-BAZ": {
         "code": "BF-BAZ",
-        "name": "Bazèga",
         "type": "Province",
         "parent": "07"
     },
     "BF-BGR": {
         "code": "BF-BGR",
-        "name": "Bougouriba",
         "type": "Province",
         "parent": "13"
     },
     "BF-BLG": {
         "code": "BF-BLG",
-        "name": "Boulgou",
         "type": "Province",
         "parent": "04"
     },
     "BF-BLK": {
         "code": "BF-BLK",
-        "name": "Boulkiemdé",
         "type": "Province",
         "parent": "06"
     },
     "BF-COM": {
         "code": "BF-COM",
-        "name": "Comoé",
         "type": "Province",
         "parent": "02"
     },
     "BF-GAN": {
         "code": "BF-GAN",
-        "name": "Ganzourgou",
         "type": "Province",
         "parent": "11"
     },
     "BF-GNA": {
         "code": "BF-GNA",
-        "name": "Gnagna",
         "type": "Province",
         "parent": "08"
     },
     "BF-GOU": {
         "code": "BF-GOU",
-        "name": "Gourma",
         "type": "Province",
         "parent": "08"
     },
     "BF-HOU": {
         "code": "BF-HOU",
-        "name": "Houet",
         "type": "Province",
         "parent": "09"
     },
     "BF-IOB": {
         "code": "BF-IOB",
-        "name": "Ioba",
         "type": "Province",
         "parent": "13"
     },
     "BF-KAD": {
         "code": "BF-KAD",
-        "name": "Kadiogo",
         "type": "Province",
         "parent": "03"
     },
     "BF-KEN": {
         "code": "BF-KEN",
-        "name": "Kénédougou",
         "type": "Province",
         "parent": "09"
     },
     "BF-KMD": {
         "code": "BF-KMD",
-        "name": "Komondjari",
         "type": "Province",
         "parent": "08"
     },
     "BF-KMP": {
         "code": "BF-KMP",
-        "name": "Kompienga",
         "type": "Province",
         "parent": "08"
     },
     "BF-KOP": {
         "code": "BF-KOP",
-        "name": "Koulpélogo",
         "type": "Province",
         "parent": "04"
     },
     "BF-KOS": {
         "code": "BF-KOS",
-        "name": "Kossi",
         "type": "Province",
         "parent": "01"
     },
     "BF-KOT": {
         "code": "BF-KOT",
-        "name": "Kouritenga",
         "type": "Province",
         "parent": "04"
     },
     "BF-KOW": {
         "code": "BF-KOW",
-        "name": "Kourwéogo",
         "type": "Province",
         "parent": "11"
     },
     "BF-LER": {
         "code": "BF-LER",
-        "name": "Léraba",
         "type": "Province",
         "parent": "02"
     },
     "BF-LOR": {
         "code": "BF-LOR",
-        "name": "Loroum",
         "type": "Province",
         "parent": "10"
     },
     "BF-MOU": {
         "code": "BF-MOU",
-        "name": "Mouhoun",
         "type": "Province",
         "parent": "01"
     },
     "BF-NAM": {
         "code": "BF-NAM",
-        "name": "Namentenga",
         "type": "Province",
         "parent": "05"
     },
     "BF-NAO": {
         "code": "BF-NAO",
-        "name": "Naouri",
         "type": "Province",
         "parent": "07"
     },
     "BF-NAY": {
         "code": "BF-NAY",
-        "name": "Nayala",
         "type": "Province",
         "parent": "01"
     },
     "BF-NOU": {
         "code": "BF-NOU",
-        "name": "Noumbiel",
         "type": "Province",
         "parent": "13"
     },
     "BF-OUB": {
         "code": "BF-OUB",
-        "name": "Oubritenga",
         "type": "Province",
         "parent": "11"
     },
     "BF-OUD": {
         "code": "BF-OUD",
-        "name": "Oudalan",
         "type": "Province",
         "parent": "12"
     },
     "BF-PAS": {
         "code": "BF-PAS",
-        "name": "Passoré",
         "type": "Province",
         "parent": "10"
     },
     "BF-PON": {
         "code": "BF-PON",
-        "name": "Poni",
         "type": "Province",
         "parent": "13"
     },
     "BF-SEN": {
         "code": "BF-SEN",
-        "name": "Séno",
         "type": "Province",
         "parent": "12"
     },
     "BF-SIS": {
         "code": "BF-SIS",
-        "name": "Sissili",
         "type": "Province",
         "parent": "06"
     },
     "BF-SMT": {
         "code": "BF-SMT",
-        "name": "Sanmatenga",
         "type": "Province",
         "parent": "05"
     },
     "BF-SNG": {
         "code": "BF-SNG",
-        "name": "Sanguié",
         "type": "Province",
         "parent": "06"
     },
     "BF-SOM": {
         "code": "BF-SOM",
-        "name": "Soum",
         "type": "Province",
         "parent": "12"
     },
     "BF-SOR": {
         "code": "BF-SOR",
-        "name": "Sourou",
         "type": "Province",
         "parent": "01"
     },
     "BF-TAP": {
         "code": "BF-TAP",
-        "name": "Tapoa",
         "type": "Province",
         "parent": "08"
     },
     "BF-TUI": {
         "code": "BF-TUI",
-        "name": "Tui",
         "type": "Province",
         "parent": "09"
     },
     "BF-YAG": {
         "code": "BF-YAG",
-        "name": "Yagha",
         "type": "Province",
         "parent": "12"
     },
     "BF-YAT": {
         "code": "BF-YAT",
-        "name": "Yatenga",
         "type": "Province",
         "parent": "10"
     },
     "BF-ZIR": {
         "code": "BF-ZIR",
-        "name": "Ziro",
         "type": "Province",
         "parent": "06"
     },
     "BF-ZON": {
         "code": "BF-ZON",
-        "name": "Zondoma",
         "type": "Province",
         "parent": "10"
     },
     "BF-ZOU": {
         "code": "BF-ZOU",
-        "name": "Zoundwéogo",
         "type": "Province",
         "parent": "07"
     }

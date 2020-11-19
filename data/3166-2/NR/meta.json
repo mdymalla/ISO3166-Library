@@ -1,72 +1,58 @@
 {
     "NR-01": {
         "code": "NR-01",
-        "name": "Aiwo",
         "type": "District"
     },
     "NR-02": {
         "code": "NR-02",
-        "name": "Anabar",
         "type": "District"
     },
     "NR-03": {
         "code": "NR-03",
-        "name": "Anetan",
         "type": "District"
     },
     "NR-04": {
         "code": "NR-04",
-        "name": "Anibare",
         "type": "District"
     },
     "NR-05": {
         "code": "NR-05",
-        "name": "Baiti",
         "type": "District"
     },
     "NR-06": {
         "code": "NR-06",
-        "name": "Boe",
         "type": "District"
     },
     "NR-07": {
         "code": "NR-07",
-        "name": "Buada",
         "type": "District"
     },
     "NR-08": {
         "code": "NR-08",
-        "name": "Denigomodu",
         "type": "District"
     },
     "NR-09": {
         "code": "NR-09",
-        "name": "Ewa",
         "type": "District"
     },
     "NR-10": {
         "code": "NR-10",
-        "name": "Ijuw",
         "type": "District"
     },
     "NR-11": {
         "code": "NR-11",
-        "name": "Meneng",
         "type": "District"
     },
     "NR-12": {
         "code": "NR-12",
-        "name": "Nibok",
         "type": "District"
     },
     "NR-13": {
         "code": "NR-13",
-        "name": "Uaboe",
         "type": "District"
     },
     "NR-14": {
         "code": "NR-14",
-        "name": "Yaren",
         "type": "District"
     }
 }
