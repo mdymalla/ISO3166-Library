@@ -12,7 +12,7 @@ echo "Building 3166-1 & 3166-2 data\n\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
+exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
 echo "Complete...\n\n";
 
@@ -52,7 +52,7 @@ foreach ($dir as $file) {
     $locale = basename($path."/".$file->getFilename(), ".json");
     $translations = Helper::read($path."/".$file->getFilename());
 
-    $denormalized = Normalizer\CountryTranslation::denormalizeArray($locale, $translations);
+    $denormalized = Normalizer\Translation::denormalizeCountryArray($locale, $translations);
 
     if (null !== $denormalized) {
         $denormalizedCountryTranslations[$locale] = $denormalized;
@@ -109,7 +109,7 @@ foreach ($dir as $file) {
         $rawJson = $poToJson->withPoFile($path.'/'.$filename)->toRawJson();
         $translations = json_decode($rawJson, true);
 
-        $localeBasedTranslations = Normalizer\SubDivisionTranslation::denormalizeArray($locale, $subDivisionNameIndex, $translations);
+        $localeBasedTranslations = Normalizer\Translation::denormalizeSubDivArray($locale, $subDivisionNameIndex, $translations);
         $denormalizedSubDivisionTranslations[$locale] = $localeBasedTranslations;
     }
 }
@@ -191,7 +191,7 @@ foreach ($denormalizedCountryTranslations as $locale => $translations) {
     $normalizedCountryTranslations = [];
 
     foreach ($translations as $translation) {
-        $normalizedCountryTranslations[$translation->getCode()] = Normalizer\CountryTranslation::normalize($translation);
+        $normalizedCountryTranslations[$translation->getCode()] = Normalizer\Translation::normalize($translation);
     }
 
     file_put_contents(__DIR__."/data/3166-1/$locale.json", json_encode($normalizedCountryTranslations, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
@@ -210,7 +210,7 @@ foreach ($denormalizedSubDivisionTranslations as $locale => $translations) {
             continue;
         }
 
-        $normalizedSubDivisionTranslations[$A2][$locale][$translation->getCode()] = Normalizer\SubDivisionTranslation::normalize($translation);
+        $normalizedSubDivisionTranslations[$A2][$locale][$translation->getCode()] = Normalizer\Translation::normalize($translation);
     }
 }
 
