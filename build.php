@@ -5,12 +5,13 @@ require 'vendor/autoload.php';
 use CharlesRumley\PoToJson;
 use MJDymalla\ISO3166Data\Helper;
 use MJDymalla\ISO3166Data\Normalizer;
+use MJDymalla\ISO3166Data\Validator\LocaleValidator;
 
 echo "Building 3166-1 & 3166-2 data\n\n";
 
 echo "Generating most current ICU data via Symfony\Intl, might take awhile...";
 
-exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
+//exec('php -f vendor/symfony/symfony/src/Symfony/Component/Intl/Resources/bin/update-data.php');
 
 echo "Complete...\n\n";
 
@@ -106,6 +107,10 @@ foreach ($dir as $file) {
     if (0 === strcmp("po", $type)) {
         $filename = $file->getFilename();
         $locale = basename($filename,".po");
+
+        if (!LocaleValidator::isValid($locale)) {
+            $locale = LocaleValidator::standardize($locale);
+        }
 
         $rawJson = $poToJson->withPoFile($path.'/'.$filename)->toRawJson();
         $translations = json_decode($rawJson, true);

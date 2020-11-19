@@ -4,6 +4,7 @@ namespace MJDymalla\ISO3166Data\Normalizer;
 
 use MJDymalla\ISO3166Data\Model\Country;
 
+
 class CountryMetaData
 {
     public static function normalize(Country $country): array
