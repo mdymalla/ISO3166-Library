@@ -9,4 +9,10 @@ else
     docker build -t $DOCKER_IMAGE .
 fi
 
+sudo apt install composer
+
+composer update
+
+composer install
+
 docker run --rm -it $DOCKER_IMAGE
