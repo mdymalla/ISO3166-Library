@@ -1,4 +1,4 @@
-FROM php:7.4.10-cli
+FROM php:cli
 
 # apt dependancies
 RUN apt-get update && apt-get upgrade -y
@@ -21,13 +21,18 @@ RUN pecl channel-update pecl.php.net \
     && docker-php-ext-enable \
         apcu
 
+COPY docker/conf.d /usr/local/etc/php/conf.d
+
 RUN apt-get autoremove --purge -y && apt-get clean
 
-COPY docker/conf.d /usr/local/etc/php/conf.d
+RUN php -r "copy('http://getcomposer.org/installer', 'composer-setup.php');"
+RUN php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+RUN php -r "unlink('composer-setup.php');"
 
 COPY . /app
 
 WORKDIR /app
 
-CMD ["php", "/app/build.php"]
+RUN composer install
 
+ENTRYPOINT ["php", "/app/build.php"]
