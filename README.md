@@ -48,6 +48,13 @@ The 3166-2 directory contains both ISO3166-2 official Sub-division codes and met
     "GB-SCT": "スコットランド"
 }
 ```
+### Usage
+The data itself is intended to be language agnostic to allow for implementations across numerous languages.
+
+Example implementations can be found below:
+
+#### PHP (packagist)
+https://packagist.org/packages/mjdymalla/iso3166-php (https://github.com/MJDymalla/ISO3166-PHP)
 
 ### Data Sources
 #### Symfony/Intl:
