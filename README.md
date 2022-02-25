@@ -53,8 +53,11 @@ The data itself is intended to be language agnostic to allow for implementations
 
 Example implementations can be found below:
 
+#### NPM
+https://www.npmjs.com/package/iso3166-library
+
 #### PHP (packagist)
-https://packagist.org/packages/mjdymalla/iso3166-php (https://github.com/MJDymalla/ISO3166-PHP)
+https://packagist.org/packages/mjdymalla/iso3166-php
 
 ### Data Sources
 #### Symfony/Intl:
